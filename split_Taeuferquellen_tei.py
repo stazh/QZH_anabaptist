@@ -127,7 +127,7 @@ def build_header(head_text: str | None, idno_text: str | None, iso_date: str | N
     rs = tei_sub(seriesStmt, "respStmt")
     tei_sub(rs, "persName", "Christian Scheidegger, Tobias Jammerthal")
     tei_sub(rs, "resp", "Herausgeberschaft")
-    tei_sub(seriesStmt, "idno", "QZH_150")
+    tei_sub(seriesStmt, "idno", idno_text or "QZH_150")
 
     sourceDesc = tei_sub(fileDesc, "sourceDesc")
     msDesc = tei_sub(sourceDesc, "msDesc")
@@ -246,13 +246,22 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
             head_el = res[0]
         head_text = extract_first_text(head_el)
 
-        # original (source reference)
+        # Vorlage oder Original (exklusiv)
+        idno_text = ""
+        vorlage_el = None
         original_el = None
         for v in d.xpath(xp("div"), namespaces=nsmap):
-            if v.get("type") == "original":
+            if v.get("type") == "vorlage":
+                vorlage_el = v
+                break
+            elif v.get("type") == "original":
                 original_el = v
                 break
-        idno_text = clean_vorlage(extract_first_text(original_el) or "")
+        if vorlage_el is not None:
+            # Nur bei <div type="vorlage">: Text bereinigen
+            idno_text = clean_vorlage(extract_first_text(vorlage_el) or "")
+        elif original_el is not None:
+            idno_text = clean_vorlage(extract_first_text(original_el) or "")
 
         # source date
         iso_when = None
@@ -267,35 +276,29 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
         editorial_notes = []
         for n in d.xpath(xp("note"), namespaces=nsmap):
             if n.get("type") == "editorial":
-                editorial_notes.append(n)
+                # Prüfe, ob <note type="editorial"> innerhalb von <head> steht
+                in_head = False
+                for ancestor in n.iterancestors():
+                    if ancestor.tag == f"{{{TEI_NS}}}head":
+                        in_head = True
+                        break
+                if in_head:
+                    editorial_notes.append(n)
 
         # TEI-Baum bauen
         tei_root = build_tei_tree(head_text, idno_text, iso_when, p_nodes, editorial_notes)
 
-        # Stylesheet-PI vor Root setzen
+        series_idno = f"QZH_{idx}"
+        tei_root = build_tei_tree(head_text, series_idno, iso_when, p_nodes, editorial_notes)
         pi = etree.ProcessingInstruction(
             "xml-stylesheet", "type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'"
         )
         tei_tree = etree.ElementTree(tei_root)
         tei_root.addprevious(pi)
 
-        # Dateiname: optional mit <head>
-
-        safe_head = (head_text or "").strip()
-        safe_head = re.sub(r"\s+", "_", safe_head)
-        safe_head = re.sub(r"[^\w\-_.]", "", safe_head, flags=re.UNICODE)
-        # Begrenze safe_head auf 80 Zeichen, damit der gesamte Dateiname < 100 Zeichen bleibt
-        max_head_len = 80
-        if len(safe_head) > max_head_len:
-            safe_head = safe_head[:max_head_len].rstrip('_')
-        suffix = f"_{safe_head}" if safe_head else ""
-        filename = f"{prefix}_{idx:03d}{suffix}.xml"
-        # Falls der Dateiname immer noch zu lang ist, kürzen
-        max_filename_len = 100
-        if len(filename) > max_filename_len:
-            filename = filename[:max_filename_len-4] + ".xml"
+        # Dateiname: QZH_<Nummer>.xml
+        filename = f"QZH_{idx}.xml"
         out_path = outdir / filename
-
         # Schreiben
         tei_tree.write(
             str(out_path),
