@@ -103,7 +103,7 @@ def tei_sub(parent, tag, text=None, **attrib):
         el.text = text
     return el
 
-def build_header(head_text: str | None, idno_text: str | None, iso_date: str | None) -> etree._Element:
+def build_header(head_text: str | None, idno_text: str | None, iso_date: str | None, qgts_nr: str | None = None) -> etree._Element:
     teiHeader = tei_el("teiHeader")
 
     fileDesc = tei_sub(teiHeader, "fileDesc")
@@ -154,6 +154,19 @@ def build_header(head_text: str | None, idno_text: str | None, iso_date: str | N
 
     history = tei_sub(msDesc, "history")
     tei_sub(history, "origin", "")
+    # optionales <additional> direkt unter <history>
+    if qgts_nr:
+        additional = tei_sub(history, "additional")
+        listBibl = tei_sub(additional, "listBibl")
+        tei_sub(listBibl, "head", "Edition")
+        # <bibl><bibl><ref target="...">QGTS</ref>, Bd. 5, Nr. {qgts_nr}</bibl></bibl>
+        bibl_outer = tei_sub(listBibl, "bibl")
+        bibl_inner = tei_sub(bibl_outer, "bibl")
+        ref_el = tei_sub(bibl_inner, "ref", "QGTS", **{"target": "https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"})
+        # Text nach dem ref: ", Bd. 5, Nr. {qgts_nr}"
+        # Anhängen als Tail am ref-Element
+        if ref_el is not None:
+            ref_el.tail = f", Bd. 5, Nr. {qgts_nr}"
 
     encodingDesc = tei_sub(teiHeader, "encodingDesc")
     editorialDecl = tei_sub(encodingDesc, "editorialDecl")
@@ -166,11 +179,11 @@ def build_header(head_text: str | None, idno_text: str | None, iso_date: str | N
 
     return teiHeader
 
-def build_tei_tree(head_text, idno_text, iso_date, p_nodes, editorial_notes):
+def build_tei_tree(head_text, idno_text, iso_date, p_nodes, editorial_notes, qgts_nr: str | None = None):
     # Root mit Namespaces
     root = etree.Element("{%s}TEI" % TEI_NS, nsmap={None: TEI_NS, "xsi": XSI_NS})
     # Header
-    teiHeader = build_header(head_text, idno_text, iso_date)
+    teiHeader = build_header(head_text, idno_text, iso_date, qgts_nr)
     root.append(teiHeader)
 
     # Text / Body
@@ -232,7 +245,8 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
         print('Keine <div type="document">-Elemente gefunden.')
         return
 
-    for idx, d in enumerate(doc_divs, start=1):
+    # Nummerierung startet bei 150 (QZH_150...)
+    for idx, d in enumerate(doc_divs, start=150):
         # p-Knoten innerhalb des Dokument-div (rekursiv)
         p_nodes = []
         for p in d.xpath(xp("p"), namespaces=nsmap):
@@ -263,12 +277,16 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
         elif original_el is not None:
             idno_text = clean_vorlage(extract_first_text(original_el) or "")
 
-        # source date
+        # source date und QGTS-Nummer (n-Attribut)
         iso_when = None
+        qgts_nr = None
         for s_el in d.xpath(xp("div"), namespaces=nsmap):
             if s_el.get("type") == "source":
                 date_attr = s_el.get("date") or ""
                 iso_when = to_iso_date(date_attr)
+                # n-Attribut als QGTS-Nummer verwenden (falls vorhanden)
+                if s_el.get("n"):
+                    qgts_nr = s_el.get("n")
                 if iso_when:
                     break
 
@@ -286,10 +304,8 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
                     editorial_notes.append(n)
 
         # TEI-Baum bauen
-        tei_root = build_tei_tree(head_text, idno_text, iso_when, p_nodes, editorial_notes)
-
         series_idno = f"QZH_{idx}"
-        tei_root = build_tei_tree(head_text, series_idno, iso_when, p_nodes, editorial_notes)
+        tei_root = build_tei_tree(head_text, series_idno, iso_when, p_nodes, editorial_notes, qgts_nr)
         pi = etree.ProcessingInstruction(
             "xml-stylesheet", "type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'"
         )
