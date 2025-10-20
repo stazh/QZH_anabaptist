@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_794</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_794</idno>
+          </msIdentifier>
+          <head>Matthias Grüninger an Hans Heinrich
+                                                  Schneeberger und Hans
+                                                  Thoman Schwerzenbach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1606-06-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 645</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min frünttlicher grůß und bereydt dienst sigend üweren eerenvest wissheitten zubevor. Fromme, edle, eerenveste, fürsichtige, wyse herren und eydtgnoßen, ess hatt sich<persName ref="Lips, Anna">Anna Lipps</persName>von Räbstall<note type="editorial"> Reppischtal</note><placeName ref="Reppischtal"/> üwerer ampttßverwalttung
+                                                  theilß angehörig inn die böse sect deren
+                                                  widertaüfferen begäben, daß land gerumptt und
+                                                  albereytt ein lange zitt inn<placeName ref="Mähren">Merheren</placeName>irem abfaal gmäß sich
+                                                  verhaltten<note type="editorial"> sich aufhalten,
+                                                  Grimm 25, 513.</note>. Nun wird ich glaubwürdig
+                                                  berichtett, daß selbige hinder anderen auch an
+                                                  benampttem ortt wohnenden Lipsen nitt allein
+                                                  stächend<note type="editorial"> ‘verpfändet’ oder
+                                                  nur ‘anheimgestellt’, Id. XI, 493-564.</note>
+                                                  habe, sonder alss verfallen zu bezüchen und
+                                                  erhäben begäre ein zimliche summa gelttss, wie
+                                                  sich dan selbige anlauffen möchte.</p>
+                                                  <p>Diewil dann an denen enden, wo gedachter
+                                                  Räbstall ligtt, minen gnädigen herren und oberen
+                                                  der achtt altten ortten<note type="editorial"> Die
+                                                  seit 1353 aus acht Orten bestehende
+                                                  Eidgenossenschaft verwaltete die Grafschaft
+                                                  Baden.</note> die hoche und malfitz gerichtt
+                                                  zuständig sind und gebürend, diser aber Anna Lipss
+                                                  begangne fäler lutt deß eidtß, welichen die
+                                                  underthanen jedem landtvogtt zethuon schuldig auch
+                                                  würcklichen thund, malefitzisch<note type="editorial"> dem Hochgericht verfallen, Id.
+                                                  IV, 167.</note> ist und schließlich der hochen
+                                                  oberkeitt zugehörend, langett an e[uer] e[ren]vest
+                                                  w[yß]h[ei]t[e]n min frünttlicheß begären, sich
+                                                  disern Ann Lipß gefalnem gutt nachfragen und
+                                                  selbigeß inn verhafftt<note type="editorial">
+                                                  Arrest, Beschlagnahme, Id. II, 1055.</note> leggen
+                                                  wöllend, so lang und vil, biß alleß grundtlicher
+                                                  erdurett<note type="editorial"> prüfen, Id. XIII,
+                                                  1297-1300.</note> und darinne nach gebür
+                                                  verhandlett wärden mag. Welcheß min gnädig herren
+                                                  und oberen zu hochem gefallen, ich aber zu
+                                                  sonderbarem danck uffnemmen will. Uf daß aber e.
+                                                  evst. whten. desto beßer sächen mögend, waß maßen
+                                                  die sach inn der graffschafftt<placeName ref="Baden (Landgrafschaft)">Baden</placeName>uß gemeinem
+                                                  ansächen aller daßelbst regierenden ortten disen
+                                                  fäler beträffende beschaffen, hab ich nitt wöllen
+                                                  underlaßen die zwen articul, so uff selbigen
+                                                  luttend und ye zu zweyen jaren daruff geschworen
+                                                  wirdt, denen selbigen von wortt zů wortt
+                                                  abcopiertt zůzeschicken.<note type="editorial">
+                                                  Die Auszüge liegen dem Schreiben bei und besagen
+                                                  zusammenfassend: Zum Sechsten soll niemand die
+                                                  Täufer beherbergen, stattdesen sind sie gefangen
+                                                  im Schloss abzuliefern. Zum 16. und letzten soll
+                                                  der Besitz von Täufern, die nach Mähren
+                                                  auswandern, konfisziert werden.</note> Wo ich
+                                                  denen ferner alle lieb und dienst kan bewisen, bin
+                                                  ich deßen gantz begierig, unß göttlichem schirm
+                                                  hiemitt wol vertruwende. Datum Baden 2. junij
+                                                  a[nn]o 1606.</p>
+                                                  <p rend="margin-top">Ewer eerenvest whtn.
+                                                  gůttwilliger</p>
+                                                  <p>Matthiaß Grüeninger, landtvogtt der
+                                                  graffschafftt<placeName ref="Baden">Baden</placeName>imm
+                                                  Ergöw</p>
+                                                  <p rend="margin-top">Den frommen, edlen,
+                                                  ernvesten, fürsichtigen und wyßen herrn N.
+                                                  Schneebergern etc. und herren N. Schwerzenbach des
+                                                  raths der statt<placeName ref="Zürich">Zürich</placeName>,
+                                                  minen sonders vertruwten herren und
+                                                  eydtgnossen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

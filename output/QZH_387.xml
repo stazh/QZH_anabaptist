@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_387</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_387</idno>
+          </msIdentifier>
+          <head>Bevollmächtigung des Grafen Friedrich von
+                                                  Zierotin</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1579-06-30"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 238</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ich, Friderych herr von Zierotyn und auff
+                                                  Selowitz und<placeName ref="Pouzdřany">Pausram</placeName>,
+                                                  gelegen jnn dem marggrafthumb<placeName ref="Mähren">Märhern</placeName>, röm[ischer] kay[serlicher] auch zu<placeName ref="Ungarn">Hungern</placeName>unnd Pehaimb<note type="editorial"> Ungarn und
+                                                  Böhmen</note><placeName ref="Böhmen"/>
+                                                  kö[niglicher] m[ajestä]t<note type="critical">Folgt getilgt: obersten</note>hoffkriegßrath etc. bekhenne hiemit, das an heut underschribnen dato vor mir erschynen sindt mit<persName ref="Moser, Felix">namen Felix</persName>unnd<persName ref="Moser, Debes">Debeß Moser</persName>, geprüeder, sampt jrer<persName ref="Moser, Anna">schwester Anna</persName>, weiland<note type="editorial"> vormals und jetzt, Id. XV, 1254.</note><persName ref="Moser, Christian">Christan Mosers</persName>und seiner eelichen<persName ref="Moser, Kathrina">haußfrauwen Kathrina</persName>sesshafft zu<placeName ref="Alstetten">Altsteten</placeName>jn Züricher
+                                                  biett eeleibliche söne und tochter, yetzund allhie
+                                                  under mir zu Pribitz<note type="editorial">
+                                                  Přibice in Tschechien.</note><placeName ref="Přibice"/> unnd Pausram jn meiner herrschafft
+                                                  all drei wonhafft, anzaigende, wie das sy noch jr
+                                                  vätter- unnd müetterlich erbgepüer<note type="editorial"> Erbanteil, Id. IV, 1531.</note>vom verkaufften hauß und zugehörung, darüber<persName ref="Kleger, Bernhard">Bernhart Kleger</persName>zu gmeltem<note type="editorial"> erwähntem</note>
+                                                  Altsteten jr gsetzter vogt seie, zu ersuechen unnd
+                                                  einzubringen hetten. Aber des verren<note type="editorial"> weiten</note> wegs, personlicher
+                                                  müe unnd uncosstens sich zu überheben<note type="editorial"> sich enthalten, Id. II,
+                                                  892.</note>, seyen sie zů gleich einhelliges beschluß unnd willens, jren vollmechtigen gwallt hie von meiner gegenwertigkait auffzugeben, überschicken unnd bevelhen jrem wolbekanndten unnd getrewen<persName ref="Hotz, Hans">Hannß Hotzen</persName>,
+                                                  brieffsweiser<note type="editorial"> Vorzeiger der
+                                                  Briefs, Grimm 28, 1107.</note>, mit
+                                                  unndterthenigster bitt mich angelanngt, ich wollt
+                                                  jne dessen schrifftlich urkundt under meinem aigen
+                                                  jnnsigill<note type="editorial"> Siegel, Id. VII,
+                                                  496.</note> becrefftigt gunstigclich mittailen.
+                                                  Und auff mein zugeben und bewilligung zaigen sie
+                                                  verrer eintrechtigclich an, das sie hiemit
+                                                  wissentlich jnn aller bessten form, maß unnd
+                                                  gstalt, als das nach yedes lannd und orts sitt und
+                                                  recht am bestenndigsten sein soll, kan oder mag,
+                                                  jnn crafft ditz brieves übergeben und bevelhen
+                                                  jren vollkommen gwalt und macht merernenntem jrem
+                                                  getrewen Hannß Hotzen, zaigern ditz brieves, also
+                                                  das er soll unnd mög an jrer stat unnd jnn jrem
+                                                  namen vor obrigkait und gericht erscheinen,
+                                                  gemellt jr vatter- unnd müetterlich erbgepüer und
+                                                  zustanndt<note type="editorial"> Vermögen, Grimm
+                                                  32, 843f.</note>, alles darzu sy recht und fueg
+                                                  haben, bey gedachtem Bernhart Kleger, jrem vogt,
+                                                  zu ersuͤchen, fordern unnd einzubringen, das gellt
+                                                  zu empfahen zu sein hannden, umb den empfanng
+                                                  quittieren oder sonnst nach gepüer den
+                                                  überanntworter ledig zelen und versichern unnd
+                                                  alles ander, sovil unnd was jm zum hanndel und
+                                                  güetlicher einbringung von nöten, thuen und
+                                                  handlen, alls ob sie selbs personlich gegenwertig
+                                                  weren. Über welchen empfanng und seine hanndlung
+                                                  sie alßdenn gegen niemand auch niemands von
+                                                  jrentwegen weiter derhalben nicht zu fordern
+                                                  zesprechen, noch ainigerlej fürzunehmen haben jn
+                                                  keinerley weg noch weiß zu keiner zeit, sonnder
+                                                  alle hanndlung stät unnd vesst bleiben lassen
+                                                  sollen unnd wöllen treulich und ongeverde. Alls
+                                                  ich nun dises jren gänntzlichen willen, sinn und
+                                                  mainung sein verstannden und sie für glaubwirdig
+                                                  erkenne, hab jch jr vleissig bitt nit abschlahen
+                                                  wöllen. Derhalben zu urkundt und glauben jne dise
+                                                  gwaltsverschreibung<note type="editorial">
+                                                  schriftliche Vollmacht</note> thuen geben, mein
+                                                  aigen angeborn jnnsigill hieunden auffgedruckt und
+                                                  mich benebens mit aigner handt undterschriben,
+                                                  freundtlicher bitt zu allen und yeden, was wirden
+                                                  und stands die seien, da gedachter gwallttrager
+                                                  und machtpot<note type="editorial">
+                                                  bevollmächtigter Gesandter, Id. IV, 1887.</note>
+                                                  derhalben zu thuen und handlen haben wirdtt, die
+                                                  wöllen jme jmselben hülfflich, fürderlich und
+                                                  erstattlich sein, welches steet mir widerumb gegen
+                                                  einem yeden nach seiner gepüer zuverschulden.
+                                                  Beschehen und geben den letzten tag des monats
+                                                  iunij nach Christi, unsers lieben herren und
+                                                  hailandts geburt tausent fünffhundert neun und
+                                                  sibentzig jare.<note type="critical">Folgt die
+                                                  Unterschrift (fzzierotin) und das
+                                                  Papiersiegel.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

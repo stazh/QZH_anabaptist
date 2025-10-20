@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_449</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_449</idno>
+          </msIdentifier>
+          <head>Verzeichnis der Auswanderer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1584-08-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 300</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Wittmeier, Heinrich">Hainrich Wittmaier</persName>von Deitigkhaim<note type="editorial"> Dietikon</note><placeName ref="Dietikon"/></p>
+                                                  <p><persName ref="Reitlinger, Anna">Anna Reittlingerin</persName>sein hausfraw</p>
+                                                  <p><persName ref="Meier, Michel">Michel Maier</persName>von
+                                                  Aldtsteten<note type="editorial">
+                                                  Altstetten</note><placeName ref="Alstetten"/></p>
+                                                  <p><persName ref="Meier, Margeth">Margretha Maieri</persName>n sein hausfraw</p>
+                                                  <p><persName ref="Reiss, Heinrich">Heinrich Reiß</persName>von Deittigkhaim</p>
+                                                  <p><persName ref="Reiter, Jakob">Jacob Reitter</persName>von Permeßdorff<note type="editorial">
+                                                  Birmensdorf</note><placeName ref="Birmensdorf"/></p>
+                                                  <p><persName ref="Hotz, Hans">Hanß Hotz</persName>von
+                                                  Wedenschweil<note type="editorial">
+                                                  Wädenswil</note><placeName ref="Wädenswil"/></p>
+                                                  <p><persName ref="Stocker, Elisabeth">Elisabeth Stockerin</persName>sein hausfraw</p>
+                                                  <p><persName ref="Huber, Ruedi">Ruede Hueber</persName>von
+                                                  Bonstetten<note type="critical">In der Vorlage:
+                                                  B(in)stetten (Lesung unsicher)</note><placeName ref="Bonstetten"/></p>
+                                                  <p><persName ref="Meier, Michael">Michael Maier</persName>von Wetteschweil<note type="editorial">
+                                                  Wettswil</note><placeName ref="Wettswil"/></p>
+                                                  <p><persName ref="Paur, Ulrich">Ulrich Paur</persName>deselbst</p>
+                                                  <p><persName ref="Höck, Veronika">Veronica Höckhin</persName>sein hausfraw</p>
+                                                  <p><persName ref="Ers, Margreth">Margreth Ersin</persName>,
+                                                  Heinrich Renckher von Brangartten<note type="editorial"> Bremgarten</note><placeName ref="Bremgarten"/> hausfraw</p>
+                                                  <p><persName ref="Trechtler, Thomas">Thomas Trechtler</persName>von Permenßdorff</p>
+                                                  <p><persName ref="Kaufmann, Elisabeth">Elisabeth Kauffmennin</persName>sein hausfraw</p>
+                                                  <p><persName ref="Höck, Agnes">Agnes Hockhin</persName>,<persName ref="Huser, Johannes">Hansen Hausers</persName>von Permenßdorff hausfraw</p>
+                                                  <p><persName ref="Wittmeier, Hans">Hanß Wittmaier</persName>von Deittighaim</p>
+                                                  <p><persName ref="Ryser, Agnes">Agnes Rayserin</persName>sein hausfraw</p>
+                                                  <p><persName ref="Hedinger, Ulrich">Ulrich Hedinger</persName>von Permenßdorff</p>
+                                                  <p><persName ref="Schneider, Veronika">Veronica Schneiderin</persName>sein hausfraw</p>
+                                                  <p><persName ref="Müller, Anna">Anna Millerin</persName>daselbst</p>
+                                                  <p><persName ref="Müller, Elisabeth">Elisabeth Millerin</persName>von Tissa</p>
+                                                  <p>Sara Peurin<persName ref="Paur, Sara">von Zürch</persName><placeName ref="Zürich"/></p>
+                                                  <p><persName ref="Lips, Margreth">Margeth Lipsse</persName>von Uhdroff<note type="editorial">
+                                                  Urdorf</note><placeName ref="Urdorf"/></p>
+                                                  <p><persName ref="Mest, Margreth">Margreth Mehstin</persName></p>
+                                                  <p><persName ref="Schneider, Anna">Anna Scheiderin</persName>&gt; ^#.} von Permenßdorff</p>
+                                                  <p><persName ref="Wölin, Elisabeth">Elisabeth Wöllin</persName></p>
+                                                  <p><persName ref="Dehin, Barbara">Barbara Dehin</persName>von Aasch<note type="editorial">
+                                                  Aesch</note><placeName ref="Aesch"/></p>
+                                                  <p rend="margin-top">Und dan die vier Gaisell:</p>
+                                                  <p><persName ref="Hofmann, Heinrich">Hainrich Hoffman</persName>von Wettenschweil</p>
+                                                  <p><persName ref="Huser, Johannes">Hanß Hauser</persName>von Permenßdorff</p>
+                                                  <p><persName ref="Rank, Heinrich">Heinrich Renckher</persName>von Premgarten</p>
+                                                  <p><persName ref="Peyer, Marx">Marx Bayer</persName>von<placeName ref="Dietikon">Deuttighaim</placeName></p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Verpflichtung</p>
+    </back>
+  </text>
+</TEI>

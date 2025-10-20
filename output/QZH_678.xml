@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_678</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_678</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Steiner (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1599-12-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 529</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren früntlichen geneigten willen unnd
+                                                  alles gůts zůvor. Frommer, vester, besonders
+                                                  gethrüwer, lieber landtseß<note type="editorial">
+                                                  hier der Inhaber eines Herrschaftssitzes, Id. VII,
+                                                  1362.</note>, der unnser Clein<persName ref="Gisler, Kleinheinrich">Heinrich Gyßler</persName>von<placeName ref="Hüntwangen">Hüntwangen</placeName>,
+                                                  zeiger<note type="editorial"> Bote, Überbringer
+                                                  und Vorzeiger eines Briefs, Id. XVII, 393.</note>diß, hatt unns berichtet: Nachdem syner frauwen schwöster<persName ref="Meyer, Küngold">Küngolth Meyerin</persName>,<persName ref="Breisacher, Hans">Hanß Brysachers</persName>zů<note type="critical">«zů» über der Zeile, in der Zeile gestrichen:
+                                                  von</note><placeName ref="Neftenbach">Neftenbach</placeName>seligen witwe, verschinner<note type="editorial">
+                                                  vergangener</note> jaren der ­toüf­ferischen sect
+                                                  nach jnn das land<placeName ref="Mähren">Merhern</placeName>gezogen unnd man jetzt jnn die dryzechen [jar] gar
+                                                  nützit von jro vernommen unnd also er als nechst
+                                                  verwandter derselben syner gschwygen<note type="editorial"> Schwägerin</note> gebürenden
+                                                  theil gůts deß 160 g[ulden], so<note type="critical">«so» über der Zeile, in der Zeile
+                                                  gestrichen: unnd</note> uff den Meyeren zů Käl
+                                                  stadt, zů synen handen zezüchen unnd nach gebür
+                                                  zůversicheren begert, biß man eigentlich erfare,
+                                                  ob bemelte Küngoltha<note type="critical">Folgt
+                                                  gestrichen: tod</note> noch jnn läben oder nit,
+                                                  habest du jme söllich gůt nit volgen laßen wellen,
+                                                  sonnders vermeinet, dasselbig dir von oberkeit
+                                                  wegen uß krafft der ußganngnen mandaten wider die
+                                                  ­toüf­ferisch sect heimbgefallen syn sölle. Deßen
+                                                  er beschwert mit bitt, wir jme hierjnnen unnser
+                                                  hilf unnd rath erzeigen welten. Unnd wann nun wir
+                                                  diser sachen halben noch<note type="critical">«noch» über der Zeile</note> nit gnůgsamen
+                                                  bericht habent unnd darby<note type="critical">«darby» am Rand mit Verweiszeichen</note> nit
+                                                  wüßen mögend, ob du zů dem ­toüf­fergůt, so die
+                                                  unnseren jnn der graffschafft<placeName ref="Kyburg">Kyburg</placeName>jnn der herrschafft<placeName ref="Wülflingen">Wülflingen</placeName>staan unnd
+                                                  ligen habent, fůg unnd recht zehaben vermeinest,
+                                                  dasselbig als verfallen zů dynen handen
+                                                  zůbezüchen, so begerend wir an dich, du wellist
+                                                  unns gstaltsamme diser sachen unnd deß gůts
+                                                  halber<note type="critical">«halber» über der
+                                                  Zeile</note> unnd weß du hierjnnen gesinnet unnd
+                                                  befügt syn gedenckist, verstendigen, damit wir
+                                                  unns verner darnach jnn gebür zůverhalten unnd
+                                                  auch dem Gyßler mit bscheidt zůbegegnen wüßint.
+                                                  Datum mentags den 10. d. decembris anno etc.
+                                                  99.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, vesten, unnserm
+                                                  besonders gethrüwen, lieben landtseßen Heinrichen
+                                                  Steiner zů Wülflingen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

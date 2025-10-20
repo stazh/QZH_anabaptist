@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_670</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_670</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Salomon Hirzel (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1599-07-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 521</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unßeren günstigen gneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger unnd vogt, es sinnd<note type="critical">Folgt gestrichen: unnß</note>
+                                                  dißer tagen<note type="critical">Folgt gestrichen:
+                                                  zween t</note> zwo mans personen mitnammen
+                                                  Heinrich<note type="critical">korrigiert,
+                                                  ursprünglich: Heinrichen</note> Pfister<persName ref="Pfister, Heinrich"/><bm id="236"/> von
+                                                  Wädeschwyl<note type="critical">Folgt gestrichen:
+                                                  bu</note><placeName ref="Wädenswil"/>unnd<persName ref="Riedel, Jörg">Jörg Riedel</persName>uß dem<placeName ref="Allgäu">Algoüw</placeName>bürttig, so der
+                                                  ­toüf­ferischen sect anhengig unnd als leerer
+                                                  derselben uß<placeName ref="Mähren">Merherrn</placeName>jnn
+                                                  dißere lannd ußgesant<note type="critical">korrigiert, ursprünglich: abgesant</note>,
+                                                  unns<note type="critical">«unns» über der Zeile,
+                                                  in der Zeile gestrichen: worden</note> von<placeName ref="Meilen">Meilen</placeName>gfängklich<note type="critical">Folgt gestrichen: alhar</note>
+                                                  zůgefuͤrt worden. Da wir dann uß<note type="critical">Folgt gestrichen: der</note> jren
+                                                  gegäbnen antwort<note type="critical">«antwort»
+                                                  über der Zeile, in der Zeile gestrichen:
+                                                  bericht</note> unnd dornebent<note type="critical">«dornebent» am Rand</note> sonnsten<note type="critical">Folgt gestrichen:
+                                                  brichtswyß</note> berichtet worden, das nit nun
+                                                  allein sy beid, sonder ouch zůvor andere jres
+                                                  glychen personen<note type="critical">«nit nun …
+                                                  personen» am Rand, in der Zeile gestrichen: sy
+                                                  beid</note> jnn unßer<note type="critical">«unßer»
+                                                  über der Zeile, in der Zeile gestrichen:
+                                                  der</note> herrschafft Wedeschwyl dyner
+                                                  ambtsverwaltung one alles schüchen<note type="critical">Folgt gestrichen: unnd zum theil
+                                                  offentlicher wys one einich abmannen […] jren
+                                                  wandel gehebt</note> unnd abmannen jren wanndel
+                                                  gehebt, etliche mal<note type="critical">«etliche
+                                                  mal» am Rand mit Verweiszeichen, folgt dort
+                                                  gestrichen: meermaln. In der Zeile gestrichen:
+                                                  unnd zum theil offentlicher wys</note> geprediget
+                                                  unnd von jungem unnd altem volck eben vil zůlouffs
+                                                  unnd underschlouffs gehebt, an wellichem wir
+                                                  zwaren ein treffenlich<note type="editorial">
+                                                  stark, besonders, Id. XIV, 393.</note> hochs
+                                                  beduren unnd mißfallen empfangen unnd heten unns
+                                                  versechen<note type="editorial"> erwarten, Id.
+                                                  VII, 566f.</note>
+                                                  <note type="critical">Folgt gestrichen: du
+                                                  het</note>, das du dißer sachen tragenden ambts
+                                                  und pflicht<note type="critical">Folgt gestrichen:
+                                                  halber</note> nach<note type="critical">«tragenden
+                                                  ambts und pflicht nach» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen: als die
+                                                  dier unßers bedunckens nit allerings unrwüssent
+                                                  gsy beschechen dynem pflicht unnd ambt nach</note>
+                                                  ein bessere rechnung gehebt<note type="critical">Folgt gestrichen: unnd</note>, unßere deßhalb
+                                                  ußgangnen<note type="critical">Folgt gestrichen:
+                                                  manda</note> christenlichen mandat jnn besserem
+                                                  schirm erhalten unnd söllich schädliche und
+                                                  verfürische lüth by zyten abgeschaft hetist. Wyl
+                                                  aber sölliches nit beschechen, haben wir<note type="critical">Folgt gestrichen: dic nit umbgahn
+                                                  tragenden ambts unnd</note> oberkeitlichen
+                                                  ambts<note type="critical">korrigiert,
+                                                  ursprünglich: oberkeits</note> halben nit umbgohn
+                                                  söllen noch wöllen, dich dess alleßen<note type="critical">Folgt gestrichen: hiemit zů
+                                                  erjnn</note> unnd unßerer deßhalben ußgangnen
+                                                  mandaten hiemit zůerjnneren und was bedänckens es
+                                                  by mängklichem<note type="editorial"> jedem</note>
+                                                  bringen werde, dir hiemit<note type="critical">«was bedänckens … hiemit» am Rand mit
+                                                  Verweiszeichen</note> zů sinn zeleggen. Unnd jst
+                                                  hieruf nochmolen<note type="critical">«nochmolen»
+                                                  über der Zeile, in der Zeile gestrichen:
+                                                  nachmaln</note> unßer ernstlich bevelch unnd
+                                                  meinung, das du unßere<note type="critical">Folgt
+                                                  gestrichen: vorus gangnen m</note> deßhalben
+                                                  vorusgangnen mandat unnd satzungen widerumb herfür
+                                                  suchst und<note type="critical">«widerumb herfür
+                                                  suchst und» am Rand mit Verweiszeichen</note>
+                                                  allenthalben jnn dyner ambtsverwaltung offentlich
+                                                  verkünden<note type="critical">Folgt gestrichen:
+                                                  unnd mängklichen warnen laßi</note> laßist,
+                                                  mengklichen der bißhar wider dieselben, es syge
+                                                  jnn einen ald<note type="editorial"> oder</note>
+                                                  den anderen weg gehandlet, sonderlich die
+                                                  jhenigen, [so]<note type="critical">aufgrund der
+                                                  Bindung nicht lesbar</note> derglychen verfürische
+                                                  [leerer]<note type="critical">aufgrund der Bindung
+                                                  nicht lesbar</note> ynzogen<note type="editorial">
+                                                  aufnehmen, Id. XVII, 1002.</note> und
+                                                  beherberget<note type="critical">«sonderlich die
+                                                  jhenigen … beherberget» am Rand mit
+                                                  Verweiszeichen, aufgrund der Bindung ist nicht
+                                                  alles lesbar.</note> nach luth unnd jnnhalt der
+                                                  mandaten<note type="critical">«mandaten» über der
+                                                  Zeile, in der Zeile gestrichen: selben</note>
+                                                  büßist unnd straffist, jnnsonderheit aber uff die
+                                                  personen, so obgehörter gstalt als leerer der
+                                                  ­toüf­ferischen sect ußgesant<note type="critical">Folgt gestrichen: da als die jnn v</note>, deren
+                                                  wie wir berichtet hin und wider<note type="critical">Folgt gestrichen: ein gůte anzal
+                                                  syn</note> [no]ch<note type="critical">aufgrund
+                                                  der Bindung nicht vollständig lesbar</note> meer
+                                                  verhanden<note type="critical">«[no]ch meer
+                                                  verhanden» am Rand</note> [syn] sollen, unnd aber
+                                                  nützit anders jnn unßeren landen<note type="critical">Folgt gestrichen: nütz[…]</note>
+                                                  nützend, dann<note type="critical">Folgt
+                                                  gestrichen: das sy</note> unßer volck unrüwige,
+                                                  ufrürisch und unghorsam zemachen<note type="critical">korrigiert, ursprünglich:
+                                                  machend</note>, dyn flyßige spech<note type="editorial"> Nachforschung, Fahndung, Id. X,
+                                                  76.</note> unnd ufsechens habist unnd, wo du
+                                                  derselben einiche<note type="critical">Folgt
+                                                  gestrichen: betref</note> beträten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+                                                  1486.</note>, unns verwart zůfüren lassist, damit
+                                                  wir uns<note type="critical">«uns» über der
+                                                  Zeile</note> gegen<note type="critical">Folgt über
+                                                  der Zeile gestrichen: uns</note> denselben der
+                                                  gebür zůverhalten wüssend unnd<note type="critical">Folgt gestrichen: meerer</note>
+                                                  fernerer hierus<note type="critical">Folgt
+                                                  gestrichen: wytlo beso</note> ervolgender und
+                                                  besorgender wytloüffigkeit<note type="critical">Folgt gestrichen: abge</note> fürkommen und
+                                                  abgeschafft werden möge, wie wir unns zů dir
+                                                  versechen wellend, du [al]s dem wir sonsten [mi]t
+                                                  günstigem willen [ge]neigt<note type="critical">«[…]s dem … […]neigt» am Rand mit Verweiszeichen,
+                                                  aufgrund der Bindung ist nicht alles
+                                                  lesbar.</note>, hinfür an dynem flyß und yfer nit
+                                                  ermanglen lassen werdist. Datum den 25ten julij
+                                                  anno etc. 99.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unßerem
+                                                  besonders gethrüwen, lieben burger unnd vogt zů<placeName ref="Wädenswil">Wedeschwyl</placeName>Salomon
+                                                  Hirtzeln.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

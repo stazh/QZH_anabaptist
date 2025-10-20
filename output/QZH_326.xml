@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_326</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_326</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Matthias
+                                                  Schmid
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1573-01-26"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 177</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsernn günnstigen geneigen willenn unnd alles
+                                                  gutß zuvor. Frommer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, wir sinnd bericht, wie
+                                                  daß der […]<note type="critical">Lesung
+                                                  unklar</note> Fridlj Brem<note type="critical">korrigiert, ursprünglich: Bremen</note><persName ref="Bräm, Fridli"/> von Sünnicken<note type="critical">«Brem von Sünnicken» am
+                                                  Rand</note><placeName ref="Sünikon"/>, so wir
+                                                  behaffter ­toüf­ferischer sect halber ein lannge
+                                                  zyt jnn unnser gefängknuß jnn unnser statt<note type="critical">«jnn unnser statt» am Rand, in der
+                                                  Zeile gestrichen: dem Wellenberg</note> liggen
+                                                  gehept, mit tod abganngen unnd uß diser zyt
+                                                  verschieden syge. Unnd diewyl dann<note type="critical">Folgt gestrichen: geme</note> uff
+                                                  gemeltem<note type="editorial"> erwähntem</note>
+                                                  Fridlj, die zyt er also jnn banndenn gewesenn,
+                                                  zwenn unnd fünnffzig guldinn unnser warunng
+                                                  zerunng unnd annderen uncosten ganngen<note type="critical">«zerunng unnd annderen uncosten
+                                                  ganngen» über der Zeile, in der Zeile gestrichen:
+                                                  verzert</note>, weliche unnserem burger unnd geordnneten thurnnhüter<persName ref="Grebel, Hans">Hannsenn Grebel</persName>, so die redlich unnd
+                                                  dhainnß<note type="editorial"> keines</note> wegs
+                                                  uberflüßiger wyß für jnne ußgeben, noch unnbezalt
+                                                  usstannd, so jst unnser bevelch ann dich, du
+                                                  wellist angenntz<note type="editorial"> sofort,
+                                                  Id. II, 19.</note> verschaffen, darob unnd darann
+                                                  synn, damit gemeltem unnserem turnnhütter
+                                                  diserenn, synn usstennde summa, die zwenn unnd
+                                                  fünnffzig guldin, von unnd uß genemptß Fridliß
+                                                  vatterß seligen verlaßennschafft genommen unnd
+                                                  jmme zugestelt unnd überanntwortet werdint. Darann
+                                                  gschicht unnsers gefallen, deß wir umb dich jnn
+                                                  gnadenn zuerkhennen geneigt sinnd. Datum menntags
+                                                  den 26. januarij anno etc. 73.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt<placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem frommen, wysenn unnserm
+                                                  besonnders gethrüwen, liebenn burger unnd vogt zu<placeName ref="Regensberg">Regensperg</placeName>Mathys
+                                                  Schmiden</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

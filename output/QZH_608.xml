@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_608</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_608</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Andreas Bräm (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1593-06-30"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 459</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, demnach unns von unnserm eegricht hieby ligend herr<persName ref="Bluntschli, Johannes">Hans Bluntschlins</persName>deß dechans jm<placeName ref="Freiamt">Frygampt</placeName>an sy beschechen schryben zůgestelt worden, dir
+                                                  darüber bscheid zegeben unnd wir dasselbig uff
+                                                  hütt<note type="critical">Folgt gestrichen:
+                                                  ver</note> abgehört und verstanden, so gebend wir
+                                                  hiemit dir über dasselbig den bevelch, namblich
+                                                  das du die darjnne angezognen ­toüf­ferischen
+                                                  personnen von ambtswegen dahin halten söllist, ohn
+                                                  feernern verzug jre bezognen een<note type="critical">In der Vorlage: eeen</note> mitt
+                                                  offentlichem kilchgang, wie anndere christenliche
+                                                  eelüth thůnd unnd der bruch jst, zůbestetigen unnd
+                                                  zů kilchen zegaand. Woveer<note type="editorial">
+                                                  wenn, Id. I, 914.</note> sy aber das nit thůn
+                                                  wellten, alsdann du nit nun jnen jr hab unnd gůt
+                                                  jnn verbott<note type="editorial"> Sequester,
+                                                  Beschlag, Grimm 25, 152.</note> legen und hand
+                                                  darüber schlachen<note type="editorial"> hand
+                                                  schlahen: Eigentum angreifen</note>, sonders
+                                                  auch<note type="critical">«nit nun … auch» am Rand
+                                                  mit Verweiszeichen</note> zů jnen gryffen laßen
+                                                  unnd sy unns gfengklichen zůschigken, damitt wir
+                                                  ferner gegen jnen nach nothurfft unnd gebür
+                                                  handlen khönind, ob sy vilichter durch söllich
+                                                  mittel zur gehorsamme zebringen.</p>
+                                                  <p>Was dann die jnn gedachtem schryben under
+                                                  annderm auch angezogne ordnung der unzytigen
+                                                  een<note type="critical">In der Vorlage:
+                                                  eeen</note> halber belanget, das laßent wir es
+                                                  nochmaln by unnßerm wolmeinlichen ansehen<note type="editorial"> Verordnung, Weisung, Beschluss,
+                                                  Id. VII, 560.</note> unnd notwendigem bevelch
+                                                  deßglychen ouch by der ordnung umb das den
+                                                  predicanten gmeinlich hievor uferlegt examinieren
+                                                  unnd behören junger nüwer eelüthen gentzlich
+                                                  belyben unnd wellend, das demselben allem gflißen
+                                                  nachgegangen werde unnd statt bescheche. Als wir
+                                                  unns dann deßen versehend unnd dir vertruwend, du
+                                                  hierjnnen der ­toüf­feren halb das unßerm
+                                                  ußgangnen mandat jeder zyt jnn dyner verwaltung
+                                                  nachgesetzt und darob gehalten werde, an dynem
+                                                  flyß und erntst nützit erwinden<note type="editorial"> fehlen</note> laßen werdist.
+                                                  Datum sambßtags den letsten junij anno etc.
+                                                  93.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů<placeName ref="Knonau">Knonouw</placeName>Andareß Brämen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

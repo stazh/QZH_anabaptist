@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_810</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_810</idno>
+          </msIdentifier>
+          <head>Rechnung Magdalena Meister</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1608-09-01"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 661</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Den 1. Septembris 1608.</p>
+                                                  <p>Frouw Magdalena Meisterin hat yngenommen:</p>
+                                                  <p>200 pfund<note type="critical">In der Vorlage:
+                                                  lb</note> von jrem man, da er hinweg wellen.</p>
+                                                  <p>92 pfund ab 16 m[ü]t roggen erlößt, die übrigen
+                                                  10½ m[ü]t<note type="editorial"> Hohlmass für
+                                                  Getreide, Id. IV, 574.</note>sol<persName ref="Werdmüller, N.">sy Werdmüller</persName>jm
+                                                  jnventario.</p>
+                                                  <p>46 pfund 10 schilling<note type="critical">In
+                                                  der Vorlage: ß</note>für 6 m[ü]t k[ernen]<persName ref="Pfenninger, N. (Müller)">müller Pfeninger</persName>.</p>
+                                                  <p>37 pfund 10 schilling für 5 mt. k[ernen] z[a]lt<persName ref="Huber, Peter">Peter Huber</persName>, die
+                                                  übrigen 24 mt. k. zeigint sy jm jnventario.</p>
+                                                  <p>Summa 376 pfund.</p>
+                                                  <p rend="margin-top">Dargegen ußgeben:</p>
+                                                  <p>80 pfund<persName ref="Staub, N.">dem Stouben</persName>am Müljhäldlj<note type="editorial"> Vielleicht
+                                                  Mühlehalde in<placeName ref="Höngg">Höngg</placeName>.</note>, damit die 240 gulden luth inventariums
+                                                  volnkommen</p>
+                                                  <p>36 pfund 16 schilling einem fhurman.</p>
+                                                  <p>56 pfund 8 schilling an 12 ducaten<persName ref="Bantli, N.">dem Bantlj</persName>.</p>
+                                                  <p>220 pfund als 200 pfund houbtgůt und 20 pfund 2 jartzinß<persName ref="Häuler, Anna">Anna Häußlerin</persName>, vögtin zů Sembach<note type="critical">«vögtin zů Sembach» daneben mit
+                                                  Verweiszeichen</note>, darmit sy<persName ref="Kolb, Hans Heinrich">des Kolben</persName><bm id="301"/> handtgeschrift<note type="critical">Folgt gestrichen: vj</note> abglößt.</p>
+                                                  <p>Summa 393 pfund 4 schilling.</p>
+                                                  <p>Also ist fürgwert 17 pfund 4 schilling.</p>
+                                                  <p rend="margin-top">Und ist dem vogt bevolchen,
+                                                  das er die schulden allenthalb und den hußtzinß
+                                                  yntzüchen, ouch ordnungen geben, das die frücht jm
+                                                  Läten<note type="editorial"> Letten, Gebiet an der
+                                                  Limmat, südöstlich des Dorfes
+                                                  Wipkingen.</note><placeName ref="Wipkingen, Letten"/> gsamblet und geämbdet
+                                                  werde, wie dann jmme 1 ußtzug aller schulden sambt
+                                                  den 4 rechenbuͤcheren zůgstelt worden.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

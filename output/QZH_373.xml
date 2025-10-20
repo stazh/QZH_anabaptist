@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_373</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_373</idno>
+          </msIdentifier>
+          <head>Auszug aus dem Abschied der eidgenössischen
+                                                  Tagsatzung in Baden</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1577-06-17"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 224</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Uff disem tag hatt herr schulltheiß von
+                                                  Müllinen<note type="editorial"> Beat Ludwig von
+                                                  Mülinen (1521-1597), seit 1568 Schultheiss von
+                                                  Bern.</note><persName ref="Müllinen, Beat Ludwig von"/> von<placeName ref="Bern">Bern</placeName>vor unns antzogen<note type="editorial"> erwähnen, anführen, Grimm 1,
+                                                  528.</note>, demnach unnser alter landtvogt zů Baden gesterigs tags vor unns erschinnen und antzeigt, wie das er<persName ref="Müller (Täufer)">einem Müller</persName>, so ein widerthoüffer unnd
+                                                  jnn das Merhern landt getzogen, demnach widerumb
+                                                  hinuf kommen, etlich personen ufgwiglet, hinab
+                                                  gefuͤrt unnd sonderlich ein Vischer zů
+                                                  Birmenstorff<note type="editorial"> Birmenstorf
+                                                  (AG), in der Landgrafschaft
+                                                  Baden.</note><placeName ref="Birmensdorf"/>, der
+                                                  mitt syner hußfrowen und sechs kleiner kinden
+                                                  hinab zogen, 300 guldin mitt jm gnommen. Wie er
+                                                  nun hinab jnn das land kommen, hab man jm
+                                                  dieselbigen abgenommen und demnach jnn widerumb
+                                                  mitt wyb unnd kinden hinuf gschickt und das gůt
+                                                  daunden jm landt behallten. Unnd diewyl gemellter
+                                                  Müller sölliche lüth ufgewiglet, heimlich predigen
+                                                  gehept, dartzů etlich gůt jnn der grafschafft<placeName ref="Baden, Grafschaft">Baden</placeName>, hab
+                                                  er<note type="editorial"> Gemeint ist der (alte?)
+                                                  Vogt von Baden.</note> zůhanden myner g[nädigen]
+                                                  h[erren], der eydgnoßen, verbieten laßen und daruf
+                                                  bscheidts begert, diewyl er achte, das er der
+                                                  ennden maleficisch<note type="editorial"> dem
+                                                  Hochgericht verfallen, Id. IV, 167.</note>
+                                                  gehallten, ob er söllich gůt nit unnseren herren
+                                                  und oberen verrechnen möge etc. Unnd diewyl er
+                                                  dann bericht und verstendiget worden, das dieser
+                                                  Müller nit jnn der grafschaft Baden seßhafft,
+                                                  sonder syner herren underthonnen gweßen syge, und
+                                                  dann syne herren und oberen jnn bruch unnd uͤbung,
+                                                  wann söllicher personen einer oder meer jnn dises
+                                                  landt ziechen wellen, die laße man wol
+                                                  verfaren<note type="editorial"> fortziehen,
+                                                  abreisen, Id. I, 898.</note> und hinziechen. Man
+                                                  setze aber dem gůt einen vogtt (wie dann der
+                                                  ennden ouch beschechen), der söllich gůt jnzüche
+                                                  und den kinnden ufenthallte<note type="editorial">
+                                                  zurückhalten (bis zur Volljährigkeit),
+                                                  aufbewahren, Id. II, 1230f.</note>. Derwegen er
+                                                  jnnammen syner herren unnd oberen, wir welten unns
+                                                  harjnn bedencken und erklären, ob wir sölliche
+                                                  lüth für maleficisch achten unnd hallten mitt dem
+                                                  begeren, diewyl gedachter Müller syner herren und
+                                                  oberen underthonen einer gweßen syge und synem gůt
+                                                  ein vogt gsetzt, wir welten söllich gůt gemeltem
+                                                  vogt verfolgen und werden laßen unnd unns harüber
+                                                  erklären, ob man sölliche lüth für maleficisch
+                                                  achten oder nit, unnd das jr gůt verfallen syn
+                                                  sölle, damitt sich syne herren unnd oberen wyter
+                                                  darnach zůhallten wüßen und harjnn jnn künfftigem
+                                                  zwüschent unnseren herren unnd oberen kein
+                                                  spann<note type="editorial"> Streit</note>
+                                                  erfolgen möchte etc. Unnd so nun wir gemellten
+                                                  schulltheiß von Müllinen jnn synem anbringen
+                                                  verstanden unnd aber wir darnebent verstendiget,
+                                                  das gedachter Müller, nachdem er erstlich syn hab
+                                                  und gůt, was er jnn unnser eydtgnoßen von<placeName ref="Bern">Bernbiet</placeName>, deßglychen jnn der grafschafft Baden, da er dann ouch ein zyt lang gewonet, gehept, verkoufft, jnn das landt hinab zogen, etlich lüth unnd syn schwöster mitt jm ufgwiglet und verfuͤrt, nachgents widerumb hinuff jnn trotten und annderen orthen predigen gehept, abermals etlich lüth verfuͤrt, da dann sy jr hab und gůt mitt jnen hinab genommen und dann mitt wyb unnd kinden widerumb hinuf als bättler kommen, dann sy jr gůt dahinden laßen muͤßen, zůdem das<persName ref="Müller (Täufer)">gedachter Müller</persName>gnůgsam gwarnet worden,
+                                                  das er nit mehr jnn die grafschafft Baden kommen,
+                                                  sonnder man zů synem lyb unnd gůt gryffen werde,
+                                                  welliches er nun alles verachtet, unnd aber wir,
+                                                  die botten, harumb kein bevelch, so haben wir
+                                                  sölliches jnn unnser abscheyd genommen, an unnser
+                                                  herren und oberen zůbringen. Unnd soll jeder bott
+                                                  uff nechstem tag har jnn zehandlen bevelch und
+                                                  gwallt haben.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

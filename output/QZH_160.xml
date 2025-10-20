@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_160</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_160</idno>
+          </msIdentifier>
+          <head>Gutachten der Kirchenleitung von Zürich über
+                                                  die Bestrafung der Täufer
+                                                  Die vorliegende Edition wurde mit wenigen
+                                                  Anpassungen übernommen von Urs B. Leu, vgl. die
+                                                  bibliographischen Angaben am Schluss der
+                                                  vorliegenden Nummer.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 11</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Die da vermeinennd, es gebüre sich nitt,
+                                                  habennd dis zwo ursachenn. Die ein, die apostel
+                                                  habennds nitt gethann. Die annder, der gloub sye
+                                                  ein gaab gottes, möge nitt mit zwanng gegäben oder
+                                                  genomenn werden. Es habennd aber die zwo ursachenn
+                                                  vor thusennd jaren die donatistenn, ein jrrige
+                                                  verfürische rodt, wider gůte ordnungen und
+                                                  christennliche mandatenn der keyßeren ingefürt
+                                                  zeschirm irer thrennung und ires verfürens.<note type="editorial"> Vgl. Aurelius Augustinus, Epist.
+                                                  93, II, 5 und III, 9; Epist. 185, VI,22 (CSEL 34
+                                                  und 57).</note></p>
+                                                  <p>Das die apostlenn angezogenn, ist lychtlich zů
+                                                  verantwurten.<note type="editorial"> Zur
+                                                  Argumenationsweise in diesem Abschnitt vgl.
+                                                  Aurelius Augustinus, Epist. 185, V, 19f. (CSEL
+                                                  57).</note>Sy warennd leerer unnd prediger, nit oberer, glich wie auch die propheten im altenn testamennt. Wie die selben unnder abgöttischenn künngen und denen regenten leptend, die die warheitt verfolgetennd unnd die unwarheitt schirmptend, leertend sy allein unnd littend verfolgung nitt minder dann ouch die apostlenn unnder den gottloßenn keyßerenn. Wenn aber gloübige künnig als<persName ref="Jesaja">zů Jsaie</persName>unnd Jeremie zyten Ezechias<note type="editorial"> König Hiskia, vgl. 2Kön 18–20,
+                                                  2Chr 29–32, Jes 36–39.</note><persName ref="Hesekiel"/> unnd Josias<note type="editorial"> König Josia, vgl. 2Kön 22f., 2Chr
+                                                  34f.</note><persName ref="Josias"/>warennd, ward nitt nun die warheitt von den propheten geprediget, sonnder die selb ouch von regenten und oberenn geschirmpt, verfürte unnd verfürer gestraafft. Das nun der heillig geyst durch die geschrifft hochlich in inen rhümpt, glych wie er die künnig unnd herrenn treffenlich schilt, die wider die warheitt denn falsch geschirmpt unnd verfürer nitt gestraafft habennd. Wann nun yemannds schliessen<persName ref="Jeremia">welte, Jeremias</persName>hat unnder Zedechia<note type="editorial"> König Zedekia, vgl. 2Kön 24, Jer
+                                                  21–52.</note><persName ref="Zedekia"/>keinen falschen prophetenn gestraafft, darumb sol man keinen verfürer nitt straaffen, so volget es nitt. Dann Zedechias was der oberer, nitt Jeremias. Zedechias aber thet nitt, das er von rechten thůnn<persName ref="Josias">solt, Josias</persName>aber thets. Der straafft dyee unwarheitt unnd schirmpt die waarheitt. Also stath es ouch mitt den apostlenn, welche unnder abgotischenn künngen oder keyßeren geläpt unnd umb der warheitt willenn verfolgung erlitten habennd, ouch die kilchen | [S. 1032] der heidenn, in die künng<persName ref="Jesaja">(als Jsaias</persName>gewysaget<note type="editorial">
+                                                  Jes. 49, 23.</note>) komenn söltennd, nun angehept
+                                                  hannd. Diewil dann künngen zů stath, nach der
+                                                  grechtigkeitt zů regierenn, darumb das sy künng
+                                                  oder regenntenn genempt werdennt, desglich inen zů
+                                                  stath, ihres<note type="critical">gemäss ZBZ, Ms A
+                                                  72; laut Vorlage: was</note> herrenn, des sy
+                                                  diener sinnd, eher zeredten, schmach unnd
+                                                  verfürunng von inn zevergomen<note type="editorial"> verhüten, Id. 2, 302.</note>, darumb das sy christliche regenten genempt werdent. So habennd die selbenn christlichenn küng<persName ref="Jesaja">(wie Jsaias</persName>auch gewyssaget) tempel, altär unnd götzenn, wider gott uffgericht, lasßenn abbrechenn, die warheitt geschirmpt unnd das unwaar gesthraafft, welchs die historienn unnd geschrifften der uraltenn clärlich von denn heillgen<persName ref="Konstantin der Grosse">künngenn Constantino</persName>, Gratiano<note type="critical">In der Vorlage:
+                                                  Gravano</note><persName ref="Gratianus"/>,
+                                                  Valenntino<persName ref="Valentinian I."/>,
+                                                  Theodosio<persName ref="Theodosius"/>,
+                                                  Archadio<persName ref="Arcadius"/>, Honorio<note type="editorial"> Gemeint sind die römischen
+                                                  Kaiser Konstantin der Grosse (309–337),
+                                                  Valentinian I. (364–375), Theodosius (379–395),
+                                                  Arcadius (383–408) und Honorius
+                                                  (395–423).</note><persName ref="Honorius"/> unnd
+                                                  annderenn bezügennd, dann ie vor dißenn der
+                                                  prophety Jsaie noch nit in allweg gnůg beschähenn,
+                                                  als aber unnder dißenn wordenn.</p>
+                                                  <p>So dann uß dem, das der gloub ein frye gaab von
+                                                  gott ist, volgenn sölte, das mann kein ordnung
+                                                  unnd zucht oder meysterschafft bestellenn sölte.
+                                                  So ist wyßheitt, vernunfft unnd kunnst ouch ein
+                                                  gab von gott. Volgte aber darumb, das man bößen
+                                                  unverstänndigenn kinndenn nitt sölte zuchter unnd
+                                                  leerer gäbenn, die sy straafftind? Dann ie so
+                                                  macht man mit streichen keinen wys, verstannd unnd
+                                                  wysheitt ist von gott, noch dennocht hatt er ein
+                                                  ordnung unnd zucht geordnet, also ouch, obschon
+                                                  der gloub ein gab von gott ist, glich wie ouch
+                                                  frumkeitt, recht sinn unnd gedennck. Volgt doch
+                                                  nitt, das ein ieder ungestraafft macht habe
+                                                  zehanndlen, was er will, oder so er unfromm ist
+                                                  unnd uß bößenn sinnen unnd gedanncken stilt unnd
+                                                  übels hanndlet, das mann in darumb nitt straaffen
+                                                  sölle, ja darumb das fromkeitt allein von gott
+                                                  ist. Zů warem, gůten unnd rechten nödten<note type="editorial"> nötigen</note>, usß falschem,
+                                                  bößem unnd unrechtenn triben, ist gůt unnd
+                                                  nutzlich. Aber zů falschem, bößen unnd unrechten
+                                                  zwingen, ist bös unnd schedlich. Deshalb můß in
+                                                  dißem hanndel allweg bevor gon, das der da
+                                                  straafft, die warheitt uff siner syten hab, nit
+                                                  der<note type="critical">Folgt in der Vorlage: g
+                                                  (nicht gestrichen)</note> da gestrafft wirdt. Dann
+                                                  welcher in einer waren unnd gůten sach gestrafft
+                                                  oder ouch getödt wirdt, jst ein marterer<note type="editorial"> Märtyrer</note>, welcher aber
+                                                  ein unrechte unware sach hat, der | [S. 1033]
+                                                  lidet als ein übelthäter unnd hat sich nitt
+                                                  zerümen, wie Petrus der apostel<note type="editorial"> 1Petr 2, 20.</note>, ouch der<persName ref="Augustinus">heillig Augustinus</persName>wider die donatisten<note type="editorial"> Vgl.
+                                                  Aurelius Augustinus, Epist. 185, II, 9–11 (CSEL
+                                                  57).</note>, rychlich unnd klarlich beweret. Unnd
+                                                  bißhar ist in gemein von dem geredt, das ein
+                                                  ersamme oberkeitt verfürte unnd verfürische
+                                                  mennschen straffen möge. Yetzunnd volget von dem
+                                                  unnderscheid der verfürten unnd verfüreren, darus
+                                                  dann ouch die maaß unnd underscheid des
+                                                  straaffenns, wie sy billich sin mög unnd sölle,
+                                                  folgenn wirt.</p>
+                                                  <p>Wie nun ein krannckheitt<note type="editorial">
+                                                  Zur Irrlehre als Krankheit bzw. als wucherndes
+                                                  Krebsgeschwür vgl. 2. Tim. 2, 16f.</note> nach
+                                                  denn zůfelenn<note type="editorial"> Anzeichen,
+                                                  Erscheinung, Grimm 32, 343.</note> grösßer, ouch
+                                                  nach der edle der glideren, die sy bestath unnd
+                                                  angaath, schwärer unnd schädlicher verrechnet,
+                                                  also macht ouch der zůfaal unnd schwäre der jrrung
+                                                  oder ferfürung grůsamer. Schedlicher ist die
+                                                  krannckheitt unnd der prest<note type="editorial">
+                                                  Gebresten, Krankheit, Id. V, 838.</note>, der auch
+                                                  anndere glider anzünndt unnd vergifft, dann der in
+                                                  imm selbs bestath. Schedlicher ist der brest, der
+                                                  die subtilenn, leblichen glider angath, dan der
+                                                  nun ußerlich an das fleisch sitzt. Also sinnd ouch
+                                                  die verfürer unnd verfürungen grusammer, die zů
+                                                  schmaach unnd lesterunng ouch verlougnung gottes,
+                                                  der stuckenn unnßers heils unnd lebenndigen
+                                                  gloubenns, ouch zů zerstörunng der kilchenn, gůter
+                                                  gsatztenn unnd rechter warheitt reichennd. Dann
+                                                  die falschenn wähn<note type="editorial"> Irrtum,
+                                                  Irrlehre, Id. XVI, 1f.</note> unnd irrigenn
+                                                  meinungen, die weder zů schmach gottes noch
+                                                  zeumbkeren gemeiner warheitt, gloubenns, noch
+                                                  gůter sitten reichennd, ouch niemands wyter
+                                                  vergifftennd, sonnder by inen selbs blybennd, wie
+                                                  man nun nitt iedenn brästen brenndt odr etzti,
+                                                  nitt iede presthaffts glid abhaupt, sonnder das
+                                                  nitt nun nitt heillen, sonnder ouch anndere
+                                                  anzünnden wil, dann etliche krannkheitten mögen
+                                                  ouch mitt der zyt mit sänffter arzney gewert
+                                                  werdenn. Also sol man ouch nitt ieden vefürten
+                                                  unnd verfürischenn hinnemenn, sonnder allerley
+                                                  arzney versuchenn. Wenn im dann der verfürt nitt
+                                                  nun nitt will lasßen hellffen, sonnder ouch
+                                                  anndere wil vergifften, dannethin folget erst das
+                                                  abschniden. Unnd das man dißes noch klerer
+                                                  verstannde, so volgennd ietzunnd ettliche
+                                                  geschlecht<note type="editorial"> Arten</note> der
+                                                  verfürten unnd verfüreren im glouben, darinn
+                                                  liechtlich ouch anndere geschlecht mögend gebracht
+                                                  werden.</p>
+                                                  <p>[S. 1034] Es ist ettwann ein wohn, ein einfalte
+                                                  unwüsßennde meinung in einem einfalten nitt
+                                                  boßhafften mennschen, die uß treffennlichem doch
+                                                  nitt rechtem wyßen yffer, ouch ettwann uß
+                                                  blöder<note type="editorial"> schwacher</note>
+                                                  erschrockner gwüsßne erwachst, doch niemands
+                                                  verbößeret, die warheitt nitt umbkert, noch mitt
+                                                  verachtung, kyb<note type="editorial"> Zank,
+                                                  Streit, Id. III, 106.</note> unnd hallstarrige
+                                                  verharrtt. Es ist ein offne, freffennliche,
+                                                  schanntliche oder glichßnerische<note type="editorial"> heuchlerische</note>
+                                                  gotzlesterunng, die wider gottes eher unnd namen
+                                                  reicht. Derley ist, so mann göttliche geschrifft
+                                                  veracht als lug unnd funnd<note type="editorial">
+                                                  Erdichtung, List, Id. I, 850.</note>, gott unnd
+                                                  die heillige dryfaltigkeitt schmecht, die
+                                                  gottheitt oder mennschheitt Christi verneinet, die
+                                                  artickel, darin unnßer heill stath, verschupfft,
+                                                  veracht unnd umbkert. Es ist ein verfürunng, die
+                                                  die einnigenn kilchenn (uß dem wort gottes
+                                                  erwachßenn) zertheilt unnd threnndt, ouch die
+                                                  selben rechten kilchenn (so vil an iro ist)
+                                                  zegrund richt. Es sinnd verfürer, die mitt irem
+                                                  verfürenn gůte göttliche gsatztenn zerstörennd,
+                                                  wider gůte ordennliche policey<note type="editorial"> öffentliche Ordnung, vgl. <hl to="http://fwb-online.de/go/policei.s.1f_1709446281"><Hyperlink>http://fwb-online.de/go/policei.s.1f_1709446281</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>
+                                                  strytend, biderbe lüth ann iro lyb unnd gůt
+                                                  schwechennd, unrůw unnd uffrůr mitt der zyt
+                                                  bewegennd. So nun in erzelten geschlechtenn eins
+                                                  schwerer ist dann das annder, so můs ietzunnd
+                                                  folgen, das ouch die straaff an ir eher, lyb oder
+                                                  gůth nach grösße des übels wachsen oder abnemen
+                                                  sol, ye nach gestalt unnd gelegenheitt der
+                                                  sach.</p>
+                                                  <p>Die gelegennheitt aber unnd gestalt der sach
+                                                  mag entscheidenn werdenn erstlich uß der personn
+                                                  desße, denn man straaffen sol. Namlich ist die
+                                                  personn ersam, gůts lümbdenns<note type="editorial"> Leumund</note>, die alweg wol
+                                                  gelept,<note type="critical">Folgt gestrichen:
+                                                  nach eeren</note> nach eerenn unnd grechtigkeitt
+                                                  gestelt, nitt üppig, verlogenn, uffrürig,
+                                                  häderig<note type="editorial"> streitsüchtig, Id.
+                                                  2, 983.</note>, frömds gůts begirig, jst aber
+                                                  ietzunnd an iro selbs verworrenn, billich fart man
+                                                  dergestalt mit der straaff, das sy mag zůr bůß
+                                                  komenn unnd abston. Ist aber die personn
+                                                  verlümdet, unerber, verlogen, unrüwig, mag man wol
+                                                  denn glouben uß der personn erwegen unnd darnach
+                                                  die straaff richten. Demnach mag ouch die
+                                                  gelegennheitt unnd gestalt der sach uß der opinion
+                                                  unnd meinung oder uß der leer unnd articklenn des
+                                                  verfürten oder verfürischenn entscheiden werdenn.
+                                                  Dann ist die leer gotzlesterig, keert sy umb den
+                                                  glouben und die waarheitt, trenndt sy frevenlich
+                                                  die kilchenn, zerbricht | [S. 1035] sy gůte
+                                                  policey, vergifftets ouch annder lüth, billich
+                                                  wirt das bresthafft glid abgehowenn. Ist ouch
+                                                  weger<note type="editorial"> besser,
+                                                  nützlicher</note>, ein hannd werde abgehowenn,
+                                                  dann das der ganntz lyb solte verderben.<note type="editorial"> Mt 5, 30.</note> Wäger ists, ein
+                                                  verfürischer oder verfürter, der aber ouch
+                                                  ietzdann mitt gwalt annder über bericht sins
+                                                  jrthumbs verfürt, werde an lyb unnd lebenn
+                                                  gestraafft, dann das vil werdint verdampt unnd
+                                                  umbbracht.</p>
+                                                  <p>Unnd wie wol nun das gwüsß unnd heyter gnůg ist
+                                                  by allen verstenndigen, noch mag niemands kein
+                                                  einige gwüsße regel in dißenn henndlen stellenn,
+                                                  dann die umbstennd merennd und minderennd die
+                                                  sache, darumb sy wol zeermesßen sinnd. Der from
+                                                  aber, der obgemeltenn<note type="editorial"> oben
+                                                  genannten</note> entscheid verstannden, wirt wol
+                                                  konnen ein sach von der annderenn
+                                                  enntscheidenn<note type="editorial">
+                                                  unterscheiden, abgrenzen</note> unnd enntlich
+                                                  darůff sähenn, das die warheitt erhaltenn, die
+                                                  unwarheitt unndergetrucket, die einfalten unnd
+                                                  blödenn<note type="editorial"> schwachen</note>
+                                                  uff besßerung geduldet unnd vergoumpt<note type="editorial"> beaufsichtigen, Id. 2,
+                                                  302.</note>, die fräfflenn bößenn bůben unnd
+                                                  verfürer abgethonn werdinnt. Das alles ist inn
+                                                  gemein von allerley seckten, verfürten unnd
+                                                  verfüreren, nitt nun allein von denn
+                                                  widertöufferen geredt, sonnder von allen dennen,
+                                                  die in der kilchenn Christi unwaarheitt
+                                                  pflantzend, trenung machennd.</p>
+                                                  <p>Ietzunnd der töufferenn halbenn allein zeredenn
+                                                  unnd urtheilenn wirt clar unnd verstenndig sin uß
+                                                  obgelüterter sach, ermesße man ir person, ermesße
+                                                  man ire artickel unnd leeren, wohin sy reichind,
+                                                  unnd demnach beschäch nach gestalt der sach.
+                                                  Damitt aber die sach nitt rinng<note type="editorial"> leicht, gering</note> gewogen,
+                                                  dardurch man aber mitt der zytt in grosß abfal
+                                                  unnd schadenn kommen möchte, jst wol zemercken,
+                                                  was uß der gemeinen töufferischenn leer volgenn
+                                                  möchte, so man iro nitt ernnstlich warte<note type="editorial"> wehrte</note>, ouch was sy in
+                                                  iro haltet unnd vergrifft<note type="editorial">
+                                                  umfasst</note>.</p>
+                                                  <p>Erstlich des widertouffs halben: Wenn er nun
+                                                  für sich selbs ein irrige meinunng unnd ein
+                                                  verwennther won one anhanng bosßerer stucken were,
+                                                  möchte villicht mitt lanngmütigkeitt überwunndenn
+                                                  unnd mitt der zyt gebesßeret werdenn. Diewil er
+                                                  aber ein pflicht ist unnder die ganntzen
+                                                  ­toüf­fery, jst er gar nitt zedulden. Dann so nitt
+                                                  mee dann nun ein warer rechter touff sin mag unnd
+                                                  ist, darus die kinnder nitt ußgeschlosßen sinnd,
+                                                  der unns ouch allein einest<note type="editorial">
+                                                  einmalig</note> wordenn ist, deshalb der
+                                                  widertouff unnötig unnd falsch, sy, die
+                                                  widertöuffer aber, inn schmehennd unnd lesterennd,
+                                                  den iren pryßend, das gůt boß unnd das böss gůt
+                                                  machennd, jst die schmaach des heilligen
+                                                  sacraments nit rinng zewegen.</p>
+                                                  <p>| [S. 1036] Demnach, so ir leer unnd
+                                                  widertouffenn enntlich uff ein trenung unnd
+                                                  absünderung von der rechtenn kilchen zů einer
+                                                  verwehnten<note type="editorial">
+                                                  eingebildeten</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  falsch</note> falschenn kilchenn gewenndet unnd
+                                                  gericht ist, das es, so veer<note type="editorial"> fern, weit</note> innen ires rottierenns
+                                                  gestattet, umb die rechten kilchenn gethon ist, jr
+                                                  wyß unnd touffen nitt zeverachten, als das wennig
+                                                  schadenn bringenn möge, dann die zerstörunng
+                                                  gůtter dingen unnder gůter gestalt in kleiner
+                                                  achtung<note type="critical">«in kleiner achtung»
+                                                  am Rand mit Verweiszeichen</note> herinn bricht,
+                                                  hernach aber grosßen schaden thůt. Hie har gehört,
+                                                  das sy zů dem wort gottes nit gond, die leerer der
+                                                  waarheitt verfolgennd, verlesterennd unnd also die
+                                                  warheitt ouch annderen irer seckt zehörenn
+                                                  verbietend, ouch mee wychennd unnd nachgebennd
+                                                  denn paͤbstischenn dann dennen, so das euangelium
+                                                  wider ire irthumb predigend, damitt ye der böß,
+                                                  ein fyennd aller warheitt, bewyst, das er die
+                                                  töüffischenn sect jnsonnders als ein jnstrument,
+                                                  euangelischer warheitt umb zekeerenn unnd
+                                                  hingeleyte irthumb unnder der gestalt der
+                                                  geystlicheyt wider in zefüren, erweckt hatt, als
+                                                  ouch ougennschynnlich in Solothurn beschähenn,
+                                                  dann für das es by inen darzů kommen, das die
+                                                  ­toüf­fer platz unnd statt überkommen, hatt der
+                                                  päpstisch huff mögenn fürtrucken.</p>
+                                                  <p>Wyter stryttet ire leer wider gůte gesatz unnd
+                                                  policey, so sy leerend, kein christ möge ein
+                                                  oberer sin. Dann damitt wirt allein das zewegen
+                                                  bracht, das nüdt dann unglöübige im gwalt sin
+                                                  söllennd. Diewill dann die unglöübigen die
+                                                  warheitt verfolgennd, kein rechts schirmennd,
+                                                  gůter gesatzten nit achten, tyrrannen sind, was
+                                                  ist dann annders gredt, so sy lerennd, kein christ
+                                                  möge ein oberer sin, dann ob sy sprechinnd, man
+                                                  soll tyrrannen setzenn über das arm volck, die
+                                                  keiner gesatzten achtennd, die warheitt
+                                                  verfolgennd unnd alles unrechten uff richtind?</p>
+                                                  <p>Ungehorsamme pflantzennd sy, damitt das sy
+                                                  lerennd, man möge unnd sölle kein eyd schwerren.
+                                                  Ja so der eyd abgethonn, wirt es ein anlaß zů
+                                                  allen unrůwen sin. Sy sinnd ursechig<note type="editorial"> schuldig</note>, das die ehen
+                                                  getrenndt, biderben eegmëchlenn<note type="editorial"> Eheleute</note> jro eheegmahel
+                                                  entfürt, das kinnden verlassen unnd ganntze gsind
+                                                  zegrunnd gond.</p>
+                                                  <p>Sy gebennd allerley betrugs unnd stälenns nitt
+                                                  klein ursachen, wenn sy redennd, kein christ möge
+                                                  zinns oder zehennden nemen. Dann der gmein man,
+                                                  der sunnst mitt unrůwen verhafft, gedennckt, ist
+                                                  er nitt ein christ, was schades denn, ob du schonn
+                                                  denn heiden nitt zum thrüwlichsten zinßest, damitt
+                                                  sy ie biderb lüth ann iren güteren schedigennd.
+                                                  Ja, der jrthumb sinnd mee, dann iemands in kürtze
+                                                  erzellen möge.</p>
+                                                  <p>[S. 1037] Wenn nun iemands der
+                                                  widertoüffischenn oder annderer seckt halbenn
+                                                  begriffen unnd erfunndenn<note type="editorial">
+                                                  überführen, vgl. <hl to="http://fwb-online.de/go/erfinden.s.3vu_1709307107"><Hyperlink>http://fwb-online.de/go/erfinden.s.3vu_1709307107</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> wirt,
+                                                  der werde nitt nun erforderet, ob er denn kinnder
+                                                  touff für gůt unnd denn widertouff für bösß gäbe,
+                                                  sonnder erkonne man vil mee sin personn, wie
+                                                  obgemelt, demnach in was stucken unnd articklen er
+                                                  töuffisch sye.</p>
+                                                  <p>Darnach verhöre man inn ouch mitt
+                                                  sannfftmütigem geist. Ist dann ein gůte ard da, so
+                                                  veracht sy die underrichtung nitt. Ist ein böße
+                                                  da, die verlyt sich ouch nitt, jst dann
+                                                  neysßwas<note type="editorial"> irgendwie</note>
+                                                  besßerunng zehoffen. Billich hanndlet man nitt
+                                                  gäch<note type="editorial"> übereilt,
+                                                  heftig</note> mitt sömlichenn. Ist dann kein
+                                                  besßerunng zehoffen, ouch so gar nitt, das er nitt
+                                                  allein verderben, sonnder ouch annder mit jm
+                                                  verderben will, hilfft kein waarheitt nitt, dan
+                                                  das er wol verstannden, das sin leer unnd weßen zů
+                                                  umbkeeren denn glouben, zetrennen die kilchenn,
+                                                  dessglich zů nachteil eins gůten regiments reichen
+                                                  will, nüdt dest minder über das alles leeren unnd
+                                                  verfüren will, so verschaff man mitt im, das er
+                                                  niemannds vergiffte. Globte er aber trüw unnd
+                                                  hielte nitt, karte widerumb zů sinem wůst<note type="editorial"> Verdorbenheit, Id. XVI,
+                                                  2169.</note>, so zühe man der sach unnd dem
+                                                  hanndel denn glichßneten namen ab unnd hanndel man
+                                                  mitt sömlichen wie mitt anderen übelthäteren, ye
+                                                  nach gestalt der sach, als obgemelt ouch alle
+                                                  göttliche, weltliche unnd keyßerliche rechten
+                                                  vermögennd.</p>
+                                                  <p>Actum imm meyen<note type="critical">ZBZ, Ms B
+                                                  163, fol. 18r: junio</note>. Anno d[omi]ni
+                                                  1535.</p>
+                                                  <p rend="margin-top">Verordnete diener der kilchen<placeName ref="Zürich">Zürich</placeName>, predicannten,
+                                                  lectores, decani unnd fürnemme predicanten ab dem
+                                                  lannde.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Die vorliegende Edition wurde mit wenigen
+                                                  Anpassungen übernommen von Urs B. Leu, vgl. die
+                                                  bibliographischen Angaben am Schluss der
+                                                  vorliegenden Nummer.</p>
+    </back>
+  </text>
+</TEI>

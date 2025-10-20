@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_172</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_172</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an N.
+                                                  Wepfer (Entwurf)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1539-09-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 23</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeyster unnd rath der statt<placeName ref="Zürich">Zürich</placeName>. Unnsern grůs
+                                                  zůvor. Lieber unnd gethrüwer unndervogt, du
+                                                  findst<note type="critical">«findst» über der
+                                                  Zeile, in der Zeile gestrichen: findsch</note>
+                                                  hernach geschriben<note type="critical">Folgt
+                                                  gestrichen: altte</note> bůßen unnd straaffen<note type="critical">«unnd straaffen» über der
+                                                  Zeile</note>, so<note type="critical">Folgt
+                                                  gestrichen: unnder de</note> vornaher unnder<note type="critical">korrigiert, ursprünglich:
+                                                  unnd</note> den althen vögten gefallen<note type="editorial"> fällig werden, Id. II,
+                                                  751.</note>
+                                                  <note type="critical">Folgt gestrichen: sin</note>
+                                                  unnd nun lang gnůg meer dann zůvyl ußständig
+                                                  gewäsen sind<note type="critical">Folgt
+                                                  gestrichen: […] (Lesung unklar)</note>. Unnd jst
+                                                  deßhalb an dich unnser eernstlich will und geheyß,
+                                                  dz du angends<note type="editorial"> sofort, Id.
+                                                  II, 19.</note> unnd on allen wytteren verzug
+                                                  söllich bůßen ynzüchen unnd vogt Lafatern<note type="editorial"> Hans Rudolf
+                                                  Lavater</note><persName ref="Lavater, Hans Rudolf"/> behandigen wellist, damit wir deren
+                                                  vernuͤgt<note type="editorial"> zufriedenstellen,
+                                                  Id. IV, 701.</note> werdint. Dann söltestu
+                                                  sollichs lenger understan uffzeziechen<note type="editorial"> aufschieben, verschleppen, Id.
+                                                  XVII, 972f.</note>, köndten wir es von dir nit
+                                                  vergůt han. Unnd ob sich jemand darwider setzen
+                                                  wurde, dem wellist eynen eyd gen dich jnn unnserem
+                                                  nammen jnn monets frist des nechtsen, umb die bůß
+                                                  ze<note type="critical">«ze» über der Zeile</note>
+                                                  vermögen oder nach verschynung<note type="editorial"> Ablauf, Beendigung</note>
+                                                  söllicher zyt unnsere gericht unnd gebiette
+                                                  zemyden unnd darjn nit zekommen, unntz<note type="editorial"> bis</note> sy dich vernügt hand.
+                                                  Unnd wo du sy<note type="critical">«sy» über der
+                                                  Zeile</note> darüber jnn den gerichten findest und
+                                                  bethrätten<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note> magst, soltu sy
+                                                  unns gfängklich überandtwurten, da wir sy ouch
+                                                  enthalten<note type="editorial"> festhalten, Id.
+                                                  II, 1228.</note> und nit ledig laßen werdend, untz
+                                                  wir umb die bůß, deßglychen du umb den costen
+                                                  abgericht<note type="editorial"> begleichen, Id.
+                                                  VI, 397.</note> werdent. Dann unser meynung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> nit jst,
+                                                  dz du eynichen costen an dir selbs<note type="critical">Folgt gestrichen: haben</note>,
+                                                  noch eynichen schaden unsers dienst halben haben
+                                                  söllest. Sofeer dz du unns allweg berichtest,
+                                                  damit wir dest kommenlicher<note type="editorial">
+                                                  passend, gelegen, Id. III, 285.</note> allwägen
+                                                  ynn den sachen handlen mögint.</p>
+                                                  <p>Unnd ob dir der thoüffern ettlich, wer
+                                                  joch<note type="editorial"> auch</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  dich</note> die werind, jn andere unnsere
+                                                  herrschafften, gericht unnd gebiette, wie ald<note type="editorial"> oder</note> wo dz were,
+                                                  enttrunind, denen magstu wol nachfolgen, wo du sy
+                                                  weyßt zůbeträtten, unnd sy denne<note type="critical">«denne» über der Zeile, in der
+                                                  Zeile gestrichen: dine</note> unnserm vogt unnd
+                                                  amplütten der herrschafften, darjnn du sy
+                                                  betritst, überandtwurten, unns die fürer<note type="editorial"> ferner, Id. I, 968.</note>
+                                                  zůzeschigken und mit jnen zehandlen, dz sich<note type="critical">«sich» über der Zeile, in der
+                                                  Zeile gestrichen: sy</note> nach unnsern mandaten
+                                                  wirt<note type="critical">korrigiert,
+                                                  ursprünglich: wirdt</note> gebüren. Daran thustu
+                                                  unser enstlich meynung, wir wellend es ouch von
+                                                  dir gehept han. Unnd so du<note type="critical">Folgt gestrichen: dar</note> an disem unnserem
+                                                  willen, was diser brief vermag<note type="editorial"> besagen, Id. IV, 111.</note>
+                                                  <note type="critical">«disen unnserem willen, was
+                                                  diser brief vermag» am Rand mit
+                                                  Verweiszeichen</note>, sümig wurdest, gegen dir
+                                                  straffswyß handlen, das du wölltest uns gehorsam
+                                                  gewesen sin. Unnd diewyl Martin<note type="critical">«Martin» über der Zeile, in der
+                                                  Zeile gestrichen: Martj</note>
+                                                  Gyrspergers<persName ref="Girsberger, Marin"/>
+                                                  handlung, als er die roßs gehowen hat, das
+                                                  malefitz<note type="editorial"> dem Hochgericht
+                                                  verfallen, Id. IV, 167.</note> belangen wil, jst
+                                                  deßhalb unnser geheyß an dich, dz du söllichs dem
+                                                  landvogt anzeygen unnd jm daran nüt verhalten<note type="editorial"> vorenthalten,
+                                                  unterschlagen</note> wellist, jn wüsßen möge,
+                                                  noch<note type="critical">Folgt gestrichen: synen
+                                                  ver</note> synem verdienen zestraafen. Thůstu dz
+                                                  nit, wz unns dann daruß volgt<note type="critical">Folgt gestrichen: w[…]</note>, wurdent wir
+                                                  gewüßlich an dir understan zůzekommen<note type="editorial"> sich für erlittenen Schaden an
+                                                  jemanden halten, Id. III, 283.</note>, unnd
+                                                  wellend unns deßhalb gentzlich zů dir versächen,
+                                                  du disem unnserm schryben jnn allen stugken<note type="critical">«jnn allen stugken» am Rand</note>
+                                                  gehorsamlich geläben unnd nachkommen<note type="critical">«unnd nachkommen» über der
+                                                  Zeile</note> unnd dirselbs vor wyterem schaden
+                                                  unnd unwillen sin werdest. Dann wo du uff diner
+                                                  hartnäckigen wyß wie bisshar unns zů grosßer
+                                                  verachtung<note type="critical">«wie bisshar unns
+                                                  zů grosßer verachtung» am Rand mit
+                                                  Verweiszeichen</note> beharren, wurdest du des
+                                                  gewüßlich höcher entgälten, dann du selbs gelouben
+                                                  magst. Darnach wüße dich zerichten. Uß<placeName ref="Zürich">Zürich</placeName>, mitwuchs nach
+                                                  sanct Verenen tag anno etc. 1539.<note type="critical">Folgt darunter: Bůsßen
+                                                  etc.</note></p>
+                                                  <p rend="margin-top">Unnserem lieben unnd
+                                                  gethrüwen unndervogt zů<placeName ref="Stammheim">Stamheym</placeName>[…]<note type="critical">Spatium</note> Wäpfer<persName ref="Wäpfer, N."/>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

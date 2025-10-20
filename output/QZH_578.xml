@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_578</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_578</idno>
+          </msIdentifier>
+          <head>Unkosten wegen Täufern im Knonauer
+                                                  Amt</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1590-04-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 429</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Rechenschryber scripsit:<note type="critical">In der Vorlage: spß (Lesung unsicher)</note></p>
+                                                  <p>77 pfund<note type="critical">In der Vorlage:
+                                                  lb</note> jst uncosten uf der ­toüf­fern hanndlung
+                                                  gangen, wie herr lanndtvogt Äscher<note type="editorial">Hans Konrad Escher<persName ref="Escher vom Glas, Hans Konrad">(vom Glas)</persName></note> von mynen gnedigen herrn verordnet, gen
+                                                  Knonow zeryten unnd der ­toüf­feren gefründte<note type="editorial"> verwandt, Id. I, 1305.</note>
+                                                  berichtet, was myner hern meinung jnbisyn der
+                                                  herren predicanten unnd unndervögten, den 14ten
+                                                  aprellen anno etc. 89.</p>
+                                                  <p>Was die unndervögt sid der manung von jr, der
+                                                  ­toüf­fern, wegen bj den wirten verzeert, werdent
+                                                  sy, die wirten, guten bericht darumb geben
+                                                  konen.</p>
+                                                  <p>8 pfund geb ich denen, die den<persName ref="Gut, Andres">Anndreß Gůten</persName>von<placeName ref="Zwillikon">Zwillicken</placeName>, der
+                                                  urheber der ­toüf­fern, gen<placeName ref="Zürich">Zürich</placeName>gfürt.</p>
+                                                  <p>Abschrift: StAZH, B I 63, S. 61-63</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

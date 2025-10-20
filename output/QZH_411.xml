@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_411</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_411</idno>
+          </msIdentifier>
+          <head>Schultheiss und Rat von Bremgarten an Bürgermeister und Rat von
+                                                  Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-11-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 262</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, gestränngen, fromen, eerenvesten,
+                                                  fürsichtigen unnd wisen jnnsonders eerenden und
+                                                  gnedigenn, lieben herren unnd oberen, üweren
+                                                  gnaden sigent unser früntlich grůß, gehorsam,
+                                                  dienst und was wir eeren, liebs und gůtz
+                                                  vermögent, zůvoran bereydt.</p>
+                                                  <p>[…]<note type="editorial"> Hier folgt der
+                                                  Bericht über das peinliche Verhör des Felix Wyss
+                                                  von Affoltern, der zusammen mit anderen für
+                                                  verschiedene Diebstähle im Zürcher Territorium und
+                                                  in angrenzenden Gebieten verantwortlich gemacht
+                                                  wird. Wyss wird an Zürich ausgeliefert, und die
+                                                  bisherigen Kosten werden genannt.</note></p>
+                                                  <p>Demnach gnedig, eerend, lieb herren, so haben
+                                                  wir üwer schryben die ­toüf­fer, so hinab jnn das
+                                                  Merheren<placeName ref="Mähren">lannd</placeName>gezogen,
+                                                  beträffende wol verstannden. Und diewyl aber herr
+                                                  lanndtvogt von<placeName ref="Baden">Baden</placeName>sinen
+                                                  undervogt allhar gan Bremgarten geschickt unnd
+                                                  derselbig mit hilff unsers stattschrybers all jr
+                                                  gůtt ufschryben und arrestieren lassen unnd der
+                                                  mertheil gůtz jnn üwer hochen jurißdiction gelegen
+                                                  unnd aber die hinweg gezognen personen all zů
+                                                  Niderbergken<note type="editorial">
+                                                  Berikon</note><placeName ref="Berikon"/> (da die
+                                                  hoch oberkeit gan Baden ghört) gesässen, haben wir
+                                                  nit wüssen mogen, wem dißfhals die straff gepürt,
+                                                  unnd were wol gůtt gsin, das wir sollichs üch
+                                                  (unseren gnedigen herren von Zürich) zůwüssen than
+                                                  hetten. Diewyl es aber warlich unnd jnn thrüwen
+                                                  usß unbesinnte und sonst gheiner annderen ursach
+                                                  willen underlassen, so gelanngt hieruf an üch
+                                                  (unser gnedig, eerend, lieb herren) unser gar
+                                                  fründtlich pit, jr wellentz uns nit zů argem oder
+                                                  untrüw achten, sonnder dz besser glouben, das
+                                                  namlich wir nit gesinnet sigent, mit wüssen das,
+                                                  was üch zůgehördt, zůverschwygen oder
+                                                  zetädingen<note type="editorial"> streiten, Id.
+                                                  XII, 442f.</note>, sonnder vil mer uns glouben
+                                                  unnd verthruwen, worjnn wir üch (unseren gnedigen
+                                                  lieben herren) jnn allem gůtem und sonderlich zů
+                                                  allen üweren freyheiten unnd rechtungen<note type="editorial"> Rechte, Id. VI, 314.</note>, so
+                                                  jr von wegen der hochen oberkeyt jnn unserem<placeName ref="Kelleramt">Kelleramptt</placeName>unnd
+                                                  Nideren amptt<note type="editorial">
+                                                  Niederamt</note><placeName ref="Niederamt"/>
+                                                  handt, köntendt oder wüsßendt zů hanndthabung
+                                                  derselben fürderung zethůn, das wir nützit
+                                                  verschynen<note type="editorial"> verstreichen,
+                                                  Id. VIII, 824.</note> lassen und, dasselb
+                                                  zethunde, jederzyt schulldigen pflichten nach
+                                                  ganntz gůttwillig sin unnd ungespart<note type="editorial"> arbeitsam, fleissig, Id. 10,
+                                                  404.</note> erfunden werden wellendt etc. Und
+                                                  mogen also jr üweren obervogt von<placeName ref="Knonau">Knonouw</placeName>, oder wer üch
+                                                  herzů dugelich<note type="editorial"> tauglich,
+                                                  fähig, Id. XII, 1099.</note> bedunckt, allhar zů
+                                                  uns abfertigen, so wellen wir jm unseren obervogtt
+                                                  unnd stattschribern zůgeben und alle ding
+                                                  ufschryben lassen, üch dannethin darunder
+                                                  zehandlen nach üwerem gfallen etc. Wellent jr
+                                                  dann, das unser obervogt und stattschriber
+                                                  sollichs jnn üwerem namen thuͤendt, so werden si
+                                                  gůttwillig sin und was si findent, üch uffs
+                                                  belldist überschicken etc. Doch were gůt, das üwer
+                                                  vogt von Knonouw oder ein anderer an sin statt
+                                                  darbj were, so könnte man sich mit jm der anderen
+                                                  ungehorsamen personen halb, so der ­toüf­fer
+                                                  predig uff ein mal zůgehört (darumb wir si
+                                                  gstrafft hand), unnderreden und pricht geben. Und
+                                                  was nun hierüber üwers willens und gfallens jst,
+                                                  dem sind wir urpütig<note type="editorial">
+                                                  bereit, Id. IV, 1881.</note>, gehorsamlichen
+                                                  nachzekomen. Damitt den herren gott jnn sinen
+                                                  gnadenrychen schuttz unnd schirm ergeben. Datum
+                                                  sampstags den 4ten novemb[ris] anno lxxxj.</p>
+                                                  <p rend="margin-top">Schulltheiß unnd rath zů
+                                                  Bremgarten</p>
+                                                  <p rend="margin-top">Den edlen, gestränngen,
+                                                  fromen, vesten, fürsichtigen und wisen herren
+                                                  bürgermeistern und rath der statt Zürich, unnseren
+                                                  jnnsonderen gnedigenn, eerenden, lieben
+                                                  herrenn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_175</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_175</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an N.
+                                                  Wepfer (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1542-10-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 26</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Bůrgermeyster unnd rath der statt Zürich.
+                                                  Unnsern grůß zůvor. Getrüwer, lieber undervogt,
+                                                  unns kompt clegt<note type="editorial">
+                                                  Klage</note>, wie eyn küffer, gennat Jacob<persName ref="Felder, Jakob">von Felderen</persName>, deßglychen<persName ref="Kriechli, Stefan">Steffan Kriechlis</persName>selgen gelasßene wittwe
+                                                  von Understamheym<note type="critical">«von
+                                                  Understamheym» am Rand mit
+                                                  Verweiszeichen</note><placeName ref="Stammheim"/>
+                                                  widerspänigclich dem widertouff anhängig, jnn dem
+                                                  das sy wäder zum gotswort noch zu den
+                                                  cristenlichen sacramenten gangind unnd alle
+                                                  cristennliche ordnung verachtind, der gemeynde
+                                                  gottes vast ergerlich anstösßig unnd jr jrrige wys
+                                                  jnn der kilchen unnd versamlung gottes nit zelyden
+                                                  sige. Das unns beschwärt<note type="critical">Folgt gestrichen: unnd we</note> unnd jnn keynen
+                                                  weg zulyden ist. Deßhalb wellist jnn geheym nach
+                                                  disen zweyen personen stellen unnd unns die one
+                                                  verzug<note type="critical">«verzug» am
+                                                  Rand</note> fängklich überanndtwurten, mit jnen
+                                                  zehanndlen, das jr ungehorsame<note type="critical">Folgt gestrichen:
+                                                  erforderen</note> unnd die nottdurfft erforderen
+                                                  wirt. Daran thůstu unnser ernnstlich meynung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> unnd
+                                                  wellent unns hierjnn zů dir alles flysßes
+                                                  versechen<note type="editorial"> erwarten, Id.
+                                                  VII, 566f.</note>. Uß<placeName ref="Zürich">Zurich</placeName>, mittwuchs vor Symonis unnd Jude
+                                                  1542.</p>
+                                                  <p rend="margin-top">Unnserem getrüwen, lieben
+                                                  undervogt zů<placeName ref="Stammheim">Stamheym</placeName><persName ref="Wäpfer, N.">N. Wäpfer.</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

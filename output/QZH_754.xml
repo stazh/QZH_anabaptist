@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_754</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_754</idno>
+          </msIdentifier>
+          <head>Befragung der Gefängnisaufsicht</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1603-04-27"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 605</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als beide herren nachgenger den m[eister]<persName ref="Grebel, Hans">Hannß Grebel</persName>, thurnhüter,
+                                                  unnd syn dienstmagdt uffs rathuß beschickt unnd sy
+                                                  befraget, wer dem ­toüf­fer, so jetzt über 30
+                                                  wuchen jm Wellenberg glegen, wyn unnd spyß (wie
+                                                  mynen gnedigen herren fürkompt<note type="editorial"> zu Ohren kommen, kund werden,
+                                                  Id. III, 279.</note>, beschechen syge) zůbracht
+                                                  oder gchickt habe, habent sy angezeigt: Das an
+                                                  jetzt verschinem<note type="editorial">
+                                                  vergangenem</note> heiligen ostertag ein
+                                                  purenmentsch, das aber sy, die magdt, nit
+                                                  bekhenne, jme ein mass wyn gebracht. Desglychen
+                                                  sye eins mals jme vom Sternen<note type="editorial"> Wirtshaus zum Sternen,
+                                                  Limmatquai 16, vgl. Kunstdenkmäler des Kantons
+                                                  Zürich, Bd. 111 (Die Stadt Zürich III.2), S.
+                                                  38.</note><placeName ref="Zürich, Sternen"/>naher ein mass wyn zůkommen, so aber dem wirt bezalt worden. Doch wüssind sy nit, wer es zalt. Item vergangnen winters habe m[eister]<persName ref="Hottinger, Hans">Hannß Hotinger</persName>jnn<placeName ref="Zürich, Niederdorf">Niderdorf</placeName>jme
+                                                  ein trunck gschickt. Item einer von<placeName ref="Räterschen">Reterschen</placeName>habe jme
+                                                  ouch ein trunck bezalt. Sontst wüssint sy nützit
+                                                  wyters, das jme zůkommen sye, dann die atzung<note type="editorial"> Speise und Trank, Id. I,
+                                                  624.</note>, so sy, die magdt, jme zůgebracht
+                                                  habe.</p>
+                                                  <p rend="margin-top">[Urteil]: Die herren obersten
+                                                  meister söllent dem thurnhüter undersagen, myn
+                                                  gnedig herren wellint gehept<note type="critical">korrigiert, ursprünglich: gehepten</note>haben, das er nach luth syner ordnung kheinen gefangnen unnd mit nammen ouch den eebrecheren nützit wyters dann jr noturftige spyß zůbringe unnd jnen ohne erloubtnuß eines herren burgermeisters von anderen lüthen oder durch ander lüth gar nützit losse zůkommen by verlierung synes dientsts. Actum mitwuchs den 27ten aprilis a[nn]o 1603 p[raese]nt[ibus] herr<persName ref="Bräm, Heinrich">burgermeister Brem</persName>unnd beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

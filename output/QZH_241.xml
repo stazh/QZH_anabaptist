@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_241</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_241</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mentags den 6
+                                                  novembris p[raese]nt[ibus] her Hab unnd beyd
+                                                  räth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1559-11-06"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 92</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt<persName ref="Breitinger, Rudolf"/> von
+                                                  Grüningen<note type="editorial"> Rudolf
+                                                  Breitinger</note><placeName ref="Grüningen"/>schryben, das<persName ref="Peter, Hans">Hanns Petter</persName>der ­toüf­ferschen sect
+                                                  abstannden unnd sich begeben, gehorsam zesin. Unnd
+                                                  diewyl er anzeigt, das er<note type="critical">«er» über der Zeile</note> jm vorher nit
+                                                  geschworen, sölle er jm jnne jetz schweren unnd
+                                                  gehorsame thůn lassen unnd dann dest fürer<note type="editorial"> eher, mehr, Id. I, 968.</note>acht uff jnn haben. Darby sölle er den costen, so uff jnn ganngen, jntzüchen. Unnd als er ettlich mer ­toüf­fer angeben, soll er dieselben ouch vengklich annemen, mit namen den wannenmacher und sin son,<persName ref="Schyb, Hans">Hannß Scheyb</persName>von<placeName ref="Appenzell">Appentzell</placeName>,<persName ref="Streler, Hans">Hanns Sträler</persName>,<persName ref="Streler, Klaus">Claus Sträler</persName>,<note type="critical">Folgt gestrichen: Jacob</note>
+                                                  Bürgi<persName ref="Bürgi, N."/> von
+                                                  Wädischwyl<note type="editorial">
+                                                  Wädenswil</note><placeName ref="Wädenswil"/>.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mentags den 6
+                                                  novembris p[raese]nt[ibus] her Hab unnd beyd
+                                                  räth».</p>
+    </back>
+  </text>
+</TEI>

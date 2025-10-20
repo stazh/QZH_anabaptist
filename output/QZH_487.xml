@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_487</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_487</idno>
+          </msIdentifier>
+          <head>Schultheiss und Rat von
+                                                  Diesseonhofen an
+                                                  Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1586-06-09"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 338</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, gestrenngen, frommen, vesten,
+                                                  fürsichtigen, ersammen, weyßen, gnedigen, lieben
+                                                  herren unnd oberen, uwer gnaden unnd ernvest
+                                                  weyshayt seyn unnßer freündtlich gruoß unnd
+                                                  guottwillig diennst jeder zeytten berait zůvor.
+                                                  E[uer] g[nedig] h[erren] unnd e[rsam] w[eys]h[eit]
+                                                  khünnen wir nit onbericht lassen, welicher
+                                                  gestalten ain solich grosse anzaal volcks ausser
+                                                  e. gh. und e. wh. lanndtschafft durch unnßer statt
+                                                  unnd päß täglichen der widerteufferey ergibt unnd,
+                                                  sich jn<placeName ref="Mähren">Merhern</placeName>zebegeben, durch ziechen. Unnd gleych gestrigs tags bey 40 oder 50ig parsonnen abermals alhie jnn der herberg zur Kronnen eingekherth unnd auff obvermelte mainung, jn Merherm zuziechen, fürgeraisst, da wir unnder annderm unnßers erachtens jren rechten houptman oder redlinfüehrern, welcher<persName ref="Freitag, Christoph">Cristoff Freytag</persName>genent, ausser dero
+                                                  statt burttig, jnn unnßer gefanngenschafft
+                                                  eintziehen lassen. Derowegen unnß fur fruchtbar
+                                                  angesehen, e. gh. unnd e. wh. soliches
+                                                  geschrifftlich zeverstenndigen. Unnd dieweyll dann
+                                                  das mandat von e. gh. unnd e. wh., bey ainem jar
+                                                  außganngen<note type="editorial"> Nr. 329.</note>,
+                                                  solicher jrriger widerteuffischen sect unnd dero
+                                                  anhenger clarlich zugibt<note type="editorial">
+                                                  eine Bestimmung enthalten, Id. II, 95.</note>, uff
+                                                  soliche verfüehrer<note type="critical">korrigiert, ursprünglich: verfyhrer</note> unnd
+                                                  auffwigler wahrnemung<note type="editorial">
+                                                  Acht</note> zuhaben, wa die betretten<note type="editorial"> antreffen, Id. XIV, 1486.</note>
+                                                  werden mögen, uffmerckhen, unnd genanter Cristoff
+                                                  Freytag, uff dasselbig alhie gefenckhlich
+                                                  eingezogen, verwarth ligt, gelangt an e. gh. unnd
+                                                  e. wh. unnßer ganntz freündtlich anersuochen,
+                                                  wollen unnß, ob solich volckh ausser e. gh. unnd
+                                                  e. wh. gnedigem erlouben, vergünstigen unnd willen
+                                                  also ausser unnd von dem lanndt abziehe oder waß
+                                                  gegen dißem eingezognen jrem auffwigler unnd
+                                                  hauptmann fürzenemen unnd zeprauchen rathsam
+                                                  seige, auff das eeheste<note type="critical">«auff
+                                                  das eeheste» am Rand mit Verweiszeichen, in der
+                                                  Zeile gestrichen: ber(?) zeiger unnserm statt
+                                                  dienner</note> geschrifftlich berichten, unnß
+                                                  darnach zehalten wüssen unnd sonnsten auch e. gh.
+                                                  unnd e. wh. freündtliche angeneme diennst
+                                                  zeerzaigen unnd zebeweyßen, seigen wir
+                                                  yederzeytten berait unnd guottwillig. Datum den 9.
+                                                  junij anno etc. 86.</p>
+                                                  <p rend="margin-top">Schuldthayß unnd rath der
+                                                  statt Diessenhoven</p>
+                                                  <p rend="margin-top">Den edlen, gestrengen,
+                                                  fromen, vesten, fürsichtigen, ersammen unnd weysen
+                                                  herren bůrgermaister unnd rath der statt Zürich,
+                                                  unnsern gnedigen lieben herrn unnd obern zu
+                                                  eröffnen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

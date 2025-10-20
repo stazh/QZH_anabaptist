@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_363</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_363</idno>
+          </msIdentifier>
+          <head>Mandat gegen das Täufertum, das Fernbleiben
+                                                  von den Gottesdiensten und den Tanz</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1576-11-05"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 214</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günnstigen, geneigten willenn unnd
+                                                  alles gutß zůvor. Vester, besonnders gethrüwer,
+                                                  lieber burger unnd vogt. Wiewol wir erst deß
+                                                  verganngnenn vier unnd sibennzigisten jarß dich
+                                                  unnd alle anndere unnsere ober- ouch unndervögt
+                                                  durch unnsere ußganngnenn schrybenn<note type="editorial"> Nr. 190.</note> annsuchenn unnd
+                                                  vermannen laßenn by den unnserenn, dynen
+                                                  amptsanngehörigenn, mit allem ernntst annzuhalten
+                                                  unnd zuverschaffenn, daß sich mengklicher<note type="editorial"> jeder</note> der unnseren by
+                                                  hocher unnd schwerer unnser straaff unnd
+                                                  ungnad<note type="critical">Folgt gestrichen:
+                                                  sich</note> der schädlichenn versamlungenn unnd
+                                                  jrrigenn ­toüf­ferischenn sectenn unnd
+                                                  verfürischenn lerenn entzüche, dennselben
+                                                  niemanndts annhannge noch gestatne, ouch denn
+                                                  ufwiglerenn derselbigenn dheinerley<note type="editorial"> keinerlei</note> hilf,
+                                                  unnderschlouff noch fürschub<note type="editorial"> Beihilfe, Id. VIII, 84.</note> gebe, sy nit
+                                                  ufennthalte, huse oder beherberge noch
+                                                  dheinnenrley gemeinschafft ald<note type="editorial"> oder</note> gesellschafft mit
+                                                  jnenn fürnemme, sonnder mengklicher jro müßige
+                                                  unnd gennzlich enndtschlache, wie du dann jnn dem
+                                                  angezognnenn, dir übersenndtenn schryben der
+                                                  lennge nach zefinnden etc., will unns nun jemerdar
+                                                  bedunnckenn, eß welle merertheils ann dem
+                                                  erwinndenn<note type="editorial"> fehlen, mangeln,
+                                                  Id. XVI, 580f.</note>, daß die unndervögt, weibel,
+                                                  eegoummer<note type="editorial"> Vertreter der
+                                                  lokalen Sittenzucht, Id. II, 304.</note> unnd
+                                                  anndere dyne nachgesezte amptlüth<note type="critical">Folgt gestrichen: obge</note>
+                                                  obanngezognem unnserem annsechenn gar schlechtlich
+                                                  unnd mit dheinem ernntst (wie sy aber thůn
+                                                  söltennd unnd jrenn loblich were) nachgangind.
+                                                  Dann unns kompt waarhafft für<note type="editorial"> fürkommen: zu Ohren kommen, kund
+                                                  werden, Id. III, 279.</note>, daß meerenntheilß
+                                                  jnn allenn kilchhorinenn<note type="editorial">
+                                                  Kirchgemeinde, Pfarrei</note> unnd gemeinden dyner
+                                                  ammptßverwalltung die sect der ­toüf­feryg
+                                                  widerumb zů- unnd uberhannd nemen welle, also daß
+                                                  ann etlichen orthenn jnn holtzerenn unnd annderenn
+                                                  plazenn jedeßmalß jnn die zweyghunndert personnen
+                                                  unnd darob<note type="critical">Folgt gestrichen:
+                                                  zusammenn</note> sich versamlennd, darjnnenn
+                                                  offentlich eeenn zusammenn gebennd unnd, damit
+                                                  mann jreß vorhabenns dester minder gewar unnd
+                                                  jnnen werde, sich nebent den gehorsammen zů den
+                                                  sonn- unnd annderen predigtagenn jnn die kilchen
+                                                  verfügend unnd stellennd unnd also<note type="critical">Folgt gestrichen: uns</note>
+                                                  ungeschücht jnn gemeindenn leher[…]<note type="critical">Lesung unklar; folgt gestrichen:
+                                                  un</note>, auch jnn wun<note type="editorial">
+                                                  Futter-, Weideland, bzw. das entsprechende
+                                                  Nutzungsrecht, Id. XVI, 333.</note> unnd weiden
+                                                  wie anndere gmeindß gennoßen gachtet unnd gehalten
+                                                  werdint. Unnd diewyl dann disere sect gannz unnd
+                                                  gar dhein nuz unnd niendert annderschwohin dann zu
+                                                  zerrüttung aller oberkeiten und güter regimenten
+                                                  dienet, sind wir uß unnvermydenlicher notturfft
+                                                  abermalenn bewegt unnd verursachet worden,
+                                                  unnserer hievor jm truck unnd sampt deßwegenn
+                                                  ußganngne mandaht erjnnerung zethund. Unnd jst
+                                                  daruf unnser bevelch ann dich, du wellist durch
+                                                  dich selbß, dyne unndervögt, weibel unnd alle
+                                                  anndere amptlüth jnn dyner amptßverwalltung
+                                                  versechenn<note type="editorial"> sorgen für, Id.
+                                                  VII, 571.</note> unnd verschaffen, daß sich
+                                                  mengklicher by großer unnd hocher unnser straaff
+                                                  unnd ungnad vonn disenn schedlichenn
+                                                  versamlunngenn unnd jrrigen leerenn abzüche, deren
+                                                  niemanndtß annhannge, noch gestatne den<note type="critical">Folgt gestrichen:
+                                                  annhangerenn</note> ufwiglerenn, noch denen<note type="critical">korrigiert, ursprünglich:
+                                                  denn</note>, so dennselben losend unnd volgennd,
+                                                  dheinerlej hilf, platz noch fürschüb gebe, sy nit
+                                                  ufenthalte, huse oder beherberge, ouch dheinerlej
+                                                  gemeinschafft ald gesellschafft mit jnenn
+                                                  fürnemme, sonnder mengklich sich jrenn gennzlich
+                                                  müßige unnd entschlache. Dann wir dero unnverdacht
+                                                  synn, sy ouch jnn unnseren lannden schlechtß nit
+                                                  lydenn noch geduldenn, sonnder wellend, daß die
+                                                  unnserenn, so also unbesinnter wyß hinnweg
+                                                  ziechennd unnd dann wider komend, onne unser
+                                                  erloubnuß nit mer yngelaßen, sonnder<note type="critical">«die unnserenn so … sonnder» am
+                                                  Rand mit Verweiszeichen</note> anngennz<note type="editorial"> sofort, Id. II, 19.</note> zů
+                                                  jnenn gegriffenn unnd sy unnß überantwort werdint,
+                                                  damit wir die ­toüf­fer, jren günner unnd
+                                                  anhännger luth unnserer sazungenn ann jrem leben
+                                                  und die, so jnenn fürschub thunnd, sy nit leidend,
+                                                  verjagend oder unnß fengklich zufürend nach jrem
+                                                  verschulden alß lüth, die trüw unnd eydt ann unnß
+                                                  überfaren, one gnnad straaffenn mögind, darjnn wir
+                                                  niemannden verschonnenn.</p>
+                                                  <p>Sodenne lanngt unnß glouplich ann<note type="editorial"> anlangen: zugetragen werden, als
+                                                  Kunde zukommen, Id. III, 1330.</note>, befinndent
+                                                  es ouch alhie jnn unnser statt, daß daß
+                                                  allgemein<note type="critical">Folgt am Rand
+                                                  gestrichen: zinstag</note> gebet, so<note type="critical">«so» über der Zeile, in der Zeile
+                                                  gestrichen: zu</note> wir zuversünnung göttlichß
+                                                  zornnß, ouch<note type="critical">«ouch» über der
+                                                  Zeile, in der Zeile gestrichen: unnd</note> lob
+                                                  unnd danncksagung synner, unnß vilfaltigenn
+                                                  mitheilenndenn, vatterlichenn gnaden unnd gaben
+                                                  nebennt einer christennlichenn unnd hierzu
+                                                  tugenlichen predig alle wuchen uff den
+                                                  zinnstag<note type="editorial"> Dienstag</note> am
+                                                  morgen jnn unnser statt unnd lanndtschafft
+                                                  zehaltenn anngesechen<note type="editorial">
+                                                  festlegen, festsetzen, Id. VII, 555f.</note> unnd
+                                                  geordnnet, gar jnn abganng unnd vergeßen kommenn
+                                                  welle unnd mengklich nit annderß vermeint.
+                                                  Sidtmalen<note type="editorial"> da, weil, Id. IV,
+                                                  147.</note> wir vonn<note type="critical">Folgt
+                                                  gestrichen: des</note> den gnnadenn goteß diß jarß
+                                                  mit kornn unnd sonnst menschlicher narung
+                                                  rychlich<note type="critical">«rychlich» am Rand
+                                                  mit Verweiszeichen</note> versächenn, wir sygind
+                                                  alleß jamers, armut unnd ellennd allenklich<note type="editorial"> vollständig, Id. I, 170.</note>
+                                                  <note type="critical">Folgt gestrichen: sch</note>
+                                                  enntladen unnd sollind dheiner fernnerenn straaf
+                                                  mer gewertig synn unnd zwaarenn zu erbarmenn, daß
+                                                  sich ein mentsch<note type="critical">Folgt
+                                                  gestrichen: vier</note> verdrießenn laßt, jnn der
+                                                  wuchenn allein ein einzig stundlin der
+                                                  verckhünndung gotlichs wortß zehören unnd gott den
+                                                  herren umb gnad unnd verzychung annzerüffenn unnd
+                                                  zebeten, dargegen aber so geneigt<note type="critical">Folgt gestrichen: ab</note>,
+                                                  albereit und willig<note type="critical">Folgt
+                                                  gestrichen: sunnd</note> fünnff, sechß als mer
+                                                  stunnd ein annderen nach hinnder dem wyn zesizenn
+                                                  unnd sich<note type="critical">«sich» unter der
+                                                  Zeile, in der Zeile gestrichen: unnß</note>
+                                                  selbß<note type="critical">Folgt gestrichen:
+                                                  w</note>, synn<note type="critical">«synn» unter
+                                                  der Zeile, in der Zeile gestrichen: unnser</note>
+                                                  wyb unnd kinnder jnnß verderben unnd ellennd
+                                                  zerichten, unbedacht daß er<note type="critical">«er» über der Zeile, in der Zeile gestrichen:
+                                                  wir</note> […]<note type="critical">Lesung
+                                                  unklar</note> darzu, so daß gröst unnd fürnembst
+                                                  jst, die raach unnd straaf gotteß uff sich<note type="critical">«sich» über der Zeile, in der
+                                                  Zeile gestrichen: unnß</note> ladedt<note type="critical">korrigiert, ursprünglich:
+                                                  ladenndt</note>, also daß zu besorgenn, wo wir
+                                                  unns nit baß zů anrüffung unnd erlanngung
+                                                  gotlicher gnnaden beflyßen, der zornn mit der
+                                                  schweerenn thürunng (wie eß sich schon jm wynn
+                                                  annsechenn laßt) widerumb zunemmen unnd je lennger
+                                                  je größer werden. Damit aber wir mit
+                                                  dannckbarlichem lob, yferigem gebet unnd anndacht
+                                                  der gnnadrychenn mitheilung empfanngnner früchten
+                                                  ynngedennck syginnd unnd gott, unnserenn
+                                                  himelischenn vatter, jnn hulden unnd gnnadenn
+                                                  behalten mögind, jst unnser annsechenn unnd
+                                                  meinung<note type="editorial"> Beschluss, Weisung,
+                                                  vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, daß du
+                                                  zu solicher zinnstag predig unnd allgemeinen gebet
+                                                  alleß volck, rych unnd arm, niemanndtß
+                                                  ußgschloßenn, glycher gestalt unnd nit minnder
+                                                  dann wie eß ann den gewonnlichenn sonn- unnd
+                                                  annderen fyrtagenn gebrucht wirt, sich gwüßlich
+                                                  verfügenn unnd uff solliche bätstund nit daheimen
+                                                  belybenn, zuwergenn<note type="editorial">
+                                                  arbeiten</note>, eßenn ald anndere werch anrichten
+                                                  oder gemeinden- unnd gemeinwerck<note type="editorial"> Gemeinschaftsaufgabe</note>
+                                                  annsechen, sonnder jnn der predig<note type="critical">«uff solliche bätstund … predig»
+                                                  am Rand, in der Zeile gestrichen: deß […]</note>
+                                                  mit<note type="critical">Folgt gestrichen:
+                                                  christennl</note> flyßigen uflosenn<note type="editorial"> aufhorchen, Id. III,
+                                                  1448.</note> unnd anndacht des gebetß, alß
+                                                  christenn lüthenn zsutadt unnd gebürt, halten unnd
+                                                  erzeigenn söllinnd. Söllichem nachzukommen,
+                                                  wellennd wir, daß by jeder kilchhörj die
+                                                  unndervögt, weibel<note type="critical">«weibel»
+                                                  über der Zeile</note>, eegoumer unnd eltisten
+                                                  hieruf ein flyßigß ufsechen habinnd unnd welliche
+                                                  sy finndent, die sich diser zinnstag predig unnd
+                                                  allgemeinenn gebetß gfarlicher wyss unnd one
+                                                  eehafft<note type="editorial"> gewichtig, Id. I,
+                                                  7f.</note> ursachen ußerend, dieselbenn sj dir
+                                                  jederzyt annzegeben unnd zeleiden<note type="editorial"> verzeigen, Id. III, 1086.</note>
+                                                  schuldig synn unnd du dann dieselben nach
+                                                  gstaltsamj der sachen<note type="critical">«der
+                                                  sachen» unter der Zeile, in der Zeile gestrichen:
+                                                  derselben</note> straaffen.</p>
+                                                  <p>Unnd zum letsten sol jnn dynner
+                                                  amptsverwalltung daß unverschampt tannzenn,
+                                                  gumpenn<note type="editorial"> hüpfen, springen,
+                                                  Id. II, 312.</note> unnd schrygen, bessonnderß
+                                                  nechtlicher wyl jnn liechtstubeten<note type="editorial"> nächtlicher Besuch oder
+                                                  nächtliche Zusammenkunft, Id. X, 1183.</note> unnd
+                                                  annderenn zůsammenkomnußenn gar widerumb one alle
+                                                  maß unnd ordnung jm schwannck gonn unnd besonnderß
+                                                  die liechtstubeten vonn wyb unnd mannßpersonnenn,
+                                                  knnaben unnd tochterenn dermaßenn uppig und<note type="critical">«und» über der Zeile</note>
+                                                  lychtfert gehalten werdenn, dz es gar einn
+                                                  unnrath. Da solt du ordnung gebenn, damit solliche
+                                                  unmaß abgestelt unnd annstatt derselbigen zucht
+                                                  unnd erbarkeit geuffnnet, gemeret unnd pflannzet
+                                                  werde.</p>
+                                                  <p>Disere unnsere vermannungen wellist dyne
+                                                  amptßanngehörigen allennthalben durch diß unnser
+                                                  schryben uff jetz sonntag<note type="editorial">
+                                                  11. November</note> jnn den kilchenn, wann daß
+                                                  volck versamlet jst<note type="critical">Folgt
+                                                  gestrichen: u</note>, unnd jerlichenn einmal durch
+                                                  die predicannten ann der cannzel offentlich
+                                                  verläsen unnd verkhünndenn laßenn unnd jnn diserem
+                                                  fal hanndlenn, wie wir dir sonnderß verthruwennd,
+                                                  sinnd wir solliches umb dich jnn gnnaden
+                                                  zuerkhennen geneigt. Datum menntagss den 5ten
+                                                  wintermonats anno d[omini]. 75.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt<placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem frommen, vestenn,
+                                                  unnserem besonnderß<note type="critical">Wort
+                                                  (besonnderß) wiederholt</note> gethrüwenn, lieben
+                                                  burger unnd vogt zu […]<note type="critical">Spatium</note>.</p>
+                                                  <p><placeName ref="Kyburg">Kyburg</placeName>: from vest,<placeName ref="Eglisau">Eglisouw</placeName>: fromer wyser,<placeName ref="Grüningen">Grüningen</placeName>: f. w.,<placeName ref="Greifensess">Gryffennsee</placeName>: f. v.,<placeName ref="Andelfingen">Anndelfingen</placeName>: ersam
+                                                  wyß,<placeName ref="Regensberg">Regensp[erg]</placeName>:
+                                                  f.w.,<placeName ref="Knonau">Knonouw</placeName>: f.w.,<placeName ref="Wädenswil">Wadeschwyl</placeName>: from
+                                                  wyß.</p>
+                                                  <p>Unnd allenn undervögten jnngemein.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

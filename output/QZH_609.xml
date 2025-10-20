@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_609</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_609</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Holzhalb (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1593-06-30"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 460</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, unns khompt für<note type="editorial"> fürkommen: zu Ohren kommen, kund
+                                                  werden, Id. III, 279.</note>, das diser tagen
+                                                  ­toüf­ferisch volck jnn großer vile und anzal
+                                                  unveer von Opffigkon<note type="editorial">
+                                                  Opfikon</note><placeName ref="Opfikon"/> jnn
+                                                  unnser grafschafft<placeName ref="Kyburg (Landvogtei)">Kyburg</placeName>zesammen khommen unnd
+                                                  hin unnd har von den unnseren ein zůlouff gweßen
+                                                  syn sölle, wellichs unns nit wenig befrömbdet.
+                                                  Unnd diewyl dann ein sollichs dheins<note type="editorial"> keines</note> wegs zůgestattnen
+                                                  unnd wir von oberkeits wegen einer söllichen
+                                                  schädlichen sect mit allem erntst zůweeren
+                                                  schuldig sind, so habent wir dich deßen, so unns
+                                                  also angelannget<note type="editorial"> als Kunde
+                                                  zukommen, Id. III, 1330.</note>, hiemit alsbald
+                                                  verstenndigen wellen. Mitt bevelch, das du den
+                                                  sachen, ob dem also, von stundan nachfragen,
+                                                  solliches alles, das es hinfüro nit mehr
+                                                  bescheche, angentz<note type="editorial">
+                                                  unverzüglich, sofort, Id. II, 19.</note>
+                                                  abschaffen unnd dann erntstlichen bevelch an dem
+                                                  unnd annderen orten dyner verwaltung, da es die
+                                                  nothurfft erforderet, geben, dyn ufsechens haben
+                                                  unnd dorob halten, das unnserm, der
+                                                  widerthoüfferischen sect halber offentlich jm
+                                                  truck ußgangnem mandat anderst unnd mit mehrerm
+                                                  erntst und yfer, dann bißhar an etlichen orten von
+                                                  den unnseren beschechen, nachgesetzt, die
+                                                  überträttenden nach ußwyßung<note type="editorial"> Wortlaut, Inhalt, Aussage, Id. XVI, 953.</note>
+                                                  deß mandats gestrafft unnd söllich schädlich
+                                                  volck, das wir jnn unnseren landen nit dulden nach
+                                                  lyden wellend, ußgeschafft unnd vertriben werden,
+                                                  als wir dir hierjnnen alles flyßes und erntsts
+                                                  verthruwen. Datum den letsten junij anno etc.
+                                                  93.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unnserm
+                                                  besonders gethrüwen, lieben burger unnd vogt zů
+                                                  Kyburg Heinrich Holtzhalben.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

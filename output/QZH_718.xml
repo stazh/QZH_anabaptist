@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_718</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_718</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-12-23"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 569</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, eerenvesten, frommen, fürsichtigen, eersammen unnd wyßen, e. v. unnd e[rsam] w[yßheit] seyen myn unnderthenig unnd geflissen dienst jnn aller schuldigen pflicht unnd ghorsamme iederzyth zůvor. Herr burgermeister, jnnsonnders gnedig, günstig unnd gebiettendt herrn, ich wird gloublich berichtet, wie das<persName ref="Schmid, Heini">Heini Schmid</persName>, der ­toüf­fer jmm<placeName ref="Fischenthal">Vischenthal</placeName>(den jr,
+                                                  myn gnedig herren, mir bevolchen, gfenngklichen
+                                                  jnzeziehen etc.), syn hab unnd gůt feil bietten
+                                                  unnd verkouffen sölle unnd willens sey, mit
+                                                  demselben hinweg uß eüwer (myner gnedigen herrn)
+                                                  gricht unnd gebiett zeziehen. Derhalben ich jmm
+                                                  söllichs von oberkeitts wegen jnnammen eüwer myner
+                                                  gnedigen herrn rechtlichen verbietten lassen.
+                                                  Diewyl ich aber nit wüssen mag, was ich uff
+                                                  söllichen fahl ferners gegen jmm fürnemmen sölle,
+                                                  so gelanngt an e. v. unnd e. w. myn underthenigs
+                                                  bitten, die wöllen mich verstenndigen, wie ich
+                                                  mich deß ortts wytter gegen jmme synes gůtz
+                                                  halber, ouch wegen deß uncostens, so als man jnn
+                                                  fahen<note type="editorial"> gefangen
+                                                  nehmen</note> wöllen, ufgangen<note type="editorial"> aufgewendet, Id. II, 14.</note>,
+                                                  verhalten sölle etc. Da dann dem von mir mit allem
+                                                  flyss ghorsammlich nachkommen werden sol, eüch
+                                                  mynen gnedigen herrn hiemit mich, unns alle aber
+                                                  dem gnedigen gott zů gnaden bevelhende. Datum den
+                                                  23. decembris a[nn]o 1601.</p>
+                                                  <p rend="margin-top">E.v. unnd e.w. unntertheniger
+                                                  ghorsammer burger unnd dienner</p>
+                                                  <p>Jacob Zur Eich, vogt der herrschafft<placeName ref="Grüningen">Grüeningen</placeName></p>
+                                                  <p rend="margin-top">Den edlen, eernvesten,
+                                                  frommen, fürsichtigen, eersammen unnd wyßen herrn
+                                                  burgermeister unnd rath der statt Zürich, mynen
+                                                  gnedigen, günstigen unnd gebiettenden herrn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_832</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_832</idno>
+          </msIdentifier>
+          <head>Erstes Verhör von Jakob Trachsler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1609-07-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 683</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Alß beide h[erren] nachgengere uff jren bevelch
+                                                  zů Jacoben Trachslern, dem widerteüffer von
+                                                  Birmmenstorff, uff dz rathuß keert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note>, jnne synes thůn und laßens halben
+                                                  hernachvolgender sachen unnd jnnsonderheit von
+                                                  deswegen befragt, uß waß ursachen er sich zů lannd
+                                                  begeben unnd syn haab unnd gůt hinweg zezüchen er
+                                                  sich für<note type="editorial"> vor</note> üch,
+                                                  myn gnedig h[erren] einem ersammen rath, gstelt
+                                                  habe unnd aber jmme wol jnn wüßen gewäsen, daß
+                                                  dieselbigen ir (der teüfferen) guͤter jren
+                                                  kinderen, so vilmaalen widerumb uß<placeName ref="Mähren">Mehrherren</placeName>khommint,
+                                                  ufbehalten laßen thuͤygint, unnd hierüber syner
+                                                  anntwort begert.</p>
+                                                  <p>Hat er daruf annzeigt, daß er vor 23 jaren
+                                                  synes alters damaalen 17 jerig alß ein junger
+                                                  gsell etwaß zůerfaren von niemandem darzů bewegt,
+                                                  sonder uß fryem willen von Birmenstorff sich an
+                                                  die frömbde begäben unnd dißmaalen jnn Meerherren
+                                                  zů Racvits<note type="editorial"> Rakvice (deutsch<placeName ref="Rakvice">Rakwitz)</placeName></note> ein myl
+                                                  wegs unngfar unnder Auspits<note type="editorial">
+                                                  Hustopeče (deutsch<placeName ref="Hustopeče">Auspitz)</placeName></note> unnder eines
+                                                  evangelischen herren dienst alß ein hußhalter
+                                                  sampt syner eefrauwen unnd zweyen sönen
+                                                  enthalten<note type="editorial"> sich aufhalten,
+                                                  wohnen, Id. II, 1230.</note> thüyge. Da er aber
+                                                  bekanntlich, daß er sich zů der teüferischen sekt,
+                                                  die huterischen genant, bekhenne, unnd wyl man wol
+                                                  wüße, waß dieselbige ußwyße<note type="editorial">
+                                                  beinhalten, vgl. <hl to="http://fwb-online.de/go/ausweisen.s.3v_1732140220"><Hyperlink>http://fwb-online.de/go/ausweisen.s.3v_1732140220</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, syge
+                                                  syn bitt, daß man jnne disputierens und befragung
+                                                  syner religion (darumb er nit alhie sye) rächt
+                                                  unnderlaßen welle.</p>
+                                                  <p>Unnd sidtmaalen er jme etliche maalen
+                                                  fürgenommen, alher zekeeren und synem väterlichem
+                                                  erbgůtt nachzefragen, da daßelbig, alß er von
+                                                  vatterland gezogen, 300 gulden<note type="critical">In der Vorlage: fl</note>geweßen, so jmme syn großvater selig by synem läben verordnet unnd, wie er bericht worden, nach verhanden syn sölle. Darumb<persName ref="Lupfer, Peter">Peter Lupfer</persName>unnd<persName ref="Sigrist, Heini">Heinj Sigrist</persName>villichter wüßens tragint,
+                                                  syge disere syn reiß allein von deß unnd sonst umb
+                                                  dheiner<note type="editorial"> keiner</note>
+                                                  annderen ursach nach<note type="editorial">
+                                                  noch</note> von ufwiglens wegen beschächen, jme
+                                                  auch uf rathspflägen ann ort unnd enden der rath
+                                                  ertheilt worden, für üch, myn gnedig herren,
+                                                  zekeeren. Dem er also nachgangen.</p>
+                                                  <p>Unnd diewyl er nit alhar khommen
+                                                  zedisputeren<note type="critical">In der Vorlage:
+                                                  dedisputeren</note>, ufzewiglen, volck uß dem
+                                                  lannd zefuͤren oder jemandt mit syner sekt zů
+                                                  bekümberen unnd er so bald jme von üch, mynen
+                                                  gnedigen herren, bscheid ervolge, sich widerumb
+                                                  gstrax unnd one verzug nach<placeName ref="Mähren">Merherren</placeName>begeben welle, so bätte er umb
+                                                  erledigung der gfangenschafft.</p>
+                                                  <p rend="margin-top">Diewyl er noch synem anzeigen allein synem gůt nachzefragen herkommen und sich zů unserer religion nit bekennen will, soll er jnert 8 tagen von hinnen fortzüchen und underzwüschent vor den geordneten herren synes gůts beschaffenheit erscheinen, die dann noch dem sy finden, das es gůt syge, jmme noch gstalt der sachen etwas zůzestellen gwalt haben. Actum mentags den 10ten julij 1609 p[raese]nt[ibus]<persName ref="Rahn, Hans Rduolph">herr Raan</persName><bm id="311"/> (statthalter) und beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

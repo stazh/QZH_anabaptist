@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_467</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_467</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von
+                                                  Bern (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-06-26"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 318</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnser fründtlich, willig dienst, sambt was wir
+                                                  eeren, liebs und gůts vermögend zůvor. From,
+                                                  fürsichtig, ersam, wyß, jnnsonders gůt fründt und
+                                                  vertrüwt, lieb, alt eydtgnosßen, die hoch
+                                                  notwendige<note type="critical">Folgt gestrichen:
+                                                  zůsammen</note> von üch<note type="critical">Folgt
+                                                  gestrichen: besten</note> anbestimpte zůsammen
+                                                  kunnft unser (der vier evangelischen) stetten
+                                                  rathsgesandten und theologen zů ryffer
+                                                  beradtschlagung, wie doch der schedlichen<note type="critical">Folgt gestrichen: jnryß</note>,
+                                                  stetigs noch jnryßender widertoufferischer<note type="critical">korrigiert, ursprünglich:
+                                                  ­toüf­ferischer</note> sect anhengern jnn einem
+                                                  ald<note type="editorial"> oder</note> dem andern
+                                                  zůbegegnen, laßend wir uns gantz wol gfallen unnd
+                                                  wellent selbige tagsatzung durch einen unserer
+                                                  rathsfründen sambt einem unserer theologen
+                                                  (vermitelst göttlicher gnaden) besůchen<note type="critical">Folgt gestrichen: laßen</note>,
+                                                  mit den üwern, ouch der andern beiden stetten
+                                                  abgeordneten darob gebürende besprachung und
+                                                  conferentz<note type="critical">Folgt gestrichen:
+                                                  uff hindersich bringen</note> zehalten und uff
+                                                  hindersich bringen<note type="editorial">
+                                                  Hindersich bringen: das Beratzunsgergebnis in die
+                                                  Orte zurückzubringen</note> zů verglychen<note type="editorial"> sich verständigen, einigen, Id.
+                                                  II, 601.</note>. Dann mit üch jederzyt allem dem
+                                                  jhenigen, so unsern landen zů schad und nachteyl
+                                                  reichen <nswk/> möchte<note type="critical">Folgt
+                                                  gestrichen: mit hilf gott deß allmechtigen</note>,
+                                                  zů weeren, sind wir mit hilf deß allmechtigen (dem
+                                                  wir üch und uns alle hieby bevelchend) so
+                                                  schuldig<note type="critical">Folgt gestrichen:
+                                                  so</note> als willig. Datum den 26ten junij anno
+                                                  etc. 85.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Den frommen, fürsichtigen,
+                                                  ersammen, wyßen schultheiß und rath der statt Bern
+                                                  unsern jnsonders gůten fründen und vertruwten
+                                                  lieben alten eydtgnosßen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

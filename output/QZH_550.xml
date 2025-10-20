@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_550</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_550</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Sambstags, den
+                                                  11ten octobris p[raese]nt[ibus] herr Tomman
+                                                  (statthalter) und beid reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1589-10-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 401</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Heinrich Wyßen<note type="editorial"> Zum
+                                                  Lehrer Heinrich Wyss vgl. die verschiedenen
+                                                  Nummern in diesem Band. Er durfte seinen Beruf
+                                                  nicht mehr ausüben, während seiner Frau der
+                                                  Unterricht in der Mädchenschule gestattet war.
+                                                  Über seine Frau vgl. etwa den Ratsbeschluss vom
+                                                  18. April 1597: «Zwüschent schůlmeisterin Künginen
+                                                  eins, sodenne schůlmeister Wyßen frauwen
+                                                  anndersteils, jst erkhendt, diewyl die Wyßin jetzt
+                                                  lange jar mit bewilligung myner herren meitlj
+                                                  schůl gehalten unnd von mynen herren auch den
+                                                  kernen jerlich hatt, so sölle sy wyter also schůl
+                                                  halten mögen unnd jro das nit abgeschlagen syn»
+                                                  (StAZH, B II 259, S. 29).</note><persName ref="Wyss, Heinrich"/> den jungen, so
+                                                  ­toüf­ferischer sect halb abträtthen<note type="editorial"> sich zurückziehen, sich
+                                                  fernhalten, Id. XIV, 1466.</note> syn soll, jst
+                                                  ein gleit zum rechten und wider davon<note type="editorial"> Geleit auf dem Weg zum und
+                                                  zurück vom Gericht</note>, uff jetzt mitwuchen vor
+                                                  den schůlherren und etlichen den glerten uffem
+                                                  rathuß zůerschynnen, bewilliget, je nachdem er
+                                                  dann bscheid gibt; soll aber der gebür nach
+                                                  gehandlet werden.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Sambstags, den
+                                                  11ten octobris p[raese]nt[ibus] herr Tomman
+                                                  (statthalter) und beid reth».</p>
+    </back>
+  </text>
+</TEI>

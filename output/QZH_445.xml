@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_445</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_445</idno>
+          </msIdentifier>
+          <head>Ulrich Tubbrunner an Christoph
+                                                  Breitinger
+                                                  und Johann Bartholomäus Thumysen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1584-08-01"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 296</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Gottes gnad, ouch alles gůts sampt minem
+                                                  fründtlichen grůß und dienstwillige zevor. Herr
+                                                  statthalter, ehrsame, voruß aber fromme, getrüwe,
+                                                  gnedige, günstige ir min herren, nochdem die
+                                                  niderlendschen<note type="editorial"> aus einem
+                                                  tiefer gelegenen Land stammend, vgl. Id. III,
+                                                  1303.</note> teüffer uß dem land<placeName ref="Mähren">Merhen</placeName>nun ettliche jar haͤr zů uns uß
+                                                  irem land hinuff kon und das der unseren von uns
+                                                  uff ir syt zur endtfeurung und nun dis jars<note type="critical">Folgt gestrichen:
+                                                  glichergstalt</note> mit glichem vorhaben abermals
+                                                  verhanden, ja da ist allhie bj uns zů<placeName ref="Birmensdorf">Birmensdorff</placeName>under
+                                                  anderen der Bartlin Stocklin<note type="editorial"> Gemäss Wenesch Keller war Bartli Stockli ein
+                                                  junger Schneider, der sich den Hutterern
+                                                  angeschlossen hatte und in Šakvice (dt.<placeName ref="Šakvice">Schackwitz)</placeName>lebte.</note><persName ref="Stockli, Bartli"/>
+                                                  verhanden, so des vergangnen winters in Merhen
+                                                  gsin und im freüling widernn zů uns hinuff
+                                                  kon<note type="editorial"> gekommen</note> aber dz
+                                                  nit anderer gstalt, dan dz er mit rheumen des
+                                                  lands Merhen vil biderber lüten zů<placeName ref="Aesch">Äsch</placeName>und Birmensdorff dahin gbracht, das
+                                                  sj willens, mit im hinabzůzüchen, so da sunst, wan
+                                                  er nit gsin, wol alsbald an das land nie gdacht,
+                                                  ich gschwigen, erst dz sy sich begen, dahin
+                                                  zhusen. Diewyl und aber soͤmlichs nit allein zur
+                                                  abfeurung unsers gloubens bschicht desglich zur
+                                                  verachtung, schmützung und schmechung des
+                                                  selbigen, ouch zur schweinerung<note type="editorial"> Schmälerung, Abnahme, Id. IX,
+                                                  1924.</note>des kilchgangs, diewil wan sy dahin vermandt, sy unverholen doͤrffend spraͤchen, was sy under unnd by den verrůchten gottlosen lüten thůn sollend ald wellend, so da noch derzyt verlhoren und verdambt (wie dan der ernendt Stocklin mit sampt sinem gspaanen,<persName ref="Huser, Johannes">Johansen Huseren</persName>ouch zů Birmensdorff, der<persName ref="Müller (von Aesch)">alten Mülleren</persName>zů Äsch, so sy zum
+                                                  kilchgang vermanet, derglich zur antwort gen),
+                                                  sonder somlichs ouch reicht zur übergaͤbung des
+                                                  vaterlands und der vereelicheten sonderem großem
+                                                  zwispalt, ouch dthrennung der selbigen, diewyl
+                                                  eins in dz land wil, dz ander aber nit und sy
+                                                  sunst ouch dornäbent hin mit täglichem prassen,
+                                                  zerren<note type="editorial"> übermässig essen und
+                                                  trinken</note>, schlemmen, toͤsen<note type="editorial"> zechen, schlemmen, Id. XIII,
+                                                  1810.</note> und tempffen<note type="editorial">
+                                                  zechen, schlemmen, Id. XII, 1915.</note> sich
+                                                  dermaß uff die strass rüstendt, dz sy hiemit vil
+                                                  biderber lüten liederlich und ufflüpffig machend,
+                                                  volgender zyt inen noch zůglich dahin zfaren
+                                                  zhandlen und zwandlen und in dem, das sy also mit
+                                                  gůtem laͤben abscheidend, verschaffend, das schier
+                                                  niemands mher wie voran wil huß han<note type="critical">Folgt gestrichen: sond</note> und
+                                                  sich dan verderblicher nit sin könd zů statt und
+                                                  land und ouch undergang des selbigen. Ja da han
+                                                  ich üch soͤmlichs nit koͤnen verhalten<note type="editorial"> vorenthalten, unterschlagen, Id.
+                                                  II, 1233.</note>, damit ich nit als ein untrüwer
+                                                  würd anklagt, thů üch den soͤmlichs klagswyß
+                                                  anzeigen und eroffnen als der raͤchten ordenlichen
+                                                  oberkeit gůter hoffnung, das ir dermaß werdend dem
+                                                  handlen mit sampt rhat und hilff unserer gnedigen
+                                                  herren und oberen, das nit allein sy sonder ouch
+                                                  andere mit inen könnend und moͤgend sheen, mercken
+                                                  und verston, das sy als unghorsame lüt nit wol
+                                                  sonder übel handlend, drum ouch billich siend
+                                                  zůstraffen. Und wiewol ich üch, gnedig günstig ir
+                                                  min herren, da hierin wie den sachen zthůnd<note type="critical">Folgt gestrichen: kein</note> als
+                                                  den wysen kein form wil fürschüben<note type="editorial"> keine form fürschieben: keine
+                                                  Vorschrift vorbereiten/vorlegen</note>, ja so weiß
+                                                  ich doch uß der erfarung, so vil erlerntt, das wan
+                                                  man denen lütten nit die abwysung gibt mit lhaͤrem
+                                                  seckel und denen, so darvon wend, mit
+                                                  hinderhaltung des gůts ein rigel stost, sonder da
+                                                  derhalb einem iheden in dz land<placeName ref="Mähren">Merhen</placeName>glich wie in andere land frygheit
+                                                  ladt, mit sinem haab und gůt zfaren, und da
+                                                  deshalb nit ein underscheid macht, ia dz die sach
+                                                  nit beßer, sonder ihe lenger ihe boͤser wirt
+                                                  werden, da es ihe lenger ihe mhe liederlich lüt
+                                                  werd gen und das das fürer<note type="editorial">
+                                                  weiter, von jetzt an, Id. I, 968.</note> volgender
+                                                  zyt mher den bishar in das land werdend
+                                                  hinabfaren. Und das melden ich nun nit boͤser
+                                                  sonder guͤter meinung, ob man villicht so vil des
+                                                  mhe und ehe mitel, staͤg und waͤg funde, das die
+                                                  sach<note type="critical">Folgt gestrichen:
+                                                  ver</note> nit verboͤseret, sonder verbesseret
+                                                  wurde, hierum ouch zgůtem zogen und gbracht und dz
+                                                  in dem herren gott, dem ich üch hieby, gnedig
+                                                  günstig ir min herren, under sin gnedig schutz und
+                                                  schirmm wil han befolhen. Datum den ersten tag
+                                                  augsten des 84. jars der kleinneren zaal<note type="editorial"> Gezählt sind nur Zehner und
+                                                  Einer des Kalenderjahres.</note>.</p>
+                                                  <p rend="margin-top">U[wer] w[illiger] Huldrych
+                                                  Tubbrunner, pfarrer zů<placeName ref="Birmensdorf">Birmensdorff</placeName></p>
+                                                  <p rend="margin-top">An die frommen, ehrsamen,
+                                                  ouch wysen herren m[eister] Stoffel Breitinger,
+                                                  der miner gnedigen herren statthalter, und ouch an
+                                                  m[eister] Johans Barthlome Thumysen als an die
+                                                  obervoͤgt zů Birmensdorff und<placeName ref="Urdorf">Urdorff</placeName>den minen gnedigen günstigen
+                                                  herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

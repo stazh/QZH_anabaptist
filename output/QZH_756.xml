@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_756</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_756</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an ihre Landvögte (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1603-05-09"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 607</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrwüer,
+                                                  lieber burger und vogt, wiewol unnsere wider die
+                                                  schedlich sect der widerthoüfferyg offentlich jm
+                                                  truck<note type="critical">«jm truck» am Rand mit
+                                                  Verweiszeichen</note> ußgangne mandat luter
+                                                  zůgebend<note type="editorial"> eine (gesetzliche)
+                                                  Bestimmung enthalten, Id. II, 95.</note>, wie man
+                                                  sich gegen den ­toüf­feren, jnnsonderheit aber
+                                                  gegen den ufwigleren, lehreren<note type="critical">«lehrerern» am Rand mit
+                                                  Verweiszeichen</note> und redlinfüreren halten
+                                                  unnd dieselben gfengklich annemmen und uns zůfüren
+                                                  sölle, so vernemmend und erfarend<note type="critical">«und erfarend» am Rand mit
+                                                  Verweiszeichen</note> wir jedoch, das sölliche
+                                                  sect jnn unnseren landen schier mehr zů- dann
+                                                  abnimpt unnd das jnnsonderheit zů der jetzigen
+                                                  zyt<note type="critical">Folgt gestrichen: hin und
+                                                  her uff unnser landschafft</note> vil frömbde und
+                                                  heimbsche lehrer und redlinfürer jm land<note type="critical">«jm land» am Rand mit
+                                                  Verweiszeichen</note> verhanden sygind, welliche
+                                                  ohn alles schüchen offentlich hin unnd wider
+                                                  unnser landtschafft durchstrychind, die lüth
+                                                  befleckind, ufwiglind unnd verfürind (Kyburg:<note type="critical">Folgt gestrichen: jnnsonderheit
+                                                  sol</note><placeName ref="Kyburg"/> Unnd mitt
+                                                  nammen sölliche khunden durch<placeName ref="Flaach">Flaach</placeName>und über den<placeName ref="Irchel (Hügelzug)">Irchel</placeName>jren starchen gang
+                                                  habint)<note type="critical">(Kyburg … habint)» am
+                                                  Rand mit Verweiszeichen</note>, das alles danaher
+                                                  volget, das man sicht, das unnseren mandaten gegen
+                                                  jnen nit nachgesetzt wirt. Unnd diewyl nun wir von
+                                                  oberkeit wegen schuldig sind, deßhalber jnsehens
+                                                  zethůnd<note type="editorial"> insehen tun:
+                                                  Vorkehrung treffen, einschreiten, Id. VII,
+                                                  562.</note>, dann wir je söllich volck jnn
+                                                  unnseren landen nit dulden khönnend noch wöllend,
+                                                  so bevelchend wir dir mit allem erntst, das du
+                                                  unnser ­toüf­fer mandat für dich nemist, demselben
+                                                  gstrax nachgangist unnd jnnsonderheit uff die
+                                                  frömbden und heimbschen lehrer und ufwigler
+                                                  angents<note type="editorial"> unverzüglich,
+                                                  sofort, Id. II, 19.</note> mit flyß unnd thrüwen
+                                                  dyn spech<note type="editorial"> Nachforschung,
+                                                  Fahndung, Id. X, 76.</note> machist, damit, wo
+                                                  dieselben jnn dyner verwaltung zůbetretten<note type="editorial"> antreffen, Id. XIV, 1486.</note>
+                                                  sind, sy ohn alles verschonen gfencklich
+                                                  angenommen werdint, gegen jnen nach lut unnsers
+                                                  mandats zehandlen. Deß wellend wir unns zů dir
+                                                  gentzlich versehen<note type="critical">korrigiert, ursprünglich: versehend</note> unnd
+                                                  wo von dir oder dynen underamptlüten hierjnnen
+                                                  etwas fharleßigkeit gespürt werden sölte,
+                                                  dasselbig von dir und jnen zů großen ungnaden
+                                                  ufnemmen. Datum den 9ten meyens anno 1604.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An die ußeren obevögt<placeName ref="Kyburg">(Kyburg</placeName>,<placeName ref="Grüningen">Grüningen</placeName>,<placeName ref="Greifensee">Gryffensee</placeName>,<placeName ref="Andelfingen">Andelfingen</placeName>,<placeName ref="Eglisau">Eglisow</placeName>,<placeName ref="Regensberg">Regensperg</placeName>,<placeName ref="Knonau">Knonow</placeName>,<placeName ref="Wädenswil">Wädeschwyl</placeName>).</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

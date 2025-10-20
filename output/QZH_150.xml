@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_150</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_150</idno>
+          </msIdentifier>
+          <head>Urfehdebrief des Täufers Hans Bächi
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1530-03-24"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 1</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ich,<persName ref="Bächi, Hans">Hans Beͣchi</persName>vonn Kymenhof<note type="editorial"> Chimenhof bei
+                                                  Embrach, in der Landvogtei
+                                                  Kyburg.</note><placeName ref="Chimenhof"/><bm id="16"/>, bekenn offenlich mit disem brieff, alls
+                                                  dann ich mich der verfuerischen töufferyg, so
+                                                  wider got unnd sin heylig ewig wort ist,
+                                                  underwunden<note type="editorial"> sich einlassen,
+                                                  Id. XVI, 570f.</note>, derselbigenn rott unnd
+                                                  seckt angehanget, ouch darumb vor jarenn jn myner
+                                                  gnädgenn herrenn vonn<placeName ref="Zürich">Zürich</placeName>fengknus<note type="editorial">
+                                                  Gefängnis</note> kommenn bin und domals ein urfech
+                                                  geschworn, darvon zestan, und aber dasselbig
+                                                  ubergangenn. Dann ich mich söllicher verfuerischen
+                                                  töuffery siderhar wider underwundenn und geuebt.
+                                                  Desswegen mich die gemelltenn<note type="editorial"> genannten</note>myne herren widerumb fengklichenn annemmen wöllen lassen, wo ich nit entwichenn. Uff söllichs mich der fromm, fürnäm, wyß Johans<persName ref="Lavater, Hans Rudolf">Ruedolff Lavater</persName><bm id="17"/>, burger<placeName ref="Zürich">Zürich</placeName>, der zyt vogt zu<placeName ref="Kyburg">Kyburg</placeName>, myn günstiger
+                                                  lieber herr, uff myner früntschafft<note type="editorial"> Verwandtschaft, Sippe, Id. I,
+                                                  1307.</note> groß bitt jn nammen gemellter myner
+                                                  herrenn gnediglichen on alle engelltnus wider heim
+                                                  zů dem mynen, ouch zů wyb und kind erloupt und
+                                                  lassen kommenn und mir enkhein<note type="editorial"> kein, Id. III, 316 u.
+                                                  318.</note> andere straff nit uffgelegt, dann das
+                                                  ich da einen ufgehepten eyde lyblich<note type="editorial"> durch körperliche Berührung der
+                                                  Bibel, vgl.
+                                                  http://fwb-online.de/go/leiblich.s.4adj_1732171365
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> zů got
+                                                  geschworn, das ich vonn söllicher unnwarhafftenn
+                                                  töufferyg abston welle und mich dero myn lebenlang
+                                                  nit meer gebruchenn, ouch mich von allenn denen,
+                                                  so sich deren uͤben und der seckt sind, zeüssern,
+                                                  dhein<note type="editorial"> keine</note>
+                                                  bywonung<note type="editorial"> Umgang, Id. XVI,
+                                                  321f.</note> by jnen nit haben und mich
+                                                  nyennermeer zů jnenn ziehen noch rotten ald<note type="editorial"> oder</note> zůschlahen, sonders
+                                                  der ­toüf­feryg fryg<note type="editorial">
+                                                  frei</note> abzeston. Ouch söllich lütt unnd
+                                                  personen nit herbergen, spysenn noch trencken,
+                                                  jnen dess gar khein gestand<note type="editorial">
+                                                  Unterstützung, Id. XI, 1005.</note>, ouch kein
+                                                  underschlouff, ufenthalt noch fürdernus nit geben
+                                                  kheins weͣgs, ouch dis sach unnd handlung und was
+                                                  sich darinn verlouffen<note type="editorial">
+                                                  geschehen, Id. III, 1136.</note> hatt gegen mynen
+                                                  herren vonn Zürich, jrenn amptlütenn unnd
+                                                  verwandten jn statt unnd uff dem land, ouch gegen
+                                                  allen denen, so jemer haͤrinn verdacht werden,
+                                                  nicht reͣchen, äffern<note type="editorial">
+                                                  nachträglich zu berichtigen, Id. I, 106.</note>
+                                                  noch mellden unnd desswegen niemandtt straffenn,
+                                                  vehen<note type="editorial"> verfolgen, befeinden,
+                                                  Id. I, 644.</note>, fynden noch hassen mit worten,
+                                                  werckhen, rätenn noch gethätenn weder heimlich
+                                                  noch offenlich mitt noch on recht dheins weͣgs nit
+                                                  schaffen gerachen werd, sonders hierumb ein
+                                                  uffreͣcht, warhafft, unzerbrochen urfechd gegen
+                                                  mengclichem<note type="editorial"> jeden</note>
+                                                  styff halltenn, dem statt und gnůg thůn alles on
+                                                  gevärd<note type="editorial"> Betrug, Id. I,
+                                                  878.</note>, und zů einer warhafften halltung
+                                                  disers urfechs. So hab ich den gemellten mynen
+                                                  herren von Zürich zweyhundert guldin guͤter
+                                                  zurcher weͣrung vertröst<note type="editorial">
+                                                  verbürgen, Id. XIV, 1407-1414.</note>und jnen darumb zů reͣchten güllten unnd bürgen ggeben die erbarn<persName ref="Bächi, Klaus">Claus Beͣche</persName>vonn<placeName ref="Chimenhof">Kymenhoff</placeName>, myn lieben brůder, und<persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>vonn<placeName ref="Rüti">Rütj</placeName>, myn lieben vetter. Also wo ich
+                                                  söllich urfech und das, so mir darinn yngebund
+                                                  ist, nit hielt, das jn eym oder meer stucken
+                                                  ubertraͤtti uber kurtz oder lang, dass dann die
+                                                  gemellten myne troͤster uff myner herrenn
+                                                  erforderen mich jnen wider für reͣcht stellen
+                                                  oder, so sy mich nitt stalltind, jnen die
+                                                  bestimptenn zweyhundert guldin trostung gelt<note type="editorial"> Tröstungsgeld: Bürgschaft</note>
+                                                  on alle fürwort<note type="editorial"> Vorbehalt,
+                                                  Id. XVI, 1678.</note> also bar leggenn unnd
+                                                  geͣbenn, und wo ich darüber in myner herren von
+                                                  Zürich statt, gericht, gebiettenn unnd landenn
+                                                  oder ann anderenn enden betraͤtten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+                                                  1486.</note> wird, dass alls dann nützit
+                                                  desterminder zů mir, mynem lyb und leͣben als zů
+                                                  eynem übelthaͤter meyneyden mann gericht soͤlle
+                                                  werdenn. Ich han ouch wyter zůgseit, doch nit jmm
+                                                  eyd geschworn, sonder das sust zůgeseyt, allso das
+                                                  ich wie ander fromm cristenlüt ze kilchen gan unnd
+                                                  der predig zů hörenn unnd mich dess mit dheynem
+                                                  gevaͤrdenn nitt absündern, alles on gevaͤrd war
+                                                  hallten.</p>
+                                                  <p rend="margin-top">Wir die vorgenannten<persName ref="Bächi, Klaus">Claus Beͣchi</persName><bm id="18"/>unnd<persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>, globend und verspreͣchend
+                                                  ouch beyd gemeynlich für uns und all unser erbenn
+                                                  by unsernn guͤten trüwenn an eyds statt, gegen den
+                                                  vorgemellten unsernn herren unnd obern vonn Zürich
+                                                  umb zweyhundert guldin jr statt weͣrung für
+                                                  genantenn Hans Beͣchi, unsern brůder unnd fründ,
+                                                  wie obgeschribenn stadt, recht geweͣren güllten
+                                                  und bürgen zesin unnd das alles, so der
+                                                  bürgschafft weͣgen, wie obgeredt unnd bedingt ist,
+                                                  war und staͤtt hallten, dess gelobenn unnd
+                                                  gnůgthůn on alle jnred alles on gevaͤrd, so wyt
+                                                  unser lyb, hab und gůt gelangenn mag.</p>
+                                                  <p rend="margin-top">Unnd dess zů warem urkhund so hab ich, obgenanter<persName ref="Bächi, Hans">Hans Baͤchi</persName>, alls der thaͤter und seͣcher unnd wir, die vorgenanten<persName ref="Bächi, Klaus">Claus Beͣchi</persName>und<persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>, beyd alls güllten und bürgen all dryg gemeynlich erbeͣttenn den ersamen wolbescheidnen<persName ref="Wolf, Heinrich">Heinrich Wolff</persName>, burger<placeName ref="Zürich">Zürich</placeName>, der zyt schaffner zů<placeName ref="Embrach">Embrach</placeName>, das er sin
+                                                  ynsigel für uns und unser erbenn, doch jmm und
+                                                  sinen erbenn jnn allweg on schaͤdlich, offenlich
+                                                  ann disen brieff gehenckt hatt. Ggeͣbenn uff
+                                                  dornstag vor mittfasten nach crists geburt gezallt
+                                                  fünfftzeͣhennhundert unnd dryssig jare.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

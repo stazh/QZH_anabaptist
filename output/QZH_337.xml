@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_337</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_337</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Felix
+                                                  Brunner
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1574-09-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 188</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders getrüwer,
+                                                  lieber burger und vogt, wir hetten uns zů den
+                                                  zweygen ­toüf­feren, so du uns hievor zůgeschickt,
+                                                  hochs zů sagen, unsern christenlichen mandathen
+                                                  besonders mit besůchung deß ordenlichen<note type="critical">«ordenlichen» am Rand mit
+                                                  Verweiszeichen</note> kilchgangs und predigen
+                                                  gentzlich versehen, sy dem statt gethaan. Diewyl
+                                                  es aber vermög dines schrybens nit beschicht und
+                                                  sich nebent jnen vil diser<note type="critical">Es
+                                                  folgt eine Wortstreichung.</note> seckt<note type="critical">In der Vorlage: seck</note> (so
+                                                  dheins<note type="editorial"> keines</note> wegs
+                                                  zedulden) ouch anmaßen thůnd, so jst hieruf
+                                                  sollicher ungehorsamer personen halben jnn
+                                                  gmein<note type="critical">«sollicher ungehorsamer
+                                                  … gmein» am Rand</note> unnser bevelch, wellicher
+                                                  derselben nit zum rechten christenlichen kilchgang
+                                                  gadt, sonders sich deß von söllichen<note type="critical">Folgt gestrichen: anh</note> syner
+                                                  undernommen seckt oder sonsten gfärlicher wyß der
+                                                  kilchen und predigen üsseret, den<note type="critical">Folgt gestrichen: solt du</note>
+                                                  ald<note type="editorial"> oder</note> dieselben,
+                                                  so zů betretten<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note> sind, solt du
+                                                  gfengklich annemmen und nit ußlasßen, biß er sich
+                                                  begibt, unsern christenlichen satzungen und
+                                                  ordnungen gemesß zehalten unnd ouch umb syn
+                                                  übersehung fünff pfund bůß<note type="critical">Folgt gestrichen: jnziehen</note> jme abnemmen.
+                                                  Die aber nit zů byfachen, sonders<note type="critical">Folgt gestrichen: sich</note>
+                                                  usserthalb diner amptsverwaltung<note type="critical">«diner amptsverwaltung» am Rand
+                                                  mit Verweiszeichen, in der Zeile gestrichen:
+                                                  enthaltend</note> underschlouff sůchtend und
+                                                  hettind<note type="critical">«und hettind» über
+                                                  der Zeile</note> und aber noch hab und gůt jm land
+                                                  hand, da wellist von den besitzern derselben
+                                                  guͤtern von deß abgwichnen wegen v pfund<note type="critical">In der Vorlage: lb</note> für syn
+                                                  ungehorsame jnziechen, die sy dann<note type="critical">Folgt gestrichen: er dann</note>
+                                                  gegen verlychen ouch abrechnen mögend, unnd das
+                                                  also gegen einem jeden, er syge zůbegriffen ald
+                                                  nitt, so offt<note type="critical">Folgt
+                                                  gestrichen: sy</note> von jnen wider unsere
+                                                  mandatha gehandlet wirt, bruchen. Der achtung, sy
+                                                  hierdurch von jrer<note type="critical">Folgt
+                                                  gestrichen: halß</note> hartnegkigkeit<note type="critical">Folgt gestrichen: zeb</note>
+                                                  erlicher masßen zebringen syn werdint, und
+                                                  vornaher etwa ouch mit jnen<note type="critical">«mit jnen» unter der Zeile, in der Zeile:
+                                                  gebrucht</note> also gehandlet worden. Wo dir aber
+                                                  etwas beschwerlichs begegnet, darumb magst du wol
+                                                  witern bscheidts von uns jederzyt<note type="critical">«von uns jederzyt» am Rand mit
+                                                  Verweiszeichen</note> begeren, der din
+                                                  günstigklichen verlangen<note type="critical">Folgt gestrichen: datum</note>, als uns nit
+                                                  zwyflet, deß endts an dinem yffer und flysß nüdt
+                                                  erwinden<note type="editorial"> fehlen, mangeln,
+                                                  Id. XVI, 580f.</note>, das stadt uns jnn gnaden zů
+                                                  erkhennen. Datum mitwuchs den 15ten septembris
+                                                  a[nn]o etc. 74.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

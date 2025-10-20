@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_817</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_817</idno>
+          </msIdentifier>
+          <head>Hans Heinrich Kolb an seine Ehefrau
+                                                  Magdalena Meister
+                                                  Hans Heinrich Kolb und Magdalena Meister wurden am
+                                                  11. Februar 1594 im Grossmünster Zürich getraut,
+                                                  vgl. EDB 2612.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1608-10-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 668</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Die gnad des herren seige mitt uns allen.
+                                                  Erende, liebi husfrauw Madalena, ich laß dich
+                                                  abermaalen wüßen, das es mir wol gaht im<placeName ref="Mähren">Märenland</placeName>uf der
+                                                  Neüwmüli<note type="editorial"> Nové Mlýny
+                                                  (deutsch<placeName ref="Nové Mlýny">Neumühl)</placeName></note>, wie ich dir dan schon han zum dritten
+                                                  mal geschriben, aber nach<note type="critical">In
+                                                  Nr. 130 folgt: nie</note> kein bscheid nach
+                                                  <nswk/> antwort empfangen. Diewil ich aber ietz
+                                                  gwüß bottschaft hab, dz unsere bruͤderen sind
+                                                  ufengeschickt worden, hab ich nit wellen ermanglen
+                                                  dir abermalen zu schriben by zeigeren<note type="editorial"> Bote, Überbringer und Vorzeiger
+                                                  eines Briefs, Id. XVII, 393.</note>disem minem hertzlieben mitbrůder<persName ref="Walder, Jesaja">Esias Walder</persName>, der dich auch mundtlichen
+                                                  kan brichten aler sachen halben, wie es ym land zu
+                                                  Mären zů gaht under unser gmeinden, und minthalben
+                                                  und dinethalben jr bricht han. Das ich eister<note type="editorial"> immer, Id. I, 532.</note> da hin
+                                                  han wellen<note type="critical">Nr. 130: ouch, dan
+                                                  ich im alle mine sachen han geoffenbaret
+                                                  dinethalben und minethalben. Darum ich selbs
+                                                  (statt «und dinethalben jr bricht han, das ich
+                                                  eister da hin han wellen»)</note>, bin verursachet
+                                                  worden durch den yfer<note type="critical">In der
+                                                  Vorlage: yler</note> gottes, der mich langi zyt
+                                                  hatt dryben, wie du wol weist<note type="critical">Nr. 130: selber můst (statt ‘wol weist’)</note>
+                                                  zugnus gen, das ich<note type="critical">Folgt in
+                                                  der Vorlage: ich (Wortwiederholung)</note> mich
+                                                  oft gägen dir han klaget, ich wüße nitt sälig zu
+                                                  werden under dem gotlosen volck. Darum söle ich
+                                                  usgan us<placeName ref="Babylon">Babilon</placeName>und das
+                                                  pfund, das mir der herr hatt gäben, nitt
+                                                  vergraben, sunder dem herren daß sälbig mögi<note type="critical">Wort fehlt in Nr. 130</note> mitt
+                                                  wůcher zůstelen, wies dan der her yn
+                                                  evangelio<note type="critical">So in Nr. 130; in
+                                                  der Vorlage: ehielung</note> sälbs von uns
+                                                  begärt.<note type="editorial"> Vgl. Mt
+                                                  25,14–30</note>
+                                                  <note type="critical">Folgt in Nr. 130: Wyters,
+                                                  hertzliebe hußfrouw Madalena, wüß, das ich
+                                                  empfangen han im Sarganserland xxxv g[ulden] v
+                                                  b[a]z[en] von Clous Schlegel und Gorius Fygi von
+                                                  Meltz [Mels, gegenüber Sargans], die thů im
+                                                  rächenbůch dur.</note></p>
+                                                  <p>Witter, hertzliebe<note type="critical">Folgt
+                                                  in Nr. 130: hußfrouw</note> Madalena, du wyrst ya
+                                                  wol wüßen und<note type="critical">«wüßen und»
+                                                  fehlt in Nr. 130</note> verstanden han<note type="critical">So in Nr. 130; in der Vorlage
+                                                  fehlt «han»</note>in dim schriben, so dir der<persName ref="Denzler, Melchior">Melcher Däntzler</persName>hatt bracht, was min begären an dich ist:
+                                                  Du<note type="critical">«du» fehlt in Nr.
+                                                  130</note> söllist mir vj hämpter<note type="editorial"> Hemden</note>, auch xij
+                                                  fatzenletli<note type="editorial"> kleines Tuch
+                                                  (Taschen- oder Handtuch), Id. I, 1144.</note>schicken, sy nützit nütt daheimen. Witter hast verstanden min begär von dir<persName ref="Kolb, Hans Ruedi">und Růdi</persName>, min lieben sun<note type="critical">Nr. 130: minem hertzlieben sun
+                                                  Růdj</note>, das ich uf dysmal nütt von dem herren
+                                                  wünsch und begär<note type="critical">«und begär»
+                                                  fehlt in Nr. 130</note>, dan<note type="critical">«dan» über der Zeile; Nr. 130: als</note> das jr
+                                                  beidi mitt den ietzigen bruͤderen zů mir kumind
+                                                  und bi mir wonind bi der<placeName ref="Nové Mlýny">Nüwmüli</placeName>, dan es dir von bruͤderen und
+                                                  schwösteren alles gůtz wurde beschäen.</p>
+                                                  <p>Dan du hast<note type="critical">Nr. 130:
+                                                  weist</note> din pfund auch vom herren empfangen,
+                                                  darum schauw du nun zů, das du das sälbig nitt
+                                                  vergrabist, sunder dem herren mitt wůcher
+                                                  widergäbist, dan du kanst dich nitt entschuldigen,
+                                                  das du nütt habist empfangen oder nütt wüßist, dan
+                                                  du weist gnug, damitt du nitt<note type="critical">Folgt in Nr. 130: etwan</note> mitt zweien růtten
+                                                  gschlagen werdist<note type="critical">Nr. 130:
+                                                  werdist geschlagen ders herren willen, wüße und in
+                                                  aber nit hab gethan</note>, wellist deshalben,
+                                                  hertzlieby husfrauw Madalena, um gottes willen von
+                                                  mir, dinem eman, gebätten sin und<note type="critical">Folgt in Nr. 130 gestrichen: deß
+                                                  Růdis betrachten</note> din heil und säligkeit wie
+                                                  auch mines hertzlieben kindes Růdi<note type="critical">Nr. 130: dines hertzlieben
+                                                  [gestrichen: brůders] kinds</note> betrachten und
+                                                  von dem gotloßen gyt<note type="editorial">
+                                                  Geiz</note> abstan<note type="critical">«abstan»
+                                                  fehlt in Nr. 130</note>, auch nit mer so gytig
+                                                  sin<note type="critical">Nr. 130: wůcher wider den
+                                                  herren und synen gsalbeten abstan (statt «nit mer
+                                                  so gytig sin»)</note> und dich zů jm bekeren, so
+                                                  wirt er sich zu dir bekeren und diner misdatt
+                                                  gnedig sin, nit mehr gedencken<note type="critical">Nr. 130: bekeeren und dir wie
+                                                  allen ruͤwenden und bůßvertifen sünderen gnedig
+                                                  syn und diner mißethaat nit mehr
+                                                  gedencken.</note>.</p>
+                                                  <p>Wytters, hertzlieby husfrauw Madlena, hast du
+                                                  etwas heimlichs gedancken und dich din gwüßni
+                                                  druckett, und es den dinen wie auch den minen nitt
+                                                  darfst ofenbaren, so darfst zeiger dises brieffs,
+                                                  disem minem mittbrůder Esias Walder, wol
+                                                  ofenbaren, so sag jm es und sprich in an<note type="critical">Nr. 130: was du gsinet seigist
+                                                  (statt «so sag jm es und sprich in an»)</note>.
+                                                  So<note type="critical">Nr. 130: Wyters, so</note>
+                                                  du begärst mitt jme zůziehen, als ich dir
+                                                  verthruwen, so sprich in an. Er wirtt dir
+                                                  anleitung gen, damitt du sampt dem Růdy kanst fort
+                                                  kumen. Hiemitt schicken ich dir ein
+                                                  krampfring<note type="editorial"> Fingerring, Id.
+                                                  VI, 1091.</note>, dem Růdy sin Basler gält<note type="critical">Folgt in Nr. 130: eins zum
+                                                  dänckpfennig</note>. Han dir und dem Růdi<note type="critical">Folgt in Nr. 130: ieden</note>
+                                                  wellen<note type="critical">Folgt in Nr. 130: ein
+                                                  bar</note> mäßer schicken, händ nitt mögen fertig
+                                                  werden uf dysmal. Nitt witter dan<note type="critical">Nr. 130: Wyters wüß, das ich minen
+                                                  schwösteren ouch allemaal han gschryben, aber ouch
+                                                  nie kein bscheid empfangen (statt: Nitt witter
+                                                  dan)</note> gruͤtz mir dini kynd alle und den
+                                                  dochterman und dine schwösteren und schwögeren und
+                                                  sind<note type="critical">In der Vorlage:
+                                                  sin</note> allesamen von mir vil dusend malen<note type="critical">«vil dusend malen» fehlt in Nr.
+                                                  130</note> gruͤtzt.</p>
+                                                  <p>Der vatter aller gnaden und brunen alles gůtten
+                                                  verlyche allen sinen geist, das<note type="critical">So in Nr. 130; in der Vorlage:
+                                                  und</note> jr allesampt durch jn zur warheitt und
+                                                  auch erkantnus der sälligen<note type="critical">Nr. 130: seligkeit</note> kumind durch den vatter
+                                                  aller gnaden und sines verdiensts Jesus Kristus
+                                                  amen. Datum den xj. wynmonat [1608]<note type="critical">Nr. 130: deß 1608. jars</note> ym
+                                                  Märendland uf der<placeName ref="Nové Mlýny">Nüwmüli</placeName>.</p>
+                                                  <p rend="margin-top">Din rächter, getrüwer,
+                                                  hertzlieber eman</p>
+                                                  <p>in Kristo Hans Heinrich Kolb</p>
+                                                  <p rend="margin-top">Diser brieff gehört miner
+                                                  erenden, lieben husfrauwen Madalena Kolbin zů<placeName ref="Zürich">Zürich</placeName>jm Schwytzerland,
+                                                  zů jren eignen handen jn Zürich.</p>
+                                                  <p>Dyn gethrüwer eeman Hans Heinrich Kolb.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Hans Heinrich Kolb und Magdalena Meister wurden am
+                                                  11. Februar 1594 im Grossmünster Zürich getraut,
+                                                  vgl. EDB 2612.</p>
+    </back>
+  </text>
+</TEI>

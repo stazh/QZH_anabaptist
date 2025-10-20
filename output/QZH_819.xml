@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_819</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_819</idno>
+          </msIdentifier>
+          <head>Verhör von Hans Landis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 670</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem juncker Hanns Heinrich<persName ref="Schönau, Hans Heinrich von">von Schönouw</persName>sampt herrn Caspar Murer<note type="editorial">Johann<persName ref="Murer, Johann Kaspar">Kaspar Murer</persName></note> und herrn
+                                                  Jacoben Ůlrich<note type="editorial"> In der
+                                                  Vorlage: Ůrich</note><persName ref="Ulrich, Johann Jakob"/>
+                                                  <note type="editorial"> Johann Jakob Ulrich</note>
+                                                  zů<note type="critical">Folgt gestrichen:
+                                                  Jacob</note> Hannßen Landis, dem
+                                                  wider­toüf­fer<note type="critical">«dem
+                                                  wider­toüf­fer» am Rand mit Verweiszeichen</note>
+                                                  uff dem<placeName ref="Hirzel, Boden">Boden</placeName>hoff
+                                                  am Horgerberg, jnn<placeName ref="Zürich, Wellenberg">Wellenbärg</placeName>kheert unnd<note type="critical">Folgt gestrichen: jmme syn</note>
+                                                  jnne mit allem erntst<note type="critical">Folgt
+                                                  gestrichen: bef</note> hernach volgender artigklen
+                                                  halben befragt und hierüber synes bscheidts
+                                                  begärt.</p>
+                                                  <p>Zum ersten: Uß was ursachen er üch, mynen
+                                                  gnedigen herren, als syner von gott geordneten
+                                                  oberkeit nit welle gehorsamm syn unnd die predig
+                                                  deß heiligen göttlichen worts nach ußwyßung<note type="editorial"> Inhalt, Aussage, Id. XVI,
+                                                  1953.</note> üwer loblichen kilchenordnung und
+                                                  ußgangnen mandathen nit besůchen. Hat er zum
+                                                  vorrdristen den bscheid gäben, es nämme jnne
+                                                  wunder, das man jnne der unghorsamme beklage,
+                                                  sidtemaal<note type="editorial"> da, weil, Id. IV,
+                                                  147.</note> er doch üch, mynen g[nedigen] herren,
+                                                  stür, brüch<note type="editorial"> Abgabe, Steuer,
+                                                  Id. V, 345.</note> und was einem underthanen<note type="critical">Folgt gestrichen: zeb</note>
+                                                  gebüre ervolgen<note type="editorial"> rechtlich
+                                                  zukommen, Id. I, 812.</note> lasse. Was aber den
+                                                  kilchgang bethräffe, diewyl<note type="critical">Folgt gestrichen: deß touffs und heiligen
+                                                  nachtmals halber etwas sidt</note> er nun gespüre
+                                                  unnd säche, dz by diser gottlosen wält kein
+                                                  predigen und vermanen nützit hälffe, so hoffe er,
+                                                  sidtenmaal jnne der allmächtig gott<note type="critical">Folgt gestrichen: mit</note>
+                                                  dermaaßen begaabet, dz er wüsse, was jmme zů synem
+                                                  heil und säligkeit diene, man jnne, ob gott will,
+                                                  wider syn gewüsßne nit zwingen werde, zů söllichen
+                                                  gottlosen lüten jnn die predig zegahn.</p>
+                                                  <p>Fürs ander: Diewyl er nun wie gehört näbent
+                                                  andern christenlüten nit welle jnn die predig
+                                                  gaan, was er dann für ein glouben habe oder<note type="critical">Folgt gestrichen: an</note> woran
+                                                  er gloube. Andtwort: Er gloube an gott (vatter,
+                                                  sohn und heiligen geist) und<note type="critical">Folgt gestrichen: zwyfle ouch kheinswägs</note>
+                                                  verhoffe ouch unzwyffenlich durch das lyden
+                                                  unnsers herren Jesu Christj heil und sälig
+                                                  zwerden. Sidtenmaal aber by dem glouben die gůten
+                                                  werck als ein rächte frucht söllen gespürt und
+                                                  erfunden werden, so begäre er sich unnd andere
+                                                  syne mitbruͤder, dersälbigen zůbeflyssen und nach
+                                                  gotts gebot jnn synen wägen wandlen unnd läben der
+                                                  hoffnung, er von kheiner oberkeit hierumb sölle
+                                                  angefochten ald<note type="critical">Folgt
+                                                  gestrichen: gestrafft werden</note> verhindert
+                                                  werden.</p>
+                                                  <p>Zum driten: Sidtenmaal er nun bekhänne, das er
+                                                  durch<note type="critical">Folgt gestrichen: das
+                                                  lyden C er durch</note> den glouben heil und sälig
+                                                  werde und sich deß lydens unsers herren Jesu
+                                                  Christj tröste, uß wz ursachen er sich dann
+                                                  von<note type="critical">«von» am Rand mit
+                                                  Verweiszeichen; folgt in der Zeile gestrichen:
+                                                  by</note> den heiligen sacramenten als dem
+                                                  heiligen touff unnd heiligen nachtmal absündere
+                                                  und nit wie andere christenlüth bywone, ald was
+                                                  er<note type="critical">«er» über der Zeile, in
+                                                  der Zeile gestrichen: sonderlich</note> erstlich
+                                                  deß heiligen touffs halber für ein verstandt habe
+                                                  und als dann deß nachtmals Christj halber ouch ein
+                                                  bericht gäbe.</p>
+                                                  <p>Andtwort: Was den heiligen touff beträffe, so
+                                                  bekhänne er, das derselbig ein heilig sacrament
+                                                  syge. Es spräche aber unnßer herr Jesus Christus,
+                                                  wer gloube und toufft werde, der sälbig werde heil
+                                                  und sälig.<note type="editorial"> Mk 16,16</note>
+                                                  Derhalben so vermeine er, das man die kinder jnn
+                                                  jrer jugent nit sölle touffen, sonder zůvor jnn
+                                                  der erkhandtnuß gottes uferzüchen, und wann sy
+                                                  dann ein verstandt jres gloubens habint, als
+                                                  dann<note type="critical">Folgt gestrichen: jnen
+                                                  erst dz zeichen deß pundts gottes gäben man sy jnn
+                                                  den</note> man sy erst touffen unnd widergeberen
+                                                  sölle.</p>
+                                                  <p>Was dann das heilig nachtmal unßers herren Jesu
+                                                  Christj anlange, so bekhänne er ouch, das
+                                                  dasselbig ein widergedechtnuß synes biteren lydens
+                                                  und sterbens syge. Diewyl aber under uns vil
+                                                  gottloßer unnd verrůchter lüthen als hůrer,
+                                                  eebrächer unnd andere derglychen sygen, so
+                                                  vermeine er, das dieselbigen deß heiligen
+                                                  nachtmals<note type="critical">In der Vorlage:
+                                                  nachtmâls</note> nit genoß<note type="editorial">
+                                                  berechtigt, Id. IV, 820.</note> sygen, sonder von
+                                                  der gmeind gottes söllen ußgeschlossen werden.
+                                                  Dann<note type="critical">Folgt gestrichen: man zů
+                                                  by dem heiligen nachtmal ein heilig</note> diewyl
+                                                  dz nachtmal deß herren ein zeichen und
+                                                  widergedechtnuß<note type="critical">«und
+                                                  widergedechtnuß» am Rand und mit
+                                                  Verweiszeichen</note> unserer erlößung syge, so
+                                                  sölle man dasselbig ouch allein von söllichen
+                                                  lüten, die einen frommen wandel fuͤrind, mit
+                                                  wahrem glouben genossen unnd nit jnn ein unreinn
+                                                  geschir behalten werden.</p>
+                                                  <p>Zum vierten: Diewyl der standt der oberkeit von
+                                                  gott jngesetzt, uß was ursachen er dann<note type="critical">Folgt gestrichen: syner</note>
+                                                  derselbigen nit gehorsamm syge, ald was deßhalb
+                                                  syn meinung syge, ob er üch, myn g. herren, ouch
+                                                  für syn oberkeit erkhänne. Andtwort: Er erkhänne
+                                                  unnd halte die oberkeit für diener gottes, ja wann
+                                                  sy den gerächten schirmme unnd den bößen
+                                                  straffe<note type="critical">In der Vorlage:
+                                                  strâffe</note> und hienäbent ouch ein frombs
+                                                  gottsfürchtigs läben fuͤrind, dann ein christ
+                                                  muͤße sich christenlicher ordnung beflyssen.</p>
+                                                  <p>Unnd nachdem er<note type="critical">«er» über
+                                                  der Zeile, in der Zeile folgt gestrichen: nun
+                                                  juncker Hans Heinrich von Schönouw jnne</note>,
+                                                  Landiß, ouch befragt worden<note type="critical">«worden» über der Zeile</note>, welcher gstalt
+                                                  houptman Müllers<note type="critical">Folgt
+                                                  gestrichen: seligen</note> sohn<note type="editorial"><persName ref="Müller, Jos">Jos Müller</persName></note>, jtem<persName ref="Isler, Hans">Hans Ißlers</persName>knächt sampt
+                                                  jren wyberen sygen zůsammen gäben worden, jtem wer
+                                                  jr seckelmeister deß zůsammen gestürten gůts syge
+                                                  und wo sy jre predigen haltind, hat er darüber
+                                                  kheinen bscheid gäben wellen, sonder anzeigt,
+                                                  begäre niemand zůverraten.</p>
+                                                  <p>Wann dann nun vorgemälte herren gägen obgedachtem<persName ref="Landis, Hans">Hansen Landiß</persName>mit lehren, vermanen und
+                                                  underrichten allen flyß angewändt unnd jmme synen
+                                                  verwirten won<note type="editorial"> Wahn, falsche
+                                                  Meinung, Id. XVI, 1.</note> und zwyfelhafftigen
+                                                  glouben uß heiliger gschrifft gnůgsamm widerlegt,
+                                                  hat es doch by jmme nützit verfachen mögen, sonder
+                                                  jst nachmaaln by synem gefaßten jrrthumb
+                                                  zůverblyben gesinnet.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_650</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_650</idno>
+          </msIdentifier>
+          <head>Rechnungskopie betreffs der Güter von
+                                                  Rudolf und
+                                                  Georg Schaufelberger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 501</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem Růdolff Schuffelberger, der tischmacher
+                                                  jmm Riett, jüngst hievor mit tod abganngen unnd
+                                                  syn brůder Georg Schuffelberger, ouch ussem Riett,
+                                                  von wegen das er ­toüf­ferischer sect anhenngig
+                                                  jnn Merrherrn gezogen, unnd daruf Ůlj
+                                                  Schuffelberger, jmm Niderhuß uffem Schuffelberg
+                                                  sesshafft, syn deß tischmachers selligen kinden,
+                                                  wie ouch gemelts Georg Schuffelbergers (so mit
+                                                  einanndern unvertheilt<note type="editorial">
+                                                  nicht getrennt (im gleichen Haus lebend), Id. XII,
+                                                  1604.</note> gehußet) hab unnd gůt zů einem vogt
+                                                  geordnet, hat er uff söllichs mitwochen den
+                                                  11ten<note type="critical">In der Vorlage:
+                                                  xjten</note> tag jenner diß 98. jars vor herrn
+                                                  vogt Claußern<note type="editorial">Hans<persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note> zů<placeName ref="Grüningen">Grüeningen</placeName>unnd<persName ref="Hotz, N. (Untervogt)">unndervogt Hotzen</persName>jnbyweßen<persName ref="Zuppinger, Jaggli">Jaggli Zuppingers</persName>ussem<placeName ref="Fischenthal">Vischenthal</placeName>unnd Hannßen Schuffelbergers jmm Riett, ouch
+                                                  gedachts tischmachers selligen hinderlassner
+                                                  wittfrawen als der kinden můter, ouch gefründt
+                                                  unnd verwanndten, umb alles das, so er von
+                                                  jrentwegen verhanndlet, bscheid, rechnung unnd
+                                                  unndericht geben. Daran man ein gůt vernüegen<note type="editorial"> Genügen, Zufriedenheit</note>
+                                                  ghept unnd wol zefriden gweßen, unnd nach dem all
+                                                  syn jnnemmen unnd ußgeben gegen einanndern gelegt
+                                                  unnd jmme damit 5 pfund<note type="critical">In
+                                                  der Vorlage: lb</note> für syn vogtlon, jtem 3
+                                                  pfund 4 schilling<note type="critical">In der
+                                                  Vorlage: ß</note> besoldung unnd 4 pfund 8
+                                                  schilling für ein jar zinß von dem gelt, so er
+                                                  dargelihen, abgezogen, sind jmme vermelte<note type="editorial"> erwähnte</note> kind uß gmeinem
+                                                  gůt schuldig bliben:</p>
+                                                  <p>an gellt 101 pfund, 4 schilling, 4
+                                                  h[eller].</p>
+                                                  <p rend="margin-top">Als nun gedachts tischmachers
+                                                  selligen wie ouch ernempts synes brůders<note type="critical">In der Vorlage: brůder</note>
+                                                  Georgen güetlj<note type="editorial"> Grundstück,
+                                                  Id. II, 546f.</note> unnd verlassenschafft
+                                                  gewerdet, deßglychen schuld unnd widerschulden
+                                                  erduret<note type="editorial"> prüfen, Id. XIII,
+                                                  1297-1300.</note> unnd gegen einanndern abgezogen
+                                                  worden, hat sich befunden, das jnen ungvar noch
+                                                  fürschüßt an gellt 1300 pfund.</p>
+                                                  <p rend="margin-top">Darvon gemeltem Georgen
+                                                  Schuffelberger, so er ghorsamm gweßen unnd jmm
+                                                  lanndt gebliben, der halbe theil zůdientte<note type="editorial"> zukommen, zufallen, Id. XIII,
+                                                  190f.</note>, sittmaln<note type="editorial"> da,
+                                                  weil, Id. IV, 147.</note> syne zwen anndern
+                                                  brůdern vor jmme jnn<placeName ref="Mähren">Mehrhern</placeName>gezogen, da dann von derselben
+                                                  wegen umb jr unghorsamme jres gůtz halber mit
+                                                  herrn vogt Kippenhanen<note type="editorial"><persName ref="Kippenhan, Hans">Hans Kippenhan</persName></note>
+                                                  (syn Ůlj Schuffelbergers anzeigen nach) jnnammen
+                                                  unnd zůhannden myner gnedigen herren überkommen
+                                                  unnd ein willen<note type="editorial"> Testament,
+                                                  Id. XV, 1269.</note> gemachet worden syn sol.</p>
+                                                  <p>Es ist ouch vermelts Georgen Schuffelbergers unnd syner zwen brůdern (so all, wie ghördt, jnn Merrhern) můter mit nammen<persName ref="Brunner, Anna">Anna Brunnerin</persName>, so ietzt letstlichen<persName ref="Künzli, Heinrich">Heinrichen Küentzlj</persName>zů Wetzigken<note type="editorial"> Wetzikon</note><placeName ref="Wetzikon"/> zur ehe gehept, jüngst hievor mit
+                                                  tod abganngen unnd die 101 pfund jr zůgebracht gůt
+                                                  gesagtem jrem eewirtt jnn lybdings<note type="editorial"> Nutzungsrecht eines Guts bzw.
+                                                  Kapitals, Id. XIII, 532.</note> wyß vermachet mit
+                                                  dem anhanng, so unnder den berüerten<note type="editorial"> erwähnten</note> jren sönen
+                                                  keiner wider anheimsch wurde und hielanndts
+                                                  hußete, das als dann jmme, jrem eewirtt, söllichs
+                                                  für eigenthummlich zůdienen etc.</p>
+                                                  <p rend="margin-top">Lanndtschryber zů<placeName ref="Grüningen">Grüeningen</placeName></p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Vermutlich Ried, Ort
+                                                  zwischen Wald und Gibswil.</p>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_679</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_679</idno>
+          </msIdentifier>
+          <head>Belehrung der
+                                                  Abendmahlsverweigerer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 530</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>| [fol. 1r] Nachdem h[err] Rudolff Wirt<note type="editorial">Hans<persName ref="Wirth, Hans Rudolf">Rudolf Wirth</persName></note>, h[err] Marx
+                                                  Böümler<note type="editorial"><persName ref="Bäumler, Markus">Markus Bäumler</persName></note>unnd h[err]<persName ref="Egli, Raphael">Raphael Eglj</persName>, deßglychen h[err] obman
+                                                  Raan<note type="editorial">Hans<persName ref="Rahn, Hans Rudolf">Rudolf Rahn</persName></note>, m[eister] Hans Ůlrich Wolff, m[eister] Hanns<persName ref="Holzhalb, Hans Heinrich">Heinrich Holtzhalb</persName>und m[eister]<persName ref="Grebel, Konrad">Cůnrath Grebel</persName>üwer (myner gnedigen herren) bevelch unnd
+                                                  erkhandtnuß<note type="editorial"> Entscheidung,
+                                                  Beschluss</note>nach<persName ref="Ziegler, Hans">Hannsen Ziegler</persName>den pfister,<persName ref="Herder, Jakob">Jacoben Herder</persName>den kürsiner,<persName ref="Kambli, Heinrich">Heinrichen Kamblj</persName>den kupferschmid und<persName ref="Häfeli, Jakob">Jacoben Häfelj</persName>den
+                                                  meßerschmid verschines zinstags<note type="editorial"> vergangenen Dienstag</note> uff
+                                                  die corherren stuben<note type="editorial"> Die
+                                                  Chorherrenstube im Grossmünster-Kreuzgang diente
+                                                  als Trinkstube für die Chorherren und im Winter
+                                                  gleichzeitig als Vorlesungssaal der Hohen
+                                                  Schule.</note><placeName ref="Zürich, Chorherrenstube"/> bescheiden unnd
+                                                  jnnen durch herren obman Raanen der lenge nach
+                                                  fürgehalten worden, diewyl jr, myn herren, uß jren
+                                                  hievor gegebnen antwort verstanden, dz sy sich jnn
+                                                  jren jrrigen articlen der religion<note type="critical">Folgt gestrichen: v</note>,
+                                                  fürnemmlichen aber deß herren nachtmals halber,
+                                                  deßen sy sich bißhar ein zythlang üwerer (myner
+                                                  herren) christenlichen reformation und kilchen
+                                                  ordnung<note type="critical">Folgt gestrichen:
+                                                  geüßert</note> zewider geüßert, von den herren
+                                                  gelehrten<note type="critical">Folgt gestrichen:
+                                                  gern</note> uß h[eiliger] göttlicher schrifft gern
+                                                  eins beßeren underrichten unnd lehren laßen
+                                                  wellint, habind derwegen jr, myn g[nedig]
+                                                  h[erren], oberzelte gegenwirtige herren verordnet,
+                                                  sy jn jren beschwerden anzůhören und volgents, wo
+                                                  sy jn<note type="critical">Folgt gestrichen:
+                                                  j</note> einem ald<note type="editorial">
+                                                  oder</note> anderem jrren ald mißstand und mangel
+                                                  haben möchtind, uff den rechten pan unnd wahre
+                                                  evangelische lehr widerumb zebringen und
+                                                  zeunderwyßen, deßhalben sy jre beschwerden und,
+                                                  worinen sy anderen berichts begerind<note type="critical">Folgt gestrichen: anze</note>,
+                                                  daßelbig anzeigen und eroffnen mögind.</p>
+                                                  <p>Daruff sy widerumb wie zůvor die ursach unnd
+                                                  veranlasung<note type="critical">Folgt gestrichen:
+                                                  dz</note> zu söllichem yfer und<note type="critical">Folgt gestrichen: sün</note>
+                                                  enthaltung deß nachtmals anzeigt, jn dem<note type="critical">Folgt gestrichen: z[…]</note> ouch
+                                                  ermelte<note type="editorial"> genannte</note>
+                                                  verordnete herren | [fol. 1v] sölches nit durchus
+                                                  uß bößem yfer beschechen syn erfunden und volgents
+                                                  jre bschwerden der gwüßinen und die orth<note type="critical">Folgt gestrichen: uß</note>
+                                                  heilliger schrifft, die jnen jrem verstand nach
+                                                  dz<note type="critical">Folgt gestrichen:
+                                                  gedechtnuß und danc</note> nachtmal deß herren
+                                                  nachmalen zeempfachen nit zůlaßind, der lenge nach
+                                                  eroffnet. Darinen sich fürnemlich 3 stritige
+                                                  articul<note type="critical">Folgt gestrichen:
+                                                  ersch</note>, jn dem sy den mißverstand gehept,
+                                                  erscheint, namlichen: Der propierung unnd
+                                                  bewerung, so ein jeder mentsch vor dem abendmal
+                                                  Christj jn jm selbs haben<note type="critical">Folgt gestrichen: sölle</note> unnd thůn
+                                                  sölle.<note type="editorial"> Vgl 1Kor.
+                                                  11,28</note></p>
+                                                  <p>Demnach, ob einer nebent einem gotloßen unnd
+                                                  offnen sünder unbeflekt syner concientz und gwüßne
+                                                  zum nachtmal deß herren gan möge.</p>
+                                                  <p>Über dise zwen articul haben die herren
+                                                  glehrten uff vermelten tag<note type="critical">«tag» über der Zeile, in der Zeile gestrichen:
+                                                  uß</note> jnen uß göttlicher schrifft sovil
+                                                  underrichtung unnd lehren geben, dz sy sich
+                                                  derselben dißmals setigen und<note type="critical">Folgt gestrichen: lehren</note> benügen
+                                                  laßen.</p>
+                                                  <p>Und driten articul<note type="critical">«articul» über der Zeile, in der Zeile
+                                                  gestrichen: puncten</note> aber von wegen deß
+                                                  pans<note type="editorial"> Kirchenbann</note>,
+                                                  wyl die zyth zu kurtz jst, uffgeschlagen<note type="editorial"> verschieben, vertagen, Id. IX,
+                                                  368.</note> worden biß uff morndrigen tag, da dann
+                                                  die vermelten personen selbigen tags fürgeent<note type="editorial"> angeben, äussern, Id. II,
+                                                  90.</note>
+                                                  <note type="critical">«selbigen tags fürgeent» am
+                                                  Rand mit Verweiszeichen</note> und vermeint,
+                                                  diewyl sant Poulus<note type="critical">Folgt
+                                                  gestrichen: der</note><persName ref="Paulus"/>
+                                                  denen zů Corrintho den zuhalten<note type="critical">«den zuhalten» am Rand mit
+                                                  Verweiszeichen</note> bevolchen<note type="editorial"> Vgl. 1. Kor. 5,5 und 2. Kor. 13,
+                                                  1-3.</note>, auch hin und wider jn göttlicher schrifft angezogen und m[eister]<persName ref="Zwingli, Huldrych">Ulrich Zwinglj</persName>s[elig]
+                                                  uff denselbigen getrungen und zum teil schon jn dz
+                                                  werch gericht<note type="critical">Folgt
+                                                  gestrichen: hat</note>, sölte derselbig nachmalen
+                                                  jn einer söllichen christenlichen kilchen gehalten
+                                                  und<note type="critical">Folgt gestrichen:
+                                                  einsünderung (Lesung unsicher)</note> also ouch
+                                                  ein underscheid zwüschent dem gotloßen und
+                                                  frommen<note type="critical">«zwüschent dem
+                                                  gotloßen unde frommen» am Rand mit Verweiszeichen,
+                                                  in der Zeile gestrichen: under den menschen
+                                                  gebe</note> zu vermydung großen ergernuß gebrucht
+                                                  | [fol. 2r] werden, welches den der kilchen unnd
+                                                  dem geistlichen stand gebüre und hiemit sy das
+                                                  nachtmal<note type="critical">korrigiert,
+                                                  ursprünglich: nachtmals</note> deß herren
+                                                  zeempfachen ouch hinderhalte.</p>
+                                                  <p>Darüber die herren glehrten jnen disen bscheid
+                                                  geben, dz weder<note type="critical">«weder» über
+                                                  der Zeile</note> jr, myn gnedig herren<note type="critical">Folgt gestrichen: den pan
+                                                  nit</note>, noch sy, die geistlichen, den pan
+                                                  verwerffint. Derselbig sölle ouch, wo man die
+                                                  gelegenheit nach der leer Poulj<note type="critical">«nach der leer Poulj» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen:
+                                                  haben</note><persName ref="Paulus"/> mit erbuwung
+                                                  und one<note type="critical">«one» über der
+                                                  Zeile</note> zerütung<note type="editorial">
+                                                  Zerstörung</note> haben möge, gehalten werden. Er
+                                                  werde ouch vor der jnsatzung unsers herren Christj
+                                                  jngmein, allein nit uff sonderbare personen<note type="critical">Folgt gestrichen:
+                                                  vorgeläßen</note>, allwegen jn den kilchen
+                                                  verläsen<note type="critical">Folgt gestrichen:
+                                                  Verweiszeichen; am Rand gestrichen: nota</note>.
+                                                  Zů dem so habind die zů Corintho<note type="critical">Folgt gestrichen: und
+                                                  andere</note> (wie dann dieselbig<note type="critical">«wie dann dieselbig» am Rand, in
+                                                  der Zeile gestrichen: jn der selbigen</note><persName ref="Paulus">epistel Poulj</persName>luthet)
+                                                  den<note type="critical">Folgt gestrichen:
+                                                  halten</note> als dz ußerist mitel der kilchen
+                                                  halten müßen, diewyl sy under der römeren
+                                                  tiranig<note type="editorial"> Tyrannei</note>
+                                                  und<note type="critical">«und» über der
+                                                  Zeile</note> gwalt, die söliche offentliche laster
+                                                  nit gestrafft, geseßen. Da aber jr, myn g[nedig]
+                                                  h[erre]n, ein ersam corgricht<note type="editorial"> Das 1525 eingerichtete
+                                                  Ehegericht.</note>
+                                                  <note type="critical">Folgt gestrichen: dz ouch
+                                                  ein</note> zů abschaffung söllicher ürpig-<note type="critical">Folgt gestrichen: keit</note> und
+                                                  lychtfertigkeit geordnet und woverr<note type="editorial"> wenn, Id. I, 914.</note>
+                                                  daßelbig<note type="critical">Folgt gestrichen:
+                                                  nützit verfa</note> by einem ald dem anderen<note type="critical">«ald dem anderen» am Rand</note>
+                                                  nützit verfachen, als dan jr myn g[nedig]
+                                                  h[erre]n, die hoch oberkeit, dz ouch nit
+                                                  ungstrafft hingan laßind<note type="critical">Folgt gestrichen: und werde hiemit auch ein theil
+                                                  deß pans gehalten</note>, dz dann zwej mitel<note type="critical">Folgt gestrichen: zů</note> deß
+                                                  pans sigint. Zů dem habent sy darmit noch khein
+                                                  gnůgsamme ursach von eins anderen offnen<note type="critical">«offnen» am Rand mit
+                                                  Verweiszeichen</note> sünders ald<note type="critical">«ald» über der Zeile</note>
+                                                  lesterers wegen<note type="critical">Folgt
+                                                  gestrichen: dz</note>, den gott selbs und niemant
+                                                  anders richten werde noch sölle, dz ze underlaßen,
+                                                  dz er uns zur gedechtnuß und dankbarkeit deß
+                                                  lydens und sterbens syns lieben suns Jesu Christj,
+                                                  so zu abweschung unser sünden gedient<note type="critical">«und dankbarkeit … gedient» am
+                                                  Rand mit Verweiszeichen, in der Zeile gestrichen:
+                                                  synes lieben sund tod gedechtnuß imd
+                                                  danckbarkeit</note>, ze­thund befolchen.</p>
+                                                  <p>Uff sölliche vilfaltige lehren und gůte exempel
+                                                  und byspel, so jnen von dick<note type="editorial"> oft, Id. XII, 1238.</note>erzelten herren glehrten uß biblischer schriftt fürgehalten worden, dz alles der | [fol. 2v] lenge nach alhie zubeschryben nit wol müglich, habend sich<persName ref="Häfeli, Jakob">vermelte Häfelj</persName>,
+                                                  Herder<persName ref="Herder, Jakob"/><persName ref="Kambli, Heinrich">und Kamblj</persName>mit
+                                                  danksagung söllicher underrichtung gůtwillig dahin
+                                                  begeben<note type="critical">Folgt gestrichen:
+                                                  dz</note>, uff schier künfftigen h[eiligen]
+                                                  pfingstag dz nachtmal nebent anderen
+                                                  christglöübigen lüthen mit fröüden
+                                                  zeempfachen.</p>
+                                                  <p>Bettend ouch üch, myn g[nedig] h[erre]n, dz jr
+                                                  jnen sölliches als dz nit böser hartneckiger oder
+                                                  kybiger<note type="editorial"> eigensinnig,
+                                                  boshaft, zänkisch, Id. III, 108.</note> wys<note type="critical">Folgt gestrichen: bes</note>,
+                                                  sonder uß wahrem und gůtem yfer fürgenommen<note type="critical">«fürgenommen» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen:
+                                                  beschechen</note>, nit zů ungnaden erkenen, dann
+                                                  sy<note type="critical">Folgt gestrichen:
+                                                  sich</note> sich allwegen eins beßeren
+                                                  underrichten zelaßen<note type="critical">Folgt
+                                                  gestrichen: anerboten</note>, wie dann jetzund
+                                                  beschechen, anerboten, sigend ouch nachmalen
+                                                  bedacht, üch, mynen h[erre]n, als jrer rechten
+                                                  oberkeit burgerliche und schuldige gehorsamme
+                                                  jederzyth zeleisten.</p>
+                                                  <p><persName ref="Ziegler, Hans">Hanns Ziegler</persName>,
+                                                  der pfister, bitet demnach sonderbar üch, myn
+                                                  herren, diewyl syn gwüsen dißmals jme noch nit
+                                                  fryg, ouch<note type="critical">«ouch» über der
+                                                  Zeile</note> dz nachtmal nach der jnsatzung
+                                                  zeempfachen<note type="critical">In der Vorlage:
+                                                  zempfachen</note> zulaßen<note type="critical">Folgt gestrichen: man</note>, sy wellint jme
+                                                  darmit nach nit überylen, begere aber, sich wyter
+                                                  lehren zelaßen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

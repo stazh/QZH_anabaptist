@@ -24,23 +24,23 @@
           <persName>Christian Scheidegger, Tobias Jammerthal</persName>
           <resp>Herausgeberschaft</resp>
         </respStmt>
-        <idno>QZH_150</idno>
+        <idno>QZH_199</idno>
       </seriesStmt>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
-            <idno>QZH_150</idno>
+            <idno>QZH_199</idno>
           </msIdentifier>
           <head>Ratsbeschluss
-                                                  Ratsbeschluss unter dem Datum «Mentgas, 27ten
-                                                  octobris p[raese]nt[ibus] herr von Chaam und beid
+                                                  Ratsbeschluss unter dem Datum «Mentag, den 15.
+                                                  de[cembris] p[raese]nt[ibus] Hab und beid
                                                   reth».</head>
           <msContents>
             <msItem>
               <textLang>Deutsch</textLang>
               <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
               <filiation type="original">
-                <origDate when="1567-10-27"/>
+                <origDate when="1550-12-15"/>
               </filiation>
             </msItem>
           </msContents>
@@ -60,7 +60,7 @@
               <listBibl>
                 <head>Edition</head>
                 <bibl>
-                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 150</bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 50</bibl>
                 </bibl>
               </listBibl>
             </additional>
@@ -75,25 +75,25 @@
         </p>
       </editorialDecl>
     </encodingDesc>
-    <profileDesc/>
     <profileDesc>
       <textClass default="false"/>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Knonouw<placeName ref="Knonau"/><note type="editorial"> Hans Rahn</note> schryben, das
-                                                  er uß Andreß<persName ref="Gut, Andres"/>
-                                                  ­toüf­fers gůt, es syge vech ald<note type="editorial"> oder</note> anders, woruß am
-                                                  basten gelt zemachen, angryffen<note type="editorial"> in Besitz nehmen, Id. II,
-                                                  714.</note> und verkouffen und dann daruß den
-                                                  costen, so alhie und da ennen<note type="editorial"> drüben, Id. I, 266.</note>
-                                                  ufglouffen, bezalen und dann wer sonst
-                                                  ansprach<note type="editorial"> Anspruch</note> an
-                                                  jnn hatt, sy unns den jnzug nach amptsrechten
-                                                  dieselbigen jnzüchen lassen. Studers costen soll
-                                                  er auch jnzüchen und alher schicken.</p>
+      <div><p>Von wegen der 2 teufern soll der vogt an die
+                                                  von<placeName ref="Wädenswil">Wedischwil</placeName><note type="editorial"> Wädenswil</note> begeren, diewil
+                                                  die sach den glouben antreffe, das sy dan die
+                                                  beiden wellind laßen har fertigen. Wo aber die von
+                                                  W[edischwil] solchs zebeschwerd anemen, […]<note type="critical">Lesung unklar</note> der handel
+                                                  wider an min herren kommen.</p>
                                                   </div>
     </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mentag, den 15.
+                                                  de[cembris] p[raese]nt[ibus] Hab und beid
+                                                  reth».</p>
+    </back>
   </text>
 </TEI>

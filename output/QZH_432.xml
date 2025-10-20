@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_432</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_432</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an ihre Landvögte</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1583-05-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 283</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnßerem gönstigen geneigten willen unnd alles
+                                                  gůts zůvor, frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt. Inn jüngst gehalltnem
+                                                  sinodo jst von den herren gelerten jnn gemein von
+                                                  allen capitlen anzogen, wir ouch durch sy jnn
+                                                  schrifft verstendiget worden, wie das allenthalben
+                                                  jnn unnßeren grichten unnd gepiethen die thoüffer
+                                                  mit jrer ufrürischen leer unnd weßen widerumb
+                                                  gar<note type="critical">StAZH, B IV 43, fol.
+                                                  112v-113r (Entwurf): gar widerumb</note> überhand
+                                                  nemmen unnd dargegen der kilchgang unnd zůhören
+                                                  göttlichs worts ann sonn- unnd fyrtagen, ouch
+                                                  angesetzten predigstunden jnn der wuchen
+                                                  meerertheyls aber von den armen man-, wybs-,
+                                                  jungen unnd allten personen, so unnder demsälben
+                                                  bätt- unnd predigstunden hin unnd wider zů den
+                                                  clösteren, alda das allmůßen unnd spend ußgeben
+                                                  wirt, lauffend, gar zů minderung unnd abgang
+                                                  kommen unnd gerathen welle. Da aber von unns unnd
+                                                  unnßeren vorderen vor villen unnd langen jaren
+                                                  mandatha unnd jnnsonnderheit erst hingeflosßnen
+                                                  80ten jars ein ordnung jm truck ußgangen<note type="editorial"> Nr. 248.</note>, weß sich ein
+                                                  jeder unnßer unnderthaan mit vertrybung unnd
+                                                  vertilgung thoüfferischer leer unnd dem
+                                                  ordenlichen besůchen der predigen christenlicher
+                                                  religion hallten. Wir besorgend aber nun, es welle
+                                                  an dem manglen, das die pfarrer unnd predicanten
+                                                  dyner amptsverwalltung mit fürbilden<note type="editorial"> darstellen, vorstellen</note>
+                                                  unnd erjnneren ouch ußleggen unnßerer ordnunngen,
+                                                  die thoüffer, den kilchgang unnd annders
+                                                  betreffend, nit geflisßen unnd ernsthafftig sygen.
+                                                  Demsälbigen zůbegegnen unnd damit aller feler
+                                                  abgwerdt unnd was ungerymbts hinweg gethan werde,
+                                                  so jst unnßer meinung<note type="editorial">
+                                                  Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, das du
+                                                  die predicanten dyner reigierung nachmalen
+                                                  vermannen, sy söllind unnßern ordnungen, mit
+                                                  wellichen ein jeder (onne zwyfel) gefasßt, jren
+                                                  kilchgenosßen vorleßen, jnnen die nach gebür
+                                                  ußleggen unnd ercleren, mengklichen<note type="editorial"> jeden</note> densälbigen
+                                                  zůgehorsamen wyßen unnd anleittung geben, wie das
+                                                  jrem ampt unnd berůff gebürt unnd zůstadt. Unnd so
+                                                  dann du einen ald<note type="editorial">
+                                                  oder</note> meer der unnder­thanen erfaren unnd
+                                                  vernemen kanst, so sich jnn einem oder dem
+                                                  annderen ungehorsam unnd widerspennig
+                                                  erzeigten<note type="critical">StAZH, B IV 43,
+                                                  fol. 112v-113r (Entwurf): erzeigte</note>, den
+                                                  unnd diesälbigen mit straaf unnd gefengknuß dahin
+                                                  vermögen unnd also beid, der geistlich unnd
+                                                  welltlich stand, jnn dißerem orth allen ernst
+                                                  anwenden. Sölliches wirt gegen gott dem
+                                                  allmechtigen ein gůt, angenem unnd gefellig werch
+                                                  syn unnd wir es umb<note type="critical">Folgt
+                                                  gestrichen: j</note> dich jnn gnaden zůerkhennen
+                                                  haben. Datum, mitwuchs den 15ten may anno etc.
+                                                  83.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unnßerem,
+                                                  besonnders gethrüwen, lieben burger unnd vogt zů<placeName ref="Kyburg">Kyburg</placeName>,<persName ref="Thomann, Kaspar">Casparn Tomman</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

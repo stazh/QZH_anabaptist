@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_831</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_831</idno>
+          </msIdentifier>
+          <head>Bericht und Ratsbeschluss betreffs zwei
+                                                  Waisen, die nach Mähren
+                                                  ziehen wollten</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1609-05-29"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 682</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Actum mentags, den 29ten Maij anno 1609 p[raese]nt[i]b[u]s j[unker] Hanß Heinrich Meyer<persName ref="Meyer von Knonau, Hans Heinrich">von Knonow</persName>und herr hauptman Hanß<persName ref="Holzhalb, Hans Ludwig">Ludwig Holtzhalb</persName>.</p>
+                                                  <p rend="margin-top"><persName ref="Ringger, Jakob">Jacob Ringger</persName>von Hußen<note type="editorial"> Hausen am Albis</note><placeName ref="Hausen am Albis"/>zeigt an, es syge syn vogtsohn, N. Hoffstetters seligen knab, zů jme kommen und angezeigt, wie er willens syge, hinweg zezüchen und ein handtwerch lernen, und welle alßdann über ein jar oder viere wider khommen. Und jnne darby gebäten, das er jme etwas gelts zuͦstellen, ouch das halb alt hüßlj, so noch jr der kinden biß uff syn widerkhunfft zůbehalten welle. Uff sölliches nun er zwölf guldin entlehnt und dieselben<persName ref="Nägeli, Joseph">Josephen Nägelj</persName>von<placeName ref="Mettmenstetten">Metmenstetten</placeName>, einem ­toüf­fer,
+                                                  zůgestelt, da dann der knab auch syn schwösterlj
+                                                  mit jme nemmen wellen. Und was diß fals beschehen,
+                                                  das habind die kind uß frygem<note type="editorial"> freiem</note> willen ungezwungen
+                                                  gethaan, dann er ein sollches an sy nit gebracht,
+                                                  noch vil weniger dieselben hinweg zezüchen
+                                                  geheißen habe. Zeigt auch an, das obgemelter
+                                                  Nägeli<note type="critical">«Nägeli» über der
+                                                  Zeile</note> schon mehrmaln jnn die herrschafft
+                                                  khommen und dann widerumb hinweg zogen. Bit
+                                                  hienebent üch, myn gnedig herren, jr wellind jme
+                                                  das, so beschechen, zů kheinem ungnaden ufnemmen,
+                                                  dann er doran khein schuld trage.</p>
+                                                  <p><persName ref="Hofstetter, Konrad">Conrat Hofstetter</persName>von Hengst<note type="editorial"> Heisch</note><placeName ref="Heisch"/> sagt, das er von dem hinwegzüchen
+                                                  synes brůders seligen kinden nützit gewüßt, biß
+                                                  das dieselben zů jme khommen und jnne gebäten, das
+                                                  er sy gen<placeName ref="Bülach">Bülach</placeName>füren
+                                                  welle. Bitet üch, myn gnedig herren, gantz
+                                                  trungenlich<note type="editorial">
+                                                  eindringlich</note>, die wellind jme disere kind
+                                                  nit ufbinden, dann er die synen mit großer not
+                                                  khümerlich erhalten möge und sich uff<placeName ref="Buchenegg">Bůchenegg</placeName>jnn
+                                                  dienstswyß enthalten<note type="editorial"> sich
+                                                  aufhalten, Id. II, 1230.</note> müß.</p>
+                                                  <p rend="margin-top">Myn gn[edig] herren habend
+                                                  dißers Hofsteters knaben, so 13jerig sambt den 12
+                                                  gulden<note type="critical">In der Vorlage:
+                                                  fl</note>, die der sigerst zů s[anct] Peter hat
+                                                  den herren pflägeren und obman am allmoßen
+                                                  übergeben, das sy jnne zů einem handwerch
+                                                  verdingen und darby erckend, das jmme und sinem
+                                                  schwösterlj jres halben hußes halber deßwegen
+                                                  recht uß gnaden nützit wyters sölle zůgerechnet
+                                                  werden und soll herr ambtman zů<placeName ref="Kappel am Albis">Cappel</placeName>diseren 2 kinden
+                                                  underhaltung geben, biß myn gn. herren uff die
+                                                  […]dens<note type="critical">Lesung unklar</note>verlichung gen Cappel kommend, da hiertzwüschent<persName ref="Ringger, Jakob">Jacob Ringger</persName>noch
+                                                  glegenheit trachten, wie das meitlin danethin ouch
+                                                  möge vertinget werden. Actum mentags den 29. Maij
+                                                  anno 1609 p[raese]nt[ibus] herr burgermeister
+                                                  Raan<note type="editorial"> Hans Rudolf
+                                                  Rahn</note><persName ref="Rahn, Hans Rudol"/> und
+                                                  beid reth.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Aufschrift auf der Rückseite des
+                                                  Dokuments</p>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_330</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_330</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Matthias
+                                                  Schmid
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1573-05-13"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 181</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[…]<note type="editorial"> Das Schreiben
+                                                  beginnt mit der Anweisung, die Eltern anzuhalten,
+                                                  ihre Kinder in den kirchlichen Unterricht zu
+                                                  schicken.</note> Sodänne, lieber vogt, jst uns
+                                                  witer angelanget<note type="editorial"> zugetragen
+                                                  werden, als Kunde zukommen, Id. III, 1330.</note>,
+                                                  das zů Weningen<note type="editorial">
+                                                  Niederweningen</note><placeName ref="Niederweningen"/> die gschwornen
+                                                  eegoummer<note type="editorial"> Vertreter der
+                                                  lokalen Sittenzucht, Id. II, 304.</note> by jnen
+                                                  gar jnn verachtung und spott sygen. Bescheche zum
+                                                  teyl uß der ursach, das man sy nit ordenlich
+                                                  dartzů erwelle. Und wann sy jres dientst muͤdt, sy
+                                                  dann durch<note type="critical">Folgt gestrichen:
+                                                  dich unseren vogt einen dich</note> dine
+                                                  vorfaren<note type="editorial"> Vorgänger</note>
+                                                  und ouch dich<note type="critical">Folgt
+                                                  gestrichen: für</note> jres eydts für<note type="critical">Folgt gestrichen: dich</note> sich
+                                                  selbs erlassen werdint. Dardurch dan volge, das
+                                                  die sect der ­toüf­ferig, ouch andere unzucht und
+                                                  laster by jnen zůnemme, dann dieselben nit
+                                                  geleidet noch ­ge­strafft werdint etc. […]<note type="editorial"> Es folgt die Anweisung, mit den
+                                                  Untertanen in Niderweningen zu reden und sich um
+                                                  eine korrekte Amtseinsetzung der Ehegaumer zu
+                                                  kümmern.</note>.</p>
+                                                  <p>Datum mitwuchs den 13ten may anno etc. 73.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt<placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unserm
+                                                  besonders getrüwen, lieben burger und vogt uff<placeName ref="Regensberg">Regensperg</placeName><bm id="112"/> Mathyßen Schmiden.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

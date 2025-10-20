@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_787</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_787</idno>
+          </msIdentifier>
+          <head>Schuldenverzeichnis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1605-03-07"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 638</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Item der Hein Erziger<note type="editorial">
+                                                  Unklar, ob die genannte Person identisch ist mit
+                                                  dem Täufer Heinrich Erzinger (vgl.
+                                                  Nr. 651).</note><persName ref="Erzinger, Heini"/>von Alltfer und<persName ref="Heirich, Hans">Heirich Hans</persName>von Mänidorf<note type="editorial"> Männedorf</note><placeName ref="Männedorf"/> hand mit ein anderen abgerächnet
+                                                  von wägen der gemeind, was sy heige.</p>
+                                                  <p rend="margin-top">J. Heirich Hans sol<note type="editorial"> ist schuldig</note> 40
+                                                  g[u]l[den] – jsts noch schuldig.</p>
+                                                  <p><persName ref="Fäner, Hans">Hans Fäner</persName>von
+                                                  Äsch<note type="editorial"> Aesch bei<placeName ref="Aesch bei Birmensdorft">Birmensdorf</placeName></note>, vennerichen von Esch sohn, sol 8 gl. –
+                                                  jst noch schuldig.</p>
+                                                  <p><persName ref="Erzinger, Kleinjoggli">Chlijogli Erziger</persName>uf<placeName ref="Egg, Guldenen">Guldenen</placeName>sol 25
+                                                  gl., meints, solls auch noch.</p>
+                                                  <p><persName ref="Hochstrasser, Joggli">Jogli Hochstraser</persName>sol 24½ gl., sols
+                                                  ouch noch; jst gstorben, sönds jetz synen
+                                                  erben.</p>
+                                                  <p>Wyshans<persName ref="Weishans (auf Guldenen)">uff Guldinen</persName>sol 250 pfund<note type="critical">In der Vorlage: lb</note>, jsts
+                                                  noch schuldig.</p>
+                                                  <p><persName ref="Erzinger, Heini">Hein Erziger</persName>sol 9 pfund, jsts noch schuldig, doch weißt nit,
+                                                  hat mit H. J. der truͤbsal jme gen.</p>
+                                                  <p>Geschach die rächnung am 7. tag merzen jm 1605.
+                                                  iar.</p>
+                                                  <p rend="margin-top">[Später:] Sidt dz gschriben
+                                                  worden, hat man nie khein zinß darvon gnon.
+                                                  Hochstraßer selig hats verwaltet, do an jnne
+                                                  khommen, ghört den armen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

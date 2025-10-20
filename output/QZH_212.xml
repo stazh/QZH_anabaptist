@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_212</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_212</idno>
+          </msIdentifier>
+          <head>Das Ehegericht an Rat und Bürgermeister von
+                                                  Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1553-09-28"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 63</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Fromm, veßt, fürsichtig, eersam, wyß, jnnsonnders günnstig, gnedig herrenn. Alls<persName ref="Häring, Dorothea">Dorothea Härinng</persName>, von<placeName ref="Schwyz">Schwytz</placeName>bürtig,
+                                                  yetz alhie wonnhafft, (alls unns glouplich
+                                                  angelanngt) sich der kilchen wider unnd über üwer
+                                                  wyßheit ußganngne manndat unnd verpott geüssert
+                                                  unnd lannge zit zů keiner predig unnd
+                                                  cristennlichen versamlungen gangen, sonnders unnd
+                                                  alls ob<note type="critical">«ob» über der
+                                                  Zeile</note> sy sich der irrigen sect der
+                                                  ­toüf­ferj anmasse verdaacht worden, haben wir
+                                                  unnsern amptspflichten nach sy für<note type="editorial"> vor</note> unns bescheidenn<note type="editorial"> bestellen, Id. VIII, 248.</note>
+                                                  unnd, wie billich, sy befragt unnd von iro
+                                                  zůverston begärt, uß was grünnd sy sich, das
+                                                  gotswort unnd predig ampt zehörenn, üsserte. Ob sy
+                                                  an dem, wie es die predicannten unnd vorstennder
+                                                  der kilchen unns täglich uß helger gschrifft
+                                                  lerten unnd fürtrügen, fäl als manngel. Hat sy
+                                                  sich, waar sin sich des kilchganngs unnd der
+                                                  predig zehören geüssert, bekennt unnd darby
+                                                  anzeigt, das sy meinte, unns unverborgen sin,
+                                                  warumb das beschächenn. Wie aber wir daran nit
+                                                  vernügen<note type="editorial"> Zufriedenstellung,
+                                                  Genugtuung</note> haben unnd von iro den grunnd,
+                                                  warumb sölichs beschäch, zůverston begert, hat sy
+                                                  on alle mittel gredt, das es die ursach, das die
+                                                  predicannten das wort gottes nit, wie aber unnser
+                                                  herr Cristus sine lieben apostlen das glert unnd
+                                                  gheißen, fürtrügen unnd jnn der gmeind lerten.
+                                                  Darneben ouch, alls sy umb den touff besonnders
+                                                  angredt, was sy darüff hielt, so vil bekennt,
+                                                  glich alls ob niemanndts des toüffs wirdig,
+                                                  emaln<note type="editorial"> bevor, Id. IV,
+                                                  144.</note> der menntsch jnn erkanntnus des
+                                                  gloubenns käm. Unnd sich hieby so vil vermercken
+                                                  lassen, als ob die winnckel predigen<note type="editorial"> im Verborgenen und ohne Amt
+                                                  gehaltene Predigten</note>rächt unnd das es der<persName ref="Paulus">heilig Paulus</persName>bevolchen,
+                                                  ein jeder menntsch das predigen wol ußrichten
+                                                  möcht, mit vil anndern unbegrünndten umbstennden
+                                                  alhie zemelden unnott etc. Wie aber unnsere
+                                                  predicannten unnd der helgen gschrifft glertenn
+                                                  unnd ouch wir sy eigennlich unnd umb all ire
+                                                  jrrige artickell befragt unnd frünntlich vermannt,
+                                                  den mangel unnd fäl<note type="editorial">
+                                                  Fehler</note> von einem artickel zum anndern als
+                                                  jn ganntzer summ anzezeigen unnd hienäben ein
+                                                  wüssen haben wellen, ob doch sy nochmal gehorsam
+                                                  sin, wie anndre cristen lüth zur predig gon, das
+                                                  gottswort hören unnd von irem eignen jrrsinnigem
+                                                  fürnemen abzestond ald<note type="editorial">
+                                                  oder</note> den fäl zůeroffnen, hat sy das
+                                                  nienndert<note type="editorial"> gar nicht, Id.
+                                                  IV, 762.</note> mit unnd gantz unbegrünndt
+                                                  veranntwurten können unnd sich keins wägs begäben
+                                                  wellen, sich mit dem kilchganng zůgehorsamen unnd
+                                                  die predig zehören. Dann allein so ir connciennß
+                                                  unnd gwüßne sy dahin trünnge, das sy es denne
+                                                  thůn, unnd damit vermeint, das man niemandts zum
+                                                  gloubenn nöttigen noch zwinngen sölt. Unnd sidmal
+                                                  kein warnunng, wie frünntlich joch<note type="editorial"> auch</note> wir sy vermannt,
+                                                  abzestonnd, an iro nit verfachen wellen unnd
+                                                  zůbesorgen, anndre mer jnn semlichem irrsal unnd
+                                                  irriger leer verwickt sin mögen, haben wir nit
+                                                  färgon<note type="editorial"> fehlgehen, Id. II,
+                                                  27.</note> können und sy uff ir ennttlich
+                                                  unbegrünndt verharren zu ü[wer] w[ysheit] hannden
+                                                  uffs raathus jnn gfanngenschafft legen unnd dero
+                                                  ir hanndlung und veranntwurtunng schrifftlich
+                                                  zůkomenn laßen, was die fürer<note type="editorial"> weiter</note> hanndlet oder
+                                                  sunnst gägen ir fürnimpt, das soll von unns zů
+                                                  unnderthenigem gfallenn ufgnomen werden. Actum
+                                                  donnßtags den xxviijten septembris anno etc.
+                                                  liij.</p>
+                                                  <p rend="margin-top">Ü[wer] e[rsam] w[ysheit]
+                                                  unnderthenige</p>
+                                                  <p>bürger unnd dienner am eegricht</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

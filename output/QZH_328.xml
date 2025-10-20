@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_328</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_328</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Jakob
+                                                  Hartmann</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1573-04-08"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 179</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Hartmann, Jakob">Jacob Hartrman</persName>gipt uff gethonen fürhalt<note type="editorial">
+                                                  Vorhaltung, Vorwurf</note> der worten halb, so er
+                                                  Zur Stägen ußgestoßen haben sol, dise antwurt: Als
+                                                  die ürten<note type="editorial">
+                                                  Trinkgesellschaft, Id. I, 490.</note>uß gsyn, were syn<persName ref="Hartmann, Isaak">brůder Ysac</persName>ufgestanden und zů
+                                                  kilchen, ouch er mit jm gon<note type="critical">«gon» über der Zeile</note>. Das<note type="critical">Folgt gestrichen: er</note>aber<persName ref="Gessner, Abraham">Aberham Gäßner</persName>nit beschechen lassen wellen, sonder gesagt<note type="critical">korrigiert, ursprünglich: jnn
+                                                  anzogen</note>, was er zů kilchen gon<note type="editorial"> gehen</note> welle, er gloube
+                                                  doch nit an die offenbarung Johannis unnd jnne
+                                                  hiemit einer alten disputatz halben, so sy
+                                                  miteinandern vor jaren gehept, widerumb
+                                                  anzogen<note type="editorial"> beschuldigen, Id.
+                                                  XVII, 992.</note>. Da er wol gredt, das er dann
+                                                  bekantlich sige, das spann<note type="editorial">
+                                                  Uneinigkeit, Streit, Id. X, 279.</note> by den
+                                                  alten gsyn, wer die offenbarung geschriben. Er
+                                                  hette es ouch<note type="critical">Es folgt eine
+                                                  Wortstreichung</note> gelesen unnd daby gesagt,
+                                                  das er es ja nit gloube, das er jnn einer
+                                                  hötte<note type="critical">Lesung unsicher. Vom
+                                                  Sinn her eher «Höhle», da Johannes nach der
+                                                  Überlieferung die Offenbarung in einer Höhle
+                                                  geschrieben haben soll.</note> gethon, dann Gäßner
+                                                  jnne für und für ein apostützler<note type="editorial"> abergläubischer Mensch, Id. I,
+                                                  363.</note> geschulten und ettwan gesagt, das<note type="critical">Folgt gestrichen: er</note>
+                                                  niemant mit jm zum wyn gon sölte, das der tüfel
+                                                  einem nit mit jm neme. Sovil dann herr
+                                                  Waltharten<note type="editorial"> Rudolf
+                                                  Gwalther</note> belange, sige er bekantlich<note type="critical">Folgt gestrichen: das</note> das
+                                                  er gesagt, das er nit alles gloube, was er
+                                                  predige<note type="critical">Folgt gestrichen: er
+                                                  aber jnn damit nit geschulten, sonder allein dem
+                                                  Gäßner jnreden wellen</note>, und das er<persName ref="Gwalther, Rudolf">(herr Walthern</persName>) ouch
+                                                  syne mengel habe, aber jnne doch der eeren halb
+                                                  nit geschulten. Daruf Gäßner gesagt, das er und
+                                                  syn brůder nit christen sigen, sage er, so luge er
+                                                  wie ein dieb. Unnd sodann Gäßner jnne zu sölichen
+                                                  worten hinder dem wyn verursachet unnd er weder
+                                                  herr Waltharten hiemit geschmecht noch zu
+                                                  verkleinerung heiliger göttlicher geschrifft
+                                                  ützit<note type="editorial"> etwas, Id. I,
+                                                  84.</note> geret, sonder allein dem Gäßner
+                                                  antwurten wellen, bittet er üch (myn gnedig
+                                                  herren) ganz underthenig umb verzychung, so welle
+                                                  er sich fürhin söliches disputierens abthun und
+                                                  sich dermaßen halten, das jr (myn herren)
+                                                  dhein<note type="editorial"> keine</note> clagt
+                                                  mer von jm vernemen söllen.</p>
+                                                  <p rend="margin-top">[Urteil]: Als myn herren disse antwurt gehört unnd sich darnebent aller sachen erjnneret, habent sy sich enschlossen, das<persName ref="Hartmann, Jakob">er, Jacob</persName>, unnd syn<persName ref="Hartmann, Isaak">bruder Isaac</persName>Hardtman von jrer ungebürlichen, lesterlichen unnd
+                                                  ungeschickten reden wegen jeder zway march silbers
+                                                  zustraff und buss geben, ouch m[eister]
+                                                  Schwytzer<note type="editorial"> Vermutlich Jakob
+                                                  Schwyzer</note><persName ref="Schwyzer, Jakob"/>
+                                                  mit jnen nach aller nothurfft reden, das sy sich
+                                                  des disputierens unnd arguierens müssigind, sich
+                                                  desselbigen nützit beladint, sonnders jres
+                                                  hanndtwerchs acht habind unnd, so sy des gloubens
+                                                  ald<note type="editorial"> oder</note> der leer
+                                                  halb etwas mangels habind, als dann sy die hern
+                                                  predicanten darumbe umb bscheid ansuchen, sonst
+                                                  er, Jacob Hartman, jetz dann allen costen, so uff
+                                                  jnn ganngen, erlegen unnd dann uff ein urphecht
+                                                  der gefangenschafft erlassen werden. Unnd diewyl
+                                                  sich durch die kundtschafft<note type="editorial">
+                                                  Zeugenbeweis, Id. III, 353.</note>unnd jr (der Hardtmanen) antwurten befindt, das<persName ref="Gessner, Abraham">Abraham Gessner</persName>zu
+                                                  sollichen reden anlass unnd ursach geben und
+                                                  dartzu ouch ungeschaffne<note type="editorial">
+                                                  unziemliche, Id. VIII, 324.</note> wort, deren er
+                                                  wol empären mogen, uss gestossen, so sol er
+                                                  desswegen ouch jnn gefangenschaft gelegt, jme
+                                                  sölliches fürgehalten und dann harjnne nach der
+                                                  gebür gehandlet werden. Actum, den 8ten abrillens
+                                                  anno etc. 73 pr[aesen]t[ibus] her Bram<note type="editorial"> Hans Bräm</note><persName ref="Bräm, Hans"/> und beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

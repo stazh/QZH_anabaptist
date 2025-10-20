@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_183</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_183</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Bernhard
+                                                  von Cham (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1544-01-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 34</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnßern gunst unnd alles guts zuvor. Frommer, vester, jnnsunders getrüwer, lieber burger und vogt, wir habend allerley mittel, sträfflich und sunst, mit<persName ref="Müller, Frau">der Mullerin</persName>von<placeName ref="Glattfelden">Glattfelden</placeName>fürgenomen unnd sy ettliche
+                                                  maal jnn gefengcknus<note type="critical">korrigiert, ursprünglich: gefengckgnus</note>
+                                                  ghept, ob wir sy vonn der jrrigen sect der
+                                                  ­toüf­fery und dz sy mit kilchgang unnd annderen
+                                                  christlichen ordnungen thäte wie annder
+                                                  christenlüt. So hatt es alles nützit an jren
+                                                  verfangen, dann dz sy sich für unnd für
+                                                  ungehorsameth, der kilchen gottes üsßert. Und
+                                                  diewyl sy dann jm flecken wol gefründt<note type="editorial"> durch Verwandtschaft stark, Id.
+                                                  I, 1306.</note> unnd die vögt zů Eglisow bißhar
+                                                  eben nachläsßig gewesen<note type="critical">«unnd
+                                                  die vögt zů Eglisow … gewesen» am Rand mit
+                                                  Verweiszeichen</note>, so wellest komenlicher<note type="editorial"> passend, gelegen, Id. III,
+                                                  285.</note>
+                                                  <note type="critical">korrigiert, ursprünglich:
+                                                  fomenlicher (Lesung unsicher)</note> wyß durch
+                                                  annder lüt nach jr stellen unnd unns die, so erst
+                                                  du magst, fengclich uberantwurten, mit jren
+                                                  zehandlen, dz sych christenlicher gehorsame und
+                                                  zu<note type="critical">Folgt gestrichen:
+                                                  einigkey</note> eynträchtigkeyt der kilchen gottes
+                                                  gebüren würt. Und thust hieran unnßer ernstlich
+                                                  meynung<note type="editorial"> Beschluss, Weisung,
+                                                  vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>,
+                                                  dann<note type="critical">Folgt gestrichen:
+                                                  jne</note> jro söllich ungehorsamkeyt jnn die
+                                                  harr<note type="editorial"> Dauer, Länge, Id. II,
+                                                  1514.</note>
+                                                  <note type="critical">«die harr» am Rand</note>
+                                                  zůgestatten, kanst du wol gedencken, dz sollichs
+                                                  mer zu jrrung und ergernüß<note type="critical">«ergernüß» am Rand</note> dann zu růwen dienen
+                                                  wurde. Uß<placeName ref="Zürich">Zürich</placeName>, 2.
+                                                  januarj<note type="critical">«januarj» über der
+                                                  Zeile, in der Zeile gestrichen: decembris</note>
+                                                  1544.</p>
+                                                  <p rend="margin-top">Burgermeyster und rath der
+                                                  statt Zürich.</p>
+                                                  <p rend="margin-top">Dem frommen, vesten, unnßerm
+                                                  jnnßunders getrüwen, lieben burger und vogt zu<placeName ref="Kyburg">Kyburg</placeName>Bernharten<note type="critical">korrigiert, ursprünglich:
+                                                  Berharten</note><persName ref="Cham, Bernhard von">von Chaam.</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

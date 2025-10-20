@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_826</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_826</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mitwochs, den 12ten
+                                                  aprilis p[raese]nt[ibus] herr Raan unnd beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1609-04-12"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 677</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr seckelmeister Escher<note type="editorial">Hans Escher<persName ref="Escher vom Luchs, Hans">vom Luchs</persName></note>, vogt
+                                                  Kipenhan<note type="editorial"><persName ref="Kippenhan, Hans">Hans Kippenhan</persName></note>
+                                                  und vogt Leman<note type="editorial">Hans<persName ref="Leemann, Hans Rduolf">Rudolf Leemann</persName></note> söllent gwalt haben, mit dem
+                                                  Blickenstorfer ab Bůchenegg und syner frawen uff
+                                                  das fürgezeigt schryben zeüberkommen<note type="editorial"> übereinkommen, Id. III,
+                                                  272.</note>, was gmeiner statt von Elßbetha
+                                                  Bicklin jnn Merhern seligen alhie hinderlegtem gůt
+                                                  gehören und das überig deß Blickennstorffers
+                                                  frawen jrer schwöster gevolgen<note type="editorial"> rechtlich zukommen,
+                                                  zuteilwerden, Id. I, 813.</note> laßen, doch dz sy
+                                                  darumb versicherung gebind, wann etwar<note type="editorial"> jemand</note> keme, dem diß gůt
+                                                  gehorte, man das zefinden wüße.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mitwochs, den 12ten
+                                                  aprilis p[raese]nt[ibus] herr Raan unnd beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

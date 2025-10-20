@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_276</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_276</idno>
+          </msIdentifier>
+          <head>Heinrich Holzhalb an Bürgermeister und
+                                                  Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1565-07-31"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 127</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, frommen, eerenvesten, fürsichtigen,
+                                                  ersammen und wysen, gnädig min herren, ewer gnad
+                                                  unnd wyßheit sigen min underthennig willig dienst
+                                                  altzit in schuldiger pflicht zůvor bereith. Gnädig
+                                                  min herren, alle, die jn miner amptßverwaltung
+                                                  gesässen unnd sich der töüfferischen säct, wie jch
+                                                  bericht, anhänngig gemacht, hab ich bim eyd uff
+                                                  sontag nächstverruckht<note type="editorial">
+                                                  jüngst vergangen, Id. VI, 856.</note> vor mir jm
+                                                  Vischental zůerschinen betagt<note type="editorial"> vorladen, Id. XII, 1080.</note>unnd gegen den gehorsammen jn bysin ewers unndervogts, ouch dryger weyblen unnd des lanndtschrybers, ewern bevalch mit allem ernst zum besten, als ich können, ußgericht. Unnd daruf by jnnen bescheid funden, wie hernach uffs kürtzist beschriben wirt. Nammlich by<persName ref="Wagner, Hans">Hannsen Wagnern</persName>, jrem
+                                                  leerer, dem vorhar durch herrn schwager
+                                                  Thumyssen<note type="editorial"><persName ref="Thumysen, Hans">Itelhans Thumysen</persName></note>,
+                                                  ewerm mitrath, geseit, siner leer abzeston oder
+                                                  das lannd zerummen etc.</p>
+                                                  <p>[Hans Wagners Antwort:] Er könne nit woll uß
+                                                  ewerm piet ziechen. Ursach: wahin er kämme, müst
+                                                  er grad diser gefar ouch erwarten. Dwyl aber er
+                                                  sich jm schweyß sins angesichts mit sinem
+                                                  hanndtwärch ernarte unnd jn keinen sachen jemmands
+                                                  beschwärlichs zůfůgte, ouch nütz anders gloupte,
+                                                  dann das er uß göttlicher heilliger geschrifft,
+                                                  ouch siner jngäbung unnd begnadens jn alt unnd
+                                                  nüwem testamänt beschriben fund unnd gott selbs
+                                                  hiesße, so pätt er, jnn darbj beliben zelassen
+                                                  unnd jnn zů keinem annderen glouben zůträngen. Den
+                                                  wie er den hett unnd dardurch er verhoffte sälig
+                                                  zů werden, es sige dann sach, das man jnn nochmaln
+                                                  mit göttlicher heiliger geschrift unnd mitnammen
+                                                  uß beiden testamänten eins annderen unnd besseren
+                                                  widerwyse<note type="editorial"> widerlege, eines
+                                                  Irrtums überführen, Id. XVI, 1969.</note>. Sunst
+                                                  welt er von sinem glouben nit ston unnd darumb nit
+                                                  minder dann wie Crystus Jhesus den tod umb
+                                                  unschuld erlitten, der straf ouch erwarten,
+                                                  welichem wir vil mer dann der oberkeit schuldig
+                                                  unnd sins urteils teilhafftig sin müßten.
+                                                  Derselbig ouch die oberkeit allein zů schutz unnd
+                                                  schirm der gůten unnd zur straf den bößen
+                                                  ufgesetzt. Unnd wyl nun er, wie gehördt, nütz
+                                                  bößes hanndlete, ouch dartzů niemmands anlaß oder
+                                                  ursach gäbe, weder mit dem eebruch, dem gyt<note type="editorial"> Geiz</note>, dem zůtrincken noch
+                                                  annderen lasteren, so bedörfte er der oberkeit
+                                                  feerer<note type="editorial"> weiter</note> nit,
+                                                  noch vilminder jren zů schweeren, so doch gott den
+                                                  eydschwůr zum gůten unnd bößen zethůnd fry
+                                                  abgestrickht<note type="editorial"> Vgl. Mt
+                                                  5,33-37.</note>, unnd er jn allen göttlichen,
+                                                  zimmlichen unnd billichen sachen one den eyd sunst
+                                                  gehorsamm wäre unnd fürther<note type="editorial">
+                                                  weiterhin</note> sin, ouch niemmandts von ewerer
+                                                  zů siner leer nit wysen, denn der derselben von jm
+                                                  begärte.</p>
+                                                  <p>Demnach by<persName ref="Peter, Hans">Hannsen Pettern</persName>, dem sännen, glyche meinung
+                                                  unnd so vil wyter, das er von siner leer nit
+                                                  abston, sunder dieselbig erhalten mit dem heiligen
+                                                  euangelium. Dann ob er glychwol vorhar, als jr jhn
+                                                  jn ewerer gefänckhnus, darjnn er von wägen siner
+                                                  toüferischen säct gelägen, ein eyd schweeren,
+                                                  darvon zeston unnd sich ewerer leer, ouch der
+                                                  satzungen unnd manndathen zů beflysen, hett er's
+                                                  doch uß schwachheit gethon, unnd das er dartzů mit
+                                                  gůten worten beredt unnd nammlich das er siner
+                                                  gefangenschafft gelediget; unnd wann er jetz dem
+                                                  selben underricht unnd unnserer leer nachkommen,
+                                                  thät er wider sin gewüsßne, unnd das wider siner
+                                                  seel säligkeit wäre.</p>
+                                                  <p>Glychergestalt redt<persName ref="Walder, Heini">Heini Walder</persName>, unnd namlich das er wider
+                                                  unnser leer unnd glouben keinswägs unnd gar nit
+                                                  sige, sunder den an jm selbs belyben laß. Wie aber
+                                                  der herr gott jm sin glouben jn sin hertz
+                                                  zůerkännen gäben, darby welle er belyben, ouch
+                                                  darvon nit abston, sunder dartzů sin lyb unnd
+                                                  läben setzen. Dann gott, der herr, jn siner
+                                                  heiligen euangelischen leer sag, welicher sin
+                                                  willen wüsse, derselbig sölle jn thůn; der jm
+                                                  widersträb, der wärd sin rych nit besitzen, noch
+                                                  des teilhafftig werden.<note type="editorial">
+                                                  Vgl. Mt 7,21.</note> Darumb es nit nun am hören,
+                                                  sunder an dem ligge, das man der gerächtigkeit
+                                                  nachgange. Unnd das er bißhar der oberkeit mit dem
+                                                  eyd nit gehorsame gethon, wär die ursach, das
+                                                  gott, der almächtig, das warhafftig unnd
+                                                  unwarhafftig schweeren verpütt. Darwider er nit
+                                                  handlen köndte unnd gott also mer schuldig denn
+                                                  der oberkeit. Deßhalben er mich unnd mins ampt
+                                                  erjnnert unnd gepätten, das sich jemmandts<note type="editorial"> niemand, vgl. <hl to="http://fwb-online.de/go/jeman.s.6pro_1646404203"><Hyperlink>http://fwb-online.de/go/jeman.s.6pro_1646404203</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> an jm
+                                                  unnd sinen mithafften<note type="editorial">
+                                                  mitverbundenen, Id. II, 1057.</note> ­toüf­feren
+                                                  als dem unschuldigen blůt unnd dennen, so nütz
+                                                  sträflichs handleten, noch zů handlen begärten,
+                                                  vertüffen<note type="editorial"> sich verfehlen,
+                                                  sich versündigen, Id. XII, 627.</note> oder gottes
+                                                  straf dadurch uff sy laden, sunder sy by jrem
+                                                  glouben belyben lon unnd jn gnaden zůbedänckhen.
+                                                  Dann Gott wurds sunst ungerachen nit lassen.</p>
+                                                  <p>Unnd diewyl ich einen, der fünfzechen jar mit
+                                                  siner husfrowen gehußet unnd aber den eestannd nit
+                                                  bestätt nach unnserer cristenlichen ordnung, hab
+                                                  ich uff dessen ußbelyben jnne, Walder,
+                                                  angezogen<note type="editorial"> vorhalten,
+                                                  vorwerfen, Id. XVII, 992.</note>, uß was grund das
+                                                  beschächen, unnd darüber von jm andtwurt
+                                                  empfanngen, das derselbig sin eestand vor jrer
+                                                  gemeind bestäth, unnd jr ordnung sige, wie gott,
+                                                  der allmächtig, die ordnung jn der leer ouch jm
+                                                  bestätten der eeen unnd jm touff, sölliche
+                                                  zůbruchen, angäben unnd ufgesetzt. Unnd wann man
+                                                  jnen ein kilchen jngäb<note type="editorial">
+                                                  überlassen, vgl. <hl to="http://fwb-online.de/go/eingeben.s.3vu_1709337471"><Hyperlink>http://fwb-online.de/go/eingeben.s.3vu_1709337471</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, unnd
+                                                  jnen jren bruch zů üben zůließ, so täten sins grad
+                                                  vor der gantzen gemeind. Es sige ouch kein andere
+                                                  ursach, das sine mitgnossen hüt nit erschinnint,
+                                                  dann das sy vernommen, das man sy nit vor offner
+                                                  gemeind, sunder einen nach dem anderen
+                                                  beschickhte<note type="editorial"> kommen lassen,
+                                                  vorladen, Id. VIII, 523.</note> unnd sy jrer leer
+                                                  abwiße. Unnd wan man jnen noch (nütz anders
+                                                  begärten unnd darumb pätten) zůliesse, umb jren
+                                                  glouben unnd leer jn offner pfarrkilchen vor
+                                                  mengclichem bescheid unnd andtwurt zůgäben, wärent
+                                                  sy des unbeschwärdt. Unnd so sy dann daselbs durch
+                                                  jemmandts mit göttlicher heiliger geschrift eins
+                                                  anderen und besseren glouben und leerens
+                                                  widerwißen wurden, müßten sy jrs gloubens und
+                                                  leerens ab­ston unnd das jren an die hand nämmen
+                                                  etc.</p>
+                                                  <p>Darumbe gnädig min herren, wann nun ich von
+                                                  disen dry personen angezeigten bescheid empfangen,
+                                                  unangesächen das ich jrs disputierens keinswägs,
+                                                  sunder allein von jnen zůwüssen begärt, ob sy von
+                                                  jrer töüfferischen säct abston unnd unseren alten,
+                                                  waren, ungezwyfleten, cristenlichen glouben
+                                                  annämmen, ouch ewere satzungen, ordnungen,
+                                                  manndathen, potten<note type="editorial">
+                                                  Gebote</note>unnd verpotten gehorsam sin unnd der oberkeit schweren, ouch billich schuldige pflichten thůn unnd sich hinfür nit also hartnäckig unnd widerspännig erzeigen welten und zů dem, wie gemäldet, villicht uß dennen unnd anderen jetz erzelten ursachen der merteil ­toüf­feren von man- unnd wybßpersonen mit jrem nit erschinen, ungehorsam gewäßen unnd mit<persName ref="Jakob (von Wädenswil)">nammen Jacob</persName>von
+                                                  Wädischwyl<note type="editorial"> Vermutlich Jakob
+                                                  Bürgi, vgl. Nr. 60 und Nr. 102.</note><placeName ref="Wädenswil"/>, so zů Kleinbärentschwyl<note type="editorial"> Kleinbäretswil</note><placeName ref="Kleinbäretswil"/> gesännet, uß miner
+                                                  verwaltung gen Wädischwyl (alda jm sin vatter und
+                                                  zwen průderen mit tod abgangen sin söllen) zogen,
+                                                  hab ich, damit jch jn disem handel weder zů vil
+                                                  noch lützel<note type="editorial"> wenig</note>
+                                                  tätte, jn der sach wytter nit fürschrytten, sunder
+                                                  zůvor üch des alles jm besten unbericht nit
+                                                  lasßen. Mit pitt, jr wellen mich hierüber ewers
+                                                  feereren<note type="editorial"> weiteren</note>
+                                                  gefallens unnd wie ich mich jn disem falh gegen
+                                                  allen ­toüf­feren halten sölle verständigen.
+                                                  Demselben ewerm heissen ich gern zů miner
+                                                  schuldigen pflichtung mit allen thrüwen statt thůn
+                                                  unnd nachkommen unnd darbj jn schirmm gottes
+                                                  bevälchen. Datum zinstags den letsten höwmonats,
+                                                  anno etc. 65.</p>
+                                                  <p rend="margin-top">Ewer underthenig diener</p>
+                                                  <p>Heinrich Holzhalb, vogt zů<placeName ref="Grüningen">Gruningen</placeName>.</p>
+                                                  <p rend="margin-top">Den edlen, frommen,
+                                                  erenvessten, fürsichtigen, ersamen unnd wysen
+                                                  herrn burgermeister unnd raath der statt<placeName ref="Zürich">Zürich</placeName>, minen gnädigen
+                                                  herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

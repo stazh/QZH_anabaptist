@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_416</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_416</idno>
+          </msIdentifier>
+          <head>Inventar von Hans Brunner Vgl. Nr. 270.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 267</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Hanns Brunner von Niderbergken<note type="editorial"> Berikon</note><placeName ref="Berikon"/> ist ungefaar achtzechen jar allt
+                                                  und umb Jo[hannis] bapt[ist]e<note type="editorial"> 24. Juni</note>
+                                                  nechstverschinnen<note type="editorial"> kürzlich,
+                                                  Id. IV, 636.</note> hinab jnn dz lannd<placeName ref="Mähren">Merheren</placeName>gezogen. Er hatt
+                                                  by leben ein brůder, heißt Heinj, und ein
+                                                  schwöster, genannt Margrett. Die alle drü hannd
+                                                  gůtt, wie hienach geschriben stad.</p>
+                                                  <p rend="margin-top">Jtem eygen unnd erb uff dem
+                                                  hoff Yflisperg<note type="editorial">
+                                                  Islisberg</note><placeName ref="Islisberg"/> jnn
+                                                  dem<placeName ref="Kelleramt">Kelleramptt</placeName>gelegen, 900 g[ulden], zallt alle jar uff faßnacht
+                                                  an zinß 60 g[ulden].</p>
+                                                  <p>Jtem uff<persName ref="Brunner, Jakob">Jacoben Brunnern</persName>zů Walleschwyl<note type="editorial"> Wallenschwil</note><placeName ref="Wallenschwil"/>, nechst ob<placeName ref="Muri">Murj</placeName>gelegen, 100 g[ulden].</p>
+                                                  <p>Jtem uff unndervogt<persName ref="Brunner, Kaspar">Casparn Brunnern</persName>zů Niderbergken<note type="editorial"> Berikon</note><placeName ref="Berikon"/> 100 g[ulden].</p>
+                                                  <p>Jtem<persName ref="Füglistaler, N.">die Füglistalen</persName>zů Husen<note type="editorial"> Hausen, Weiler bei Bellikon,
+                                                  Landgrafschaft Baden</note><placeName ref="Hausen am Albis"/> jm<placeName ref="Kelleramt">Kelleramptte</placeName>50 g[ulden].</p>
+                                                  <p>Jtem<persName ref="Bräm, N">der Bräm</persName>zů
+                                                  Bäsenbüren<note type="editorial"> Besenbüren, Dorf
+                                                  in den Freien Ämtern, die von sechs
+                                                  eidgenössischen Orten gemeinsam regiert
+                                                  wurden.</note><placeName ref="Besenbüren"/>
+                                                  sol<note type="editorial"> ist schuldig, Id. VII,
+                                                  771.</note> 23 kronen.</p>
+                                                  <p>Jtem<persName ref="Schmid (von Rüti)">der Schmid</persName>zů Rüthj<note type="editorial"> Rüti, Weiler der Gemeinde
+                                                  Hägglingen</note><placeName ref="Hägglingen, Rüti"/>, nechst bj Hägglingen jnn Freyen<placeName ref="Freie Ämter">Empteren</placeName>deß Ergöws
+                                                  glegenn, sol<note type="editorial"> ist schuldig,
+                                                  Id. VII, 771.</note> 24 kronen.</p>
+                                                  <p>Jtem der<persName ref="Lüthi, Hansli">Hanßli Lüthi</persName>zů<placeName ref="Widen">Wyden</placeName><note type="editorial"> Widen,
+                                                  Landgrafschaft Baden</note> jnn der Graffschafft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>26
+                                                  kronen.</p>
+                                                  <p>Jtem<persName ref="Meyer, Walti">Wellti Meyer</persName>zů<placeName ref="Sellenbüren">Sellenbüren</placeName>jnn
+                                                  Zürichpyet sol 50 g[ulden].</p>
+                                                  <p>Jtem<persName ref="Grad, Klaus">Claus Graad</persName>zů Oberbergken<note type="editorial">
+                                                  Berikon</note><placeName ref="Berikon"/> 36
+                                                  g[ulden].</p>
+                                                  <p>Jtem<persName ref="Bäliger, Ůli">Ůli Bälliger</persName>daselbst 20 kronen.</p>
+                                                  <p>Jtem<persName ref="Gehrig, Michel">Michel Geerig</persName>daselbst 26 kronen.</p>
+                                                  <p>Jtem<persName ref="Gehrig, Junghans">Junghanß Gerig</persName>von Niderbergken 100
+                                                  g[ulden].</p>
+                                                  <p>Jtem<persName ref="Heitensperger (von Rudolfstetten)">der Heytensperger</persName>zů
+                                                  Růdistetten<note type="editorial"> Rudolfstetten,
+                                                  Landgrafschaft Baden</note><placeName ref="Rudolfstetten"/> 50 g[ulden].</p>
+                                                  <p>Jtem der<persName ref="Hug, Junghans">Junghans Hug</persName>daselbst 100 g[ulden].</p>
+                                                  <p>Jtem<persName ref="Hindermann, N.">die Hindermannen</persName>zů Wynigen<note type="editorial"> Weiningen</note><placeName ref="Weiningen"/> jnn Zürichpyet 100 g[ulden].</p>
+                                                  <p>Unnd zů lettst noch zwen tauwen<note type="editorial"> Landmass, Id. XVI, 33.</note>
+                                                  räben zů<placeName ref="Oberwil">Oberwyl</placeName>.</p>
+                                                  <p>Das gůt alles gehört jnn drey theil dem Hanß
+                                                  Brunner, so hinweg jst, und sinem brůder Heinj und
+                                                  der schwöster Margreta, wie obstad.</p>
+                                                  <p rend="margin-top">Suma: 1824 g[ulden], 2 tauwen
+                                                  räben.</p>
+                                                  <p rend="margin-top">Dargegen sind si ouch
+                                                  biderben<note type="editorial"> ehrenwert, Id.
+                                                  XIII, 1412.</note> lüthen schulldig ungefar uff
+                                                  die 100 g[ulden].</p>
+                                                  <p rend="margin-top"><persName ref="Schodoler, Werner">Stattschriber Schodoler</persName>ze<placeName ref="Bremgarten">Bremgarten</placeName></p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Vgl. Nr. 270.</p>
+    </back>
+  </text>
+</TEI>

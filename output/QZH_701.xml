@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_701</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_701</idno>
+          </msIdentifier>
+          <head>Die Geistlichen des Kapitels
+                                                  Oberwetzikon an
+                                                  Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-06-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 552</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Die gnad gottes unnd unnser underthänikeit
+                                                  zůvor. H[err] burgermeister, fromme, edle, ouch
+                                                  eerenveste, fürsichtige, fürnemme unnd wyse,
+                                                  jnnsonders gnedig, lieb herren und väter. Wiewol
+                                                  wir, gottes unnd üwer diener im wort gottes, wol
+                                                  erkennend, daß u[wer] e[rsam] w[ißheit] täglich
+                                                  mit vilen unnd schweeren sachen überladen
+                                                  werden<note type="critical">In der Vorlage:
+                                                  werde</note>, könnend wir doch mit gůter gewüßne
+                                                  unnsers ampts und eyds halben ü. e. w. nit<note type="critical">In der Vorlage: mit</note>
+                                                  verhalten<note type="editorial"> vorenthalten, Id.
+                                                  II, 1233.</note>, daß ob schon wir mit göttlichem
+                                                  wort der ­toüf­ferischen sect flyßig begägnend
+                                                  unnd gůt sorg habend, dz wir inen nüt billicher
+                                                  wys mit unserem wandel in rachen fallind. Obschon
+                                                  ouch die herren obervögt sy mit gält straaffen
+                                                  ernstlich ruͤttlend, verfacht doch dises alles by
+                                                  inen nüt mee, dann dz ir sect mee zů- dann abnimmt
+                                                  unnd dz in ettlichen pfarren unnsers oberen teils,
+                                                  in denen man vorhin von keinen ­toüf­feren gewüßt,
+                                                  ietz nüwe uffgstanden, die dann andere nüwe
+                                                  gebärend, wie das ottergschlächt als wenig růwet
+                                                  als die flůt deß meers. Dann die ­toüf­fer nach
+                                                  irem bruch der welt fürgäbend<note type="editorial"> vorgeben, weismachen, Id. II,
+                                                  90.</note>, es sye den predicannten mit der predig
+                                                  hören umb ir eer, dz sy vil zůhörer habind, unnd
+                                                  umb ire pfrůnden zethůn. Es sye ouch der oberkeit
+                                                  mee am gelt dann am wortt gotts gelägen; welches
+                                                  man daby ougenschinlich sähe, daß man ettliche
+                                                  ­toüf­fer viertzig, dryßig, fünfzähen unnd noch
+                                                  meer jaar hab laßen sitzen unnd geduldet, mithin
+                                                  zů aber iemerdar am gelt habe gerupft<note type="editorial"> schröpfen, ausbeuten, Id. VI,
+                                                  1208.</note>. Darumb sy sich dann helige martyrer schetzend unnd deß halsstarker werdent. Darinn wir jnnsonderheit ein schädlichen wolff gespüwrend an<persName ref="Leutenegger, Jörg">Görgen Lutenegger</persName>dem müller, der ongevarlich vor fünffzähen
+                                                  jaren im Turgöw ist uffgiagt unnd vertriben unnd
+                                                  sich in der herrschafft<placeName ref="Grüningen">Grüningen</placeName>ingelaßen hat, erstlich in der
+                                                  pfarr<placeName ref="Wald">Wald</placeName>, ietz aber
+                                                  wonhafft ist uff<placeName ref="Hinwil, Orn">Orn</placeName>in der pfarr Hinwyl, da er vil zůlouffs hatt unnd
+                                                  gar wuͤtig ist, wie man verston kan uß einer
+                                                  antwurt, die er kurtzlich dem pfarrer daselbst,
+                                                  der in zur ghorsame gemanet, by siner
+                                                  eegoumeren<note type="editorial"> Vertreter der
+                                                  Sittenzucht, Id. II, 304.</note> einen zůgeschikt
+                                                  hatt, in bygelegter schrifft gnůgsamlich
+                                                  begriffen.<note type="editorial"> Vgl.
+                                                  Nr. 691.</note></p>
+                                                  <p>So zeigt ouch der nüwe pfarrer zů Wald<note type="editorial">Hans<persName ref="Schinz, Hans Heinrich">Heinrich Schinz</persName></note> an, dz er von
+                                                  gloubwirdigen lüten schon gehört hab, dz ob man
+                                                  glich wäne, es sye deren nüt gar ein große zal,
+                                                  die sich zur ­toüf­fery bekennind, sye dero gar
+                                                  ein große zal, die inen günstig und in irer sect
+                                                  vertädigind, welches wie ouch andere ire
+                                                  ungebürlichen sachen man uß genandtes pfarrers zů<placeName ref="Wald">Wald</placeName>latinischem unnd
+                                                  tütschem bericht<note type="editorial"> Nr. 542
+                                                  und Nr. 551.</note> witloüffiger verston kan. Wann
+                                                  nun ouch anndere lüt semlichs sähend unnd hörend,
+                                                  gewünnt es inen so vil an, dz so sy glich wol das
+                                                  wort gottes besůchend, beschicht es doch so
+                                                  asmerlich<note type="editorial"> lau, träge, vgl.
+                                                  <hl to="http://fwb-online.de/go/aschmerlich.s.4adj_1709453266"><Hyperlink>http://fwb-online.de/go/aschmerlich.s.4adj_1709453266</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, dz die
+                                                  diener deß selben ein groß beduren darab
+                                                  empfahend. Wie erschießlich nun dise verachtung
+                                                  unnd unghorsame göttlichs worts sye, kan u. e. w.
+                                                  wol ermeßen, hört es ouch vilmalen von den
+                                                  leereren in üwer statt.</p>
+                                                  <p>Aber damit ir, u. g. h., unns mit disen
+                                                  unnseren fürtrag nüt verdennken<note type="editorial"> verübeln, Id. XIII, 661.</note>
+                                                  mögind, samm<note type="editorial"> gleichsam, als
+                                                  ob</note> er bschähe uß gwonheit deß synodi,
+                                                  sunnder dz er bschähe uß grunndtlichem verstand
+                                                  diser schädlichen sect, unnd dz es unnser rechter
+                                                  ernst sye, wellend wirs mit kurtzen worten
+                                                  äferen<note type="editorial"> wiederholen, wieder
+                                                  vorbringen, Id. I, 106.</note> unnd witer
+                                                  vermelden.</p>
+                                                  <p>Demnach die alt schlang ir gifft der hoffart
+                                                  denen ersten menschen inggoßen hat, sind sy
+                                                  gott<note type="critical">«gott» über der Zeile,
+                                                  in der Zeile gestrichen: im</note> nüt nun<note type="editorial"> nur</note> unghorsam worden,
+                                                  sunder hand sich ouch imme überhebt. Dahar es
+                                                  kummt, dz alle ire nachkommen, wo sy durch gottes
+                                                  wort unnd geist nüt gewendt werdent, uß diser
+                                                  gifftigen ard meinend umb gott unnd sin wort nüt
+                                                  zegäben, wellend selb meister sin, nüt knecht sin,
+                                                  sonder herren, nüt gespannen<note type="editorial">(ins Joch) gespannt</note> ston, sunder fry sin.
+                                                  Ob nun üwere lüt sonderlich uff der landschafft
+                                                  diser bösen ard änig<note type="editorial"> frei,
+                                                  ledig, Id. I, 263.</note>, weißt u. e. w. uß alten
+                                                  unnd nüwen gschichten.</p>
+                                                  <p>Wenn die rißenden wölff (dero einer Heini
+                                                  Bärtschiker im<placeName ref="Fischenthal">Vischental</placeName>, ir prediger, sampt<persName ref="Leutenegger, Jörg">vorgenantem müller</persName>uff Orn<note type="editorial"> Hof in der Gemeinde
+                                                  Hinwil.</note><placeName ref="Hinwil, Orn"/>, ein
+                                                  fürnemmer ist) mit dem ­toüf­ferischen
+                                                  schaaffkleid dahar kommend, den touff reformierend
+                                                  unnd fürgäbend, wie sy hiemit die, so sich in ir
+                                                  sect begäbend, aller sünd quieterend<note type="editorial"> frei sprechen, Id. V,
+                                                  1314.</note>, wie sy frävenlicher wys thůnd, ouch
+                                                  witer meldent, die predicanten leerind nüt das
+                                                  recht gotts wort, welches by dem wol erschine,
+                                                  dass es one gůte frucht abgange, das sye gotts
+                                                  wort unnd meinung. Diewil wir alle einen gott
+                                                  habind, syend wir alle schwester unnd brüder durch
+                                                  einanderen, wie sy einanderen gar flyßig nennend;
+                                                  unnd so wir brüder, syen wir all glich, keiner
+                                                  höher dann der ander, dahar sy aller oberkeit von
+                                                  hertzen abhold unnd sy heiden nennend, unns
+                                                  predicanten anrowend<note type="editorial"> mit
+                                                  harten Worten anfahren, Id. VI, 1873.</note> wie
+                                                  die hund, semlichs ouch etwa der oberkeit thůnd
+                                                  unnd ouch mee thätind, wenn sy das schwert nüt
+                                                  furchtind; unnd so wir alle bruͤder unnd glich,
+                                                  sölle keiner mee dann der ander haben, darumb sy
+                                                  uff gmeinschafft der guͤteren tringend. Wenn nun
+                                                  der gmein man semlichs hört unnd darby vermeint,
+                                                  dz er nach diser leer gott wol könne dienen mit
+                                                  dem, so im sunst anmuͤtig<note type="critical">statt «unmuͤtig»?</note> unnd im läder ligt<note type="editorial"> am Leder liegen: bedrängen, auf
+                                                  die Pelle rücken, <hl to="http://fwb-online.de/go/leder.s.2n_1668710001"><Hyperlink>http://fwb-online.de/go/leder.s.2n_1668710001</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, meint
+                                                  man nüt, dz es zů naßem bald rägne unnd die lüt
+                                                  bald volg<note type="editorial"> Folgsamkeit,
+                                                  Zustimmung, Id. I, 810.</note> bekommind? Daruff
+                                                  sy tag und nacht trachtend, damit sy dem
+                                                  fürnemmen<note type="editorial"> Vorhaben,
+                                                  Absicht, Id. IV, 746.</note>, welches sy im puren
+                                                  krieg unnd zů<placeName ref="Münster">Münster</placeName>in
+                                                  Westphalen erzeigt, nachkommen mögind. Ob nun dise
+                                                  sach by diser rowen und verdorbnen welt
+                                                  schimpflich, kan u. e. w. wol abnemmen by einem
+                                                  bispyl, das sich dises jar zů Berotschwil<note type="editorial"> Bäretswil</note> mit dryen
+                                                  brüderen erhebt, welche, als sy der herr obervogt
+                                                  umb mißthaat gestraafft, sich zů den ­toüf­feren
+                                                  geschlagen unnd von inen uffgenommen worden,
+                                                  welches u. e. w. uß zugelegtem bricht deß pfarrers
+                                                  daselbst grünndtlicher unnd witlöuffiger wirt
+                                                  können verston.<note type="editorial">
+                                                  Nr. 550.</note></p>
+                                                  <p>Unnd ob man glich wol dises alles nüt achten
+                                                  wölt, wie aber u. e. w. sömlichs nüt wol kan
+                                                  verachten, sol man ouch liden, dz das helig
+                                                  euangelion, das wort der gnaden, jn welchem sich
+                                                  der ewig gwaltig gott so frünndtlich unnd
+                                                  vätterlich laßt sehen unnd erkennen, zů unnserem
+                                                  eewigen heil umb diser wonnsinnigen unnd
+                                                  hartnäkigen lüten willen by unnseren widerwertigen
+                                                  gelestert unnd für ein töuffery verschruwen wirt
+                                                  unnd hiemit gůthertzige lüt darvon abgschrekt
+                                                  werdent?</p>
+                                                  <p>Semlichs üch, u. g. h., angends<note type="editorial"> unverzüglich, Id. II, 19.</note>
+                                                  zů berichten, habend wir eyds unnd ampts halben
+                                                  nüt können underlaßen, da wir den oberisten
+                                                  regenten himels unnd erdtrichs, Christum Jesum,
+                                                  den sun gotts, demuͤtiklich unnd inbrünstiklich
+                                                  bättend, daß er durch sinen statthalter, den
+                                                  heligen geist, u. e. w. anwise unnd mit gnaden
+                                                  rüste, daß ir dises sorklich<note type="editorial"> Besorgniss erregend, gefährlich, Id. VII,
+                                                  1320.</note> übel unnd andere derglichen mit
+                                                  rechtem ernst unnd flyß abschaffen mögind. Wir
+                                                  bittend ouch u. e. w. gantz underthäniklich, sy
+                                                  welle disen unnseren fürtrag bester meinung, wie
+                                                  er von unns gestelt, von unns, üweren
+                                                  underthänigen dieneren, verston unnd annemmen unnd
+                                                  unns alle zyt wie bißhar laßen bevolhen sin.
+                                                  Beradtschlaget unnd gäben im jenner und widerum
+                                                  gäben den 2. junij a[nn]o [1]601.</p>
+                                                  <p rend="margin-top">U. e. w. underthänige
+                                                  diener</p>
+                                                  <p>dechan unnd gemeine bruͤder im obren teil
+                                                  Wetzikomer capitels</p>
+                                                  <p rend="margin-top">Den frommen, edlen unnd
+                                                  eerenvesten, fürsichtigen, fürnemmen unnd wysen
+                                                  herren, h[err] burgermeister unnd radt, unnseren
+                                                  gnedigen lieben herren unnd vätteren zů
+                                                  Zürich.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

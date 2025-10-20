@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_485</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_485</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1586-05-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 336</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>H[err] Helias Vischer<note type="editorial">
+                                                  Elias Fischer</note><persName ref="Fischer, Elias"/> hatt zWirenloß<note type="editorial">
+                                                  Würenlos</note><placeName ref="Würenlos"/> uff
+                                                  wienacht das nachtmal gehalten nach dem nüwen
+                                                  calender, hernach zů ostern nach dem alten. Do die
+                                                  bruͤder in darum anzogen. Item er solle sorg
+                                                  haben, es komind aber<note type="editorial">
+                                                  wieder</note> teuffer in das land, hatt er
+                                                  ubel<note type="editorial"> sehr, Id. I,
+                                                  55.</note> vergůt<note type="editorial"> vergut
+                                                  haben: gutheissen, vgl. Grimm 25, 499.</note>,
+                                                  trewt<note type="editorial"> drohen, Id. XIV,
+                                                  1575.</note> sye gar sproͤd.<note type="editorial"> kümmerlich, dürftig, Grimm 17 146.,</note></p>
+                                                  <p>[…]</p>
+                                                  <p>Considertationes: […]. 3.<placeName ref="Winterthur">Winterthur</placeName>und ander, das man die nüw ordnung mitt den teufferen schlechtlich handhabe.<persName ref="Schnyder, Hans">Der teuffer</persName>zů
+                                                  Rorbaß<note type="editorial"> Hans
+                                                  Schnyder</note><placeName ref="Rorbas"/> ist wider
+                                                  uß gfenknuß gelassen zů<placeName ref="Kyburg">Kyburg</placeName>und ist der redlifuͤreren
+                                                  einer.</p>
+                                                  <p>Dises alles sol an unser g[nedig] h[erren]
+                                                  langen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

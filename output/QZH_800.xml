@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_800</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_800</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1606-10-13"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 651</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, wir werdent von dem unsern Hans<persName ref="Erzinger, Hans Heinrich">Heinrich Ertzinger</persName>berichtet, alsdann
+                                                  er synen hoff uff Schoubingen<note type="editorial"> Schaubigen, am
+                                                  Pfannenstiel</note><placeName ref="Schaubigen"/>dyner amptsverwaltung gegen synem vetern<persName ref="Erzinger, Heinrich">Heinrichen Ertzinger</persName>verkoufft und albereit
+                                                  demselben den hof übergeben und er mit dem synen
+                                                  zů den unseren gen Esch<note type="editorial">
+                                                  Aesch bei<placeName ref="Aesch bei Birmensdorf">Birmensdorf</placeName></note> züchen und
+                                                  verfahren wellen, habist du jme alls von wegen
+                                                  synes vaters Heinrich Ertzingers deß<note type="critical">Folgt gestrichen: vaters</note>
+                                                  ­toüf­fers als ­toüf­fer gůt jnn verbot<note type="editorial"> Sequester, Beschlag, Grimm 25,
+                                                  152.</note> legen laßen. Deßen er nun beschwert
+                                                  und hat daruf unns gebäten, dir von synetwegen
+                                                  darumbe zů zeschryben, damit er mit dem synen
+                                                  ungehindert verfahren möge. Diewyl nun diß nit
+                                                  deß<note type="critical">«diß nit deß» über der
+                                                  Zeile</note> gedachten Heinrich Ertzingers deß
+                                                  vaters, sonders deß genannten synes sohns gůt syn
+                                                  sol und er, der vater<note type="critical">«sonders deß … vater» am Rand mit
+                                                  Verweiszeichen</note>, sontsten<note type="critical">«sontsten» am Rand</note> hab
+                                                  und<note type="critical">«hab und» über der zeile,
+                                                  in der Zeile gestrichen: mehr</note> gůt,
+                                                  auch<note type="critical">«auch» über der Zeile,
+                                                  in der Zeile gestrichen: und</note> schulden jnn
+                                                  dyner verwaltung<note type="critical">Folgt
+                                                  gestrichen: ligend</note> hat, zůdem<note type="critical">«zůdem» über der Zeile, in der
+                                                  Zeile gestrichen: ouch</note> er, der sohn, mit
+                                                  diserm nit ussert unser gebiet zücht und<note type="critical">Folgt in und über der Zeile
+                                                  gestrichen: dem er</note> schon albereit mit<note type="critical">Folgt gestrichen: roß und</note>
+                                                  bestelter fůhr daoben<note type="critical">Folgt
+                                                  gestrichen: jst</note> und hernach von synes
+                                                  vaters wegen jederzyt (da es von nöten)<note type="critical">«jederzyt (da es von nöten)» am
+                                                  Rand mit Verweiszeichen, in der Zeile gestrichen:
+                                                  allwegen</note> wider zefinden jst, so jst unser
+                                                  meinung<note type="editorial"> Erwartung, Weisung,
+                                                  vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, das du
+                                                  dz angelegt hafftbot<note type="editorial">
+                                                  Arrestverfügung, Id. IV, 1902.</note> widerumb
+                                                  ufhebist und<note type="critical">«dz angelegt …
+                                                  und» am Rand mit Verweiszeichen</note> den
+                                                  gedachten jungen Ertzinger mit syner<note type="critical">«syner» über der Zeile, in der
+                                                  Zeile gestrichen: der</note> varenden hab wyter
+                                                  ungehindert verfahren laßist. Im übrigen wirst du
+                                                  dich gegen jme, Ertzinger dem vater, als einem
+                                                  ­toüf­fer der bestraffung halber allwegen<note type="critical">«allwegen» über der Zeile</note>
+                                                  wol zehalten wüßen<note type="critical">Reihenfolge der Wörter «wol zehalten wüßen» über
+                                                  der Zeile nummeriert</note>. Datum den 13. d.
+                                                  octob[ris] a[nn]o 1606.</p>
+                                                  <p rend="margin-top">Burgermeister und rhat der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  Eich.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

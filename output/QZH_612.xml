@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_612</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_612</idno>
+          </msIdentifier>
+          <head>Urteil gegen Heinrich Rüzensdorfer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1593-07-21"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 463</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wiewol man über dißere antworten zum offternmal
+                                                  by jmme, Rützenstorfferen, gweßen, hatt er doch
+                                                  von synem kybigen<note type="editorial">
+                                                  eigensinnig, boshaft, zänkisch, Id. III,
+                                                  108.</note> fürnemmen<note type="editorial">
+                                                  Vorhaben, Id. IV, 746.</note> und jrrigen sect nit
+                                                  abstaan wellen unnd aber sich anerbotten, uß myner
+                                                  g[nedigen] herren gricht unnd biett zezüchen by
+                                                  synem ja zůversprechen, doch nit mehr daryn
+                                                  zekommen, nit zůsagen wöllen, sonder jmme selbs
+                                                  deß fhals den anhang gemacht, das wan er jnn myner
+                                                  g[nedigen] herren landtschafft komme ald<note type="editorial"> oder</note> beträten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+                                                  1486.</note> werde, alsdann man jmme synen
+                                                  verdienten lohn volgen laßen sölle etc., gantz
+                                                  deemütig dißmals der gnaden begärende, hand
+                                                  wolgenant myn gnedig herren jmme nach synem
+                                                  begären uß gnaden unnd uff syner früntschafft<note type="editorial"> Verwandtschaft, Id. I,
+                                                  1307.</note> bitten obgehörter gstalt gewillfaret,
+                                                  also dz er by synem ja uß myner herren biet
+                                                  loben<note type="editorial"> geloben</note> sölle
+                                                  und möge. Unnd so aber er über dz darin beträten,
+                                                  wurde man jmme sölliches rechnen, als wann er ouch
+                                                  versprochen, nit mehr daryn zekommen, und jmme syn
+                                                  straf synes jmme selbs gegäbnen urteil nach
+                                                  vervolgen laßen, unnd sölle er jetzdann der
+                                                  langwirigen gfangenschafft nach erleggung alles
+                                                  kostens gelediget unnd den nechsten uß derselben
+                                                  zum thor hinuß und hinwegzüchen. Was syn hab unnd
+                                                  gůt antrifft, habend myn g[nedig] herren synen
+                                                  verwanten heimbgesetzt, jmme von demselben etwas
+                                                  vervolgen<note type="editorial"> rechtlich
+                                                  zukommen, Id. I, 812.</note>zelaßen ald nit nach jrem gfallen. Actum sambßtags den 21. t[ag] julij anno etc. 93 p[raesen]t[ibus] herr<persName ref="Grossmann, Konrad">b[urgermeister] Großman</persName><bm id="199"/> und beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_295</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_295</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1567-05-06"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 146</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der toͤüffern halb ward vil anzeigt, das alles
+                                                  ward gewisen an die herren darzů verordneten<note type="critical">korrigiert, ursprünglich:
+                                                  verordneten</note>.</p>
+                                                  <p rend="margin-top">[Bericht an den Rat von
+                                                  Zürich]<note type="critical">«was uß gehaltnem
+                                                  sinodo für myn herren gwißen»</note></p>
+                                                  <p>Zů<placeName ref="Bubikon">Bůbicken</placeName>jst der
+                                                  senn ein ­toüf­fer. Hat schon ein andern knecht
+                                                  ouch jm anhengig<note type="critical">In der
+                                                  Vorlage: anhenig</note> gemachet und noch jst
+                                                  einer under wegen. Wo nun das nitt by zyten mit
+                                                  ernst abgestelt, sind andere ­toüf­fer schon jnn
+                                                  bergen und thalen<note type="critical">«jnn bergen
+                                                  und thalen» am Rand</note> allenthalben jnn der
+                                                  herrschafft Gruͤningen vil<note type="critical">«vil» über der Zeile</note>, das zů besorgen, es
+                                                  möchte mynen herren bald daruß große unrůw und
+                                                  unheil<note type="critical">Folgt gestrichen:
+                                                  daruß</note> volgen. Dann jr leer, das das gůt
+                                                  gmein syn sölle, jst, welliches bald ein volg bim
+                                                  verdorbnen volck<note type="critical">Folgt
+                                                  gestrichen; js</note> haben wurde. Diewyl dann
+                                                  sölliches ein gmeine sach. Ist für<note type="editorial"> vor</note> üch<note type="critical">«üch» über der Zeile</note>, myn
+                                                  herren, gwißen, mit erntst ein jnsehen<note type="editorial"> Vorsorge (treffen), Id. VII,
+                                                  562f.</note> zethůnd.<note type="critical">Folgt
+                                                  gestrichen: und die vögt allenthalben erkhundigen
+                                                  zelasßen, wo sölliche personnen sygen, myn herren
+                                                  deß zůberichten.</note></p>
+                                                  <p>Die dryg ­toüf­fer<note type="editorial"><persName ref="Ruman, Peter">Peter Ruman</persName>,<persName ref="Bräm, Fridli">Fridli Bräm</persName>und<persName ref="Kuhn, Jakob">Jakob Kuhn</persName></note>, so vor
+                                                  jm sinodo anzogen und jnn der herrschafft<placeName ref="Regensberg">Regensperg</placeName>sitzend,
+                                                  farend unangsehen, was man mit jnen gehandlet und
+                                                  gredt, jemerdar für.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

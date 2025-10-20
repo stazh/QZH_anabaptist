@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_352</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_352</idno>
+          </msIdentifier>
+          <head>Jakob Bindschedler an Caspar
+                                                  Gimper</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 203</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min früntlicher grůz und williger dienst zevor.
+                                                  Fromm, fürsichtig, eersamm, wis, jnsonders
+                                                  gunstiger herr vogt. Verschiner<note type="editorial"> vergangener</note> zit, als ich
+                                                  zů<placeName ref="Baden">Baden</placeName>gsin, hatt sich
+                                                  ein toͤüffer uß dem niderlandt<note type="editorial"> Bezeichnung von tiefer gelegenen
+                                                  Gebieten und Ländern (Id. III, 1303), hier von
+                                                  Mähren.</note>, wie auch vormals, hemlich gen
+                                                  Bülach gelassen, etliche predigen in höltzeren
+                                                  unnd schüren gethan und hiemit vil volck an sich
+                                                  gezogen, das etliche von<placeName ref="Bülach">Bülach</placeName>, mit namen<persName ref="Beitz, Junghans">Junghans Beitz</persName>, den alten toͤüffer,<persName ref="Sewer, Heinrich">Heinrich Sewer</persName>, vogt Sewers brůders son,<persName ref="Rott, Toni">Thöni Rott</persName>und<persName ref="Frölich, Junghans">Junghans Frölich</persName>, zimberman, mit wib und
+                                                  kinden auch hab unnd gůt mit jm zezüchen
+                                                  bewilliget, offentlich uff der gassen anghept den
+                                                  wagen zůzerüsten, willens uff mentag den 5. tag
+                                                  herbstmonats des 75. Jars zeverücken<note type="editorial"> aufbrechen, wegziehen, Id. VI,
+                                                  853.</note>. Ab welichem, als ich verstanden, das
+                                                  der gmein man gantz unrüwig worden und vil übel
+                                                  beduret, das niemandt nüt zů sömlicher sach thůn
+                                                  will, hab ich zwen von denen beschickt, namlich
+                                                  den Sewer und den Rotten, jnen fürgehalten, wie sy
+                                                  untrüw am glouben und am vatterlandt einem
+                                                  verlouffnen<note type="editorial"> heimatlos, Id.
+                                                  III, 1136.</note> bůben<note type="editorial">
+                                                  Landstreicher, charakterloser Mensch, Id. IV,
+                                                  927f.</note>, mit gunst zemelden, gloubind.
+                                                  Hieruff hatt mir gemelter Heinrich Sewer antwort
+                                                  geben, er welle hinweg zuͤchen als ein bidermann
+                                                  und sige als gůt als ich. By welichen als gsin die
+                                                  eegomer<note type="editorial"> Vertreter der
+                                                  lokalen Sittenzucht, Id. II, 304.</note>insonderheit schulthes Matis mit<persName ref="Kopf, Hans">Hans Kopf</persName>, habend wir jn
+                                                  understanden ze handthaben<note type="editorial">
+                                                  ergreifen, Id. II, 913.</note>, wo er uns nit were
+                                                  uß dem hus entflochen. Sömlichs hab ich üch wellen
+                                                  thůn zewüssen, dan so nit zů disser sach mines
+                                                  bedunckens thůt, stadt in sorgen, sömliche
+                                                  schuldige seckt werde uns zů grossen schaden
+                                                  reichen, dan jnen noch vil by mir mit den selbigen
+                                                  vergifft allein wartend, ob man one anzug<note type="editorial"> Vorwurf, Klage, Id. XVII,
+                                                  519.</note> und jnredt<note type="editorial">
+                                                  Widerspruch, Id. VI, 534.</note> disse ietz
+                                                  gemelten welle lassen hinweg züchen, und so dan
+                                                  daßelbig inen vergundt, jn kurtzen auch nach ze
+                                                  volgen. Soemliches hab ich üch by minen trüwen nit
+                                                  könen verhalten gůter hoffnung, es werde mit ernst
+                                                  by ziten darin ghandlet, damit grosser schad
+                                                  vermitten. Hiemit gott mit samptt den üweren
+                                                  bevolchen.</p>
+                                                  <p rend="margin-top">[Jac. Bindschedler]<note type="critical">Notiz auf der Abschrift in Ms A
+                                                  72</note></p>
+                                                  <p rend="margin-top">Demm frommen, fürsichtigen,
+                                                  eersammen und wissen herren Caspar Gimper des
+                                                  radts der statt<placeName ref="Zürich">Zurich</placeName>,
+                                                  minem günstigen gnedigen herren zehanden.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

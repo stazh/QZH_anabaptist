@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_811</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_811</idno>
+          </msIdentifier>
+          <head>Hans Heinrich Wiederkehr Hans Heinrich Wiederkehr war
+                                                  seit 1585 mit Elisabeth Kolb, Hans Heinrichs
+                                                  Schwester, verheiratet. an Hans Heinrich
+                                                  KolbAufschrift auf der
+                                                  Rückseite des Dokuments: Das ist des Widerkeren
+                                                  schriben inn Merennland und des
+                                                  Holdshallben (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 662</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min fründlicher und wiliger dinst zůfor.
+                                                  Fründlicher, lieber schwager Hans Heinrich, wüs,
+                                                  das dine schwösteren, schwöger Alyxander<note type="editorial"><persName ref="Holzhalb, Alexander">Alexander Holzhalb</persName>(1572-1609) war seit
+                                                  1599 mit Susanna Kolb, Hans Heinrichs Schwester,
+                                                  verheiratet.</note> und ich frisch und gesundt
+                                                  sind fonn gnaden godes. Dem nach so hebendt wir
+                                                  din erstes schriben samdt der rachnung dinns gůds
+                                                  und ouch das ander schriben des datums den 14.
+                                                  augst dis jars empfangen und midt hochstem<note type="critical">In der Vorlage: hochtem</note>
+                                                  beduren ferstanden, wie du von dinem hab und gůdt
+                                                  begerst hin weg zů züchen und das selbig diner
+                                                  frauwen hinderlast, die doch dich hin weg driben,
+                                                  wie du selber meldist im ersten schriben und dich
+                                                  ouch schandlich hadt gehaldenn, wie du an miner
+                                                  frauwen klagdt hast. Und aber sy ist uf dem um
+                                                  gangen, das sy dich ferdribe und din gůdtt an sich
+                                                  bringe. Du söldtist die sach fill anderst zů
+                                                  handen genumen han. Wir wellend dir wol fon iren
+                                                  gehulfen<note type="critical">In der Vorlage:
+                                                  gelulfen</note> han, dan alle weldt kendt sy, was
+                                                  sy für ein gůden lümden<note type="editorial">
+                                                  Leumund</note> hadt.</p>
+                                                  <p>Nun was andrift din sachen dines gůds halben,
+                                                  so handt min herren für des rads dar zů gordnet
+                                                  und hadt din frauw ein fogdt<note type="editorial"> Verwalter, Vertreter</note> gnumen und hand wir
+                                                  uf unser siden auch einen genumen. Die sind in din
+                                                  hus kerdt<note type="editorial"> sich begeben,
+                                                  gehen, Id. III, 435.</note> und den sachen nach
+                                                  gefragendt, die du beschriben hast. Da spricht din
+                                                  frauw fast als an und verunglimpfedt dich uf
+                                                  höchst<note type="critical">In der Vorlage:
+                                                  höcht</note> und zeigtd an, wen sy nüdt gesin
+                                                  were, du hedist nach federlich nach
+                                                  muͤderlich<note type="editorial"> weder
+                                                  väterliches noch mütterliches</note> gůdt mer und
+                                                  sy hab midt dir erliden, das es ein iamer seige.
+                                                  Was andrifdte schulden, die laugned fast all,
+                                                  sunderlich din stufsun ist über 300 pfund<note type="critical">In der Vorlage: lb</note>, nüdt
+                                                  jichtig<note type="editorial"> geständig</note>
+                                                  und für das duschgaldt will er gar nüdt gäben. Und
+                                                  diin stüfdochter höüst<note type="editorial">
+                                                  heischen, verlangen</note>dir nach galdt usem und zeigdt an, sy heige dir gedinedt, sy wölle nüdt fergeben by dem fullen Kolben gesin sy. Wider ist din frauw gefragdt worden, wo die 100 g[ulden] sigendt, die du iren hinderlasen. So zeigdt sy an, sy habe 100 g. für dich zaldt und ein handgeschrift gelösdt dem kernen und rogen, had sy im kornhus verkauft. Wo das gäldt ist, mag ich nüdt wüsenn. Din schwager<persName ref="Vogel, Hans">Hans Fogell</persName>ist auch nüdt mer alls 50 g.
+                                                  jichtig. Dem nach so zeigdt din frauw an, du
+                                                  seigist dem dockter Lafeder<note type="editorial">
+                                                  Lavater</note><persName ref="Lavater, N. (Arzt)"/>
+                                                  80 g. um win schuldig. Doch wellist heim kumen und
+                                                  din gůdt selb selbs besitzen, doch radent wir dir
+                                                  nüdt, das du midt diner frauwen mer hus habist.
+                                                  Und wenn du uns folgist, wendt wir dir wol fon
+                                                  iren hellfen. Nüdt mer dan dine schwösteren und
+                                                  schwögeren Allixander ladt dich alli fast gruͤtzen
+                                                  und bis godt dem almechtigen schutz<note type="critical">In der Vorlage: schutzt</note>
+                                                  befollen.</p>
+                                                  <p rend="margin-top">Hans Heinrich Widerker, alder
+                                                  wirdt zum Storchen</p>
+                                                  <p rend="margin-top">Demnach so nimdt sch[wager]
+                                                  Alexander und mich uf aller höchtst wunder, das du
+                                                  begerst, das sy zů dir aben ziehe und iren auch zů
+                                                  schribst. Du wist aber nüdt, was bösen, bösen
+                                                  lümden sy hadt. Derhalben wen du har kumst, so
+                                                  gang irenn müsig und gang nüdt mer zů iren und kum
+                                                  zů mir in min hus, das kanst du woll heimlich über
+                                                  das kllein gräblli durch das garden hüslli. Du
+                                                  bist nüdt 8 dag hin weg gesin, sy hadt din gůdt in
+                                                  läden wellen ferkaufen on unser wüsen und willen,
+                                                  und do mir sy darum zůred gestelldt hand, hadt sy
+                                                  geseidt, du heigist sy [es] geheisen.</p>
+                                                  <p rend="margin-top">Ann denn Kolbenn.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Hans Heinrich Wiederkehr war
+                                                  seit 1585 mit Elisabeth Kolb, Hans Heinrichs
+                                                  Schwester, verheiratet.</p>
+    </back>
+  </text>
+</TEI>

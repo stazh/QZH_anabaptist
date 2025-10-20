@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_692</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_692</idno>
+          </msIdentifier>
+          <head>Bericht von Johann Heinrich Zingg Johann Heinrich Zingg setzte
+                                                  sich auch literarisch mit den Täufern auseinander.
+                                                  1602 kopierte er das erste Kapitel aus Heinrich
+                                                  Bullingers Schrift
+                                                  «Von dem unverschämten Frevel» (VD16 B 9758) und
+                                                  ein Kapitel über die Täufer aus Sebastian
+                                                  Francks
+                                                  Geschichtsbibel (in der Erstausgabe, vgl. VD16 F
+                                                  2064 / F 2065, fol. ccccxlv-cccclij). Die beiden
+                                                  handschriftlichen Auszüge sind im Sammelband Ms B
+                                                  117 der Zentralbibliothek Zürich
+                                                  überliefert.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-01-29"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 543</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>S[alve]. Nachdem getrüwe unnd vilfaltige
+                                                  warnungen, so näbendt der kantzel an die
+                                                  kybigen<note type="editorial"> eigensinnig,
+                                                  boshaft, zänkisch, Id. III, 108.</note>,
+                                                  widerspenigen unnd unruͤwigen thoüfferbruͤder, jn
+                                                  der Hinnwyler barchj<note type="editorial">
+                                                  Pfarrei, Id. IV, 1535.</note> gesässen, namlich
+                                                  unnd sonderlich den kybigen thoüffer müller uff
+                                                  Ohrn<note type="editorial"> Orn</note><placeName ref="Hinwil, Orn"/> genampt unnd näbendt jmme ouch
+                                                  den anderen zů<placeName ref="Hadlikon">Hadlikon</placeName>zum theil mündtlich von mir, dem pfarrer, zum
+                                                  theil aber unnd mehrmaals durch die verordneten
+                                                  ehegoumer<note type="editorial"> Vertreter der
+                                                  Sittenzucht, Id. II, 304.</note> mitt großem ernst
+                                                  uff eines e[rsamen] herren obervogts befälch unnd
+                                                  gheiß hin beschähen, so wenig verfangen unnd
+                                                  bracht, daß sy, die thoüffer, über alles so
+                                                  bschähen sich offendtlich unnd gantz fräffner<note type="editorial"> dreist, Id. I, 1286.</note>wyß dem hochen gwalt einer ckristenlichen eersammen oberkeit widersetzen und gantz trützliche unnd verachtliche spitz wortt der sälbigen entgägen bietten dörffen, jn dem sy besonders aber unnd mitt namen der unbändig schwatzman uff Ohrn,<persName ref="Leutenegger, Jörg">Görg Lüttenegger</persName>genampt, durch einen der eegoumeren an mich, den
+                                                  predickanten zů Hinnwyl, gantz trutzglich<note type="editorial"> trotzig, spottend, frech, Id.
+                                                  XIV, 1678f.</note> gohn laßen. Wie daß jch nuhn
+                                                  mehr offtmals sälbs ghört, daß weder er,
+                                                  Lüttinegger, nach andere synes gelychen by wyttem
+                                                  nitt gsinnet, jn unsere kilchen hinab zeekommen.
+                                                  Unnd obglych (redt er nach darüber) ein obervogt
+                                                  sälbs eigner person kemj unnd sy dahin
+                                                  bereden<note type="editorial"> bereden,
+                                                  überreden</note>, zwingen ald<note type="editorial"> oder</note> tringen wölte, wurde
+                                                  doch sömliches alle nützidt by jmme und syner
+                                                  brůderschafft gälten unnd vermögen. Wölcher trutz
+                                                  und spöttlichs enbietten näbendt dem, daß sy uns
+                                                  predickanten unsere gůtthertzigen unnd einfaltigen
+                                                  zůhörer unnd kilchsgnoßen uff den bergen und
+                                                  einöden höfen jemehr und mehr abwendig, verwildt
+                                                  und unrichtig machent, so hertzlich übel bedurt,
+                                                  das wir, die pfarrer und diener am wortt gottes,
+                                                  so sömliches am meesten beruͤren thůtt unnd die
+                                                  ohne uffhören von den kybigen und fridhäßigen
+                                                  thoüfferen veranlaaset und beunruͤwiget werdent,
+                                                  nitt allein diser zytt zu dero disere schädliche
+                                                  vergiffte seckt mitt gwalt und gar wil ynbrächen
+                                                  unnd überhand gwünnen, verursachet worden, die
+                                                  sach gott dem herren zůklagen, der syn kilchen nit
+                                                  lang jrren laßt, sonder ouch zů mehrerem ernst
+                                                  durch einen e[rsamen] herren decanum nostri
+                                                  capituli superioris unseren gn[ädigen] herren und
+                                                  oberen als unseren geliepten vätteren und
+                                                  defensoribus umb zůnämennder ergernuß willen,
+                                                  unsere vertrüwte schäffli wider so schädliche
+                                                  bergwölff zůretten und schirmmen, einmuͤttigcklich
+                                                  fürbringen laßen. Der gantz trostlichen hoffnung
+                                                  und entlichen zůversicht, unser gnedige herren
+                                                  unnd oberen lobliches ansehen unnd höchster ernst
+                                                  werde unß dieneren deß euangelij durch göttlichen
+                                                  bystand zů vilfaltigem trost, hilff, schutz und
+                                                  schirm in diser unser wichtigen sach am basten
+                                                  kommen unnd gantz heilsam syn. Hoc faxit<note type="critical">Folgt gestrichen: ve</note> et
+                                                  velit clementiss[imus] d[ominus] et servator
+                                                  n[oster] Iesus, ecclesiarum christianarum optimus
+                                                  et fidelissimus gubernator. 29 ianuarij a[nn]o
+                                                  1601.</p>
+                                                  <p rend="margin-top">Joannes Heinrych Zingg,
+                                                  ecclesiae Hinnwylensis pastor s[crib]s[i]t</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Johann Heinrich Zingg setzte
+                                                  sich auch literarisch mit den Täufern auseinander.
+                                                  1602 kopierte er das erste Kapitel aus Heinrich
+                                                  Bullingers<persName ref="Bullinger, Heinrich (1504-1575)"/> Schrift
+                                                  «Von dem unverschämten Frevel» (VD16 B 9758) und
+                                                  ein Kapitel über die Täufer aus Sebastian
+                                                  Francks<persName ref="Franck, Sebastian"/>
+                                                  Geschichtsbibel (in der Erstausgabe, vgl. VD16 F
+                                                  2064 / F 2065, fol. ccccxlv-cccclij). Die beiden
+                                                  handschriftlichen Auszüge sind im Sammelband Ms B
+                                                  117 der Zentralbibliothek Zürich
+                                                  überliefert.</p>
+    </back>
+  </text>
+</TEI>

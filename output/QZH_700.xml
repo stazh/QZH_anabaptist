@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_700</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_700</idno>
+          </msIdentifier>
+          <head>Bericht von Hans Heinrich Schinz für den Dekan
+                                                  Hartmann Hamberger Vgl.
+                                                  Nr. 542.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 551</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ungfar by dreivierteil jaren hatt<persName ref="Egli, Ulrich">Ulrich Egly</persName>zů <color bgc="yellow">Büel</color>, der pfarr Wald
+                                                  zůgehörig, welcher nun mer ein zyttlang sich zů
+                                                  der widertoüferischen sect bekandt, mit syner
+                                                  magdt oder jungfrouwen in der heimlichen
+                                                  zůsamenkomnuß der widertoüferen hochzytt ghalten.
+                                                  Als ich nun deße landtmans wyß<note type="editorial"> inoffiziell, Id. XVI,
+                                                  1915.</note> verstendiget worden, da hab ich uß
+                                                  pflicht und schuld mines ampts, die sach desto
+                                                  grundtlicher zůerfaren, die ehegoumer<note type="editorial"> Vertreter der Sittenzucht, Id.
+                                                  II, 304.</note> zů im und iro gschikt und sy laßen
+                                                  fragen, eb<note type="editorial"> ob</note> sy
+                                                  dißer sach bekantlich sygen oder nütt. Daruf hatt
+                                                  nun genanter Egly den ehegoumeren zum bscheid und
+                                                  antwort gäben, ja es syge wahr und heigind in
+                                                  fromme biderbe lütt, wie es gott der allmächtig
+                                                  geordnet und befollen, zusamen gäben und syn ehe
+                                                  bestetet. Er heige ouch<note type="critical">In
+                                                  der Vorlage: ůch</note> hierin nütt ghandlet,
+                                                  darum er gott förchte. Disen ganzen handel (als
+                                                  daruß große frefel der widertoüferen gnůgsam
+                                                  zůerkennen) hab ich schriftlichen an ein ehrsam
+                                                  ehegricht laßen glangen, welches albsbald durch
+                                                  den weibel genanten Egly und siner frouwen laßen
+                                                  bieten<note type="editorial"> aufbieten, vorladen,
+                                                  Id. IV, 1864.</note>, uf einen gwüßen und
+                                                  ernamßten tag vor dem ehegricht persönlich
+                                                  zůerschynen. Es hatt aber dißes gebotts
+                                                  vilgedachter Egly nütt mer geachtet, dan das er
+                                                  allein ein schryben, so unseren gnedigen herren
+                                                  und oberen gar schmächlich, dem ehegricht
+                                                  zůgeschikt und ist also sythar die sach ganz und
+                                                  gar erseßen<note type="editorial"> zum Stillstand
+                                                  kommen, Id. VII, 1766.</note> und der thäter
+                                                  bißhar disses sines frefels halben ungebüeßt und
+                                                  ungstraft blyben. Also das er sich offentlich
+                                                  rüemt, er heige dermaßen dem ehegricht gschryben
+                                                  und sin sach beschirmt, das nun kein hann mer
+                                                  darnoch kräje. Welches dan in und sines glichen in
+                                                  irer unghorsamme sterkt und anderen ůch zů
+                                                  derselbigen anlaß gibt.</p>
+                                                  <p>Ungfar by 2 jaren hatt<persName ref="Oberholzer, Heinrich">Heinrich Oberholzer</persName>in der Aa<note type="editorial"> Aa, ein Weiler
+                                                  der Gemeinde<placeName ref="Wald, Aa">Wald.</placeName></note>sich verehelichet mit<persName ref="Brändli, Elsbetha">Elßbetha Brendlinen</persName>von
+                                                  Hefferen<note type="editorial"> Heferen, Ort der
+                                                  Gemeinde Wald.</note><placeName ref="Heferen"/>.
+                                                  Von der hochzytt aber, diewil er etwas wider
+                                                  willen gegen ire hatt, darum das sy nütt rych gnůg
+                                                  was, da hatt er ire kein eheliche | [fol. 1v]
+                                                  bywonung nie gleistet, sonder im huß ghalten als
+                                                  ein magt. Hernoch aber ungfar by einem jar oder
+                                                  etwas minder, da hatt er 9 oder 12 guldy iro
+                                                  gäben, das sy es einem ufwigler<note type="editorial"> Werber (vgl. Id. XV, 966),
+                                                  gemeint ist ein hutterischer Missionar.</note> der
+                                                  widertoüferen uberliferte, damit er sy mit im
+                                                  hinweg nemme. Da nun das gůtt mensch, das ganz und
+                                                  gar nütt wider­toüf­ferisch, allein von wägen
+                                                  deße, wyl es im huß vom eheman, dem schwäher und
+                                                  dem ganzen hußvolk kein růw hatt, mitt dem
+                                                  ufwigler ist hinwegzogen, daruß dan abermalen
+                                                  erscheint, wie<note type="critical">«wie» über der
+                                                  Zeile, in der Zeile gestrichen: was wie</note>
+                                                  allerlei unraths erfolgen werde, wen man nütt<note type="critical">Folgt gestrichen: mis</note> mitt
+                                                  ernst solchen toüferschen sect stüren und weeren
+                                                  wirt.</p>
+                                                  <p>Es hatt ůch<note type="critical">­Viel­leicht
+                                                  eine andere Schreibweise für «ouch»</note> dißer
+                                                  tagen ein meitly<note type="critical">Folgt
+                                                  gestrichen: anzeigt</note>, so dißen winter über
+                                                  sich in<note type="critical">Folgt gestrichen:
+                                                  Heini Str</note><persName ref="Streler, Tobias">Tobias Strelers</persName>huß im<placeName ref="Wald, Niederholz">Niderholz</placeName>ufghalten, anzeigt, man
+                                                  heige ir<note type="critical">«ir» über der Zeile,
+                                                  in der Zeile gestrichen: sy</note> daselbst wellen
+                                                  breden, das sy mit den ufwigleren, so vorhanden,
+                                                  solte in Meherern land züchen. Und diewill sy
+                                                  solches nütt thůn wellen, so heige sy müeßen das
+                                                  huß rumen. Sy zeigt ůch an, das sy daselbst ghört,
+                                                  es sygen iro 25 uß<placeName ref="Mähren">Meherern</placeName>land kommen, welche sich in einem huß zů
+                                                  Niderhaßlen<note type="editorial">
+                                                  Niederhasli</note> versamlind und dan zwen und
+                                                  zwen sich hin und wider ußtheilind.</p>
+                                                  <p>Verschinen samstag 16. maj ist myn knecht, als
+                                                  er von<placeName ref="Rapperswil">Rapperschwyll</placeName>heimgangen, zů einem meitly uf der straß kommen,
+                                                  welches im anzeigt, wie das ein frömbder
+                                                  widertoüfer von Rapperschwyl nahen bis gen<placeName ref="Rüti">Rüty</placeName>mit im gangen und an
+                                                  ein anderen im prediget hab und wollen breden, das
+                                                  es ůch mit im in Meherern land zühe.</p>
+                                                  <p>Was der undervogt von Grüningen<note type="critical">«von Grüningen» über der
+                                                  Zeile</note><placeName ref="Grüningen"/> (da er uß
+                                                  befelch unserer gnedigen herren und oberen noch
+                                                  ghaltnen synodo die ufwigler im Niderholz sůchen
+                                                  und gfängklich annemmen sollen) heige erfaren und
+                                                  funden, das wirt ein herr obervogt one zwifel
+                                                  unser gnedig herren brichten. Daruß sy gnůgsam
+                                                  werden verstan, wie solche sect ie lenger ie mer
+                                                  uberhand nemme, sittenmal<note type="editorial">
+                                                  da, weil, Id. IV, 147.</note> sy in der wochen,
+                                                  als der synody ghalten worden, umbhin gschikt,
+                                                  welcher ein gůtte leer und predig hören welle, der
+                                                  solle an einen gwüßen ort, umb das<placeName ref="Wald, Niederholz">Niderholz</placeName>umbhin, erschynen, da dan vil volks soll verhanden
+                                                  gsyn syn.</p>
+                                                  <p>Summa, die sach ist leider umb das bergvolk
+                                                  also beschaffen, das zbsorgen, sy werdind noch und
+                                                  noch sich uberall zů dißer verderbten sect
+                                                  schlahen, daruß hernach unseren gnedigen herren |
+                                                  [fol. 2r] groß unrůw erwachsen wirt. Sölichs han
+                                                  ich euch, herr decano, kůrz wellen zůschryben
+                                                  gůtter hofnung, wen ein herr burgermeister und
+                                                  ehrsamer rath deße werde verstendiget, sy werde
+                                                  inen die sach nůn mee mitt allem ernst laßen
+                                                  anglägen syn und verschaffen umb gmeinen fridens
+                                                  und wolstands willen ires volks, das soliche lütt
+                                                  uß iro landschaft verschikt und weggethon
+                                                  werdind.</p>
+                                                  <p rend="margin-top">Hans Heinrich Schinz, pfarrer
+                                                  zů<placeName ref="Wald">Wald</placeName>.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Vgl.
+                                                  Nr. 542.</p>
+    </back>
+  </text>
+</TEI>

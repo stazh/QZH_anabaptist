@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_645</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_645</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Salomon Hirzel (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1597-08-06"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 496</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unsern günstigen geneigten willen unnd alls guts zuvor. Frommer, wyser, besonnders gethrüwer, lieber burger und vogt,<persName ref="Schnorf, Hans">Hanns Schnorf</persName>, so verschinen jaren uß
+                                                  dyner amptsverwaltung jnn dz land zu<placeName ref="Mähren">Merhern</placeName>gezogen unnd onn zwyfel by den wider­toüf­feren daselbst syn wonung gehept, jst uff hütigen tag vor uns erschinen unnd jnamen deß unseren<persName ref="Jost, Hans">Hans Joßten</persName>, so auch am selben ordt syn
+                                                  unnderhaltung hat, etwas hab und guts hin weg
+                                                  züchen wollen<note type="critical">Folgt
+                                                  gestrichen: dieweyl wir dan</note>. Wirt nun uns
+                                                  nit zwyflen, er sich widerumb jnn dyn
+                                                  amptsverwaltung nachen und wol so bald etliche
+                                                  einfeltige lüt, wyl er allwegen ein bößfündiger
+                                                  mendtsch geweßen, uffwiglen und mit jme hinweg
+                                                  füren möcht. Derhalben will uns hierjn fürsehung
+                                                  zethun von oberkeydts wegen gepüren unnd gelangt
+                                                  hieruf unser bevelch an dich, du wellist uff
+                                                  gesagten Schorffen dyn spreech unnd
+                                                  kundtschafft<note type="editorial"> spech und
+                                                  kundschaft: Nachforschung und Erkundigung, Id. X,
+                                                  76.</note> machen unnd, sover du jnnerfarung
+                                                  kompst, dz er sich eins<note type="critical">Lesung unsicher</note> sollichen unnderstan,
+                                                  jemanden uffwiglen oder mit jme hin weg füren
+                                                  welte, alsdan den nechsten zu jme gryffen,
+                                                  gfengclichen jnzüchen unnd uns nebent
+                                                  schriftlichem bericht syns verhandlens verwart
+                                                  zukomen lassen, uns gegen jme wyter zuverhalten,
+                                                  ds sind wir gegen dich jn ganden zuerkennen
+                                                  gneigt. Datum den 6ten august, a[nn]o 97.</p>
+                                                  <p rend="margin-top">Ann vogt Hirtzel zu<placeName ref="Wädenswil">Wedeschwyl</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

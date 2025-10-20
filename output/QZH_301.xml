@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_301</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_301</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1568-05-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 152</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Considerationes</p>
+                                                  <p>[…] Es syend vil toͤuffer hin und har. Da ward
+                                                  angesaͤhen, daß die da wüßten, wo und wie, die
+                                                  soͤlltend zum underschriber gan und imms
+                                                  angaͤben.<note type="editorial"> Vgl. den Bericht
+                                                  an den Rat</note></p>
+                                                  <p>Und dann soͤlltind alle dise haͤndel für<note type="editorial"> vor</note> unsere herren tragen
+                                                  werden.</p>
+                                                  <p rend="margin-top">[Bericht an den Rat von
+                                                  Zürich]</p>
+                                                  <p>Volgende ­toüf­fer, so sich jnn üwer (myner
+                                                  herren) grichten und gebieten enthaltend, sind
+                                                  angeben:</p>
+                                                  <p><persName ref="Kuhn, Hans">Hans Kůn</persName>jm<placeName ref="Pflasterbach">Pflasterbach</placeName><bm id="97"/>. Diser Kůn hat ein wyb zůr ee genommen,
+                                                  aber noch nie nach ordenlichem christenlichem
+                                                  bruch offentlich zů kilchen und strassen gfuͤrt,
+                                                  sonders sich jnn der töuffern versamlung zůsammen
+                                                  geben lasßen. Und wo syn frouw nitt zur sach
+                                                  gethaan, hette er syne kinder nitt touffen
+                                                  lassen.<note type="editorial"> Vgl. die Censura
+                                                  («Hans Kůn jm Pflasterbach hat jnn Glatfelder
+                                                  foren eine zur ee …»)</note></p>
+                                                  <p>Item<persName ref="Bräm, Fridli">Fridlj Brem</persName>zů Sünnicken<note type="editorial">
+                                                  Sünikon</note><placeName ref="Sünikon"/> und Peter
+                                                  Ruma<note type="critical">In der Vorlage
+                                                  gestrichen: Ruma(le)</note><persName ref="Ruman, Peter"/> von Schöffelstorff<note type="editorial"> Schöfflisdorf</note><placeName ref="Schöfflisdorf"/>. Diß dryg habent jr
+                                                  versamlung mit andern ­toüf­fern von Schaffhusen
+                                                  und über rhin nacher jnn dem holtz Glattfelder
+                                                  foren<note type="editorial"> Vielleicht ein Wald
+                                                  am Rhein (vgl. den Wald Stadtforen nördlich von
+                                                  Eglisau)</note><placeName ref="Glattfeldne"/> oder
+                                                  jnn Birchen<note type="editorial"> Vielleicht
+                                                  Birchen, ein Waldstück nördlich von<placeName ref="Hüntwangen">Hüntwangen</placeName></note>
+                                                  genannt, so jm nüwen ampt gelegen. Sy all dryg
+                                                  üsserend sich der predigen gar und wo sy können,
+                                                  fuͤrend sy das volck ab und uff jr sect.</p>
+                                                  <p>Hans und Jacob<persName ref="Hochstrasser, Hans">die Hochstrasser</persName><persName ref="Hochstrasser, Jakob"/> zů Wetzwyl<note type="editorial"> Wettswil am
+                                                  Albis</note><placeName ref="Wettswil am Albis"/>und einer<persName ref="Michel (Täufer)">genannt Michel</persName>, schaffners zů<placeName ref="Bubikon">Bůbicken</placeName>werchmeister,
+                                                  sind ouch ­toüf­fer, söllent jm<placeName ref="Hinwil">Hinwyler</placeName>wald oder jnn der Senn Weid<note type="editorial"> Sennweid in der
+                                                  Bachtelregion</note><placeName ref="Sennweid"/>mit den ­toüf­fern jr zůsammen kommung haben.<persName ref="Schnider, Baschli">Baschlj Schnider</persName>oder satler Zwindle jnn der kilchhörj<note type="editorial"> Kirchgemeinde, Pfarrei</note><placeName ref="Stadel">Stadel</placeName>jst ouch den
+                                                  ­toüf­fern nach gfaren, und wiewol er nitt mer jr
+                                                  gmeindschafft brucht, gadt er doch nüdester mynder
+                                                  nitt jnn die kilchen, die predigen zehören.</p>
+                                                  <p><persName ref="Schnewli, Cleinhans">Cleinhans Schnewlj</persName>von<placeName ref="Affoltern">Affholteren</placeName>und<persName ref="Gut, Andres">Andreß Gůt</persName><bm id="102"/> von
+                                                  Luneren<note type="critical">Folgt gestrichen:
+                                                  beid</note><placeName ref="Lunnern"/> wellend jrer
+                                                  ­toüf­ferischen sect nitt abstaan und
+                                                  enthaltend<note type="editorial"> sich
+                                                  aufhalten</note> sich aber für und für jnn der
+                                                  herrschafft Knonouw und besonders gibt Schnwelis
+                                                  vater jm underschlouff.</p>
+                                                  <p>Es ist euch von üwerm bůrger, so<persName ref="Kremer, Hergot">Hergot Kremmer</persName>genempt
+                                                  wirt, angezeigt, das er syn wandel zů den
+                                                  ­toüf­fern habe und syge under jnen nitt der
+                                                  wenigist.</p>
+                                                  <p rend="margin-top">Censura:</p>
+                                                  <p><persName ref="Kuhn, Hans">Hans Kůn</persName>jm
+                                                  Pflasterbach […]<note type="editorial"> Es folgt
+                                                  im Vergleich zum Bericht an den Rat nichts
+                                                  Neues.</note></p>
+                                                  <p>Hergotts Kremer fart uffs land, schlacht sich
+                                                  ouch zů den ­toüf­fern und wirt für ein redlifürer
+                                                  geachtet<note type="critical">«Hergotts Kremer …
+                                                  geachtet» am Rand.</note>.</p>
+                                                  <p>By<placeName ref="Konstanz">Costantz</placeName>uff dem
+                                                  Geißperg<note type="editorial"><placeName ref="Gaissberg">Gaissberg</placeName>, Gemeinde
+                                                  Egelshofen (heute Kreuzlingen)</note> hat der
+                                                  besitzer ein wyb, so schwenckfeldischer sect jst,
+                                                  zücht allerleyg volcks nach. Darzů sind etliche
+                                                  ­toüf­fer, die sich ouch jm Turgöw<note type="editorial"> Thurgau</note><placeName ref="Thurgau"/> enthaltend, nachts jr zůsammen
+                                                  komung, fuͤrend etlich ab, jnsonders ein frouw, so
+                                                  nit mer jn die kilchen gaan will.</p>
+                                                  <p><persName ref="Bräm, Fridli">Fridlj Brem</persName>zů<placeName ref="Sünikon">Sunnicken</placeName>.</p>
+                                                  <p>Hans und Jacob<persName ref="Hochstrasser, Hans">die Hochstrasßer</persName><persName ref="Hochstrasser, Jakob"/> zů<placeName ref="Wettswil am Albis">Wetzwyl</placeName>.</p>
+                                                  <p><persName ref="Ruman, Peter">Peter Rumale</persName>von<placeName ref="Schöfflisdorf">Schöffelstorff</placeName></p>
+                                                  <p><persName ref="Schnewli, Kleinhans">Cleinhans Schneewlj</persName>zů<placeName ref="Affoltern am Albis">Affholteren</placeName></p>
+                                                  <p>Zwindle jnn der kilchhörj Stadel,<persName ref="Schnider, Baschli">Baschlj Schnider</persName>der
+                                                  satler, gadt weder jn die kilchen noch zů den
+                                                  ­toüf­fern, wie er vor einer gsyn.</p>
+                                                  <p>Michel deß schaffner zů<placeName ref="Bubikon">Bůbicken</placeName>werchmeister, jm Hinwyler wald und
+                                                  jn der Senn<placeName ref="Sennweid">Weid</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

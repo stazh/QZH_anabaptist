@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_157</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_157</idno>
+          </msIdentifier>
+          <head>Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1533-10-23"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 8</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Es habennd myne herrenn, beyd rät, jrem vogt zů<placeName ref="Kyburg">Kyburg</placeName>, Hans<persName ref="Lavater, Hans Rudolf">Růdolffen Lavatern</persName>, ernstlichen beveͣlh unnd gwallt zůgestellt,<persName ref="Bächi, Hans">Hansen Beͣchins</persName>von
+                                                  Kymenhoff<note type="editorial">
+                                                  Chimenhof</note><placeName ref="Chimenhof"/> all
+                                                  gelasßen hab und gůt, umb das er sin geschwornn
+                                                  unnd verschriben besiglet urfechd nit gehallten
+                                                  unnd landtrümig worden, anzegryffenn<note type="editorial"> in Besitz nehmen, Id. II,
+                                                  714.</note> und zů jrenn handenn zezühenn.</p>
+                                                  <p>Wyter von weͣgenn zweyer frowenn zů<placeName ref="Lufingen">Luffingen</placeName>, da die ein
+                                                  dess widertouffs halb hinweg geloffen unnd die
+                                                  annder nit zekilchenn gan will, jst bemelltem<note type="editorial"> genanntem</note> vogt diser
+                                                  bescheyd geͣbenn: Das er der abgeträttnen frowenn
+                                                  gůt zů myner herrenn handen nemmen und zů der
+                                                  andern person gryffen, sy fängklichen annemmenn
+                                                  unnd sovil (ob er yenderth<note type="editorial">
+                                                  irgendwie, vgl. <hl to="http://www.fwb-online.de/go/jender.s.4adv_1646483563"><Hyperlink>www.fwb-online.de/go/jender.s.4adv_1646483563</Hyperlink></hl>
+                                                  (Früh­neu­hoch­deutsches Wör­ter­buch).</note>
+                                                  vermag) mit jro schaffen, dass sy jrs
+                                                  fürnemmens<note type="editorial"> Vorhaben, Id.
+                                                  IV, 746.</note> abstande und wie ander biderb lüt
+                                                  zů kilchenn gange. Wo aber söllichs nit verfachen
+                                                  unnd sy nachhin werts ouch hinweͣg faren, allsdann
+                                                  glycher gstallt mit jrem güt, wie ob begriffen
+                                                  wirt, zůhandlen. Actum dornstags vor Symonis unnd
+                                                  Jude anno etc. xxxiij.</p>
+                                                  <p rend="margin-top">Underschryber<placeName ref="Zürich">Zürich</placeName>s[ri]p[si]t.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

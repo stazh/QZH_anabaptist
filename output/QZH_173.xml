@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_173</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_173</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans
+                                                  Göldi (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1542-12-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 24</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern fründtlichen, sunder<note type="editorial"> besonders</note> geneygten
+                                                  willen unnd alles gůts zůvor. Frommer, vester,
+                                                  jnnsunders getruwer, lieber burger unnd vogt, als
+                                                  der ­toüf­feren kinde unns<note type="critical">Folgt gestrichen: du</note>, als du wol weyst,
+                                                  durch jren vogt<note type="editorial"> Verwalter,
+                                                  Vormund, Id. I, 703.</note> frundtlich bitten
+                                                  lassen, jnen ettwas an den zinsen nachzelasßen,
+                                                  das sy jre guͤtter nit angryffen unnd<note type="critical">Es folgt eine
+                                                  Wortstreichung.</note> jnns ellend nit vertriben
+                                                  werden müßten, jst nit mynders, wir haben sunders
+                                                  mittlyden mit jnen unnd welten jnen gern das best
+                                                  gethon haben, wo unns sollichs nit gegen annderen
+                                                  eynen<note type="critical">Folgt gestrichen: bruch
+                                                  und jnbruch bracht h</note> nachteyligen jnbruch
+                                                  bracht hette. Darumb magstu den zins nun
+                                                  talameer<note type="editorial"> in naher Zukunft,
+                                                  Id. XII, 1344.</note> wol<note type="critical">Folgt gestrichen: beziechen</note> jnziechen,
+                                                  dann wir jnen nit zuwillen werden können unnd
+                                                  thust daran unnser meynung<note type="editorial">
+                                                  Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>. Uß<placeName ref="Zürich">Zürich</placeName>, mentags vor
+                                                  Nicolaj 1542.</p>
+                                                  <p rend="margin-top">Burgermeyster unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, vesten, unnserem
+                                                  jnnsunders getrüwen lieben burger unnd vogt zů<placeName ref="Andelfingen">Andelfingen</placeName><persName ref="Göldi, Hans">Hannsen Göldlin.</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

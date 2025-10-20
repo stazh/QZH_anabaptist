@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_194</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_194</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die
+                                                  Eidgenossen von Luzern Zum
+                                                  Anlass des Schreibens vgl. QGTS 2, Nr. 386.
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1550-05-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 45</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unsere getruwe lieb eidtgnoßen. Von unserm
+                                                  gesandten, so wir uff nechst gehaltnem tag<note type="editorial"> Tagsatzung, Versammlung der
+                                                  eidgenössischen Gesandten</note> zu Zug<note type="critical">«Zug» über der Zeile, in der Zeile
+                                                  gestrichen: Lucern</note><placeName ref="Zug"/>gehebt, sind wir bericht, was<persName ref="In der Halden, Dietrich">her amann</persName>von Schwytz<note type="editorial"> Dietrich In der
+                                                  Halden</note><placeName ref="Schwyz"/> von wegen
+                                                  der widertoufern jnn der graffschafft<placeName ref="Toggenburg">Toggenburg</placeName>angebracht
+                                                  und das man dem landtvogt<note type="editorial">
+                                                  Christoph Schorno</note> schryben solte, sollichs
+                                                  mit erntst zustrafen. So aber<note type="critical">Folgt gestrichen: wir des ends w[…] zu befelchen
+                                                  nach zzu handlen hand und</note> wol zu gedenken,
+                                                  das sollich ungehorsam luth nit allein durch einen
+                                                  landtvogt, sonders mit recht an einem landgericht
+                                                  jnhalt<note type="critical">Folgt gestrichen:
+                                                  jrer</note> der landtlüten frigheit und altem
+                                                  harkommen wie dann an anderen orthen meer der
+                                                  enden gebrucht wirt, gestrafft söllind werden,
+                                                  gefiele uns das man jetz jnn disen geferlichen und
+                                                  widerwertigen<note type="critical">«jetz jnn disen
+                                                  geferlichen und widerwertigen» am Rand mit
+                                                  Verweiszeichen</note> loufen des ends dhein
+                                                  nuwerung furnemme, sonders mengklich by sinem
+                                                  rechten und frygheiten bliben liese. Der achtung,
+                                                  die richter werdint je zuziten jnhalt ußgangner
+                                                  mandaten wol wußen zů richten und zu strafen. Ob
+                                                  aber dem vermeltem landtvogt ald<note type="critical">Es folgt eine
+                                                  Wortstreichung.</note> andern deshalb etwas witers
+                                                  angelegen were, mogen die selben sollichs uff
+                                                  kunfftiger jarrechnung ze<placeName ref="Baden">Baden</placeName>anzuchen, so wellen wir unserm
+                                                  botten, mit andern orten ferer<note type="critical">«mit andern orten ferer» am
+                                                  Rand</note> darjnn zuhandlen befelch und gwalt
+                                                  geben. Dis unser meinung<note type="critical">«unser meinung» am Rand mit Verweiszeichen</note>
+                                                  wolten wir uch<note type="critical">Folgt
+                                                  gestrichen: […] uß thref</note> vermog
+                                                  obgedachts<note type="critical">Folgt gestrichen:
+                                                  angezeigts</note> abscheids dismaln fur antwort
+                                                  unangezeigt nit laßen. Fritgas den 2. may an[n]o
+                                                  50.</p>
+                                                  <p rend="margin-top">B[urgermeister] u[nd] r[at]
+                                                  d[er] st[att] Z[ürich].</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Zum
+                                                  Anlass des Schreibens vgl. QGTS 2, Nr. 386.</p>
+    </back>
+  </text>
+</TEI>

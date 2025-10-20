@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_244</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_244</idno>
+          </msIdentifier>
+          <head>Ratsbeschlüsse
+                                                  Ratsbeschluss unter unter dem Datum «Mentags den
+                                                  27. novembris p[raese]nt[ibus] her Müller
+                                                  statthalter unnd beyd reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1559-11-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 95</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als her vogt zů<placeName ref="Grüningen">Grüningen</placeName>uff<persName ref="Streler">den Strelern</persName>gůt, so der töüfferischen sect
+                                                  anhengig, ein pot<note type="editorial"> Arrest
+                                                  der Sache, Id. IV, 1897.</note> angleit und aber
+                                                  die gehorsamen derselben brüdern sich des
+                                                  beschwert und ein gmecht<note type="editorial">
+                                                  Vermächtnis, letzwillige Verfügung, Id. IV,
+                                                  69.</note> jngleit<note type="editorial">
+                                                  vorbringen, einreichen, Id. III, 1184.</note>
+                                                  <note type="critical">In der Vorlage:
+                                                  jngliet</note>, jnn wellichem jr vatter selig die
+                                                  ungehorsamen sün und tochteren enterbt und daruf
+                                                  begert, sy by dem gemecht plyben zlaßen nach der
+                                                  frigheit<note type="editorial"> Freiheit</note>
+                                                  jres hofs recht. Ist erkennt, das sy mit guten
+                                                  worten abgewiesen werden und lasst man das pot jn
+                                                  synem werd bestan<note type="critical">«und lasst
+                                                  man das pot jn synem werd bestan» am Rand mit
+                                                  Verweiszeichen</note>. Hiezwüschen werde man das
+                                                  gmecht und jre frigheit ersächen und dan dem vogt
+                                                  bescheidt zuschriben und solle jn hiemit anzeigen,
+                                                  das sy jre brüder nit behusen noch beherbergen
+                                                  oder man werde sy darumb straffen. Ouch soll er
+                                                  erkundigen<note type="critical">Lesung
+                                                  unsicher</note>, wie sy sich gehalten. Deßglychen
+                                                  auch mit dem schafner<note type="editorial"> Hans
+                                                  Oberkan</note> zu Rüti uff die ­toüf­fer, so jm
+                                                  Rütj waldt zusamen sollen, jr spech<note type="editorial"> Nachforschung, Fahndung, Id. X,
+                                                  76.</note> und kundtschaft machen und sy
+                                                  fengklichen anemen.</p>
+                                                  <p>Deßglychen er, vogt, einen ordnen,<persName ref="Bürgi, Jakob">der Jacoben</persName>ob Stralegs
+                                                  keß<note type="editorial"> Käse</note> verkouffe
+                                                  und das<note type="critical">Korrigiert, das
+                                                  ursprüngliche Wort ist nicht lesbar.</note>gelt hinder jm plybe, ouch er hiezwüschen erkundige, ob er wyter schuldig und was der costen sige. Er soll ouch erkundigen, wellicher gstalt<persName ref="Müller, N.">der Müller</persName>jm Radt<note type="editorial"> Raad, Hof in der Gemeinde
+                                                  Wald</note><placeName ref="Wald, Raad"/> und der
+                                                  Streler ob dem<placeName ref="Wald, Haltberg">Haltperg</placeName>mit dem gfangnen toufer ob<placeName ref="Fischenthal, Strahlegg">Stralegg</placeName>gehandlet.</p>
+                                                  <p>Diser Jacob ob Stralegg, sonst Bürgj geheisen,
+                                                  schwur einen eydt von stett und land, biß er synes
+                                                  jrtumbs obstunde, nit wider daryn zekomen. Deshalb
+                                                  ward jm zugelaßen, syne keß wie obstat selbs jn
+                                                  monats frist zeverkoufen, ouch syne schulden
+                                                  zebezalen und syne gescheft zuverrichten. Den
+                                                  costen, der uf jnn gangen, ward bezalt, und<note type="critical">Lesung unsicher</note>den uberigen gegen<persName ref="Breitinger, Rudolf">hern vogt</persName>zu Grüningen<note type="editorial"> Rudolf Escher (vom
+                                                  Glas)</note><placeName ref="Grüningen"/> ward Hans
+                                                  Schufelberg troster<note type="editorial"> Bürge,
+                                                  Id. XIV, 1435.</note>. Ouch das ales bemeltj<note type="editorial"> Erwähnte</note> hern vogt
+                                                  zugeschriben, uf das er uf jn acht hete, wo er
+                                                  ungehorsam wider synen eydt ald<note type="editorial"> oder</note> hiezwüschen des
+                                                  monats stedigte<note type="critical">Lesung
+                                                  unsicher</note>, jn anzenemen und synen<note type="critical">«synen» über der Zeile, in der
+                                                  Zeile gestrichen: den</note> costen zeervordern
+                                                  wüßte.<note type="critical">«Er soll auch
+                                                  erkundigen, wellicher … zeervordern wüßte» auf S.
+                                                  33 mit Verweiszeichen.</note></p>
+                                                  <p>Her vogt von Wedischwyl<note type="editorial">
+                                                  Johannes Röuchli</note><placeName ref="Wädenswil"/> schryben, das er des puren von<placeName ref="Wädenswil, Gisenrüti">Gisenrütj</placeName>sun, den sennen und andere theüffer achtheben und
+                                                  annemen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter unter dem Datum «Mentags den
+                                                  27. novembris p[raese]nt[ibus] her Müller
+                                                  statthalter unnd beyd reth».</p>
+    </back>
+  </text>
+</TEI>

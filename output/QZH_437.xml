@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_437</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_437</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Holzhalb (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1583-09-21"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 288</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Ersammer, wyßer, besonnders getrüwer, lieber burger und vogt, was masßen unnser diener<persName ref="Kriesi, Jörg">Jeörge Krießj</persName>und
+                                                  syne zweygen zůgebne mitthafften über dinen
+                                                  ernstlich<note type="critical">«ernstlich» am Rand
+                                                  mit Verweiszeichen</note> empfangnen bevelch durch
+                                                  jr verwarloßung Hannß<note type="critical">korrigiert, ursprünglich: Hannßen</note>
+                                                  Schnyder<persName ref="Schnyder, Hans"/>, der
+                                                  schůmacher von<placeName ref="Rorbas">Rorbis</placeName>,
+                                                  jtem Hanß<note type="critical">korrigiert,
+                                                  ursprünglich: Hannßen</note> Sträler<persName ref="Streler, Hans"/> uffem<placeName ref="Wald, Haltberg">Haltperrg</placeName>und Růdolf<note type="critical">korrigiert, ursprünglich:
+                                                  Růdolfen</note> Gubelman<persName ref="Gubelmann, Rudolf"/> von<placeName ref="Hadlikon">Hadlicken</placeName>, die wider­toüf­fer, entlouffen,
+                                                  darnebent das sy, die wider­toüf­fere, sich
+                                                  träffenlich<note type="editorial"> in starkem
+                                                  Mass, Id. XIV, 395.</note> meerind und erst jüngst
+                                                  wider by ein andern versamlet gweßen sygen, habent
+                                                  wir ussert dines schrybens<note type="critical">korrigiert, ursprünglich: schryben; folgt
+                                                  gestrichen: kůr</note> kůrtzen<note type="critical">Folgt gestrichen: by</note>
+                                                  jnhalt<note type="critical">Folgt gestrichen:
+                                                  bericht</note> vernommen. Unnd jst darüber uff din
+                                                  begeren bscheidts<note type="critical">«uff din
+                                                  begeren bscheidts» über der Zeile</note>
+                                                  unser<note type="critical">Folgt gestrichen:
+                                                  bevelch</note> meinung<note type="editorial">
+                                                  Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>
+                                                  <note type="critical">Folgt gestrichen: und
+                                                  bevelch</note>, sidtmalen<note type="editorial">
+                                                  weil, Id. IV, 277.</note> sy<note type="critical">Folgt gestrichen: die</note> dryg bestelte fuͤrer
+                                                  jrem bevelch (darumbe sy dann jr belonung zwyffels
+                                                  one) nitt nachgangen, sonnders den verwarloßet,
+                                                  solt du jnen anzeigen und uferleggen, das jr<note type="critical">«das jr» am Rand mit
+                                                  Verweiszeichen</note> jeder synen jme übergebnen
+                                                  ­toüf­fer<note type="critical">Folgt gestrichen:
+                                                  jnn drygen</note> jnn drygen wuchen den nechsten
+                                                  dir widerumb jnn gfangenschafft stelle<note type="critical">Folgt gestrichen: wo das
+                                                  aber</note> unnd hiemit jren begangnen fäler
+                                                  ersetzind. Wo aber das von einem ald<note type="editorial"> oder</note> dem andern under
+                                                  jnen<note type="critical">Folgt gestrichen:
+                                                  nit</note> jnn obbestimpter zyt nit beschicht und
+                                                  erstattet wirt, gebent wir dir alsdann gwalt<note type="critical">Folgt gestrichen: sy</note>, den,
+                                                  so synen<note type="critical">Folgt gestrichen:
+                                                  entru</note> entrungnen ­toüf­fer nit stellen
+                                                  khaan und mag, jnne umb söllicher übersehen nach
+                                                  dinem gůtbeduncken zestraffen, damit sy und andere
+                                                  hernach, was jnen<note type="critical">Folgt
+                                                  gestrichen: ußzerichten ange</note> anbevolchen
+                                                  wirt, dester flysßiger ußrichtind.</p>
+                                                  <p>Sovil dann der wider­toüf­feren fernere
+                                                  fürnemmende versamlungen belanget, sind jnen die
+                                                  uß vilen, dir selbs bewüßten ursachen dheins wegs
+                                                  zůzelasßen, sonders mit allem erntst<note type="critical">«erntst» am Rand, in der Zeile
+                                                  gestrichen: erst (mit Korrektur über der
+                                                  Zeile)</note> sovil jemer mügklich abzeschaffen
+                                                  und zefürkomenn. Ist deswegen unnser bevelch an
+                                                  dich, wo du die glegenheiten jrer versamlungen
+                                                  (daruf du dann din heimliche kündtschafft<note type="editorial"> Erkundung</note> zemachen wol
+                                                  können wirst) erfaren magst, dahin wellist
+                                                  volck<note type="critical">Folgt gestrichen:
+                                                  verordneten</note> verordnen<note type="critical">Folgt gestrichen: die</note>, durch die jr der
+                                                  verfuͤrischen ­toüf­ferischen sectern<note type="critical">korrigiert, ursprünglich
+                                                  secteren</note> zůsamen komende personen
+                                                  angegriffen<note type="critical">«angegriffen»
+                                                  über der Zeile, in der Zeile: angriffen</note> und
+                                                  dir bewart gfengklich zůgebracht werdint<note type="critical">Folgt gestrichen: gegen denen du
+                                                  mit verstrickung jrer lyb die du d[…]</note>,
+                                                  gegen denen du dann jnn alweg nach erhoüschender
+                                                  notturfft zehandlen wol wüßen und du von uns
+                                                  hiemit gwalt haben. So aber sy je nit
+                                                  zůbeträtten<note type="editorial"> antreffen, Id.
+                                                  XIV, 1486.</note> weren, möchtist du jnen die
+                                                  bewerbung<note type="editorial"> Nutzung, Id. XVI,
+                                                  1135.</note> und niesßung<note type="editorial">
+                                                  Nutzniessung</note>
+                                                  <note type="critical">«und niesßung» am
+                                                  Rand</note> jres hab und gůts verbieten lasßen,
+                                                  dann sy gmeinlich nebent jrem vermeindten<note type="critical">korrigiert, ursprünglich: gichtig
+                                                  (Lesung unsicher)</note> jrrsal gyhtig<note type="editorial"> geizig</note> und mit vorhaltung
+                                                  jres zytlichen gůts am fůglichisten<note type="critical">«an fůglichisten» am Rand mit
+                                                  Verweiszeichen</note> zum abstand zebringen sind.
+                                                  Wellicher sy ouch beherbergent und jnen<note type="critical">«jnen» über der Zeile</note>
+                                                  underschlouff gebent, denen wellist, so offt das
+                                                  beschicht, die jnn unsern mandathen
+                                                  bestimpten<note type="critical">Folgt gestrichen:
+                                                  b</note> zehen pfund bůß gestrax abnemen jnn
+                                                  hoffnung, durch diß mitel man sölliches
+                                                  verwirten<note type="critical">«verwirten» am
+                                                  Rand, in der Zeile gestrichen: unruͤwigen</note>
+                                                  gsindts etwellicher gstalt<note type="critical">Folgt gestrichen: abwenden</note> geruwiget<note type="editorial"> unschädlich machen, Id. VI,
+                                                  1908.</note>
+                                                  <note type="critical">«geruwiget» am Rand</note>.
+                                                  Inn dem allem du mit flysß und erntst<note type="critical">Folgt gestrichen: handlen</note>
+                                                  nach unsernn zů dir tragenden vertruwen handlen,
+                                                  soll jnn gnaden gegen dir erkhennt werden. Datum
+                                                  den 21ten septembris anno etc. 83.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt Holtzhalben zů<placeName ref="Grüningen">Gruͤningen.</placeName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

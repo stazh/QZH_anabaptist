@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_643</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_643</idno>
+          </msIdentifier>
+          <head>Vorschlag der Ratskommission</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1597-06-01"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 494</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem jr, myn gnedig herren, mynen herren
+                                                  (den burgermeisteren, den herren obersten
+                                                  meisteren, seckelmeisteren unnd annderen mynen
+                                                  herren) bevelch geben, über den fürtrag, so von
+                                                  jüngst gehaltnem synodo naher von den herren
+                                                  predicanten unnd kilchendieneren jnn der statt und
+                                                  landtschafft anthreffende allerley jnryßende
+                                                  beschwerden unnd nüwerungen jnn den gmeinen
+                                                  herrschafften unnd anndere sachen unnd
+                                                  unordnungen<note type="critical">«unnd
+                                                  unordnungen» am Rand</note> jn bedenckens zehaben
+                                                  unnd zerathschlagen, haben dieselben myn herren,
+                                                  die verordneten, die sachen für<note type="editorial"> vor</note> sich genommen unnd
+                                                  nach erdurung<note type="editorial"> Prüfung, Id.
+                                                  XIII, 1301.</note> deß ermelten fürtrags unnd der
+                                                  herren predicanten darüber gegebnen wytern<note type="critical">Folgt gestrichen: mundtlic</note>
+                                                  schrifftlichen specificierten berichts unnd
+                                                  bedenckens jnn<note type="critical">Folgt
+                                                  gestrichen: dem</note> einem unnd dem anderen<note type="critical">Folgt gestrichen: sach</note> über
+                                                  jede sach jren sonnderbarn rathschlag gefaßet.</p>
+                                                  <p>[…].<note type="editorial"> Das erste
+                                                  Traktandum berichtet über einen Streit mit dem
+                                                  Bischof von<placeName ref="Konstanz">Konstanz</placeName>betreffs Ehesachen im<placeName ref="Thurgau">Thurgau</placeName>und der Tätigkeit der Kapuziner
+                                                  und Jesuiten.</note></p>
+                                                  <p>Belanngende für das annder die ­toüf­fer, deren
+                                                  hin unnd her jnn üwer (myner g[nedigen] herren)
+                                                  gebiet vil sind, die mit jrer unghorsamme und
+                                                  widerwertigkeit vil schwals<note type="editorial">
+                                                  Masse, Zustrom, Id. IX, 1808f.</note> und ergernuß
+                                                  machend, vermeinend myn herren, die verordneten,
+                                                  es fele eben vil auch an dem, das von den vögten
+                                                  uff üwer landtschafft ob den mandaten<note type="critical">Folgt gestrichen: so</note> wider
+                                                  die toöfferisch sect<note type="critical">Folgt
+                                                  gestrichen: ußgangen sind</note> nit gehalten
+                                                  werde. Deßhalb so sölten jr, myn gnedig herren,
+                                                  allen üweren ober- und undervögten von nüwem
+                                                  widerumb by verlierung jrer empteren und
+                                                  diensten<note type="critical">«von nüwem …
+                                                  diensten» am Rand mit Verweiszeichen</note>
+                                                  ernstlich bevelchen unnd zůschryben, dem jm truck
+                                                  ußgangnen ­toüf­fer mandat<note type="editorial">
+                                                  Nr. 329.</note> flyßig unnd mit erntst nachzegaan
+                                                  unnd nach lut desselben<note type="critical">«alle
+                                                  die» am Rand mit Verweiszeichen, in der Zeile
+                                                  gestrichen: allen die</note> alle die, so darwider
+                                                  handlent<note type="critical">Folgt gestrichen:
+                                                  die ufgesetzten bůßen</note>, zestraffen unnd die
+                                                  ufgesetzten bůßen jnen<note type="critical">Folgt
+                                                  gestrichen: ab</note> gstrax und ohn zeschonnen
+                                                  abzůnemmen, dann sy, die ­toüf­fer, niener mitt
+                                                  baß<note type="editorial"> besser, eher</note>
+                                                  dann durch abnemmung der<note type="critical">Folgt gestrichen: gelt</note> bůßen und
+                                                  geltstraffen zur ghorsamme zebringen sind. Unnd
+                                                  diewyl an etlichen orten, jnnsonderheit jnn der
+                                                  herrschafft<placeName ref="Knonau">Knonouw</placeName>,
+                                                  etlich ­toüf­fer volck by einannderen<note type="critical">Folgt gestrichen: sitzen</note>
+                                                  als eelüth sitzen und wohnen soll<note type="critical">Gestrichen: söllent da</note> unnd
+                                                  aber die ee mit offentlichen kilchang nie
+                                                  bestetiget, so sölten jr, myn gnedig herren, dem
+                                                  vogt zů Knonouw wie auch den vögten zů<placeName ref="Grüningen">Gruͤningen</placeName>und<placeName ref="Wädenswil">Waͤdeschwyl</placeName>(under
+                                                  denen dann diß volcks auch syn möchte) wyter
+                                                  zůschryben unnd mit allem erntst<note type="critical">«mit allem erntst» am Rand mit
+                                                  Verweiszeichen</note> bevelchen, söllichen lüthen
+                                                  nachzefragen, wellichs dann by den herren
+                                                  predicanten wol zůerfarn. Unnd wo<note type="critical">Folgt gestrichen: dis ­toüf­fer
+                                                  volcks ohne besteti</note> etliche also by
+                                                  einannderen seßind, dieselben<note type="critical">Folgt gestrichen: al darzů zehalten angents zů
+                                                  b</note> gfengklich jnzůzüchen unnd zů bestetigung
+                                                  jrer ee mit offentlichem kilchgang angents<note type="editorial"> unverzüglich, Id. II, 19.</note>
+                                                  zehalten oder<note type="critical">Folgt
+                                                  gestrichen: sy […]</note> üch, mynen gnedigen
+                                                  herren, sy gfengklich zůzeschicken ald<note type="editorial"> oder</note> jren bscheid üch
+                                                  zůzeschryben, dann je söllichs nit nachgelaßen
+                                                  werden khan.</p>
+                                                  <p>[…]<note type="editorial"> Es folgen zwei
+                                                  weitere Traktanden über Angelegenheiten der
+                                                  Evangelischen in den gemeinen
+                                                  Herrschaften.</note></p>
+                                                  <p>Und stellend also myn herren die verordneten
+                                                  disere rathschleg jnn einem unnd dem anndern zů
+                                                  üwer myner gnedigen herren gfallen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

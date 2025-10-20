@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_189</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_189</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Vischer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1548-11-21"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 40</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als die verordnetten hern<note type="critical">«hern» über der Zeile</note>sampt m[eister]<persName ref="Bullinger, Heinrich(1504-1575)">Heinrichen Bullinger</persName>, her Rudolf
+                                                  Walterten<note type="editorial"> Rudolf
+                                                  Gwalther</note><persName ref="Gwalther, Rudolf"/>,
+                                                  her Joder Buchman<note type="editorial"> Theodor
+                                                  Bibliander</note><persName ref="Bibliander, Theodor"/>und m[eister]<persName ref="Werdmüller, Otto">Otten Werdmüller</persName>,<persName ref="Vischer, Hans">Hansen Vischer</persName>von<placeName ref="Pfungen">Pfungen</placeName>den widertoufer
+                                                  uff sine vorgegebne artickel<note type="critical">Folgt gestrichen: und</note> wither befraget<note type="critical">Folgt gestrichen: diß</note>, git
+                                                  er diß antwurt.<note type="critical">Marginalie:
+                                                  widerumb uff uwer, miner herren,
+                                                  befelch</note></p>
+                                                  <p rend="margin-top">Erstlichen, belangend die
+                                                  verkündung und predig des wort gotes<note type="critical">Am Rand (gestrichen): Uff ersten
+                                                  artigkel ist sin antwurt, das jn die […]</note>, lyeße ers bi nechster antwurt pliben, das solichs nit nach der jnsatzung und ordnung Christi und der heiligen apostlen verkündt wurde; und sonderlich laße der heilig<persName ref="Paulus">apostel Paulus</persName>jnn der epistel zunn Corinteren
+                                                  nach<note type="editorial"> laße … nach: zulassen,
+                                                  Id. III, 1410f.</note> und befelche es ouch, das
+                                                  ein jeder glöubiger nach gethaner predig ein
+                                                  hertzliche und trostliche vermanung zum volk thun,
+                                                  oder so er beßers dann durch den prediger
+                                                  verkhündt, bericht und sollichs zur beßerung der
+                                                  gmeind dienen möchte, das er daßelbig anzoigen und
+                                                  offenbaren solle<note type="editorial"> 1Kor
+                                                  14,26</note>, wellichs aber jnn unsern kilchen nit
+                                                  mer geprucht wurde.</p>
+                                                  <p>Deß heiligen touf halber git er volgenden
+                                                  bescheidt: Das derselbig nach der ordnung und
+                                                  jnsatzung Christi geprucht solte werden jn der
+                                                  kilchen und allein allen denen, so nu mer jn
+                                                  guttem und warem glouben erbuwen, ouch erkantnus,
+                                                  rüw<note type="editorial"> Reue</note> und leid
+                                                  jrer sünden hetten und sich nu me gott er­geben,
+                                                  als ein pundtzeichen und sigel jres gloubens
+                                                  mitgetheilt werden sölte. Dann der touf, wie die
+                                                  geschrifft sage, ein begrebnus des alten mentschen
+                                                  syge, der von sünden firen und der mentsch jnn
+                                                  einem nüwen läben uferstan solle.<note type="editorial"> Röm 6,4</note> So nun die kind
+                                                  khein gwüßne und weder umb guts noch bößes wüßten,
+                                                  volge deßhalb, das man sy jnn irer kindtheit nit
+                                                  toufen solte; deß gebe jm ouch züknus das
+                                                  euangelion Marci am xvj. capitel, das also
+                                                  lütete<note type="editorial"> Mk 16,15f.</note>:
+                                                  Und Jesus sprach zu sinen jüngeren: gond hin jnn
+                                                  alle welt und predigent das euangelion aller
+                                                  creatur; wer gloupt und thouft wirt, der wirt
+                                                  selig, wer aber nit gloubt, der wirt<note type="critical">Folgt gestrichen: selig</note>
+                                                  verdampt<note type="critical">«verdampt» am
+                                                  Rand</note>. Diewyl min hieter<note type="editorial"> Hüter, Hirte</note> der gloub
+                                                  vorgesetzt und der touf daruf volgen sölte, köne
+                                                  ein jeder wol verstan, das dann derselbig allein
+                                                  denen, so jm glouben erwachsen und umb böses und
+                                                  guts erkantnus hetten, solte geben werden. Welte
+                                                  aber hiemit den kinden das rich gottes nit
+                                                  abgeschlagen haben. Dann diewyl sy gotes syend,
+                                                  möge sy an jr selligkeit, ob sy schon nit getouft
+                                                  werdint, [niemand] hinderen. So aber sy, die
+                                                  glerten, jme einichen grund der gschrift, das die
+                                                  kind solen getouft werden, wie er und sine brüder,
+                                                  das nieman, dann der gloube, getouft werde, heiter
+                                                  gründ anzoigend, welle er‘s gern hören.</p>
+                                                  <p>Daß nachtmall oder brotbrechung des herren
+                                                  berürend werde jm heiligen euangelio heiter
+                                                  bericht, worumb und wie das uns zehalten jngesetzt
+                                                  sige funden. Nun werde aber jnn unserer kilchen
+                                                  demselben grad zuwider gehandlet, dann die heilig
+                                                  gschrift heiter vermöge<note type="editorial">
+                                                  besagen, Id. IV, 111.</note>, das alle sünder als
+                                                  gots lesterer, hurer, eebrecher, gittig<note type="editorial"> geizig</note>, suffer, heßig,
+                                                  nidig<note type="editorial"> neidisch</note> und
+                                                  ander derglichen<note type="critical">«derglichen»
+                                                  am Rand mit Verweiszeichen</note> sünder, so nit
+                                                  zuvor schinbare beßerung, rüw und leid jrer sünden
+                                                  und sich mit gott vereinbaret<note type="critical">Folgt gestrichen: hetten</note>haben, davon ußschließe; zudem erschine by uns khein christenliche einigkeit, die aber fürmemlich durch das nachtmall zehalten gepotten were. Als aber gesagt<persName ref="Judas">wurde, Judas</persName>were
+                                                  ouch ein sünder und nit ein kleiner, dann er
+                                                  unseren heiland Jesum Christum verratten,
+                                                  denselben hette aber Christus, ob er glich
+                                                  sollichs gewüßt, nit vom nachtmal ußgeschloßen,
+                                                  sonder daßelbig uff sinen glouben und vertruwen
+                                                  hin mit jm<note type="critical">«jm» über der
+                                                  Zeile eingefügt</note> nießen<note type="editorial"> geniessen, essen und trinken,
+                                                  Id. IV, 816.</note> laßen. Diewyl dann jm ersten
+                                                  nachtmal und jnsatzung deßelbigen sünder geweßen,
+                                                  volge daruß, das man khein sünder davon
+                                                  ußschließen, sonder einenn jeden des uff sinen
+                                                  glouben und vertruwen hin, das er zu got haben
+                                                  sölte, teilhaftig machen. Sage er darzu: Diewyl
+                                                  uff Judam<note type="critical">Folgt gestrichen:
+                                                  sollichs</note> proficiet<note type="editorial">
+                                                  prophezeit</note>, das er Christum verraten
+                                                  sollen, und deshalb die gschrift durch und jn jm
+                                                  erfült werden müßen, volge darumb nit, das es jetz
+                                                  ein jeder sünder empfachen und nüßen solte, sonder
+                                                  die jnsatzung Christj und der apostlen vil mer
+                                                  zehalten schuldig sigen.</p>
+                                                  <p>Sodann wurde der bann<note type="editorial">
+                                                  Kirchenbann, kirchliche Sittenzucht</note> ouch
+                                                  nit nach der jnsatzung und ordnung Christj und der
+                                                  apostlen jn der kilchen, wie jnn siner ersten
+                                                  antwurt ouch begriffen<note type="critical">«jn
+                                                  der kilchen … begriffe» am Rand mit
+                                                  Verweiszeichen</note>, gehalten. Dann die straff
+                                                  und züchtigung der sündenden nit allein der
+                                                  oberkeit, predigern und den geschwornen geben<note type="critical">Folgt gestrichen: und zugelaßen
+                                                  were</note>, sonder einem jeden christenlichen
+                                                  mentschen, syn<note type="critical">In der
+                                                  Vorlage: sy</note> urteil jn der kilchen
+                                                  zuentdecken<note type="editorial"> mitteilen,
+                                                  offenbaren, Id. XII, 1215f.</note>, zugelaßen
+                                                  were.</p>
+                                                  <p>Demnach wie die prediger und diener gottes
+                                                  gestaltet syn solten, funde man gnugsamen bericht
+                                                  jn den epsitlen Pauli zum Titho und Timotheo.
+                                                  <note type="editorial"> 1Tim 3.1-13 und Tit
+                                                  1,5-9.</note> Und fürnemlich so were jnn der
+                                                  epistel zum Timotheo, wie das leben und wandel der
+                                                  predigern unstrefflich by der gmeind syn solte und
+                                                  wie sy jnn der forcht unnd liebe gotes derselben
+                                                  ein gut exempel vortragen sölen, begriffen<note type="critical">«begriffen» am Rand</note>; so
+                                                  befunde er by jnen das widerspil<note type="editorial"> Gegenteil</note>, dann vil under
+                                                  jnen, den glerten<note type="critical">«den
+                                                  glerten» am Rand mit Verweiszeichen</note>, grad mit denselben sünden und lastern, die<persName ref="Paulus">aber Paulus</persName>heiter verbute,
+                                                  beladen und ergeben weren. So nun weder by der
+                                                  gmeind noch jnen gar khein gute frucht des
+                                                  euangelions erschine; und man aber by der
+                                                  frucht<note type="critical">Folgt gestrichen:
+                                                  der</note> einen<note type="critical">Folgt
+                                                  gestrichen: g</note> boum, ob er gut ald<note type="editorial"> oder</note> böß sige,
+                                                  erkene<note type="critical">Folgt in der Zeile:
+                                                  kan</note> und dann sy, die prediger<note type="critical">«die prediger» am Rand mit
+                                                  Verweiszeichen</note>, selber, was sy leren, nit
+                                                  halten, volge deßhalb, das man sy nit hören, ouch
+                                                  das sy fürtragen, nit<note type="critical">«fürtragen nit» am Rand mit Verweiszeichen</note>
+                                                  die warheit sige, dann das wort und euangelion
+                                                  gotes niemermer, wie Christus selbs bezüge, on
+                                                  frucht fürtragen und geprediget werdy.</p>
+                                                  <p>Die oberkeit belangent, helte er, das dießelbig
+                                                  von gott zu schirm der gutten und straff der bösen
+                                                  gesetzt und geordnet<note type="critical">«gesetzt
+                                                  und geordnet» am Rand mit Verweiszeichen</note>,
+                                                  das sy ouch gricht und recht halten, witwen und
+                                                  weysen schützen und schirmen, frid und einigkeit
+                                                  pflanzen, und das zethůnd schuldig sigen. Und<note type="critical">«und» über der Zeile, in der Zeile
+                                                  gestrichen: ouch</note> solle man derselben zins,
+                                                  zenden und stür, so man jnen von rechts wegen
+                                                  zugeben pflichtig, one einiche widerred ußrichten.
+                                                  Aber diewyl sy christen, so möge sy nit mit dem
+                                                  schwert richten, ouch kheins ubeltheters plut
+                                                  vergießen.</p>
+                                                  <p>Und zum letsten ließe er das eydtschweren, wie
+                                                  es gott jm alten testament geordnet und gepotten,
+                                                  an jm selber, wie es were, pliben, ouch das ein
+                                                  jeder geschechne ding wol mit dem eyd bezügen
+                                                  möchte, Aber<note type="critical">Folgt
+                                                  gestrichen: ettwas</note> bym eyd, künfftige ding
+                                                  zuhalten, zusagen und<note type="critical">«künfftige … und» am Rand mit
+                                                  Verweiszeichen</note> verheißen<note type="critical">Folgt gestrichen: und zeleisten,
+                                                  so künfftig</note>, were wider die heilig
+                                                  gschrift, dann by lüthen, so den christenlichen
+                                                  namen tragen<note type="critical">«christenlichen
+                                                  … tragen» am Rand</note>, solle ja ja und nein
+                                                  nein syn.<note type="editorial"> Mt
+                                                  5,33-37</note></p>
+                                                  <p rend="margin-top">Und wiewol er,<persName ref="Vischer, Hans">Hans Vischer</persName>, durch die
+                                                  hern verordnetten, ouch<note type="critical">«hern
+                                                  verordnetten, ouch» am Rand mit
+                                                  Verweiszeichen</note> die hern predicanten und
+                                                  gelerten uff einen jeden artigkel jnsonders mit
+                                                  heiliger gschrift, das syn fürnemen<note type="editorial"> Vorhaben, Id. IV, 746.</note>
+                                                  weder dem euangelio noch christenlicher ler,
+                                                  liebe, zücht und einigkeit gemeß, sonder gantz
+                                                  zuwider, mermaln ouch<note type="critical">«ouch»
+                                                  am Rand mit Verweiszeichen</note> durch syne eigne
+                                                  gründ underwyßt und uberzüget, ouch letstlichen
+                                                  durch die eer gottes, siner seelen heil und
+                                                  christenlicher kilchen zuguttem von sollichem
+                                                  synem bösen fürnemen<note type="critical">Folgt
+                                                  gestrichen: unnd</note>, sunderung und widerthouf,
+                                                  des er dann mit heiliger gschrift<note type="critical">In der Vorlage: geschrif</note>
+                                                  uberzüget<note type="critical">Folgt gestrichen:
+                                                  und</note>, der warheitt und einfaltigem wort
+                                                  gotes zewichen, ouch üch, minen gnedigen herren,
+                                                  jn jren christenlich mandaten <note type="critical">korrigiert, ursprünglich:
+                                                  zugehorsamen</note>gehorsamen welte, jst er doch
+                                                  uff vorgegebner antwurt, wie verlut,
+                                                  verharret.</p>
+                                                  <p rend="margin-top">Und als er<note type="critical">«er» über der Zeile</note> wither
+                                                  gefragt<note type="critical">«gefragt» über der
+                                                  Zeile</note>, wann er sin frowen genomen, und<note type="critical">«und» über der Zeile</note> ob sy
+                                                  mit jm zun touferen gangen<note type="critical">Folgt gestrichen: «gafragt» am Rand mit
+                                                  Veweiszeichen</note>, sagt er, das er sy sidt
+                                                  nechster ernd<note type="critical">Korrektur am
+                                                  Rand, das ursprüngliche Wort in der Zeile ist
+                                                  gestrichen.</note> genomen und sy mit jm zu<note type="critical">Folgt gestrichen: den […]</note>
+                                                  den touferen gangen, sy sige ouch von<placeName ref="Wülflingen">Wülflingen.</placeName></p>
+                                                  <p>Und wiewol er nachmaln ernstlichen, wer jn
+                                                  getouft, ouch wo er sampt anderen sinen
+                                                  toufbrüdern zusamenkomen, will er gestracks
+                                                  niemans<note type="critical">In der Vorlage:
+                                                  niemas</note> anzoigen.</p>
+                                                  <p rend="margin-top">Demnach die verordnetten hern wider uff uwer, miner gnedigen hern, bevelch zu<persName ref="Vischer, Hans">Hansen Vischer</persName>kert
+                                                  und jnn zum aller ernstlichisten ermant, das er
+                                                  die versamlungen und andere töufer, ouch derselben
+                                                  vorstender und lerer, ouch wer jn getouft und zum
+                                                  widertouf bewegt hab<note type="critical">«ouch
+                                                  wer … hab» am Rand mit Verweiszeichen</note>,
+                                                  anzoigen welte, hatt er volgende ort und pletz
+                                                  ouch personen ernempt und angeben.</p>
+                                                  <p>Erstlichen das einer, so genant wurde
+                                                  Mathis<note type="editorial"> Vermutlich Mathis
+                                                  Wyser, vgl. QGTS 2, S. 228.</note><persName ref="Wyser, Mathis"/> und by Bremgarten daheimen
+                                                  gsin, were aber<note type="critical">Folgt
+                                                  gestrichen: jetz</note> jnn das Merhern<note type="editorial"> Mähren</note><placeName ref="Mähren">landt</placeName>gezogen, derselbig hette jnn
+                                                  erstlichen zum widerthouf gelert und bewegt.</p>
+                                                  <p>Sodann habe<note type="critical">Folgt
+                                                  gestrichen: so habe</note><persName ref="Bächi, Hans">Hans Bechi</persName>von<placeName ref="Chimenhof">Kimenhofen</placeName>jnn Embracher kilchöri<note type="editorial"> Pfarrei, Id. II,
+                                                  1577.</note><placeName ref="Embrach"/> jne vor nün
+                                                  jaren jm<placeName ref="Siglisdorf">Siglistorfer</placeName>holtz neben<placeName ref="Kaiserstuhl">Keyserstul</placeName>getouft. Wer aber darby gewesen, köne er nit
+                                                  anzogen, dann er domaln nach jung und niemans nüt
+                                                  acht gehept.</p>
+                                                  <p>Denne weren diß die ort und pletz, da sy, die
+                                                  toufer, versamlungen hetten und zusamen komen:
+                                                  Erstlichen jm Kleckgow<note type="editorial">
+                                                  Klettgau</note><placeName ref="Klettgau"/> jm
+                                                  Kütal<note type="editorial"> Chüetel
+                                                  (Kühtal)</note><placeName ref="Schleitheim, Chüetel"/>, jnn derselben
+                                                  versamlung Georg Satler<note type="editorial"> Zu
+                                                  Georg Sattler von Oberhallau vgl. QGTS 2, S. 136,
+                                                  Anm. 3.</note><persName ref="Sattler, Georg"/> von
+                                                  Oberhallow<note type="critical">Korrektur am Rand
+                                                  mit Verweiszeichen, ursprünglich:
+                                                  Hallow</note><placeName ref="Oberhallau"/> jr
+                                                  lerer und vorstender sige.</p>
+                                                  <p>Jtem zu Siglistorf an der hochstraß und etwa zu
+                                                  Winingen<note type="editorial">
+                                                  Weiningen</note><placeName ref="Weiningen"/> jnn
+                                                  der Grafschafft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>, deren lerer<persName ref="Güntelmeier, Hans">Hans Güntelmeiger</persName>uß
+                                                  Berner<placeName ref="Bern">piet</placeName>gestorben
+                                                  sige.</p>
+                                                  <p>Jtem jm Hard under<placeName ref="Glattfelden">Glatfelden</placeName>zwüschen Keyserstul<note type="editorial"> Hard, Waldstück am Rhein in der
+                                                  Gemeinde Weiach.</note>, ouch jnn Bülacher holtz
+                                                  oder hard<note type="editorial"> Hard, Wald
+                                                  nördlich von Bülach.</note>
+                                                  <note type="critical">Folgt gestrichen: kemen sy
+                                                  ouch</note>.</p>
+                                                  <p>So hatt er volgend personen angeben:</p>
+                                                  <p><persName ref="Müller, Heusi">Heusi Müller</persName>von<placeName ref="Endigen">Endingen</placeName>, wellicher zu
+                                                  vormaln des toufs halb zu Baden<note type="critical">«zu Baden» am Rand mit
+                                                  Verweiszeichen</note><placeName ref="Baden"/>
+                                                  gefangen gelegen und dem landtvogt daßelbs gelopt,
+                                                  da­von abzestand, sige aber sidhar wider zu jnen
+                                                  gewandlet.</p>
+                                                  <p>Stefan<persName ref="Stefan (von Hägglingen)"/>
+                                                  von Heglingen<note type="editorial">
+                                                  Hägglingen</note><placeName ref="Hägglingen"/>,
+                                                  sin vatter sige zů Küßenberg<note type="editorial"> Küssaberg</note><placeName ref="Küssaberg"/> des
+                                                  toufs halb gericht worden.</p>
+                                                  <p><persName ref="Studer, Annli">Andli Studer</persName>von<placeName ref="Bülach">Bülach</placeName>. Jtem eine werd
+                                                  genant Bartelj, enthalte sich jn der graffschaft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>.</p>
+                                                  <p><persName ref="Kin, Adelheid">Adelheit Kin</persName>von<placeName ref="Embrach">Embrach</placeName>sampt zweygen dochteren.<persName ref="Zobeli, Heusi">Hans Zobelj</persName>von Rorbis<note type="editorial"> Rorbas</note><placeName ref="Rorbas"/>, Müllers frow zu<placeName ref="Glattfeldn">Glatfelden</placeName>,</p>
+                                                  <p>Berchtold<persName ref="Berchtold (von Schüpfen)"/>und<persName ref="Falw Hans (von Schüpfen)">Falw Hans</persName>von
+                                                  Tschipfen<note type="editorial"> Schüpfen
+                                                  (Schüpfheim), Ortschaft bei
+                                                  Stadel.</note><placeName ref="Schüpfen (bei Stadel)"/>.<persName ref="Spilman, Adelheid">Adelheit Spilmanin</persName>und
+                                                  jr muter und aber Adelheit Spilmanin von
+                                                  Tellikon<note type="editorial">
+                                                  Dällikon</note><placeName ref="Dällikon"/>.
+                                                  Anli<persName ref="Annli (von Glattfelden)"/>, ein alte frow zu Glatfelden.<persName ref="Nesper, Heusi">Heuß Nesper</persName>und sin mutter von<placeName ref="Höri">Höri</placeName>.</p>
+                                                  <p>Dise personen giengen jnn beyd versamlungen zu
+                                                  Glatfelden und jnn die grafschafft Baden.</p>
+                                                  <p><persName ref="Flam, Hans">Hans Flam</persName>jm<placeName ref="Kletthau">Kleckgöw</placeName>,<persName ref="Wininger, Heinrich">Heinrich Wininger</persName>von
+                                                  Schleiten<note type="editorial">
+                                                  Schleitheim</note><placeName ref="Schleitheim"/>
+                                                  giengen jnn die gmeind jm Kleckow jm<placeName ref="Schleitheim, Chüetel">Kütal</placeName>.</p>
+                                                  <p>Der ee und hochzit halb, so kurtzlich by jnen volnzogen, git er diß bescheidt: Als ungefarlich by vier wuchen sy, die töufer, ein versamlung by Winingen gehept, habe obgenanter<persName ref="Böchi, Hans">Hans Böchj</persName>Fridli<persName ref="Fridli (ein Berner)"/>, ein schmidt knecht uß
+                                                  Berner<placeName ref="Bern">piet</placeName>, so damaln zu
+                                                  Dietiken<note type="editorial">
+                                                  Dietikon</note><placeName ref="Dietikon"/>
+                                                  gewerchet<note type="critical">«uß Berner …
+                                                  gewerchet» am Rand mit Verweiszeichen</note>, und
+                                                  ein dochter von Utlikon<note type="editorial">
+                                                  Oetlikon</note><placeName ref="Oetlikon"/> by<placeName ref="Würenlos">Würenloß</placeName>, als sy deßen
+                                                  zu beyden teiln begert, zusamen geben.</p>
+                                                  <p rend="margin-top">Nachdem mine herren, die verordneten,<persName ref="Vischer, Hans">Hans Vischer</persName>wither befraget<note type="critical">Folgt gestrichen: das er</note>,
+                                                  ob er<note type="critical">«er» über der
+                                                  Zeile</note> von allen vorgesteltenn
+                                                  articklen<note type="critical">In der Vorlage:
+                                                  articken</note> abstan welte und sych uwer (miner
+                                                  g[nedigen] herren) kilchen ordnungen, wie die nach
+                                                  euangelischem bruch jn<note type="critical">In der
+                                                  Vorlage: jm</note> uwer (miner herren) statt und
+                                                  land geübt, glichförmig halten und sich des
+                                                  widerhoufs gantz und gar entschlachen<note type="editorial"> sich fernhalten, etwas meiden,
+                                                  vgl.
+                                                  http://fwb-online.de/go/entschlagen.s.3vu_1741112987
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, hatt er
+                                                  sich sollichs entpotten mit der zusagung, das er
+                                                  denselben uweren ord­nungen statt thun und geleben
+                                                  welte, das wither nit clegt<note type="editorial">
+                                                  Klage</note> von jme komen solle, mit gantz
+                                                  underthenigem pitten, jne nume siner langwirigen
+                                                  gefengknus gnedigklich zuerlaßen.</p>
+                                                  <p rend="margin-top">M[eister] Felix Peyger<note type="editorial"> Felix Peyer (gest. 1562)</note>
+                                                  <persName ref="Peyer, Felix"/></p>
+                                                  <p>M[eister] Heinrich Trüb<note type="editorial">
+                                                  Heinrich Trüb</note>
+                                                  <persName ref="Trüb, Heinrich"/></p>
+                                                  <p rend="margin-top">Hanns Fischer von<placeName ref="Pfungen">Pfungen</placeName>hatt sich
+                                                  begeben unnd erbottenn, abzestaan. Daruff ist er
+                                                  ledig wordenn. Actum mittwuchs dess 21. tag
+                                                  wynntermonats 1548 p[raese]nt[ibus] herr Hab<note type="editorial"> Johannes Haab</note><persName ref="Haab, Johannes"/> unnd beyd räth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

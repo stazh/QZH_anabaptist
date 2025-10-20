@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_640</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_640</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Magdalena
+                                                  MellikerDie Überschrift auf
+                                                  der Rückseite des Dokuments lautet: Magdalena
+                                                  Mellickerin von Wyach bescheid</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1597-05-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 491</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als herr schultheiß Keller<note type="editorial"> Felix Keller
+                                                  (1535-1599)<persName ref="Keller, Felix"/></note>
+                                                  unnd m[eister] Felix Peyer<note type="editorial">
+                                                  Felix Peyer (1558-1622)<persName ref="Peyer, Felix"/></note>, obervögt im nüwen<placeName ref="Neuamt">ampt</placeName>, sampt heren Marxen
+                                                  Boümler<note type="editorial"><persName ref="Bäumler, Markus">Markus Bäumler</persName></note> zů
+                                                  Magdalena Mellickerin von Wyach<note type="editorial"> Weiach</note><placeName ref="Weiach"/> jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert unnd sy
+                                                  befraget, uß was ursachen sy<note type="critical">Folgt gestrichen: bißhero unnd</note> über
+                                                  erntstlichs ermannen jres herren predicanten nit
+                                                  allein<note type="critical">Folgt gestrichen: die
+                                                  hörung göttlichs heil</note> die zyt har nit jnn
+                                                  die kilchen zů hörungg deß heiligen göttlichen
+                                                  worts gangen, sonder<note type="critical">«sonder»
+                                                  über der Zeile, in der Zeile gestrichen:
+                                                  deßglychen</note> ouch uff verschinne<note type="editorial"> vergangene</note> heilige
+                                                  zyt<note type="editorial"> Ostern (6. April
+                                                  1597)</note>, als man das heilig nachtmaal
+                                                  zůdienet, sich von Wiach hinweg unnd jnn das<placeName ref="Baden (Landgrafschaft)">Bader</placeName>gebiet<note type="editorial"> Grafschaft Baden,
+                                                  gemeindeidgenössische Vogtei.</note> gethan unnd
+                                                  sich dergstalt von jren kilchgnoßen abgesöndert
+                                                  unnd annderen faltschen lehreren nachgeloffen unnd
+                                                  hieruf jres bescheidts begert.</p>
+                                                  <p>Uff wellichen anzug<note type="editorial">
+                                                  Anschuldigung, Klage, Id. XVII, 519.</note> sy die
+                                                  antwort einfalt<note type="critical">«einfalt»
+                                                  über der Zeile</note> geben, das sy es umb deß
+                                                  gůten<note type="critical">«gůten» über der Zeile,
+                                                  in der Zeile gestrichen: besten</note> willen
+                                                  gethon unnd vermeint, es gfall also<note type="critical">Folgt gestrichen: dem
+                                                  allmechtigen</note> gott, unnd syge derhalben
+                                                  etliche maal zů den ­toüf­feren, so das wort
+                                                  gottes verkündt und<note type="critical">Folgt
+                                                  gestrichen: s</note> sy zůsammen khommen, gangen
+                                                  etc.</p>
+                                                  <p>Nachdem aber<note type="critical">Folgt
+                                                  gestrichen: sy von obgen</note> herr Marxen
+                                                  Boümler<note type="critical">Folgt gestrichen: bef
+                                                  un</note><persName ref="Bäumler, Markus"/> jnn
+                                                  einem und dem anndern articel gnůgsam unnd wol der
+                                                  ­toüf­ferischen seckt unnd jre schweren
+                                                  jrrthumben<note type="critical">Folgt gestrichen:
+                                                  wo</note> mit grund heiliger gschrifft widerwißen
+                                                  unnd daruf jro anzeigt, wie sy sich halten unnd
+                                                  das heil jrer seelen erlangen möge, jtem<note type="critical">«jtem» über der Zeile, in der
+                                                  Zeile gestrichen: anzeigt unnd</note> sy zů der
+                                                  hörung deß göttlichen worts<note type="critical">Folgt gestrichen: unnd</note>, übüng der heiligen
+                                                  sacramenten, ouch frombkeit unnd der forcht gottes
+                                                  ermannet, jst sy gůtwillig von jr meinung
+                                                  gentzlich abgestanden, der gnaden und erledigung
+                                                  der gfangenschafft<note type="critical">«und
+                                                  erledigung der gfangenschafft» am Rand mit
+                                                  Verweiszeichen</note> von üch, mynen gnedigen
+                                                  herren, begert, unnd sich erbotten und
+                                                  versprochen, hinfüro (soveer jre gott gsundtheit
+                                                  verlyche<note type="critical">«soveer jre gott
+                                                  gsundtheit verlyche» am Rand mit
+                                                  Verweiszeichen</note>) gehorsamm zesind, jnn die
+                                                  kilchen zegaan unnd thůn, was üwer (myner gnedigen
+                                                  herren) satzungen unnd mandata ußwyßend<note type="editorial"> besagen, Id. XVI, 1951.</note>,
+                                                  unnd<note type="critical">Folgt gestrichen:
+                                                  hinfüro</note> aller ­toüf­feren unnd jrer seckt
+                                                  müßig zegan unnd sich dero<note type="critical">Folgt gestrichen: gentzlich</note> zů
+                                                  enthalten.</p>
+                                                  <p rend="margin-top">[Urteil]: Diewyl sy sich aller ghorsamme anerbietet, soll sy der gefangenschafft wider ledig gelaßen werden unnd jrem anerbietten statt thůn. Actum mitwuchs den 25ten maij anno etc. 97 p[raese]nt[ibus] herr<persName ref="Keller, Hans">burgermeister Keller</persName>unnd beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

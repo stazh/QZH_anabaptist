@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_388</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_388</idno>
+          </msIdentifier>
+          <head>Brief von Hans Meyer in Mähren an seine Geschwister Wolfgang und
+                                                  Regula in Höngg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1579-07-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 239</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ich wünsch euch gotes gnadt und barmherzigkeit und alles guets zuvor. Mein lieber<persName ref="Meyer, Wolfgang">bruder Wolffganng</persName>und liebe<persName ref="Meyer, Regula">schwester Regele</persName>, jch kan gleich nit
+                                                  underlassen, euch ein wenig zu schreiben. Erstlich
+                                                  wie es mir geet, so wais ich nit anders, denn das
+                                                  es mir woll geet bei den frommen, dem herren sei
+                                                  der preiß. Mein lieber brueder Wolffgang und liebe
+                                                  schwester Regele, es ist mein fleissig bit an
+                                                  euch, das ir doch von herzen ouch wöllet frumb
+                                                  werden und von aller sündt und unrechtem leben
+                                                  diser welt abstehn, auff dz ir nit mit der welt
+                                                  und mit allen sündern müesset verdambt werden nach
+                                                  dem gerechten gericht und urtel gotes, welches
+                                                  uber alle unbuesfertigen kommen wirt, sunder dz ir
+                                                  mit allen frommen ewig mochtet salig werden. Und
+                                                  dieweil ich dir, mein lieber brueder, vorhin
+                                                  manichmal geschriben hab, acht ich nit, dir auff
+                                                  diß mal vil zu schreiben, weil es auch nit zeit
+                                                  hat, aber es ist mein bit, das du den brüedern,
+                                                  die zu dir kummen, wöllest glauben und volgen,
+                                                  alls wenn ich selbs mündtlich mit dir redet. Denn
+                                                  das hab ich für die gotlich warheit erkennt und
+                                                  für den weg, der zur seeligkeit füert, und ist
+                                                  ouch kein anderer weg zum reich gotes zu finden,
+                                                  denn wie Christus der sun gotes und alle seine
+                                                  apostlen gelernt unnd es selber ouch gethon haben.
+                                                  Darumb bit fleissig zu got, dz er dir woll gnadt
+                                                  geben, dein unrechtes leben zu erkennen und mit
+                                                  warer bues abzulegen, und dz du von herzen
+                                                  mochtest frumb werden. Ich weiß euch ye nit
+                                                  bessers zu radten, wollest mir auch wider
+                                                  entbieten, wie es umb dich stande und auch wie es
+                                                  meiner schwester Regele geet, und was ir
+                                                  gesunnetheit, weill mir auch lang kein botschafft
+                                                  von euch ist worden. Got woll euch erleüchten an
+                                                  herzen und oren, seiner warheit zu volgen, dz
+                                                  wünsch ich euch durch Jesum Christum, amen. Datum
+                                                  Letenitz<note type="editorial"> Letonice (dt.
+                                                  Lettonitz)</note><placeName ref="Letonice"/> in
+                                                  Marhern den freitag nach Petri und Pauli des 1579.
+                                                  jars.</p>
+                                                  <p rend="margin-top">Hanns Meyer, euer lieber
+                                                  brueder.</p>
+                                                  <p rend="margin-top">Meinem lieben brudern
+                                                  Wolffgang Meyer zu Hongk, ein halbe meil under
+                                                  Zürich, zu uberantwurten zu eigen handen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

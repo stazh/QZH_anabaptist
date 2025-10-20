@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_562</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_562</idno>
+          </msIdentifier>
+          <head>Ratsbeschlüsse
+                                                  Ratsbeschlüsse unter dem Datum «Mentags, den 17ten
+                                                  novembris p[raese]nt[ibus] herr Kamblj unnd beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1589-11-17"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 413</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Schnyder, Hans">Als Hannß</persName><persName ref="Schnyder, Heinrich">und Heinrich</persName>die
+                                                  Schnydere, beid von<placeName ref="Rorbas">Rorbas</placeName>, so bißhar mitt der ­toüf­ferischen sect
+                                                  behafftet gsyn, vor einem ersammen rath sich
+                                                  persönlichen gestelt, jren feler selbs mundtlichen
+                                                  bekhendt, sich aller gehorsamme anerbotten unnd
+                                                  der gnaden begert, habent myn gnedig herren recht
+                                                  jetzmaln ein benuͤgen gehept unnd sy begnadet.
+                                                  Doch soll der vogt von Kyburg<note type="editorial"> Hans Ziegler</note> achtung und
+                                                  ufsehens jrenthalben haben lassen. Wenn sy sich
+                                                  nun wie andere gehorsamme underthonnen jnn allen
+                                                  gebürlichen sachen haltend, jsts mynen herren
+                                                  lieb. Wo nit, soll er glych zů jnen gryffen und
+                                                  die gfengklichen annemmen lassen, der gebür nach
+                                                  gegen jnen zehandlen.</p>
+                                                  <p>Denne die 200 pfund<note type="critical">In der
+                                                  Vorlage: lb</note> belangend, so vogt von<placeName ref="Kyburg">Kyburg</placeName>von gemelts
+                                                  Heinrichen wegen jnzenemmen: Er, Heinrich, aber
+                                                  (sidtmalen<note type="editorial"> da, weil, Id.
+                                                  IV, 147.</note> er jetzt von synem jrrthumb
+                                                  abgstanden) gebätten, jme dieselben gnedigklichen
+                                                  werden zelassen. Ist sölliches jngstelt, untz<note type="editorial"> bis</note> man sicht, wie er
+                                                  sich anlassen<note type="editorial"> sich
+                                                  verhalten, sich betragen, vgl. <hl to="http://fwb-online.de/go/anlassen.s.3vu_1709293614"><Hyperlink>http://fwb-online.de/go/anlassen.s.3vu_1709293614</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> und
+                                                  tragen<note type="editorial"> betragen</note>,
+                                                  dermals jme nüdt abgeschlagen syn.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschlüsse unter dem Datum «Mentags, den 17ten
+                                                  novembris p[raese]nt[ibus] herr Kamblj unnd beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

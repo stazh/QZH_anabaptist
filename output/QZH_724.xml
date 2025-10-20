@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_724</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_724</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-01-18"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 575</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, uff dynen schrifftlichen
+                                                  bericht unnd begeren unnd deß pfarrers zů
+                                                  Beretschwyl darmit überschickt schryben,
+                                                  anthreffend die ­toüf­ferischen personen jnn den
+                                                  pfarren<placeName ref="Bäretswil">Beretschwyl</placeName>,<placeName ref="Fischenthal">Vischental</placeName>unnd<placeName ref="Wald">Wald</placeName>unnd dann auch<persName ref="Schmid, Heini">Heinj Schmidts</persName>jm
+                                                  Vischental sachen und gůt, gebend wir dir den
+                                                  bscheidt unnd bevelch, erstlich was die
+                                                  ­toüf­ferischen personen belanget: Diewyl wir dir
+                                                  hievor durch ein schryben bevolchen, das du Herman
+                                                  Spörrj hinder der burg<note type="editorial"><placeName ref="Greifenberg">Greifenberg</placeName></note>und<persName ref="Spöri, Peter">Petern Spörj</persName>uff<placeName ref="Bäretswil, Dunkelwis">Dunckelwiß</placeName>(welliche beid jnn dem angeregten<note type="editorial"> erwähnt, Id. 6, 733.</note> deß
+                                                  pfarrers zů Beretschwyl schryben auch widerumb
+                                                  genambset werdent) sambt etlichen annderen, dir
+                                                  nambhafft gemachten ­toüf­feren gfengklich
+                                                  jnzüchen laßist unnd unns zůschickist. So söllist
+                                                  du nachmaln diserm bevelch nachgahn, zů den
+                                                  bemelten beiden Spörinen unnd etwan noch einem
+                                                  oder zweyen jres glychen, hartneckigen,
+                                                  boßfertigen ­toüf­fern gryffen laßen unnd
+                                                  dieselben unns gefengklich überschicken, damit wir
+                                                  wyter gegen jnen jnn einen unnd den anndern weg,
+                                                  was sich gebürt fürzůnemmen<note type="critical">Folgt gestrichen: wüßint</note>, und dem fernern
+                                                  jnbruch<note type="editorial"> Eindringen</note>
+                                                  diser schedlichen sect so vil müglich zefürkhommen
+                                                  wüßint.</p>
+                                                  <p>Was dann fürs ander den bemelten<persName ref="Schmid, Heini">Heinj Schmidt</persName>beruͤrt,
+                                                  habent wir unns über syn sach noch nützit
+                                                  entschloßen, sonders<note type="critical">«sonders» am Rand, in der Zeile gestrichen:
+                                                  unnd</note> jst unnser meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, diewyl
+                                                  syne brůderen sich vermercken laßend unnd
+                                                  vermeinend befuͤgt zesind, syn gůt zů jren handen
+                                                  zezüchen, das du derhalben<note type="critical">«derhalben» am Rand mit Verweiszeichen</note>
+                                                  noch eigentlicher erkhundigist, was jr (der
+                                                  Schmiden) vaters seligen will und meinung<note type="editorial"> letzter Wille, Testament, vgl.
+                                                  http://fwb-online.de/go/meinung.h2.1f_1732315867
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> jnn
+                                                  diserm fal gweßen unnd ob darumbe etwas brief unnd
+                                                  sigel ufgerichtet sygind. Unnd was du also
+                                                  hierumbe noch verner jnn erfarung bringen kanst,
+                                                  deßen solt du unnsere rechenherren, wann du jetzt
+                                                  künfftig vor jnen dyn rechnung gibst, berichten
+                                                  unnd derselben wytern bscheidts darüber erwarten.
+                                                  Möchte es aber biß dahin und so lang nit<note type="critical">Folgt gestrichen: verck</note>
+                                                  verzug haben, so khanst du unns desselben wol
+                                                  ehmaln verstendigen, so wellend wir alsdann dir
+                                                  darüber mit wyterm gebürenden bscheidt begegnen.
+                                                  Unnd du also jnn diseren ­toüf­ferischen sachen,
+                                                  was zů handthabung und volnstreckung unnserer
+                                                  ußgangnen christenlichen mandaten dienet unnd die
+                                                  nothurfft erforderet, an dynem flyß unnd erntst
+                                                  nützit erwinden<note type="editorial"> fehlen, Id.
+                                                  XVI, 580f.</note> laßen, als wir dann dir
+                                                  verthruwen unnd unns deß zů dir versehen wellend.
+                                                  Datum den 18. d. januarij anno 1602.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  Eich.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

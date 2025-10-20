@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_768</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_768</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Joachim
+                                                  Dietschi Hans Joachim
+                                                  Dietschi (1571-?), von Zürich, heiratete 1591
+                                                  Margaretha Kölliker, 1594 Mitglied der
+                                                  Zunft zur Schuhmachern.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1604-05-12"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 619</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Demnach herr statthalter Ulinger<note type="editorial"><persName ref="Ulinger, Hans">Hans Ulinger</persName></note>unnd j[unker] Hannß<persName ref="Wirz, Hans Konrad">Conrat Wirtz</persName>,
+                                                  nachgenger, uß üwer (myner gnedigen herren)
+                                                  bevelch zů Hanns Joachim Dietschin, dem
+                                                  widerteüffer, jn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note>, jmme der lenge nach fürgehalten<note type="editorial"> vorwerfen, Id. II, 1234.</note>,
+                                                  wie das er von üch, mynen gnedigen h[erren], mit
+                                                  einem hüpschen dienstlin<note type="editorial">
+                                                  hier eine Tätigkeit im Salzamt</note> begaabet
+                                                  gewäßen, darby er aber nit bas gehuset<note type="editorial"> besser gewirtschaftet</note>,
+                                                  dann das er synes gůts nit vill mehr gehept, also
+                                                  das er sich jnn<placeName ref="Mähren">Merherren</placeName>begäben unnd des burgrächtens<note type="editorial"> städtisches Bürgerrecht</note>
+                                                  alhie gentzlichen entzigen<note type="editorial">
+                                                  (auf sein Bürgerrecht) verzichten, Id. XVII,
+                                                  863.</note> unnd vilicht er der ursach alhar
+                                                  khommen, anndere auch ufzewyßen<note type="editorial"> zu etwas anstiften, verleiten,
+                                                  Id. XVI, 1939.</note> unnd etwan erlichen elternn
+                                                  jre kinder hinweg zefuͤren mit vermäldung, das jr,
+                                                  myn gnedig h., ein groß mißfallen hieran tragind.
+                                                  Deswägen jnne hierumb synes thůn unnd laßens wegen
+                                                  unnd, uß was ursachen er alhar khommen<note type="critical">Folgt gestrichen: jnne</note>,
+                                                  befragt unnd mit ernst zů annzeigung der warheit
+                                                  vermandt unnd synes bscheidts darüber begärt.</p>
+                                                  <p>Daruf hatt er annzeigt, er khönne woll
+                                                  erkhennen, das er von üch, mynen gnedigen h., für
+                                                  anndere uß<note type="editorial"> vor anderen
+                                                  voraus</note> mit diserm dienst, den er drü oder
+                                                  vier jar lang versechen, villicht von wägen syner
+                                                  blöden gsicht<note type="editorial"> schwache
+                                                  Sehkraft</note> oder aber syner erlichen
+                                                  vorelteren<note type="critical">Folgt gestrichen:
+                                                  g</note> begaabet worden, darumb er dann üch,
+                                                  mynen gnedigen h., ganntz dientstlich unnd zum
+                                                  höchsten dancke. Unnd syge jmme erstlichen
+                                                  glücklichen unnd zimlich woll darbj ergangen. Im
+                                                  driten unnd vierten jar aber habe er gespürt, das
+                                                  jmme der gwerb mehr hindersich dann fürsich
+                                                  gangen, da er vermeint<note type="critical">korrigiert, ursprünglich: vermeintz (Lesung
+                                                  unsicher)</note>, das diß die gröste ursach,
+                                                  diewyl syn eefrouw jnn der hußhaltung eben gar
+                                                  costlich<note type="editorial"> verschwenderisch,
+                                                  Id. III, 552.</note> unnd er gern bin gsellen
+                                                  gwäßen. Dann etliche under den selben<note type="critical">«under den selben» am Rand, in der
+                                                  Zeile gestrichen: darwider</note> woll gewüßt,
+                                                  wann er truncken worden, das er allß dann für sy
+                                                  bezalt, da er die rächnung gemacht, man näme nur
+                                                  saltz ann das zeergält, unnd nit an daß gedacht,
+                                                  das<note type="critical">Folgt gestrichen:
+                                                  sich</note> die schuld gägen herren husschryber
+                                                  sich also hoch<note type="critical">«hoch» am Rand
+                                                  mit Verweiszeichen</note> ufhin louffen wurde.
+                                                  Unnd diewyl er herren husschrybern jnn die 400
+                                                  gulden<note type="critical">In der Vorlage:
+                                                  fl.</note> schuldig gewäßen unnd er täglich je
+                                                  lenger je mehr liederlicher unnd verthuͤyger<note type="editorial"> verschwenderisch, Id. XIII,
+                                                  418.</note> worden, habe er jmme ein gwüßne darumb
+                                                  gemacht, auch gedacht, wie er jmme thůn sölle,
+                                                  damit er lyb und seel behalten unnd erretten möge.
+                                                  Unnd daruf (wyl schier jederman alhie verbößert
+                                                  unnd er auch nit verachtet syn wellen) jmme
+                                                  fürgenommen, hinweg zezüchen unnd ein annder unnd
+                                                  frömber volck zesůchen.</p>
+                                                  <p>Welliches jmme herr hußschryber Hottinger<note type="editorial">Hans<persName ref="Hottinger, Hans Jakob">Jakob Hottinger</persName></note> etlichemal
+                                                  geweert unnd widerrathen unnd jmme anngezeigt, er
+                                                  khönne alhie auch rächt thůn. Allß er aber jmme
+                                                  nit willfaren wellen, habe er gesagt, wann er doch
+                                                  hinweg welle, sölle er zůvor zů einem h[errn]
+                                                  burgermeister gaan unnd synen dienst ufsagen. Das
+                                                  er gethan unnd zů herren burgermeister
+                                                  Großman<note type="editorial"><persName ref="Grossmann, Konrad">Konrad Grossmann</persName></note> gangen unnd jmme vemäldt, er khönne nit
+                                                  mehr alhie verblyben, er falle von<note type="critical">«von» über der Zeile, in der Zeile
+                                                  gestrichen: jnn</note> einer<note type="critical">korrigiert, ursprünglich: ein</note> sünd jnn die
+                                                  annder, unnd jnne gepätten, wann er ald<note type="editorial"> oder</note> syne kinder mit der
+                                                  zyt widerumb alhar khemind, das myn gnedig h.
+                                                  jnnen das beste thůn wellind. Daruf h[err]
+                                                  burgermeister jnne befragt, ob er den husschryber
+                                                  bezalt. Und anzeigt<note type="critical">«Und
+                                                  anzeigt» am Rand</note>, er habe mit jmme
+                                                  sinthalben geret. Da er woll verstanden, daß syne
+                                                  sachen schlechtlich gnůg standint, unnd hiemit
+                                                  jmme glück uff die reiß gewüntscht.</p>
+                                                  <p>Da er nun jnn<placeName ref="Mähren">Mehrherren</placeName>gezogen, habe er sich by den brůderen
+                                                  jnngelaßen unnd den cordoan<note type="editorial">
+                                                  Feines Ziegenleder, Grimm 11, 1808.</note> oder
+                                                  margyn<note type="editorial"> Maroquin, Id. IV,
+                                                  403.</note> zůbereiten erlernnt unnd befunden, das
+                                                  sy einen fynen wanndel unnd dhein<note type="editorial"> kein</note> anndere religion,
+                                                  dann alhie syge, fuͤrind unnd läsind auch die
+                                                  bibel, so alhie getruckt. Allein fuͤrind sy ein
+                                                  anderen wanndel. Unnd syge diß die ursach, darumb
+                                                  er alhar khommen: Es habe jmme, herr husschryber,
+                                                  2 brieff geschriben unnd sich erclagt, er habe
+                                                  jmme böße schulden gäben, da etliche auch
+                                                  lougnind<note type="critical">Folgt gestrichen:
+                                                  unnd</note>. Deswägen er der brůderen rath
+                                                  gepflegt, die jmme uferlegt, das er alhar kheeren
+                                                  unnd syne sachen richtig machen sölle. Dann sy
+                                                  dheinen by jnnen duldind, ehr habe dann syne
+                                                  schulden bezalt. Unnd wann schonn der wäg noch
+                                                  wyter gewäßen, hette er nütestminder (ob er woll
+                                                  kranck gwäßen unnd nit vermeint mehr alhar
+                                                  zekhommen) widerumb alhar muͤßen.</p>
+                                                  <p>Der meinung unnd annderer gstalt nit syge er
+                                                  alhar khommen. Unnd so bald er mit h[err]
+                                                  husschryber hette mögen überkhommen<note type="editorial"> übereinkommen</note>, welte er
+                                                  gestrax unnd den nechsten widerumb hinweg gezogen
+                                                  syn. Er habe auch vermeint, wyll er synen dienst
+                                                  zůvor, ob er hinweg gezogen, ufgäben, er dörffe
+                                                  woll alß ein biderman widerumb tags alhar khommen.
+                                                  Da er aber umb allerleyg ursachen unnd
+                                                  fürnemblichen umb des willen nachts khommen, damit
+                                                  jr, myn g[nedig] h[erren], nit vermeinen möchtind,
+                                                  er welte<note type="critical">Folgt gestrichen:
+                                                  jed</note> jemanden hierdurch trutzen<note type="editorial"> herausfordern, spotten, Id. XIV,
+                                                  1676.</note>. Es syge aber gwalt mit jmme gebrucht
+                                                  worden, jnn dem das jren 7 jnne anngefallen, da
+                                                  man nit allein jnne sonder das gantz husvolck, das
+                                                  doch dhein schuld hieran getragen, dafür er
+                                                  gepätten, geforderet, dann er sich gůtwillig
+                                                  gestelt unnd syner annkunfft rächenschafft gegäben
+                                                  hette.</p>
+                                                  <p>Was anndere widerteüffer belange, so mit jmme unnd dem<persName ref="Meyer, Erhard">Erhart Meyer</persName>alhar khommen, wüße er nit, wo dieselbigen
+                                                  sygen. Er bezüge aber warhafftig, das weder er
+                                                  noch Meyer von den brůderen darumb<note type="critical">Folgt gestrichen: nit</note> alhar
+                                                  geschickt worden, das sy anndere auch abhin<note type="critical">«abhin» am Rand, in der Zeile
+                                                  gestrichen: alhar</note> fhuͤrind unnd
+                                                  ufwysind<note type="editorial"> zu etwas
+                                                  anstiften, verleiten, Id. XVI, 1939.</note>. Dan
+                                                  der Meyer darumb alhar khommen, das jmme syn
+                                                  brůder rächnung synes gůts halben gäben sölle.
+                                                  Unnd wann er daßelbig nit gůtwillens thůn werde,
+                                                  welle Meyer, alß er verstanden<note type="critical">«alß er verstanden» am Rand mit
+                                                  Verweiszeichen</note>, üch, myn gnedigen h.,
+                                                  hierumb anruͤfen, das es jnn schirmcasten<note type="editorial"> Lade, in welcher die
+                                                  Waisenbehörde die ihrer Obhut befindlichen
+                                                  Wertschriften aufbewahrt, Id. III, 540.</note>
+                                                  gelegt und etwan syn kinden, so dieselbigen alhar
+                                                  khemind, zůgestelt werde.</p>
+                                                  <p rend="margin-top">[Urteil]: Er jst der
+                                                  gfangenschafft uff erlegung deß costens wider
+                                                  ledig erkhendt<note type="editorial"> urteilen,
+                                                  amtlich festsetzen, Id. III, 313.</note> unnd jme
+                                                  vergundt, nach etliche tag jnn stille alhie
+                                                  zeblyben, die sachen mit herrn hußschryber richtig
+                                                  und jederman ein willen zemachen. Dannethin soll
+                                                  er<note type="critical">«soll er» über der
+                                                  Zeile</note> angentz<note type="editorial">
+                                                  sofort, unverzüglich, Id. II, 19.</note>
+                                                  fortzüchen und myn gnedig herren jnn jrer statt
+                                                  und landen rüwig lassen, ouch gar niemanden
+                                                  ufwiglen oder myner herren straff erwarten. Actum
+                                                  sambßtags den 12ten maij 1604 p[raese]nt[ibus]
+                                                  b[urgermeister] Bräm<note type="editorial">
+                                                  Heinrich Bräm</note><persName ref="Bräm, Heinrich"/> und beid reth.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Hans Joachim
+                                                  Dietschi (1571-?), von Zürich, heiratete 1591
+                                                  Margaretha Kölliker<persName ref="Kölliker, Margaretha"/>, 1594 Mitglied der
+                                                  Zunft zur Schuhmachern.</p>
+    </back>
+  </text>
+</TEI>

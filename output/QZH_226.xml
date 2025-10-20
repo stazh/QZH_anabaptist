@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_226</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_226</idno>
+          </msIdentifier>
+          <head>Herbstsynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1555-10-22"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 77</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Gwalther, Rudolf">Der dechan</persName>an
+                                                  dem Zürich see Kapitel<note type="editorial">
+                                                  Rudolf Gwalther</note>, und hiemitt fast alle
+                                                  andere decani, zeygt an, es were ettlich jar har
+                                                  vil klegten<note type="editorial"> Klagen</note>
+                                                  fürgebracht der widertoͤuffern halb irer unrůwen
+                                                  und traͤnnes, das sy anrichtetend hin und har in
+                                                  den kylchen. Da doch nach notturfft noch nie
+                                                  gehandlet. Dorumb sy zů naͤmind, also das ein wyb
+                                                  habe gedoͤren (die sye uß dem hoff<note type="editorial"> Besitzung, Herrschaftsgebiet,
+                                                  Id. II, 1021.</note> Staͤfa) den pfarrer von
+                                                  Maͤnendorff<note type="editorial"> Jos
+                                                  Oesenbry</note><placeName ref="Männedorf"/><persName ref="Oesenbry, Jos"/> anfallen, worumb
+                                                  er die toͤuffer schaͤlte, es syend biderb lüt und
+                                                  unser herren duldent sy zů<placeName ref="Wald">Wald</placeName>, da vil sind, und anderschwo. Wenn sy
+                                                  boͤß waͤrend, litte man sy nitt. Aber sy, die
+                                                  herren, sind in iren gmuͤten überwunden etc. Imm
+                                                  Herrliberg<note type="editorial">
+                                                  Hellberg</note><placeName ref="Hellberg"/> in
+                                                  Gruͤningen kummend sy zamen ze huffen in hundert
+                                                  und mee, an der<placeName ref="Sihlbrugg">Sylbrugg</placeName>und anderschwo etc.</p>
+                                                  <p>Diewyl nun alle pfarrer geschworen, iren herren
+                                                  allerley schanden zů weeren, und aber das ein
+                                                  grosser schand sye, dann man wol wüsse was unrůw
+                                                  man vor iaren gehept und was die toͤüffer boͤses
+                                                  angericht etc., woͤllend sy das mitt ernst
+                                                  anzeygen und bitten, das min herren inen vor
+                                                  wyterm leyd, schand und schaden sin<note type="editorial"> vor sein: verwehren, verhüten,
+                                                  Id. I, 929.</note> woͤllind etc.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_253</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_253</idno>
+          </msIdentifier>
+          <head>Rudolf Escher an Bürgermeister und Rat von
+                                                  Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1561-02-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 104</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min gantz unnderthenig willig diennst altzidt
+                                                  bevor. Herr burgermeyster, fromm, erenvest,
+                                                  fürsichtig, wyß, sonders günstig, gnaͤdig, min
+                                                  herren, dis myn schryben an üwer ersam wyßheydt
+                                                  allein von wägen byligender myssyff<note type="editorial"> Das erwähnte Schreiben ist nicht
+                                                  überliefert.</note>, üch myner handlung berichten. Item und für das erst so han ich etwan mängen brieff von üch über<persName ref="Bürgi, Jakob">Jacoben Bürge</persName>,<persName ref="Peter, Hans">Hansen Peter</persName>,<persName ref="Streler, N.">die Straͤler</persName>ab den<placeName ref="Wald, Haltberg">Halbpärg</placeName>, darinn jr mich mit allem
+                                                  ärnst ermandt, das ich sy gfaͤncklichen üch
+                                                  zůschicke sampt anderen unghorsamen, wo ich sy
+                                                  betraͤte<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note>. Sömlichs ich mit
+                                                  allem ärnst unnd ruchem droͤwen<note type="editorial"> Drohen</note> dem alten unnd
+                                                  nüwen weybel befolen, wo und wänn sy sy mögend
+                                                  ankomen<note type="editorial"> antreffen,
+                                                  begegnen, vgl. <hl to="http://fwb-online.de/go/ankommen.s.3vu_1709323546"><Hyperlink>http://fwb-online.de/go/ankommen.s.3vu_1709323546</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> tags
+                                                  oder nachts, unnd waͤnn ich sy antzogen<note type="editorial"> vorhalten, vorwerfen, Id. XVII,
+                                                  992.</note>, warum sy mir min befälch nit
+                                                  ußgricht, die bredicanten louffend mir nach unnd
+                                                  schrybend mir, sy wandlend offentlich by jrren,
+                                                  gaͤbend sy mir dise antwurt: Es sige jnen nit
+                                                  müglich zůfachen, dann wänn sy mit den füret<note type="critical">Lesung unklar</note> tags oder
+                                                  nachtz gegen denen gegninen<note type="editorial">
+                                                  Gegenden</note> wandlend, da sy daheymen sind,
+                                                  waͤrdent sy gwarnet, dann man kein myßfallen an
+                                                  jnen haͤt. Waͤnn dann der weybel wider heim fart,
+                                                  dann er mee dann ein gůte halb myl zů jnen hat, so
+                                                  sind sy widerum vorhanden. Unnd bin ich unnd der
+                                                  breedicant unnd der weybel nun jren spott.</p>
+                                                  <p>Für das annder, das er dann mäldet, wie Hans
+                                                  Peters frow jren man, ouch Jacoben Bürge
+                                                  beherberge, han ich jren mit allem dröwen
+                                                  enboten<note type="editorial"> sagen lassen, Id.
+                                                  IV, 1869.</note>, ich welle sy üch gfäncklichen
+                                                  zůschicken, die kind uff die gaßen schleicken, hus
+                                                  unnd hoff beschlüßen. Ist unnderzwüschend die
+                                                  embörung ingrisen zwüschend üweren eydgnoßen von
+                                                  den fünff ordten unnd Glaris<note type="editorial"> Die Fünf Orte hatten Pläne, mittels Waffengewalt
+                                                  Glarus zu rekatholisieren. Der Glarnerhandel
+                                                  heizte die konfessionelle Spannung in der
+                                                  Eidgenossenschaft an.</note><placeName ref="Glarus"/>, das ich es gůter meynung
+                                                  underlaßen unnd üch nit gaͤrnn darmit
+                                                  bemuͤygt<note type="editorial"> bemüht</note>
+                                                  hab.</p>
+                                                  <p>Für das dritt, so han ich<persName ref="Rieser, Jörg">Joͤrgen Ryser</persName>ab der Stralegg gestrafft, das er<persName ref="Bürgi, Jakob">Jacoben Bürge</persName>beherberget, dann er nit all
+                                                  wägen by Hansen Peters frow zůhus ist gsin.</p>
+                                                  <p>Für das vierdt, so han ich die Straͤler ouch
+                                                  gestrafft, das sy jren bruͤderen underschlouff
+                                                  gebend und mitt jnen deyl unnd gmeyn habend, jnen
+                                                  ouch darnäbend anzeigt, ich welle sy nit me
+                                                  straffen, sonders üch, myn gnädig herren, jrer
+                                                  unghorsame brichten. Die wärdent daͤnethin mit
+                                                  jnen deylen unnd wärdent der unghorsamen
+                                                  doüfferen<note type="critical">«doüfferen» am Rand
+                                                  mit Verweiszeichen</note> deyl zů jrer kinden
+                                                  handen nämen und dieselbigen bevogten laßen unnd
+                                                  den vogt laßen nach der kinden nutz hus halten.
+                                                  Unnd so dännethin sy jre bruͤder nütdestminder
+                                                  beherbegend, wärde man jnen die bůß so dick<note type="editorial"> oft, Id. XII, 1238.</note>
+                                                  abnaͤn, das ich achten, sy waͤrdent muͤd wärden.
+                                                  Daruff sy mir disen bscheid geben: Sy sigend üwer,
+                                                  mögend jnen důn, wie jr woͤllend; sy muͤßend
+                                                  froͤmd arm lüdt beherbergen, so könndent sy nit
+                                                  jre bruͤderen von jren kinden und frowen uß dem
+                                                  hus jagen.</p>
+                                                  <p>Für das fünfft unnd letst han ich dem weybel befolen, das er sampt zweyen frowen zů<persName ref="Peter, Hans">Hansen Peters</persName>frowen gange
+                                                  unnd das kind fordere und so sy unwillig, sölle er
+                                                  jren das kind nämen unnd es den frowen gäben,
+                                                  sölte ouch verschaffen, das es noch cristenlichem
+                                                  bruch mit dem heyligen douff versaͤchen waͤrde. So
+                                                  dann die kindbete uß sige, welle ich fůgen, wie
+                                                  ich mich mit jren jrer unghorsame halber halten
+                                                  welle. Also hand jr, myn gnaͤdig herren, allen
+                                                  bricht. Was üwers gfallens darüber, des wil ich
+                                                  garn unnderthenigklich erwarten mit bit, sömlich
+                                                  min handlen, so ich bishar im besten gedan, mir jn
+                                                  gnad ufftzůnaͤmen. Hiemit üwer ersam wyßheydt got
+                                                  befelchende. Datum den 14. hornung anno 61.</p>
+                                                  <p rend="margin-top">U[wer] ersam wyßheidt
+                                                  williger diener</p>
+                                                  <p><persName ref="Escher, Rudolf">Růdolff Äscher</persName>,
+                                                  vogt zů Gruͤningen<note type="editorial"> Es folgt
+                                                  ein Postscriptum wegen des Kirchengebäudes in
+                                                  Fischenthal.</note></p>
+                                                  <p rend="margin-top">Den fromen, erenvesten,
+                                                  fürsichtigen, wysen bürgermeyster unnd radt der
+                                                  statt<placeName ref="Zürich">Zürich</placeName>, mynen
+                                                  gnaͤdigen lieben herrenn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

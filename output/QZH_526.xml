@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_526</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_526</idno>
+          </msIdentifier>
+          <head>Anthoni Öri an
+                                                  Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-10-19"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 377</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Her burgermeister, edel, from, fest,
+                                                  fürsichtig, ersam, wiß, jnnsunders günstig, gnedig
+                                                  jr min herenn, min undertennige gůtwilige diennst
+                                                  sigend üwer ersam wißheit uß schuldiger pflicht zů
+                                                  jeder zit beforann etc. Als jr, min gnedig heren,
+                                                  mir und anderenn üweren vögten befolhenn, die
+                                                  phersonnen, so mit der verfuͤrischen<note type="critical">In der Vorlage vermutlich:
+                                                  verfaͤirerischen</note> säckt der töüffery behafft
+                                                  sind, früntlich abzemanen und zum kristennlichen
+                                                  kilchganng und anderen cristenlichen stucken sich
+                                                  zů gebruchen und die, so unghorsam sind, umb kein
+                                                  straff nach warnen nüt gen welind, diesälben
+                                                  unghorsamen gfäncklich annämen und üch, minen
+                                                  gnedigenn heren, zůschicken, so bin jch üwerem
+                                                  befälch<note type="critical">In der Vorlage:
+                                                  befächh</note> nachgangenn und zwen tag und nacht
+                                                  laßen mit allem ernst sůchenn und, so fyl müglich
+                                                  gsin zů beträtenn<note type="editorial">
+                                                  antreffen, Id. XIV, 1486.</note>, gfäncklich an
+                                                  laßen nämen und üch, minen gnedigen heren,
+                                                  zůgeschickt. Was nun üwer ersam wißheit mit dißenn
+                                                  fier phersonnen ze handlen fürnimpt, stat zů üwer
+                                                  ersam wyßheit gfallen. Hie näbent so begär jch
+                                                  üwer (min gnedigen heren) rath, wie jch mich mit
+                                                  den abgedrättnen<note type="editorial">
+                                                  geflohenen, Id. XIV, 1466.</note>phersonen söl haltenn, dänn jren nach jn die acht sind, die al wol habennd, ob jch jr gůt söle arystieren oder jn die hüßer beschlüßen oder jr hab und gůt zuͤ üwer (min gnedigen heren) handen nämen. Darunder einer, so<persName ref="Bruppach, Konrad">Cůrat Brupbach</persName>genant, gar ein bößer schädlicher verfürer jst
+                                                  und jetz nun jar und tag ein wib by jm ghan und
+                                                  etliche kinder by jrenn erzüget und sy aber nach
+                                                  nie nach<note type="critical">In der Vorlage:
+                                                  nah</note> cristentlichem bruch und üwer (min
+                                                  heren) satzung zů kilchenn und straßenn gfürt. Und
+                                                  da man jn jnn sinem huß funden und jn nach üwer
+                                                  (miner herenn) befälch jn gfäncklich welen
+                                                  annämen, da jn sine sün und file des volchs jm huß
+                                                  denen, so jnn sölen fachen<note type="editorial">
+                                                  gefangen nehmen, Id. I, 716.</note>, mit gewalt
+                                                  genomen und häfftigem dröüwen<note type="editorial"> drohen, Id. XIV, 1575.</note>,
+                                                  da jch den einen sunn ouch jn üwer (min heren)
+                                                  schloß jn der gfangennschafft hann, die anderen
+                                                  elend drunnen<note type="editorial"> entronnen,
+                                                  entwischt Id. VI, 1005-1007.</note>. Damit jch
+                                                  weder zů lützel<note type="editorial">
+                                                  wenig</note> oder fil an die sach düy, so begär
+                                                  jch üwer ersam wißheit früntlichen rath, wie jch
+                                                  mich jn der sach söl halten, bit ouch üwer ersam
+                                                  wißheit, jr min gnedig heren, welend mich alwäg
+                                                  laßen jn üwerem schutz und schirm gnedigklich
+                                                  befolhenn sind, befilch üch hiemit jn schirm
+                                                  götlicher gnaden. Datum den 19. october 88.</p>
+                                                  <p rend="margin-top">Annthonj Örij, vogt zů<placeName ref="Wädenswil">Wedjschwil</placeName></p>
+                                                  <p rend="margin-top">Den edlenn, fromen, festenn,
+                                                  fürsichten, ersamen und wysenn heren burgermeister
+                                                  unnd rath der statt Zürich, minen jnsonders
+                                                  günstigen, gnedigen, liebenn herenn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

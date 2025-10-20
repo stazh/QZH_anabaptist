@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_683</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_683</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mitwochs, den 28ten
+                                                  maij pr[aesentibu]s herr Keller unnd beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1600-05-28"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 534</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wyl<persName ref="Baltis, Jörg">Jerg Balttis</persName>,
+                                                  der wider­toüf­fer, by synner jrrigen sect belyben
+                                                  unnd widerumb zů synns glychen jnn dz lannd<placeName ref="Mähren">Merhern</placeName>züchen und
+                                                  daselbs wonnen will, soll syn güetlj<note type="editorial"> Grundstück, Id. II,
+                                                  546f.</note>, so myn g[nedig] herren von deßwegen
+                                                  zů gmeynner jrer statt hannden gnomen, wytter
+                                                  uffenthalten<note type="editorial"> zurückhalten,
+                                                  festhalten, Id. II, 1230.</note>, jmme aber
+                                                  jetzundt, wyl er dem zugefallen harkomen unnd
+                                                  etliche tag alhie verharret, vonn demselben uß
+                                                  gnaden 8 pfund<note type="critical">In der
+                                                  Vorlage: lb</note> von herren seckelm[eister]
+                                                  Kamblj<note type="editorial"> Hans Kambli
+                                                  (1554-1621)<persName ref="Kambli, Hans (1554-1621)"/></note> zugestelt
+                                                  werden und er darmit abgwißen synn, so lang biß er
+                                                  sich gehorsam erzeigt.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mitwochs, den 28ten
+                                                  maij pr[aesentibu]s herr Keller unnd beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

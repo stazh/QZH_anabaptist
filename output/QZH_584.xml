@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_584</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_584</idno>
+          </msIdentifier>
+          <head>Urteile gegen Isaak Hartmann und Heinrich Wyß</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1590-05-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 435</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wiewol Hartman von der wider myn herren
+                                                  ußgossner reden wegen, als sich dann die durch
+                                                  khundtschafft<note type="editorial">
+                                                  Zeugenaussage, Zeugenbeweis, Id. III, 353.</note>
+                                                  uff jnne erfunden, ein hertere unnd rüchere straf
+                                                  verdiennet hette, also das myn herren wol fůg
+                                                  gehept, jnne an lyb oder ehren zestraffen, habent
+                                                  sy, myn herren, angesechen<note type="editorial">
+                                                  Rücksicht nehmen, Id. VII, 554.</note>, das er von
+                                                  ehrlichem gschlecht unnd mitt vil kinderen aber
+                                                  wenigs gůts begabet, unnd jme zůstraff unnd bůß
+                                                  usß gnaden uferlegt, namlich das er x pfund<note type="critical">In der Voralge: lb.</note> also
+                                                  bar erlegen unnd fürterhin jnn der wuchen unnd
+                                                  sontst jnn dhein<note type="editorial">
+                                                  kein</note> wirtzhuß, zunfft noch gsellschaft oder
+                                                  andere winckel zum wyn mehr gan, sonders daheimen
+                                                  blyben, doch möge er an einem sonntag wol zů synen
+                                                  meister, aber zů rechter zyt widerumb heim gan
+                                                  unnd sich synem anerpieten nach gmeß halten.</p>
+                                                  <p rend="margin-top">Glychermaaßen hetten myn
+                                                  gnedig herren Heinrich Wyßen wol einn straf
+                                                  uflegen mögen, diewyl er über die jme vorhin
+                                                  bewißne gnad erst siderhar sich wyther mit synen
+                                                  jrrigen meinung[en] jnn ein und den anderen weg
+                                                  unnd sonderlichen, umb das er hinderrucks deß
+                                                  truckerherren ein sectisch täfelj<note type="editorial"> Einblattdruck, vgl. Id. XII,
+                                                  500-507.</note> trucken lassen, unnd das ouch er
+                                                  dem Hartman einen so schandtlichen brief
+                                                  zůgeschriben unnd sontsten zůgeredt<note type="editorial"> beschimpfen, Id. VI, 57.</note>
+                                                  etc. Sidtmalen<note type="editorial"> da, weil,
+                                                  Id. IV, 147.</note> aber er<note type="critical">«er» über der Zeile</note> ein armer<note type="critical">Folgt gestrichen: be</note> gsell
+                                                  unnd das, als er anzeigt, uß unwüssenheit unnd
+                                                  großem zorn gethan, sich darnebent fürterhin
+                                                  söllicher sachen abzethůn unnd mynen herren<note type="critical">«herren» über der Zeile</note>
+                                                  zůgehorsamen anerpotten, wellent myn herrn recht
+                                                  das besser glouben und habent jnne (wie ouch den
+                                                  Hartman), so der kosten erleit, der gfangenschafft
+                                                  uff ein gwonlich urfechd ledig khendt, doch das
+                                                  jme, Wyßen, syn schůlhalten von khünfftiger
+                                                  fronfast pfingsten hin von jungen und alten knaben
+                                                  abgestrickt<note type="editorial"> verboten, Id.
+                                                  XI, 2194.</note> syn, vorbehalten das syn frouw
+                                                  wol meitly schůl als bißhar halten möge. Hienebent
+                                                  sy beid für<note type="editorial"> vor</note> rath
+                                                  gestelt unnd durch herrn burgermeister mit jnen
+                                                  eins und gnůg gredt werden. Und wo sy mit
+                                                  minderm<note type="editorial"> Geringerem</note>khommen, man jnen alts und nüws zesammen geben werde. Actum mentags den 4ten maij anno etc. 90 pr[aesen]t[ibus] herr<persName ref="Thomann, Kaspar">burgermeister Tomman</persName>unnd beid
+                                                  reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

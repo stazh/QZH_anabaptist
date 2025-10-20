@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_507</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_507</idno>
+          </msIdentifier>
+          <head>Zweites Verhör und Urteil gegen Balthasar
+                                                  Maler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-08-13"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 358</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem vorgemelte<note type="editorial">
+                                                  bereits erwähnt</note> myn herren, die
+                                                  verordneten, widerumb zů Balthasar Malern jnn
+                                                  gfangenschafft kert, jme üwer (myner gnedigen
+                                                  herren) urteil, als das er uff ein gwonlich
+                                                  urfechd der gfangenschafft erlassen unnd jme darby
+                                                  angezeigt worden<note type="critical">In der
+                                                  Vorlage: werden</note>, das wo er sich synem
+                                                  anerbieten nach nit gmeß hielte unnd söllich
+                                                  urfechd übersechen wurde, sölle er nit als ein
+                                                  ­toüf­fer, sonder als ein meineiden man gebuͤßt
+                                                  unnd gestrafft werden, wellich urfechd<note type="critical">Folgt gestrichen: jnne
+                                                  zesch</note> zethůn, er sich treffenlichen<note type="editorial"> stark, besonders, Id. XIV,
+                                                  393.</note> beschwert mit anzeigung, das er
+                                                  sölliches jnn syner gwüssne nit finden, diewyl es
+                                                  jnn dem gsatz gottes verbotten. Das er aber sich
+                                                  vormaln solliches zethůn<note type="critical">Folgt gestrichen: sich</note> anerbotten, syg uß
+                                                  bewegung synes vatter<note type="critical">Folgt
+                                                  gestrichen: beschehen</note> unnd uß forchtsamem
+                                                  hertzen beschehen, das aber jnne siderhar übel
+                                                  geruwen mitt demuͤtigem bitten, soverr<note type="editorial"> sofern</note> man jnne nit hie
+                                                  wonnen lassen welle<note type="critical">«welle»
+                                                  über der Zeile, in der Zeile gestrichen: welle, so
+                                                  begere mir von üch</note>, jr, myn g[nedig]<note type="critical">Korrigiert, ursprünglich:
+                                                  mynen</note> herren<note type="critical">Folgt
+                                                  gestrichen: ein</note>, wellint jme ein
+                                                  manrecht<note type="editorial"> amtlicher Ausweis,
+                                                  Id. VI, 290.</note>, synen nutz anderschwo
+                                                  zeschaffen, geben unnd zustellen.</p>
+                                                  <p rend="margin-top">[Zweites Urteil:] Wiewol von
+                                                  mynen gnedigen herren, als hievor stadt,
+                                                  erkendt<note type="editorial"> urteilen, amtlich
+                                                  festsetzen, Id. III, 313.</note>, das Maler uff
+                                                  syn gethanes anerbieten, myner gnedigen heren
+                                                  mandatha den klichgang ald<note type="editorial">
+                                                  oder</note> anders betreffende, deßglychen jnnen
+                                                  zehulden unnd gehorsame zeschweeren, nit mehr
+                                                  zewidersetzen, sonder zů gehorsammen, uff ein
+                                                  gwonlich urfecht der gfangenschafft zeerlassen,
+                                                  hatt er sich domals, dasselbig urfechd zethůn,
+                                                  beschwert, als das er sölliches jnn syner gwüßne
+                                                  nit finden könne, sind myn gnedig heren
+                                                  verursachet worden, myn herren, die verordnetten,
+                                                  sampt herrn Hanns Růdolff Stumpffen unnd h[errn]
+                                                  Burckharten Leeman, ob sy<note type="critical">«ob
+                                                  sy» über der Zeile</note> nachmaln jnne mitt
+                                                  guͤtte oder durch<note type="critical">«oder
+                                                  durch» über der Zeile, in der Zeile gestrichen:
+                                                  unnd</note> bewyßung<note type="critical">korrigiert, ursprünglich: bewyß</note> göttlicher
+                                                  gschrifft dahin bringen mögind, zeschicken,
+                                                  wellichem bevelch sy, myn herren die verordnetten,
+                                                  gehorsamet unnd jnne dahin bewegt, das er den
+                                                  kilchgang zůbesůchen, mynen gnedigen herren<note type="critical">Folgt gestrichen: ze</note>
+                                                  fürterhin zehulden unnd zeschweren und jnn den
+                                                  zünfften unnd, was derselben satzungen vermögent,
+                                                  zeghorsammen gelopt unnd geschworen, jst er daruf
+                                                  der gfangenschafft erlassen worden.</p>
+                                                  <p>Actum zinstags den 13ten augustj a[nn]o etc. 88 pr[aesen]t[ibus]<persName ref="Stumpf, Hans Rudolf">herr Stumpff</persName>,<persName ref="Leemann, Burkhard">h[err] Leeman</persName>von
+                                                  gelehrten, h[err] landtvogt Schmid<note type="editorial"><persName ref="Schmid, Matthias">Matthias Schmid</persName></note>, m[eister]<persName ref="Wiederkehr, Bernhard">Bernhart Widerkher</persName>unnd m[eister]<persName ref="Kippenhan, Hans">Hanns Kipenhan</persName>von
+                                                  rethen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

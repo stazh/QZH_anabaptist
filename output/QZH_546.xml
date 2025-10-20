@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_546</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_546</idno>
+          </msIdentifier>
+          <head>Gegenargumente von Hans Rudolf
+                                                  Stumpf zum
+                                                  Schreiben des Täufers Andres Gut</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 397</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ad supplicationem anabaptistarum, die gstelt
+                                                  und gmacht durch Andreß Gůten von<placeName ref="Affoltern am Albis, Zwillikon">Zwilligkon</placeName>jn der pfarr
+                                                  Affholterem von waͤgen der teüfferen jm Fryenampt
+                                                  an<note type="critical">In der Vorlage: and</note>den e[hren] v[esten] j[unker] Heinrichen Meyer<persName ref="Meyer von Knonau, Hans Heinrich">von Knonow</persName>, lantvogt
+                                                  zů<placeName ref="Knonau">Knonow</placeName>.</p>
+                                                  <p>Das man den teüfferen mit ernst soͤlle
+                                                  widerston:</p>
+                                                  <p>1. Das<note type="critical">Wort (das) in der
+                                                  Vorlage wiederholt</note> dz ampt syge der
+                                                  kilchendieneren und der oberkeit.</p>
+                                                  <p>2. Das der widerteüffer sect vil boͤser und
+                                                  schaͤdlicher, dann man aber woͤlle achten.</p>
+                                                  <p>3. Das sy jnn der leehr greweliche, unzalbare
+                                                  jrthumben, gotzlesterungen und den seelen
+                                                  verdamliche sachen leerend und ynfuͤrend.</p>
+                                                  <p>4. Das sy aller christlicher ghorsame, zucht,
+                                                  usserlichem gotzdienst zewider, alle unghorsame
+                                                  pflanzind und mißbruchent zum dekmantel den namen
+                                                  gottes, Jesu Christi, heilige gschrift, evangelion
+                                                  und wort gotz.</p>
+                                                  <p>5. Das jre sect und verfuͤrung wider das wort
+                                                  gotz, wider die lehr der alten vatter alls
+                                                  Augustini und anderer, die wider die Donatisten
+                                                  geschriben, deren verdampte jrthum die teuffer
+                                                  widerumb uff die ban bracht oder [der] teufell
+                                                  durch sy.</p>
+                                                  <p>6. Das sy hartneckig über und wider allen
+                                                  bericht, gespraͤch und disputationen, jnn denen sy
+                                                  vil und gnůg verhoͤrtt<note type="editorial">
+                                                  anhören</note>, ouch jr bůch und verantwortung,
+                                                  damitt sy sich nitt zeklagen, allhie jnn der statt<placeName ref="Zürich">Zürich</placeName>getrukt
+                                                  worden<note type="editorial">In Zürich wurden die Dispuation mit<persName ref="Pfistermeyer, Hans">Hans Pfistermeyer</persName>in Bern 1531 und die
+                                                  Disputation in Zofingen 1532 gedruckt (vgl. QGTS
+                                                  4, S. 1-256).</note> sampt wytleüffiger und
+                                                  überflüssiger verantwortung und widerlegung des
+                                                  gantzen gschwarnn<note type="editorial"> Haufe,
+                                                  vgl. <hl to="http://fwb-online.de/go/geschw%C3%A4rm.s.2n_1646375948"><Hyperlink>http://fwb-online.de/go/geschw%C3%A4rm.s.2n_1646375948</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> jrer
+                                                  vilfaltigen jrthumben und secten.</p>
+                                                  <p>7. Das solicher jren verharrlicher kyb<note type="editorial"> Zank, vgl. Id. III, 100ff. u.
+                                                  108.</note> und fraͤvel offentlich syge wider
+                                                  unsrer kilchen angnomne und uß gottes wort
+                                                  erhaltner reformation, wider allgemeine ußgangne
+                                                  gloubens confession der evangelischen kilchen und
+                                                  stetten der eidgnoschaft<note type="editorial">
+                                                  Das Zweite Helvetische Bekenntnis</note> unnd
+                                                  wider unsre g[nädigen] h[erren] wolgestelte und
+                                                  gottes wort gegründte satzungen und entlich wider
+                                                  der evangelischen stetten<note type="critical">Folgt gestrichen: absch</note> arowischen
+                                                  abscheid anno [1585]<note type="editorial"> Vgl.
+                                                  Nr. 322.</note>, ouch wider unsrer g[nädigen]
+                                                  h[erren] burgermeisters und ers. wyßen <nswk/>
+                                                  rhatz erkantnuß<note type="editorial"> nicht
+                                                  überliefert</note>, so beschaͤchen uff der
+                                                  kilchendienern<note type="critical">Folgt
+                                                  gestrichen: fur</note> von statt und land
+                                                  fürtrag<note type="critical">Folgt gestrichen: so
+                                                  b</note> 31. Julij anno 1588.<note type="editorial"> Vgl. Nr. 354.</note></p>
+                                                  <p>8. Das die widerteüffer under keinen
+                                                  christelichen oberkeiten, fürsten, herren<note type="critical">Folgt gestrichen: noch rechten
+                                                  regimenten</note>, jnsonders under evanglischen
+                                                  reformierten kilchen und regimenten nitt geduldet
+                                                  werdend.</p>
+                                                  <p>9. Das wir von papisten und lutherischen one
+                                                  underlass ann den kanzlen, jnn geschriften und
+                                                  sonst<note type="critical">Folgt gestrichen:
+                                                  under</note> zů den anabaptisten<note type="critical">In der Vorlage: anaptisten</note>
+                                                  und widerteüffer gezelt und verschreyet muͤssind
+                                                  werden umb keiner anderen ursach willen, dann das
+                                                  nitt allein sy, die widerteüffer, under uns bißhar
+                                                  jr ruͤwigen underschlouff ghan, jre zamenkommungen
+                                                  und winkelschlüffenen geduldet, sonder ouch ein
+                                                  lange zyt one einiches schüchen sy vil hundert
+                                                  personen alls uß unsern landen und gepieten hinab
+                                                  in<placeName ref="Mähren">Maͤrhern</placeName>gefuͤrt
+                                                  worden, ja ouch die rechten redlifuͤrer uß unserm
+                                                  vatterland pürtig und ursprünglich, so doch<note type="critical">Wort (doch) wiederholt</note>
+                                                  keiner anderer kilchendiener und -leerer
+                                                  trüwlicher und ernstlicher mitt predigen,
+                                                  disputieren und ußgangnen schriften sich diser
+                                                  seckt ernstlicher widersetzt.</p>
+                                                  <p>10. Das, wo man jrenthalben nit ernstliches und
+                                                  wolbedachten jnsaͤchen<note type="editorial">
+                                                  Vorkehrung, Id. VII, 563.</note> thůn, hoͤchlich
+                                                  zebesorgen, by diser verdorbnen waͤlt unnd da wir
+                                                  leider vom baͤttlenden volk bald übermeeret
+                                                  moͤchtind werden, so soͤliche winkel prediger<note type="editorial"> Prediger ohne Amt</note> nitt
+                                                  abgstelt, was entlich zů erwarten, wenn dem
+                                                  gmeinen verdorbnen huffen dise öffentliche bekante
+                                                  artikel der widerteüffer soͤltind yngeschwaͤtzt
+                                                  werden: Das man kein eid schwerren, noch mitt dem
+                                                  eid sich zur ghorsame solle binden laßen; das ob
+                                                  man glych ein oberkeite haben soll und můß, so
+                                                  gebüre doch soliches ampt keinem christen, dann
+                                                  ein christeman sol nitt toͤden, soͤlle ouch dem
+                                                  boͤsen nitt widerston; mann soͤlle nitt dem fyend
+                                                  widerston mit wehr und waffen; man alle guͤter
+                                                  gmein haben, ein christ moͤge nüth eigens
+                                                  besitzen; mann soͤlle keinen übelthäter toͤdten,
+                                                  sonder der bessreung und bůßvertikeit erwarten; sy
+                                                  moͤgend durch dz gsatzt und ire werk saͤlig
+                                                  werden; sy sygind volkommen, mogind zur
+                                                  volkommenheit kommen, dz sy<note type="critical">«sy» über der Zeile</note> nit meer sündind; was
+                                                  sy anfahend, redend und thůnd, syge alles geist
+                                                  under dem schyn, sy etwo grossen grewel
+                                                  verthaͤdingen woͤllen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

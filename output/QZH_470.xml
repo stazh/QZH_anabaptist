@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_470</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_470</idno>
+          </msIdentifier>
+          <head>Theologisches Gutachten für die evangelische
+                                                  Tagsatzung in Aarau Das
+                                                  vorliegende Gutachten der Berner, Zürcher, Basler
+                                                  und Schaffhauser Theologen wurde am 5. Juli an der
+                                                  evangelischen Tagsatzung in Aarau vorgestellt. Es
+                                                  baut auf dem Gutachten der Zürcher Theologen
+                                                  (StAZH E I 7.2, Nr. 120) auf, das am 3. Juli dem
+                                                  Zürcher Rat vorgestellt worden ist (vgl. Nr. 319
+                                                  und die Anrede in Anm. a). Auf diese Zürcher
+                                                  Vorstufe wird im textkritischen Apparat unter dem
+                                                  Sigel T1 verwiesen. Ausserdem wird für die Edition
+                                                  als dritter Textzeuge (T3) das Zürcher Exemplar
+                                                  des eidgenössischen Abschieds, wo das Gutachten im
+                                                  Wortlaut übernommen ist, herangezogen (StAZH E I
+                                                  7.3, Nr. 9).</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 321</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>From, edel, vest, fürsichtig, ersam<note type="critical">Folgt in T1: und wyß h[err]
+                                                  burgermeister (statt «wyß und»)</note>, wyß und
+                                                  gnedig lieb herrenn. Uff e[uer] e[rsam] w[ysheit]
+                                                  anforderen unnd begärenn, daß wir ein ratschlag
+                                                  stellind, durch<note type="critical">laut T3, in
+                                                  der Vorlage: das</note> was mittel der ­toüf­fery
+                                                  zů weren unnd wie die ­toüf­fer, sonderlich die
+                                                  lehrer under inen, zů straffenn, gebend wir disen
+                                                  kurtzen und einfaltigen bericht.</p>
+                                                  <p>Daß vonn e. e. w. ehrlichen vorfaren, zů deren
+                                                  ziten dise schädliche sect entsprungen, ouch
+                                                  siderhar vil gůter loblicher satzungen gmacht<note type="critical">In der Vorlage: gemaht</note>
+                                                  sind, wie man sich gegen disen lüthen mitt der
+                                                  straff und in anderwäg halttenn solle, da wir nitt
+                                                  meinend von nöten sin, vil unnd wittloüffig darvon
+                                                  zůschriben, aber schuldige ghorsamme ü[wer]
+                                                  e[rsam] w[ysheit] zůleisten, wöllend wir kurtz
+                                                  unnser gůtt beduncken anzeigen.</p>
+                                                  <p>Die ­toüf­ferij abzůstellen, wirtt vor allenn
+                                                  dingen nottwendig sin, das man den brunnen
+                                                  verstopffe, daher dise schädliche sect flüßt und
+                                                  entspringt. Dan so lanng man dem anfang und
+                                                  ursprung nit werth, so ist alle arbeitt umbsonst.
+                                                  Das aber ist ein ursach, das sich ouch fromme
+                                                  gottsfürchtige lütt, die Cristum vonn hertzen
+                                                  sůchennd, von unsern kilchen trännend und
+                                                  absünderent, das alle ständ verbößert unnd deren
+                                                  leider wenig sind, die sich in irem handel und
+                                                  wandel erzeigind, wye si soltend. Dann | [fol. 1v]
+                                                  wir<note type="critical">«dann wir» von anderer
+                                                  Hand unter der Zeile und am Rand, in der Zeile
+                                                  gestrichen: das das müßtend wir. T1: Dann das
+                                                  müssend wir.</note> müßend bkennen, das<note type="critical">«das» von anderer Hand über der
+                                                  Zeile</note> in unnserem stannd under den
+                                                  predigkanten ettlich funden werden, die unflißig
+                                                  im predigen sind, darnebend ein ergerlichen wandel
+                                                  fürend, dem liederlichenn leben und
+                                                  trunckenheit<note type="critical">T1: der
+                                                  trunkenheit und liederlichen läben</note>, dem
+                                                  gyt<note type="editorial"> Geiz</note> und anderem
+                                                  derglichen lasteren ergäben sind. So wirtt in
+                                                  weltlichem stand ouch leider übel gfält von
+                                                  oberenn und underthanen (dan wie offentlich am tag
+                                                  lit), dann<note type="critical">«dann» von anderer
+                                                  Hand über der Zeile, in der Zeile gestrichen: so
+                                                  gant; «dann» fehlt in T3. T1: so gand</note>
+                                                  schwere offenliche<note type="critical">«offenliche» von anderer Hand am Rand mit
+                                                  Verweiszeichen; die Ergänzung fehlt in T1.</note>
+                                                  laster als trunckenheit, ehbruch, wůcher, hoffart,
+                                                  flůchen und schweeren<note type="critical">«flůchen und schweeren» von anderer Hand am Rand
+                                                  mit Verweiszeichen; die Ergänzung fehlt in
+                                                  T1.</note> unnd andere derglichen im
+                                                  schwanck.<note type="critical">Folgt in T1: So
+                                                  bringt auch das nit ein kleins ergernuß und anstoß
+                                                  bj fromen gotsfürchtigen lüten, das ettlich deren,
+                                                  die sich zum h[eiligen] evangelio bekennend, mitt
+                                                  den verfolgeren desselben sich in pündnussen von
+                                                  nüwem begäben habend und um gelts willen kriegend.
+                                                  - Die in diesem Satz geäusserte Kritik an der
+                                                  Bündnispolitik und am Solddienst war für den Stand
+                                                  Bern nicht annehmbar, weshalb er im
+                                                  eidgenössischen «Bedenken» weggelassen
+                                                  wurde.</note></p>
+                                                  <p>Da vermeinend wir, wenn ein ersamme ober­kheitt
+                                                  gůte satzungen, wider obernampte laster ußgangen,
+                                                  ernstlichen hant habe, schand unnd laster straffe,
+                                                  ouch die predigcanten selbs ein ernsthafften
+                                                  zügsamen<note type="editorial"> bescheiden,
+                                                  sittsam, Id. XVII, 760.</note>
+                                                  <note type="critical">Folgt gestrichen: hat</note>
+                                                  wandel fürind, werden die ­toüf­fer keinen anlaß
+                                                  haben, sich vonn uns abzusünderenn. Dann<note type="critical">«Dann» am Rand</note> was die
+                                                  exempel zů gůtem unnd bösem vermögind, lehrt die
+                                                  teglich erfarnus. Aber zů recht gschaffner ler und
+                                                  frommem<note type="critical">Laut T1 und T3; in
+                                                  der Vorlage: frommen</note> läbenn der
+                                                  predicanten<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: predigcanten</note>
+                                                  mögend die synodi oder capitel, so sy recht
+                                                  ghaltten, wol helffenn. Es habend glychwol etliche
+                                                  orth vergangner jaren<note type="critical">«Es
+                                                  habend … vergangner jaren» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen: Die
+                                                  herren von Bernn habend: T1: Die herren von Bern
+                                                  habend.</note> zů bestimpten zythen hin und wider
+                                                  uff irer lantschafft capittel ghalten, darby
+                                                  ettliche vonn<note type="critical">Folgt in T1:
+                                                  iren</note> räthen, burgeren unnd predicanten uß
+                                                  inen<note type="critical">Folgt gestrichen: statt.
+                                                  T1: uß ir statt</note> erschinnen sind, jnn
+                                                  wölchen capittlen sy die obervögt,
+                                                  grichtsherrenn<note type="critical">T3: obervögt
+                                                  unnd grichtsherrn</note>, schaffner<note type="critical">Folgt gestrichen: unnd</note>,
+                                                  undervögt, ehgoumer<note type="editorial">
+                                                  Vertreter der Sittenzucht, Id. II, 304.</note> und
+                                                  andere biß uff den sigristen ußgstelt<note type="editorial"> vor die Versammlung stellen, Id.
+                                                  XI, 164.</note> unnd censiert oder irenthalben ein
+                                                  nachfrag ghept<note type="critical">Folgt
+                                                  gestrichen: habennd. T1: habend.</note>,
+                                                  deßglichenn der<note type="critical">Folgt
+                                                  gestrichen: schůlmeisteren unnd</note>
+                                                  predigcanten unnd schůlmeisteren, und die
+                                                  straffwürdigen nach gstalt der sachen gstrafft,
+                                                  welches aber nun vil jar lang villicht nit on
+                                                  ursach<note type="critical">Folgt gestrichen:
+                                                  nit</note> underlaßen worden, da gleüblich,
+                                                  daß<note type="critical">«daß» von anderer Hand
+                                                  über der Zeile</note> der predigcanten und
+                                                  amptlüthenn | [fol. 2r] hinleßigkeitt<note type="critical">Folgt gestrichen: das</note> uß
+                                                  solchem anlaß und allerlej unordnung nit ab-,
+                                                  sonder zůgnommen. Derhalbenn unnsers bedunckens
+                                                  nit ein kleinfügs<note type="editorial"> gering,
+                                                  Id. I, 701.</note> mittel sin wurde, dardurch
+                                                  solches verbeßeret und hiemitt der töüffery
+                                                  desterbaß<note type="editorial"> desto
+                                                  besser</note> gewörth<note type="editorial">
+                                                  gewehrt</note> möcht werden,<note type="critical">«welches aber nun vil jar lang villicht nit on
+                                                  ursach … werden.» fehlt in T1.</note> so man
+                                                  gmeinlich oder glych nach jedes orths
+                                                  gelegenheit<note type="critical">«gmeinlich oder
+                                                  glych … gelegenheit» von anderer Hand am Rand mit
+                                                  Verweiszeichen; diese Ergänzung fehlt in
+                                                  T1.</note> diser ordnung nachmalen ernstlich und
+                                                  flyßig<note type="critical">«und flyßig» über der
+                                                  Zeile. T1: […] ordnung ernstlich nachgat, wirt es
+                                                  ein forcht bringen.</note> nachgiengi, dan es ein
+                                                  forcht bringen wurde, das ein jeder dester<note type="critical">Folgt gestrichen: beßer</note>
+                                                  gflißner in sinem bevolchnen ampt sin, ouch in
+                                                  sinem thůn unnd laßen ein größerenn ernst, dan
+                                                  bißhar möchte beschächenn, sin erzeigenn
+                                                  wurde<note type="critical">T1: wirt
+                                                  erzeigen</note>. Deßglichenn das die reformation
+                                                  satzungen cristenlicher dißciplin und der straff
+                                                  der laster halben nit nun widerumb ernüwert,
+                                                  sonder mitt ernst so vil müglich darob ghaltten
+                                                  werde, damit der großen und<note type="critical">«großen und» am Rand mit Verweiszeichen</note>
+                                                  vilfaltigen ergernus deß gottloßen wesens der
+                                                  welt, so von den ­toüf­feren für und für wirt
+                                                  fürgworffen, gewördt, und hiemit solche
+                                                  entschuldigung irer absünderung jnen gentzlichen
+                                                  entzogen unnd gnommen werde.<note type="critical">«Deßglichenn das die reformation … gnommen
+                                                  werde.» fehlt in T1.</note></p>
+                                                  <p>Daß ander mittel<note type="critical">In der
+                                                  Vorlage ist am Rand «Das ander mittel» und «gehört
+                                                  hernach zes[…]» (mit Verweiszeichen) zu lesen. Die
+                                                  Edition gibt den Text entsprechend diesen
+                                                  Anweisungen wieder.</note>, der ­toüf­ferischen
+                                                  sect zů wehren, ist, das die diener der kilchen
+                                                  und | [fol. 2v] schůlen allenthalben in stetten
+                                                  und dörfferen den kinderbricht flißig halttind.
+                                                  Dan wan man die gründ der cristenlichen lerr wol
+                                                  legt, so werdent die lüth hernach dester weniger
+                                                  verfuͤrt. Demnach das ouch die pfarrer, wenn sy
+                                                  komlichen anlaß habind, die argumenta oder gründ
+                                                  der wider­toüf­feren schädlichenn articklen in
+                                                  iren predigen widerlegind und sy ernstlich vor
+                                                  inen<note type="critical">Folgt gestrichen:
+                                                  ze</note> warnind<note type="critical">Ursprünglich: ze warnen; nachträglich korrigiert.
+                                                  T1: ire zuhörer flyssig unerrichtind (statt «in
+                                                  iren predigen … warnind»)</note>, damit sy wider
+                                                  alle verfuͤrung gesterckt werdind. Sy sollend<note type="critical">Ursprünglich: sollen (d
+                                                  nachtgrählich ergänzt)</note> auch<note type="critical">«auch» am Rand, fehlt in
+                                                  T1.</note> dem volck anzeigen, das sy<note type="critical">T1: es</note> kein rechtmeßige
+                                                  ursach habind<note type="critical">Ursprünglich:
+                                                  haben. T1: habe</note>, ein sünderung zemachen,
+                                                  diewil man gottes wort predige und offentliche
+                                                  abgöttery abgsteltt sye.</p>
+                                                  <p>Zů dem bringt ouch das vil, wenn die pfarrer zů
+                                                  den ­toüf­feren in ire hüser gond oder sy zů inen
+                                                  bschickend, um sich früntlich uß göttlichem wort
+                                                  mit inen aller stucken und articklen halben, daran
+                                                  sy ettwas mangels habennd, unterredend. So denn,
+                                                  wenn gott beßere zitt<note type="critical">T1:
+                                                  ziten</note> gebe, bedunckhte unß fruchtbar sin,
+                                                  das<note type="critical">«das» von anderer Hand
+                                                  über der Zeile, in der Zeile gestrichen: wenn. T1:
+                                                  wenn.</note> ein gmeine disputation oder gsprech
+                                                  an einem glegnen komlichen<note type="editorial">
+                                                  passend, geeignet, Id. III, 285.</note> platz mitt
+                                                  den wider­toüf­feren ghaltten wurde, dorzů man sy
+                                                  beleittete<note type="critical">T1:
+                                                  begleitete</note> und brůffte, ouch die artickel
+                                                  vorhin ließe ußgan, dorvonn man disputieren welte.
+                                                  Dan ob glich die rechten redlifuͤrer und
+                                                  bickelmeister<note type="editorial"> Anzettler,
+                                                  Rädelsführer, Id. IV, 519.</note> dardurch nit
+                                                  bekhert, köndtenn sy sich doch nit klagen (wie sy
+                                                  aber by einfalten lüthen thůnd), das sy nit
+                                                  gnůgsam verhört<note type="editorial">
+                                                  angehört</note> werind, oder das die predigcanten
+                                                  das liecht schüchind. Es wurdend ouch dardurch
+                                                  ander, die sich durch faltsch fürgeben von jnen
+                                                  verfuͤren laßenn,<note type="critical">Folgt in
+                                                  T1: mögen</note> bekhert werden. Von der helgenn
+                                                  apostel zit an ist der bruch gsin, wenn irthummb
+                                                  fürgfallen, | [fol. 3r] daß man synodos<note type="critical">Nachträglich korrigiert,
+                                                  ursprünglich: sinodes</note> oder gspräch ghaltenn
+                                                  hatt, wie inn gschichtenn der heiligen botten am
+                                                  15. capittel zůsechenn.<note type="editorial"> Apg
+                                                  15,1-34.</note> Es were ouch nichts nüws,
+                                                  sonder<note type="critical">Folgt in T: hie</note>
+                                                  zů Zürich<note type="critical">Folgt gestrichen:
+                                                  unnd</note><placeName ref="Zürich"/>,<placeName ref="Bern">Bernn</placeName>und Basel<note type="critical">«und Basel» von anderer Hand am
+                                                  Rand mit Verweiszeichen. T1: Zurich und
+                                                  Bern.</note><placeName ref="Basel"/> ist glichs
+                                                  brucht worden.<note type="editorial"> Gemeint sind
+                                                  die drei 1525 in Zürich durchgeführten
+                                                  Täuferdisputationen, das Basler Täufer­ge­spräch
+                                                  1525 und drei Täufergespräche im Berner
+                                                  Territorium in den Jahren 1531, 1532 und
+                                                  1538.</note> Es hatt ouch vor wenig jaren der
+                                                  durchlüchtig fürst pfaltzgraff am<placeName ref="Kurpfalz">Rhin</placeName>loblicher gedechtnus nitt one
+                                                  frucht ein sonderlich<note type="critical">T1:
+                                                  somlich</note> gespräch mit den ­toüf­feren zů<placeName ref="Frankenthal">Franckenthal</placeName>offentlich haltten und daßelbig hernach in truck
+                                                  ußgann laßen.<note type="editorial"> Protocoll.
+                                                  Das ist/ Alle handlung des Gesprechs zu
+                                                  Franckenthal inn der Churfürstlichen Pfaltz/ mit
+                                                  denen so man Widertäuffer nennet/ Auff den 28. May
+                                                  angefangen/ vnd den 19. Junij dises 1571. jars
+                                                  geendet, Heidelberg 1573 (VD16 P 5106).</note> So
+                                                  were der kostenn nitt vil großer, den wen man die
+                                                  ­toüf­fer sunst hin unnd wider gfengklich annimpt
+                                                  und jnn gfengnus mitt spis und<note type="critical">«und» fehlt in T1.</note> tranck
+                                                  und anderer noturfft versicht.</p>
+                                                  <p>Wie man aber gegenn denen lüthen, namlich den
+                                                  ­toüf­feren, mitt der straff faren solle, darvon
+                                                  fürnemlich gefragt wirt, jst einfalt unnser
+                                                  meinung. Diewil die widertoüfer unglich, kan man
+                                                  die straff nit glichlichen fuͤrenn. Vil under inen
+                                                  sind schlechte<note type="editorial"> einfach,
+                                                  schlicht, Id. IX, 49.</note>, frome, einfalte
+                                                  lüth, deren ettlich weder schriben nach<note type="editorial"> noch</note> lesen können und
+                                                  sich vornacher<note type="editorial"> vorher, Id.
+                                                  II, 1564 .</note> alweg ehrlich gehalten haben,
+                                                  mit wölchen ein mittlidenn zehaltten<note type="critical">T1: zu haben</note> ist, dan sy
+                                                  haben ein jfer und wolten gern selig werdenn.<note type="critical">Folgt gestrichen: und. T1:
+                                                  und.</note> Diewil sy aber<note type="critical">«aber» von anderer Hand am Rand mit
+                                                  Verweiszeichen</note> sechenn, wie lasterhafft die
+                                                  welt gmeinlich ist, vermeinend sy, sy mögind nit
+                                                  selig werden, wenn sy sich vonn derselbenn nit
+                                                  absünderent. Dargegen sind under inen vil
+                                                  abgfeimbte bůben, die dise einfalten lüth mit
+                                                  glatten wortten und faltschem fürgeben<note type="editorial"> Angaben, Aussagen, Id. II,
+                                                  90.</note> hindergonnd und mithin das iren
+                                                  sůchend.</p>
+                                                  <p>Daß aber ein cristenliche ober­kheit ­toüf­ferj
+                                                  | [fol. 3v] ungstrafft konne hin gan laßen, daß
+                                                  kan sy nit, dan das were wider ir pflicht und
+                                                  schuld. Man sol ouch die ­toüf­fery nit so
+                                                  ring<note type="editorial"> gering</note> achten,
+                                                  wie vil thůnd, dan sy, die wider­toüf­fer, habend
+                                                  vil schädlicher<note type="critical">Folgt
+                                                  gestrichen: und</note>, erschrockenlicher und
+                                                  griffenlicher<note type="critical">«und
+                                                  griffenlicher» von anderen Hand am Rand; die
+                                                  Ergänzung fehlt in T1.</note> irthumben von vilen
+                                                  articklen etc. Dann sy nit allein den kindertauff
+                                                  verwerffend und durch iren widertauf schendent,
+                                                  darzů von des herren nachtmal<note type="critical">Folgt gestrichen: schlechtlich</note> wenig
+                                                  halttend, sonder irrend auch im rächten
+                                                  hauptpuncten der christentlichen leer.<note type="critical">Folgt gestrichen: gröblich
+                                                  irrend</note> Dann sy gebend für<note type="editorial"> fürgeben: äussern, weis machen,
+                                                  Id. II, 90.</note>, das sy durch ire eigne werk
+                                                  und liden sälig werdint, lärend<note type="critical">«lärend» über der Zeile, in der
+                                                  Zeile gestrichen: keerend.</note> hiemitt uß den
+                                                  thüren verdienst unsers <nswk/> herren Jesus,
+                                                  durch wellchen wir allein deß heils teilhaftig
+                                                  werdend.<note type="critical">«Dann sy nit allein
+                                                  … teilhafftig werdend» von anderer Hand am Rand
+                                                  mit Verweiszeichen; die Ergänzung fehlt in
+                                                  T1.</note> Durch ire ler werden alle cristenliche
+                                                  kilchen verwirt und<note type="critical">«verwirt
+                                                  und» von anderer Hand am Rand</note> zerstört,
+                                                  deßglichen<note type="critical">«alle cristenliche
+                                                  kilchen verwirt und zerstört, deßglichen» fehlt in
+                                                  T1.</note> die reigiment<note type="critical">T3:
+                                                  regement.</note> unnd hushaltungen zerrütet, dan
+                                                  sy wenden mencklich<note type="editorial">
+                                                  jeder</note> ab von ordenlichem kilchgang<note type="critical">Folgt gestrichen: und übung der
+                                                  heiligen sacramenten, schendent den heiligen touff
+                                                  durch iren widertouff. «wenden mencklich …
+                                                  kilchgang» fehlt in T1.</note>; lerend, kein crist
+                                                  möge im stand der oberkeit sin; nennend sy ouch
+                                                  nun<note type="critical">Satzstellung in der
+                                                  Vorlage korrigiert</note> heiden; hebend die
+                                                  rechten eid uff, dordurch die underthanen iren
+                                                  herren und oberen verbunden sind, lerend ouch, das
+                                                  man weder zins noch zechend zůgeben schuldig syge,
+                                                  und finden by verdorbnen lüthen ein großenn
+                                                  bjstand<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: bstand</note>. Item sy
+                                                  trennend die eh; fuͤrend einem<note type="critical">Nachträglich korrigiert,
+                                                  ursprünglich: eim</note> biderman sin ehlich wib
+                                                  hinweg, einer ehren frouwen ir ehman; wisent
+                                                  ouch<note type="critical">«ouch» fehlt in
+                                                  T1.</note> die kind und dienst uff<note type="editorial"> aufweisen: anstiften, verleiten,
+                                                  Id. XVI, 1939.</note>, das sy von iren elteren und
+                                                  herren louffind<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: lauffen</note>,
+                                                  deßglichen die elteren von den kinden; berouben
+                                                  ouch die kinder irer erbgůtteren, damit das sy vil
+                                                  gůts uß dem land hinweg ferggend<note type="critical">Nachträglich korrigiert,
+                                                  ursprünglich: ferggen</note>
+                                                  <note type="editorial"> fort schaffen, Id. I,
+                                                  1003.</note> und irer gselschafft<note type="critical">In der Vorlage: gschelschafft
+                                                  (korrigiert: gscellschafft)</note> in<placeName ref="Mähren">Merhen</placeName>zůeignenndt, ouch
+                                                  mitt verschleickung der zöllen und abzügen und
+                                                  anderem, so den ober­kheiten zůghörig. Sy<note type="critical">«Sy» von anderer Hand am
+                                                  Rand</note> entblößend und berouben auch<note type="critical">«auch» von anderer Hand über der
+                                                  Zeile</note> das vatterland aller hilff wider
+                                                  fyentlichen gwalt und<note type="critical">«und»
+                                                  von anderer Hand am Rand, in der Zeile gestrichen:
+                                                  sy. T1: sy; «deßglichen die elteren von den
+                                                  kinden… wider fyentlichen gwalt und» fehlt in
+                                                  T1.</note> vertribend<note type="critical">Folgt
+                                                  gestrichen: ouch. T1: auch.</note> die recht
+                                                  evangelische lerr, wie wir wüßend, an vilen orten
+                                                  beschächen sin. Unnd wo inen recht glingen möchte,
+                                                  hat man zů<placeName ref="Münster">Münster</placeName>in
+                                                  Westphalen gsechen, was sy für ein wäsen wurden
+                                                  anrichtenn. Darumb | [fol. 4r] man den anfengen
+                                                  ernstlich weren sol und můß, wenn man nit mit der
+                                                  zitt uffrůhr haben wil.</p>
+                                                  <p>Das man aber die straff gegen allen glicher
+                                                  gstalt bruchen solle, jst unser meinung nit,
+                                                  dieweil sy so gar unglich sind. Dan wie jnn
+                                                  anderen dingen also můs man ouch hie nach gstalt
+                                                  und glegenheitt der sachen und personen handlen.
+                                                  So man ein jeden, der sich für ein ­toüf­fer
+                                                  ußgipt, an lib und leben straffen welte, were
+                                                  dasselb nit cristentlich, sonder endtcristisch,
+                                                  und möchten wir<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: wie</note> billich als
+                                                  blůtdürstig lüt gscholtten werdenn.</p>
+                                                  <p>Da were unnser gut beduncken, diewil man in
+                                                  solchen fälen kein durchgendts<note type="editorial"> durchschnittliches Verfahren,
+                                                  Id. II, 35.</note> machen kan, das die<note type="critical">Nachträglich korrigiert,
+                                                  ursprünglich: den</note> gmeinen<note type="editorial"> einfachen</note>
+                                                  <note type="critical">T1: den (statt «die
+                                                  gmeinen»)</note> wider­toüf­feren, so nit lerer
+                                                  und ouch nach nit widertoufft sind, erstlich durch
+                                                  den predigkanten dornach, wo solches nit
+                                                  erschießlich<note type="editorial"> nützlich,
+                                                  förderlich, vgl. <hl to="http://fwb-online.de/go/erschieslich.s.4adj_1709518528"><Hyperlink>http://fwb-online.de/go/erschieslich.s.4adj_1709518528</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, ouch
+                                                  vor chorgricht in bysin deß amptmans oder anderen
+                                                  darzͧo geordneten<note type="critical">«oder
+                                                  anderen darzů geordneten» von anderer Hand am Rand
+                                                  mit Verweiszeichen</note> vermant werden, irer
+                                                  sünderung abzestan. Wo aber solches ouch nit
+                                                  hulffe, als dan ein geltstraff inen<note type="critical">T1: wo etwas vorhanden ein
+                                                  geltstraf (statt «so nit lerer und ouch …
+                                                  inen»).</note> uffglegt wurde. Dan man weißt, das
+                                                  sy mertheils gitig<note type="editorial">
+                                                  geizig</note> und eigenützig sind unnd mer umb die
+                                                  geltstraff dan andere straffen geben. Denen aber,
+                                                  die so wyt kon<note type="editorial">
+                                                  gekommen</note>, daß sy sich mit dem widertouff
+                                                  befleckt und von der kilchen abgsündert
+                                                  habend<note type="critical">«habend» mit Korrektur
+                                                  von anderer Hand über der Zeile, in der Zeile:
+                                                  hend</note>, sol billich nit nun ein gelttstraff
+                                                  alein ufferlegt, sonder sollend ouch von aller
+                                                  gmeindtschafft und nutzung gmeiner guͤtteren, es
+                                                  sye im holz und veld, jnn wesserungen<note type="editorial"> Bewässerung</note>, kouffen und
+                                                  verkouffen, ußgschloßen werden, glich wie sy sich
+                                                  selb von aller kilchen gmeinschafft | [fol. 4v]
+                                                  absünderen ­und entzüchen<note type="critical">T1:
+                                                  So vermögend uwer unser g[nedig] h[erren] usgangne
+                                                  mandat, das man sy von gmeinwerch, auch zünften
+                                                  ußschliessen solle (statt «Denen aber, die so wyt
+                                                  kon … absünderen und entzüchen»).</note>. So
+                                                  möchte man ouch die umb ein geltstraff anlegen
+                                                  (wer so ­ring, als sy wölte), die an ire predig
+                                                  louffend, so wurden sy hernach daheimen
+                                                  blibenn.<note type="critical">Folgt in T1: wie man
+                                                  bisipl anzeigen möchte. Glichs mocht auch mitt
+                                                  denen fürgenomen werden, die den teuferen herberg
+                                                  und underschlauff gebend.</note></p>
+                                                  <p>Man möchte ouch die halßstarrigen
+                                                  wider­toüf­fer<note type="critical">T1: Demnach
+                                                  möchte man die widerteuffer (statt «Man möchte …
+                                                  wider­toüf­fer»)</note> gfengklich inzüchen und in
+                                                  gfencknus so lang ligen laßen, biß sy widerumb zů
+                                                  inen selbs kemind und den bricht<note type="editorial"> Belehrung, Unterweisung, Id. VI,
+                                                  321f.</note> annemed. Darzwüschen aber sol man sy
+                                                  früntlichen uß göttlichem wort underichten unnd
+                                                  ireß irthumbs widerwysen. So aber einer nach
+                                                  vilfaltiger underwisung halsstarig bliben wurde in
+                                                  sinem jrthum, möchte man denselben deß landts
+                                                  verwysen doch nit anderer gstaltt, dan wan er sich
+                                                  bekheren wurde, das im das land widerumb solte
+                                                  uffgethan sin. Und da ettlich von inen selbs mit
+                                                  wyb und kinden<note type="critical">Folgt in T1:
+                                                  hinweg</note> in<placeName ref="Mähren">Merhernn</placeName>oder andere orth ziehinnd, bedunckt uns
+                                                  schwer<note type="critical">Folgt in T1:
+                                                  inen</note> zů verbietten, das sy nit mer in ir
+                                                  vatterland kommenn sollind, ob sy glich von irem
+                                                  irthumb abgestanden. Dan dardurch wurde inen der
+                                                  weg zur bůs und beßerung zum theil verschloßenn.
+                                                  So komend ettwan die kinder hernach zů rechtem
+                                                  verstand und ist inen leid, das sy von den iren
+                                                  verfürt worden sind. Wo söllend sy aber billicher
+                                                  hin züchen, dan da sy erboren sind? Doch möchte
+                                                  man denen, so hinweg züchend, ir gůt arrestieren,
+                                                  und so sy oder die iren widerumb kämind und
+                                                  ghorsam sin woltind, daselbig widerumb zů
+                                                  stellen.<note type="critical">Marginalie am
+                                                  unteren Blattrand: So vil aber supra am 2. blatt
+                                                  (mit Manicula und Verweiszeichen auf Bl.
+                                                  2r)</note></p>
+                                                  <p>So<note type="critical">Dieser Abschnitt
+                                                  befindet sich in der Vorlage auf Blatt 2r. Dort
+                                                  befindet sich die Marginalie von anderer Hand:
+                                                  gehört hernach zes[…] (mit Manicula). Dieser und
+                                                  der erste Teil des nachfolgenden Abschnitts («So
+                                                  vil aber … zestraffen und das nit») fehlen in T1.
+                                                  Dort heisst es stattdessen: So aber iren etlich so
+                                                  verrucht und arbenzelig werind, und sich nit nun
+                                                  uß gotlichem wort nit woltin wysen und eines
+                                                  besseren berichten lassen, sunder fromme einfalte
+                                                  lüt witer verfuͤrind, auch über das wider ir
+                                                  gethan urfech (dann ob sy glich nit schwerend,
+                                                  sagend sy doch ir ja und nein wellind sy vester
+                                                  halten dann ein gschwornen eid) in dise land
+                                                  kemind, die lüt ufwigletind und in frömde land
+                                                  zfuͤren understundent, so mag man sy mitt gůten
+                                                  fůgen lut uwer unser gnedigen herren usgangnen
+                                                  mandaten an lib und läben straffen, und bschicht
+                                                  solchs nit von des glaubens, sonder […]</note> vil
+                                                  aber die blangett, die heimschenn oder frömbden
+                                                  ­toüf­feren wüßigklich underschlouff und platz zů
+                                                  iren predigen in iren hüseren, schüren oder
+                                                  guͤtteren gebend<note type="critical">«gebend» mit
+                                                  Korrektur von anderer Hand über der Zeile, in der
+                                                  Zeile: gend.</note>, gegen denen hatt ein
+                                                  ober­kheitt nach vermög der alten keiserlichenn
+                                                  rechtenn fůg und recht, uff ire hüser, schüren
+                                                  unnd guͤtter zegriffen und dieselben zů iren
+                                                  handen zezüchenn<note type="editorial"> einziehen,
+                                                  Grimm 31, 979.</note> oder sy sonst ouch am lib
+                                                  zestraffen nach irem gfallen. Es were auch gůt,
+                                                  wenn der widerteufferen ver­samb­lungen, wo die
+                                                  gehalten, ­zer­stoͤrt wurden.<note type="critical">«Es were auch gůt … wurden» am Rand, folgend die
+                                                  Marginalie: sůch am 5. blat «so vil aber
+                                                  nun»</note></p>
+                                                  <p>| [fol. 5r] So vil aber nun die lerer
+                                                  belanget<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: belangend</note>, so
+                                                  alle land durchstrichend und einfaltige frome lüt
+                                                  in irthum und mit lib und gůt uß dem land hinweg
+                                                  fürend, gegen denen sol ein cristenliche
+                                                  ober­kheit billich ein größeren ernst und strenge
+                                                  bruchen, dan sy gůt göttlich recht habend<note type="critical">«habend» von anderer Hand über der
+                                                  Zeile</note>, sy an irem lyb und leben zestraffen,
+                                                  und das nit<note type="critical">Folgt gestrichen:
+                                                  wie hier vorgemeldet ist, nit</note> von deß
+                                                  gloubens, sonder von deßwegen, das sy uffruͤrisch
+                                                  handlend, meineyd sind und einer ersamen
+                                                  ober­kheit jre unnderthanen verfuͤrend<note type="critical">Nachträglich korrigiert,
+                                                  ursprünglich: verfuͤren</note> und unghorsam
+                                                  machend<note type="critical">«und unghorsam
+                                                  machend» von anderer Hand am Rand mit
+                                                  Verweiszeichen</note>. Dan ouch im gsatz gottes,
+                                                  wenn<note type="critical">Nachträglich korrigiert,
+                                                  ursprünglich: wen</note> einer ein mentschen
+                                                  gstolen und hinweg gfürt oder faltsche ler und
+                                                  gottsdienst angrichtet hat<note type="critical">«oder faltsche ler und gottsdienst angerichtet
+                                                  hat» fehlt in T1.</note>, am leben ist gestrafft
+                                                  wordenn<note type="critical">Folgt in T1: welchs
+                                                  so vil mee gegen frömden sol gebrucht werden, die
+                                                  in unsere land komend und einfalte frome lüt durch
+                                                  jr falsch fürgeben mitt inen hinweg fuͤrend und
+                                                  iren natürlichen herren und oberen auch iren
+                                                  elteren unghorsam und widerspenig
+                                                  machen.</note>.<note type="editorial"> Vgl. Ex
+                                                  21,16, Lev. 20,2 und Dtn 18,20.</note></p>
+                                                  <p>Bedörffend<note type="critical">Dieser und die
+                                                  nachfolgenden Abschnitte fehlen in T1.</note>
+                                                  derhalben cristenliche ober­kheiten inen kein
+                                                  bschwerd drumb zmachen, diewil sy ein
+                                                  ußtruckenlichen bevelch von got und das schwert
+                                                  dorumb entpfangen habend<note type="critical">«habend» von anderer Hand am Rand, in der Zeile
+                                                  gestrichen: hend</note>, das böß zestraffen.
+                                                  Jedoch ist unser meinung nit, das ein ober­kheit
+                                                  die höchste strenge deß schwertts on große not
+                                                  ouch gegen denen, dies glich wol verdienett, solle
+                                                  bruchen und das umb volgender ursachen willen.
+                                                  Erstlich, das hiemit unser widerpart, den
+                                                  papisten, ursach und anlaß geben wirt, gegen
+                                                  unsers gloubens gnoßen, die sy den ­toüf­feren
+                                                  glich achtend, gliche unnd nach größere strenge
+                                                  zebruchen, diewil wir eben<note type="critical">«eben» von anderer Hand am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen:
+                                                  dißmal</note> das gegen den ­toüf­feren
+                                                  bruchend<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: bruchen</note>,
+                                                  deßhalben wirs an inen nit scheltten können.</p>
+                                                  <p>Zum anderen<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: ander</note>, das die
+                                                  erfarung bewißt, das die schädliche verfürische
+                                                  sect durch vil | [fol. 5v] blůt vergießen bißher
+                                                  nit hett konnenn ußgrüt<note type="editorial">
+                                                  ausgerottet</note> werden, sonder vil mer darbi
+                                                  zugnon<note type="editorial"> zugenommen</note> uß
+                                                  ursachen, das die ­toüf­fer, so gricht worden, in
+                                                  jrer halßtarigkeit ein rům gsůcht und für
+                                                  cristenliche marterer wöllen geachtet sin, jre
+                                                  consorten aber durch irer mitbruͤdren standhafften
+                                                  tod erst noch<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: nach</note> mer in irer
+                                                  ler gesterckt und über das vil frommer
+                                                  gůthertzigen lüten durch das blůtvergießen
+                                                  treffenlich<note type="editorial"> stark,
+                                                  besonders, Id. XIV, 393.</note> geärgeret<note type="critical">«geärgeret» von anderer Hand am
+                                                  Rand, in der Zeile gestrichen: größeret</note> und
+                                                  verursacht worden, der ­toüf­ferj anhengig oder
+                                                  zum wenigisten nit ungünstig zewerden.</p>
+                                                  <p>Derhalbenn solches alles zů vermidenn, und
+                                                  damit ouch den halsstarrigen nit gar alle mittel
+                                                  zur bekherung und irem heil abgschnitten wurden,
+                                                  beduncke uns fruchtparlicher zesin, das ein
+                                                  cristenliche oberkeitt umb so vil gnediger gegen
+                                                  inenn handlette, das sy solche mit stäter
+                                                  gfencknuß, mit můß, waßer unnd brot enthielte<note type="editorial"> festhalten, Id. II,
+                                                  1228.</note>, ob got der herr mittler zitt durch
+                                                  die langwirige gfencknus gnad gebe, das sy durch
+                                                  cristenliche underichtung zů erkantnuß irer sünden
+                                                  und zur bekherung kommen und selig möchten werden.
+                                                  Welches ouch on großen costen und schaden einer
+                                                  ober­kheit mag beschechen, sittenmal<note type="editorial"> da, weil, Id. IV, 147.</note> sy
+                                                  der ­toüf­feren guͤtter, so in irem gwalt sind,
+                                                  dorzů anwenden und bruchen mögind.</p>
+                                                  <p>Eß möchten aber ettliche ­toüf­fer ergriffen
+                                                  werden, die dermaßen schwere malefitzische<note type="editorial"> dem Hochgericht verfallen, Id.
+                                                  IV, 167.</note> sachen und mißhandlungen begangen,
+                                                  daß sy solcher gnaden keins wegs theilhafftig sin
+                                                  sollend. Gegen denen sollend | [fol. 6r]
+                                                  cristenliche ober­kheiten billichen on verschonen
+                                                  nach göttlichem und keiserlichem rechten
+                                                  procedieren.</p>
+                                                  <p>So vil aber die gfangnen blanget<note type="critical">Dieser Abschnitt befindet sich in
+                                                  der Vorlage auf Blatt 2r.</note>, so jetzund in
+                                                  einer statt<placeName ref="Bern">Bern</placeName>enthaltten
+                                                  werden, ist unnser gůtt beduncken, diewil ein
+                                                  ober­kheit fürhin vorhabens, ein nüw insechen<note type="editorial"> Überprüfung, vgl. <hl to="http://fwb-online.de/go/einsehen.s.3vu_1709409151"><Hyperlink>http://fwb-online.de/go/einsehen.s.3vu_1709409151</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> zethůn,
+                                                  das sy uff dißmal nach gethaner glüpt ußglaßen und
+                                                  inen mit ernst ingebunden<note type="editorial">
+                                                  einschärfen, befehlen, Id. IV, 1350f.</note>
+                                                  werde, nit aleinn für ire personen irer gnaden
+                                                  land und gepiet fürhin zů miden, sonder ouch iren
+                                                  toufbruͤderen in<placeName ref="Mähren">Merhernn</placeName>ir gnadenn vorhabens anzůzeigen: Deß sy fürhinn
+                                                  gegen allen denen<note type="critical">Folgt
+                                                  gestrichen: von</note>, so von inen in ir land
+                                                  kommen und darinn ergriffen mögen werden, mit
+                                                  aller strenge zů procedieren und an lib und leben
+                                                  zestraffen, gentzlich gsinnet und entschloßen<note type="critical">«und entschloßen» am Rand mit
+                                                  Verweiszeichen</note> syend<note type="critical">T3: seyend</note>. Derhalben sy gwarnett sin
+                                                  sollen, so lieb inen ir lib und leben, ir gnaden
+                                                  landen<note type="critical">Nachträglich
+                                                  korrigiert, ursprünglich: land</note> sich
+                                                  zeüßeren. Und das ouch ir gnaden sampt den anderen
+                                                  evangelischen stetten der eidgnoßchaft uffs
+                                                  fürderlichst solches ir nüw ansechen<note type="editorial"> Verordnung, Weisung, Beschluss,
+                                                  Id. VII, 560.</note> in iren landen publicieren
+                                                  und uff allen cantzlen verkünden laßen, damit
+                                                  niemant sich der unwüßenheit halben könde
+                                                  enschuldigen und die verachter solcher warnung
+                                                  dester<note type="critical">«dester» von anderer
+                                                  Hand unter der Zeile</note> billicher mogend
+                                                  gestrafft werden.</p>
+                                                  <p rend="margin-top">Eüwer gnaden unnderthenige
+                                                  gsanten predicanten</p>
+                                                  <p>und professores<note type="editorial"> Vgl. die
+                                                  nachfolgende Nummer.</note> der vier evangelischen
+                                                  stetten.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Das
+                                                  vorliegende Gutachten der Berner, Zürcher, Basler
+                                                  und Schaffhauser Theologen wurde am 5. Juli an der
+                                                  evangelischen Tagsatzung in Aarau vorgestellt. Es
+                                                  baut auf dem Gutachten der Zürcher Theologen
+                                                  (StAZH E I 7.2, Nr. 120) auf, das am 3. Juli dem
+                                                  Zürcher Rat vorgestellt worden ist (vgl. Nr. 319
+                                                  und die Anrede in Anm. a). Auf diese Zürcher
+                                                  Vorstufe wird im textkritischen Apparat unter dem
+                                                  Sigel T1 verwiesen. Ausserdem wird für die Edition
+                                                  als dritter Textzeuge (T3) das Zürcher Exemplar
+                                                  des eidgenössischen Abschieds, wo das Gutachten im
+                                                  Wortlaut übernommen ist, herangezogen (StAZH E I
+                                                  7.3, Nr. 9).</p>
+      <p> Rädelsführer</p>
+    </back>
+  </text>
+</TEI>

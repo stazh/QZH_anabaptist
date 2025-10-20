@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_269</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_269</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode und Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1565-05-08"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 120</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der dechan zů Wintherdur<note type="editorial"><persName ref="Wirth, Christian">Christian Wirth</persName></note><placeName ref="Winterthur"/>begaͤrt, das man inen den schwerren wolff, den<persName ref="Hedinger, Hans">toͤuffer Hedinger</persName>, abnaͤme,
+                                                  der grosse unrůw mache.</p>
+                                                  <p rend="margin-top">Kilchgang: Diewyl der
+                                                  kilchgang fryg, das einer jnn welliche kilchen er
+                                                  wil zůr predig gaan mag, erclagt sich herr dechan
+                                                  jm obern<placeName ref="Wetzikon">Wetzikoner</placeName>cappittel<note type="editorial"><persName ref="Hamberger, Hermann">Hermann Hamberger</persName></note>, das under sollichem schyn etlich die
+                                                  predigen zun zyten gar versumind, als ob sy jnn
+                                                  einer andern kilchen zpredig gweßen sygen. Wo nun
+                                                  ein jeder jnn syn pfarrkilchen gaan můßte, were
+                                                  dhein<note type="editorial"> kein</note>
+                                                  ußzug<note type="editorial"> Ausrede, Vorwand,
+                                                  Ausflucht, Id. XVII, 542.</note> ald<note type="editorial"> oder</note> entschuldigung
+                                                  herfür zů ziehen und neme die jugent dhein böß
+                                                  exempel.</p>
+                                                  <p rend="margin-top">[Am Rand der undatierte
+                                                  Ratsbeschluss]: Vogt zů<placeName ref="Grüningen">Gruͤningen</placeName>schryben, das er versehen<note type="editorial"> sorgen für, Id. VII.
+                                                  571.</note>, das dem statt beschehe.</p>
+                                                  <p rend="margin-top">Toüffer:<persName ref="Hedinger, Hans">Hans Hedinger</persName>der
+                                                  ­toüf­fer (von dem vil malen clag komen) jst als
+                                                  böß wie vor, enthalt<note type="editorial"> sich
+                                                  aufhalten</note> sich über alle warnungen jnn dero
+                                                  von Winterthur ouch Steiner<note type="editorial">Als<persName ref="Steiner, Andreas">Andreas Steiner</persName>, Gerichtsherr von Wülflingen, 1565 starb,<persName ref="Steiner, Wolfgang">übernahm Wolfgang</persName>Steiner die
+                                                  Vormundschaft der unmündigen Kinder seines
+                                                  Bruders, vgl. Winterthurer Jahrbuch 34 (1987), S.
+                                                  100.</note> zů Wülflingen grichten, gadt
+                                                  ungebetten zun krancken, wandlet ouch jnn die
+                                                  graffschafft Kyburg, stosßt wort uß, die nüdt gůts
+                                                  bringend, also das die notturfft erforderen wirt,
+                                                  stattlichs insehe<note type="editorial"> Vorsorge
+                                                  (treffen), Id. VII, 562f.</note> synethalb
+                                                  zethůnd, damitt man synen als eines wolfs, der die
+                                                  schäfflj gern von der rechten härd risse, abkome,
+                                                  oder er ein anders leben und weßen an sich
+                                                  neme.</p>
+                                                  <p rend="margin-top">[Am Rand der undatierte
+                                                  Ratsbeschluss]: Vogt zů<placeName ref="Kyburg">Kyburg</placeName>schryben, uff jnn syn spech<note type="editorial"> Fahndung, Id. X, 76.</note>
+                                                  zemachen und gfengklichen annemen und mit denen
+                                                  von<placeName ref="Winterthur">Winterthur</placeName>und
+                                                  Steiner reden, ouch uff jnn acht zehaben.</p>
+                                                  <p rend="margin-top">Mitt glycher tüfferischen seckt jst<persName ref="Ruman, Peter">Peter Rumpfel</persName>von Schöfflistorff,<persName ref="Bräm, Fridli">Fridly Breͣm</persName>von<placeName ref="Steinmaur">Steinmur</placeName>und<persName ref="Kuhn, Jakob">Jacob Kůn</persName>jm
+                                                  Pflasterbach<note type="editorial"> Pflasterbach,
+                                                  Bach und Gelände am Nordhang der Lägern, vemutlich
+                                                  die Stelle mit der Ruine Sünikon, im
+                                                  Gemeindegebiet von Steinmaur.</note><placeName ref="Pflasterbach"/>, alles jnn der herrschafft
+                                                  Regenspeͣrg gelegen, behafft, welliches jnen zů
+                                                  vermydung ergernuß ouch nitt zůgestattnen und
+                                                  hiemitt für<note type="editorial"> vor</note> üch,
+                                                  myn herren, gewißt worden.</p>
+                                                  <p rend="margin-top">[Am Rand der Ratsbeschluss]:
+                                                  Vogt zů<placeName ref="Regensberg">Regensperg</placeName>soll sy gfengklichen annemen lasßen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

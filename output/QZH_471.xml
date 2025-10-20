@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_471</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_471</idno>
+          </msIdentifier>
+          <head>Abschied der evangelischen Tagsatzung in
+                                                  Aarau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-07-05"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 322</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als unnser lieb eydtgnosßen, die herren von<placeName ref="Bern">Bernn</placeName>, jre lieben
+                                                  eydtgnosßen, die herren von den drygen stetten<placeName ref="Zürich">Zürich</placeName>,<placeName ref="Basel">Basell</placeName>unnd<placeName ref="Schaffhausen">Schaffhusen</placeName>, schrifftlich angesůcht, jre
+                                                  rathsbottschafften sambt ettlichen der fürnembsten
+                                                  jrer theologen unnd glerthen gen Arauw
+                                                  abzůfertigen, mit jren verordneten conferentz unnd
+                                                  sprach zehalten unnd ein verglychung<note type="editorial"> Verständigung, Einigung</note>
+                                                  zethůnd, wie sich der personnen halb, so sich der
+                                                  schädlichen jrrigen sect der wider­toüf­fern
+                                                  anhengig machend, fürnemmlichen gegen den lehreren
+                                                  unnd ufwiglern (deren sy, die herrn von Bern,
+                                                  jetzmaln etliche jnn gfangenschafft
+                                                  enthaltend<note type="editorial"> festhalten, Id.
+                                                  II, 1228.</note>), ouch deren so jnnen hilf unnd fürschub thůnd, mit straff zů allen theilen zehalten, damit man weder zwenig noch zevil an dsach thuͤyge etc., sind uff sontag den 4. dies julij anno 1585 ernennter vier evangelischer stetten rathsgsanndten, die edlen, hochgelehrten, frommen, vesten, fürsichtigen unnd wyßen, nammlich von Zürich j[unker]<persName ref="Keller, Hans">Hanns Keller</persName>deß raths, von Bern herr Johanns<persName ref="Wattenwil, Johannes von">von Wattenwyl</persName>, schuldtheiß, unnd herr Hanns<persName ref="Sager, Hans Rudolf">Růdolff Sager</persName>, venner unnd deß raths, von Basell herr Hanns<persName ref="Hoffmann, Hans Jakob">Jacob Hoffman</persName>, deß raths, unnd von Schaffhusen herr Johann<persName ref="Meyer, Johann Conrad">Conradt Meyer</persName>, der rechten doctor, burgermeister, mit sambt den ehrwürdigen hoch- unnd wolgelehrten herrn<persName ref="Lavater, Ludwig">Ludwig Lavateren</persName>von Zürich, herrn Abraham
+                                                  Müßli<note type="editorial"> Abraham
+                                                  Musculus</note><persName ref="Musculus, Abraham"/>und herrn<persName ref="Amport, Christian">Christian Amport</persName>von Bern, heren<persName ref="Ritter, Israel">Israel Ritter</persName>von Basel unnd Herrn<persName ref="Jezler, Johann">Johann Jetzeler</persName>von Schaffhusen als hiertzů
+                                                  verordneten jnn | [fol. 2v] der statt Arouw
+                                                  zesammen khommen. Unnd nachdem sich die genannte
+                                                  herrn rathsbotten, jrer herren unnd obern bevelchs
+                                                  entschloßen unnd daruf vorgemelte herrn glehrten
+                                                  von den vier stetten gmeinlich jr bedencken diser
+                                                  sach halb zehaben und zestellen angesůcht worden,
+                                                  habent sy dasßelbig den wolgesagten herrn
+                                                  rathsgsanndten jnn gschrifft übergeben, wie
+                                                  volgt:</p>
+                                                  <p>Fromm, edel […]<note type="critical">Es folgt
+                                                  der Wortlaut des theologischen Gutachtens wie oben
+                                                  Nr. 321.</note></p>
+                                                  <p rend="margin-top">| [fol. 9r] Wie nun gedachte
+                                                  herrn gsanndten von den vier stetten sollich der
+                                                  herrn glehrten gestellt bedänncken verhört<note type="editorial"> angehört</note>, habent sy jnnen
+                                                  daßelbig für jre personnen, doch uff hindersich
+                                                  bringen<note type="editorial"> Hindersich bringen:
+                                                  das Beratzunsgergebnis in die Orte
+                                                  zurückzubringen</note> an jr aller herren unnd
+                                                  obern zů derselben annemmen, mindern ald meeren,
+                                                  wolgefallen laßen. Unnd sodann unnder annderm sich
+                                                  durch erfarnuß befindt, das der ­toüf­feryg (so
+                                                  jetzt ein zythar jnn obernempter vier stetten
+                                                  landtschafften an etlichen orten mer zů- dann
+                                                  abgenommen) die verbößerung aller stendten
+                                                  nit<note type="critical">«nit» über der
+                                                  Zeile</note> die wenigst ursach jst, dann sovil
+                                                  die geistlichen unnd sonnderlichen die predicanten
+                                                  hin unnd wider uff der lanndtschafft betrifft,
+                                                  sind vil unnder denselben der trunckenheit unnd
+                                                  zeerhaffte<note type="editorial"> Zehrhaftigkeit,
+                                                  Völlerei</note> gar ergeben, mischend sich jnn die
+                                                  zechen<note type="editorial"> Trinkgesellschaft,
+                                                  -gelage, Id. XVII, 158.</note> unnd schlemm<note type="editorial"> Schlemmerei, Gelage, Id.IX,
+                                                  952.</note> jn, sitzend unnder den weltlichen jnn
+                                                  wirtzhüsern tag unnd nacht, wellend by allen
+                                                  merckten, tüschen und wynkoüffen syn, liggend dem
+                                                  jagen, schießen unnd anndern weltlichen, jrem
+                                                  stannd nit zimmenden henndlen vilmehr ob dann den
+                                                  buͤchern unnd dem studieren. So gand ouch jm
+                                                  weltlichen stand by obern unnd unnderthonnen
+                                                  schwere laster als eebruch, hůrey, wůcher und
+                                                  anndere derglychen, fürnemmlich aber | [fol. 8v]
+                                                  die trunckenheit jm schwanck unnd werdent etwan
+                                                  schlechtlich gestrafft, unnd der trunckenheit unnd
+                                                  zeerhaffte deß gemeinen mans (darus am meisten
+                                                  unrath unnd alles verderben entstadt) wenig
+                                                  geweert, by wellichem allem dann die ­toüf­fer ein
+                                                  anlaß nemend, sich von unnseren kilchen
+                                                  abzesönnderen unnd mögend dester minder widerumb
+                                                  uff den rächten wäg gebracht werden etc. Ist
+                                                  sölliches alles von wolernemten herrn gsandten
+                                                  beider stennden jnn abscheid genommen, an jre
+                                                  herrn zebringen, damit man zů allen theilen diser
+                                                  sachen ein erntstlichs jnsechen<note type="editorial"> Überprüfung, vgl. <hl to="http://fwb-online.de/go/einsehen.s.3vu_1709409151"><Hyperlink>http://fwb-online.de/go/einsehen.s.3vu_1709409151</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> (als das
+                                                  hoch von nöten) fürnemmen thuͤge, da den
+                                                  predicanten jnn synodis, capitlen unnd zů annderer
+                                                  glegenheit der mangel jrthalben fürghallten unnd
+                                                  die, so darmit behafft, darvon abgemant unnd zů
+                                                  fuͤrung eines zügsammen<note type="editorial">
+                                                  bescheiden, sittsam, Id. XVII, 760.</note> erbaren
+                                                  wanndels gehallten oder mit urloubung<note type="editorial"> Entbindung</note> der pfruͤnden
+                                                  ald annder gstalt erntstlich gestrafft werden
+                                                  möchten der hoffnung, ­so man also hierjnnen ein
+                                                  erntst anwenden und gůte satzungen, wider die
+                                                  laster <nswk/> ußganngen, hanndthaben, dise
+                                                  schädliche sect widerumb abnemmen unnd derselben
+                                                  ouch anndern jm schwanck ganden<note type="editorial"> gehenden</note> lastern gewert
+                                                  werden.</p>
+                                                  <p rend="margin-top">Actum Arouw, den 5. d[ies]
+                                                  julij anno 1585.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

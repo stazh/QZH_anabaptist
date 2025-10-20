@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_848</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_848</idno>
+          </msIdentifier>
+          <head>Hans Heinrich Kolb an Bürgermeister und
+                                                  Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 699</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr burgermeiser, fromme, edle, eerennveste,
+                                                  fürsichtige, wyße, jnnsonderß hocherende, gnedige
+                                                  h[erren] unnd oberen. Hienach werdent kurzlich
+                                                  verzeichnet die ansprachen<note type="editorial">
+                                                  Ansprüche</note>, so ich, Hannß Heinrich Kolb, ann myn geweßne eefrauw<persName ref="Meister, Magdalena">Magdalena Meisterin</persName>hab, so hievor nit
+                                                  erlütheret unnd am rechten<note type="editorial">
+                                                  am rechten: vor Gericht</note> geweßen sind.</p>
+                                                  <p>Erstlichen soviel den hußrath annlangt, hat myn
+                                                  abgescheidne<note type="editorial">
+                                                  geschiedene</note> frauw vor h[errn] statthalter
+                                                  Keller, h. statthalter Widerkheeren<note type="editorial">Hans<persName ref="Wiederkehr, Hans Heinrich">Heinrich Wiederkehr</persName></note>, h. hußschryber Grebel<note type="editorial"><persName ref="Grebel, Konrad">Konrad Grebel</persName></note> unnd herren amptman
+                                                  Maagen<note type="editorial"><persName ref="Maag, Melchior">Melchior Maag</persName></note> bekhentt,
+                                                  daß der hußrath vermög hieby liggender verzeichnuß
+                                                  aller verhanden unnd waß doran ermanglen thuͤyge,
+                                                  sy gůtwillig ersetzen welle. Derhalben myn
+                                                  begeren, daß sy nach jrem selbs anerbüten daß
+                                                  silbergschir, hußrat unnd alle andere varende haab
+                                                  lut deß jnventariums widerumb jns huß thůn
+                                                  ald<note type="editorial"> oder</note> den mangel
+                                                  jnn ander weg ersetzen thuͤyge.</p>
+                                                  <p rend="margin-top">200 pfund<note type="critical">In der Vorlage: lb</note> sol<note type="editorial"> schuldet</note> sy mir by dem
+                                                  wynrodel<note type="editorial"> Rechnungsbuch des
+                                                  Weinhändlers</note>. Dann dorinnen allein 240
+                                                  gulden<note type="critical">In der Vorlage:
+                                                  fl</note>, so sy mir gwert stand, da sy die zal
+                                                  vermidennt unnd uß 200 gulden 300 gulden
+                                                  gsetzt.</p>
+                                                  <p>170 pfund gab ich herren probst Lavater für 27
+                                                  eimmer wyn, so an jren nutz khommen unnd ich jnen
+                                                  diß gelt glichen und sy es mir widerumb zůgeben
+                                                  versprochen.</p>
+                                                  <p>Summa an gut 370 pfund.</p>
+                                                  <p rend="margin-top">Wyterß jnn ansprach:</p>
+                                                  <p>50 pfund sol sy mir vom 1608. jar hußzinß von
+                                                  dem oberen gmach und den hußlüthen.</p>
+                                                  <p>39 pfund nam sy yn umb 6 müt […]<note type="critical">Lesung unklar</note>.</p>
+                                                  <p>34 pfund von<persName ref="Hofstetter, Franz">Frantz Hoffstetter</persName>von<placeName ref="Glarus">Glaruß</placeName>.</p>
+                                                  <p>10 pfund 10 schilling<note type="critical">In
+                                                  der Vorlage: ß</note> von h. burgermeister Großman
+                                                  s[elig]<note type="editorial"><persName ref="Grossmann, Konrad">Konrad Grossmann</persName>,
+                                                  gestorben am 20. Februar 1609.</note>.</p>
+                                                  <p>9 pfund 2 schilling von h. schwaager<persName ref="Keller, N. (Landschreiber)">lanndtschryber Keller</persName>.</p>
+                                                  <p>4 pfund 15 schilling von<persName ref="Peyer, Melchior">Melchior Peyer</persName>von<placeName ref="Schlieren">Schlieren</placeName>.</p>
+                                                  <p>10 pfund 10 schilling von herren<persName ref="Kramer, N.">schultheis Krammerß</persName>seligen
+                                                  son.</p>
+                                                  <p>120 pfund entlent sy durch mynen knaben, zeigt
+                                                  ann, sy muͤße es einem fhurman geben, ist aber nit
+                                                  waar gsin, hats mir widerumb zůgeben versprochen,
+                                                  dan ich eß für sy zalen muͤsen.</p>
+                                                  <p>80 pfund hat sy gegen mir verrechnet lut rodelß mit numero 100 gegen<persName ref="Staub, Rudolf">Rudolf Stauben</persName>am Müljheldli uß dem kernen
+                                                  gelt, dem ich aber nüt zethund schuldig bin.</p>
+                                                  <p>Summa ann gelt 347 pfund 15 schilling.</p>
+                                                  <p rend="margin-top">Wyters jnn ansprach:</p>
+                                                  <p>160 pfund hat sy Růdolffen Körner<note type="editorial"> Hans Rudolf Körner war seit 1585
+                                                  mit Elisabeth Meister, Magdalenas Schwester,
+                                                  verheiratet.</note><persName ref="Körner, Hans Rudolf"/> dem kantengießer uß
+                                                  mynem gůt zalt für einen brieff, so sy jmme
+                                                  versetzt<note type="editorial"> vergaben, Id. VII,
+                                                  1684.</note> ghept. Da ich sy aber umb jr gůt
+                                                  versicheren muͤsen unnd deswegen mir widerhört. Sy
+                                                  hat fürgwent, sy diß gelt dem Stauben umb wyn
+                                                  geben. So aber nit ist, wie ich dann sy mit jmen,
+                                                  Stauben, dißer zweyen posten überwyßen khan.</p>
+                                                  <p>220 pfund hat sy gegen<persName ref="Christinger, N.">under Christinger</persName>zů<placeName ref="Seebach">Sebach</placeName>verrüchert unnd
+                                                  ob wol sy disere post erst jetzunde zalt haben
+                                                  möchte, so han ich aber vor 3 jaren jren gelt
+                                                  geben, disere summa zůbezalen. Und alß ich sy
+                                                  damaalen zum wortzeichen befragt, wo sy die
+                                                  handtschrifft, hat sy fürgeben, sy die zerzert
+                                                  habe.</p>
+                                                  <p>100 pfund forderen ich ungfar wegen myner 3
+                                                  kinden, deren zwei nit meer jn läben.</p>
+                                                  <p>[…]<note type="critical">Ein weiterer Posten
+                                                  (Lesung unklar)</note>.</p>
+                                                  <p>77 pfund dergestalt 97 pfund hat sy, myn frauw, von jrer<persName ref="Meister, Sara">schwöster Sara</persName>s[eligen] ererbt luth
+                                                  buwherr Meisters<note type="editorial"><persName ref="Meister, Jakob">Jakob Meister</persName>,
+                                                  (1555-1613), Bruder von Magdalena Meister, 1591
+                                                  Mitglied des Kleinen Rats, 1600 Bauherr.</note>
+                                                  (jrres brůders) zedel, den ich byhanden, alß 62
+                                                  pfund an hußrat und 35 pfund an gelt. Und wyl sy
+                                                  diseren husrat gnommen, ich sy aber umb disere
+                                                  gantze summa versichert muͤste ich hiemit, wan sy
+                                                  mir den husrat oder darfür die 62 pfund nit
+                                                  […]<note type="critical">Es folgen in der Vorlage
+                                                  vier Wörter (Lesung unklar)</note> zalen. Sy
+                                                  forderet ouch 1 faß, so jn diserem husrat
+                                                  grechnet, also daß ich jrem begeren nach 3 mol
+                                                  zale.</p>
+                                                  <p>Summa 542 pfund.</p>
+                                                  <p>Sumarum on daß silbergschir, hußrat unnd die
+                                                  varende haab vermög jnventarij ann gelt 1259 pfund
+                                                  15 schilling.</p>
+                                                  <p rend="margin-top">Waß dann jre 1200 gulden
+                                                  anngesprochen hyratgůt anlangt, jst dasselbige
+                                                  gwüßlich nit sovil gsin, wie es sich dann jm
+                                                  hyrathbrief befindt unnd darjnnen vermeldet statt,
+                                                  namblichen daß jr gůt ungfarlich sovil syge, damit
+                                                  dann verstanden wirt kleider, hußrat unnd andere
+                                                  derglichen varende haab. Dann wann eß sovil
+                                                  hyratgůt ann briefen und schulden one die varende
+                                                  haab gsin, were sölliches jm hyrahtbrieff vermeldt
+                                                  unnd nit gesetzt worden, daß unngfarlich jr gut
+                                                  (darmit die varende hab auch gemeint) sovil syge.
+                                                  Unnd wyl die sachen annderst nit beschaffen, jch
+                                                  jren aber die 1200 gulden volkumlich ersetzen můß,
+                                                  so ist es billich, daß mir all jr varende haab
+                                                  zůdiene, ußgenommen jre kleider, so ich gůtwillig
+                                                  faren laßen wil. Anderst bschlagne gürtlen unnd
+                                                  meßer und beltzine<note type="editorial">
+                                                  pelzige</note> huß[…]<note type="critical">Lesung
+                                                  unklar</note>. Sy welle dann nachmaalen bybringen
+                                                  unnd erwysen, das sy mir one die varende haab ann
+                                                  briefen unnd schulden (daß sy nimmer meer thůn
+                                                  khan) 1200 gulden hyratgut zůgebracht habe.</p>
+                                                  <p>Da ir, myn gnedig herren, selbs gedäncken, daß
+                                                  eß mit jrem gůt nit recht zůgadt, jn bedenckung uß
+                                                  hirbj ligender verschrybung gnůgsam zůsächen, daß
+                                                  sy jres gůts von jrem vorigen eemann nachet mer
+                                                  nit dan 780 pfund empfangen hat.</p>
+                                                  <p>Unnd ouch ansechen, daß sy jre zwey kinder uß
+                                                  mynem haab unnd gůt ufferzogen unnd dieselbigen
+                                                  dißmaalen jre gweerb und hanndtwerch, da wol
+                                                  zůerachten, uß mynem gůt erhalten könend.</p>
+                                                  <p>Unnd wyl ich dann myn haab unnd gut mit großer
+                                                  muͤj unnd arbeit unnd gfar mynes lybs unnd lebens
+                                                  erüberigeret<note type="editorial"> erspart</note>
+                                                  unnd ich vermeinen, wo ich nachmaalen billiche
+                                                  ansprachen jnn erfarung bringen, sy myn frauw
+                                                  darumbe zůersůchen befuͤgt zesind, so lanngt an
+                                                  üch, vorgedachte myne gnedige h[erren], myn ganntz
+                                                  unnder­thenige und höche bitt, die wellend mir zů
+                                                  mynem begründten ansprach verhellfen und dargegen
+                                                  sy, Meisterin, mit jrem unbillichen fürgeben<note type="editorial"> fälschlich angeben, vorgeben,
+                                                  weis machen, Id. II, 90.</note> abwysen unnd mich
+                                                  mynes hinwegzüchens unnd jmselben gebruchten
+                                                  fheler, darzů sy mich gebracht und hieran die
+                                                  einige ursach ist unnd darumb ich gestrafft
+                                                  worden, feernerß nützit entgeben<note type="editorial"> sich an etwas erinnern, Id. II,
+                                                  83.</note> lasen, damit ich by huß und heimb
+                                                  blyben unnd wie einem erlichen man zustadt
+                                                  widerumb hushalten khönne.</p>
+                                                  <p rend="margin-top">E[uwer] e[rsam] w[yßhei]t
+                                                  undertheniger burger</p>
+                                                  <p>Hannß Heinrich Kolb</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

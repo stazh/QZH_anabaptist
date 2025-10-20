@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_440</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_440</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Kaspar Thomann (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1583-10-07"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 291</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren günstigen, geneigten willen unnd alles
+                                                  guts zůvor. Frommer, wyser, besonnders gethrüweer,
+                                                  lieber burger unnd vogt, wiewol unnser<note type="critical">Folgt gestrichen: burger
+                                                  und</note> vogt zů Gruͤningen<note type="editorial"> Heinrich
+                                                  Holzhalb</note><placeName ref="Grüningen"/>den unnseren<persName ref="Schnyder, Hans">Hannsen Schnyder</persName>, der schůmacher von<placeName ref="Rorbas">Rorbis</placeName>, von wegen der
+                                                  wider­toüf­feryg gfencklichen jnziechen und uff
+                                                  unnser begeren nebent anderen<note type="critical">Folgt gestrichen: gfencklich</note> allher
+                                                  geschickt, jst doch er, Schynder, uff der straaß
+                                                  ußgerißen unnd denen, so jnn allher fuͤren söllen,
+                                                  enthrunnen. Diewyl wir dann sovil berichts, das
+                                                  vermällter Schnyder jnn synem töüfferischen wessen
+                                                  jmmerdar verharre, und wol zugedencken, das er wie
+                                                  jr bruch, villichter andere inn söllicher sect
+                                                  ouch ethwan verfuͤren möchte. Wann dann<note type="critical">Folgt gestrichen: j[…]</note>
+                                                  jnnhallt<note type="critical">Folgt gestrichen:
+                                                  us</note> unnserer ußganngner satzungen und
+                                                  mandathen<note type="critical">Folgt gestrichen:
+                                                  j[…]</note> diserem Schnyder<note type="critical">«Schnyder» am Rand</note> syn<note type="critical">korrigiert, ursprünglich:
+                                                  synem</note> fürgenommen weßen<note type="critical">Folgt gestrichen: jnsonders dhein
+                                                  gestand geben</note> dheins wägs<note type="editorial"> keineswegs</note> zůgestattnen,
+                                                  so jst derhalben unnser bevelch<note type="critical">Folgt gestrichen: will</note> und
+                                                  meynung<note type="editorial"> Erwartung, Weisung,
+                                                  vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> an
+                                                  dich<note type="critical">«an dich» über der
+                                                  Zeile</note>, du wellist mit erntst<note type="critical">«mit erntst» am Rand mit
+                                                  Verweiszeichen</note> dyn khundtschafft unnd
+                                                  sprech<note type="editorial"> kundschaft und
+                                                  spech: Erkundigung und Fahndung, Id. X, 76.</note>
+                                                  uff jnne machen und, wo er zů beträtten<note type="editorial"> antreffen, Id. XIV,
+                                                  1486.</note>, jnn gfenncklichen annemmen und unns
+                                                  wol verwart zufuͤren lasßen, feerner die gebür
+                                                  gägen jm fürzunemmen wüssen mögen, daran geschicht
+                                                  unnser meynung. Datum den 7. d. octobris anno etc.
+                                                  83</p>
+                                                  <p rend="margin-top">Bürgermeister unnd rath der
+                                                  statt Zürich.</p>
+                                                  <p rend="margin-top">An vogt zů<placeName ref="Kyburg">Kyburg</placeName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

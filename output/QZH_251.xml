@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_251</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_251</idno>
+          </msIdentifier>
+          <head>Rudolf Escher Rudolf
+                                                  Escher vom Glas (1523-1575)an Bürgermeister
+                                                  und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1560-07-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 102</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min gantz underthenig willig dienst altzydt
+                                                  bevor. Herr burgermeyster, fromm, erenvest,
+                                                  fürsichtig, ersam, wyß, sonders günstig, gnaͤdig,
+                                                  min herren, es komend zů mir herr Marte
+                                                  Farner<note type="editorial"><persName ref="Farner, Martin">Martin Farner</persName></note>, bredicant
+                                                  zů<placeName ref="Wald">Wald</placeName>, unnd herr
+                                                  Růdolff<note type="editorial"><persName ref="Keller, Rudolf">Rudolf Keller</persName></note>, bredicant
+                                                  im<placeName ref="Fischenthal">Fischendal</placeName>,
+                                                  brichtend mich ires amptz halber klagswyß, das die
+                                                  widertoͤüffer fryg<note type="editorial">
+                                                  frei</note> offenlich wandlend, mich bitende, inen
+                                                  haͤlffen, das man iren abkeme. Unnd diewyl ich
+                                                  allerley mitel unnd ouch min spaͤch<note type="editorial"> Späher, Kundschafter, Id. X,
+                                                  78.</note> uff sy gmacht, sy aber ire spaͤch vil
+                                                  beßer dann ich myne, so bit ich üch, min gnaͤdig
+                                                  herren, mir behülffen unnd beradten zůsin, darmit
+                                                  unnd ich waͤder zů fil nach zů wenig duͤyge<note type="editorial"> tue</note> und das ir ouch
+                                                  bricht habend, was die bredicanten mir anzoͤügt,
+                                                  ouch wie ich es bißhar mit inen gebrucht, so ist
+                                                  mir von inen beden annzoͤügt wie harnach
+                                                  volget.</p>
+                                                  <p>Item herr Marte zů Wald zeigt an, das die
+                                                  Straͤler uff dem<placeName ref="Wald, Haltberg">Halbbaͤrg</placeName>sampt iren wyberen ouch<persName ref="Walder, N.">dem Walder</persName>von Oͤdwyl<note type="editorial"> Oetwil am See</note><placeName ref="Oetwil am See"/>unnd einem saͤnnen genant<persName ref="Tscheigi, Hans">Hans Tscheigi</persName>feis<note type="editorial"> oft (wie ‘dick
+                                                  offenlich’)</note> offenlich wandlend, inen ouch
+                                                  anndre gůthaͤrtzige im hoff<placeName ref="Wald">Wald</placeName>anhaͤngig machend, ouch iren
+                                                  unnderschlouff by iren bruͤderen habend, so nach
+                                                  mit inen unferdeylt<note type="editorial"> nicht
+                                                  getrennt</note>sind. Da ich aber kurtzlich darfor nach den<persName ref="Streler, N.">selbigen Straͤleren</persName>gschickt und sy darum
+                                                  gestrafft, ouch inen uff das hertist droͤwt<note type="editorial"> drohen, Id. XIV, 1575.</note>,
+                                                  mit inen zedeylen, haͤt um sofil an inen
+                                                  verfangen, das die sach also gstaltet ist, wie
+                                                  darfor gemeldet. Waͤnn ich dann min spaͤch uff sy
+                                                  machen zůfachen<note type="editorial"> gefangen
+                                                  nehmen, Id. I, 716.</note>, so wüßend sy mine
+                                                  anschleg vorhin unnd entflüchend mir inn die
+                                                  graffschafft Utznach<note type="editorial"> Die
+                                                  Grafschaft Uznach war Untertanengebiet von Glarus
+                                                  und Schwyz.</note><placeName ref="Uznach"/>.</p>
+                                                  <p>Item herr Růdolff im Fischendal zeigt an, das<persName ref="Peter, Hans">Hans Peter</persName>unnd<persName ref="Bürgi, Jakob">Jacob Bürge</persName>, so bed inn
+                                                  üwer gfaͤngcknus glaͤgen, nit zů kilchen gangend,
+                                                  ouch das land nit mydend, jnsonders Jacob Bürge,
+                                                  so üch ein eyd geschworen, uß üwerem gebiet
+                                                  zůzüchen. Der sol ußglaßen haben, das aͤrdrich sig
+                                                  im grad als wol erschaffen als üch, mynen
+                                                  herren.<note type="editorial"> Vgl. Ps 24,1</note>Bricht mich ouch darnebend, das<persName ref="Rieser, Jörg">Joͤrg Ryser</persName>ab der
+                                                  Stralegg<note type="editorial"> Strahlegg</note>,
+                                                  des saͤnn Jacob Bürge darfor gsin, der lyche im
+                                                  über das guͤter, das er zůbuwen hab. Unnd waͤn ich
+                                                  glicher gstalt den weyblen mit allem aͤrnst
+                                                  befolen, sy sollend mir sy gfaͤngcklichen bringen,
+                                                  so habend sy deren günneren wie Joͤrg Ryser sofil,
+                                                  die ich nit weyß, das sy gwarnet waͤrdent unnd
+                                                  entwychend mir inn die graffschafft<placeName ref="Toggenburg">Toggenburg</placeName>. Somlichs
+                                                  schryben ich üch, mynen gnaͤdigen herren, bester
+                                                  meynung zů, das ir nit moͤchtend gedencken, ich
+                                                  welte üwerem befelch nit nachgan, unnd was üweren
+                                                  wyteren befelch unnd gfallens, diewyl ir verstand,
+                                                  das sy gunst hannd unnd dardurch mir entwychend
+                                                  und sy aber niemand wil gwarnet haben, mich
+                                                  berichten, wil ich mit allem aͤrnst üweren
+                                                  gefallen ghorsamcklich nach mynem besten vermoͤgen
+                                                  nachkomen. Hiemit befilch ich üwer ersam wyßheidt
+                                                  in den schirm des allmechtigen. Datum den 15.
+                                                  hoͤwmonat anno 60.</p>
+                                                  <p rend="margin-top">U[wer] ersam wyßheidt
+                                                  williger dyenner</p>
+                                                  <p><persName ref="Escher, Rudolf">Růdolff Aͤscher</persName>, vogt zů<placeName ref="Grüningen">Gruͤningen</placeName></p>
+                                                  <p rend="margin-top">Den frommen, erenvesten,
+                                                  fürsichtigen, ersamen, wysen burgermeister unnd
+                                                  radt der statt<placeName ref="Zürich">Zürich</placeName>mynen gnaͤdigen liebenn herrenn.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Rudolf
+                                                  Escher vom Glas (1523-1575)</p>
+    </back>
+  </text>
+</TEI>

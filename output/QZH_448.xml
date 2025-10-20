@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_448</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_448</idno>
+          </msIdentifier>
+          <head>Truchsess Christoph von Waldburg an Bürgermeister
+                                                  und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1584-08-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 299</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Christoff deß hailigen röm. reichs
+                                                  erbtruchsäsß, freiherr zue Waldtburg, herr zur<placeName ref="Scheer">Scheer</placeName>und<placeName ref="Trauchburg">Trauchburg</placeName>, röm. kay.
+                                                  ma[jestä]tt etc. auch f[ü]rs[tlicher]
+                                                  d[urchlauc]ht ertzhertzog Ferdinanden zue
+                                                  Österreich etc. rath etc.</p>
+                                                  <p rend="margin-top">Unsern g[ünstigen?] grueß
+                                                  zuvor, fromme, ernvest, fürsichtig, ersam unnd
+                                                  weise, liebe besonndern. Demnach nächtig aubendts
+                                                  in unnserer statt Mengen<note type="editorial">
+                                                  Die Stadt Mengen liegt an der Donau und grenzt an
+                                                  Scheer.</note><placeName ref="Mengen"/> über die
+                                                  fünfftzig weib unnd manßpersonen sambt den kindern
+                                                  ankhommen, daselbsten übernacht verpliben in
+                                                  willenß, heütigs tags jren weg nach Mehrer
+                                                  zuenemben, sich unnder die laidige abschewliche
+                                                  sect der widerthäuffer zuegeben. Wie dann etlich
+                                                  darunder, die derselben schon etlich jhar anhengig
+                                                  gewesen, so ohne zweiffell die anndern dartzue mit
+                                                  falschem betrug beredt haben werden. Dieweil dann
+                                                  deß hail. rom. reichs abschid unnd ordnungen
+                                                  clärlich vermögen<note type="editorial"> besagen,
+                                                  Id. IV, 111.</note>, daß man dergleichen verrůchte
+                                                  leüt nit allein keinswegß durch pasßieren lasßen,
+                                                  sonnder umb diser jrer verdampten sect willen an
+                                                  leib, leben mit feür und schwerdt ernstlich
+                                                  straffen solle, so haben wyr zur steyr<note type="editorial"> Unterstützung, vgl. <hl to="http://fwb-online.de/go/steuer.s.1f_1668796932"><Hyperlink>http://fwb-online.de/go/steuer.s.1f_1668796932</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> der
+                                                  beliebten justitien heutigs tags solche personen
+                                                  in unnsrer graveschafft Fridtperg<note type="editorial"> Friedberg (Bad
+                                                  Saulgau)</note><placeName ref="Friedberg (Bad Saulgau)"/> (dardurch sie dann
+                                                  ohne begerung gländts oder pasß fräffenlich ziehen
+                                                  wöllen) fenggclich annemmen und jn unnsern
+                                                  fleckhen Herbertingen<note type="editorial"> Das
+                                                  Dorf Herbertingen liegt östlich von
+                                                  Mengen.</note><placeName ref="Herbertingen"/>
+                                                  füeren lasßen. Unnd ob wol wyr enndtlich bedacht
+                                                  gewesen, gegen jnen (vermög erst angeregter reichs
+                                                  abschid etc.) den strengen weeg zuegehn, so haben
+                                                  wyr doch angesehen jre kleine unerzogne kinder und
+                                                  sein dardurch zur barmhertzigkeit bewegt worden,
+                                                  auch sie samentlich (jn meinung, jr auß
+                                                  beiverwarter copei unns von jnen hinderlasßner
+                                                  verschreibung mit litera A signiert sampt jren
+                                                  namen zuvernemen) auß gnaden erlasßen. Weil dann
+                                                  sie zuem thail unnder ewern unnd dann unnder
+                                                  anndern aydtgnoßischen<note type="critical">«aydtgnoßischen» am Rand mit
+                                                  Verweiszeichen</note> gepieten zuvor gesesßen,
+                                                  haben wyr es euch hiemit g. berichten wöllen, uff
+                                                  daß jr es auch an anndere ort zuegelangen haben,
+                                                  damit unns ein urkhundt, daß sie uf die unns
+                                                  übergebene verschreibung sich gepürender maaßen
+                                                  wider eingestellt etc., fürderlich überschickht,
+                                                  so wol auch jre freundtschafften (die von unns und
+                                                  allen den unnserigen sicherlich verglaidt) sich
+                                                  jrer beladen unnd diß ortts annemmen auch ufs
+                                                  ehist mit unns vertaagen wöllen, sollen alßdann
+                                                  die vier, so unns zue geyseln hinderlasßen,
+                                                  widerumb endtlediget werden.</p>
+                                                  <p>Wann wir dann auch auß denen bei jnen gehabten
+                                                  misßiven<note type="editorial"> Sendschreiben,
+                                                  vgl. <hl to="http://fwb-online.de/go/missiv.s.2n_1646380796"><Hyperlink>http://fwb-online.de/go/missiv.s.2n_1646380796</Hyperlink></hl></note>
+                                                  vernamben, daß Wenesch Köler<note type="editorial"> Wenesch Keller (gest. 1593), hutterischer
+                                                  Prediger und Ältester in Mähren, untrernahm
+                                                  verschiedene Missionreisen. Von ihm sind aus
+                                                  derselben Zeit drei Briefe in Abschriften
+                                                  überliefert, vgl. Hutterischen Episteln, Bd. 2, S.
+                                                  183-188.</note><persName ref="Keller, Wenesch"/>
+                                                  (so sich villeicht unnder euch aufhallten möcht)
+                                                  jr rechter redlißfürer ist, haben wyr eüch hiemit
+                                                  copias solcher misßiven mit B (b unnd <s1>b</s1>
+                                                  signiert) auch überschickhen wöllen, darauff ir
+                                                  dann denselben zur wolverdienter bestraffung
+                                                  (damit ein mehrers verhietet) werden einzeziehen
+                                                  oder an anndere ortt, da er sich enthalten<note type="editorial"> sich aufhalten, Id. II,
+                                                  1230.</note> thuet, zueberichten wisßen etc.</p>
+                                                  <p>Beineben jst unnser g[nädig] gesinnen, jr
+                                                  wöllen die, so unnder euch gesesßen, jres
+                                                  außtrettens<note type="editorial"> Wegzug,
+                                                  Auswanderung</note> nicht entgelten, sowol auch
+                                                  den anndern mit vernerer gueter befürderung
+                                                  erscheinen, damit sie doch samentlich wider
+                                                  eingelasßen unnd aufgenomben werden jn erwegung,
+                                                  daß sie unns glübdt gethon, auch endtlich dahin
+                                                  endtschlosßen seyen, sich diser verdampten sect jn
+                                                  ewigkait zuendteüsßern, auch aller erbarkeit unnd
+                                                  gehorsame hinfüran zuebevleisßen, welches alles
+                                                  wyr euch g[nädiger?] meinung anfüegen wellen unnd
+                                                  seien euch mit dergleichen willen geneigt. Datum
+                                                  Herbertingen, den 25ten augusti anno etc. 84.<note type="critical">Folgt unten die Unterschrift von
+                                                  Freiherr Christoph von Waldburg.</note></p>
+                                                  <p rend="margin-top">Dem fromen, ernvesten,
+                                                  fürsichtigen, ersam und weisen, unsern lieben
+                                                  besondern, burgermaistern und rath der statt
+                                                  Zürch.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

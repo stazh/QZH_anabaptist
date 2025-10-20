@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_502</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_502</idno>
+          </msIdentifier>
+          <head>Hans Rudolf Stumpf an Heinrich
+                                                  Holzhalb und
+                                                  Bernhard Wiederkehr (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 353</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Den frommen, eehrenvesten, fürnemmen und wysen
+                                                  herren, herren Heinrichen Holtzhalben
+                                                  (statthaltern, buwherren und stattfendrichen) und
+                                                  herren Bernharten Widerkeeren (obman deß
+                                                  almosens), beiden zunftmeisteren der zunft zum
+                                                  Kaͤmbel unnd des rhats der statt Zürich, mynen
+                                                  insonders gnedigen lieben herren, wünsch jch,
+                                                  Johan Růdolf Stumpf, diener der kilchen<placeName ref="Zürich">Zürich</placeName>, frid und gnad von
+                                                  gott dem vatter durch Jesum Christum sampt
+                                                  empiettung aller underthenigkeit.</p>
+                                                  <p>Fromme, eehrenveste, fürnemme und wyse, liebe herren, es ist mir fürkommen<persName ref="Maler, Balthasar">Balthassar Maalers</persName>deß
+                                                  habermaͤlwers und gartners, üwer m[iner]
+                                                  g[nedigen] herren burgers und zünfters geschribne
+                                                  supplication, darinnen er syn gefaßte
+                                                  widerteüfferische verfuͤrung zeverthaͤdigen
+                                                  undertstath<note type="critical">«undertstath» am
+                                                  Rand mit Verweiszeichen.</note> und aber soͤliche
+                                                  teüfferische <nswk/> sect durch jnn und andere
+                                                  syne mitthaften<note type="editorial">
+                                                  Mithaftender, Parteigänger, Id. II, 1057.</note>
+                                                  mitt allem gwalt one scham und fraͤfner<note type="editorial"> dreist, Id. I, 1286.</note> wyß
+                                                  offentlich wider das war wort gotz, üwer (unser
+                                                  gnedigen herren) reformation gůte ordnungen und
+                                                  satzungen, gmeine der evangelischen kilchen
+                                                  und<note type="critical">Folgt gestrichen:
+                                                  satzungen</note> stetten jm truk ußgange
+                                                  confession und gloubens bekantnuß, ouch letsten
+                                                  hierüber beschloßnen Ahrowischen abscheid<note type="editorial"> Vgl. Nr. 322.</note> jnn statt
+                                                  und land mitt unruͤwigem winkelpredigen<note type="editorial"> Predigten im Verborgenen und
+                                                  ohne Amt</note> usspreittend nitt one grossen
+                                                  nachteil waarer evangelischer religion, grosse
+                                                  ergernuß der ganzen kilchen und verkleinerung nit
+                                                  nun unsers predigampts und unsrer personen, sonder
+                                                  ouch üwer, unsrer gnedigen herren. Derhalben ich
+                                                  alls ein ordenlicher pfarrer myner eehren ampts
+                                                  und gwüßne halber nit überschryten koͤnden noch
+                                                  moͤgen, dann das ich über soͤliche gemeltes Malers
+                                                  glychsnerische<note type="editorial">
+                                                  heuchlerisch, vgl. <hl to="http://fwb-online.de/go/gleisnerisch.s.4adj_1709370624"><Hyperlink>http://fwb-online.de/go/gleisnerisch.s.4adj_1709370624</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> und
+                                                  ungegründte supplication […]<note type="critical">Hier bricht der Text ab, die Rückseite des
+                                                  Blattes ist leer.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_447</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_447</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Untervögte von
+                                                  Birmensdorf,
+                                                  Aesch und
+                                                  Wettswil (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1584-08-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 298</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeister unnd rath der statt Zürich
+                                                  unnßeren grůß zůvor. Besonnders gethrüwer lieber
+                                                  unndervogt, wir sind für gloubwürdig verstendiget
+                                                  worden, wie das sich abermalen etliche der
+                                                  unnßeren jnn dyner amptsverwalltung der
+                                                  ufrürischen unnd verfürischen sect der thoüfferyg
+                                                  unnderneminnd<note type="editorial"> damit
+                                                  abgeben, Id. IV, 742.</note>, benantlichen ouch
+                                                  meer­theyls jr zůsamenkunfft uff dem Gsellenhuß zů
+                                                  Wetteschwyl haben söllind. Derhalben bevelchend
+                                                  wir dir, das du uff alle die jhenigen, so sich
+                                                  gemellter ­thoüf­feryg anmaßind unnd anhengig
+                                                  sind, unnd sonnderlich uff Bartli Stockli unnd
+                                                  Hannß Hußherren von Birmenstorff<note type="critical">«von Birmenstorff» am Rand</note>
+                                                  (alß zween rechte ufwigler unnd redlifürer)
+                                                  angentz<note type="editorial"> sofort, Id. II,
+                                                  19.</note>
+                                                  <note type="critical">Folgt gestrichen: dyn</note>
+                                                  heimliche unnd gwüsße spech unnd
+                                                  khondtschafft<note type="editorial"> spech und
+                                                  kundschaft: Nachforschung und Erkundigung, Id. X,
+                                                  76.</note> jnn dyner amptsverwalltung machen<note type="critical">«machen» am Rand mit
+                                                  Verweiszeichen</note>, unnd wo<note type="critical">Folgt gestrichen: du</note> sy
+                                                  zůbeträtten<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note>, zů jhnen gryffen
+                                                  unnd unns wolbewarth gefengklichen zůfüren
+                                                  söllist. Deß thůnd wir unns zů dir gentzlich
+                                                  versechen. Datum mentags den 3ten augsten anno
+                                                  etc. 84.</p>
+                                                  <p rend="margin-top">Ann unndervögt Birmenstorff,
+                                                  Äsch unnd Wetteschwyl</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Wettswil
+                                                  gehörte zur inneren Vogtei Bonstetten, während
+                                                  Aesch mit Altsetten eine Obervogtei
+                                                  bildete.</p>
+    </back>
+  </text>
+</TEI>

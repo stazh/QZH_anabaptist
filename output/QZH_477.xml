@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_477</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_477</idno>
+          </msIdentifier>
+          <head>Herbstsynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-10-19"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 328</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min herren verlasend ein mandat, wie sich die
+                                                  predicanten halten sollind, damitt sy den
+                                                  widerteuffern kein ergernuß gebind. So einer foll
+                                                  wirt, sol er gewarnet und hernach, so er nicht
+                                                  drum gipt<note type="critical">«so er nicht drum
+                                                  gipt» über der Zeile</note>, sines dienst entsezt
+                                                  sin, und sol man nitt darum meeren<note type="editorial"> zur Abstimmung bringen, Id. IV,
+                                                  371.</note> etc.</p>
+                                                  <p>[…]</p>
+                                                  <p>H[err] Suler<note type="editorial"><persName ref="Süler, Jakob">Jakob Süler</persName></note> ist zů<placeName ref="Eglisau">Eglisow</placeName>gsin, da min
+                                                  h[erren] gemusteret<note type="editorial"> mit
+                                                  derben Worten zurechtweisen, Id. IV, 545.</note>.
+                                                  Hatt daselbs zimbis geessen mitt etlichen
+                                                  bruͤderen, ist vor inen hinweg gangen. Da sy nahin
+                                                  komen, ist er so voll gsin, das er da glägen, ist
+                                                  gsudlet<note type="editorial"> beschmutzt, Id.
+                                                  VII, 327.</note> gsin. Man hatt inn muͤssen
+                                                  fuͤren. Habend wellen, das er zů<placeName ref="Glattfelden">Glatfelden</placeName>sich
+                                                  wider erholete, aber er ist zum stäg gangen. Vil
+                                                  habend im zůglůgt, dann sy vermeint, er fiele in
+                                                  das wasser. Ein frow hatt gsprochen, er kan wol
+                                                  überhinkomen. Er kompt offt von Eglisow und ist
+                                                  voll. Zů<placeName ref="Windlach">Windlach</placeName>hatt
+                                                  er gschwanket, ist gfallen, das er nit hatt
+                                                  koͤnnen ufkomen. Welchs nit kleine ergernuß
+                                                  bringt, dann sonst vil widerteuffer daselbst
+                                                  sind.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

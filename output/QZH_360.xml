@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_360</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_360</idno>
+          </msIdentifier>
+          <head>Täufermandat (Entwurf des Schreibens an die
+                                                  Landvögte) Johann Heinrich
+                                                  Ott druckte in seinen Täuferannalen von 1682 eine
+                                                  andere Fassung desselben Mandats ab, welche auf
+                                                  den 11. Februar datiert war und die heute nicht
+                                                  auffindbar ist. Der von Ott abgedruckte Text
+                                                  lautet: «Edictum Magistratûs Tigur. d. 11. Febr.
+                                                  promulgatum, ita habet inter alia: Und alsdann
+                                                  jetz ein zeithar vil der Underthonen/ mit Leib und
+                                                  Gut auß disen Landen in das Niderland/ genannt
+                                                  Meer-Herren (allda die Widerttaͤufferisch Sect
+                                                  sich halten sol) gezogen. Und aber etlich
+                                                  derselben/ so sy jhres mithin weggezognen Guts/
+                                                  entbloͤßt/ sich widrumb harauff mit froͤmbden
+                                                  gleicher irrigen Lehr Anhaͤngern und
+                                                  Redlifuͤhrern/ begebend: darauß leichtlich/ wo nit
+                                                  bey zeiten darzu gethan/ sonders sy
+                                                  stillschweigend gelitten/ ettwas gemeinen Unrahts
+                                                  und Schadens erwachsen moͤchte. Und wiewol bißhar
+                                                  einem jeden Burger und Landtmann zugelassen seiner
+                                                  Gelegenheit nach/ wo er sein Auffenthalt und
+                                                  Nahrung zuverbessern meint/ anderstwo sich
+                                                  zusetzen und zudienen. Dieweil man aber gespürt/
+                                                  daß (leider!) der mehre Theil von obangeregts
+                                                  schaͤdlichen Taͤufferischen Jrrthumbs willen/
+                                                  solche Reisen zuhanden nemmend/ und so sy dann
+                                                  widrumb hinauff kommend/ das jhrig verthan/ denen/
+                                                  so unsern Herren (als jhrer ordenlichen Obrigkeit
+                                                  gehorsamb sind) auff dem Hals ligend/ und sonsten
+                                                  in ander weg Beschwerden in das Land bringend.
+                                                  Solchen zufuͤrkommen ist unser Herren ernstlicher
+                                                  Befelch/ daß alle jhre Ober- und Under-Vögt/ auch
+                                                  Weibel und andere jhre Diener /auff alle die/ so
+                                                  zum theil jhren bessern Nutz zuschaffen
+                                                  vermeinend/ zum theil auch also unbesinnter
+                                                  leichtfertiger Weis hinweg ziehend und
+                                                  widerkommend/ ein ernstliches Auffsehen habe. Unnd
+                                                  welcher also hinweg zogen ohn unser Herren
+                                                  Erlaubnus/ derselb nit mehr eingelassen/ sonder so
+                                                  er widrumb betraͤtten/ ohn alle Gnad an Leib und
+                                                  Gut gestrafft und auch gegen denen/ so sy uͤber
+                                                  Jhr unser Herren Verbott beherbergend und
+                                                  Underschlauff gebend/ gleichfahls gehandlet
+                                                  werdend. Hieneben auff die/ so sy heimlich
+                                                  auffiklend/ anreitzend und verfuͤhrend/ fleissige
+                                                  Kundschafft gemachet/ und wo sy zubegreiffen/ daß
+                                                  die gefaͤnklich angenommen/ man gegen jhnen jhrem
+                                                  Verdienen nach fahren könne. Deßhalb maͤnklich/ so
+                                                  in solch Verderben lauffen moͤchte/ hierinn
+                                                  gewahrnet sige/ etc.»</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 211</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willen und alles
+                                                  gůts zůvor. Frommer, vester, besonnders getrüwer,
+                                                  lieber burger und vogt, alsdann<note type="critical">«alsdann» über der Zeile, in der
+                                                  Zeile gestrichen: als demnach</note> jetzt ein
+                                                  zythar vil der unnsern mit lyb und gůt uß disen
+                                                  landen jnn das niderland<note type="critical">korrigiert, ursprünglich: nider</note>, genannt
+                                                  Merrheren<note type="critical">korrigiert,
+                                                  ursprünglich: Merrherisch land</note><placeName ref="Mähren"/> (alda die wider­toüf­ferisch<note type="critical">Folgt gestrichen: seckt</note>
+                                                  sect sich halten soll) gezogen<note type="critical">Folgt gestrichen: befin</note>,
+                                                  kompt unns jetzdann für<note type="editorial">
+                                                  fürkommen: zu Ohren kommen, kund werden, Id. III,
+                                                  279.</note>, das etlich derselben<note type="critical">Folgt gestrichen: sich</note>, so
+                                                  sy<note type="critical">Folgt gestrichen:
+                                                  sich</note> jres mit hinweg gezognen gůts
+                                                  entblößt, widerumb<note type="critical">Folgt
+                                                  gestrichen: haruf heim</note> haruf mit frömben,
+                                                  glycher jrrigen leer anhengigen und redlifuͤren
+                                                  sich begebint. Daruß lichtlich, wo nit by zyten
+                                                  dartzů gethaan, sonders sy still schwigend
+                                                  gelitten und<note type="critical">Folgt
+                                                  gestrichen: jnen zůgesehen</note> man jnen also
+                                                  zůsehen sölte, etwas gmeinen unraths und schadens
+                                                  erwachßen möchte. Unnd wiewol<note type="critical">Folgt gestrichen: wir</note> bißhar einem jeden
+                                                  unserer burgeren und landtlüthen unerwert
+                                                  gweßnen<note type="critical">«unerwert gweßnen»
+                                                  über der Zeile, in der Zeile gestrichen: fryg
+                                                  gestattnet</note>, syner glegenheit nach, wo er
+                                                  syn ufenthalt und narrung zů verbesseren meindt,
+                                                  anderschwo sich zůsetzen und zů diennen, so
+                                                  gspürend wir doch, das (leider) der meerteil von
+                                                  obangeregts schedlichern töfferischen jrrtumbs
+                                                  willen sölliche reysßen zů handen nemmend unnd
+                                                  dahin gebracht, das sy jr mitgefuͤrt hab und gůt
+                                                  eindtweders selbs an denen ordten liederlicher wyß
+                                                  durhin richten oder jnen von andern untrüwen
+                                                  lüthen entwendt wirt, jnmasßen offenbar das
+                                                  menger<note type="critical">«menger» am Rand, in
+                                                  der Zeile gestrichen: vil</note> unnserer
+                                                  underthannen, so hinab gezogen, vil gůts und gelts
+                                                  mit jnen gefuͤrt, volgents wider leer und bloß
+                                                  ufhin kommen, das sy dann den andern das jr
+                                                  abnemmend und uf dem halß liggend, dem bättel und
+                                                  allmůsem zů abbruch gmeiner hilf und nottůrfft
+                                                  hußarmer lüthen nachzüchend und sonst jnn vil weg
+                                                  mergkliche beschwerden jnn das land bringend.
+                                                  Deßhalb söllichem allem zůfürkommen, ouch witere
+                                                  schedliche jnbrüch und unrůwen zů vermyden<note type="critical">Folgt gestrichen: so</note>, jst
+                                                  an dich<note type="critical">«dich» über der
+                                                  Zeile, in der Zeile gestrichen: alle und jede
+                                                  unsere oberen und undervögt, amptlüth, wyber und
+                                                  dienere</note> unnser erntstlich bevelch, will und
+                                                  meinung, du wellist mit sambt den undervögten,
+                                                  weyblen und andern dienern diner amptsverwaltung
+                                                  uff<note type="critical">Folgt gestrichen:
+                                                  diejhenigen</note> alle die, so zum teyl jren
+                                                  bessern nutz zeschaffen<note type="critical">Folgt
+                                                  gestrichen: uber ein and</note> vermeinnend, zům
+                                                  teyl auch also unbesinter lichtfertiger wyß hinweg
+                                                  ziechend und widerkommend, ein erntstlichs ufsehen
+                                                  haben, unnd wellicher also hinweg zegogen, derselb
+                                                  one unnsers erlouptnuß nit meer jngelasßen,
+                                                  sonders, so er widerumb beträtten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+                                                  1486.</note>, on alle gnad an lyb und gůt<note type="critical">Folgt gestrichen: wie ouch
+                                                  die</note> gestrafft und ouch gegen denen, so sy
+                                                  über unser<note type="critical">Folgt gestrichen:
+                                                  ußgang</note> verbott beherbergen und
+                                                  underschlouff geben<note type="critical">Folgt
+                                                  gestrichen: ge</note>, glychsfals gehandlet werde.
+                                                  Darnebent uff die, so sy heimlich ufwiglent,
+                                                  anreitzend und verfuͤrend<note type="critical">Folgt gestrichen: kun</note>, flysßige
+                                                  kundtschafft<note type="editorial"> Kenntnis,
+                                                  (eingezogene) Nachricht, Id. III, 353.</note>
+                                                  gemachet und, wo sy zůbegriffen, gfengklichen
+                                                  angenommen<note type="critical">Folgt gestrichen:
+                                                  damit</note>, man gegen jnen<note type="critical">Folgt gestrichen: an</note> mit<note type="critical">Folgt gestrichen: gebü</note>
+                                                  glycher gebürender straff faren könne. Derhalben
+                                                  du diße unnsers ansehen<note type="critical">«ansehen» über der Zeile, in der Zeile
+                                                  gestrichen: meinung</note><note type="editorial">
+                                                  Anordnung, Beschluss, Id. VII, 560.</note> jnn den
+                                                  kilchen diner amptsverwaltung allenthalben
+                                                  offentlich ver­khünden lasßen, damit
+                                                  mengklich<note type="editorial"> jeder</note>, so
+                                                  jnn söllich verderben louffen möchte gewarnnet und
+                                                  sich selbs vor straaff und schaden<note type="critical">Folgt gestrichen: zůhalten
+                                                  und</note> zů vergoumen<note type="editorial">
+                                                  bewahren, verhüten, Id. II, 302.</note> wüße unnd
+                                                  dů mit allem erntst hierob halten, damit die
+                                                  gehorsammen destermynder von den widerspennigen
+                                                  belestiget, wie wir dir vertruwend, dů an dinem
+                                                  flysß nützit erwinden<note type="editorial">
+                                                  fehlen, mangeln, Id. XVI, 580f.</note> lassen,
+                                                  stadt uns jnn gnaden umb dich zů erkhennen.
+                                                  Datum.<note type="critical">Die Zeitangabe fehlt
+                                                  in der Vorlage.</note></p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt<placeName ref="Zürich">Zürich</placeName></p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Johann Heinrich
+                                                  Ott druckte in seinen Täuferannalen von 1682 eine
+                                                  andere Fassung desselben Mandats ab, welche auf
+                                                  den 11. Februar datiert war und die heute nicht
+                                                  auffindbar ist. Der von Ott abgedruckte Text
+                                                  lautet: «Edictum Magistratûs Tigur. d. 11. Febr.
+                                                  promulgatum, ita habet inter alia: Und alsdann
+                                                  jetz ein zeithar vil der Underthonen/ mit Leib und
+                                                  Gut auß disen Landen in das Niderland/ genannt
+                                                  Meer-Herren (allda die Widerttaͤufferisch Sect
+                                                  sich halten sol) gezogen. Und aber etlich
+                                                  derselben/ so sy jhres mithin weggezognen Guts/
+                                                  entbloͤßt/ sich widrumb harauff mit froͤmbden
+                                                  gleicher irrigen Lehr Anhaͤngern und
+                                                  Redlifuͤhrern/ begebend: darauß leichtlich/ wo nit
+                                                  bey zeiten darzu gethan/ sonders sy
+                                                  stillschweigend gelitten/ ettwas gemeinen Unrahts
+                                                  und Schadens erwachsen moͤchte. Und wiewol bißhar
+                                                  einem jeden Burger und Landtmann zugelassen seiner
+                                                  Gelegenheit nach/ wo er sein Auffenthalt und
+                                                  Nahrung zuverbessern meint/ anderstwo sich
+                                                  zusetzen und zudienen. Dieweil man aber gespürt/
+                                                  daß (leider!) der mehre Theil von obangeregts
+                                                  schaͤdlichen Taͤufferischen Jrrthumbs willen/
+                                                  solche Reisen zuhanden nemmend/ und so sy dann
+                                                  widrumb hinauff kommend/ das jhrig verthan/ denen/
+                                                  so unsern Herren (als jhrer ordenlichen Obrigkeit
+                                                  gehorsamb sind) auff dem Hals ligend/ und sonsten
+                                                  in ander weg Beschwerden in das Land bringend.
+                                                  Solchen zufuͤrkommen ist unser Herren ernstlicher
+                                                  Befelch/ daß alle jhre Ober- und Under-Vögt/ auch
+                                                  Weibel und andere jhre Diener /auff alle die/ so
+                                                  zum theil jhren bessern Nutz zuschaffen
+                                                  vermeinend/ zum theil auch also unbesinnter
+                                                  leichtfertiger Weis hinweg ziehend und
+                                                  widerkommend/ ein ernstliches Auffsehen habe. Unnd
+                                                  welcher also hinweg zogen ohn unser Herren
+                                                  Erlaubnus/ derselb nit mehr eingelassen/ sonder so
+                                                  er widrumb betraͤtten/ ohn alle Gnad an Leib und
+                                                  Gut gestrafft und auch gegen denen/ so sy uͤber
+                                                  Jhr unser Herren Verbott beherbergend und
+                                                  Underschlauff gebend/ gleichfahls gehandlet
+                                                  werdend. Hieneben auff die/ so sy heimlich
+                                                  auffiklend/ anreitzend und verfuͤhrend/ fleissige
+                                                  Kundschafft gemachet/ und wo sy zubegreiffen/ daß
+                                                  die gefaͤnklich angenommen/ man gegen jhnen jhrem
+                                                  Verdienen nach fahren könne. Deßhalb maͤnklich/ so
+                                                  in solch Verderben lauffen moͤchte/ hierinn
+                                                  gewahrnet sige/ etc.»</p>
+    </back>
+  </text>
+</TEI>

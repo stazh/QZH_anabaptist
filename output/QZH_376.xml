@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_376</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_376</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mittwuchs, den 3ten
+                                                  julij p[raese]nt[ibus] herr b[urgermeister] Kamblj
+                                                  und beid reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1578-07-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 227</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Uß<persName ref="Hofmann, Rudolf">Růdolfen Hoffmans</persName>und<persName ref="Bürgi, Jakob">Jacoben Bürgis</persName>der<note type="editorial"> korrigiert, ursprünglich:
+                                                  deß</note> abträttnen<note type="editorial">
+                                                  fortziehen, Id. XIV, 1465.</note> ­toüf­fern hab
+                                                  und gůt soll herr vogt zů<placeName ref="Wädenswil">Wedischwyl</placeName>die bůßen und ufgangnen costen
+                                                  nemmen und das gůt sonst jnn hafft und
+                                                  verbott<note type="editorial"> Sequester,
+                                                  Beschlag, Grimm 25, 152.</note> biß uff witern
+                                                  myner herren bscheid blyben, dergestalt das
+                                                  Hoffmans tochterman unnd Bürgis son die guͤter wol
+                                                  mögind bewerben<note type="editorial">
+                                                  bewirtschaften, Id. XVI, 1132.</note> und nutzen,
+                                                  doch den abträttnen gar nüdt darvon verlangen,
+                                                  nach sy das als für eigenthůmblich verwalten,
+                                                  sonnders mit wüssen eines vogts darjnne handlen,
+                                                  ouch derselbig eigentlich erkhundigen, was
+                                                  Hoffmans tochterman eigens gůts jnher gebracht und
+                                                  die sach also nach ein zytlang berůwen<note type="editorial"> liegen lassen, Id. VI,
+                                                  1901.</note>. So dann jnen mitlerwyl etwas witers
+                                                  angelegen, soll es alles wider an myn herren
+                                                  kommen, die jnen vorbehalten haben wellen,
+                                                  jederzyt nach gstaltsame der sach zehandlen und
+                                                  zůentschliesßen. Wo sonst sy beid zů ergriffen,
+                                                  söllen sy gfengklich angenommen werden.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mittwuchs, den 3ten
+                                                  julij p[raese]nt[ibus] herr b[urgermeister] Kamblj
+                                                  und beid reth».</p>
+    </back>
+  </text>
+</TEI>

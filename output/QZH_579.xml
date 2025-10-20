@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_579</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_579</idno>
+          </msIdentifier>
+          <head>Heinrich Rüzensdorfer an Bürgermeister
+                                                  und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 430</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edel, vest, fürsichtig, ersam, wyß, günstig,
+                                                  gnedig yr myn herren und oberen, ü[wer] e[rsam]
+                                                  w[ysheit] syge myn underthenig wylig dienst zůvor
+                                                  bereitt. Diewyl ich als ein kleinfuͤger<note type="editorial"> gering, Id. I, 701.</note>
+                                                  unverstendiger diser verschiner tagen uß
+                                                  trungenlicher<note type="editorial"> drückend, Id.
+                                                  XIV, 1111f.</note> nott an eüch, myn gnedig
+                                                  herren<note type="critical">Folgt gestrichen:
+                                                  ob</note> und oberen, gschriftlichen lasen<note type="critical">«lasen» am Rand</note> langen<note type="editorial"> gelangen</note> umb ein gleitt
+                                                  und sycherheitt, für<note type="editorial">
+                                                  vor</note> eüch, myn g[nedig] h[erren], zů
+                                                  kerren<note type="editorial"> sich begeben, gehen,
+                                                  Id. III, 435.</note> und von eüch als mynen g. h.
+                                                  myn hußraͤtli, werckzüg und armuͤtli<note type="editorial"> kleiner, beweglicher Besitz, Id.
+                                                  I, 457.</note> on das houbtgůtt, das myr von wegen
+                                                  ettlichs gschwaͤtz verbotten<note type="editorial"> beschlagnahmen, sequestrieren, Id. IV,
+                                                  1874.</note> ist. Soͤmlichs armůttli, hußradt und
+                                                  werckzüg ist nachmals myn begeren und früntlichs
+                                                  ansůchen an eüch, myn g[nedig] herren, soͤmlichs
+                                                  zů verfolgen<note type="editorial"> rechtlich
+                                                  zukommen, Id. I, 812.</note> zů lassen, diewyl es
+                                                  doch das myn ist und uff die 600 gulden noch
+                                                  alhier blybt und ich nitt mer dan<note type="critical">Folgt gestrichen: uns</note>
+                                                  ungfar 300 gulden<note type="critical">In der
+                                                  Vorlage: fl.</note> mitt mir hab und myne
+                                                  schwaͤgeren und schwesteren, schweher und schwiger
+                                                  alle wol zů friden<note type="critical">Folgt
+                                                  gestrichen: u</note> synd und gern wettend, das
+                                                  myr das myn wurde und ich sunst mynen g. h. in
+                                                  alen dingen ghorsame gleistet hab, ußgenomen, das
+                                                  ich den eid nitt hab welen und koͤnen thůn dan
+                                                  mitt schwerer gwüsne, ja ich blyb schlecht und
+                                                  einfalt by den wortten Kristi und Jacobi.<note type="editorial"> Vgl. Mt 5,33-37 und Jak
+                                                  5,12</note> Bitt eüch, myn g. h., yr welend myr
+                                                  verzyhen, das ich kein bscheid han welen gen<note type="editorial"> geben</note>, dan ich hans nit
+                                                  glertt, ich hetts gůtt im hertzen ghan, aber ich
+                                                  kans nit zů wortten bringen und ußsprechen, wie
+                                                  ich aber gern thede. Darzů blybend yr by dem
+                                                  üweren und ich by dem mynen, so spricht<note type="critical">Folgt gestrichen: s</note>
+                                                  Boulus<persName ref="Paulus"/><persName ref="Timotheus">zum Timotheo</persName>, er soͤle sych
+                                                  entschlan<note type="editorial"> zurückweisen, Id.
+                                                  IX, 408.</note> aler reden<note type="critical">Folgt gestrichen: da</note>, die zang geberynd,
+                                                  die aber myn herr schwager Burcket Lemen<note type="editorial"> Burkhard Leemann</note><persName ref="Leemann, Burkhard"/> vermeintt, ich syge
+                                                  schuldig, rechning<note type="editorial">
+                                                  Rechenschaft</note> zgend iederman, so hof ich,
+                                                  ich hab myn glouben bekentt und anzeigt, was mych
+                                                  yre und zů schwer syge, so han ych ie rechning myn
+                                                  glouben gen und anzeigt, weis ouch wol, so ich so
+                                                  schlecht und einfaltt darvon grett hett, yr
+                                                  hettend daran nitt moͤgen komen<note type="editorial"> daran komen: es annehmen, Grimm
+                                                  11, 1675.</note>. Ich dancken ouch eüch als mynen
+                                                  g. h. uffs aler hoͤchst umb üwer schutz und schyrm
+                                                  und trüwe warung<note type="editorial"> Obhut, Id.
+                                                  XVI, 861.</note> und ales gůtts. Ja wo ein
+                                                  züricher zů mir kumbt in alem gůten, dem wyl ich
+                                                  gůtts thůn<note type="critical">«thůn» am Rand mit
+                                                  Verweiszeichen</note>, so ich ienen<note type="editorial"> irgendwo, Id. I, 266.</note> kan
+                                                  und mag und myn vatterland<note type="critical">Folgt gestrichen: z</note> zů lieben, bitten
+                                                  derhalben nachmall, diewyl ich und myn liebe
+                                                  hußfrouw nienen kein leid nit thon hand und sych
+                                                  niemand ab uns klagen kan. Darzů so han ich nie
+                                                  wylens<note type="critical">Folgt gestrichen:
+                                                  ka</note> ghan ins<placeName ref="Mähren">Merheren</placeName>land und wil noch nitt dryn, dan ich gantz und
+                                                  gar nitt yres gloubens gar nitt bin. Darzů han ich
+                                                  wol mynen wyb und kinden nach muͤsen. Ja yr
+                                                  doͤrfend nitt besorgen, das myn kinden eüch werden
+                                                  ufbunden syn. Ob ich glych sturbe, so wurdend
+                                                  gwüß<note type="critical">Folgt gestrichen:
+                                                  g</note> myne kind eüch nit ufbunden syn. Darzů
+                                                  will ich und myn hußfrouw<note type="critical">Folgt gestrichen: und</note> uns dister gnöwer
+                                                  ußziehen damitt, das mir unsere kind dister bas
+                                                  moͤgend erziehen, darzů hand mir merr uf dye kind
+                                                  gsetzt, das mirs überkoͤmend dan grad um<note type="critical">«um» über der Zeile</note> das
+                                                  zytlich gůtt. Bitt deshalben eüch, myn gnedig
+                                                  herren, gantz früntlich und trungelich, welend
+                                                  doch eüch lasen zů<note type="critical">Folgt
+                                                  gestrichen: z</note> hertzen gan myn liebe
+                                                  hußfrouw, dye dan groß<note type="editorial">
+                                                  gross zum Kind: schwanger, <hl to="http://fwb-online.de/go/gros.s.4adj_1619642178"><Hyperlink>http://fwb-online.de/go/gros.s.4adj_1619642178</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> zum
+                                                  kind<note type="critical">Folgt gestrichen:
+                                                  ge</note> ist, und sonst 3 kleine unerzogne kind
+                                                  und land mir myn hußradt und werckzüg doch folgen
+                                                  und myn zynßle ale gar, da bitt ich eüch gantz
+                                                  früntlich umb, damitt das ich myn wyb und kynd
+                                                  dister bas erhalten koͤnd. Ich versych mich wol,
+                                                  gnedig yr myn herren, ich hab alda kein blatz,
+                                                  diewyl ich eüch, mynen g. h., hab muͤsen anzeigen,
+                                                  wo es syge. Aber gott lob, ich weis ein andere
+                                                  herberg, so ich da kein blatz, bitt derhalb eüch,
+                                                  myne gnedigen herren, ir welend mich in gnaden lan
+                                                  entbfolen syn, dan gott, der ein durchschouwer
+                                                  aler hertzen und nieren ist, der weist, das ichs
+                                                  durch kein kyb<note type="editorial"> Zorn,
+                                                  Streit, Id. III, 105f.</note> noch anders, sonder
+                                                  durch myner seelen heil und seligkeitt wilen<note type="critical">«wilen» am Rand mit
+                                                  Verweiszeichen</note>. Hiemitt sind gott dem
+                                                  almechtigen in sy schutz und schirm bevolhen.</p>
+                                                  <p rend="margin-top">U[wer] e[rsam] w[ysheit]
+                                                  undertheinger</p>
+                                                  <p>Heinrich Rützenstorffer</p>
+                                                  <p rend="margin-top">[PS]: Gnedig yr myn heren,
+                                                  land mich doch geniessen mynes lieben
+                                                  großvatters<note type="editorial"> Stefan
+                                                  Rützensdorfer (gest. 1520)<persName ref="Rützensdorfer, Stefan"/>, Werkmeister der
+                                                  Stadt Zürich.</note> saͤligen, von dem yr dan vil
+                                                  herliche gebeüw hand, insonders das renweger
+                                                  bolwerck<note type="editorial">
+                                                  Rennwegbollwerk</note> und andere herliche beüw,
+                                                  da er lange zitt üwer (myner herren) diener, der
+                                                  statt werckmeister, gsin ist.<note type="critical">Folgt auf der Rückseite die Adresse: An den
+                                                  ersamen und wysen heren burgermeister und ratt der
+                                                  loblichen statt Zürich, mynen gnedygen
+                                                  herren.</note></p>
+                                                  <p rend="margin-top">An den ersamen und wysen
+                                                  heren burgermeister und ratt der loblichen statt
+                                                  Zürich, mynen gnedigen herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

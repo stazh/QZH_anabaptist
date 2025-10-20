@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_288</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_288</idno>
+          </msIdentifier>
+          <head>Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 139</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Diewyl herr schultheiß Hußer<note type="editorial"> Joachim Huser</note><persName ref="Huser, Joachim"/> jetzmalen verwalter dieser
+                                                  herrschafft<note type="editorial">Gemeint ist Wülflingen, dessen Gerichtsherr<persName ref="Steiner, Andreas">Andreas Steiner</persName>1565
+                                                  starb.</note> jst, söllent jm dise mängel
+                                                  jnsehens<note type="editorial"> Vorsorge
+                                                  (treffen), Id. VII, 562f.</note> zethůnd under
+                                                  myner herren sigel und von der kinden
+                                                  fründtschafft<note type="editorial">
+                                                  Verwandtschaft</note> zůgschriben werden.</p>
+                                                  <p>Dem vogt zů<placeName ref="Knonau">Knonow</placeName>deß<note type="editorial"> Betrifft Heini
+                                                  Schneewli und dessen Sohn in Affoltern am Albis
+                                                  vgl. die vorausgehende Nummer.</note> berichten
+                                                  und jm darby bevolhen, wo der sun zů betretten,
+                                                  das er gfenglichen angenommen werde, und sover er
+                                                  funde, das der vater glycher meinung, möge er deß
+                                                  myn herren verstendigen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

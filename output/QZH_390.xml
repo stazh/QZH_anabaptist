@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_390</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_390</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Schwarz (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1579-08-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 241</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeister unnd rath der Statt Zürich
+                                                  unnseren grůß zuvor. Besonnders gethrüwer, lieber
+                                                  unndervogt, unns kommpt abermaalen glouplich
+                                                  für<note type="editorial"> fürkommen: zu Ohren
+                                                  kommen, kund werden, Id. III, 279.</note>, wie
+                                                  sich<note type="critical">korrigiert,
+                                                  ursprünglich: das</note> jnn unnsere vogtyg
+                                                  Alltstetten<note type="critical">Folgt gestrichen:
+                                                  sich</note><placeName ref="Alstetten"/> ettliche
+                                                  redlifuͤrer und ufwiglere der ­toüf­feren
+                                                  jngelasßen unnd von ettlichen den unnseren
+                                                  ufennhallten unnd beherberget werdint. Dartzu
+                                                  etliche der unnseren mit den selben den
+                                                  strich<note type="editorial"> Weg, Id. XI,
+                                                  2031-2034</note> hinwäg zenemmen vorhabens sygen.
+                                                  Unnd so dann sölliches unseren meermaalen
+                                                  usganngnen manndathenn zewider unnd sölliche
+                                                  ufrüͤrische redlifuͤrer jnn unnseren gricht unnd
+                                                  gepieten nindert zugedulden, so jst unnser
+                                                  ernstlicher bevelch, will unnd meynung, du wellist
+                                                  mit sonnderem flyß uff sölliche personnen
+                                                  ufsehenns unnd acht haben und, wo derselben
+                                                  einiche verhannden, sy mit sampt denen, so sy
+                                                  beherbergen<note type="critical">Folgt gestrichen:
+                                                  unns</note>, gfennklichen annemmen unnd unns
+                                                  verwart zufuͤren. Darnebent ouch wo du gehortist
+                                                  ald<note type="editorial"> oder</note> vernemist,
+                                                  das einiche der unnseren mit jnnen ald sonnst
+                                                  hinweg ziechen wellten, alsdann du denselben
+                                                  angentz<note type="editorial"> sofort, Id. II,
+                                                  19.</note> all<note type="critical">«all» über der
+                                                  Zeile</note> jr hab unnd gut biß uff wytheren
+                                                  unnseren bscheid jnn hafft unnd verbott<note type="editorial"> Sequester, Beschlag, Grimm 25,
+                                                  152.</note> leggen unnd sölliches alles jnn
+                                                  thrüwen ußrichten unnd versehen, wie wir dir
+                                                  verthruwend an<note type="critical">«an» über der
+                                                  Zeile, in der Zeile gestrichen: vor</note> dir
+                                                  nützit<note type="critical">Folgt gestrichen:
+                                                  underlasßen</note> erwinden<note type="editorial">
+                                                  fehlen, mangeln, Id. XVI, 580f.</note> werde.
+                                                  Datum den 10. d[ies]<note type="critical">Folgt
+                                                  gestrichen: ju</note> augustj anno etc. 79.</p>
+                                                  <p rend="margin-top">Unnserem besonders<note type="critical">«besonders» über der Zeile, in der
+                                                  Zeile gestrichen: lieben</note> gethrüwen, lieben
+                                                  unndervogt zů Allstetten Hanns Schwartzen</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

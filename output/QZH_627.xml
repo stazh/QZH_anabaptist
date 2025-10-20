@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_627</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_627</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Gorius
+                                                  Weber</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1595-06-21"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 478</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als meister Caspar Haffner<note type="editorial"> Kaspar Hafner
+                                                  (1531-1605)<persName ref="Hafner, Kaspar"/></note>, junckher<persName ref="Keller, Felix">Felix Keller</persName>und meister<persName ref="Heidegger, Hans">Hanns Heidegger</persName>sammbt
+                                                  herren Růdolf<note type="critical">«Růdolf» über
+                                                  der Zeile, in der Zeile gestrichen:
+                                                  Heinrich</note> Wondlich<note type="editorial">Hans<persName ref="Wonlich, Hans Rudolf">Rudolf Wonlich</persName></note>, ouch herren
+                                                  Marxen Böümler<note type="editorial"><persName ref="Bäumler, Markus">Markus Bäumler</persName></note>
+                                                  zů Gorius Weber von<placeName ref="Hausen am Albis">Hußen</placeName>, so der widertöüfferj
+                                                  anhenig<note type="editorial"> anhangend, Id. II,
+                                                  1313.</note>, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kerth<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note> und jmme eröffnet, wiewol er, jetzund
+                                                  2 mall durch die herren predicanten wegen syns
+                                                  jrrthumbs überwißen worden, welle er doch
+                                                  unangesechen er sömliches alles, so jme von
+                                                  gedachten herren predicanten fürghalten<note type="editorial"> darlegen, mündlich vortragen,
+                                                  Id. II, 1234.</note>, gůt heiße, by syner
+                                                  hardtneckigkeit verblyben und nit wie ander lüth
+                                                  jnn die kilchen gaan, alda dz göttlich worth
+                                                  zehören, unnd aber darneben sich mit kouffen und
+                                                  verkouffen wie ein ander landtman halte. Welliches
+                                                  jr, myn g[nedig] herren, gar nit ghept haben
+                                                  wellen, ouch über alles erjneren der herren
+                                                  predicanten gantz erntstlich vermanet anzůzeigen,
+                                                  ob er von dißerem synem bößen fürnemmen<note type="editorial"> Vorhaben, Id. IV, 746.</note>
+                                                  abstaan und jnn die kilchen wie ander christenlüth
+                                                  gan und sontsten, wie jmme dan gepüre, verhalten
+                                                  welle. Mit anzeigung, wo sölliches nit bescheche,
+                                                  jr, myn g[nedig] herren, jnne hinweg uff das
+                                                  meer<note type="critical">Folgt gestrichen:
+                                                  zeverkouffen gesinnet</note> zeverschicken
+                                                  gesinet<note type="editorial"> Gemeint ist die
+                                                  Galeerenstrafe.</note>. Hatt er daruff die
+                                                  andtworth geben: Begere<note type="critical">«begere» über der Zeile, in der Zeile gestrichen:
+                                                  welle</note> sich darüber zůbedencken<note type="critical">«-über zůbedencken» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen: -über
+                                                  zůbedencken […] (Lesung unklar)</note> und üch,
+                                                  myn g[nedig] herren, syn meinung, wie er sich
+                                                  verhalten welle<note type="critical">«wie er sich
+                                                  verhalten welle» am Rand mit
+                                                  Verweiszeichen</note>, uff dz ehist zůkommen
+                                                  laßen.</p>
+                                                  <p rend="margin-top">Man wil syner antwort
+                                                  warten.</p>
+                                                  <p rend="margin-top">[Urteil]: Vermelter Wäber hat
+                                                  sich anerpoten, die predigen und allgemeyn gepet
+                                                  wie anndere gloübige lüt zubesuchen und syn frowen
+                                                  (ob er die anders bereden möge) zur kilchen
+                                                  zefüren und vor der gmeind jr ee zubestetigen. Da
+                                                  dem vogt zu<placeName ref="Knonau">Knonow</placeName>,
+                                                  hieruf syn spech<note type="editorial">
+                                                  Nachforschung, Id. X, 76.</note> zemachen,
+                                                  zugeschriben, und jm vhal er widerspenig, soll er
+                                                  lut der mandatha mit straff gegen jme handlen.
+                                                  Actum<note type="critical">Folgt gestrichen:
+                                                  ment</note>sambstags den 21ten junj a[nn]o 95 p[raesen]t[ibis<persName ref="Keller, Hans">h[err] Keller</persName>unnd beid reth.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Hausen
+                                                  am Albis</p>
+    </back>
+  </text>
+</TEI>

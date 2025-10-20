@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_182</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_182</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans
+                                                  Balthasar Keller (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1544-01-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 33</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern gunst unnd geneigten willen zuvor. Frommer unnd wyßer, jnnsunders getrüwer, lieber burger unnd vogt,<persName ref="Girenbader, N.">der Gyrenbader</persName>jst unns lange zyt, wie du
+                                                  weyßt, nit on sunder<note type="editorial">
+                                                  besonderes, ausserordentliches</note> ergernuß der
+                                                  kilchen<note type="critical">Folgt gestrichen:
+                                                  gott</note> gottes der eygnrichtigen töuffery halb
+                                                  ungehorsam geweßen, gat nit zu kilchen unnd
+                                                  sündert sich aller dingen jnn
+                                                  kilchengeschäfften<note type="critical">«jnn
+                                                  kilchengeschäfften» über der Zeile</note> von der
+                                                  gemeynde<note type="critical">Folgt gestrichen:
+                                                  gottes</note>, dz unns mit der zyt<note type="critical">Folgt gestrichen: zu jrrung
+                                                  und</note> gegen anndern gehorsammen lüten zu
+                                                  jrrung und hindernuß dienen möchte. Unnd dyewil
+                                                  unns sollichs zugedulden lenger nit gemeynt<note type="editorial"> im Sinn haben, vgl. <hl to="http://fwb-online.de/go/meinen.h2.3v_1709348929"><Hyperlink>http://fwb-online.de/go/meinen.h2.3v_1709348929</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, so
+                                                  wellest nach jm stellen und unns den fengcklich
+                                                  uberantwurten mit jme zehandlen, ob wir jn zů
+                                                  gebürlicher gehorsame bringen möchten, daran
+                                                  thůstu unnßer gfallen.</p>
+                                                  <p>Fürer<note type="editorial"> ferner, Id. I,
+                                                  968.</note>, so konnend die unnßeren von
+                                                  Gibschyl<note type="editorial">
+                                                  Gibswil</note><placeName ref="Gibswil"/> unwegsame
+                                                  halb nit wol zu jrer pfar gan Hünnwyl<note type="editorial"> Hinwil</note><placeName ref="Hinwil"/> komen. Unnd wiewol sy den pfarren
+                                                  zu Fischental unnd<placeName ref="Wald">Wald</placeName>ettwz neͣecher gelegen, meynt man doch, sy gangen
+                                                  an deweͣders<note type="editorial"> weder der eine
+                                                  noch der andere, keiner von beiden, Id. XV,
+                                                  489.</note> ort zekilchen<note type="critical">Folgt gestrichen: da</note>. Unnd so aber vyl
+                                                  ­toüf­fery jnn selben winckel entstanden, so
+                                                  wellest jnen die wal uffthůn, zu wellicher kilchen
+                                                  sy am<note type="critical">Folgt gestrichen:
+                                                  aller</note> liebsten gan wellind, gan Wald
+                                                  ald<note type="editorial"> oder</note> gan<placeName ref="Fischenthal">Fischental</placeName>. Unnd
+                                                  welliche sy unnder dißen zweyen annemmend, da
+                                                  wellest mit jnen verschaffen<note type="editorial"> machen, dass etwas geschieht, anordnen, Id.
+                                                  VIII, 335-337.</note> unnd jnen ernstlich
+                                                  sagen<note type="critical">«unnd jnen ernstlich
+                                                  sagen» am Rand mit Verweiszeichen</note>, dz sy
+                                                  daselbs zu kilchen ganging unnd christenliche
+                                                  gehorsame<note type="critical">korrigiert,
+                                                  ursprünglich: gehorsamen</note> thüynd. Dann so sy
+                                                  dz nit thůn, dz uns wyter clag komen, wurden wir
+                                                  lůgen, dz sy thätind wie annder christenlüt. Dann
+                                                  wir jnen sölliche unghorsame unnd absünderung
+                                                  oberkeyts und eeren halb nit gestan künten.
+                                                  Darnach magst du jnen sagen, sich darnach wisßen
+                                                  zerichten. Uß<placeName ref="Zürich">Zürich</placeName>, 2.
+                                                  januarij 1544.</p>
+                                                  <p rend="margin-top">Burgermeyster und rath der
+                                                  st[adt] Zu[ri]ch.</p>
+                                                  <p rend="margin-top">Dem frommen unnd wyßen,
+                                                  unnßer jnnsunders getrüwen, lieben burger und vogt
+                                                  zu<placeName ref="Grüningen">Grüningen</placeName>Hans<persName ref="Keller, Hans Balthasar">Balthassar Kellern.</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

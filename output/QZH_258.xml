@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_258</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_258</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1563-05-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 109</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nitt gan zů des herren nachtmal.</p>
+                                                  <p>Es ward anzeigt, wie ettliche fürnemme personen
+                                                  an ettlichen orten wërend, die nitt zů des herren
+                                                  nachtmal giengend. Dorumb ward gefraget, wie und
+                                                  was man gaͤgen den selben handlen soͤllte.</p>
+                                                  <p>Daruff ward bescheid gaͤben, das man nieman gwalltiklich koͤnne darzů zwingen,<persName ref="Paulus">diewyl Paulus</persName>sage «Probet
+                                                  seipsum homo»<note type="editorial"> 1Kor 11,
+                                                  28</note> etc. Dann einen zwingen, das zů thůn,
+                                                  das er nitt verstadt, sye einen zwingen, unwirdig
+                                                  zů aͤssen und das urteil oder gericht gottes zů
+                                                  niessen. Dorumb habind unsere herren<note type="editorial"> die Ratsherren</note> von
+                                                  allterhar nieman zwungen. Welcher aber zů des
+                                                  herren disch nitt gange, den gebruche man nitt in
+                                                  gricht oder radt oder zů haͤndlen der kylchen.
+                                                  Doch lasse man inn in sinem waͤsen und eeren
+                                                  blyben, so ferr das er nieman schmaͤhe oder
+                                                  schende die ordnung gottes, ouch nienan<note type="editorial"> gar nicht, Id. IV, 762.</note>
+                                                  zů der meß oder abgoͤttery gange, sunder zum wort
+                                                  gottes und der kylchen gange, oder nitt under uns
+                                                  geduldet werde. Mitthinzů soͤlle man aber allen
+                                                  flyß anwaͤnden, besunders und wie man kan gedachte
+                                                  personen zů berichten und zů des herren mal zů
+                                                  vermanen, bitten gott, biß sy ouch herzů kummend.
+                                                  Und da man ynredt<note type="editorial">
+                                                  widersprechen, einwenden, Id. VI, 560.</note>,
+                                                  worumb man dann die toͤuffer noͤte, ire kind zů
+                                                  touffen, ist ein andere raͤchnung der kinden, die
+                                                  des herren nachtmal nitt empfahend. So ist es ein
+                                                  ander ding mitt den allten und jungen etc.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

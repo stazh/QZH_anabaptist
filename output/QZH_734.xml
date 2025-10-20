@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_734</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_734</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Ulrich Wolf (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-08-18"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 585</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger unnd vogt, uff dyn schryben, so du
+                                                  unns by zeigern<note type="editorial"> Bote,
+                                                  Überbringer und Vorzeiger eines Briefs, Id. XVII,
+                                                  393.</note> zůgeschickt, gebend wir dir den
+                                                  bescheidt:</p>
+                                                  <p>Erstlich belanngende den arbeitseligen<note type="editorial"> gebrechlich, krank, Id I,
+                                                  425.</note>unnützen mentschen<persName ref="Wyser, Melchior">Melchiorn Wißer</persName>von
+                                                  Fhürthalen<note type="critical">«Fhürthalen» am
+                                                  Rand mit Verweiszeichen, in der Zeile gestrichen:
+                                                  Uwißen</note><placeName ref="Feuerthalen"/>,
+                                                  mögist du synen brůderen unnd verwandten zewüßen
+                                                  thůn, das uff zinstag<note type="editorial">
+                                                  Dienstag</note> den letsten diß monats am morgen
+                                                  unnsere spitalspflegere jnn unnserm spital alhie
+                                                  zesamen khommen werdint. Da möge nun jemandt uß
+                                                  jnen, den verwandten, uff ernennten tag vor jnen,
+                                                  den pflegeren, erschynen, so werde man sehen, ob
+                                                  man sich mit jnen von bemelts Melchiors wegen
+                                                  verglychen khönne.</p>
+                                                  <p>Fürs ander anthreffend<persName ref="Walther, Jakob">Jaglj Walthern</persName>von<placeName ref="Räterschen">Reterschen</placeName>den widerthoüffer, söllist du
+                                                  noch mit erntst ein versůch<note type="critical">Folgt gestrichen: sch[…]</note> thůn, ob er dahin
+                                                  zebringen, dir an die hand zůversprechen, das er
+                                                  wie anndere christenlüth auch jnn die kilchen zur
+                                                  predig gahn wölle. Woveer<note type="editorial">
+                                                  wenn, Id. I, 914.</note> er sich aber desselben
+                                                  nit begeben und dardurch ledig werden welte, so
+                                                  jst unnser meinung<note type="editorial">
+                                                  Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> und
+                                                  bevelch, das du jnne unns gfengklichen<note type="critical">Folgt gestrichen: zůschic</note>
+                                                  überschicken söllist, ferner mit jme die gebür
+                                                  fürzůnemmen.</p>
+                                                  <p>Was dann fürs drit dyn<note type="critical">Folgt gestrichen: schryben</note> sonderbar
+                                                  schryben, so du an unnsern burgermeister von
+                                                  wegen<note type="critical">«wegen» über der
+                                                  Zeile</note> musterung unnd huldigung unnserer
+                                                  underthonnen, dyner amptsangehörigen, gethaan und
+                                                  er unns abhören laßen, beruͤrt, da khönnend wir uß
+                                                  allerley bedencklichen ursachen nit thůnlich noch
+                                                  gůt befinden, das du dem beschechnen andüten nach
+                                                  die huldigung von jnen jnn den kilchen jnnemmen
+                                                  söllist biß zur gelegenheit, das sy sich hernach
+                                                  jnn harnasch und wehr auch erzeigen khönnind, dann
+                                                  zůbersorgen, dasselbig ein bößen unnd söllichen
+                                                  jngang bringen, das dyne amptsangehörigen unnd
+                                                  auch anndere unnsere underthannen hernach mit
+                                                  kheinem lieb mehr dahin zebringen syn wurdint, jnn
+                                                  harnasch und wehr die huldigung zethůnd, welliches
+                                                  aber wir uß wichtigen ursachen nit also abgahn
+                                                  laßen khönnend, neben dem das uff söllich
+                                                  angedütet eid jnnemmen auch ein großer costen
+                                                  louffen wurde. Deßhalb so habent wir disere
+                                                  huldigung noch uff diß gegenwürtig hürig jar biß
+                                                  uff andere zyt und beßere gelegenheit<note type="critical">«biß uff … gelegenheit» am Rand
+                                                  mit Verweiszeichen</note> jngestelt unnd wöllend
+                                                  unns zů den unnseren versehen, sy werdint
+                                                  nütdestweniger, ob sy glych die gwonliche
+                                                  huldigung noch nit gethaan, doch alle gebürende
+                                                  gehorsamme erzeigen. Wellicher aber das nit thete,
+                                                  den wirst du wol darumb zestraffen wüßen, jst auch
+                                                  darnebent unnser meinung, das du mit den
+                                                  predicanten jnn dyner verwaltung redist und jnen
+                                                  bevelchist<note type="critical">Folgt gestrichen:
+                                                  da</note>, unnsere jm truck ußgangnen
+                                                  christenlichen mandata vorigem unnserm ansehen und
+                                                  bruchs nach flyßig jnn den kilchen dem volck
+                                                  fürzůläßen unnd durch die predigen jnzůbilden. Deß
+                                                  wellend wir unns zů jnen versehen. Datum den 18.
+                                                  d. augustj 1602.</p>
+                                                  <p rend="margin-top">Burgermeister und rhat der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů<placeName ref="Kyburg">Kyburg</placeName>, hans Ulrich Wolfen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

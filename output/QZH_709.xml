@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_709</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_709</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an ihre Landvögte und an die
+                                                  Untervögte der inneren Vogteien (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-10-12"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 560</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern<note type="critical">ZBZ Ms A 72
+                                                  beginnt: Dem frommen, wyßen, unnßerm besonnders
+                                                  gethrüwen, lieben burger unnd vogt zů Grüeningen
+                                                  Jacoben Zur Eich. Unnßern […].</note> günstigen
+                                                  geneigten willen unnd alles gůts zůvor. Frommer,
+                                                  wyßer, besonders gethrüwer, lieber burger unnd
+                                                  vogt, wiewol unnsere vorfaren unnd wir wider die
+                                                  schädlich unnd verfuͤrisch sect der
+                                                  wider­toüf­feren gůte christenliche mandat
+                                                  gemachet unnd jüngst jnn verschinnen
+                                                  fünfzechenhundert fünf unnd achtzigisten jare ein
+                                                  allgemein erntstlich mandat jnn offnem truck
+                                                  ußgahn laßen<note type="editorial"> Vgl.
+                                                  Nr. 329.</note>, wie man sich allenthalben jnn
+                                                  unnseren landen, wo widerthoüffer sind, gegen
+                                                  denselben halten sölle<note type="critical">Folgt
+                                                  gestrichen: So befindend wir</note>. Da wir unns
+                                                  versehen<note type="editorial"> erwarten,
+                                                  annehmen, Id. VII, 566f.</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  dens</note>, söllichem unnserm mandat flyßig statt
+                                                  beschechen were, so befindend wir jedoch, das
+                                                  bißhero unnd an mehrteils orten diserm unnserm
+                                                  mandat nit mit söllichem erntst und flyß, als
+                                                  unnser will und meinung<note type="editorial">
+                                                  Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> gweßen,
+                                                  sonnders von etlichen eben schlechtlich
+                                                  nachgesetzt worden jst unnd man mehrteils den
+                                                  ­toüf­feren, die nit zur kilchen gahn, noch sich
+                                                  wyßen laßen wellen, nur schlechte<note type="editorial"> einfach, gering, Id. IX, 49 u.
+                                                  61.</note> geltbůßen abgenommen unnd aber dann
+                                                  nützit wyters, wie es unnser getruckt mandat
+                                                  ußwyße<note type="editorial"> besagen, Id. XVI,
+                                                  1951.</note>
+                                                  <note type="critical">ZBZ Ms A 72: ußwyst</note>,
+                                                  gegen jnen fürgenommen<note type="critical">Folgt
+                                                  gestrichen: hat</note>, sonnders also durch die
+                                                  finger gesehn hatt. Daruß dann ervolget, das an
+                                                  etlichen orten unnsers gebiets die jar har disere
+                                                  sect der widerthaüfferen mehr zů- dann abgenommen
+                                                  unnd sy je lenger je freffner<note type="editorial"> dreist, unverschämt, Id. I,
+                                                  1286.</note> und halsstarriger worden sind.
+                                                  Deßhalb wir als ein christenliche oberkeit
+                                                  verursachet worden, hierjnnen<note type="critical">Folgt gestrichen: ein erntstlichs</note>
+                                                  notwendigs jnsehens<note type="editorial"> insehen
+                                                  tun: Vorkehrung treffen, Id. VII, 562f.</note>
+                                                  zethůnd, das vorgemelt unnser mandat widerumb
+                                                  zůernüweren unnd darüber | [fol. 263v] vernern
+                                                  erntstlichen bevelch<note type="critical">Folgt
+                                                  gestrichen: uß</note> an alle unnsere vögt unnd
+                                                  amptlüth ußgahn zelaßen, damit diser schedlichen
+                                                  sect der widerthoüfferen, uß deren allerley
+                                                  unraths volget, mit erntst gewehrt unnd deren
+                                                  anhengere uß unnseren landen vertriben werdint.
+                                                  Unnd jst hieruf zum vordristen<note type="critical">«zum vordristen» am Rand mit
+                                                  Verweiszeichen</note> unnser bevelch und will, das
+                                                  vorgemelt unnser jm fünf unnd achtzigisten jar jm
+                                                  truck ußgangen mandat jetzt angents<note type="editorial"> unverzüglich, Id. II, 19.</note>
+                                                  allenthalben uff unnser landtschafft jnn den
+                                                  kilchen an der cantzlen offentlich widerumb<note type="critical">«offentlich widerumb» am Rand mit
+                                                  Verweiszeichen</note> verläßen werde. Da dann wir
+                                                  hiemit alle pfarrer unnd predicanten, deßglych
+                                                  auch unnsere obervögt, undervögt, weibel unnd
+                                                  eegaumer<note type="editorial"> Vertreter der
+                                                  Sittenzucht, Id. II, 304.</note> by jren<note type="critical">korrigiert, ursprünglich:
+                                                  üweren</note> eyden unnd eeren zum erntstlichisten
+                                                  ermannen thůnd, das ein jeder hierjnnen, was er uß
+                                                  krafft unnsers mandats von ampts wegen<note type="critical">«von ampts wegen» am Rand</note>
+                                                  pflichtig ist, mit allem flyß unnd thrüwen
+                                                  erstatte. Innsonderheit auch so jst unnser will
+                                                  unnd meinung, diewyl by etlichen halßstarrigen
+                                                  widerthaüfferen bißhar die geltstraff wenig
+                                                  verfangen, das nun hiefür gegen denselben
+                                                  widerspennigen ein annderer erntst fürgenommen
+                                                  werde, dergestalt, wann einer nach dem er lut
+                                                  unnsers mandats gewarnet worden, von synem
+                                                  jrrthumb abzůstaan unnd auch wie anndere christen
+                                                  lüth zůr kilchen jnn die predig zegaan, dasselbig
+                                                  nit thůn unnd<note type="critical">Folgt
+                                                  gestrichen: also weder umb warnen</note> by jme
+                                                  weder warnen noch die gelt bůß nüdt verfachen
+                                                  möchte unnd also das gesetzt zil der vier wochen
+                                                  oder sontagen liesße überhin gaan unnd sich nit
+                                                  berichten laßen noch<note type="critical">«berichten laßen noch» am Rand mit
+                                                  Verweiszeichen</note> der gehorsamme begeben
+                                                  welte, der und dieselbige<note type="critical">ZBZ
+                                                  Ms A 72: dieselben</note>, es sygen wyb ald<note type="editorial"> oder</note> man, jung oder alt,
+                                                  söllint | [fol. 264r] nach verschynung<note type="editorial"> Ablauf, Id. VIII, 829.</note>
+                                                  der vier wuchen<note type="critical">«nach
+                                                  verschynung der vier wuchen» am Rand</note> ohn
+                                                  vernern verzug jren obervögten angegeben, demnach
+                                                  gfengklich angenommen unnd dannenthin von unnser
+                                                  statt und landt lut unnsers mandats verwißen oder
+                                                  aber unns gfengklich zůgeschickt werden, damit wir
+                                                  mit verwyßung vom landt oder jnn annder weg gegen
+                                                  söllichen widerspenigen lüthen handlen
+                                                  khönnind.</p>
+                                                  <p>Wellicher widerthöuffer aber, nachdem er deß
+                                                  landts verwißen worden were, sich widerumb jnns
+                                                  landt laßen wurde und doch nit von synem jrrthumb
+                                                  abstaan welte, der unnd dieselben söllent
+                                                  gfengklich angenommen unnd den nechsten unns als
+                                                  der hohen oberkeit zůgefuͤrt werden, gegen jnen
+                                                  wyter gebürende erntstliche, verdiente<note type="critical">«verdiente» am Rand mit
+                                                  Verweiszeichen</note> straff fürzůnnemmen.</p>
+                                                  <p>Was dann die lehrer und ufwigler under den
+                                                  widerthaüfferen anthrifft, deren halber jst
+                                                  jnnsonderheit unnser gantz erntstlicher bevelch,
+                                                  wo dieselben jnn unnseren grichten<note type="critical">ZBZ Ms A 72: orthen</note> und
+                                                  gebieten verzeiget werden unnd<note type="critical">«verzeiget werden unnd» am Rand
+                                                  mit Verweiszeichen</note> zůvergryffen sind, das
+                                                  sy nach lut unnsers mandats angents<note type="editorial"> unverzüglich, Id. II, 19.</note>
+                                                  mit allem flyß gesůcht, gfengklich angenommen unnd
+                                                  unns zůgebracht werden söllint,<note type="critical">Folgt gestrichen: damit wir</note>
+                                                  gegen söllichen schedlichen personen die einfalte
+                                                  lüt verfuͤrend, mit straff lybs unnd läbens nach
+                                                  gstalt der sachen zehandlen.</p>
+                                                  <p>Unnd wellend also wir unns gentzlich versehen,
+                                                  es werdint die predicanten, jtem unnsere obervögt,
+                                                  undervögt, weibel, eegaumer unnd anndere, die
+                                                  unnseren uff disere unnsere erntstliche ermannung
+                                                  und bevelch hinfüro mit mehrerm erntst und flyß,
+                                                  weder bißhar an mehrteils orten beschehen jst, uff
+                                                  die widerthoüffer ein ufsehen haben unnd ein
+                                                  jeder<note type="critical">«ein jeder» am Rand mit
+                                                  Verweiszeichen</note> unnserm mandat unnd bevelch
+                                                  mit allen thrüwem ohn einich verschonnen nachgahn.
+                                                  Dann wellicher das nit thůn unnd hierjnnen an
+                                                  syner pflicht ermanglen laßen wurde, der und
+                                                  dieselben söllend wüßen, das wir es von jnen zů
+                                                  höchster ungnad ufnemmen werdent. Dann wir
+                                                  einmalen<note type="editorial"> freilich, gewiss,
+                                                  Id. IV, 146.</note> der ­toüf­feren unverdacht syn
+                                                  unnd sy jnn unnseren landen schlecht<note type="editorial"> schlicht</note> nit lyden noch
+                                                  dulden wöllend.</p>
+                                                  <p>Es söllent auch die pfarrer und predicanten uff
+                                                  unnser landtschafft das widertaüffer mandat by
+                                                  jren handen haben unnd dasselbig alle jar zwey
+                                                  mal<note type="critical">Folgt gestrichen: oder
+                                                  mehr</note> zum wenigisten oder mehr, je nach dem
+                                                  es die nothurfft erforderet<note type="critical">Folgt gestrichen: zů beßerer erjnnerung</note>,
+                                                  an der cantzlen <nswk/> offentlich verläßen, damit
+                                                  mengklich<note type="editorial"> jeder</note>
+                                                  desselbigen dest baß<note type="editorial">
+                                                  mehr</note> erjnneret werde unnd man sich dest
+                                                  minder mit der unwüßenheit entschuldigen
+                                                  khönne.<note type="critical">Folgt in der Vorlage:
+                                                  Nota: diser annder und der nachvolgend artickel
+                                                  sind jnn ein ander mandat khommen und das
+                                                  ­toüf­fer mandat alleinig verfertiget worden; es
+                                                  folgt gestrichen: Fürs annder […] (bemängelt wird
+                                                  der schleche Besuch der Kinderlehre, der Predigt
+                                                  und des gemeinsamen Gebets. Anschliessend bricht
+                                                  der gestrichene Text ab). Der gestrichene Text
+                                                  fehlte in den einzelnen Schreiben sehr
+                                                  wahrscheinlich, da er in den Abschriften nicht
+                                                  vorkommt.</note></p>
+                                                  <p>| [fol. 265r] Das wellist, gethrüwer lieber
+                                                  burger und vogt, uff nechstkhünfftigen sontag jnn
+                                                  den kilchen dyner amptsverwaltung offentlich an
+                                                  der cantzlen nebent und mit dem getruckten
+                                                  ­toüf­fer mandat<note type="critical">«nebent und
+                                                  mit dem getruckten ­toüf­fer mandat» am Rand mit
+                                                  Verweiszeichen.</note> verläßen laßen unnd dan mit
+                                                  allen thrüwen und erntst darob halten und unnsern
+                                                  willen flyßig erstatten, als wir dann dir das
+                                                  verthruwen wellend. Datum den 12ten wynmonats anno
+                                                  1601.</p>
+                                                  <p rend="margin-top">Burgermeister und rhat der
+                                                  statt Zürich.</p>
+                                                  <p rend="margin-top">An die obervögt:<placeName ref="Kyburg">Kyburg</placeName>,<placeName ref="Eglisau">Eglisow</placeName>,<placeName ref="Grüningen">Grüningen</placeName>,<placeName ref="Greifensee">Gryffensee</placeName>,<placeName ref="Andelfingen">Andelfingen</placeName>,<placeName ref="Regensberg">Regensperg</placeName>,<placeName ref="Knonau">Knonow</placeName>,<placeName ref="Wädenswil">Wädeschwyl</placeName>,<placeName ref="Steinegg-Stammheim">Steinegg</placeName>von
+                                                  wegen Stammheim.</p>
+                                                  <p rend="margin-top">Undervögt:<placeName ref="Alstetten">Alstetten</placeName>,<placeName ref="Regensdorf">Regenstorff</placeName>,<placeName ref="Bülach">Bülach</placeName>,<placeName ref="Neuamt">Nüwampt</placeName>,<placeName ref="Schwammendingen">Schwamendingen</placeName>,<placeName ref="Rümlang">Rümlang</placeName>,<placeName ref="Höngg">Höngg</placeName>,
+                                                  Rieden und<placeName ref="Dietikon">Dietlicken</placeName>,<placeName ref="Horgen">Horgen</placeName>,<placeName ref="Thalwil">Tallwyl</placeName>und<placeName ref="Kilchberg">Kilchberg</placeName>,<placeName ref="Männedorf">Mänedorf</placeName>,<placeName ref="Meilen">Meylen</placeName>,<placeName ref="Herliberg">Herrliberg</placeName>,<placeName ref="Küsnacht">Küßnacht</placeName>,<placeName ref="Zollikon">Zollicken</placeName>,<placeName ref="Stäfa">Stäfen</placeName>,<placeName ref="Dübendorf">Dübendorf</placeName>, Rieden am<placeName ref="Albisrieden">Albiß</placeName>,<placeName ref="Birmensdorf">Birmenstorf</placeName>,<placeName ref="Wettswil">Wettischwyl</placeName>,<placeName ref="Bonstettet">Bonstetten</placeName>.</p>
+                                                  <p><placeName ref="Witikon">Wyticken</placeName>,<placeName ref="Zumikon">Zumicken</placeName>(den
+                                                  predicanten jeden ein sonderbar unbesiglet mandat
+                                                  zůstellen).</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_167</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_167</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1536-10-24"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 18</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Die bruͤder imm<placeName ref="Grüningen">Gruͤninger</placeName>ampt.</p>
+                                                  <p>Becklagend sich, wie durch<persName ref="Schmid, N.">einen Schmyd</persName>imm<placeName ref="Fischenthal">Vischental</placeName>ein
+                                                  schantlich lied<note type="editorial"> Das Lied
+                                                  hatte den Titel «Bumberlibum», vgl. Ludwig Tobler,
+                                                  Schweizerische Volkslieder, Bd. 2, Frauenfeld
+                                                  1884, 49.</note> und noch ein schantlicher spruch
+                                                  wider die diener des worts gottes uußgangen sye
+                                                  und allenthalben zů schand inen gesungen. So
+                                                  lydint sy groß unrůw von toͤufferenn und
+                                                  verfolgung von andern. Der obervogt<note type="editorial"> Hans Bleuler</note> sye trüw und
+                                                  redlich, gaͤbe gůt raͤdt und hulffe gernn. Die
+                                                  weybel aber richtind wenig uuß.</p>
+                                                  <p>Dorumb soͤllend die bruͤder ettliche
+                                                  uußschiessen<note type="editorial"> auswählen, Id.
+                                                  VIII, 1400.</note>, die den Schmyd
+                                                  beraͤchtind<note type="editorial"> zurechtweisen,
+                                                  in seine Schranken zurückweisen, Id. VI,
+                                                  311.</note>. So soll aller handel wyter an unser
+                                                  herren langen was sy darzů thůn und wie sy den iro
+                                                  schirmm gaͤbind.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

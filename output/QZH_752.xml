@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_752</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_752</idno>
+          </msIdentifier>
+          <head>Hans Ulrich Wolf an Heinrich
+                                                  Bräm</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1603-02-26"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 603</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Frommer, ehrenvester, fürsichtiger<note type="critical">In der Vorlage: fürsichter</note>, fürnemmer undt wyßer, jnsonders hoch eerrender herr burgermeister unndt fründtlicher lieber schwager. Es sind vor mir erschinen des<persName ref="Rüegg, Jaggli">Jogli Rüggen</persName>des thöuffers, so jn üwer (m[iner] gnedigen herren) gefangenschafft ligt, eeliche hußfrow mit sampt<persName ref="Rüegg, Hans">Hanß Rüggen</persName>uff der
+                                                  Flů<note type="editorial"> Fluh, Weiler in der
+                                                  Gemeinde Bauma.</note><placeName ref="Bauma, Fluh"/>, synem brůder, unnd mich hochtrungenlich
+                                                  gebethen, diewyl vorgemelter thöuffer als jr ehman
+                                                  und brůder von synem jrßal<note type="editorial">
+                                                  Irrtum, Irrlehre, Id. I, 411.</note> der
+                                                  thöuffereij nit abtsohn, sonder für unnd für jnn
+                                                  syner hardtnegkigheitt und uff synem kybkopf<note type="editorial"> Starrkopf, Id. III, 412.</note>
+                                                  verharet unnd aber jhemerdar vil costens uff jnne
+                                                  gadt, den sy, die frow, noch er, der man,
+                                                  dheinswegs<note type="editorial">
+                                                  keineswegs</note> zůbezallen nicht vermöchten, dan
+                                                  sy nützit haben dan dörtt ein klein, unachtsam,
+                                                  schlecht<note type="editorial"> einfach</note>
+                                                  behußenlj unnd vier kleine unerzogne kinder, darzů
+                                                  ouch ein alte betagte můtter, so über die sibenzig
+                                                  jarren alt. Unnd mögen sy sich also kümberlich
+                                                  unnd bloß mit arbeithen und spinnen, unnd was
+                                                  jnnen von der kirchen und biderben lüthen mit
+                                                  getheilt wirtt, ußbringen<note type="editorial">
+                                                  durchbringen, erhalten, Id. V, 720f.</note>. Dann
+                                                  wan jnen sollicher costen wurde uffgleith, so
+                                                  müßen sy uff die gaßen und an bedtelstab
+                                                  geschlagen werden, ouch dem almůßen uffbunden syn,
+                                                  dan sy mir den costen, so über jnn zů<placeName ref="Kyburg">Kyburg</placeName>ergangen, nit
+                                                  zůerleggen gehept, sonder jnnen ethwas daran
+                                                  geschengkt unnd nachgelaßen. Jr wellen anordnung
+                                                  geben und verschaffen<note type="editorial">
+                                                  machen, dass, Id. VIII, 335.</note>, daß dißer
+                                                  thöuffer ethwan an ein ordt jn spittahl gethon
+                                                  unnd mit kettinen verwardt und daselbst mit spyß
+                                                  und trangk erhalten, biß syne sachen ledtstlichen
+                                                  ouch an ein orth gemachet oder nach mittlen
+                                                  betrachtet, das ein anders jn anderweg mit jme
+                                                  fürgenommen unndt gehandlet werde, das man synen
+                                                  unendtprosten<note type="editorial"> unbeschadet,
+                                                  Id. V, 852.</note> undt unbeschwert syn möge. Unnd
+                                                  diewyl dann nun jre sachen wie obvermeldet<note type="editorial"> oben erwähnt</note> gestaltet
+                                                  und nützit verhanden dan armůtt, deße jch dan ein
+                                                  grundtlichen bricht empfangen unnd von
+                                                  gloubhafften lüthen jngenommen, so langt an üch,
+                                                  herr schwager burgermeister, myn hochvlyßigs
+                                                  ansinnen unnd ersůchen, daß jr wellen von wegen
+                                                  dißer armen frowen und kindern deß orths das best
+                                                  thůn unnd sy üch umb gottes willen laßen bevolchen
+                                                  syn, damit jr ehman und vadter jnnen abgenommen
+                                                  unnd jm spittahl versorget unnd erhalten, damit sy
+                                                  nit uff die gaßen geschlagen werdint. Daß wirtt
+                                                  gott der almechtig geggen üch jn gnaden erkennen
+                                                  und üch mit himelischer belohnung dargeggen ohne
+                                                  allen zwyffel begäben. Datum den 26ten hornungs
+                                                  anno 1603 etc.</p>
+                                                  <p rend="margin-top">U[wer] d[ienst]williger
+                                                  schwager</p>
+                                                  <p>Hanß Ulrich Wolff, vogt der graveschafft
+                                                  Kyburg</p>
+                                                  <p rend="margin-top">Dem frommen, ehrenvesten,
+                                                  fürsichtigen, fürnemmen unndt wyßen herren
+                                                  Heinrich Bremmen, burgermeister der statt<placeName ref="Zürich">Zürich</placeName>, mynem hoch
+                                                  ehrrenden, jnsonders gönstigen, lieben herren und
+                                                  schwagern.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_744</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_744</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-11-06"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 595</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, wir haben dyn schryben
+                                                  empfangen unnd werdent<note type="critical">Folgt
+                                                  gestrichen: dem</note> gegen dem alhar geschickten
+                                                  gfangnen ­toüf­fer die gebür fürnemmen laßen. Was
+                                                  dann jm übrigen dyn schryben von wegen der weiblen
+                                                  unnd annderer, welliche die ­toüf­fer je zun zyten
+                                                  uff dynen bevelch nit gfengklich annemmen wöllend
+                                                  etc., belanget, gebend wir dir darüber den
+                                                  bevelch, das du jnen, den weiblen dyner
+                                                  ambtsverwaltung, uß unnserm bevelch mitt allem
+                                                  erntst anzeigist, das sy by verlierung jrer
+                                                  diensten und so lieb jnen unnser huld und gnad
+                                                  jst<note type="critical">«jst» über der
+                                                  Zeile</note>, jederzyt das, so du jnen bevilchst,
+                                                  jnnsonderheit was unnsere mandat und die
+                                                  widerthoüffer antrifft, ohn verzug mit allem flyß
+                                                  und trüwen jeder jnn synem bezirgk gehorsamlich
+                                                  ußrichte, da ein jeder weibel allwegen wol
+                                                  ehrliche lüt finden wirt, die jme synen bevelch
+                                                  volnstrecken helfen werdent, als under dynen
+                                                  vorfaren auch beschechen unnd unns derhalben
+                                                  dhein<note type="editorial"> keine</note> sondere
+                                                  klag fürkhommen jst. Welte sich aber jemandt deß
+                                                  unghorsamlich verweigeren, den wirst du wol mit
+                                                  erntst darzů zehalten oder unns deß zůberichten
+                                                  wüßen. Auch uff die ­toüf­fer dyn flyßige<note type="critical">«flyßige» über der Zeile, in der
+                                                  Zeile gestrichen: ernstliche</note> spech<note type="editorial"> Nachforschung, Fahndung, Id. X,
+                                                  76.</note> machen und die halsstarrigen, jnmaßen
+                                                  wir dir hievor mehr dann einest bevolchen,
+                                                  gefengklich annemmen laßen unnd also<note type="critical">«also» über der Zeile</note> mit
+                                                  allem erntst ob unnseren mandaten halten, deß
+                                                  wellend wir unns zů dir versehen und das jnn
+                                                  gnaden gegen dir erkhennen. Datum den 6ten novemb.
+                                                  a[nn]o 1602</p>
+                                                  <p rend="margin-top">B[urgermeister] und r[at]
+                                                  d[er] st[att] Zürich</p>
+                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  Eich.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

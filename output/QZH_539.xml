@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_539</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_539</idno>
+          </msIdentifier>
+          <head>Vereitelte Flucht von Hans Kleger und Joseph Peter aus der Beugehaft Vgl. Nr. 365.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1589-02-05"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 390</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Diewyl der ougenschyn, so disere beid ­toüf­fer
+                                                  den nachgengeren selbs zeiget, mittbringt, das sy
+                                                  für sich selbs ohne hilf anderer lüten uß dem<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>ußgerißen und entrunnen syn mögent und werdent,
+                                                  khandt man jm anders nützit thůn, noch der sach
+                                                  wyter nachfragen. Sy söllent aber wyter jm
+                                                  Wellenberg blyben ligen, die predicanten nachmalen
+                                                  zů jnen keeren, ob sy vilichter sich ergäben
+                                                  wurdint. Actum mitwuchs den 5ten februarij anno
+                                                  etc. 89 p[raese]nt[ibus] herr Tomman<note type="editorial"> Kaspar Thomann</note><persName ref="Thomann, Kaspar"/> und beid reth.</p>
+                                                  <p>Nota: die letst erkantnuß diser ­toüf­feren
+                                                  halb, jst hierjnn verzeichnet.<note type="editorial"> Vgl. Nr. 392.</note></p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Vgl. Nr. 365.</p>
+    </back>
+  </text>
+</TEI>

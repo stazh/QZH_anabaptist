@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_400</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_400</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Fridolin Hässi (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-10-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 251</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsernn frünndtlichen willen unnd alles gutß.
+                                                  Gestrennger unnd<note type="critical">«unnd» am
+                                                  Rand</note>eerennvester, jnnsonnders gethrüwer, lieber lanndtvogt. Vor unnß sinnd erschinnenn die unnserenn<persName ref="Venner, Petter">Petter Fänner</persName>unnd<persName ref="Müller, Hans">Hannß Müller</persName>zu<placeName ref="Urdorf">Oberurdorff</placeName>unnd unns fürbrinngenn lassenn,
+                                                  nachdem Heinj<note type="critical">Folgt
+                                                  gestrichen: P</note> Rütschj<note type="critical">Folgt gestrichen: synn e Hannsenn Müllerrß
+                                                  […]</note><persName ref="Rütschi, Heini"/>
+                                                  verschinner<note type="editorial">
+                                                  vergangener</note> zyt der toufferischen sect nach
+                                                  jnn das lannd<placeName ref="Mähren">Merhernn</placeName>gezogenn, etwas hab unnd gütlinnß mit jm gneommen,
+                                                  daß uberig, so gar ein geringß unnd wenig schazes
+                                                  wäre, zu Urdorff gelaßenn, darüber du uss
+                                                  tragennder amptspflicht hannd geschlachenn<note type="editorial"> hand schlahen: Eigentum
+                                                  angreifen</note> unnd daselbig zu unnsern unnd der
+                                                  überigen jnn der graffschaff<note type="critical">korrigiert, ursprünglich: lanndgrafschaff</note><placeName ref="Baden, Grafschaft">Baden</placeName>reigierennder orthen<note type="editorial"> Die
+                                                  Acht Alten Orte der Eidgenossenschaft</note>
+                                                  gwalt<note type="critical">«gwalt» am Rand, in der
+                                                  Zeile gestrichen: hannden</note> zubezichen
+                                                  vorhabenns. Diewyl aber gemelter Rütschj nit sovil
+                                                  vermogennß, dann daß synn schwosterlj, so nach
+                                                  jung unnd unerzogenn<note type="editorial">
+                                                  minderjährig</note>, deßglychenn synn eefrouw, so
+                                                  er gross schwannger hinnder jm verlasßen usß
+                                                  demselbigenn<note type="critical">Folgt
+                                                  gestrichen: jn[…]sechem</note> vonn wegenn vile
+                                                  synner schuldvorderenn nit erhalten und
+                                                  hingebracht werdenn möcht, bithen sy unß gantz
+                                                  unnderthenig, wir wollent bj dir unmb ein
+                                                  abstannd<note type="critical">Folgt gestrichen:
+                                                  sollcheß</note> sollicher diner fürgesezten
+                                                  meinung mit unnserm fürpitlichenn schrybenn
+                                                  enthallten der hoffnung, jrem diß<note type="critical">«diß» über der Zeile, in der Zeile
+                                                  gestrichen: sollichß</note> zu gutem gereichen.
+                                                  Unnd so nun wir unnß nit zuerjnnerenn wüßenn, daß
+                                                  weder zu Oberurdorff<note type="critical">korrigiert, ursprünglich:
+                                                  Urdorff</note><placeName ref="Urdorff"/> noch ann
+                                                  annderenn orthen, alda unnß die mannschafft<note type="editorial"> Untertanen, vgl. <hl to="http://fwb-online.de/go/manschaft.s.1f_1732174476"><Hyperlink>http://fwb-online.de/go/manschaft.s.1f_1732174476</Hyperlink></hl>
+                                                  (Frühneu­hochdeutsches Wörterbuch).</note>
+                                                  zustenndig unnd<note type="critical">Folgt
+                                                  gestrichen: die</note> daß malefitz<note type="editorial"> Hohe Gerichtsbarkeit, Id. IV,
+                                                  167.</note> jnn gemeine herrschafften diennennd
+                                                  vonn ­toüf­ferischen<note type="critical">Folgt
+                                                  gestrichen: sa unnd annderen derglychen sachenn
+                                                  unnd fälenn wegenn euch hab unnd</note> sachen
+                                                  wegenn von den lanndvögtenn je einich hab unnd gut
+                                                  bezogen<note type="editorial"> Güter an sich
+                                                  nehmen, Id. XVII, 1071.</note>
+                                                  <note type="critical">Folgt gestrichen: sonnder
+                                                  unnß sölliche ubertrettenden vonn unnß jeder
+                                                  gestrafft</note>, dann Oberurdorff nit wie die
+                                                  dorffer, so mit<note type="critical">Folgt
+                                                  gestrichen: hochem</note>der mannschafft hochenn unnd nideren gerichtenn der graffschafft Baden zugethonn zerechnenn, belanngt der wegenn unnser ganntz frünndtlichß begeren ann dich, du wellist vorn anngezognen<persName ref="Rütschi, Heini">Heinj Rütschiß</persName>hab unnd gütlj hannd abthun
+                                                  unnd selbigeß alß daß gar schlecht synem wyb,
+                                                  kinndt unnd derenn, so er sonnster inzüchenn<note type="editorial"> beherbergen, bewirten, Id. XVII,
+                                                  1002.</note> muß (jnn bedenngkung daß gemeine
+                                                  synne annsprecher<note type="editorial"> Kläger,
+                                                  Id. X, 772.</note> den meristenn theil davonn
+                                                  nemen),<note type="critical">Folgt gestrichen:
+                                                  unnd be w[…]</note> belassenn<note type="critical">«belassenn» am Rand</note> (wie dann wir unnserß
+                                                  theilß ouch gemeint sinnd)<note type="critical">Folgt gestrichen: lasßenn</note>, da<note type="critical">«da» am Rand, in der Zeile
+                                                  gestrichen: wie</note> unnß nit zwyflet, du deßenn
+                                                  uff diß unnser schryben zefrieden synn werdist.
+                                                  Sollicheß<note type="critical">Folgt gestrichen:
+                                                  wir</note> soll vonn unnß umb dich zubeschulden
+                                                  ungespert belyben. Datum sambstags den 14ten
+                                                  octobris a[nn]o 81.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem gestrenngen unnd eerenn
+                                                  vesten, unnßerem besonnders gethruwenn, liebenn
+                                                  lanndtvogt zu<placeName ref="Baden">Baden</placeName>jnn
+                                                  Ergoüw, Fridlj Hesßj, ritter unnd des raths zu<placeName ref="Glarus">Glarus</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_215</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_215</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans
+                                                  Heinrich Spross (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1554-04-12"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 66</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willenn unnd alles
+                                                  gůts zůvor. Frommer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd lanndtvogt, wir werdennt von
+                                                  unnserm lieben mitrath unnd vogt jm<placeName ref="Neuamt">Nüwenampt</placeName><persName ref="Bachofen, Beat">Beathen Bachoffen</persName>verstenndiget, das Ůlj<note type="critical">Folgt
+                                                  gestrichen: Zimberman von</note>
+                                                  Zimberman<persName ref="Zimmermann, Ůli"/> von
+                                                  Nidervisibach<note type="editorial">
+                                                  Fisibach</note><placeName ref="Fisibach"/> diner
+                                                  amptsverwaltung ein rechter redlefürer unnd
+                                                  prediger der jrrigen sect der thoüffery sin unnd
+                                                  unns die unnsern daselbs umb threffenlich<note type="editorial"> in starkem Mass, Id. XIV,
+                                                  395.</note> damit verfüren unnd ungehorsam machen
+                                                  sölle, welliches unns, wie du wol zu gedenncken
+                                                  hast, ein grosse beschwerd, unnd harjnne ein
+                                                  insechen zethůnd<note type="editorial"> insechen
+                                                  zethůnd: einschreiten, Id. VII, 562f.</note>
+                                                  von<note type="critical">Folgt gestrichen: erst
+                                                  (Lesung unsicher)</note> nöten jst. Deßhalben
+                                                  haben wir dir söllichs nit wellen verhalten<note type="editorial"> vorenthalten,
+                                                  unterschlagen</note>, damit du uff jnne, den
+                                                  Zimermann, din<note type="critical">Folgt
+                                                  gestrichen: spech</note> spech<note type="editorial"> Nachforschung, Fahndung, Id. X,
+                                                  76.</note> machen unnd [je] nachdem du die sachen
+                                                  findst<note type="critical">Folgt gestrichen:
+                                                  de</note>, daruf nach der<note type="critical">«der» über der Zeile</note> gepür unnd dinem
+                                                  guten beduncken ze schicken wüssest. Dich damit
+                                                  dem allmechtigen jnn sinen schirm thrüwlich
+                                                  bevelchende. Datum donnstags den xij. aprillis
+                                                  anno etc. liiij.</p>
+                                                  <p rend="margin-top">Burgermeyster unnd rath der
+                                                  statt<placeName ref="Zürich">Zurich</placeName>.</p>
+                                                  <p rend="margin-top">Dem frommen, wysen, unnserm
+                                                  besonnders gethrüwen, lieben burger unnd
+                                                  lanndtvogt zu<placeName ref="Baden">Baden</placeName>jnn Ergöw Hanns<persName ref="Spross, Hans Heinrich">Heinrich Sprosß.</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

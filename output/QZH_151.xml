@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_151</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_151</idno>
+          </msIdentifier>
+          <head>Gutachten des Ehegerichtes über täuferische
+                                                  Ehetrennungen Dieses
+                                                  Quellenstück fehlt in QGTS 1. Das Ehegericht muss
+                                                  das vorliegende Gutachten im Mai 1531 erstellt
+                                                  haben, nachdem es der Rat am 29. April 1531 in
+                                                  Auftrag gegeben hatte (QGTS 1, 338). In der Zeit
+                                                  zwischen dem 1. und 3 Juni 1531 legte Zürich den
+                                                  Tagsatzungsgesandten einen auf diesem Gutachten
+                                                  basierenden Entwurf vor, um das Vorgehen der
+                                                  eidgenössischen Bündnispartner bei täuferischen
+                                                  Ehetrennungen zu vereinheitlichen (vgl. EA IV/1b,
+                                                  Nr. 526 i).</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 2</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Frommen, vestenn, ersamen, fürsichtigenn,
+                                                  wysenn hern. Alls wir numals üwer ersamen
+                                                  wyßheitenn umb bericht unnd rath angerufft von der
+                                                  thöuffern wegen, da ein eegemachell<note type="editorial"> Ehegemahl, Ehepartner, Id. IV,
+                                                  69.</note> das annder verlaßt mit sampt den
+                                                  khinden, ouch wäder gebott noch eyd halltennd
+                                                  etc., hat ewer ersam wyßheyten unns bevollchenn,
+                                                  mit sampt meyster Ůlrichenn<note type="editorial">
+                                                  Huldrych Zwingli (1484-1531)</note><persName ref="Zwingli, Huldrych"/> hieruff bethrachtung
+                                                  zethůnd unnd unnser radtschleg widerumb an üch
+                                                  lassenn langen, wyter der billickeyt nach jnn
+                                                  solichem zehanndlen. Das jst flysßcklich
+                                                  beschechenn unnd jst der hinlouffennden töuffern
+                                                  halb unnser meynung:</p>
+                                                  <p>Wann ein eegemachell, das jnn der jrrung der
+                                                  töuffery vergriffenn ist, das annder unnd sine
+                                                  khind verlaßt unnd der boͤßenn rodt nachloufft
+                                                  unnd anhanngett, wo dasselbig jnn unnser herrn
+                                                  gebiett ergriffenn wirt, one gnad an lyb unnd
+                                                  läbenn gestrafft werde.</p>
+                                                  <p>So es aber nit ergriffenn unnd sich usserthalb
+                                                  erhalltet<note type="editorial"> sich
+                                                  aufhalten</note> jnn anndern ortenn, besonnder jnn
+                                                  unnserer cristenlichenn mittburgern gebietten,
+                                                  dasellbennd sol mans durch zůschrybenn der obern
+                                                  verschreyen<note type="editorial"> jemanden
+                                                  amtlich in Verruf erklären, Id. IX, 1456.</note>
+                                                  unnd verschaffenn, das mit jm gehanndlet werd nach
+                                                  sinem verdienen. Unnd so ewer ersam wyßheittenn
+                                                  sömlichs wurd annemen unnd erkhennen<note type="editorial"> festsetzen, Id. III,
+                                                  313.</note>, offenlich jnn statt unnd lannd
+                                                  ußkhünden lassen.</p>
+                                                  <p>Aber sidtenmaln<note type="editorial"> da,
+                                                  weil, Id. IV, 147.</note> nit alleyn unnser hern
+                                                  lanndtschafft mit solichem unfaßell<note type="editorial"> schlechtes Volk, Id. I,
+                                                  1056.</note> beschwärdt ist, sonnder ouch annder
+                                                  obgemellt<note type="editorial"> oben
+                                                  gemeldete</note> crystennlich stett unnd
+                                                  mittburger, die yetz uff nechstenn tag<note type="editorial"> eidgenössische Tagsatzung, Id.
+                                                  XII, 796.</note> zůsammen khomen, beduͤchte unns
+                                                  gůt unnd nütz sin, mit den selbenn hierumb ouch
+                                                  zeredenn unnd zeradtschlagenn, damit
+                                                  einhelligcklich gehanndlet unnd eyn maß gehalltenn
+                                                  wurde.<note type="editorial"> Vgl. hierzu EA
+                                                  IV/1b, Nr. 526 i.</note></p>
+                                                  <p rend="margin-top">Üwer ersam wyßheiten
+                                                  undertänigen burger am eegericht.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Dieses
+                                                  Quellenstück fehlt in QGTS 1. Das Ehegericht muss
+                                                  das vorliegende Gutachten im Mai 1531 erstellt
+                                                  haben, nachdem es der Rat am 29. April 1531 in
+                                                  Auftrag gegeben hatte (QGTS 1, 338). In der Zeit
+                                                  zwischen dem 1. und 3 Juni 1531 legte Zürich den
+                                                  Tagsatzungsgesandten einen auf diesem Gutachten
+                                                  basierenden Entwurf vor, um das Vorgehen der
+                                                  eidgenössischen Bündnispartner bei täuferischen
+                                                  Ehetrennungen zu vereinheitlichen (vgl. EA IV/1b,
+                                                  Nr. 526 i).</p>
+    </back>
+  </text>
+</TEI>

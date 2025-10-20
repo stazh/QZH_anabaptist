@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_846</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_846</idno>
+          </msIdentifier>
+          <head>Zweites Verhör von Hans Heinrich KolbAufschrift auf der Rückseite des
+                                                  Dokuments:</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 697</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Alß herr<persName ref="Bäumler, Markus">Marx Beümler</persName>, her<persName ref="Waser, Kaspar">Caspar Waser</persName>unnd beide h[erren]
+                                                  nachgengere<note type="editorial">
+                                                  Untersuchungsrichter, Id. II, 360.</note> uf jren
+                                                  bevelch widerumb zů Hannß Heinrich Kolben uff daß
+                                                  rathuß kheert, jnne zweyer artigclen alß für den
+                                                  einen, ob er nachmaalen synen empfangnen
+                                                  widerthauff für recht, den beschirmmen unnd synen
+                                                  hiemit grosen unnd schweeren begangnen<note type="critical">«begangnen» am Rand mit
+                                                  Verweiszeichen</note> fheler nach nit erkhennen
+                                                  welle, unnd dann für den annderen befragt, waß er
+                                                  ­feer­ners synem verluten nach von syner frauwen
+                                                  anzůzeigen wüße, deswegen uß heiliger schrifft
+                                                  unnd sonsten, alß zůvor ouch beschächen, der lenge
+                                                  nach sich mit jmme ersprachet und syner antwort
+                                                  begert.</p>
+                                                  <p>Hat er daruf abermaalß wytleüffig anzeigt, das
+                                                  allein syn eehfrauw jres gottlosen, verrůchten und
+                                                  vertruncknen lebens und wandelß wegen die ursach
+                                                  gewesen, daß er hinweg zogen. Dann obwol er sich
+                                                  deren sachen halben gegen jrenn und synen
+                                                  verwanden erclagt, habe eß doch alles nützit
+                                                  verfachen mögen.</p>
+                                                  <p>Was dann den angenommnen widertouff belange,
+                                                  habe er nit vermeint, darmit so ubel gfelt haben,
+                                                  dan dasselbig uß der töüfferen anwyßen und<note type="critical">«Was dann … und» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen: Inmaaßen
+                                                  er sich von den widerteüfferen uff jr fürgeben hin
+                                                  unnd er damaalen vermeint, eß nit verrücht
+                                                  syge</note> nit uß můtwillen, ouch sinem<note type="critical">«ouch sinem» über der Zeile, in
+                                                  der Zeile gestrichen: sonder allein jnn</note>
+                                                  großem widerwilen unnd hochbekhümberten<note type="critical">In der Vorlage:
+                                                  hochbekhümbet[en]</note> herzen beschechen<note type="critical">«beschechen» über der Zeile, in
+                                                  der Zeile gestrichen: da er er nit gmeint, es so
+                                                  wyt gelangen möchte, anderst thauffen
+                                                  lasen</note>. Darbj aber gwüslichen syn verstand
+                                                  nit gewesen, von unserem glauben abzůtreten. Dan
+                                                  an dem morgen, alß er hinweg zogen, syge er zůvor
+                                                  zum großen münster jnn der predig gsyn<note type="critical">«gsyn» am Rand, in der Zeile
+                                                  gestrichen: gewesen</note>. Und wie er
+                                                  heimbkommen, habe<note type="critical">«habe» über
+                                                  der Zeile, in der Zeile gestrichen: syge</note>
+                                                  er<note type="critical">Folgt gestrichen:
+                                                  den</note> die predigen denn<note type="critical">«die predigen denn» am Rand</note> nechst
+                                                  widerumb besůcht<note type="critical">«besůcht»
+                                                  nachträgliche Korrektur, in der Zeile gestrichen:
+                                                  daryn gangen</note>. Unnd wyl er synen fheler
+                                                  erkhenne, bätte er gott den almächtigen unnd üch,
+                                                  myn gnedig herren,<note type="critical">Folgt
+                                                  gestrichen: wie auch die h[erren] gelerten</note>
+                                                  umb gnad und verzichung.</p>
+                                                  <p>Fürß annder, waß er wyterß, so nach nit am
+                                                  rechten<note type="editorial"> vor Gericht</note>gwesen, ob syner frauwen zůclagen. Obwol die personen, so sölliche sachen usgeben, mit tod abgangen, so habe er erst by einem monat vernommen, daß<persName ref="Schmid, Kaspar">Caspar Schmid</persName>am<placeName ref="Zürich, Bleicherweg">Bleickerweg</placeName>und Hanns<persName ref="Schaufelberger, Hans Heinrich">Heinrich Schuffelberger</persName>der<note type="critical">Folgt gestrichen: bleicker</note>
+                                                  vheiler fürgeben<note type="editorial"> aussagen,
+                                                  Id. II, 90.</note>, daß sy von<persName ref="Steiner, Jakob">Jacob Steiner</persName>selig dem
+                                                  pfister gehört, daß alß man syn eefrauw uff ein
+                                                  zyt verloren gehept und er, Steiner, sampt synem
+                                                  vorfaren sy gesůcht, daß sy dieselbige by einem
+                                                  apt ald<note type="editorial"> oder</note>
+                                                  mäßpfaffen by<placeName ref="Bremgarten">Bremgarten</placeName>jnn einem höltzlj funden.</p>
+                                                  <p>Zum anderen habe<persName ref="Sprüngli, Jakob">Jacob Sprünglj</persName>der glaaßmaaler zwaren zů
+                                                  jmme nit selbs aber zů einem anderen, darumb er
+                                                  jme<note type="critical">«jme» über der
+                                                  Zeile</note> zůbesehen habe<note type="critical">«habe» über der Zeile</note>, geret, das syn brůder<persName ref="Sprüngli, Konrad">Cůnrat Sprünglj</persName>zum Zwifelstrik<note type="editorial"> Haus «Zum Zweifelstrick»,
+                                                  Niederdorfstrasse 25, 1912 abgetragen, vgl.
+                                                  Kunstdenkmäler des Kantons Zürich, Bd. 22 (Die
+                                                  Stadt Zürich, zweiter Teil), S.
+                                                  91.</note><placeName ref="Zürich, Haus zum Zweifelstrick"/>, so sy,
+                                                  Meisterin, ouch zů der ehe nemmen sölle,
+                                                  gsagt<note type="critical">«gsagt» über der Zeile,
+                                                  in der Zeile gestrichen: welliche zů jmme</note>,
+                                                  jnn mans kleideren khommen were<note type="critical">Lesung unsicher; folgt gestrichen:
+                                                  unnd</note>. Alß man aber wie das bemelte syn
+                                                  eefrouw uff ein<note type="critical">In der
+                                                  Vorlage: i (römische Ziffer)</note> zyt zů jme,
+                                                  Cůnraten Sprünglj<note type="critical">«wie das …
+                                                  Sprünglj» am Rand</note>, synes veteren<persName ref="Ammann, N.">houptman Ammans</persName>seligen sach
+                                                  hierüber gehebt, syge er gar zornig wo[r]den mit
+                                                  vermeldung, waß er, Sprünglj, r[everenter]
+                                                  z[melden], mit dißer<note type="critical">«dißer»
+                                                  über der Zeile, in der Zeile gestrichen:
+                                                  der</note> hůren thůn welle, dann er, Amman,
+                                                  dieselbig<note type="critical">«Amman dieselbig»
+                                                  am Rand mit Verweiszeichen, in der Zeile
+                                                  gestrichen: sy</note> ann jmme gehept, so offt er
+                                                  wellen, da man sy jmme aber für ein erlich frauwen
+                                                  gäben<note type="critical">«gäben» über der
+                                                  Zeile</note>. Und wil er nachmaalen getruwe, daß
+                                                  er mit denen jnn der wyßung vilfaltigen stucken
+                                                  unnd artigclen nur zevil erwisen unnd jmme nit
+                                                  müglich syge, mit einem sölchen wyb, so alle tag
+                                                  […]<note type="critical">Lesung unklar (vielleicht
+                                                  arabisch 3 oder römisch x)</note> maaß wyns bruche
+                                                  unnd einicher beserung nit zuverhoffen, begere er
+                                                  nachmaalen zum höchsten einer entlichen
+                                                  scheidung.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

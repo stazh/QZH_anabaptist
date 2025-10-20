@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_344</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_344</idno>
+          </msIdentifier>
+          <head>Martin Farner an Felix Brunner</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1575-04-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 195</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ehrenvester, frommer, fürsichtiger, wyser,
+                                                  jnsonders günstiger, lieber herr vogt. Uff
+                                                  beschächne unserer gnedigen herren und oberen
+                                                  ernstliche warnung und tröüwung<note type="editorial"> Drohung, Id. XIV, 1586f.</note>
+                                                  der töüffer halben hand wir sidhar kein endrung
+                                                  ald<note type="editorial"> oder</note> beßerung an
+                                                  inen gespürt, dan es irenthalben noch ein gsalt
+                                                  hat wie vorhin. Sind all anheymsch<note type="editorial"> im Land anwesend, Id. II,
+                                                  1286.</note>, gond gar nit zur predig, werend und
+                                                  verbietend ouch den iren den kilchganng und bruch
+                                                  des heiligen nachtmals, wie wirs ougenschynlichen
+                                                  und nit one leid spürend und sähend. Dan vil der
+                                                  iren, so doch underwylen<note type="editorial">
+                                                  gelegentlich, Id. XV, 1242.</note> zur kilchen
+                                                  komen, erwachsne lüt, wyb und mans personen, ir
+                                                  lebenlang nit dz heilig nachtmal s’herren mit
+                                                  andren christglöubigen empfangen und dz über alle
+                                                  warnungen, an sy gethan, als uß anstifften irer
+                                                  widertöüffer, die sy überredend, sy begiengind ein
+                                                  groß laster, so sy sich mit uns
+                                                  vereinbaretind<note type="editorial"> sich
+                                                  vereinigen, Grimm 25, 273.</note> etc. Diewyl dan
+                                                  ir wesen gestrax zewyder ist allen göttlichen und
+                                                  christenlichen, an uns bißhar gebrachten ordnungen
+                                                  und brüchen und zum abfhal und pflantzung der
+                                                  seckten gantz dienstlich. Zů dem dz es uns[ern]
+                                                  gn[ädigen] herren so ernstlich verbotten, han ich
+                                                  uß pflichtiger schuld eeren- und amptshalben üch
+                                                  als unserem günstigen gnedigen oberherren jm namen
+                                                  unserer gnedigen herren sölchs abermalen wellen
+                                                  zewüßen thůn mit anzeigung irer namen und
+                                                  heymwesen<note type="editorial"> Wohnsitz, Id.
+                                                  XVI, 1870.</note>. Mit gantz undertheniger pit,
+                                                  wellind diß min schryben imm besten verstan, ouch
+                                                  mich wie bißhar üch allwegen in gnaden laßen
+                                                  befolhen syn.</p>
+                                                  <p rend="margin-top">Und sind diß die namen der
+                                                  töüfferen von denen mir zewüßen etc.:</p>
+                                                  <p>1.<persName ref="Streler, Hans">Hanß Sträler</persName>im Niderholtz<note type="editorial">
+                                                  Niederholz</note><placeName ref="Niederholz"/>
+                                                  sampt sinen erwachsnen sünen und töchteren,
+                                                  merteils als<note type="editorial"> alles</note>
+                                                  töüfferisch.</p>
+                                                  <p>2.<persName ref="Streler, Jakob">Jacob Sträler</persName>im Aathal<note type="editorial"> Aatal, Gebiet
+                                                  in der Gemeinde Wald</note><placeName ref="Wald, Aatal"/>, jtem syn wyb, jre sün und
+                                                  töchteren gond etlich zur predig, aber gar keins
+                                                  zů dem heiligen nachtmal.</p>
+                                                  <p>3.<persName ref="Streler, Hans">Hanns Sträler</persName>zů Hallperg<note type="editorial">
+                                                  Haltberg</note><placeName ref="Wald, Haltberg"/>der elter, jtem syn sun<persName ref="Streler, Grosshans">Großhanns Sträler</persName>.</p>
+                                                  <p>4.<persName ref="Streler, Marti">Marti Sträler</persName>zů Hallperg, sampt den sinen etlichen, gaat zur
+                                                  predig, aber iren gar nümmer keins zů des herren
+                                                  nachtmal über alle warnungen. Er hat ouch bißhar
+                                                  bhuset und bherberget eines verloffnen<note type="editorial"> heimatlos, Id. III, 1136.</note>
+                                                  töüffers wyb<note type="editorial"> Dorothea
+                                                  Furer, vgl. die nacholgende Nummer.</note> und
+                                                  kind, zů denen der töüffer stetz syn wandel
+                                                  hat.</p>
+                                                  <p>[5.]<persName ref="Gartner, Gret">Gret Gartnerj</persName>,<persName ref="Walder, Heini">Heynj Walders</persName>des abgestorbnen töüffers witwen, hat jr wonung zů
+                                                  Buͤl<note type="editorial"> Büel, Gebiet in der
+                                                  Gemeinde Wald</note><placeName ref="Wald, Büel"/>uff dem berg, dz huß sampt dem hoff, hört des Walders tochtermannen zů, Jacob und Martj den Streleren und<persName ref="Schauffelberger, Ůli">Ůlin Schuffelbergern</persName>etc.</p>
+                                                  <p>[6.]<persName ref="Gartner, Kleinanne">Klinann Gartnerj</persName>, ein ledige erwachsne
+                                                  tochter, hat ir wonung zů Buͤl by irem vatter und
+                                                  bruder, jst ietz vil iaren den töüfferen
+                                                  nachgloffen.</p>
+                                                  <p rend="margin-top">U[wer] a[llzyt] w[illiger]
+                                                  d[iener]</p>
+                                                  <p>Marti Farner, diener der kilchen<placeName ref="Wald">Wald</placeName>ßs.</p>
+                                                  <p>Anno 75 apr. 14.</p>
+                                                  <p rend="margin-top">An den erenvesten, frommen,
+                                                  wysen, er[samen] Felix Brunner, obervogt zů<placeName ref="Grüningen">Grüningen</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

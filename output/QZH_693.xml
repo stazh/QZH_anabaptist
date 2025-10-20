@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_693</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_693</idno>
+          </msIdentifier>
+          <head>Johann Jakob Wagner an Hans Heinrich
+                                                  Clauser
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-02-06"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 544</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als mir verschinen 8 tag den 30. jenners von
+                                                  gloubwürdigen lüthen kundt gethon, wie die
+                                                  Spörinen hinder Gryffenberg<note type="editorial">
+                                                  Greifenberg</note><placeName ref="Greifenberg"/>,
+                                                  gebrüder, töüfferischer sect anhengige lüth, ein
+                                                  argwhönigen touffbruͤder by inen
+                                                  uffenthaltind<note type="editorial"> Unterkunft
+                                                  geben, beherbergen, Id. II, 1231.</note>,
+                                                  wellicher sie<note type="critical">Folgt
+                                                  gestrichen: in</note>understande in irer angefengten und iez lang gewärten widerspenigkeit zestercken, ouch in schriben und läßen anzefuͤren, bin ich verursacht worden, selb persönlich mit<persName ref="Hess, Benedikt">Benedict Hessen</persName>dem eegoumer dahin zekeeren und disen handel im grund zevernemmen. Derowegen anfangs zů<persName ref="Spöri, Jakob">Jacob Spörj</persName>(wellicher
+                                                  bißhar glichsnerischer<note type="editorial">
+                                                  heuchlerischer</note> wyß als ein ambidexter<note type="editorial"> Beidhänder</note> uff beiden
+                                                  achslen getragen und etwan ouch zů uns zur kilchen
+                                                  kommen) gangen, der gemelten töüfferischen
+                                                  schůlmeister beherberget, umb angeregten handel
+                                                  fründlich in ersůcht, mit hohem vermannen, weil
+                                                  bishar sinethalb hoffnung geweßen, er sich der
+                                                  töufferischen argen sect werde entsagen und wider
+                                                  zů uns keeren, von deßwegen im jemerdar zeitlicher
+                                                  straaf halb verschonet, hab ich erst dißen fuchs
+                                                  recht leernen erkennen und so vil befunden, das er
+                                                  des endtlichen fürsatzes, by sinem bößen,
+                                                  gefaßten, toüffischen whon und fantasy
+                                                  zeverharren, deßhalb ouch alles warnen und
+                                                  straffen by im (wie by sinen brüderen) verloren
+                                                  und umb sonst. Dan als ich uff gegebnen anlaß mit
+                                                  im gůter meinung mich in ein gspräch ingelassen
+                                                  und ich ime vor jaren ein kind uß dem h. touff
+                                                  gehaben<note type="editorial"> gehoben</note>,
+                                                  anfangs in fründtlicher wolmeinung ein
+                                                  gfatter<note type="editorial"> Taufpate mit Bezug
+                                                  auf die Eltern des Täuflings, vgl. Id. I,
+                                                  1128.</note> genennt, ist er gleich hönischer wyß
+                                                  gar ungerympt mir begegnet und von mir nit wöllen
+                                                  lyden, in ein gfatter zenennen, heiter und on
+                                                  alles schühen heruß gesagt, er wölt, das er
+                                                  niemals kein kind hette touffen lassen, ouch er
+                                                  selber nit getoufft were, wölte sonst wol können
+                                                  seelig werden. Es sige ouch nützit mit dem
+                                                  h[eiligen] kindertouff, möge ouch nümermer
+                                                  bybracht und erhalten<note type="editorial"> durch
+                                                  Gründe erweisen, Id. II, 1232.</note> werden, das
+                                                  man die kinder touffen sölle. Und ob ich gleich in
+                                                  hieruff hoch und thür ermanet, er sölle siner
+                                                  ehren schonen, dan es zur schmaach und schmälerung
+                                                  des h. touffs geredt, werde ouch weder im noch
+                                                  sines gleichen lästermülern von einer frommen
+                                                  oberkeit geduldtet werden, daruff in des
+                                                  h[eiligen] touffs halb mich beflissen zeberichten,
+                                                  hat er es nit wöllen annemmen, sonder uff siner
+                                                  eigenrichtigen wyß beharret. Darby geredt, wölle
+                                                  daruff sterben, das dem also sige, was er geredt
+                                                  und wölle sich gern uns gefangen geben, nit ein
+                                                  tritt weichen und darvon abston mit fererer<note type="editorial"> weiterer</note> vermeldung, es
+                                                  sigind uff erden kein frömer und besser lüth, die
+                                                  im lieber, als die touffbruͦder, wölle ouch sich
+                                                  von inen nümmermer lassen abwenden; und werde
+                                                  niemants verbiethen, das er under sinem tach nit
+                                                  dörffe ­toüf­fer, juden, thürcken oder wer im
+                                                  gefalle zůbeherbergen<note type="critical">In der
+                                                  Vorlage: zůbehergen</note>. Daruff über uns
+                                                  evangelischen (die er nun pflegt heiden zenennen)
+                                                  ein hohe schwäre klag gefuͤrt, wie ein verůcht
+                                                  läben under uns gefuͤrt werde, kein laster nit
+                                                  werde abgestelt und man zum tisch des herren lasse
+                                                  hůrer, sauffer (mit urloub<note type="editorial">
+                                                  Erlaubnis, Id. III, 960.</note>), ee­brecher,
+                                                  gyt­hünd<note type="editorial"> Geizhälse, vgl.
+                                                  Id. II, 1431.</note>, das nümerme recht sige,
+                                                  wölle er mit uns nüt mer zethůn haben. Hat also
+                                                  beide uns[ere] h. sacrament geschmächt und sich
+                                                  nur lätz<note type="editorial"> verkehrt, Id. III,
+                                                  1549.</note> angelaßen (als des vermelter
+                                                  eegoumer, der by und mit geweßen, alles gehört,
+                                                  weist kundtschafft zegeben) one nott alle sine
+                                                  inwürff und ungerympte häßische<note type="editorial"> unreinlich, schweinisch, vgl.
+                                                  Id. II, 1671.</note> thädung<note type="editorial"> Geschwätz, vgl. Id. XII, 433.</note>
+                                                  zeverzeichnen.</p>
+                                                  <p>Weil den gemelter Spörj hiemit sich gnůgsam
+                                                  mercken lassen, was für ein schalck und
+                                                  lestergeist in im steckt, das er bishar uß sorg
+                                                  sines gůts also hinder dem schilt gehalten, aber
+                                                  ietz sich gentzlich uff die thöuffery begeben, uns
+                                                  abgesagt und von mir nützit für gůt wöllen
+                                                  uffnemmen, was ich mitt im gemacht und by dißen
+                                                  dreyen bruͤderen nüt anders ist, dan allenthalb
+                                                  das toüffisch gifft in mengklichen zeschießen, wie
+                                                  sie den schon allbereit etlich in der pfarr uff ir
+                                                  parth gebracht, die zů iren predigen uff
+                                                  Dunckelwyß<note type="editorial"> Dunkelwis, Hof
+                                                  in der Gemeinde Bäretswil</note><placeName ref="Bäretswil, Dunkelwis"/> strychen<note type="critical">Folgt gestrichen: well</note>
+                                                  (deren etlich, wo es unser g[nedig] herren
+                                                  begeren, ich wol weiß zeer­nampsen), das alles zů
+                                                  abbruch der offnen predigen göttliches worts und
+                                                  verfuͤrung viller armen gwüßninen reichen thůt,
+                                                  sonderlich (nach minem beduncken<note type="critical">In der Vorlage: bedunckten</note>)
+                                                  angeregter Spörj mit verachtung des h. touffs gnůg
+                                                  vill an die sach gethon, hab ich selbs mundtlich
+                                                  alles diß e[euer] w[eisheit] wöllen verschyner
+                                                  tagen fürtragen. Weil es aber nit sein mögen,
+                                                  vermeint mir ampts halben gepüre, vor ewerem
+                                                  abscheid (darzů euch gott vill glück und gnad
+                                                  verlichen wölle) deßen mit kürze zeverstendigen
+                                                  und, wo es von nötten, weitlöuffiger nachwerts
+                                                  zeberichten<note type="critical">korrigiert,
+                                                  ursprünglich: zeverichten</note>, damit ewer
+                                                  weish[eit] darby<note type="critical">«darby» über
+                                                  der Zeile</note> abnemmen möge, was in söllichen
+                                                  lüthen steckt, wohin ir dise sich letstlich langen
+                                                  möchte gůter hoffnung, e.w. wol werde wüssen<note type="critical">Folgt gestrichen: anze</note>
+                                                  anleitung zegeben, damit söllichem unradt by
+                                                  zeiten gewert und evangelische warheit [und] die
+                                                  h. hochwürdigen sacrament wider sölliche
+                                                  lestergeister geschirmpt werde. Den 6. februarij
+                                                  anno 1601.<note type="critical">Eine Unterschrift
+                                                  fehlt.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

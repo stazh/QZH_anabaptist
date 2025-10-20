@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_489</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_489</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Sambstags den 20ten
+                                                  augustj p[raese]nt[ibus] herr Kamblj unnd beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1586-08-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 340</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Sidtmalen<note type="editorial"> da, weil, Id.
+                                                  IV, 147.</note> die personen, so uß dem<placeName ref="Neuamt">Nüwenampt</placeName>,<placeName ref="Rümlang">Rümlang</placeName>unnd ab annderen
+                                                  orten uß myner herren gebiet hinweg jnn<placeName ref="Mähren">Merrhern</placeName>,<placeName ref="Österreich">Österrych</placeName>und der
+                                                  enden zezüchen vorhabens, dasselbig nit von der
+                                                  ­toüf­feryg wegen, sonnders uß armůt unnd mangel
+                                                  thůnd, so wellent myn herren jnnansehung
+                                                  gstaltsamme<note type="editorial"> Beschaffenheit,
+                                                  Id. XI, 368.</note> jetziger leidigen zyth jnen
+                                                  nit darwider syn, sonnders ein jeden, der sich
+                                                  anderschwo baß<note type="editorial">
+                                                  besser</note> zůerhaltenn vermeindt und weißt,
+                                                  faren lasßenn, doch das sy nit widerkommen unnd
+                                                  ouch niemmanden ufwiglen söllint. Sonst es by dem
+                                                  ußgangnen mandath der ­toüf­feren halb<note type="editorial"> Nr. 329.</note>gentzlichen belyben. Unnd wann<persName ref="Müller, N. (aus dem Neuamt)">der Müller</persName>uß dem
+                                                  Nüwenambt an eydtsstatt anlobt, das er synem
+                                                  fürgeben<note type="editorial"> Äusserung, Id. II,
+                                                  90.</note> nach nit von der toüferyg wegen hinweg
+                                                  züche, söllen jme die 70 g[ulden], so er hatt,
+                                                  gevolgen und gelaßen werden.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Sambstags den 20ten
+                                                  augustj p[raese]nt[ibus] herr Kamblj unnd beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

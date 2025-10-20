@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_361</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_361</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Lux
+                                                  Escher
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1576-08-26"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 212</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren günstigen geneigten willenn unnd alles
+                                                  guts zuvor. Fromer, vester, besonnderß gethrüwer,
+                                                  lieber burger unnd vogt. Es ligt zu<placeName ref="Wülflingen">Wülflingen</placeName>uff dem
+                                                  schloß ein gefanngener<note type="editorial">
+                                                  David Falck</note>, so vonn sannt<placeName ref="St. Gallen">Gallen</placeName>pürtig unnd ­toüf­ferischer
+                                                  sect ein rechter redlifürer unnd ufwigler jst.
+                                                  Wellichenn wir, sidtmalen er vor jarenn, als wir
+                                                  jnne jnn unser gefengknuß gehept<note type="critical">«als wir jnne jnn unser gefengknuß
+                                                  gehept» am Rand mit Verweiszeichen</note>, unnsere
+                                                  lannd zemyden nach ­toüf­ferischer ard mit dem
+                                                  wortlj ja daselbig aber ann eydeßstatt versprochen
+                                                  unnd aber daßelbig nit gehalten, sonnder erst bj
+                                                  kurzen tagen<note type="critical">«erst bj kurzen
+                                                  tagen» am Rand mit Verweiszeichen</note> jnn
+                                                  dynner amptsverwaltung unnd wülflinger
+                                                  herrschafft<note type="editorial"> Die Herrschaft
+                                                  Wülflingen grenzte an die Landvogtei
+                                                  Kyburg.</note> ein<note type="critical">Folgt
+                                                  gestrichen: f</note> vile volckß uff syn
+                                                  verfürisch wesenn gebracht, uff der grichts herren
+                                                  zu Wülfflingen bewilligen zu unnseren hanndenn
+                                                  zenemen bedacht. Derhalbenn unnser meinung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, daß du
+                                                  unnd Sebastion Steiner als der eltist unnder
+                                                  denenn zu Wülflingen uch eineß ortß unnd
+                                                  stunnd<note type="critical">«unnd stunnd» am Rand
+                                                  mit Verweiszeichen</note>, alda du durch dyne
+                                                  verordneten jnn, den gefanngnen, empfachenn
+                                                  lasen<note type="critical">«lasen» (Lesung
+                                                  unsicher) über der Zeile</note> könnist,
+                                                  verglychen<note type="editorial"> sich
+                                                  verständigen, einigen, Id. II, 601.</note>. So
+                                                  wirt er, Steiner, jnne, den gefanngen, durch die
+                                                  synen von dem schloß Wülfflingen biß ann die
+                                                  ußerist grenzen wülflingischer herrschafft füeren
+                                                  unnd denselben dynem bevelchßhaberen uberlifern,
+                                                  wie du dann uß unnserem jme uberschickten schryben
+                                                  zuvernemen. Unnd so die unsern ernempten gefanngen
+                                                  bey jrenn hannden, sollen sy jnne wol bewaren unnd
+                                                  uff der stett alhar jnn unnser statt jnn unnser
+                                                  gefengknus den<placeName ref="Zürich, Wellenberg">Wellennberg</placeName>fürenn, dann wir gegenn
+                                                  jmme jrem wol verschulden nach zehanndlen wüßinnd.
+                                                  Daran beschicht unnsers gefallen, so wir umb dich
+                                                  jnn gnaden zuerkhennen geneigt sinnd. Datum
+                                                  mentagß den 27ten augustj a[nn]o 76.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt<placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem fromen, vestenn, unnserem
+                                                  besonnderß gethrüwen, lieben burger unnd vogt zu
+                                                  Kyburg Hannß Luxen Eschern.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_272</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_272</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich
+                                                  Binder
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1565-05-30"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 123</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unsern günstigen, geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, nachdem du unns diser
+                                                  tagen Peter Rumen von<placeName ref="Schöfflisdorf">Schöfflistorff</placeName>, so mit der ­toüf­ferischen
+                                                  sect behafft, gefenngklichen h[ast] zůgeschickt,
+                                                  hatt er<note type="critical">Folgt gestrichen:
+                                                  sich</note> uff anhallten unnserer verordneten,
+                                                  miner h[erren], angezeigt: Sover er<note type="critical">Folgt eine Wortstreichung</note>
+                                                  uff synem fürnemen der ­toüf­feryg beharret, wolle
+                                                  er angentz<note type="editorial"> sofort, Id. II,
+                                                  19.</note>
+                                                  <note type="critical">Folgt gestrichen: hin</note>
+                                                  sich uß unnsere gricht unnd gebieten hinweg machen
+                                                  oder aber sich unnserer religion unnd
+                                                  christenlichen gebrüchen glychformig hallten unnd
+                                                  erzeigen etc. Daruf wir jnn der gefengknuß uff ein
+                                                  urfeht erlaßen.<note type="critical">«Daruf wir …
+                                                  erlaßen» am Rand mit Verweiszeichen.</note>
+                                                  Derhalb jst unnser bevelch an dich, du wellist uff
+                                                  genanten Rumen dyn spech unnd kuntschafft<note type="editorial"> spech und kundschaft:
+                                                  Nachforschung und Erkundigung, Id. X, 76.</note>
+                                                  syners halltens halb<note type="critical">«syners
+                                                  halltens halb» am Rand mit Verweiszeichen.</note>
+                                                  machen. Unnd sover er<note type="critical">Folgt
+                                                  gestrichen: sich</note> jnn acht tagen den
+                                                  nechsten sich nit jnn die kilchen zegaan erzeigen
+                                                  wurde<note type="critical">Folgt gestrichen: als
+                                                  dann jm so uss diner amptsverwalltung ouch
+                                                  ganntz</note>, als dann du verschaff[ist], das
+                                                  er<note type="critical">Folgt gestrichen:
+                                                  sich</note> angentz<note type="editorial"> sofort,
+                                                  Id. II, 19.</note> uß unnsern gricht und gebiten
+                                                  luth syner verheißung, als obstad, hin wegzit<note type="critical">«hin wegzit» über der Zeile, in
+                                                  der Zeile gestrichen: machet</note> und anderschwo
+                                                  syner gelegenheit nach versehe<note type="editorial"> fürsorgen, versorgen, Id. VII,
+                                                  568.</note>. Hienebent soltu ouch ufsehen haben,
+                                                  das er nüzit von syner kinden gůt etc., welliches
+                                                  wir jnen vergangner jaren heimlekhend<note type="critical">Lesung unsicher</note>, verkouffe
+                                                  ald<note type="editorial"> oder</note> mit jm
+                                                  hinwegzüche, sonders jnen dasselbig alles
+                                                  unverhindert synen eigenthum bilich belybe.<note type="critical">Folgt gestrichen: unnd</note>
+                                                  Damit aber<note type="critical">Folgt gestrichen:
+                                                  die underthonen sölliche diner
+                                                  amptsverwesung</note> ein jeder<note type="critical">«ein jeder» am Rand
+                                                  eingefügt</note> sich vor dem beherbergen<note type="critical">In der Vorlage: beh’ b’gen</note>
+                                                  sollicher jrrigen unnd falschen seelen
+                                                  zuvergoumen<note type="editorial"> verhüten, Id.
+                                                  2, 302.</note> wüßind, wellent wir, das du
+                                                  mengklichen<note type="editorial"> jedermann,
+                                                  Grimm 12, Sp. 1592f.</note> der unnßeren jnn dyner
+                                                  amptswalltung, bj der vor jaren bestimpten bůß
+                                                  sich desse abzůthund unnd zů müßigen<note type="critical">Folgt gestrichen: v</note>,
+                                                  hochlich vermanist inn bethrachtung, was
+                                                  selenschedicken und verderbnuß<note type="critical">Folgt gestrichen: unns unnd den
+                                                  unnsern</note> von sollichen ­toüf­ferischen unnd
+                                                  verfürischen lüthen<note type="critical">Folgt
+                                                  gestrichen: v</note> begegnen unnd widerfaren
+                                                  möge. Deß wolten wir dich, damit du hierjnne
+                                                  u[nser] gebür unnd unnserm gůt verthruwen nach
+                                                  zehandlen wüßist, unbericht nit laßen.<note type="critical">Folgt gestrichen: Dann</note> Dann
+                                                  dir jeder zyt lieb unnd dienst zebwysen werend wir
+                                                  gůtwillig. Datum sambstag den 30. d. maij anno
+                                                  etc. 65.</p>
+                                                  <p rend="margin-top">B[urgermeister] u[nd] r[ath]
+                                                  d[er] St[adt]<placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem frommen, wysen, unnserem
+                                                  besonders gethrüwen, lieben burger unnd vogt zů<placeName ref="Regensberg">Regennsperg</placeName><persName ref="Binder, Heinrich">Heinrichen Binder</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

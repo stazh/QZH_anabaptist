@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_537</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_537</idno>
+          </msIdentifier>
+          <head>Urkunde (Kopie) und Ausstellung einer
+                                                  Quittung</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1589-01-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 388</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wir, burgermeister unnd rath der statt<placeName ref="Zürich">Zürich</placeName>, thůnd kundt
+                                                  mengklichem<note type="editorial"> jedem</note>
+                                                  mit diserm brief, demnach unns uß krafft unnserer
+                                                  hochen oberkeit jm<placeName ref="Kelleramt">Kellerampt</placeName>rechtsame<note type="editorial">
+                                                  rechtliche Stellung, Rechtsverhältnis, Id. VI,
+                                                  318.</note>der daruß hin gezognen wider­toüf­feren hab unnd gůte verfallen, das unnsere verordeten mit dem unnsern,<persName ref="Baumann, Heini">Heini Bůman</persName>von<placeName ref="Jona">Jonen</placeName>, von wegen synes brůders<persName ref="Baumann, Jakob">Jacoben Bumans</persName>(so ouch jnn das Merherrn<placeName ref="Mähren">land</placeName>hinweg gezogen)
+                                                  dergstalt überkommen sind, das derselbig zů zweyen
+                                                  bestimpten zilen<note type="editorial"> Zeitpunkt,
+                                                  Grimm 31, 1064.</note> achtzig müntz guldin geben
+                                                  unnd bezalen sölle. Welliche achtzig müntz guldin
+                                                  dann gesagter Heinj Bůman von bemelts<note type="editorial"> erwähntem</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  unnsers</note> synes brůders wegen unnserm vogte
+                                                  zů<placeName ref="Knonau">Konouw</placeName>wylandt<note type="editorial"> vormals, Id. XV, 1254f.</note>
+                                                  Růdolff Puren<note type="editorial"> Rudolf Paur
+                                                  ist 1586 gestorben.</note><persName ref="Paur, Rudolf"/> seligen jnn unnserm nammen zů
+                                                  den gesetzten zweyen zilen also bar erlegt unnd
+                                                  bezalt hat. Daß zů urkhundt habent wir unnser
+                                                  statt Zürich secret insigel offentlich harjn laßen
+                                                  trucken, den 3ten jenners anno 1589.</p>
+                                                  <p rend="margin-top">Nota:</p>
+                                                  <p>Als uff anzug<note type="editorial"> Äusserung,
+                                                  Mitteilung, Id. XVII, 517f.</note> hern vogt
+                                                  Thumyßens<note type="editorial"><persName ref="Thumysen, Junghans">Junghans Thumysen</persName></note> von
+                                                  mynen g[nädigen] herren, einem ersammen rath<note type="critical">Folgt gestrichen: ein
+                                                  quitta</note>, gesagtem Heini Bůman ein
+                                                  quittanz<note type="editorial"> Quittung, Id. V,
+                                                  1314.</note> erkhendt<note type="editorial">
+                                                  zuerkennen, vgl. <hl to="http://fwb-online.de/go/erkennen.s.3v_1709314705"><Hyperlink>http://fwb-online.de/go/erkennen.s.3v_1709314705</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> worden,
+                                                  unnd aber jch dhein<note type="editorial">
+                                                  kein</note> eigentlichen bericht finden khönnen,
+                                                  wenn und wem disere 80 müntz guldin erlegt worden
+                                                  dann allein, das vogt Thumyßen angezeigt, das vogt
+                                                  Pur selig gegen jme jichtig<note type="editorial">
+                                                  geständig, Id. II, 110.</note> und bekandtlich
+                                                  gweßen syge, von gesagtem Bůman söllich gelt
+                                                  jngenommen haben, und dz also er, vogt Thumyßen,
+                                                  wol wüße, dz diser Bůman bezalt habe, so hab jch
+                                                  uß erlauptnuß myns herrn burgermeister
+                                                  Tommans<note type="editorial"><persName ref="Thomann, Kaspar">Kaspar Thomann</persName><bm id="176"/></note> und uß bevelch und geheiß vogt
+                                                  Thumyßens mitt wüßen und willen vogt Puren seligen
+                                                  sohns (der deßwegen by mir gweßen) genanntem Heinj
+                                                  Bůman ein quittantz jnn obgeschribner form
+                                                  zůgestelt. Actum den letsten januarij anno etc.
+                                                  89.</p>
+                                                  <p rend="margin-top"><persName ref="Grebel, N. (Unterschreiber)">Underschryber Grebel</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

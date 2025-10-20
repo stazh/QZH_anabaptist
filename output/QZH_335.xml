@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_335</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_335</idno>
+          </msIdentifier>
+          <head>Verhöre und Urteile gegen Ludwig
+                                                  Dörker, Melchior
+                                                  Platzer und
+                                                  Hieronymus Falk</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1574-09-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 186</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem myn herren, die verordtneten, zu den
+                                                  drygen<note type="editorial"> drei</note> touffern
+                                                  jnn gefanngenschafft kert unnd sy mit allem ernst
+                                                  befraget, uß was grunnd unnd ursachen sy sich jnn
+                                                  diße lannd verfügt unnd darjnn geprediget, habennt
+                                                  sy all dryg zu antwurt geben.</p>
+                                                  <p>Erstlich Ludwig Türgger von Berbrunnen<note type="editorial"> Identikfikation unklar,
+                                                  vielleicht Wernborn (heute ein Ortsteil von
+                                                  Usingen)</note><placeName ref="Wernborn"/> bj
+                                                  Frannckfurt am<placeName ref="Frankfurt a. M.">Mäin</placeName>, jetz jnn<placeName ref="Mähren">Merheren</placeName>lannd wonhafft,
+                                                  so sonst synes handwerks ein zimbermann unnd aber
+                                                  jetz ein prediger<note type="critical">«so sonst …
+                                                  prediger» am Rand mit Verweiszeichen.</note>:
+                                                  Nachdem verschinens<note type="editorial">
+                                                  vergangenes</note> jars vil volcks uß einer
+                                                  eydtgnoschafft unnd ab anndern orthen zu jnen
+                                                  getzogen, unnd sy jetz dann die fursorg getragen,
+                                                  das uff diß gegenwürtig unnd kunnfftig jar
+                                                  aber<note type="editorial"> wieder, Id. I,
+                                                  40.</note> vil zu jnen ziehen wurden, hetten jre
+                                                  bruderen für guth angesechen, etlich zuverordtnen,
+                                                  die alher jnn diße lannd wannd­letind unnd die, so
+                                                  wyter zu jnen zetzüchen unnderston wurdint,
+                                                  unnderrichtetind, was jr glouben, thun unnd laßen
+                                                  leere, damit sy deßelbigen ein wüßen hetten und zu
+                                                  jnen nit alßo unbedacht khemind. Unnd were er mit
+                                                  sampt hernachgemelten synen zweygen brüderen jnn
+                                                  diße lannd verordtnet worden. Als nun er alher
+                                                  khomen unnd jnn erfarung gebracht, welliche mit
+                                                  jme wider hinweg zetzüchen willens weren, unnd das
+                                                  die ober­kheit von wegen, das das lannd sunnst mit
+                                                  ville volcks ubersetzt<note type="editorial">
+                                                  überfüllt, Id. VII, 1639.</note>, darab dhein<note type="editorial"> kein</note> unwillen empfachen
+                                                  wurde, hette er allein die selben unnd sunnst
+                                                  niemandt andern jnn synem glouben zeunderrichten
+                                                  begert. Das nun andere sich ouch darunnder
+                                                  vermischet, das syge jme nit lieb, dann er denen
+                                                  dhein schuld nach<note type="editorial">
+                                                  noch</note> ursach trage. So habe er sy ouch
+                                                  nützit<note type="editorial"> nichts</note>
+                                                  unrechts noch unbillichs gelert unnd jnen zu
+                                                  dheiner ufrur noch emporung dhein anlaß geben,
+                                                  sunders allein das ußgericht, was er von synen
+                                                  brüderen jnn bevelch gehept.</p>
+                                                  <p>Glychergestalt antwurtet Jheronimuß Falck, so
+                                                  noch wyb unnd kind zu Sannt<placeName ref="St. Gallen">Gallen</placeName>habe und ein weber, das er vor
+                                                  drygen jaren jnn das Merherren land uff synes
+                                                  vatters geheiß und schryben, der vor jme danider
+                                                  geweßen, getzogen und obvermelten Türgger zugeben
+                                                  worden, diewyl er ein schwytzer, das er mit jme
+                                                  jnn schwytzerland züchen solte. Welliches er
+                                                  gethon<note type="critical">Folgt gestrichen: und
+                                                  habe er allein brieffe jnn diße lannd getragen
+                                                  unnd dieselben denen uberantwurtet</note> und habe
+                                                  jetz nützit anders ußgricht, dann das er
+                                                  funnffzechen guldin, die er noch zu Sant Gallen
+                                                  schuldig gsyn, betzalt. Deßglychen daniden etliche
+                                                  brieff empfanngen unnd dieselben denen<note type="critical">Folgt gestrichen: alhe</note>
+                                                  uberantwurtet, denen solliche gehort habind, und
+                                                  syge erst an verschinem sambstag znacht wider zů
+                                                  dem Turgger gen Landtriken<note type="editorial">
+                                                  Landikon</note> khommen.</p>
+                                                  <p>Und letstlich so seyt Melcher Blatzer<note type="editorial"> Melchior Platzer (gest. 1583),
+                                                  vgl. ML, Bd. 3, S. 378.</note>, der appotecker, uß
+                                                  dem Etschlannd<note type="editorial">
+                                                  Südtirol</note><placeName ref="Südtirol"/> pürtig
+                                                  und jetz zu Bollowytz<note type="editorial"> Velké
+                                                  Bílovice (dt. Groß Billowitz)</note><placeName ref="Velké Bílovice"/> seßhafft, das er
+                                                  vorgemelten beiden auch zugeben und etliche
+                                                  brieff<note type="critical">Folgt gestrichen:
+                                                  ver</note>, so jme daniden uberantwurtet worden,
+                                                  verrichtet und verfertigedt<note type="editorial">
+                                                  verteilt und befördert, Id., VI, 427, und I,
+                                                  1009.</note>. Das schryben, so an üch, myn herren,
+                                                  gethon, syge von jme allein guter meinung und jnn
+                                                  warnungs wyß<note type="critical">Folgt
+                                                  gestrichen: beschechen</note> und sunst uß dheiner
+                                                  andern ursach beschehen.<note type="editorial">
+                                                  Dieses Schreiben ist nicht überliefert.</note></p>
+                                                  <p rend="margin-top">Und wiewol mit jnen allen
+                                                  drygen jrer leer und gloubens halb vilfaltig
+                                                  disputiert worden, so sind sy doch all dryg styff
+                                                  uff jrer meynung ungeennderet verharrend mitt
+                                                  antzeigung, das jnen sunst under des bapsts, ouch
+                                                  des luhtrisch, des Zwinglis leer dheine baß
+                                                  gefalle dann eben des Zwinglis leer, welliches sy
+                                                  nit zevor<note type="critical">Lesung
+                                                  unsicher</note> angezeigt haben wellen.<note type="critical">«Mitt antzeigung … angezeigt haben
+                                                  wellen» am Rand.</note> Und battend all dryg mit
+                                                  allem flyß, jr (myn herren<note type="critical">In
+                                                  der Vorlage: «myn hen» über der Zeile</note>)
+                                                  wellind sy on eyd und gluept der gefanngenschafft
+                                                  zerlaßen, so wellent sy den nechsten wider dahin
+                                                  ziechen, dannenhar sy khommen, ouch üch (myn
+                                                  herren) jnn uwer ober­kheit unüberlouffen<note type="editorial"> nicht lästig fallen, nicht
+                                                  überfallen, Id. III, 1129.</note> laßen und alles
+                                                  das halten, was sy üch mit jrem munnd haltind und
+                                                  zusagind, dann jre reden werdint ja, ja und nein,
+                                                  nein syn.</p>
+                                                  <p rend="margin-top">[Urteile]<note type="editorial"> Vor den Urteilen steht die
+                                                  Überschrift: Ludwigen Türggers von Berbrunnen,
+                                                  Iheronimuß Falck von Sannt Gallen, Melcher Platzer
+                                                  uß dem Etschland</note>: Wiewol sy all dryg von
+                                                  wegen, das sy für sich selbß, eigenns gwalts unnd
+                                                  unerloupt wider unnßeren glouben jre faltsche
+                                                  verfürische leer geprediget, jr lyb unnd leben
+                                                  verwürckt, so habennt doch myn herren sy jetzmalen
+                                                  uff jr trungenlichs<note type="editorial">
+                                                  eindringlich, inständig, Id. XIV, 1111f.</note>
+                                                  pitten der gefanngenschafft nach abrichtung des
+                                                  costenns entlediget doch mit dem gedinng<note type="editorial"> Bedinigung, Vorbehalt</note>,
+                                                  das sy den nechsten one allen vertzug ald<note type="editorial"> oder</note> sümnuß ußs myner
+                                                  herren statt unnd lannd züchen, wie sy sich dann
+                                                  deßelbigen empotten<note type="editorial">
+                                                  anerboten</note> haben. Mit dem verwarnen, so man
+                                                  sy daruber wyter ergriffen, das man dann on alle
+                                                  gnad ze jrem lyb unnd leben richten und sy nit
+                                                  anders achten, dann ob sy geschworen und gelopt
+                                                  und alßo urphecht, glüpt unnd eyd übersechen
+                                                  hetten, deßglychen, das sy jre mitbrüdern warnen,
+                                                  das sy sich nit mer alhar jnn diße lannd verfügen,
+                                                  sonnders daniden belyben sollind. Actum den 15.
+                                                  d[ies] septembriß anno etc. 74, pr[aesen]t[ibus]
+                                                  herr b[urgermeister] Kamblj<note type="editorial">
+                                                  Hans Kambli</note><persName ref="Kambli, Hans"/>
+                                                  und beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

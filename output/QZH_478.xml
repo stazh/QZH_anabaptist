@@ -1,0 +1,361 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_478</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_478</idno>
+          </msIdentifier>
+          <head>Täufermandat Das
+                                                  Täufermandat vom 25. Oktober 1585 erschien im
+                                                  Druck und ist hier auf dieser Grundlage
+                                                  wiedergegeben. Weitere Textzeugen sind das
+                                                  Druckmanuskript (StAZH, E I 7.3, Nr. 18) und ein
+                                                  Mandat (StAZH, B III 171, fol. 46v-49v), das am
+                                                  14. November 1585 vorgelesen wurde und welches in
+                                                  einer vom Unterschreiber zusammengestellten
+                                                  Sammlung von Mandaten und Verordnungen
+                                                  handschriftlich überliefert ist (vgl. auch
+                                                  Nr. 332). Auf abweichende Lesarten wird im
+                                                  textkritischen Apparat unter den Sigeln T1
+                                                  (Druckmanuskript) und T2 (handschriftliches Mandat
+                                                  vom 14. November 1585) verwiesen.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-10-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 329</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>| [A1r] Wir Burgermeister / Rath unnd der Groß
+                                                  Rath/ so man nennt die zweyhundert der Statt<placeName ref="Zürich">Zürych</placeName>/ Embietend allen
+                                                  und yeden unsern Burgern / Underthonen /
+                                                  zůgehoͤrigen und verwandten / in unsern Stetten /
+                                                  Graaffschafften / Herrschafften / Landen/
+                                                  Gerichten und Gebieten wonhafft und gesessen /
+                                                  unseren günstigen geneigten willen / und alles
+                                                  gůts zůvor. Unnd fuͤgend üch sampt und sonders
+                                                  zůvernemmen.<note type="critical">«Wir
+                                                  Burgermeister … zůvernemmen.» fehlt in T2.</note>
+                                                  Nach dem die jrrige Sect der Widertöuffern an
+                                                  ettlichen orten<note type="critical">Folgt in T2:
+                                                  nun</note> mehr zů / dann abnemmen wil: Und aber
+                                                  ein yede<note type="critical">T2: jetliche</note>
+                                                  Christenliche Oberkeit jrer tragenden pflicht /
+                                                  soͤlliche Widertoͤuffery und dero anhang
+                                                  ungestraafft nit hingon lassen kan / als die nit
+                                                  ring zůachten. Dann die Widertöuffer vil
+                                                  schaͤdlicher erschrockenlicher und
+                                                  griffenlicher<note type="editorial"> klar
+                                                  erkennbar, offensichtlich, Grimm 9, 49f.</note>
+                                                  jrrthumben von vilen Articklen habend und
+                                                  fuͤrend / in denen sy nit allein den Kindertouff
+                                                  verwerffend / und durch jren Widertouff
+                                                  schaͤndend: Darzů von unsers lieben Herren
+                                                  Nachtmal wenig haltend / sonders jrrend ouch in
+                                                  dem raͤchten Houptpuncten<note type="critical">Gemäss T1, im Druck: Houptpucten</note> der
+                                                  Christenlichen Leer. Als da sy fürgebend / daß sy
+                                                  durch jre eigne werck und lyden saͤlig werdind.
+                                                  Laͤrend hiemit uß den thüren verdienst unsers
+                                                  Herren Jesu / durch wellichen wir allein deß heils
+                                                  teilhafftig. Item durch jre Leer werdend alle
+                                                  Christenliche Kirchen verwirt und zerstoͤrt.
+                                                  Deßglychen die Regement unnd hußhaltungen
+                                                  zerrüttet: Dann sy waͤndend mengklichen ab von
+                                                  ordenlichem Kilchgang / leerend kein Christ moͤge
+                                                  im stand der Oberkeit syn / nennend sy auch
+                                                  nun<note type="editorial"> nur, Id. IV,
+                                                  764.</note> Heiden. Hebend die raͤchten Eyd<note type="critical">«Eyd» fehlt in T2</note> uff /
+                                                  dardurch die Underthonen jren Herren unnd Oberen
+                                                  verbunden sind. Ferner traͤnnends<note type="critical">T1: sy trennend</note> die Ee /
+                                                  fuͤrend einem Bidermann sin Eelich Wyb hinweg /
+                                                  einer Eerenfrouwen jren Eemann: Wysend ouch die
+                                                  Kind unnd Dienst uf<note type="editorial">
+                                                  uffwyßen: zu etwas anstiften, verleiten, Id. XVI,
+                                                  1939.</note> / daß sy von jren Eltern unnd Herren
+                                                  louffind / deßglychen die Eltern von Kinden.
+                                                  Beroubend ouch die Kinder jrer Erbguͤtern/ Damit
+                                                  sy vil gůts uß dem Land hinweg ferggind<note type="editorial"> fortschaffen, Id. I,
+                                                  1003.</note> / unnd jrer Gsellschafft im Land<placeName ref="Mähren">Meerherrn</placeName>zůeignind. Wie
+                                                  glych ettliche / so durch jr falsch anleitung sich
+                                                  daselbshin begaͤbend / Zů jrem widerkehr aber /
+                                                  den trug<note type="critical">T2: bethrug</note>
+                                                  und bschiß anzeigen könnend. Bruchend ouch mit
+                                                  verschleickung der Zoͤllen und abzügen/ ouch
+                                                  anderm so den Oberkeiten zůgehoͤrig / allerley
+                                                  gfaaren / entbloͤssend unnd beroubend ouch das
+                                                  Vatterland der hilff wi |[A1v]der
+                                                  fygentlichen<note type="editorial">
+                                                  feindlichen</note> gwalt. In summa vertrybend die
+                                                  recht Evangelisch Religion/ unnd Christenliche /
+                                                  billiche Pollitische sachen / etc. Soͤllichem
+                                                  schaͤdlichen Irrsal / unradt unnd übel mit ernst
+                                                  (darüber wir eigentliche erwaͤgung aller handlung
+                                                  gehebt)<note type="critical">«(darüber … gehebt)»
+                                                  fehlt in T2</note> zůwehren unnd gebürender Massen
+                                                  zů begegnen<note type="critical">In T1 folgt
+                                                  gestrichen: habendt wir unnd unnsere gethrüwen
+                                                  lieben eydtgnosßen unnd religions verwanndte, die
+                                                  dryg stett Bern, Basell und Schaffhusen, hierumbe
+                                                  durch unnsere abgesandte sprach unnd unnderred
+                                                  hallten lasßen und nun uff heimbringung
+                                                  derselbigen allersydts verordneten gůtachtens ouch
+                                                  desßelbigen empfanngnen berichts erwägung aller
+                                                  hanndlung unnd jr der ­toüf­fern
+                                                  unglycheit</note>: So gebietend<note type="critical">Folgt in T2: unnser gnedig herren,
+                                                  burgermeister, Clein und groß reth der statt
+                                                  Zürich (die dann daruber eigentliche erwegung
+                                                  aller handlung gehept wie» (statt «wir (wie
+                                                  dann»)</note> wir (wie dann zum theil vormalen
+                                                  mehr / durch ußgangne Mandatha / und aber yetzdann
+                                                  mit etwas wytloͤuffigerm ynsaͤhens<note type="editorial"> Vorkehrung, Beschluss, Id. VII,
+                                                  563.</note> von hocher ferner unvermydenlicher
+                                                  notturfft geschicht) zum treffenlichisten<note type="editorial"> eindringlichsten</note> unnd
+                                                  ernstlichisten: Daß sich mengklich under uns und
+                                                  den unsern<note type="critical">T2: jnen unnd den
+                                                  jren (statt «uns und den unsern»)</note> / von
+                                                  diser jrrigen Widertoͤufferischen lehr abzühe unnd
+                                                  derselben enthalte/ Dann waͤr sich dero anhaͤngig
+                                                  machete / unnd dahaͤr sich deß ordenlichen
+                                                  Kilchgangs / nach unserm<note type="critical">T2:
+                                                  jrem</note> Christenlichen unnd Eerbarn ansaͤhen /
+                                                  üsserte / und nit das gmein Gebaͤtt / und die
+                                                  Predigen in siner Pfarr ald<note type="editorial">
+                                                  oder</note> Kirchen (wie andere gehorsamme
+                                                  Underthonen pflaͤgend) besuchte / und ab erster
+                                                  sines Pfarrherrs ald Predicanten / Undervogts /
+                                                  Eegoͤumeren<note type="editorial"> Vertreter der
+                                                  Sittenzucht, Id. II, 304.</note> und der Eltisten
+                                                  in der Gmeind fründtlicher vermanung / erinneren
+                                                  und warnen / der bruchenden sünderung im Kilchgang
+                                                  abzůstan / nit thette: Sonders nachmalen ussert
+                                                  der ordenlichen versamlungs Predig blibe: Von dem
+                                                  ald denen/ soll deß nechsten Sonntags nach der
+                                                  warnung / zwentzig batzen / deß andern Sonntags
+                                                  fünff pfund / deß dritten zehen pfund / deß
+                                                  vierdten fünffzaͤhen pfund / und deß fünfften
+                                                  Sonntags / zwentzig pfund / an barem gaͤlt / unser
+                                                  Statt müntz und waͤrung<note type="critical">«unser Statt müntz und waͤrung» fehlt in
+                                                  T2</note> / und benanntlich yede der
+                                                  yetzbestimpten bůssen / glych uff den Sonntag deß
+                                                  übersaͤhens unnd ußblybens der Predig / gestrackts
+                                                  ohne alle gnad / von unsern Voͤgten<note type="critical">«von unsern Voͤgten» fehlt in
+                                                  T2</note>/ zů rechter straaff yngezogen werden. Da
+                                                  die Predicanten / Undervoͤgt / Weybel<note type="critical">«Weybel» fehlt in T2</note> unnd
+                                                  Eegoumer / yeder by sinem Eyd / soͤlliches
+                                                  allwaͤgen jren Obervoͤgten<note type="critical">«jren Obervoͤgten» fehlt in T2</note>/ leiden und
+                                                  anzeigen. Woͤlte dann by einem die abnemmung
+                                                  yetzerzelter gaͤltstraaffen nützid helffen nach
+                                                  verfachen<note type="editorial"> ausrichten, Id.
+                                                  I, 722.</note>/ der soll dannethin von aller
+                                                  Gmeindschafft unnd nutzung gemeiner guͤteren / in
+                                                  holtz unnd vaͤld / in waͤsserungen / Kouffen und
+                                                  verkouffen / ußgeschlossen / unnd desse / alle
+                                                  wyl<note type="critical">T2: diewyl</note> er sich
+                                                  nicht gehorsamklich stellet / ungenoß<note type="editorial"> (der Genossenschaft) nicht
+                                                  teilhaftig, Id. IV, 821.</note> unnd unvehig<note type="editorial"> unberechtigt, Grimm 24,
+                                                  518.</note> syn.</p>
+                                                  <p>Woͤlliche aber/ es sygend Wyb ald Mann / jung
+                                                  oder alt/ über das alles in jrer halßstarrige
+                                                  fürfuͤrend / unnd sich nit berichten lassen
+                                                  woͤltend / der ald die / soͤllend unser<note type="critical">Folgt in T2: herren</note> Statt
+                                                  unnd Landts verwisen | [Aijr] werden / unnd so sy
+                                                  darüber darinne / one vorgende begebung der
+                                                  gehorsamme / und abstand deß jrrthumbs /
+                                                  betraͤtten<note type="editorial"> antreffen, Id.
+                                                  XIV, 1486.</note> worden<note type="critical">T2:
+                                                  wurden</note> / in gfengknuß gelegt / und mit
+                                                  wasser / můß unnd brot gespyßt / biß sy uß
+                                                  Goͤttlichem wort sich underrichten / und jres
+                                                  jrrthumbs widerwysen lassend. Und wiewol wir<note type="critical">T2: gesagt unnser gnedig
+                                                  herren</note>/ die zythaͤr die yennigen so mit der
+                                                  Toͤufferey befleckt / mit jrem haab und gůt / uß
+                                                  unser<note type="critical">T2: jrer</note>
+                                                  Landschafft frey verfahren lassen. Sitmalen<note type="editorial"> da, weil, Id. IV, 147.</note>
+                                                  aber augenschynlich sich erfindt / Das wenn sy
+                                                  hinab in Merhern / und aber in berüwen kommend /
+                                                  wider dem Vatterland zůzühend. Oder daß sy daunden
+                                                  absterbend / unnd dann die Kinder / als der sach
+                                                  unschuldig / heimwertz sich wider begaͤbend /
+                                                  alles gůt verbrucht / oder jnen anderschwo
+                                                  abgenommen unnd vorgehalten<note type="editorial">
+                                                  vorenthalten</note> wirt. Da so wellend wir<note type="critical">T2: sy, unnser herren,</note>
+                                                  dheinen<note type="editorial"> keinen</note>
+                                                  mehr / so sich der Toͤufferischen Sect anhengig
+                                                  machend/ ald mit jnen hinweg zühend / jres
+                                                  zytlichen haab und Gůts nützid volgen lassen/
+                                                  sonder das zů gmeiner Statt handen nemmen. Wenn
+                                                  aber sy oder jre Kinder widerumb zů Land kommend /
+                                                  und gehorsam syn woͤllend / als dann zů
+                                                  unserm<note type="critical">T2: jr, unnßerer
+                                                  herren</note> gfallen stan / die selben uß
+                                                  söllichem Gůt / mit gnaden zůbedencken<note type="editorial"> Hilfe gewähren, Id. XIII,
+                                                  678.</note> oder nit.</p>
+                                                  <p>Und so dann ettlich Volck / Wyb und Mann/ jung
+                                                  unnd alt an der Toͤuffern heimliche Predigen
+                                                  louffend / billichen jrer unbefuͤgten
+                                                  wundergaͤbe<note type="editorial"> Neugier, Id.
+                                                  II, 64.</note>/ zůstraffen sind. Soͤlle ein yede
+                                                  der selbigen personen / wo sy sich in soͤlliche
+                                                  Toͤufferische Predigen lassend / und denen
+                                                  zůhoͤrend: Als namlich ein Mannsperson ein pfund /
+                                                  unnd ein Wybsbild zaͤhen schilling unser
+                                                  waͤrschafft<note type="critical">«unser
+                                                  waͤrschafft» fehlt in T2</note> also baar zů
+                                                  straaff verfallen syn. Denne die / so heimschen
+                                                  und froͤmbden Toͤuffern sy sygend jnen verwandt
+                                                  oder nit / wüssentlich underschlouff unnd platz /
+                                                  in jren hüseren / schüren/ oder guͤtern gebend/
+                                                  betraͤffende / von dem ald denen/ sol durch unsere
+                                                  Voͤgt unnd Amptlüt<note type="critical">«durch
+                                                  unsere Voͤgt unnd Amptlüt» fehlt in T2</note> / so
+                                                  dick<note type="editorial"> oft, Id. XII,
+                                                  1238.</note> das beschicht / zaͤhen pfund /
+                                                  unablaͤßlich zů bůß yngezogen werden. Es moͤchte
+                                                  aber einer jnen zum predigen/ oder ynzug anderer
+                                                  lüten / sy ouch abtrünnig zů | [Aijv] machen /
+                                                  dermassen fürschub<note type="editorial">
+                                                  Beihilfe, Id. VIII, 84.</note> thůn / oder sy nit
+                                                  leiden oder verjagen / wir<note type="critical">T2: Unnßer gnedig herren</note> wurdend es
+                                                  denselben (als lüth die trüw und Eyd jren Herren
+                                                  überfaren habend) on gnad rechnen / unnd darinn
+                                                  niemandts verschonen.</p>
+                                                  <p>Ob ouch yemandts / waͤr doch der selbig waͤre/
+                                                  von wüssenlichen Toͤuffern Gůt erkouffte / oder
+                                                  umb zinß bestuͤnde: Der unnd die selben soͤllend
+                                                  das Gůt unnd was sy daran bezalt haben wurdend /
+                                                  ouch die Lehenschafft oder bestehung verwürck<note type="critical">T2: verwurckt</note> und verloren
+                                                  haben/ unnd dasselbig uns<note type="critical">T2:
+                                                  unnserer gnedigen herren</note> der Oberkeit
+                                                  verfallen syn. Und dann die Ufwigler unnd Leerer
+                                                  anlangend / so alle Land durchstrychend / unnd
+                                                  einfaltige fromme lüt / inn jrrthumb / ouch mit
+                                                  Lyb unnd Gůt uß dem Land fuͤrend: Dahaͤr ein
+                                                  Christenliche Oberkeit / billichen sy an Lyb unnd
+                                                  Laͤben zůstraaffen hat/ unnd das nit von deß
+                                                  Gloubens / sonders von deßwaͤgen / daß sy
+                                                  ufruͤrisch handlend / Meineyd sind / unnd einer
+                                                  Ersamen Oberkeit jre Underthonen verfuͤrend / unnd
+                                                  ungehorsam machend. Wo nun soͤllicher Ufwigleren
+                                                  und Leerer / einiche / waͤr sy doch sygend / in
+                                                  unsern Grichten unnd Gebieten anzůkommen<note type="editorial"> antreffen, vgl. <hl to="http://fwb-online.de/go/ankommen.s.3vu_1709323546"><Hyperlink>http://fwb-online.de/go/ankommen.s.3vu_1709323546</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> und
+                                                  zůergryffen sind / die soͤllend angentz<note type="editorial"> sofort, Id. II, 19.</note> mit
+                                                  allem ernst und yffer / gfaͤngklichen angenommen /
+                                                  und uns<note type="critical">T2: jnnen</note>
+                                                  bewahrt zůgfuͤrt werden. Gegen den selben wir
+                                                  uns<note type="critical">T2: sy jnnen (statt «wir
+                                                  uns»)</note> / nach yedessen verhandlen / mit
+                                                  fürnemmung der straaff / unser<note type="critical">T2: jr</note> hand hiemit frey
+                                                  offen unnd vorbehalten haben woͤllend.</p>
+                                                  <p>Unnd ist hieruff<note type="critical">T1:
+                                                  haruf</note> an üch all / sampt unnd sonders /
+                                                  fürnemlichen die Predicanten Ober unnd
+                                                  Undervoͤgt / Weybel / Eegoumer unnd all ander
+                                                  unser Diener/ so jrer tragenden Empteren unnd
+                                                  Diensten / beeydiget sind/ unser ernstlich geheiß
+                                                  will unnd meinung<note type="editorial">
+                                                  Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>: Das jr
+                                                  ob diserm unserm Christenlichen und nodtwendigen
+                                                  ansaͤhen<note type="editorial"> Anordnung, Id.
+                                                  VII, 560.</note> / styff und staͤdt haltind /
+                                                  damit die ungehorsammen / yeder wie obgelüteret /
+                                                  gebürende straaff empfahe.<note type="critical">«Unnd ist hieruff … empfahe.» fehlt in T2</note>
+                                                  Dann wir<note type="critical">T2: unnser gnedig
+                                                  herren</note> der Widertoͤuffern unverdacht<note type="editorial"> unbeteiligt, Id. XIII,
+                                                  665.</note> syn / sy ouch in unsern<note type="editorial"> jren</note> Landen unnd Gebieten
+                                                  schlaͤchts nit | [Aiiir] lyden nach dulden
+                                                  woͤllend<note type="critical">Hier endet in T2 die
+                                                  Verordnung betreffs Täufer.</note> / darnach wüsse
+                                                  sich ein yeder zůrichten. Zů urkundt habend wir
+                                                  unser Statt<placeName ref="Zürich">Zürych</placeName>Secret
+                                                  Ynsigel offentlich lassen trucken in disen
+                                                  Brieff / der gaͤben ist/ den fünff unnd
+                                                  zwentzigisten tag Wynmonats / Nach der Geburt
+                                                  Christi unsers lieben Herren gezalt /
+                                                  fünffzähenhundert / achtzig und fünff jar.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Das
+                                                  Täufermandat vom 25. Oktober 1585 erschien im
+                                                  Druck und ist hier auf dieser Grundlage
+                                                  wiedergegeben. Weitere Textzeugen sind das
+                                                  Druckmanuskript (StAZH, E I 7.3, Nr. 18) und ein
+                                                  Mandat (StAZH, B III 171, fol. 46v-49v), das am
+                                                  14. November 1585 vorgelesen wurde und welches in
+                                                  einer vom Unterschreiber zusammengestellten
+                                                  Sammlung von Mandaten und Verordnungen
+                                                  handschriftlich überliefert ist (vgl. auch
+                                                  Nr. 332). Auf abweichende Lesarten wird im
+                                                  textkritischen Apparat unter den Sigeln T1
+                                                  (Druckmanuskript) und T2 (handschriftliches Mandat
+                                                  vom 14. November 1585) verwiesen.</p>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_777</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_777</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1604-12-01"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 628</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Den ußeren obervögten sol abermaln mit allem
+                                                  ernst zůgeschriben werden, dem toüfer mandat
+                                                  flyßig nachzegahn und jre underamptlüt erntstlich
+                                                  auch darzů zehalten by verlierung jrer dientsten
+                                                  unnd sich also zůerzeigen, dz myn herren jren
+                                                  erntst gspürind. Dann wellicher dz nit thete,
+                                                  werde myner herren ungnad darob zůverantworten
+                                                  haben. Und söllent dem vogt zů Gruͤningen<note type="editorial"> Jakob Zur Eich</note><placeName ref="Grüningen"/> jnnsonderheit die angezognen fäl
+                                                  zůgeschriben werden mit bevelch, syn pflicht
+                                                  hierjnnen zůerstatten, die jnzücher<note type="editorial"> Gemeint sind wohl
+                                                  Busseneintreiber, vgl. Id XVII, 1009.</note> der
+                                                  toüferen und auch die weibel, so jren bevelch nit
+                                                  ußgrichtet, annderen zů einem byspil zestraffen,
+                                                  damit synthalber mynen herren kein klag fürkomme.
+                                                  Actum den ersten decemb[bris] 1604
+                                                  p[raese]nt[ibu]s herr Großman<note type="editorial"> Konrad Grossmann</note><persName ref="Grossmann, Konrad"/> und beid reth.</p>
+                                                  <p>Die jnneren obervögt, under denen ­toüf­fer
+                                                  sind, söllen glychs auch ußrichten, wie sy dann
+                                                  darzů ernstlich ermannet worden.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

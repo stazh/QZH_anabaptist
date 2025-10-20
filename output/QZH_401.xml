@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_401</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_401</idno>
+          </msIdentifier>
+          <head>Werner Schodoler an Jos Rubli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-10-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 252</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Frommer, fürnemmer unnd wiser, besonnders
+                                                  fründtlicher, eerender, lieber herr unnd alls
+                                                  průder, min willig dienst, grůß, vil liebs unnd
+                                                  gůtz mit erpyetung aller eeren zůvor etc. unnd
+                                                  daby zewüsßen, das vor ettwas wuchen, usß miner
+                                                  g[nedigen] herren dorff Niderbergken<note type="editorial"> Berikon</note><placeName ref="Berikon"/> ettliche personen jnn der nachtt
+                                                  ufgewüdttscht<note type="editorial"> aufbrechen,
+                                                  sich aufmachen, Id. XVI, 2359.</note> unnd hinab
+                                                  jnn das Merheren<placeName ref="Mähren">lannd</placeName>gezogen sindt. Und diewyl dann unnsere gnedigen
+                                                  herren, die eydtgnossen, sollichs für ein
+                                                  malefitzische<note type="editorial"> Dem
+                                                  Hochgericht verfallen, Id. IV, 167.</note> sach
+                                                  hallten unnd das malefitz von Niderbergken der
+                                                  graffschafft<placeName ref="Baden (Grafschaft)">Baden</placeName>zůgehördt, so haben min
+                                                  g[nedige] heren sollichs dem jetzigen herren
+                                                  lanndtvogten Hässin<note type="editorial">
+                                                  Fridolin Hässi</note><persName ref="Hässi, Fridolin"/> zů Baden kundt gethan,
+                                                  unnd derselb alls balld daruff jr aller gůtt
+                                                  arrestyeren<note type="editorial"> beschlagnahmen,
+                                                  Id. I, 386.</note> unnd durch mich jnn schrifft
+                                                  verfassen lassen. Wann aber der mertheyl gůtt, so
+                                                  sich gar nach bi den 2000 g[ulden] trifft, zů
+                                                  Oberbergken, zů<placeName ref="Oberwil-Lieli">Oberwyl</placeName>uff<placeName ref="Iflisberg">Yflisperg</placeName><note type="editorial"> Oberwil
+                                                  und Islisberg unterstanden hochgerichtlich der
+                                                  Stadt Zürich.</note> unnd jnn dem Kelleramptte<placeName ref="Kelleramt">Kelleramptte</placeName>umbhin glegen jst,
+                                                  unnd an selben ennden (ja nach minem
+                                                  schlechten<note type="editorial"> einfachen</note>
+                                                  verstand) von wegen der hochen oberkeyt das
+                                                  malefitz üweren und minen gnedigen herren von<placeName ref="Zürich">Zürich</placeName>zestraffen zůstad,
+                                                  so hatt es mich an mine herren wunder gnan, das si
+                                                  nit minen gnedigen herren von Zürich oder üwerem
+                                                  herren lanndtvogt Tumyßen<note type="editorial">
+                                                  Junghans Thumysen</note><persName ref="Thumysen, Junghans"/> disser sach halb
+                                                  glichfals alls wol unnd nit minder dann dem herren
+                                                  landtvogten zů<placeName ref="Baden">Baden</placeName>zůgeschriben und kundt than hand, doch hab jch nüt
+                                                  dörffen sagen. Mich aber hatt für gůtt angesechen,
+                                                  üch minen eerenden hertzlieben průdern jnn geheym
+                                                  deß schrifftlichen zůberichten, damitt jr üch mit
+                                                  herren landtvogten Tumysen darüber beradtschlagen
+                                                  und destbaß<note type="editorial"> dester bass
+                                                  (nhd. umso besser)</note> darunder zehanndlen
+                                                  wüsßtendt, unnd bin üch beiden herren etc. jnn
+                                                  allem gůttem zedyenen jeder zyt ganntz gůtwillig
+                                                  und urpütig<note type="editorial"> bereit, Id. IV,
+                                                  1881.</note>, jr wellen mir ouch jne, heren
+                                                  Tumysen, fründtlich gruͤssen und vil liebs und
+                                                  gůtz sagen. Hiemitt uns alle jnn den gnadenrychen
+                                                  schutz und schirm deß höchsten bevelchende. Datum
+                                                  uff sant Gallen tag umb die xij. Stund anno
+                                                  lxxxj.</p>
+                                                  <p rend="margin-top">Uwer williger diener und
+                                                  liebhabender brůder</p>
+                                                  <p>Wernher Schodoler</p>
+                                                  <p rend="margin-top">Dem frommen, fürnemmen unnd
+                                                  wysen herren Joß Rublin, lanndtschrybern der
+                                                  herschafft<placeName ref="Knonau">Knonouw</placeName>, minem
+                                                  besonderen eerenden, fründtlichen, lieben herren
+                                                  unnd průdernn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_209</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_209</idno>
+          </msIdentifier>
+          <head>Ehegericht an Rat und Bürgermeister von
+                                                  Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1552-08-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 60</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>From, vest, fürsichtig, eersam, wys,
+                                                  jnnsonnders günstig, g[nedig] herren. Uff den
+                                                  xxiij. tag verschinens brachmonats<note type="editorial"> vergangenen Junis</note>hatt unns herr<persName ref="Keller, Rudolf (gest. 1565)">Růdolff Keller</persName>, predicant jm<placeName ref="Fischenthal">Fischenthal</placeName>, anstatt herr<persName ref="Manhart, Martin">Martj Mannharten</persName>, predicanten zů<placeName ref="Wald">Walld</placeName>, angezeigt, wie der selb, herr Martj, jnn siner pfarr ein kilchgnoßen hette, so der widertöüffery verdaacht were, genant<persName ref="Streler, Klaus">Claus Streler</persName>uff
+                                                  dem<placeName ref="Wald, Haltberg">Haltberg</placeName>.
+                                                  Welicher by einem jar ein eewyb gnommen, die er
+                                                  ouch schwanger gmacht unnd unntzhar<note type="editorial"> bis</note> by jm ghept, aber den
+                                                  kilchganng noch nit mitt jr gethon hette mitt
+                                                  beger, das wir jn bescheiden<note type="editorial"> Bescheid geben</note> welten, weß er sich gegen
+                                                  jmme, dem Streler, haltten und gebruchen sölte
+                                                  etc. Unnd so wir nun uß söllichem fürthrag<note type="editorial"> Aussage, Vortrag</note>
+                                                  befunden, unns unnserer ampts pflichten halb
+                                                  hierinn zehanndlen zůständig sin, haben wir dem
+                                                  undervogt ald<note type="editorial"> oder</note>
+                                                  weibel zů Wald geschriben, jnen beden oder
+                                                  joch<note type="editorial"> doch</note> (so die
+                                                  frow so nechig<note type="editorial"> der
+                                                  Niederkunft nahe, Id. IV, 641.</note> were, das sy
+                                                  nit kommen möchte) dem Streler zůgebietten, uff
+                                                  einen tag, so wir jm selben schryben ernemmpt, vor
+                                                  unns zůerschynen unnd unns söllicher sach halb, uß
+                                                  was ursachen er sich deß kilchganngs widerte,
+                                                  bescheid und anntwurt zegeben. Alß aber uff den
+                                                  selben tag weder der man noch die frow kommen,
+                                                  sinnd wir verursacht worden, dem vogt zů
+                                                  Grüningen<note type="editorial"> Heinrich
+                                                  Cramer</note><placeName ref="Grüningen"/><bm id="55"/> söllichs zůzeschryben mitt bevelch, das
+                                                  er dem Streler uff einen anderen namlich den xxj.
+                                                  tag verruckts höwmonats<note type="editorial">
+                                                  vergangenen Julis</note>vor unns zůerschynen gebietten welte. Weliches er erstattet unnd volnstreckt. Aber der Streler nütdestweniger söllichen angesetzten tag nit selps, sonnder durch<persName ref="Kunz, Christian">Christian Cůntzen</persName>, sinen darumb geschickten anwalt, besůcht. Der
+                                                  unns domalen sölliche meynung fürgethragen, wie
+                                                  er, der Streler, ein sänn unnd uff einer alp,
+                                                  derhalben jm nit wol müglich were, für unns
+                                                  zekommen, unntz<note type="editorial"> bis</note>
+                                                  zů deß heiligen crützes erhöchung tag<note type="editorial"> 14. September</note>, so man
+                                                  gmeinlich von alp füre. Mit wyterer meldung, das
+                                                  Streler die, so sin eewyb sin sölte, an einem ort
+                                                  by drygen mylen wegs umb dise gegne genommen unnd
+                                                  mit jro (alß er mitt verborgnen unbegrifflichen
+                                                  worten ret) den kilchganng gethon. Derhalben er
+                                                  (so jm von unns ein verzug glaßen) urkhundt
+                                                  bringen wurde, das sy eelüt werrint, mitt beger,
+                                                  jm söllichen verzug zelaßen, unnd das er nit
+                                                  erschinen, nit siner unghorsamkeyt, sonder der
+                                                  unmůß zůzemeßen. Diewyl und aber sich sölliche
+                                                  sach sunst lanng verzogen und mengclichem<note type="editorial"> jeder</note> abschüchen ab dem
+                                                  gehept, das sy also one ein vollbrachten
+                                                  offenlichen klichganng byeinander gseßen warennt,
+                                                  haben wir domaalen herrn Martj zů<placeName ref="Wald">Wald</placeName>verschloßen zůgeschriben, das er dem
+                                                  Streler anzeigen sölte, unnser urtheil unnd
+                                                  erkantnuß also sin, das er jnnerthalb den nechst
+                                                  darnachkommenden viertzechen tagen abe dem end, da
+                                                  er sin eewyb gnommen, oder da er den kilchganng
+                                                  mitt jr gethon, jm, dem predicanten, gnůgsam
+                                                  urkhund, daran er kommen möchte, bringen, das er
+                                                  mitt jr zkilchen ganngen were. Unnd so söllichs
+                                                  bescheche, so sölte ers darby blyben unnd sy
+                                                  eelich byeinander wonen laßen. So er aber das selb
+                                                  urkhund nit bringen welte oder möchte, so solte
+                                                  er, Streler, unverzogenlich on wyters
+                                                  uffzüchen<note type="editorial"> Verzug,
+                                                  Aufschub</note> mitt jr zekilchen gan unnd
+                                                  nütdestweniger sinen dienst uff der alp versechen,
+                                                  das wir jn unntz zů deß heiligen crützes tag nit
+                                                  gfaaren noch zur bywonung nöten<note type="editorial"> nötigen</note> welten, wann aber
+                                                  sich sollichs kilchganngs ouch wideren welte, so
+                                                  sölte er, herr Martj, uns desselben schrifftlich
+                                                  widerumb brichten, wyter nach der gepür darinn
+                                                  zehanndlen wüsßen.</p>
+                                                  <p>Also uff hütt datum hatt unns unnser richter
+                                                  widerumb fürgebraacht, das nöcherer tagen die
+                                                  vorgenannten bed herren predicanten von Walld und
+                                                  Fischenthal jm angezeigt habinnt, das deß Strelers
+                                                  anwalt unnsere mißiff<note type="editorial">
+                                                  Sendschreiben</note>, so wir jm uffgegeben, herrn Martj zůüberanntwurten acht tag lanng hinderhalten. Nach dem er sy aber nach langem herfür gegeben, habe er unnser bevelch gegem Streler usgericht. Unnd wiewol uns bemeltter anwalt mitt dem, das der Streler uff einer alp und jm unnser bevelch zůvolnstrecken nit müglich sye, die unwarheit fürgeben habe, dann er nit uff einer alp, sonder yetz an einem ort, namlich by<persName ref="Müller, Felix">Felixen Müller</persName>jnn der<placeName ref="Fischenthal">Fischenthal</placeName>wonhafft
+                                                  were, da er jnn einer halben stund zur kilchen wol
+                                                  kommen möchte, hette doch er söllichem unnserm
+                                                  urtheil noch nit statt noch volg gethon jnn
+                                                  meynung, das es an jro glych alß wol alß an jm,
+                                                  dem man, erwunde, dann sy der thöüffery nit
+                                                  weniger dann er verdacht, mitt wyterem bricht, das
+                                                  sy der vorigen wuchen deß kindts genesen were unnd
+                                                  aber söllichs nit touffen ließind etc.</p>
+                                                  <p>Zů dem allem hatt<persName ref="Manhart, Martin">herr Martj</persName>wyter angezeigt, wie das<persName ref="Streler, Hans">Hanns Streler</persName>uff
+                                                  dem<placeName ref="Wald, Haltberg">Haltberg</placeName>unnd das ganntz hußgsind, ußgnommen sin der eltist brůder unnd zwen knaben, alle der töüffery anhängig syennt unnd keins zkilchen gange. Darzů sye<persName ref="Egli, Heinz">Heintz Eglins</persName>wyb
+                                                  uff dem berg ouch ein töüfferin unnd gannge nit
+                                                  zekilchen. Item so sye Jacob<note type="editorial"> Vermutlich Jakob Bürgi, vgl.
+                                                  Nr. 102.</note><persName ref="Jakob (vom Wädenswiler Berg)"/> ab dem
+                                                  Wedischwyler<placeName ref="Wädenswiler Berg">berg</placeName>,<persName ref="Schaufelberg, Althans">Althanns Schufelbergs</persName>unnd<persName ref="Kunz, Jörg">Jörg Cůntzen</persName>senn zů<placeName ref="Wald, Büel">Buͤl</placeName>, rabj under
+                                                  jnen, komind jnn der selben gegne all viertzechen
+                                                  tag von<placeName ref="Zürich">Zürich</placeName><bm id="56"/>,<placeName ref="Winterthur">Wintterthur</placeName>und
+                                                  ab andern ännden zůsammen, haltinnd jr wesen und
+                                                  predig unnd sye also, wie gmellt<note type="editorial"> erwähnt</note>, bemeltter sänn der obrist mitt beger, wir weltind jnn dem allem hanndlen, das so wir vermeintend darzͦ dienlich unnd von nöten sin. Doch so wir gedechtind, mitt schrifftlichem bevelch durch<persName ref="Schaufelberg, Junghans">Junghannsen Schufelberg</persName>, undervogt zů<placeName ref="Wald">Wald</placeName>,
+                                                  etwas ußzerichten, weltend sy unns zůvor angezeigt
+                                                  haben, das er etlichen uß disen personen
+                                                  gfrünt<note type="editorial"> verwandt,
+                                                  anverwandt</note>. Darzů were er zum theil der
+                                                  ­toüf­fery ouch verargwont, das also zůbesorgen,
+                                                  so jm derhalben etwas zůgeschriben, das dann die,
+                                                  so dsach antreffen, gewarnnet wurden.</p>
+                                                  <p>Unnd diewyl nun wir vorhar, wie u[wer] w[yshei]t hievor verstänndigt,<persName ref="Streler, Klaus">Clausen Strelers</persName>und siner
+                                                  eefrowen halb von wegen deß, das sy die ee noch
+                                                  nit nach cristenlicher ordnung mitt dem kilchganng
+                                                  bestet, sovil gehanndelt unnd geurtheilt habennt,
+                                                  das unns nit zwyfelt, so wir jn glych widerumb für
+                                                  uns beschryben alld<note type="editorial">
+                                                  sonst</note> sunst wyter darinn handlen, das sy
+                                                  doch nüt destweniger nach jrem gfallen fürfaren
+                                                  und unnsers bevelchs wenig achten, wir ouch
+                                                  glycher gstallt darneben wol zůgedencken habennt.
+                                                  Wann wir schon die anndern personen ouch bschicken
+                                                  unnd nach der satzung vermanen wurden, zpredig
+                                                  zgaan unnd sich zůerzeigen wie ander cristenlüt,
+                                                  das es doch nüt an jnen verfachen unnd damitt
+                                                  disen sachen nit noch nothurfft begegnet noch
+                                                  geholffen sin wurde. So haben wir alles das, so
+                                                  deß Strelers und siner eefrowen halb den eelichen
+                                                  kilchganng unnd die widertöuffery betreffennt,
+                                                  deßglichen der übrigen verargwonten töüfferen halb
+                                                  an unns gelanngt, jnn schrifft stellen und
+                                                  söllichs u. wt. alß dem rechten gwalt
+                                                  überanntwurten laßen, fürer<note type="editorial">
+                                                  weiter</note> darinnen zehandlen wüsßen, das so sy
+                                                  gedenckt darzů dienlich und von nöten sin. Actum
+                                                  donnstags, 25. augustj 1552.</p>
+                                                  <p rend="margin-top">U[wer] e[rsam] w[yshei]t
+                                                  underthenige</p>
+                                                  <p>burger und diener am eegricht</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

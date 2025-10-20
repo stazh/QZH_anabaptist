@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_685</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_685</idno>
+          </msIdentifier>
+          <head>Synodalverhandlungen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1600-10-17"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 536</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Uß dem synodo, so gehalten worden zinstags nach
+                                                  Gallj anno 1600, hatt man für myn gnedig herren
+                                                  gewißen.</p>
+                                                  <p>[…]<note type="editorial"> Im Folgenden ist nur
+                                                  der Abschnitt, der die Täufer betrifft,
+                                                  wiedergegeben.</note></p>
+                                                  <p>Die herren predicanten deß<placeName ref="Regensberg">Regensperger</placeName>capitels
+                                                  habent einem ehrsammen synodo fürgebracht, wie die
+                                                  niderlendischen<note type="editorial"> aus einem
+                                                  tiefer gelegenen Land stammend (vgl. Id. III,
+                                                  1303), hier: mährischen.</note> widerthaüffer jnn
+                                                  jrem capitel hin und wider schweiffind,
+                                                  jnnsonderheit gen<placeName ref="Niederglatt">Niderglatt</placeName>vil jren wandel habint. Alda
+                                                  der wirt jnen ein eigne kammer jngegeben unnd sy
+                                                  unfenthalte<note type="editorial"> Unterkunft
+                                                  geben, beherbergen, Id. II, 1231.</note>, da sy
+                                                  dann jr gifft hin unnd wider ußgießiend und die
+                                                  lüth zůverfuͤren understanndint. Unnd als man
+                                                  kurtzlich zwen diser frömbden taüfferen zů
+                                                  Niderglatt erfaren unnd das dem undervogt und
+                                                  weibel anzeigt unnd klagt<note type="critical">Folgt gestrichen: worden</note> unnd daruf
+                                                  dieselben zwen taüfer gfengklich angenommen unnd
+                                                  alhar jnn die statt dem obervogt jm<placeName ref="Neuamt">Nüwenampt</placeName>zůgefuͤrt
+                                                  worden, habe er, der obervogt, uff jr
+                                                  fürgeben<note type="editorial"> weis machen, Id,
+                                                  II, 90.</note> sy widerumb ledig unnd gahn laßen.
+                                                  Unnd wiewol dise beid nit ­toüf­fer syn wöllen
+                                                  unnd man auch fürgeben, das sy nit ­toüf­fer
+                                                  sygind, so habe man doch erfaren, das es rechte
+                                                  taüffer sygind, wie sy dann den nechsten von
+                                                  hinnen widerumb jnns ampt abhin khommen und noch
+                                                  etlich tag da unden beliben sygen. Unnd als durch
+                                                  disere lediglaßung sy unnd anndere nit wenig
+                                                  gesterckt worden unnd wo man diserm gsind nit
+                                                  wehren unnd anderst begegnen sölte, zůbesorgen,
+                                                  disere sect der enden vast<note type="editorial">
+                                                  fest, stark</note> jnbrächen wurde.</p>
+                                                  <p>Darnebent so jst auch bericht geben worden, das<persName ref="Peter, Ruedi">Ruͤdj Peter</persName>, der
+                                                  müller zů Reterschen<note type="editorial">
+                                                  Räterschen</note><placeName ref="Räterschen"/>,
+                                                  jnn der grafschafft<placeName ref="Kyburg">Kyburg</placeName>, der mit der taüfferischen sect behafftet, die
+                                                  ­toüf­fer ufenthalte und auch taüffer mache.
+                                                  Louffe vilmaln mit etlichen personen synen
+                                                  anhengeren zů den taüfferen jnns<placeName ref="Fischenthal">Vischental</placeName>hinderhin, wie man jnne dann etlich sambßtag einannderen nach allwegen mit volck offentlich dahin gsehen gahn. Syge ein unghorsamer halsstarrer man, der synem pfarrer herrn<persName ref="Hartmann, Abraham">Abraham Hartman</persName>vil
+                                                  zeschaffen gebe.</p>
+                                                  <p>Diewyl nun nebent diserm auch die übrigen
+                                                  capitel uff myner herren landtschafft angezeigt,
+                                                  das die schedlich taüfferisch sect auch anderschwo
+                                                  uff der landtschafft nur jmmerdar jnryßen und
+                                                  zůnemmen wölle unnd diß ein gmeine klag, so hatt
+                                                  ein ehrsammer synodus nit underlaßen khönnen, das
+                                                  alles an myn gnedig herren umb gebürend
+                                                  jnsehen<note type="editorial"> Vorkehrung, Id.
+                                                  VII, 563.</note> gelangen zelaßen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

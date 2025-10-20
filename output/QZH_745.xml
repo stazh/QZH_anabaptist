@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_745</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_745</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-11-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 596</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, eernvesten, frommen, fürsichtigen, eersammen und wyßen, e. v. unnd e[wer] w[yßheit] seyen myn underthenig geflissen dienst jnn aller schuldigen pflicht und ghorsamme jederzyth zůvor. Herr burgermeister, jnsonders gnedig, günstig unnd gebiettend herren, als dann ich die zythar uß eüwer (myner gnedigen herren) bevelch uff<persName ref="Gubelmann, Rudolf">Růdlj Gubelman</persName>, den
+                                                  ­toüf­fer von<placeName ref="Hadlikon">Hadlicon</placeName>(den ich by einem jar ungvar eüch, mynen gnedigen
+                                                  herren, gfengklichen überschickt), myn späch<note type="editorial"> Fahndung, Id. X, 76.</note>
+                                                  machen lassen, jst er verschinnen<note type="editorial"> vergangenen</note> montags
+                                                  ergriffen unnd mir verwarth zůgefüert worden. Da
+                                                  nun er vermerckt, das ich willens gsyn, eüch,
+                                                  mynen gnedigen herren, jnne widerumb zůüberlifern,
+                                                  hat er mich gantz trungenlich<note type="editorial"> eindringlich</note> gebätten,
+                                                  jnne ledig zelassen. Wölle er daruf anloben, sich
+                                                  uß eüwer (myner gnedigen herren) gebiett
+                                                  angentz<note type="editorial"> sofort, Id. II,
+                                                  19.</note>zemachen unnd niemermer daryn zekommen. Dann er ein schwager an der frömbde habe mit nammen<persName ref="Furer, Hans">Hans Fůrer</persName>von<placeName ref="Töss">Tösß</placeName>, der diene by einem
+                                                  edelman uff einem Schlosß, das heisse Justiga<note type="editorial"> Justingen, im Besitz der
+                                                  Freiherren von Freyberg, liegt nicht in der
+                                                  Pfalz.</note><placeName ref="Justingen"/>, lige by
+                                                  der Pfaltz. Der habe jmm zůgeschriben, er sölle zů
+                                                  jmm hinabkommen, wölle jmm wol underhelffen etc.
+                                                  Hienebent wölte er verschaffen<note type="editorial"> machen, dass, Id. VIII,
+                                                  335.</note>, das syne schulden all bezalt unnd so
+                                                  etwas überigs were, synem wyb unnd den kinden
+                                                  verblybe. Zeigt umb sovil wyter an: Imm fahl er
+                                                  ferners jnn eüwer (myner gnedigen herren) gebiett
+                                                  bethretten<note type="editorial"> antreffen, Id.
+                                                  XIV, 1486.</note> unnd söllich syn glübt nit
+                                                  halten, sonder brächen wurde, das man jmm alsdann
+                                                  ohn alle gnad syn verdientten lon werden lassen
+                                                  sölle etc. Unnd diewyl er sömlichs so höchlich an
+                                                  mich begärth, hab ich nit underlassen wöllen, eüch
+                                                  (myn gnedig herren) dessen zum vordersten
+                                                  zůberichten. Wann nun dero meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> unnd
+                                                  bevelch hierinn syn wirt, soll dem, so bald ich
+                                                  dessen verstendiget, ghorsammlich nachkommen
+                                                  werden. Eüch, mynen gnedigen herren, hiemit mich,
+                                                  unns alle aber dem güettigen gott zů gnaden
+                                                  bevelhende. Datum den 11ten novembris anno
+                                                  1602.</p>
+                                                  <p rend="margin-top">E. v. und e. w. undertheniger
+                                                  ghorsammer burger unnd dienner</p>
+                                                  <p>Jacob Zur Eich, vogt der herrschafft<placeName ref="Grüningen">Grüeningen</placeName></p>
+                                                  <p rend="margin-top">Den edlen, eerenvesten,
+                                                  frommen, fürsichtigen, eersammen und wysen herren
+                                                  burgermeister und rath der statt Zürich, mynen
+                                                  jnsonnders gnedigen, günstigen unnd gebiettenden
+                                                  herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

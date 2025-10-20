@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_385</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_385</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Cramer (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1579-05-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 236</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren günstigen, geneigten willen unnd alles gůts zůvor. Ersamer, wyser, besonnders gethrüwer, lieber burger unnd vogt, uff deß unnseren<persName ref="Meier, Simon">Symon Meigers</persName>von<placeName ref="Buchs">Buchs</placeName>, dynes ampts
+                                                  angehörigen, underthenigs unnd thrungenlichs<note type="editorial"> eindringlich, inständig, Id.
+                                                  XIV, 1111f.</note> anruͤffen unnd bitten habennt
+                                                  wir demselbigen jnnansehung, das er allein armut
+                                                  unnd nit der thoüfferischen sect halb hinweg jnns
+                                                  niderlannd gezogen, bewilliget und vergünstiget,
+                                                  das er widerumb jnn unnseren gricht unnd lannden
+                                                  wonnen möge. Unnd damit dann nützit ungebürlichs
+                                                  von jme angericht<note type="critical">Es folgt
+                                                  eine Wortstreichung</note> ald<note type="editorial"> oder</note> fürgenommen werde,
+                                                  so jst unnser meynung<note type="editorial">
+                                                  Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1732215867"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1732215867</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> an dich,
+                                                  du wellist synethalb ufsehens unnd erkonndigung
+                                                  haben, und wover du vernemist ald gespurtist, das
+                                                  er sich nit recht hallten unnd anlosßen wellte,
+                                                  unns desselben jederzyt verstenndigen, der gepür
+                                                  nach gegen jme zehandlenn wüsßen mögen. Datum den
+                                                  20ten maij anno etc. 79.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem ersammen, wysen, unnserem
+                                                  jnsonders gethrüwen, lieben burger unnd vogt zu<placeName ref="Regensberg">Rägensperg</placeName>Heinrichen
+                                                  Krammer.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

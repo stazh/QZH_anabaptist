@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_480</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_480</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Untervögte (Kopie) Es handelt sich um die Vorlage
+                                                  für die einzelnen Schreiben.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-11-08"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 331</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermister und rath der statt Zürich unsern
+                                                  grůß zůvor. Getrüwer lieber undervogt, wir
+                                                  überschickend dir hieby unser jm truck ußgangen
+                                                  mandath der widertroüffern halb. Das wellist uff
+                                                  jetzt künfftigen sontag jnn der kilchen, wenn das
+                                                  volck versamlet jst, offentlichen an der
+                                                  cantzel<note type="critical">«an der cantzel ver»
+                                                  am Rand mit Verweiszeichen</note> verläßen lasßen
+                                                  und du dann styff darob halten.</p>
+                                                  <p>Darnebent langt uns an, das by jungen und alten
+                                                  das schweren und gotslesteren widerumb gar jm
+                                                  schwangk gange, daher dann der zorn gotes volget.
+                                                  So nun die hoch notturfft erforderet, deßwegen
+                                                  abermalen mengklichen zewarnen, unnd dann unser
+                                                  hierüber gemachet gebott jnn den christenlichen
+                                                  ordnungen und satzungen unsers erst jnn
+                                                  verschinnem achtzigisten jar getruckten großen
+                                                  mandaths<note type="editorial"> Vgl. Nr. 248;
+                                                  Edition des ganzen Mandats in: Zürcher
+                                                  Kirchenordnungen, hg. von Emidio Campi und Philipp
+                                                  Wälchli, 1. Teil, Nr. 119, S. 259-298.</note>
+                                                  begriffen, wie<note type="critical">Folgt
+                                                  gestrichen: je</note> ein jeder pfarrer das by
+                                                  synen handen hatt, wellent wir, das solliches<note type="critical">Folgt gestrichen: die</note> durch
+                                                  den predicanten ouch widerumb nebent jetzigem
+                                                  mandath verläßen werde und die überträttere luth
+                                                  desselbigen bůß thuͤgind und mit erntst dartzuͦ
+                                                  gehalten werdint. Daran bschicht unser meinung und
+                                                  gfallens jnn gnaden zů erkhennen. Datum den 8ten
+                                                  wintermonats.</p>
+                                                  <p rend="margin-top">Unnßerm besonnders getrüwen
+                                                  lieben undervogt zů n[ominis] h[uius]
+                                                  n[ominandi].</p>
+                                                  <p>Allen undervögten.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Es handelt sich um die Vorlage
+                                                  für die einzelnen Schreiben.</p>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_155</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_155</idno>
+          </msIdentifier>
+          <head>Urfehdebrief von Elsa Hagenbuch (Kopie) Überschrift in der Vorlage: Der
+                                                  Els Haegenbůchinen urfechd</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1533-08-28"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 6</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ich,<persName ref="Hagenbuch, Elsa">Elsa Hagenbůchin</persName>von Welsickenn<note type="editorial"> Welsikon</note><placeName ref="Welsikon"/>, thůn kund mengklichem<note type="editorial"> jedem</note> offenlich mit disem
+                                                  brieff bekennende, das ich uff die gneͣdig
+                                                  ledigzallung usser der gefeͣngknus zů<placeName ref="Kyburg">Kyburg</placeName>, darinn ich miner
+                                                  übertreͣttung halb, namlich über das ich zum
+                                                  andern mal der töufferyg halb in gefeͣngknus
+                                                  kommen unnd söllich töüffery nach gewonlicher form
+                                                  verschwören<note type="editorial"> sich lossagen
+                                                  von, Id. IX, 2117.</note>nit gehallten, sonder mich widerzmb daryn verwicklet hab, durch den frommen, fürsichtigen, wysen Hans<persName ref="Lavater, Hans Rudolf">Růdolff Lavater</persName>,
+                                                  burger<placeName ref="Zürich">Zürich</placeName>, der zit
+                                                  vogt zů<placeName ref="Kyburg">Kyburg</placeName>, myn
+                                                  gnaͤdigenn herrenn, billich angenommen<note type="editorial"> verhaften, Id. IV, 739f.</note>
+                                                  und geleͣgenn bin, durch jne yetz wider mit
+                                                  bezalung der fünff pfunden, darumb dann mich myne
+                                                  gneͣdigen herren von<placeName ref="Zürich">Zürich</placeName>vormals gestrafft unnd das ich füro nit meer,
+                                                  wie dann bitzhar gethan, mich in angeregt töüffery
+                                                  gar in dheinen<note type="editorial">
+                                                  keinen</note> weͣg inschlöüffen sol, erlassen
+                                                  frygs willens gern unnd ungetreͣngt ein
+                                                  gelertenn<note type="editorial"> schriftlich
+                                                  formuliert und nachgesprochen, Grimm 7,
+                                                  332.</note> eyde lyplich zů gott dem allmeͣchtigen
+                                                  geschworenn hab, dieselb gefengknus unnd all
+                                                  sachen, darinn darvor und darzwüschent verloffenn,
+                                                  gegen vorgenantem mynem herren von<placeName ref="Kyburg">Kyburg</placeName>, sinen erben und
+                                                  nackommen nach den jren, ouch gegen niemand
+                                                  anderem, der zů söllicher myner gefeͣngknus hilff,
+                                                  rat oder gethet<note type="editorial"> Tat</note>
+                                                  gethan hatt oder jn der sach verdacht oder
+                                                  verwandt ist, nyemer zů reͣchen, zů äfern<note type="editorial"> nachträglich zu berichtigen, Id.
+                                                  I, 106.</note> noch gethan werden zeschaffen
+                                                  weͣder mit worten, werckhen, räten, gethätenn
+                                                  durch heimlich oder offenlich, sonder dess unnd
+                                                  aller ding gegen jnen für mich und all myn erbenn
+                                                  und verwandtenn fürhin ein uffrecht urfechd
+                                                  zehalltenn unnd mit luteren gedingen, das ich mich
+                                                  hinfüro söllicher töüffery muessigenn und mich
+                                                  dero nit meer beladenn oder annemmen soll. Dann wo
+                                                  ich soͤllichs wyter überfarenn und nit hallten,
+                                                  das alls dann der gemeͣllt<note type="editorial">
+                                                  genannte</note> myn herr von<placeName ref="Kyburg">Kyburg</placeName>oder sin nachkommen zů mir alls einer verurrtheylten frowen on alle gnad wol ungefräfflet (darvor mich nützid beschirmen soll) richten lassenn mügen. Dessglichenn ob jch gegenn jmme, synen nachkommen oder den jren fürohin eynig zusprüch gewunn, darumb soll und will ich sy in den grichten, dahin sy zů reͣcht gehörend, by reͣcht belybenn lassenn unnd sy wyter nit fürnemmenn alles erbarlich und ungevarlich und dess zů offem urkhund, so hab ich erbeͣtten den ersamen wysenn<persName ref="Meyer, Hans">Hansen Meyer</persName>, allten schultheissen zů<placeName ref="Winterthur">Winterthur</placeName>, das er
+                                                  sin ynsigel, mich damit aller obgeschribner ding
+                                                  zeübersagend, imm und sinen erben one schaden
+                                                  gedtruckt hatt inn disen brieff. Ggeben mit
+                                                  urtheil amm mittwoch vor sant Frenen tag nach
+                                                  Cristi geburt gezalt fünffzeͣhenhundert dryssig
+                                                  und druy jar.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Überschrift in der Vorlage: Der
+                                                  Els Haegenbůchinen urfechd</p>
+    </back>
+  </text>
+</TEI>

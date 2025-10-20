@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_441</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_441</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Paulo
+                                                  Galleazo</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1583-12-12"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 292</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als myn herren, die verordneten nachgänger,
+                                                  Paulj Galliatzen von Meylannd mit vilfaltigen
+                                                  gründen us heiliger göttlicher geschrifft nüws
+                                                  unnd alts testaments ob der thoüfferischen sect,
+                                                  mit dero er zwaren<note type="editorial">
+                                                  tatsächlich, Id. XVI, 800.</note> behafftet,
+                                                  widerumb darvon zefuͤren unnd zebringen
+                                                  unnderstannden<note type="editorial"> versuchen,
+                                                  Id. XI, 619.</note>, hat er daruf einfaltig
+                                                  volgenden bescheid gäben, das er sich etwan vier
+                                                  jar lanng am<placeName ref="Horgenberg">Horgerberg</placeName>enthalten<note type="editorial"> sich
+                                                  aufhalten, wohnen, Id. II, 1230.</note>, unnd
+                                                  daselbs winterszyt schůl gehallten. Sovil unnd
+                                                  aber die thoüfferisch sect antreffe, syge er des
+                                                  entdlichen vorhabens, uff derselbigen zůverharen
+                                                  unnd die predigen von wägen, das sovil sünder jn
+                                                  die selbigen gangind, by denen er sich beflecken
+                                                  möchte, nit meer besůchen mit unndertheniger pitt,
+                                                  jr myn gnedig heren wellind jnne, diewyl er
+                                                  niemmand beleidige ouch niemmand zů der
+                                                  thoufferischen sect ufwigle, der gefanngenschafft
+                                                  erlassen.</p>
+                                                  <p rend="margin-top">Als myn herren, die
+                                                  verordneten nachgänger, zů Pauli Galliatzen
+                                                  abermaalen jn gefanngenschafft keert unnd von
+                                                  jmme, ob er ein eydt, uß üwer myner gnedigen heren
+                                                  gricht unnd gebiethen zezüchen, thůn welle,
+                                                  begert, hat er daruf volgende antwort gäben, das
+                                                  er dheinen<note type="editorial"> keinen</note>
+                                                  eydt schweren aber sölliches jn die hannd
+                                                  verheißen welle. Bitt hienebent üch, m[ine]
+                                                  g[nedigen] h[erren], gantz trungenlichen<note type="editorial"> eindringlich, inständig, Id.
+                                                  XIV, 1111f.</note> unnd zum aller höchsten, jr
+                                                  wellind jme noch biß zů jetz nechst khunfftigem
+                                                  nuwen jar an dem Horgerberg wonen lasen, damit er
+                                                  synes usstanden gelts, so man jm hin unnd wider
+                                                  von synnen leerknaben zethůnd, ynkommen möge, so
+                                                  welle er dann synem verheißen gwuß unnd
+                                                  eigentlichen statt thůn.</p>
+                                                  <p rend="margin-top">Nachdem myn herren, die
+                                                  verordneten nachgänger, Paulj Galliatzen die von
+                                                  üch, mynen gnedigen herren, ussgesprochne urtheyl
+                                                  vermeldet unnd angezeigt, hat er daruf volgende
+                                                  antwort gäben, das er den costen jetzmalen nit
+                                                  zůbezallen habe, syge ouch zůbesorgen, diewyl er
+                                                  die schůl nit länger dann vierzächen tag ghallten,
+                                                  es möge jm noch bißdahin nutzit von synnen
+                                                  leerknaben werden. Wann er aber bis uff
+                                                  nechtskhunfftige fasnacht<note type="editorial">
+                                                  4. Februar 1584</note> underschlouff unnd herberig
+                                                  haben möchte, were er gůtter hoffnung, üch mynen
+                                                  gnedigen umb den costen einen willen zemachcn,
+                                                  ouch synner verheisßung statt zethůn.</p>
+                                                  <p rend="margin-top">[Urteil:] Diewyl<persName ref="Galleazo, Paulo">diser Galliatz</persName>loben wil, das er myner herren gricht unnd gebiett myden unnd sich daruß thůn, sol dasselbig beschähenn unnd sich jnnderthalb viertzechen tagen nit meer darjnn finnden. Sonster er uff dißmaln nach abfertigung alles uff jnne erganngnen costenns der gefanngenschafft ledig gelasßen werdenn sölle. Actum den 12ten decembris anno etc. 83. p[raese]nt[ibus]<persName ref="Kambli, Hans">Hans Kamblj</persName>unnd beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

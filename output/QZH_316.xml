@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_316</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_316</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich
+                                                  Binder
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1569-11-09"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 167</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>An vogt zů<placeName ref="Regensberg">Regensperg</placeName>sovil, witer<note type="editorial"> Der erste Teil des Schreibens
+                                                  (fol. 68v) richtet sich an alle Landvögte und
+                                                  enthält die Aufforderung, das Tanzen auf
+                                                  Hochzeitsfesten und bei anderen Anlässen zu
+                                                  verhindern.</note>:</p>
+                                                  <p>Sodenne lieber vogt, zwyflet uns nit, dir syge
+                                                  unvergäßen<note type="critical">Folgt gestrichen:
+                                                  was</note>, das wir dir<persName ref="Ruman, Peter">Peter Rumman</persName>,<persName ref="Kuhn, Hans">Hans Kůnen</persName>und Fridlj Bremen<note type="critical">Folgt gestrichen:
+                                                  dr</note><persName ref="Bräm, Fridli"/>, so all
+                                                  dryg ­toüf­ferischer sect anhengig und jnn diner
+                                                  amptsverwaltung sesßhafft<note type="critical">Folgt gestrichen: gschriben</note>, hievor
+                                                  gschriben und bevolhen, sy uns gfengklichen
+                                                  zůzeschicken. Unnd wiewol uns bewüßt, das du din
+                                                  best gethaan, diewyl und aber die sach jrethalb
+                                                  siderhar ersesßen<note type="editorial"> liegen
+                                                  lassen, zurückstellen, vgl. <hl to="http://fwb-online.de/go/ersitzen.s.3vu_1709411409"><Hyperlink>http://fwb-online.de/go/ersitzen.s.3vu_1709411409</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  kompt</note> und jemmandts unserm bevelch gegen
+                                                  jnen nitt witer<note type="critical">«witer» über
+                                                  der Zeile</note> fürgfaren, kompt uns für<note type="editorial"> fürkommen: zu Ohren kommen, kund
+                                                  werden, Id. III, 279.</note>, das sy jnn jrer sect
+                                                  beharind und nüdesterweniger jnn diner
+                                                  amptsverwaltung<note type="critical">Folgt
+                                                  gestrichen: sess</note> wonhafft blybint. Und
+                                                  besonders habe einer under jnen syn wyb noch nie
+                                                  unserm christenlichen bruch nach zů kilchen und
+                                                  strassen<note type="critical">In der Vorlage:
+                                                  straffen</note> gefürt<note type="critical">«zů
+                                                  kilchen und strassen gefürt» am Rand</note>,
+                                                  sonders allein jnn der ­toüf­feren versamlung sich
+                                                  zůsammen geben und die ee bestetigen lasßen. So
+                                                  nun durch diß volck (sover sy nit abstand) nüdt
+                                                  gůts ußgericht, sonders ungehorsame deß gmeinen
+                                                  volcks daruß volgen möchte<note type="critical">«möchte» über der Zeile</note>, jst nochmalen
+                                                  unsers gantz erntstlichs begeren an dich, das du
+                                                  uff ernempste personnen din heimliche kundschafft
+                                                  und spech<note type="editorial"> Nachforschung,
+                                                  Fahndung, Id. X, 76.</note> machist, und wo sy
+                                                  sambt ald sonders<note type="critical">Folgt
+                                                  gestrichen: a</note>, einer ald meer
+                                                  zůbetretten<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note>, gfengklichen
+                                                  annemmen<note type="critical">Folgt gestrichen:
+                                                  und</note> lasßist und uns zůschickist. Damitt sy
+                                                  ouch dester mynder blatzes habind, wellend wir,
+                                                  das du die, so jnen<note type="critical">Folgt
+                                                  gestrichen: under v</note> wüßentlichen
+                                                  underschlouff gebent, gfengklichen jnleggen laßist
+                                                  und jnen<note type="critical">«jnen» über der
+                                                  Zeile</note> dann<note type="critical">Folgt
+                                                  gestrichen: sy an</note> dartzů nach gstaltsame
+                                                  der sachen ein bůß abnemmist. Der achtung, sy
+                                                  hiemit zur gehorsamme oder ußem land zů vetriben
+                                                  syn werdint.<note type="critical">Folgt
+                                                  gestrichen: deß</note> Das wellist mit vlysß
+                                                  volstrecken. Datum ut supra<note type="editorial">
+                                                  Fol. 68v: «Datum mitwuchs den 9ten novembris anno
+                                                  etc. 69.»</note>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

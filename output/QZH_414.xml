@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_414</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_414</idno>
+          </msIdentifier>
+          <head>Hans Keller an
+                                                  Fridolin Hässi
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-11-22"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 265</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Myn früntlich willig diennst mit erpietung
+                                                  aller eeren unnd gůts voran. Edler, gestrennger,
+                                                  fürnemmer und wyßer, jnnsonders günstiger,
+                                                  eerender, lieber herr unnd fründt. Uff üwer
+                                                  schryben khan jch üch nit verhallten<note type="editorial"> vorenthalten, Id. II,
+                                                  1233.</note>, das myn gnedig herren allerleyg
+                                                  fürgefallner gschäfften und sachen halb von wegen
+                                                  der personen, so von Niderbergken<note type="editorial"> Berikon</note><placeName ref="Berikon"/> jnn das land zu<placeName ref="Mähren">Meerherren</placeName>gezogen,
+                                                  sich<note type="critical">«sich» über der
+                                                  Zeile</note> noch nützit<note type="critical">Folgt gestrichen: jnn berathschlagung zegogen
+                                                  noch abgeh gehandlet</note> enntschlosßen,
+                                                  welliches aber zu nechster glegenheyt beschächen
+                                                  und üch dannach unverlengt<note type="editorial">
+                                                  unverzüglich, Id. III, 1331.</note>
+                                                  <note type="critical">«unverlengt» am Rand, in der
+                                                  Zeile gestrichen: demnach</note> darüber bscheid
+                                                  und annthwort ervolgen wirt, wollt jch üch<note type="critical">«üch» über der Zeile</note> hiemit
+                                                  zu einem gegenbericht<note type="critical">korrigiert, ursprünglich: bericht</note> gern
+                                                  zukommen lasßen<note type="critical">Folgt
+                                                  gestrichen: mit (Lesung unsicher)</note> nebent
+                                                  anerbietung myner guttwilligen diensten, darby den
+                                                  gnaaden gottes wol bevolchen. Datum den 22ten
+                                                  novembris anno etc. 81.</p>
+                                                  <p rend="margin-top">U[wer] fründtwilliger</p>
+                                                  <p>Hans Keller, obman und deß raths zu<placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem edlen, gestrengen,
+                                                  fürnemmen und wyßen Fridlj Häsßj, ritter deß<note type="critical">Folgt gestrichen: zu</note> raths
+                                                  zu<placeName ref="Glarus">Glaruss</placeName>und der zyt
+                                                  landvogt zu<placeName ref="Baden">Baden</placeName>jnn
+                                                  Ergoüw, mynem sonders erenden, günstigen, lieben
+                                                  herren und fründ.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

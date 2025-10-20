@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_714</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_714</idno>
+          </msIdentifier>
+          <head>Zweites und drittes Verhör von Rudolf
+                                                  Gubelmann und
+                                                  Jörg Leutenegger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 565</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wiewol die beide herren nachgengere sambt herrn<persName ref="Egli, Raphael">Raphael Eglj</persName>widerumb zů den vorgeschribnen<note type="editorial"> erwähnten</note> zweyen
+                                                  ­toüf­feren jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert und jnen
+                                                  erstlichen anzeigt, das jr (myn gnedig herren)
+                                                  vermeint, sy vormaln mit anderm bscheid, weder
+                                                  aber beschechen, begegnet worden weren, demnach
+                                                  durch gedachten herrn Eglj widerumb erjnneret
+                                                  worden, was vorhin deß einen und andern articels
+                                                  halber mit jnen gehandlet und wz sy für bscheid
+                                                  darüber gegeben, volgents ouch befraget worden,
+                                                  was sy sich sidt der zyt, das man by jnen gsyn,
+                                                  bsinnt, was jr vorhaben und meinung, ob sy ouch
+                                                  thůn, was andere christen lüth thůnd, oder ob sy
+                                                  uff jrem kybigen<note type="editorial">
+                                                  eigensinnig, boshaft, zänkisch, Id. III,
+                                                  108.</note>, verstakten<note type="editorial">
+                                                  verstockten</note>, unbegründten<note type="critical">«unbegründten» am Rand mit
+                                                  Verweiszeichen</note> fürnemmen beharren wellind,
+                                                  so habend doch sy beid und sonderlichen der
+                                                  Gubelman dheinen<note type="editorial">
+                                                  keinen</note> andern bscheid<note type="critical">Folgt gestrichen: geg</note> uff den jme
+                                                  fürgehaltnen articel<note type="critical">In der
+                                                  Vorlage: artiel</note> der oberkeit und jres ampts
+                                                  halber gegeben dann disern: Er syge nit ein man,
+                                                  der vil disputierens khönne, begere niemandt
+                                                  zerichten, gebe darüber khein bscheid, aber er
+                                                  widerspreche nit, das wer christenlich läbe und dz
+                                                  wort habe, derselb syge ein christ und werde
+                                                  desselben vor Christo genießen. Bitte deßhalben,
+                                                  man welle syn alter, armůt, wyb und kinder ansehen
+                                                  und die barmhertzigkeit an jme bewyßen, jnne nit
+                                                  erst jnn synem alter von synem glauben (darjnn er
+                                                  jetzt jnn die 33 jar gsyn), dardurch er nützit
+                                                  anders dann syner seelen heil und seligkeit sůche,
+                                                  tryben, sonder darby blyben laßen. Dann er jnn
+                                                  syner jugent allerley sünden underworffen gsyn,
+                                                  nachgents aber, als er uff ein zyt Marxen
+                                                  Sultzer<note type="editorial"><persName ref="Sulzer, Marx">Marx Sulzer</persName></note>,
+                                                  geweßnen pfarrer zů<placeName ref="Hinwil">Hinwyl</placeName>, und N. Walder<note type="editorial">Vermutlich<persName ref="Walder, Heini">Heini Walder</persName>, vgl. Nr. 182.</note>, den
+                                                  ­toüf­fer von Hergis<note type="editorial"> Im
+                                                  Hergis</note><placeName ref="Oetwil am See, Im Hergis"/>, mit einanderen
+                                                  deß glaubens halber reden ghört, syge jme dardurch
+                                                  syn hertz gschlagen worden, das er gott bätten,
+                                                  das er die ding jme abnemmen und den underscheid
+                                                  deß volcks zeigen welle, welliches dann
+                                                  beschechen. Derhalben er nochmaln begäre, man jnne
+                                                  wider syn gwüßne darvon nit tryben, dann er mit
+                                                  gottes hilff darby und by synem grund und glauben
+                                                  zeverharren gsinnet und noch dißmaln üch, mynen
+                                                  gnedigen herren, nit willfaren khönne.</p>
+                                                  <p>Das aber er, Gubelman, andere ufgewiglet, wüße
+                                                  er nit. Woveer<note type="editorial"> wenn, Id. I,
+                                                  914.</note> er aber etwan zwyt ußhin gfaren, welle
+                                                  er sich fürhin stiller halten.</p>
+                                                  <p>Item mit dem predigen zů Altorff<note type="editorial"><placeName ref="Mönchaltorf">Mönchaltorf</placeName></note>, da er, Gubelman, auch
+                                                  geprediget haben sölte, syge es also gangen.
+                                                  Als<note type="critical">korrigiert, ursprünglich:
+                                                  das</note> etliche mal jren 5 ald<note type="editorial"> oder</note>6 zů jnen, den touffbrüderen, jnn jre versamlungen khommen und jrer lehr begert, habind sy jnn jrer ver­samb­lung jren lehrer<persName ref="Schimd, Heini">Heinj Schmiden</persName>jm<placeName ref="Fischenthal">Vischenthal</placeName>, so lange zyt alda gseßen,
+                                                  verordnet, gehn Altorff zekheeren<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note> und den begärenden jre lehr
+                                                  zepredigen. Wie aber under jnen jnn jrer
+                                                  gmeind<note type="critical">«jnn jrer gmeind» am
+                                                  Rand mit Verweiszeichen</note>vermeinet worden, es syge nit gschickt, das einer allein gange, habind sy<persName ref="Gubelmann, Rudolf">jnne, Gubelman</persName>, von deßwegen, dz er zwo
+                                                  stunden näher by Altorff dann die anderen
+                                                  daheimen, dem gedachten Schmiden<note type="critical">Folgt gestrichen: zůgeben</note>
+                                                  zů einem geferten geben. Nachdem sy nun gen
+                                                  Altorff khommen, habind sy jnn die 70 personen, so
+                                                  uff sy gwartet, funden, darvon sy aber nüt gwüßt.
+                                                  Er, Gubelman, aber habe gar nit, sonder der bemelt
+                                                  Schmid als jr lehrer geprediget. Sonsten habind sy
+                                                  jre ver­samb­lungen etliche mal jnn schüren und
+                                                  anderen orten, wo es got verordne, und syge jm
+                                                  Vischenthal ouch ein gmeind.</p>
+                                                  <p>Demnach<persName ref="Leutenegger, Jörg">hatt Lütenegger</persName>der oberkeit und jres
+                                                  ampts halber<note type="critical">Folgt
+                                                  gestrichen: dhe-</note> glychen bscheid gegeben,
+                                                  also das er ouch niemanden zerichten begäre und
+                                                  darüber dheinen bscheid gebe und wer christenlich
+                                                  läbe und dz wort habe, ein christ syge und
+                                                  deßselben vor Christo genießen werde. Khönne ouch
+                                                  mit kheinem volck als dz zum nechsten zůhin
+                                                  trätte, baß nachin khommen und nach dem wort
+                                                  gottes läben dann mit und by diserm völcklj, das
+                                                  bezüge er, so lang er läbe. Begärt derhalben, by
+                                                  synem wyb und kinden zeblyben, dann dieselben sich
+                                                  sontsten nit erhalten möchtind. Welle sich wyter
+                                                  wie bißhar mit dem müllj gschirr machen
+                                                  ußbringen<note type="editorial"> ernähren,
+                                                  erhalten, vgl.
+                                                  http://fwb-online.de/go/ausbringen.s3v_1732355496
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> und
+                                                  khönne üch, mynen gnedigen herren, nach dißmaln
+                                                  ouch nit gehorsammen, dann es wider syn gwüßne syn
+                                                  wurde.</p>
+                                                  <p>Habend also sy beid über die 5 und mehr gründ,
+                                                  so jnen uß heiliger götlicher schrifft altem und
+                                                  nüwem testament ufgewißen<note type="editorial">
+                                                  vorlegen, beweisen, Id. XVI, 1940.</note>, das
+                                                  namblich ein oberkeit syn und dieselb luth jres
+                                                  anbevolchnen ampts<note type="critical">«luth jres
+                                                  anbevolchnen ampts» am Rand mit
+                                                  Verweiszeichen</note> gwalt habe, die jhenigen, so
+                                                  jnn jrem grichts zwang geseßen, durch jre
+                                                  christenliche mandat und ander mitel zur
+                                                  gebürendem gehorsambe zetryben etc., dheinen
+                                                  bscheid geben khönnen, noch <note type="critical">Folgt gestrichen: wöllen noch</note> jres
+                                                  vermeinten glaubens halber einichen grund nach
+                                                  rechenschafft anzeigen wellen.</p>
+                                                  <p rend="margin-top">Demnach die beide herren
+                                                  nachgengere abermaln zů hievor geschribnem zweyen
+                                                  ­toüf­feren jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>keert und nach langer
+                                                  mit jnen gehepten ersprachung und anzeigung, das
+                                                  jr (myn gnedig herren) sölliche lüth, wie sy
+                                                  sygind, schlechts<note type="editorial">
+                                                  schlicht</note> nit lyden nach jnn<note type="critical">Folgt gestrichen: jren</note>
+                                                  üweren grichten und gebieten dulden wöllind,
+                                                  beschlußlich von jnen zewüsen<note type="critical">«zewüßen» am Rand, in der Zeile gestrichen:
+                                                  sy</note> begärt<note type="critical">Folgt
+                                                  gestrichen: anzeigen</note>, ob sy sich üwerer
+                                                  (myner gnedigen herren) christentlichen ußgangnen
+                                                  mandaten und satzungen gemeß halten und nach luth
+                                                  derselben den christenlichen kilchgang wie andere
+                                                  christenlüth besůchen ald nit, oder ob sy
+                                                  loben<note type="editorial"> geloben</note>
+                                                  wöllind, üwer (myner gnedigen herren) gricht und
+                                                  gebiet zemyden und üwer underthonnen und
+                                                  mengklichen<note type="editorial"> jeden</note>
+                                                  jrer lehr halber un­an­getastet und rüwig zelaßen
+                                                  ald wz jr vorhaben und meinung syge.</p>
+                                                  <p>Hatt daruf<persName ref="Gubelmann, Rudolf">erstlich Gubelman</persName>anzeigt, das er die zyt
+                                                  har vil doran gedacht und wz er joch<note type="editorial"> auch, Id. III, 6.</note> sůche,
+                                                  khönne er nüt anders finden, begäre derhalben
+                                                  nochmaln an üch, myn gnedig herren, gantz
+                                                  underthenig, jme als nun mehr altem man die gnad
+                                                  und barmhertzigkeit zůbewyßen, jnne by synem
+                                                  glauben also blyben und darjnnen absterben zlaßen,
+                                                  dann er darby syn läbenlang mit gotes hilf
+                                                  zeverharren gsinnet und darüber zeerwarten, wz
+                                                  gott über jnne verhenge und jr, myn g[nedig]
+                                                  herren, jme uflegind, da er dann gott bätten, das
+                                                  er jme gnad geben wölle, sölliches mit geduldt
+                                                  zelyden und zeüberwinden.</p>
+                                                  <p>Woveer es aber jr by üch, mynen gnedigen
+                                                  herren, nit ußzebringen<note type="editorial">
+                                                  erwirken, Id. V, 719.</note> syn möchte, das man
+                                                  jnne by synem wyb und kinden jm land blyben laßen
+                                                  wölte, so welle er verheißen, ußerthalb zewerchen,
+                                                  aber syn wyb (die gar alt) und kinder, denen er dz
+                                                  gewonnen gelt zu jrer underhaltung gern laßen
+                                                  welle, underwylen zůbesůchen.<note type="critical">Hier bricht die Aufzeichnung ab. Ein
+                                                  Urteilsspruch fehlt. Dagegen setzt hier die
+                                                  Abschrift fort: «Dann wann er ohn dieselben, als
+                                                  die sich ohn … So hatt Leütenegger anzeigt …» wie
+                                                  oben Schluss Nr. 563.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

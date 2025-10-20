@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_767</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_767</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1604-05-08"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 618</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Considerationes:</p>
+                                                  <p>Es was by nach ein gmeine klag der teufferen
+                                                  halber, hindergangind eerlicher lüten kinder,
+                                                  machind große unordnungen im kilchgang etc.</p>
+                                                  <p rend="margin-top">[Bericht an den Rat]<note type="editorial"> Hier wiedergegeben ist nur der
+                                                  die Täufer betreffende Abschnitt. Die Überschrift
+                                                  lautet: Uß dem synodo, so gehalten worden zinstags
+                                                  den 8ten maij anno 1604, jst für myn gnedig
+                                                  herren, ein ehrsammen rath, gewißen.</note>:</p>
+                                                  <p>Die herren predicanten deß capitels am
+                                                  Zürichsee habent fürgebracht, wie am<placeName ref="Hirzel">Hirtzel</placeName>und der enden vil
+                                                  volcks mit der toüferischen sect befleckt. Da vast
+                                                  jnn die zechen hußgsind mitt jren kinden nit
+                                                  zkilchen gangind. Unnd wiewol vernd<note type="editorial"> letztes Jahr</note> bevolchen
+                                                  worden, sölliche unghorsammen lüth zefachen unnd
+                                                  ghorsam zemachen, unnd man jnen ein tag zwen
+                                                  nachgangen unnd sy gsůcht, so syge doch nüt
+                                                  ußgerichtet, unnd die sach also wider erseßen.
+                                                  Dardurch die ­toüf­fer je lenger je halßstarrer
+                                                  worden unnd werdint by jrem byspil andere
+                                                  underthanen auch dest unghorsammer. Der
+                                                  Rützistorfer<note type="editorial"> Heinrich
+                                                  Rützensdorfer</note><persName ref="Rützisdorfer, Heinrich"/> schweiffe der
+                                                  enden<note type="editorial"> Gegenden</note>umbhin. Item so syge einer am Horgerberg,<persName ref="Landis, Hans">Hans Landiß</persName>jm
+                                                  Formoß<note type="editorial"><placeName ref="Horgenberg, Forenmoos">Forenmoos</placeName></note> genant, der
+                                                  sich deß predigens underwinde und ein zůlauff
+                                                  habe.</p>
+                                                  <p>Glyche klag der ­toüf­feren halber habent auch
+                                                  dz<placeName ref="Regensberg">Regensperger</placeName>capitel und das jm Fryenampt<note type="critical">Folgt gestrichen: fürgebrac unnd
+                                                  wi</note><placeName ref="Freiamt"/>, jtem<placeName ref="Wetzikon">Wetzikommer</placeName>unnd<placeName ref="Winterthur">Winterthurer</placeName>capitel
+                                                  fürgebracht, das namlich die ­toüf­fery jmmerdar
+                                                  mehr zů- dann abnemme. Innsonderheit so sygind die
+                                                  ufwigler abermaln jm land verhanden, welliche fryg
+                                                  offentlich ohn schüchen unnd ohn einiche hinderung
+                                                  hin unnd wider<note type="critical">Folgt
+                                                  gestrichen: wandlint</note> durch die grafschafft<placeName ref="Kyburg">Kyburg</placeName>über den<placeName ref="Irchel (Hügelzug)">Irchel</placeName>unnd
+                                                  anndere herrschafften jren gang und frygen
+                                                  paß<note type="critical">«jren gang und frygen
+                                                  paß» am Rand mit Verweiszeichen</note> habint, die
+                                                  lüt ufwiglind und hinweg fürind. Unnd mit nammen
+                                                  so habint sy vil wandels gen Niderglat unnd
+                                                  daselbs jm wirtshuß platz und underschlouff
+                                                  unangesehen, das es der wirtinen underseit worden,
+                                                  sy nit also jnzůzüchen<note type="editorial">
+                                                  aufnehmen, beherbergen, bewirten, Id. XVII,
+                                                  1002.</note>. So werde auch gredt, das jnn 8 tagen
+                                                  den nechsten umb Niderglat ein zesammenkhunfft und
+                                                  predig von den Merrherischen ­toüf­feren gehalten
+                                                  werden sölle. Unnd diewyl nun die hohe nothurfft
+                                                  erforderet, das hierjnnen ein ernstlichs
+                                                  jnsehens<note type="editorial"> Vorkehrung, Id.
+                                                  VII, 563.</note> bescheche, sonderlichen diewyl
+                                                  glych znechst umb die statt<placeName ref="Zürich">Zürich</placeName>sich ouch ­toüf­fer enthaltend<note type="editorial"> sich aufhalten, wohnen, Id. II,
+                                                  1230.</note> unnd, wie man sagt, jnn der statt
+                                                  schwenckfelder verhanden syn söllint, so laßt ein
+                                                  ersamer synodus sölliche handlung und klag jnn
+                                                  gmein an<note type="critical">«an» über der Zeile,
+                                                  in der Zeile gestrichen: für</note> myn gnedig
+                                                  herren langen. Mit bitt, sy wellind mit erntst zun
+                                                  sachen thůn, damit söllichem freffnen<note type="editorial"> dreist, unverschämt, Id. I,
+                                                  1286.</note> bößen volck mit widerstandt begegnet
+                                                  unnd dem unrath, so daruß ervolgen wurde, wann man
+                                                  jnen also zůsehen unnd sy nach jrem willen
+                                                  fürfaren und machen laßen sölte, mitt mehrerem
+                                                  erntst dann bißhar beschechen fürkhommen unnd
+                                                  gewehrt werde.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

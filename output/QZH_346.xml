@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_346</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_346</idno>
+          </msIdentifier>
+          <head>Felix Brunner an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1575-05-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 197</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, fromen, eerenvesten, fürsichtigen, fürnemen, ersamen unnd wysen, gnedigen min herren, ewer wyßheit sigen min unnderthänig willig dienst altzyt jn schuldiger pflicht zůvor bereit. Gnedigen min herren, uff ewer wyßheitt zůschryben, üch jm grund zůberichten, uß was ursachen jch<persName ref="Furer, Dorothea">Dorotheea Furerin</persName>, wylund<note type="editorial"> vormals und
+                                                  jetzt, Id. XV, 1254.</note><persName ref="Gubelmann, Ruedi">Ruͤdj Gubelmans</persName>des
+                                                  töüffers hußfrowen, uß der herrschaft ze<placeName ref="Grüningen">Grüningen</placeName>zůtzichen verwisen etc., wüssent, das sölich jr verwysen uß der ursach beschächen, das herr<persName ref="Farner, Martin">Martj Farner</persName>, predicant
+                                                  ze<placeName ref="Wald">Wald</placeName>, mir zůgeschriben, wie<persName ref="Streler, Marti">Martj Streller</persName>zů<placeName ref="Wald, Haltberg">Haltpurg</placeName>, den
+                                                  jch umb siner töüfferischen sect willen ouch jn
+                                                  gefänkhnus ghept, unnd uff das er sich begeben zur
+                                                  predig zegan, jne derselbigen wider gelediget,
+                                                  jetz genanter frouwen herbärg gäb unangesächen,
+                                                  das jr eeman zů jren stätts sin wandel hab, als jr
+                                                  dan uß gemelts predicanten zůschryben, das jch üch
+                                                  hiemit zůschicken<note type="editorial"> Vgl. die
+                                                  vorausgehende Nummer.</note>, jm vierten artickel
+                                                  ouch zefinden. Unnd diewyl als uß gemeltem des
+                                                  predicanten schryben verstan, jm hof Wald unnd<placeName ref="Fischenthal">Vischental</placeName>die
+                                                  töüfferisch sect zůnimpt unnd one ernst nit
+                                                  ußzerüten, unnd mins achtens der töüfferen eewyber
+                                                  und kinder wider ewer ußgangne mandathan
+                                                  unnderschlouff nach villminder andern lüthen
+                                                  darab, dieselbigen zůgedulden, ergernuß zůnemen
+                                                  zůgäben, hab jch es by dem verwysen, das ich dem
+                                                  Sträller jn erledigung siner gefangenschafft, sy
+                                                  nit mer zůbehusen, jngebunden<note type="editorial"> befohlen, Id. IV, 1350f.</note>,
+                                                  unangesechen jrer entschuldigung, ändtlich belyben
+                                                  lassen. Unnd hiemit weder jm noch anderen töüffern
+                                                  anlaß gäben, ob glych wol sy ungehorsam, das man
+                                                  denoch jnen jr wyb unnd kinder, die sy selbs nit
+                                                  betrachtent, erhalten unnd jren frigen zůgang
+                                                  gestattnen welle, unnd saach hierüber zů ewer
+                                                  wyßheit gefallen gegen der Furern zůhandlen nach
+                                                  ewerem gůten beduncken unnd bin üch darnebent,
+                                                  unnderthänigen willen zůbewysen, altzyt schuldig
+                                                  unnd gantz geneigt. Datum zynstags dem zechenden
+                                                  meyens anno etc. 75.</p>
+                                                  <p rend="margin-top">Ewer wyßheit altzyt
+                                                  underthäniger diener</p>
+                                                  <p>Felix Brunner, vogt zů<placeName ref="Grüningen">Grüningen</placeName></p>
+                                                  <p rend="margin-top">Den frommen, edlen,
+                                                  eerenvesten, fürsichtigen, fürnemen, ersamen unnd
+                                                  wysen herrn burgermeyster unnd raath der statt zů<placeName ref="Zürich">Zürich</placeName>, minen gnedigen
+                                                  lieben herrn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

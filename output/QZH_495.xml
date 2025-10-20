@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_495</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_495</idno>
+          </msIdentifier>
+          <head>Verhöre und Urteile gegen Heinrich
+                                                  Schnyder,
+                                                  Junghans Fuss und
+                                                  Rudolf Egli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1587-06-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 346</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Demnach herr seckelmeister Schwertzenbach<note type="editorial"><persName ref="Schwerzenbach, Matthias">Matthias Schwerzenbach</persName></note>, nüwer, unnd m[eister]<persName ref="Waser, Niklaus">Niclous Waser</persName>, allter obervogt jm<placeName ref="Neuamt">Nüwenampt</placeName>, deßglychen j[unker]<persName ref="Grebel, Jörg">Jörg Grebel</persName>unnd herr schaffner Leeman<note type="editorial">Hans<persName ref="Leemann, Hans Rudolf">Rudolf Leemann</persName></note>mit sampt meister<persName ref="Leemann, Burkhard">Burckharten Leeman</persName>, pfarrer zum
+                                                  Frouwenmünster, zů Heinrichen Schnyder von
+                                                  Schöfflistorff, Junghannßen Fusß von Niderweningen
+                                                  unnd Růdlj Eglj ußem Vischental, so verruckter
+                                                  tagen als ­toüf­fer von<placeName ref="Niederglatt">Niderglatt</placeName>gfenngklichen alhar gfuͤrt
+                                                  worden, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>gfaren unnd jnnen
+                                                  fürgehallten<note type="editorial"> vorwerfen, Id.
+                                                  II, 1235.</note>, uß was ursach sy jnn das lannd<placeName ref="Mähren">Meerhern</placeName>zogen, ob sy
+                                                  ouch der ­toüf­fern lehr angenommen, jtem was
+                                                  meinung unnd vorhabens sy sich widerumb jnn dißere
+                                                  lannd begäben, villicht vollck ufzewiglen unnd mit
+                                                  jnen hinweg zefuͤren ald<note type="editorial">
+                                                  oder</note> was sachen halb, habent sy volgender
+                                                  masßen darüber geanntwortet.</p>
+                                                  <p>Unnd erstlichen Heinrich Schnyder den bscheid
+                                                  gäben: Das er nit der ­toüf­ferey anfanngs,
+                                                  sonnder vil mehr syner armůt halber jnn das
+                                                  Meerhern lannd abhin zogen. Unnd diewyl jme aber
+                                                  jr wanndel unnd läben<note type="critical">Folgt
+                                                  gestrichen: ouch</note> gliebet unnd gfelig
+                                                  gewäßen, habe er sich dero lehr ouch
+                                                  unnderworffen. Synes wider ufhinreysens ursach syg
+                                                  dises, das ettwas klegt<note type="editorial">
+                                                  Klage, Id. III, 639.</note> daniden gweßen, als er
+                                                  verschinnes<note type="editorial">
+                                                  vergangenen</note> herpsts, do er<note type="critical">Folgt gestrichen: zum</note>
+                                                  abhinzogen, syne schulden nit allencklich bezalt,
+                                                  deßwegen sich uff die strasß gmacht<note type="critical">Folgt gestrichen: hin k</note>,
+                                                  hinuf kheret unnd syne schulden und sachen richtig
+                                                  machen unnd demnach mit synen wyb unnd kinden jnn
+                                                  allem gůttem gstrax widerumb abhin züchen wellen.
+                                                  Sonnster er dheinen<note type="editorial">
+                                                  keinen</note> bevelch nit habe, jemanden
+                                                  (ußgenommen syne wyb und kinder<note type="critical">Folgt gestrichen: er</note> zů
+                                                  dester beßerer jrer unnderhaltung) ufzewiglen ald
+                                                  abhinzefuͤren, dann er allein oberzelter ursach
+                                                  halb hinuf zogen.</p>
+                                                  <p>Uff m[eister] Burckharten Leemans frag, was er
+                                                  von der sünd haltte unnd ob er sich ouch für einen
+                                                  sünder erkhenne, hatt er geanntwort, er bekhenne,
+                                                  dz alle menschen unnd besonnders ouch er große
+                                                  sünder sygind, doch er sich je lännger je mehr der
+                                                  beßerung synes läbens beflysßege etc. unnd sich
+                                                  also zimmlich gůtts bscheidts befinden lasßen. Er
+                                                  hatt ouch<note type="critical">«ouch» über der
+                                                  Zeile</note> bynebent<note type="critical">Folgt
+                                                  gestrichen: ouch</note> nit abgeschlagen, mit
+                                                  synen bruͤdern jnn meister Burckharten
+                                                  Leemans<note type="critical">«Leemans» am Rand mit
+                                                  Verweiszeichen</note> huß zekheeren unnd daselbst
+                                                  von jme ettwas unnderrichts zehören. Im fal es jme
+                                                  anemmlich, er demselbigen volgen welte.</p>
+                                                  <p><persName ref="Fuss, Junghans">Junghanns Fusß</persName>von<placeName ref="Niederweningen">Niderweningen</placeName>zeigt an, wegen das er sich hie zlannd nit wol
+                                                  mehr erhallten<note type="editorial"> sich
+                                                  unterhalten, ernähren, Id. II, 1232.</note> mögen,
+                                                  syge er vor einem jar<note type="critical">«vor
+                                                  einem jar» am Rand mit Verweiszeichen</note> jnn
+                                                  Meerheren zogen unnd daselbst ouch der ­toüf­feren
+                                                  gmeinschafft angenommen. Sidtmalen<note type="editorial"> da, weil, Id. IV, 147.</note>
+                                                  aber daniden ein gschrey ußganngen, das er syne
+                                                  schuldvordern nit allencklich<note type="editorial"> vollständig, Id. I, 170.</note>
+                                                  vernuͤgt<note type="editorial"> zufriedenstellen,
+                                                  vergelten, Id. IV, 701.</note>, syge er bewegt
+                                                  worden, widerumb hinuf zezüchen und zesächen, ob
+                                                  syn brůder synem verheißen nach die iiij g[ulden],
+                                                  so er jnn synem abreyßen noch schuldig gsyn,
+                                                  abgefertiget oder nit. Unnd so dann er syne sachen
+                                                  zvollen<note type="editorial"> vollends, Id. I,
+                                                  781.</note> richtig gmachet hette, wellte er
+                                                  angentz<note type="editorial"> unverzüglich,
+                                                  nächstens, Id. II, 19.</note>
+                                                  <note type="critical">«angentz» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen:
+                                                  richtigs</note> widerumb abhin zogen syn, dann er
+                                                  dheinen argen meinung, sonnder jn allem gůtem gen<placeName ref="Niederglatt">Niderglatt</placeName>kommen
+                                                  unnd<note type="critical">«unnd» über der Zeile,
+                                                  in der Zeile und darüber gestrichen: unnd
+                                                  ouch</note> sich dheines byfachens<note type="editorial"> von etwas gewalttätig Besitz
+                                                  ergreifen, Id. I, 857.</note> nit versächen. Er
+                                                  syge ouch urbütig<note type="editorial"> bereit,
+                                                  Id. IV. 1881.</note>, zů meister<persName ref="Leemann, Burkhard">Burckharten Leeman</persName>jnns huß
+                                                  zegaan, unnd söllichs jmme jnn die hannd gelopt,
+                                                  so dann er jnne ettwas beßers unnderrichten unnd
+                                                  underwyßen könne, welle er es annemmen unnd
+                                                  demselbigen volgen.</p>
+                                                  <p>Uff anzüchen m[eister] Burckharten Leemans, was
+                                                  er von der oberkeit hallte, hatt er geanntwortet,
+                                                  er bkhänne, das ein oberkeit syn sölle unnd
+                                                  muͤsße, halte sy für recht, ohne die man nit wol
+                                                  syn unnd unnder einanndern läben könndte etc. Unnd
+                                                  ouch uff ettliche anndere derglychen quæstiones
+                                                  unnd fragstuck wol und fründtlichen<note type="critical">«und fründtlichen» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen: unnd nit
+                                                  widerspennige erzeigt, sonnder frundtlic</note>
+                                                  geantwortet.</p>
+                                                  <p>Růdlj Eglj ußem<placeName ref="Fischenthal">Vischental</placeName>gipt disern bericht:
+                                                  Verschinnen Verenæ<note type="editorial"> 1.
+                                                  September 1586</note> syge er sampt wyb unnd
+                                                  kinden mit einem syner nachpuren hinab jnn<placeName ref="Mähren">Meerhern</placeName>zogen uß ursach,
+                                                  das er vil kleiner kinnden unnd dieselbigen nit
+                                                  mehr erhalten mögen. Diewyl er aber noch ettwas
+                                                  schulden ghept, syge er uffhin kommen jnn willens,
+                                                  dieselbigen zeentrichten unnd demnach widerumb
+                                                  hinab zezüchen, sonnster habe er sich ouch der
+                                                  ­toüf­ferischen brůderschafft yngemischt, doch
+                                                  enndtlichen uff begären m[eister] Burgkharten
+                                                  Leemans verheißen, mit den anndern synen
+                                                  mittbruͤdern zů jme jnn syn huß zegaan unnd
+                                                  daselbst syner beßern unnderwyßung audientz
+                                                  zegäben.</p>
+                                                  <p>Derhalben, sidtmaln<note type="editorial"> da,
+                                                  weil, Id. IV, 147.</note> sy weder mit predigen
+                                                  noch jnn annderwäg jemannden ufzewiglen ald<note type="editorial"> oder</note> hinweg zefuͤren ald
+                                                  was annders anzerichten, nit willens gweßen,
+                                                  sygind sy gůtter hoffnung, der gfanngenschafft
+                                                  widerumb erlediget zewerden.</p>
+                                                  <p>Sonnster hatt meister<persName ref="Leemann, Burkhard">Burckhart Leeman</persName>sich anerbotten, jnnen
+                                                  jnn synem huß ein tag oder zween äsßen unnd
+                                                  trincken zegäben unnd jnndert<note type="editorial"> innerhalb</note> söllcher zyth
+                                                  mit lehren, vermannen unnd unnderrichten, so wyt
+                                                  es erheblichen, syn bests zethůnd.</p>
+                                                  <p rend="margin-top">[Urteile:] Diewyl sy<note type="critical">«sy» über der Zeile</note>umb keiner anderen ursach willen, dann allein jre schulden richtig zumachen unnd demnach jre wyb unnd kinder widerumb mit jnen jnn das Merherren land zefuren, harkommen syn, wellen recht myn herren das besser glouben unnd sy der gfangenschafft erlassen, doch das sy angents jre sachen richtig machind unnd mitt wyb unnd kinden (jrem anerbieten) nach widerumb vortzüchind. So aber m[eister] Burckart Leeman sy jnn syn huß nemmen unnd sich mitt jnen ersprachen will, lassent myn herren dasselbig gern beschechen. Actum sambstags den 10ten junij anno etc. 87 p[raese]nt[ibus] herr<persName ref="Thomann, Kaspar">burgermeister Tomman</persName><bm id="163"/> unnd beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -86,11 +86,8 @@ def clean_vorlage(text: str) -> str:
     if not text:
         return ""
     t = text.strip()
-    # "Vorlage:" am Anfang entfernen (falls vorhanden)
     t = re.sub(r"^\s*vorlage\s*:\s*", "", t, flags=re.IGNORECASE)
-    # Komma nach StAZH entfernen (auch mit variierenden Whitespaces) und Schreibweise vereinheitlichen
     t = re.sub(r"\bstazh\s*,\s*", "StAZH ", t, flags=re.IGNORECASE)
-    # Falls ohne Komma, aber falsche Groß-/Kleinschreibung: angleichen
     t = re.sub(r"\bstazh\b", "StAZH", t, flags=re.IGNORECASE)
     return t.strip()
 
@@ -159,12 +156,9 @@ def build_header(head_text: str | None, idno_text: str | None, iso_date: str | N
         additional = tei_sub(history, "additional")
         listBibl = tei_sub(additional, "listBibl")
         tei_sub(listBibl, "head", "Edition")
-        # <bibl><bibl><ref target="...">QGTS</ref>, Bd. 5, Nr. {qgts_nr}</bibl></bibl>
         bibl_outer = tei_sub(listBibl, "bibl")
         bibl_inner = tei_sub(bibl_outer, "bibl")
         ref_el = tei_sub(bibl_inner, "ref", "QGTS", **{"target": "https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"})
-        # Text nach dem ref: ", Bd. 5, Nr. {qgts_nr}"
-        # Anhängen als Tail am ref-Element
         if ref_el is not None:
             ref_el.tail = f", Bd. 5, Nr. {qgts_nr}"
 
@@ -173,11 +167,84 @@ def build_header(head_text: str | None, idno_text: str | None, iso_date: str | N
     p = tei_sub(editorialDecl, "p")
     tei_sub(p, "ref", None, **{"target": "https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"})
 
-    tei_sub(teiHeader, "profileDesc")
+    # Nur EIN profileDesc
     profileDesc = tei_sub(teiHeader, "profileDesc")
     tei_sub(profileDesc, "textClass", None, **{"default": "false"})
 
     return teiHeader
+
+def extract_first_text(el) -> str | None:
+    if el is None:
+        return None
+    return "".join(el.itertext()).strip()
+
+def fix_inline_persnames(p_el: etree._Element):
+    """
+    Sucht ein zweiteiliges Namensmuster unmittelbar vor einem leeren <persName/> und
+    überträgt es als Text in <persName>. Mutiert p_el in-place.
+    """
+    for pers in p_el.xpath('.//*[local-name()="persName"]'):
+        if (pers.text and pers.text.strip()):
+            continue
+
+        parent = pers.getparent()
+        if parent is None:
+            continue
+
+        children = list(parent)
+        try:
+            pos = children.index(pers)
+        except ValueError:
+            pos = -1
+
+        if pos > 0:
+            prev = children[pos - 1]
+            text_segment = prev.tail or ''
+            target_container = ('tail', prev)
+        else:
+            text_segment = parent.text or ''
+            target_container = ('text', parent)
+
+        tokens = re.findall(r"\S+", text_segment)
+        if len(tokens) >= 2:
+            name = tokens[-2] + ' ' + tokens[-1]
+            remaining_tokens = tokens[:-2]
+            remaining = ' '.join(remaining_tokens)
+
+            if all(any(ch.isalpha() for ch in t) for t in (tokens[-2], tokens[-1])):
+                pers.text = name
+                if target_container[0] == 'tail':
+                    prev.tail = (remaining if remaining else None)
+                else:
+                    parent.text = (remaining if remaining else None)
+                if pers.tail:
+                    pers.tail = pers.tail.lstrip()
+
+def fix_inline_placenames(p_el: etree._Element) -> None:
+    """
+    Wandelt <placeName ref="X"/> direkt nach einem Wort in <placeName ref="X">Wort</placeName> um.
+    Nimmt an, dass das Wort unmittelbar davor steht (Parent.text oder previous.tail).
+    """
+    for pn in p_el.xpath('.//*[local-name()="placeName" and not(normalize-space())]'):
+        prev = pn.getprevious()
+        parent = pn.getparent()
+        token = None
+        if prev is None:
+            if parent is not None and parent.text:
+                parts = parent.text.rstrip().rsplit(None, 1)
+                if parts:
+                    token = parts[-1]
+                    parent.text = parent.text[: -len(token)].rstrip() if len(parts) > 1 else ''
+        else:
+            tail = (prev.tail or '').rstrip()
+            if tail:
+                parts = tail.rsplit(None, 1)
+                if parts:
+                    token = parts[-1]
+                    prev.tail = prev.tail[: -len(token)].rstrip() if len(parts) > 1 else ''
+        if token:
+            pn.text = token
+            pn.tail = (pn.tail or '').lstrip()
 
 def build_tei_tree(head_text, idno_text, iso_date, p_nodes, editorial_notes, qgts_nr: str | None = None):
     # Root mit Namespaces
@@ -192,7 +259,13 @@ def build_tei_tree(head_text, idno_text, iso_date, p_nodes, editorial_notes, qgt
     div = tei_sub(body, "div")
 
     for p in p_nodes:
-        div.append(deepcopy(p))
+        p_copy = deepcopy(p)
+        try:
+            fix_inline_persnames(p_copy)
+            fix_inline_placenames(p_copy)
+        except Exception:
+            pass
+        div.append(p_copy)
 
     # <back> für editoriale Notizen (falls vorhanden)
     if editorial_notes:
@@ -203,125 +276,67 @@ def build_tei_tree(head_text, idno_text, iso_date, p_nodes, editorial_notes, qgt
             for child in note:
                 p.append(deepcopy(child))
 
-    return root
-
-def extract_first_text(el) -> str | None:
-    if el is None:
-        return None
-    return "".join(el.itertext()).strip()
+    return root  # (kein doppeltes return mehr)
 
 def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
     outdir.mkdir(parents=True, exist_ok=True)
 
     parser = etree.XMLParser(remove_blank_text=False)
     tree = etree.parse(str(input_xml), parser)
-    root = tree.getroot()
 
-    # Namespace-Erkennung
-    nsmap = root.nsmap.copy() if hasattr(root, 'nsmap') else {}
-    tei_prefix = None
-    for k, v in nsmap.items():
-        if v == TEI_NS:
-            tei_prefix = k or 'tei'
-            break
-    has_tei_ns = tei_prefix is not None
-    if not has_tei_ns:
-        nsmap = {}  # keine Namespaces
-        tei_prefix = None
+    # Alle Dokument-DIVs (namespace-agnostisch)
+    divs = tree.xpath('//*[local-name()="div" and @type="document"]')
 
-    def xp(tag):
-        if has_tei_ns:
-            return f'.//{tei_prefix}:{tag}'
-        else:
-            return f'.//{tag}'
+    for idx, d in enumerate(divs, start=150):
+        # head
+        head_el = d.xpath('.//*[local-name()="head"]')
+        head_text = extract_first_text(head_el[0]) if head_el else ""
 
-    # Alle <div type="document">
-    doc_divs = []
-    for d in root.xpath(xp("div"), namespaces=nsmap):
-        if d.get("type") == "document":
-            doc_divs.append(d)
-
-    if not doc_divs:
-        print('Keine <div type="document">-Elemente gefunden.')
-        return
-
-    # Nummerierung startet bei 150 (QZH_150...)
-    for idx, d in enumerate(doc_divs, start=150):
-        # p-Knoten innerhalb des Dokument-div (rekursiv)
-        p_nodes = []
-        for p in d.xpath(xp("p"), namespaces=nsmap):
-            if d in p.iterancestors():
-                p_nodes.append(p)
-
-        # head (erster Treffer)
-        head_el = None
-        res = d.xpath(xp("head"), namespaces=nsmap)
-        if res:
-            head_el = res[0]
-        head_text = extract_first_text(head_el)
-
-        # Vorlage oder Original (exklusiv)
+        # idno aus vorlage/oderiginal
+        vorlage_el = d.xpath('.//*[local-name()="div" and @type="vorlage"]')
+        original_el = d.xpath('.//*[local-name()="div" and @type="original"]')
         idno_text = ""
-        vorlage_el = None
-        original_el = None
-        for v in d.xpath(xp("div"), namespaces=nsmap):
-            if v.get("type") == "vorlage":
-                vorlage_el = v
-                break
-            elif v.get("type") == "original":
-                original_el = v
-                break
-        if vorlage_el is not None:
-            # Nur bei <div type="vorlage">: Text bereinigen
-            idno_text = clean_vorlage(extract_first_text(vorlage_el) or "")
-        elif original_el is not None:
-            idno_text = clean_vorlage(extract_first_text(original_el) or "")
+        if vorlage_el:
+            idno_text = clean_vorlage(extract_first_text(vorlage_el[0]) or "")
+        elif original_el:
+            idno_text = clean_vorlage(extract_first_text(original_el[0]) or "")
 
-        # source date und QGTS-Nummer (n-Attribut)
+        # p-Knoten
+        p_nodes = d.xpath('.//*[local-name()="p"]')
+
+        # source date und qgts-nr
         iso_when = None
         qgts_nr = None
-        for s_el in d.xpath(xp("div"), namespaces=nsmap):
-            if s_el.get("type") == "source":
-                date_attr = s_el.get("date") or ""
-                iso_when = to_iso_date(date_attr)
-                # n-Attribut als QGTS-Nummer verwenden (falls vorhanden)
-                if s_el.get("n"):
-                    qgts_nr = s_el.get("n")
-                if iso_when:
-                    break
+        s_el = d.xpath('.//*[local-name()="div" and @type="source"]')
+        if s_el:
+            date_attr = s_el[0].get('date') or ''
+            iso_when = to_iso_date(date_attr)
+            qgts_nr = s_el[0].get('n')
 
-        # editoriale Notizen sammeln
+        # editoriale Notizen nur wenn innerhalb von <head>
         editorial_notes = []
-        for n in d.xpath(xp("note"), namespaces=nsmap):
-            if n.get("type") == "editorial":
-                # Prüfe, ob <note type="editorial"> innerhalb von <head> steht
-                in_head = False
-                for ancestor in n.iterancestors():
-                    if ancestor.tag == f"{{{TEI_NS}}}head":
-                        in_head = True
-                        break
-                if in_head:
-                    editorial_notes.append(n)
+        for n in d.xpath('.//*[local-name()="note" and @type="editorial"]'):
+            if any((anc.tag.endswith("head")) for anc in n.iterancestors()):
+                editorial_notes.append(n)
 
-        # TEI-Baum bauen
-        series_idno = f"QZH_{idx}"
+        # TEI bauen
+        series_idno = f"{prefix}_{idx}"
         tei_root = build_tei_tree(head_text, series_idno, iso_when, p_nodes, editorial_notes, qgts_nr)
+
+        # PI voranstellen
         pi = etree.ProcessingInstruction(
-            "xml-stylesheet", "type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'"
+            "xml-stylesheet",
+            "type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'"
         )
-        tei_tree = etree.ElementTree(tei_root)
+
         tei_root.addprevious(pi)
 
-        # Dateiname: QZH_<Nummer>.xml
-        filename = f"QZH_{idx}.xml"
+        # Schreiben IN der Schleife, prefix verwenden
+        filename = f"{prefix}_{idx}.xml"
         out_path = outdir / filename
-        # Schreiben
-        tei_tree.write(
-            str(out_path),
-            encoding="UTF-8",
-            xml_declaration=True,
-            pretty_print=True,
-        )
+        print(f"DEBUG: writing to {out_path}")
+        tei_tree = etree.ElementTree(tei_root)
+        tei_tree.write(str(out_path), encoding="UTF-8", xml_declaration=True, pretty_print=True)
         print(f"Geschrieben: {out_path}")
 
 def main():
