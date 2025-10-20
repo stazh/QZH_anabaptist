@@ -78,11 +78,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Das capitel im<placeName ref="Freiamt">Fryampt</placeName>hat fürgebracht, wie die widerthöffery by innen
+      <div><p>Das capitel im <placeName ref="Freiamt">Fryampt</placeName> hat fürgebracht, wie die widerthöffery by innen
                                                   yemerdar fürbreche, die dann ouch under anderen
                                                   landtlüthen vil unghorsamme verursache. Welliches
                                                   sich in dem erscheint, als man verschinnes<note type="editorial"> vergangenen</note> sommers die
-                                                  musterung inn der herrschafft<placeName ref="Knonau">Knonow</placeName>gehalten, da wenig landtlüt, als sy
+                                                  musterung inn der herrschafft <placeName ref="Knonau">Knonow</placeName> gehalten, da wenig landtlüt, als sy
                                                   dem obervogt schweeren söllen, die hend ufgehept.
                                                   Und wenn man sy darumb anzügt<note type="editorial"> jmd. etwas vorhalten, vorwerfen,
                                                   Id. XVII, 992.</note>, worumb sy das nit gethon,
@@ -95,23 +95,26 @@
                                                   für gebrocht. Mit vermeldung, dz die nachgesetzten
                                                   amptlüt schlächtlich darzů thuͤygind etc.</p>
                                                   <p>Das Oberwetzikommer capitel und die herren
-                                                  predicanten in der herrschafft<placeName ref="Grüningen">Gruͤnignen</placeName>haben
+                                                  predicanten in der herrschafft
+                                                  Gruͤ<placeName ref="Grüningen">nignen</placeName> haben
                                                   glyche klag gefuͤrt. Und ist mit namen angezeigt
-                                                  worden, dz ein Oberholtzer<note type="editorial"><persName ref="Oberholzer, Heini">Heini Oberholzer</persName></note>, ein teuffer, einem 9 gulden<note type="critical">In der Vorlage: fl.</note> geben,
+                                                  worden, dz ein Oberholtzer<note type="editorial">
+                                                  <persName ref="Oberholzer, Heini">Heini Oberholzer</persName></note>, ein teuffer, einem 9 gulden<note type="critical">In der Vorlage: fl.</note> geben,
                                                   dz er imme syn frowen, die doch kein töufferin nit
-                                                  gsyn, ins<placeName ref="Mähren">Meerheren</placeName>land
+                                                  gsyn, ins <placeName ref="Mähren">Meerheren</placeName> land
                                                   fuͤren sölle - allein umb deß willen, dz er, der
                                                   mann, und ouch syn vatter, der frowen schwäher,
                                                   ein unwillen an sy gelegt habe<note type="editorial"> Vgl. Nr. 547 und
                                                   Nr. 551.</note>.</p>
                                                   <p>So habe ein toͤuffer nach anzeigung herren
-                                                  Schintzen<note type="editorial">Hans<persName ref="Schinz, Hans Heinrich">Heinrich Schinz</persName></note> deß pfarrers zů<placeName ref="Wald">Wald</placeName>mit einer magt lang ghuset und ein
+                                                  Schintzen<note type="editorial"> Hans <persName ref="Schinz, Hans Heinrich">Heinrich
+                                                  Schinz</persName></note> deß pfarrers zů <placeName ref="Wald">Wald</placeName> mit einer magt lang ghuset und ein
                                                   kind by der selben erzüget<note type="editorial">
                                                   Vgl. Nr. 551.</note>. Und ob wol die sach vor dem
                                                   eegricht allhie gesyn und dem obervogt zů
                                                   Gruͤningen geschriben worden, blybe doch diser
                                                   mann ungestrafft.</p>
-                                                  <p>So zeigt der pfarrer zů Hinwyl<note type="editorial">Johann<persName ref="Zingg, Johann Heinrich">Heinrich Zingg</persName></note><placeName ref="Hinwil"/> an, dz der Ruͤdli Wagner<note type="editorial"><persName ref="Gubelmann, Rudolf">Rudolf Gubelmann</persName></note>, der toͤuffer,
+                                                  <p>So zeigt der pfarrer zů <note type="editorial"> Johann <persName ref="Zingg, Johann Heinrich">Heinrich Zingg</persName></note><placeName ref="Hinwil">Hinwyl</placeName> an, dz der Ruͤdli Wagner<note type="editorial"> <persName ref="Gubelmann, Rudolf">Rudolf Gubelmann</persName></note>, der toͤuffer,
                                                   der alhie gefangen glegen, und deß landts verwisen
                                                   worden, nütdistweniger nach yemerdar verhanden,
                                                   und inn besitzung deß synen syge.</p>
@@ -126,48 +129,58 @@
                                                   lautet: Uß dem synodo zinstags nach Gallj anno
                                                   1604 gehalten, jst für myn gnedig herren, ein
                                                   ehrsammen rath, gewißen worden.</note>:</p>
-                                                  <p>Das capitel jm<placeName ref="Freiamt">Frygampt</placeName>hatt fürgebracht, wie die widerthoüffery by
+                                                  <p>Das capitel jm <placeName ref="Freiamt">Frygampt</placeName> hatt fürgebracht, wie die widerthoüffery by
                                                   jnen jmmerdar fürbraͤche, die dann auch under
                                                   annderen landtlüthen vil unghorsame verursache.
                                                   Wellichs sich jnn dem erscheint, als man
                                                   verschinnens sommers die musterung jnn der
-                                                  herrschaft<placeName ref="Knonau">Knonow</placeName>gehalten, da wenig landtlüt, als sy dem obervogt
+                                                  herrschaft <placeName ref="Knonau">Knonow</placeName>
+                                                  gehalten, da wenig landtlüt, als sy dem obervogt
                                                   schweeren söllen, die hend ufgehept. Unnd wenn man
                                                   sy darumb anzühe, warumb sy das nit gethaan,
                                                   wendind sy die ­toüf­fer für mit anzeigung, man
                                                   můte doch denselben auch kein eyd zů. Wellichs vil
                                                   ergernuß und nachred auch by den nachbaren
                                                   bringe.</p>
-                                                  <p>Glyche klag hatt auch das<placeName ref="Winterthur">Winterthurer</placeName>capitel
+                                                  <p>Glyche klag hatt auch das
+                                                  <placeName ref="Winterthur">Winterthurer</placeName> capitel
                                                   fürgebracht mit vermeldung, das die nachgesetzten
                                                   amptlüth als undervögt und weibel schlechtlich
                                                   darzů thuͤygind und die ­toüf­fer nit nach gebür
                                                   gstrafft und jnen gweert werde, sonnders jren
                                                   frygen zug habint. Wie dann kurtzlich jnn die 40
-                                                  personen uß myner herren gebiet sich by<placeName ref="Schaffhausen">Schafhußen</placeName>gesamblet unnd jnn das land Merrhern gefuͤrt
+                                                  personen uß myner herren gebiet sich by
+                                                  <placeName ref="Schaffhausen">Schafhußen</placeName>
+                                                  gesamblet unnd jnn das land Merrhern gefuͤrt
                                                   worden sygind. Da man diß volcks ein beßere
                                                   rechnung haben sölte, dann wenn einer sol vil
                                                   vechs hinweg fuͤren welte, wurde jme das nit
                                                   zůgelaßen.</p>
-                                                  <p>Das ober<placeName ref="Wetzikon">Wetzikommer</placeName>capitel und die herren predicanten jnn der
-                                                  herrschafft<placeName ref="Grüningen">Gruͤningen</placeName>habent glyche klag auch gefuͤrt. Unnd jst mitt
+                                                  <p>Das ober <placeName ref="Wetzikon">Wetzikommer</placeName>
+                                                  capitel und die herren predicanten jnn der
+                                                  herrschafft Gruͤ<placeName ref="Grüningen">ningen</placeName>
+                                                  habent glyche klag auch gefuͤrt. Unnd jst mitt
                                                   nammen angezeigt worden, das ein Oberholtzer, ein
                                                   ­toüf­fer, einem 9 g[ulden] geben, das er jme syn
-                                                  frauwen, die doch kein ­toüf­ferin nit gsyn, jnns<placeName ref="Mähren">Merrheren</placeName>land fuͤren
+                                                  frauwen, die doch kein ­toüf­ferin nit gsyn, jnns
+                                                  <placeName ref="Mähren">Merrheren</placeName> land fuͤren
                                                   sölle allein umb deßwillen, das er, der man, und
                                                   auch syn vater, der frauwen schweher, ein unwillen
                                                   an sy gelegt habe.</p>
                                                   <p>Item so habe ein ­toüf­fer nach anzeigung herr
-                                                  Schintzen, deß pfarrers zů<placeName ref="Wald">Wald</placeName>, mit einer magt lang ghuset unn ein
+                                                  Schintzen, deß pfarrers zů <placeName ref="Wald">Wald</placeName>, mit einer magt lang ghuset unn ein
                                                   kind by derselben erzüget. Unnd ob wol die sach
                                                   vor dem eegricht alhie gsyn unnd dem obervogt zů
                                                   Gruͤningen geschriben worden, so blybe doch diser
                                                   man ungstrafft.</p>
-                                                  <p>So zeiget der pfarrer zů<placeName ref="Hinwil">Hinwil</placeName>an, das der<persName ref="Gubelmann, Rudolf">Růdlj Wagner</persName>, der ­toüf­fer, der
+                                                  <p>So zeiget der pfarrer zů <placeName ref="Hinwil">Hinwil</placeName> an, das der <persName ref="Gubelmann, Rudolf">Růdlj Wagner</persName>, der ­toüf­fer, der
                                                   allhie gfangen glegen unnd deß landts verwißen
                                                   worden, nütdestweniger noch jmmerdar verhanden und
                                                   jnn besitzung deß synen syge.</p>
-                                                  <p>Wie dann auch der bericht gegeben worden, das jnn verschinnem meyen jnn<persName ref="Spöri, Peter">Peter Spoͤriß</persName>huß jnn der<placeName ref="Bäretswil, Dunkelwis">Dunckelwiß</placeName>frömbde ­toüf­fer gsyn unnd daselbst prediget. Inn
+                                                  <p>Wie dann auch der bericht gegeben worden, das
+                                                  jnn verschinnem meyen jnn Peter Spoͤriß<persName ref="Spöri, Peter"/> huß jnn der
+                                                  <placeName ref="Bäretswil, Dunkelwis">Dunckelwiß</placeName>
+                                                  frömbde ­toüf­fer gsyn unnd daselbst prediget. Inn
                                                   wellicher predig vil personen sich befunden, da
                                                   man sölliche zesamenkhunfft wol hete khönnen
                                                   ußnemmen und zerstören. Wie dann der obervogt

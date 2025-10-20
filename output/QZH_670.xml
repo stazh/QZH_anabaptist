@@ -80,18 +80,21 @@
     <body>
       <div><p>Unßeren günstigen gneigten willen unnd alles
                                                   gůts zůvor. Frommer, wyßer, besonders gethrüwer,
-                                                  lieber burger unnd vogt, es sinnd<note type="critical">Folgt gestrichen: unnß</note>
+                                                  lieber burger unnd vogt, <note type="critical">Folgt gestrichen: unnß</note>
                                                   dißer tagen<note type="critical">Folgt gestrichen:
                                                   zween t</note> zwo mans personen mitnammen
                                                   Heinrich<note type="critical">korrigiert,
-                                                  ursprünglich: Heinrichen</note> Pfister<persName ref="Pfister, Heinrich"/><bm id="236"/> von
+                                                  ursprünglich: Heinrichen</note> Pfister<persName ref="Pfister, Heinrich">es sinnd</persName><bm id="236"/> von
                                                   Wädeschwyl<note type="critical">Folgt gestrichen:
-                                                  bu</note><placeName ref="Wädenswil"/>unnd<persName ref="Riedel, Jörg">Jörg Riedel</persName>uß dem<placeName ref="Allgäu">Algoüw</placeName>bürttig, so der
+                                                  bu</note><placeName ref="Wädenswil"/> unnd <persName ref="Riedel, Jörg">Jörg
+                                                  Riedel</persName> uß dem
+                                                  <placeName ref="Allgäu">Algoüw</placeName> bürttig, so der
                                                   ­toüf­ferischen sect anhengig unnd als leerer
-                                                  derselben uß<placeName ref="Mähren">Merherrn</placeName>jnn
+                                                  derselben uß <placeName ref="Mähren">Merherrn</placeName> jnn
                                                   dißere lannd ußgesant<note type="critical">korrigiert, ursprünglich: abgesant</note>,
                                                   unns<note type="critical">«unns» über der Zeile,
-                                                  in der Zeile gestrichen: worden</note> von<placeName ref="Meilen">Meilen</placeName>gfängklich<note type="critical">Folgt gestrichen: alhar</note>
+                                                  in der Zeile gestrichen: worden</note> von
+                                                  <placeName ref="Meilen">Meilen</placeName> gfängklich<note type="critical">Folgt gestrichen: alhar</note>
                                                   zůgefuͤrt worden. Da wir dann uß<note type="critical">Folgt gestrichen: der</note> jren
                                                   gegäbnen antwort<note type="critical">«antwort»
                                                   über der Zeile, in der Zeile gestrichen:
@@ -199,7 +202,8 @@
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wyßen, unßerem
-                                                  besonders gethrüwen, lieben burger unnd vogt zů<placeName ref="Wädenswil">Wedeschwyl</placeName>Salomon
+                                                  besonders gethrüwen, lieben burger unnd vogt zů
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName> Salomon
                                                   Hirtzeln.</p>
                                                   </div>
     </body>

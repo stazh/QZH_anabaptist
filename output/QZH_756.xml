@@ -82,7 +82,7 @@
                                                   gůts zůvor. Frommer, wyßer, besonders gethrwüer,
                                                   lieber burger und vogt, wiewol unnsere wider die
                                                   schedlich sect der widerthoüfferyg offentlich jm
-                                                  truck<note type="critical">«jm truck» am Rand mit
+                                                  <note type="critical">«jm truck» am Rand mit
                                                   Verweiszeichen</note> ußgangne mandat luter
                                                   zůgebend<note type="editorial"> eine (gesetzliche)
                                                   Bestimmung enthalten, Id. II, 95.</note>, wie man
@@ -101,8 +101,8 @@
                                                   ohn alles schüchen offentlich hin unnd wider
                                                   unnser landtschafft durchstrychind, die lüth
                                                   befleckind, ufwiglind unnd verfürind (Kyburg:<note type="critical">Folgt gestrichen: jnnsonderheit
-                                                  sol</note><placeName ref="Kyburg"/> Unnd mitt
-                                                  nammen sölliche khunden durch<placeName ref="Flaach">Flaach</placeName>und über den<placeName ref="Irchel (Hügelzug)">Irchel</placeName>jren starchen gang
+                                                  sol</note><placeName ref="Kyburg">truck</placeName> Unnd mitt
+                                                  nammen sölliche khunden durch <placeName ref="Flaach">Flaach</placeName> und über den <placeName ref="Irchel (Hügelzug)">Irchel</placeName> jren starchen gang
                                                   habint)<note type="critical">(Kyburg … habint)» am
                                                   Rand mit Verweiszeichen</note>, das alles danaher
                                                   volget, das man sicht, das unnseren mandaten gegen
@@ -131,7 +131,15 @@
                                                   ufnemmen. Datum den 9ten meyens anno 1604.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An die ußeren obevögt<placeName ref="Kyburg">(Kyburg</placeName>,<placeName ref="Grüningen">Grüningen</placeName>,<placeName ref="Greifensee">Gryffensee</placeName>,<placeName ref="Andelfingen">Andelfingen</placeName>,<placeName ref="Eglisau">Eglisow</placeName>,<placeName ref="Regensberg">Regensperg</placeName>,<placeName ref="Knonau">Knonow</placeName>,<placeName ref="Wädenswil">Wädeschwyl</placeName>).</p>
+                                                  <p rend="margin-top">An die ußeren obevögt
+                                                  (<placeName ref="Kyburg">Kyburg</placeName>,
+                                                  <placeName ref="Grüningen">Grüningen</placeName>,
+                                                  <placeName ref="Greifensee">Gryffensee</placeName>,
+                                                  <placeName ref="Andelfingen">Andelfingen</placeName>,
+                                                  <placeName ref="Eglisau">Eglisow</placeName>,
+                                                  <placeName ref="Regensberg">Regensperg</placeName>,
+                                                  <placeName ref="Knonau">Knonow</placeName>,
+                                                  <placeName ref="Wädenswil">Wädeschwyl</placeName>).</p>
                                                   </div>
     </body>
   </text>

@@ -76,14 +76,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem m[eister] Hanns Ůlrich Wolff<note type="editorial"> Hans Ulrich Wolf
-                                                  (1559-1624)</note><persName ref="Wolf, Hans Ulrich"/> sampt beyden herren
+      <div><p>Nachdem m[eister]  <note type="editorial"> Hans Ulrich Wolf
+                                                  (1559-1624)</note><persName ref="Wolf, Hans Ulrich">Ůlrich Wolff</persName> sampt beyden herren
                                                   nachgengeren zů Heynrichen Pfister von
                                                   Wedischwyl<note type="editorial">
-                                                  Wädenswil</note><placeName ref="Wädenswil"/>,
-                                                  deßglychen Jörgen Riedel, unwyt von<placeName ref="Kempten (Allgäu)">Kempten</placeName>uß dem<placeName ref="Allgäu">Algöüw</placeName>, so beid mit dem
+                                                  Wädenswil</note><placeName ref="Wädenswil">Hanns</placeName>,
+                                                  deßglychen Jörgen Riedel, unwyt von
+                                                  <placeName ref="Kempten (Allgäu)">Kempten</placeName> uß dem
+                                                  <placeName ref="Allgäu">Algöüw</placeName>, so beid mit dem
                                                   töüfferischen secten behafft und nüwlich uß dem
-                                                  landt zu<placeName ref="Mähren">Meerherren</placeName>allhie ankommen, jn den Wellenberg keert unnd
+                                                  landt zu <placeName ref="Mähren">Meerherren</placeName>
+                                                  allhie ankommen, jn den Wellenberg keert unnd
                                                   sy<note type="critical">Folgt gestrichen:
                                                   befr</note> jeden jnnsonderheyt<note type="editorial"> für sich</note> befragt, wer
                                                   jnnen den gwalt geben, jn üwer (myner<note type="critical">Folgt gestrichen: gebiet</note>
@@ -122,7 +125,7 @@
                                                   die töüffer, habind mehr gnad von gott dan andere,
                                                   und habe des Zwingliß lers kein grund jn der
                                                   bibel.</p>
-                                                  <p>Demnach zeigt<persName ref="Riedel, Jörg">Jörg Riedel</persName>also, dz syne brüder jm bruch
+                                                  <p>Demnach zeigt <persName ref="Riedel, Jörg">Jörg Riedel</persName> also, dz syne brüder jm bruch
                                                   habind, wan einer under jnen verwantte jn synem
                                                   heimet habe, der sy besuchen welle, gebend sy jm
                                                   einen zů. Und wo sy sonst lüth wüßind, die jrer

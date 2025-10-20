@@ -79,12 +79,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als m[eister] Hanns<persName ref="Wegmann, Hans Rudolf">Ruͦdolf Wägman</persName>unnd herr lanndtvogt
-                                                  Raan<note type="editorial">Vielleicht Hans<persName ref="Rahn, Hans Rudolf">Rudolf Rahn</persName></note>
+      <div><p>Als m[eister] Hanns Ruͦ<persName ref="Wegmann, Hans Rudolf">dolf Wägman</persName> unnd herr lanndtvogt
+                                                  Raan<note type="editorial"> Vielleicht Hans  <persName ref="Rahn, Hans Rudolf">Rudolf
+                                                  Rahn</persName></note>
                                                   <note type="critical">Folgt gestrichen: mit sampt
                                                   herrn Felix Truͤben</note> zů Augustyn Gaßer, dem
                                                   schnyder<note type="critical">«dem schnyder» am
-                                                  Rand mit Verweiszeichen</note>von Niderstamheim, so herr<persName ref="Lavater, Bernhard">vogt Lafater</persName>zů Steinegg fängklich
+                                                  Rand mit Verweiszeichen</note> von Niderstamheim,
+                                                  so herr <persName ref="Lavater, Bernhard">vogt Lafater</persName> zů Steinegg fängklich
                                                   alhar geschickt hatt, uff das rathhuß keert<note type="editorial"> sich begeben, gehen, Id. III,
                                                   435.</note>, jmme den argwon der ­toüf­feryg
                                                   ald<note type="editorial"> oder</note> ob er<note type="critical">Folgt gestrichen: mit</note>
@@ -96,15 +98,18 @@
                                                   der Zeile</note>, gibt er einfaltig dißeren
                                                   bscheid: Das er ungfar vor 24 jaren, als er nach
                                                   jung gsyn<note type="critical">«als er nach jung
-                                                  gsyn» am Rand mit Verweiszeichen</note>, von<placeName ref="Stammheim">Stamheim</placeName>hinwäg unnd
+                                                  gsyn» am Rand mit Verweiszeichen</note>, von
+                                                  <placeName ref="Stammheim">Stamheim</placeName> hinwäg unnd
                                                   synem hanndtwärch nach<note type="critical">«nach»
                                                   über der Zeile</note> jnn die 6 jar lanng<note type="critical">Folgt gestrichen: nach</note> hin
-                                                  und wider zogen, volgends gen Stäfisburg<note type="editorial"> Steffisburg</note><placeName ref="Steffisburg"/> jnn der herrschafft<placeName ref="Thun">Thun</placeName>gelägen, alda er jetzt
+                                                  und wider zogen, volgends gen Stäfisburg<note type="editorial"> Steffisburg</note><placeName ref="Steffisburg"/> jnn der herrschafft
+                                                  <placeName ref="Thun">Thun</placeName> gelägen, alda er jetzt
                                                   jnn die 12 jar hußhablich gseßen, sich begäben
                                                   unnd vor 12 jaren<note type="critical">Folgt
-                                                  gestrichen: sich</note> vom apt zů S.<placeName ref="St. Gallen">Gallen</placeName>der
+                                                  gestrichen: sich</note> vom apt zů S.
+                                                  <placeName ref="St. Gallen">Gallen</placeName> der
                                                   lybeigenschafft abkoufft unnd ouch sich vor 2
-                                                  jaren mit herren vogt zů<placeName ref="Steinegg-Stammheim (Vogtei)">Stainegg</placeName>umb den abzug
+                                                  jaren mit herren vogt zů <placeName ref="Steinegg-Stammheim (Vogtei)">Stainegg</placeName> umb den abzug
                                                   verglichen, dem er 17 g[ulden] geben müßen von
                                                   wägen synes erbtheils, von deßwägen er ouch<note type="critical">«ouch» über der Zeile</note>
                                                   jetzund zů Stamheim gsyn, etwas<note type="critical">Folgt gestrichen: deßwägen</note>
@@ -138,7 +143,8 @@
                                                   landtrecht ufgäben, syn erbgůt verabzuget<note type="editorial"> der Wegzugsteuer unterwerfen,
                                                   Id. XVII, 496.</note>, so doch nach zum theil jnn
                                                   myner gnedigen herren gebiet ligt, unnd er dheiner
-                                                  anderen gstalt dan sölliches zevorderen gan<placeName ref="Stammheim">Stamheim</placeName>keert, so
+                                                  anderen gstalt dan sölliches zevorderen gan
+                                                  <placeName ref="Stammheim">Stamheim</placeName> keert, so
                                                   sölle er der gfangenschafft erlaßen unnd uß myner
                                                   herren statt unnd landtschafft verwißen werden
                                                   unnd nachwärts zů fhals<note type="editorial">
@@ -149,7 +155,10 @@
                                                   schicken. Den costen, so diß orths uff jnne
                                                   gangen, söllen syne verwante, so das gůt
                                                   underhanden<note type="editorial"> im Besitz, Id.
-                                                  II, 1390.</note>habend, bezalen, unnd nachwärts yn synem theil jnnbehalten. Actum mittwuchs den 8ten martij anno etc. 92 pr[aesen]t[ibus] herr<persName ref="Thomann, Kaspar">burgermeister Tomman</persName><bm id="191"/> unnd beid
+                                                  II, 1390.</note> habend, bezalen, unnd nachwärts
+                                                  yn synem theil jnnbehalten. Actum mittwuchs den
+                                                  8ten martij anno etc. 92 pr[aesen]t[ibus] herr
+                                                  <persName ref="Thomann, Kaspar">burgermeister Tomman</persName><bm id="191"/> unnd beid
                                                   räth.</p>
                                                   </div>
     </body>

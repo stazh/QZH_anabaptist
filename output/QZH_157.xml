@@ -78,14 +78,19 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Es habennd myne herrenn, beyd rät, jrem vogt zů<placeName ref="Kyburg">Kyburg</placeName>, Hans<persName ref="Lavater, Hans Rudolf">Růdolffen Lavatern</persName>, ernstlichen beveͣlh unnd gwallt zůgestellt,<persName ref="Bächi, Hans">Hansen Beͣchins</persName>von
+      <div><p>Es habennd myne herrenn, beyd rät,   <placeName ref="Kyburg">vogt</placeName>, Hans <persName ref="Lavater, Hans Rudolf">Růdolffen
+                                                  Lavatern</persName>,
+                                                  ernstlichen beveͣlh unnd gwallt zůgestellt, Hansen
+                                                  Beͣchins<persName ref="Bächi, Hans">zů
+                                                  Kyburg</persName> von
                                                   Kymenhoff<note type="editorial">
-                                                  Chimenhof</note><placeName ref="Chimenhof"/> all
+                                                  Chimenhof</note><placeName ref="Chimenhof">jrem</placeName> all
                                                   gelasßen hab und gůt, umb das er sin geschwornn
                                                   unnd verschriben besiglet urfechd nit gehallten
                                                   unnd landtrümig worden, anzegryffenn<note type="editorial"> in Besitz nehmen, Id. II,
                                                   714.</note> und zů jrenn handenn zezühenn.</p>
-                                                  <p>Wyter von weͣgenn zweyer frowenn zů<placeName ref="Lufingen">Luffingen</placeName>, da die ein
+                                                  <p>Wyter von weͣgenn zweyer frowenn zů
+                                                  <placeName ref="Lufingen">Luffingen</placeName>, da die ein
                                                   dess widertouffs halb hinweg geloffen unnd die
                                                   annder nit zekilchenn gan will, jst bemelltem<note type="editorial"> genanntem</note> vogt diser
                                                   bescheyd geͣbenn: Das er der abgeträttnen frowenn
@@ -102,7 +107,8 @@
                                                   glycher gstallt mit jrem güt, wie ob begriffen
                                                   wirt, zůhandlen. Actum dornstags vor Symonis unnd
                                                   Jude anno etc. xxxiij.</p>
-                                                  <p rend="margin-top">Underschryber<placeName ref="Zürich">Zürich</placeName>s[ri]p[si]t.</p>
+                                                  <p rend="margin-top">Underschryber
+                                                  <placeName ref="Zürich">Zürich</placeName> s[ri]p[si]t.</p>
                                                   </div>
     </body>
   </text>

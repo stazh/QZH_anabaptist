@@ -80,7 +80,7 @@
     <body>
       <div><p>Ehrwürdiger, wollgelerter, eüch syge myn
                                                   früntlicher grutz, ouch willige dienst zevor. Des
-                                                  heren schryben<note type="editorial"> Nicht
+                                                  <note type="editorial"> Nicht
                                                   überliefert</note>, so den 8. february dadyert wol
                                                   jnglifferett empfangen, ouch des inhalts<note type="critical">In der Vorlage: inhalt</note>
                                                   ablessend verstanden. Und duret<note type="editorial"> betrüben, Id.</note> mich gantz
@@ -91,8 +91,9 @@
                                                   so von den heren glerten gegen jnen zum überflus
                                                   beschechen, so gantz hartneckiger wyß herfür
                                                   brechen dörffind. Derhalben ich eüch m. Hans
-                                                  Heinrich Zur Eych<note type="editorial">Gemeint ist wahrscheinlich Jakob<persName ref="Zur Eich, Jakob">Zur Eich</persName>, alter Landvogt von
-                                                  Grüningen</note><persName ref="Zur Eich, Jakob"/>
+                                                  Heinrich Zur Eych<note type="editorial"> Gemeint
+                                                  ist wahrscheinlich Jakob <persName ref="Zur Eich, Jakob">Zur Eich</persName>, alter Landvogt von
+                                                  Grüningen</note><persName ref="Zur Eich, Jakob">heren schryben</persName>
                                                   als ein vertruwter dem herren<note type="critical">«dem herren» am Rand mit Verweiszeichen</note> zu
                                                   schicken und sich mit einanderen ersprachen, uff
                                                   was glegne zyt man sy, die töüffer, byfangen und
@@ -147,7 +148,8 @@
                                                   götlicher almacht gantz wol befelchen. Datum jn
                                                   yl, den 26. february an[no] 1608.</p>
                                                   <p rend="margin-top">Eüwer dienst williger</p>
-                                                  <p>Cůnrat Kamblj, vogt der herrschafft<placeName ref="Grüningen">Grüningen</placeName></p>
+                                                  <p>Cůnrat Kamblj, vogt der herrschafft
+                                                  <placeName ref="Grüningen">Grüningen</placeName></p>
                                                   </div>
     </body>
   </text>

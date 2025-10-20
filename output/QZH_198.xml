@@ -78,18 +78,21 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Dechan<persName ref="Buchmann, Heinrich"/> zů
+      <div><p><persName ref="Buchmann, Heinrich"/> zů
                                                   Wysendangen<note type="editorial"> Heinrich
-                                                  Buchmann</note><placeName ref="Wiesendangen"/> und
-                                                  <persName ref="Clauser, Konrad"/>Aelsow<note type="editorial"> Konrad Clauser</note><placeName ref="Elsau"/>zeigtend an, wie<persName ref="Spies, Lumbenhard">Lumbenhart Spyes</persName>von<placeName ref="Würenlos">Würenlhos</placeName>ein toͤuffer
+                                                  Buchmann</note><placeName ref="Wiesendangen">Dechan</placeName> und
+                                                  <persName ref="Clauser, Konrad"/>Aelsow<note type="editorial"> Konrad Clauser</note><placeName ref="Elsau"/> zeigtend an, wie <persName ref="Spies, Lumbenhard">Lumbenhart
+                                                  Spyes</persName> von
+                                                  <placeName ref="Würenlos">Würenlhos</placeName> ein toͤuffer
                                                   mitt zoubery und saͤgnen umbgienge; und das min
                                                   herren darvor wërind<note type="editorial">
                                                   verhindern Id. I, 933.</note>, dann die lüt sich
                                                   saͤgnen lassind etc.</p>
-                                                  <p>Dechan von Alltorff<note type="editorial">
-                                                  Mönchaltorf</note> und Berotschwyl<note type="editorial"> Niklaus Schnyder</note><persName ref="Schnyder, Niklaus"/><placeName ref="Bäretswil"/> zeygtend an, wie die toͤuffer
-                                                  haͤfftig zůnaͤmind inn<placeName ref="Grüningen">Gruͤningen</placeName>; sye nüt besser dann imm vorigen
-                                                  synodo anzeigt. Der senn zů<placeName ref="Bubikon">Bůbikon</placeName>sye gar widerspennig, deßglich<persName ref="Streler, N.">der Straͤler</persName>. Thuͤge man
+                                                  <p> <note type="editorial">
+                                                  Mönchaltorf</note> und Berotschwyl<note type="editorial"> Niklaus Schnyder</note><persName ref="Schnyder, Niklaus">von Alltorff</persName><placeName ref="Bäretswil">Dechan</placeName> zeygtend an, wie die toͤuffer
+                                                  haͤfftig zůnaͤmind inn Gruͤ<placeName ref="Grüningen">ningen</placeName>; sye nüt besser dann imm vorigen
+                                                  synodo anzeigt. Der senn zů <placeName ref="Bubikon">Bůbikon</placeName> sye gar widerspennig, deßglich der
+                                                  Straͤler<persName ref="Streler, N."/>. Thuͤge man
                                                   nut darzů, werde die sach boͤser dann sy vor 16
                                                   jaren xin<note type="editorial">
                                                   gewesen</note>.</p>

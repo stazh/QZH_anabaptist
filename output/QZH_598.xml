@@ -79,9 +79,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als herr lanndtvogt Schwertzenbach<note type="editorial"><persName ref="Schwerzenbach, Matthias">Matthias Schwerzenbach</persName></note>, j[unker] Hanns Heinrich<persName ref="Schönau, Hans Heinrich von">von Schönouw</persName>unnd herr
-                                                  schultheiß Rollenbutz<note type="editorial"><persName ref="Rollenbutz, Marx">Marx Rollenbutz</persName></note> zů Heinj Schmiden von<placeName ref="Stadel">Stadel</placeName>usß bevelch üwer myner gnedigen
-                                                  [herren] jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>keert<note type="editorial"> sich begeben, gehen, Id. III,
+      <div><p>Als herr lanndtvogt Schwertzenbach<note type="editorial"> <persName ref="Schwerzenbach, Matthias">Matthias Schwerzenbach</persName></note>, j[unker]
+                                                  Hanns Heinrich <persName ref="Schönau, Hans Heinrich von">von Schönouw</persName> unnd herr
+                                                  schultheiß Rollenbutz<note type="editorial"> <persName ref="Rollenbutz, Marx">Marx
+                                                  Rollenbutz</persName></note> zů Heinj Schmiden von <placeName ref="Stadel">Stadel</placeName> usß bevelch üwer myner gnedigen
+                                                  [herren] jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> keert<note type="editorial"> sich begeben, gehen, Id. III,
                                                   435.</note>, jmme synen begangnen feler
                                                   fürgehalten unnd ob er nachmalen die herren
                                                   predicanten für sömliche lüth, wie er sy dann
@@ -175,7 +177,9 @@
                                                   unnd uff nechsten sambßtag für rath gestelt
                                                   werden, wie dann syn urteil jm rathsbůch
                                                   baptistalis anno etc. 91 wytloüffig verzeichnet
-                                                  stadt<note type="editorial"> Vgl. Nr. 450.</note>. Actum mitwuchs den 17. d. novembris anno etc. 91 p[raese]nt[ibu]s<persName ref="Grossmann, Konrad">herr Großman</persName><bm id="189"/> unnd beid
+                                                  stadt<note type="editorial"> Vgl. Nr. 450.</note>.
+                                                  Actum mitwuchs den 17. d. novembris anno etc. 91
+                                                  p[raese]nt[ibu]s <persName ref="Grossmann, Konrad">herr Großman</persName><bm id="189"/> unnd beid
                                                   reth.</p>
                                                   </div>
     </body>

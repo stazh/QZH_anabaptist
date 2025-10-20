@@ -80,9 +80,19 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Wier, dj brüeder zum Altenmarckht<note type="editorial"> Stará Břeclav (dt.<placeName ref="Stará Břeclav">Altenmarkt)</placeName>,<placeName ref="Lundenburg">Lundenburg</placeName>ist der
+      <div><p>Wier, dj brüeder zum Altenmarckht<note type="editorial"> Stará Břeclav (dt.
+                                                  Altenmarkt)<placeName ref="Stará Břeclav"/>,
+                                                  <placeName ref="Lundenburg">Lundenburg</placeName> ist der
                                                   deutsche Name der Stadt Břeclav.</note> wonhafft
-                                                  under der herrschafft von Lundnburg im landt zu<placeName ref="Mähren">Merhern</placeName>, bekhennen mit disem schreiben, dz zun uns kommen ist dj Madlena Müllerin mit sechs kinder dis verschinen 1590. jars. Nachdem sie aber ein zeit bein uns gewest, sein fünff mit todt abganngen, sie sich wider vonn uns gezogen und hat dz ain kindt lebendig bein uns verlassen, ist sie ietzt den 8. julj wider kommen mit irem man<persName ref="Widmaier, Jakob">Jacob Widmair</persName>. Derselbig begert
+                                                  under der herrschafft von Lundnburg im landt zu
+                                                  <placeName ref="Mähren">Merhern</placeName>, bekhennen mit
+                                                  disem schreiben, dz zun uns kommen ist dj Madlena
+                                                  Müllerin mit sechs kinder dis verschinen 1590.
+                                                  jars. Nachdem sie aber ein zeit bein uns gewest,
+                                                  sein fünff mit todt abganngen, sie sich wider vonn
+                                                  uns gezogen und hat dz ain kindt lebendig bein uns
+                                                  verlassen, ist sie ietzt den 8. julj wider kommen
+                                                  mit irem man <persName ref="Widmaier, Jakob">Jacob Widmair</persName>. Derselbig begert
                                                   kundtschafft<note type="editorial"> Zeugnis,
                                                   Beweis, Id. III, 353.</note> der abgestorbnen
                                                   kinder, weliches wir in disem schreiben vor

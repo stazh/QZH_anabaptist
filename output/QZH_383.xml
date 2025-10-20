@@ -81,10 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Meyer, Simon">Simon Meygern</persName>von<placeName ref="Buchs">Buchs</placeName>wellent myn herren
+      <div><p><persName ref="Meyer, Simon">Simon Meygern</persName> von
+                                                  <placeName ref="Buchs">Buchs</placeName> wellent myn herren
                                                   jr land zůbewonnen wider begünstigen, diewyl er
                                                   armůt halber und nit von der ­toüf­ferischen seckt
-                                                  wegen hinweg zogen. Und soll dem vogt uff<placeName ref="Regensberg">Regensperg</placeName>zůgeschriben werden<note type="editorial"> Vgl.
+                                                  wegen hinweg zogen. Und soll dem vogt uff
+                                                  <placeName ref="Regensberg">Regensperg</placeName>
+                                                  zůgeschriben werden<note type="editorial"> Vgl.
                                                   Nr. 236.</note>, synethalb ufsehens zehaben, wo er
                                                   sich nit recht hielte, deßen myn herren
                                                   zberichten.</p>

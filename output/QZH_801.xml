@@ -80,13 +80,13 @@
     <body>
       <div><p>Unnsern günstigen geneigten willen und alles
                                                   gůts zůvor. Frommer, wyßer, besonders gethrüwer,
-                                                  lieber burger und vogt, uff dyn begeren<note type="critical">korrigiert, ursprünglich
+                                                  lieber burger und vogt, uff dyn <note type="critical">korrigiert, ursprünglich
                                                   vielleicht: begerten</note> bscheidts, weßen du
                                                   dich der Ertzingern (der ­toüf­feren) halber wyter
                                                   zů verhalten<note type="critical">korrigiert (zů
                                                   verhalten), ursprünglich: halten; es folgt
                                                   gestrichen: söllist</note>, gebend wir dir den
-                                                  bevelch, das du sovil den uff Schoubingen<note type="editorial"> Schaubigen</note><placeName ref="Schaubigen"/> antrifft, wyl derselbig mit
+                                                  bevelch, das du sovil den uff Schoubingen<note type="editorial"> Schaubigen</note><placeName ref="Schaubigen">begeren</placeName> antrifft, wyl derselbig mit
                                                   synem hab und gůt uß dem land züchen will, jnne
                                                   darmit verfaren laßen söllist, jedoch das du zevor
                                                   jme von syner unghorsamme wegen nach billigkeit
@@ -105,7 +105,7 @@
                                                   also dz du zů jme und synem wyb gryffen und sy
                                                   unns gfengklichen zůfüren laßen söllist, damit wir
                                                   die gebür gegen jnen fürnemmen khönnind.</p>
-                                                  <p>Was dann den uff Guldinen<note type="editorial"> Guldenen</note><placeName ref="Egg, Guldenen"/>
+                                                  <p>Was dann den uff <note type="editorial"> Guldenen</note><placeName ref="Egg, Guldenen">Guldinen</placeName>
                                                   <note type="critical">Folgt gestrichen: anb
                                                   (Lesung unsicher)</note> belanget, da jst nochmaln
                                                   unnser meinung<note type="editorial"> Erwartung,
@@ -125,7 +125,8 @@
                                                   Datum den 18. d. octobris anno 1606.</p>
                                                   <p rend="margin-top">Burgermeister und rhat der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
                                                   Eich.</p>
                                                   </div>
     </body>

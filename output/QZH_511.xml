@@ -78,11 +78,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als herr lanndtvogt Schmid<note type="editorial"><persName ref="Schmid, Matthias">Matthias Schmid</persName></note> sampt mynen
+      <div><p>Als herr lanndtvogt Schmid<note type="editorial"> <persName ref="Schmid, Matthias">Matthias Schmid</persName></note> sampt mynen
                                                   herren, den nachgengeren, zů Hannsen Kleger unnd
                                                   Josephen Petter uß dem Vischenthal, so kurtz
-                                                  verschinner zytt uß dem<placeName ref="Mähren">Mehrerren</placeName>landt kommen unnd etliche mitt jnen
-                                                  hinwegnemmen wellen, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  verschinner zytt uß dem <placeName ref="Mähren">Mehrerren</placeName> landt kommen unnd etliche mitt jnen
+                                                  hinwegnemmen wellen, jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kert<note type="editorial"> sich begeben, gehen, Id. III,
                                                   435.</note> unnd warumb sy das volck also
                                                   ufwiglind unnd hinweg fuͤrind befragt, habent sy
                                                   volgende antwort geben, namblich:</p>
@@ -94,7 +94,7 @@
                                                   wenig</note> wegen, das sy volck hinweg fuͤren
                                                   sölten oder welten, sonder die verfalnen zalungen
                                                   reichen<note type="editorial"> holen</note>, die
-                                                  aber der vogt der herrschafft<placeName ref="Grüningen">Grüningen</placeName>jnen nit volgen lassen wellen.
+                                                  aber der vogt der herrschafft <placeName ref="Grüningen">Grüningen</placeName> jnen nit volgen lassen wellen.
                                                   Inn dem nun sy also daheimen gwessen, sygen etlich
                                                   arm volck zů jnen kommen, sy jres thůn unnd
                                                   lassens halb befragt, wellechse sy bericht.
@@ -116,7 +116,12 @@
                                                   dann von mynen herren ein gleit, so will man sy
                                                   recht der gfanngenschafft erlaßen unnd hinweg
                                                   züchen laßen. Wover<note type="editorial"> wenn,
-                                                  Id. I, 914.</note>sy aber schwuͤren oder gelobten unnd demnach das nit hielten, sonnders sich wider harjn ließen, soll zů jnen als meineyden lüthen gerichtet werden. Actum mittwochs den 28ten augustj anno etc. 88. p[raese]nt[ibus]<persName ref="Kambli, Hans">herr Kamblj</persName>unnd beid
+                                                  Id. I, 914.</note> sy aber schwuͤren oder gelobten
+                                                  unnd demnach das nit hielten, sonnders sich wider
+                                                  harjn ließen, soll zů jnen als meineyden lüthen
+                                                  gerichtet werden. Actum mittwochs den 28ten
+                                                  augustj anno etc. 88. p[raese]nt[ibus] <persName ref="Kambli, Hans">herr
+                                                  Kamblj</persName> unnd beid
                                                   reth.</p>
                                                   <p rend="margin-top">Sy hand uff fürhalten
                                                   deweders<note type="editorial"> keines von beiden,

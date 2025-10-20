@@ -78,13 +78,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Schnyder, Niklaus">Der daͤchen</persName>von Wetzikon<note type="editorial"> Niklaus
-                                                  Schnyder</note><placeName ref="Wetzikon"/> erklagt
+      <div><p>Der daͤ<persName ref="Schnyder, Niklaus"/>
+                                                  von Wetzikon<note type="editorial"> Niklaus
+                                                  Schnyder</note><placeName ref="Wetzikon">chen</placeName> erklagt
                                                   sich, das 2 dirnen gar haͤfftig imm ampt und in
-                                                  der graffschafft<placeName ref="Kyburg (Landvogtei)">Kybrug</placeName>laͤgind und grossen
+                                                  der graffschafft <placeName ref="Kyburg (Landvogtei)">Kybrug</placeName> laͤgind und grossen
                                                   unradt anrichtend. Die woͤlle man nitt
                                                   verwysen.</p>
-                                                  <p>So grůne die toͤuffery wie von allterhar, das ettwan in die 100 zamen kummind. Da sye<persName ref="Hedinger, (Hans?)">der Hedinger</persName>von<placeName ref="Winterthur">Wintherdur</placeName>ein boͤser
+                                                  <p>So grůne die toͤuffery wie von allterhar, das
+                                                  ettwan in die 100 zamen kummind. Da sye <persName ref="Hedinger, (Hans?)">der
+                                                  Hedinger</persName> von
+                                                  <placeName ref="Winterthur">Wintherdur</placeName> ein boͤser
                                                   uffrůriger lur<note type="editorial"> Schelm, Id.
                                                   III, 1376.</note>, alls der sich mercken<note type="editorial"> sich hören lassen, erklären,
                                                   vgl. <hl to="http://fwb-online.de/go/merken.rI.3v_1709313037"><Hyperlink>http://fwb-online.de/go/merken.rI.3v_1709313037</Hyperlink></hl>

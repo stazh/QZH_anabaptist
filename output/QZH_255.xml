@@ -78,11 +78,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Kolmar, Jakob">Der dechan</persName>uß
+      <div><p><persName ref="Kolmar, Jakob">Der dechan</persName> uß
                                                   dem Fryen ampt<note type="editorial"> Jakob
-                                                  Kolmar</note><placeName ref="Freiamt"/>zeygt an ein toͤuffer,<persName ref="Gut, Andres">Anderesen Gůt</persName>, der allen gebotten des
-                                                  obervogts widerstraͤpte und staͤts in den<placeName ref="Sihlwald">Sylwald</placeName>an der toͤuffer gmeind louffe.<persName ref="Wirth, Christian">Der daͤchen</persName>von Nefftenbach<note type="editorial"> Christian Wirth</note><placeName ref="Neftenbach"/>zeigt an<persName ref="Hedinger, Hans">Hansen Hedinger</persName>by der
-                                                  Taͤschin zů<placeName ref="Wülflingen">Wülfflingen</placeName>. Andere zeigten an<persName ref="Bräm, Fridli">Fridli Braͤmen</persName>und<persName ref="Ruman, Peter">Petter Romman</persName>in Regensperger<placeName ref="Regensberg">ampt</placeName>.</p>
+                                                  Kolmar</note><placeName ref="Freiamt"/> zeygt an
+                                                  ein toͤuffer, <persName ref="Gut, Andres">Anderesen Gůt</persName>, der allen gebotten des
+                                                  obervogts widerstraͤpte und staͤts in den
+                                                  <placeName ref="Sihlwald">Sylwald</placeName> an der toͤuffer
+                                                  gmeind louffe. Der daͤchen<persName ref="Wirth, Christian"/> von Nefftenbach<note type="editorial"> Christian Wirth</note><placeName ref="Neftenbach"/> zeigt an <persName ref="Hedinger, Hans">Hansen
+                                                  Hedinger</persName> by der
+                                                  Taͤschin zů <placeName ref="Wülflingen">Wülfflingen</placeName>. Andere zeigten an Fridli Braͤmen<persName ref="Bräm, Fridli"/> und <persName ref="Ruman, Peter">Petter Romman</persName> in Regensperger
+                                                  <placeName ref="Regensberg">ampt</placeName>.</p>
                                                   <p>Sol an unser gnedig herren gebracht werden.</p>
                                                   </div>
     </body>

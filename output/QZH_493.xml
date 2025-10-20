@@ -81,9 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herrn vogt zů Kyburg<note type="editorial"><persName ref="Ziegler, Hans">Hans Ziegler</persName></note><placeName ref="Kyburg"/> schryben, das
+      <div><p>Herrn vogt zů <note type="editorial">
+                                                   <persName ref="Ziegler, Hans">Hans Ziegler</persName></note><placeName ref="Kyburg">Kyburg</placeName> schryben, das
                                                   er gegen denen personen, so von wägen der
-                                                  töüfferyg jnn das<placeName ref="Mähren">Merherrenn</placeName>land züchen, die straff vermög deß
+                                                  töüfferyg jnn das <placeName ref="Mähren">Merherrenn</placeName> land züchen, die straff vermög deß
                                                   mandats handthaben solle.</p>
                                                   </div>
     </body>

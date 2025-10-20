@@ -81,8 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr vogt Thůmyßen<note type="editorial"><persName ref="Thumysen, Itelhans">Itelhans Thumysen</persName></note> jst hern vogt zů
-                                                  Gruͤningen<note type="editorial"><persName ref="Holzhalb, Heinrich">Heinrich Holzhalb</persName></note><placeName ref="Grüningen"/>, die
+      <div><p>Herr vogt <note type="editorial">
+                                                  <persName ref="Thumysen, Itelhans">Itelhans Thumysen</persName></note> jst hern vogt zů
+                                                  Gruͤningen<note type="editorial"> <persName ref="Holzhalb, Heinrich">Heinrich
+                                                  Holzhalb</persName></note><placeName ref="Grüningen">Thůmyßen</placeName>, die
                                                   ­toüf­fer zůbschicken und jnen myner herren
                                                   meinung fürzůhalten, zůgeben und welliche nitt
                                                   gehorsam sind, die söllent gfengklichen angenommen

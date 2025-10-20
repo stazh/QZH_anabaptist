@@ -81,14 +81,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Diewyl<persName ref="Meisterhans, Heinrich">Heinrich Meisterhans</persName>von<placeName ref="Bassersdorf">Basserstorff</placeName>von
-                                                  hern vogt zů Kyburg<note type="editorial"><persName ref="Thomann, Heinrich">Heinrich Thomann</persName></note><placeName ref="Kyburg"/> und dem
-                                                  predicanten von Basserstorff<note type="editorial">Dietrich<persName ref="Jud, Dietrich Leo">Leo Jud</persName></note> ein gar gůt lob
-                                                  soll denen von<placeName ref="Lufingen">Luffingen</placeName>, alda syn frouw geerpt, zůgeschriben werden,
+      <div><p> <persName ref="Meisterhans, Heinrich">Heinrich Meisterhans</persName> von
+                                                  <placeName ref="Bassersdorf">Basserstorff</placeName> von
+                                                  hern vogt zů Kyburg<note type="editorial">
+                                                  <persName ref="Thomann, Heinrich">Heinrich Thomann</persName></note><placeName ref="Kyburg">Diewyl</placeName> und dem
+                                                  predicanten von Basserstorff<note type="editorial"> Dietrich <persName ref="Jud, Dietrich Leo">Leo Jud</persName></note> ein gar gůt lob
+                                                  soll denen von <placeName ref="Lufingen">Luffingen</placeName>, alda syn frouw geerpt, zůgeschriben werden,
                                                   das sy jnn umb den gebürenden jnzug<note type="editorial"> Abgabe beim Zuzug an einen Ort,
                                                   Id. XVII, 526.</note> jnn jr gmeind anzůnemmen
                                                   schuldig syn söllind und der predicant zů
-                                                  Luffingen und Embrach<note type="editorial">Hans<persName ref="Haar, Hans Heinrich">Heinrich Haar</persName></note><placeName ref="Embrach"/> die frouwen
+                                                  Luffingen und Embrach<note type="editorial"> Hans
+                                                  <persName ref="Haar, Hans Heinrich">Heinrich Haar</persName></note><placeName ref="Embrach"/> die frouwen
                                                   jrer seckt halb abreden und das sy zůr predig gaan
                                                   und dheine<note type="editorial"> keine</note>
                                                   ­toüf­fer jnzüchen. Glyche meinung dem vogt zů

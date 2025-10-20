@@ -81,8 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Kyburg<note type="editorial"> Hans
-                                                  Ulrich Wolf</note><placeName ref="Kyburg"/>zůschryben, das er zů dem gůt, so<persName ref="Wüst, Mathis">Mathyß Wüst</persName>jnn<placeName ref="Mähren">Mehrherren</placeName>zezüchen
+      <div><p>Vogt zů <note type="editorial"> Hans
+                                                  Ulrich Wolf</note><placeName ref="Kyburg">Kyburg</placeName>
+                                                  zůschryben, das er zů dem gůt, so <persName ref="Wüst, Mathis">Mathyß
+                                                  Wüst</persName> jnn
+                                                  <placeName ref="Mähren">Mehrherren</placeName> zezüchen
                                                   begert, sehen sölle, das es mynen herren
                                                   überantwortet werde. Dann myn herren jme, Wüsten,
                                                   nützit volgen laßen wellen, es syge dann sach, das

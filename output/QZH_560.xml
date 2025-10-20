@@ -80,13 +80,13 @@
     <body>
       <div><p>Unnsern günstigen geneigten willen und gůts
                                                   zůvor. Fromer, wyßer, besonders getrüwer, lieber
-                                                  burger und vogt, was meinung, willen<note type="critical">korrigiert, ursprünglich: willens;
+                                                  burger und vogt, was meinung, <note type="critical">korrigiert, ursprünglich: willens;
                                                   folgt gestrichen: und</note>, bekherung und
                                                   abstandts deß bißhero gefuͤrten<note type="critical">Folgt gestrichen: lebens
                                                   und</note> ­toüf­ferischen lebens und weßens Hans
                                                   Schnyder<note type="critical">Folgt gestrichen:
                                                   der ­toüf­fer</note><persName ref="Schnyder, Hans"/> von Rorbas<note type="critical">Folgt
-                                                  gestrichen: sich</note><placeName ref="Rorbas"/>
+                                                  gestrichen: sich</note><placeName ref="Rorbas">willen</placeName>
                                                   uff<note type="critical">Folgt gestrichen:
                                                   dinen</note> volstreckung dines, von uns synethalb
                                                   empfangnen bevelchs sich entschlosßen und dir
@@ -136,7 +136,8 @@
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem fromen, wyßen, unnserm
-                                                  besonnders getrwüen, lieben burger und vogt zů<placeName ref="Kyburg">Kyburg</placeName>Hannsen
+                                                  besonnders getrwüen, lieben burger und vogt zů
+                                                  <placeName ref="Kyburg">Kyburg</placeName> Hannsen
                                                   Ziegler.</p>
                                                   </div>
     </body>

@@ -79,8 +79,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Umb das er, Hans<persName ref="Kolb, Hans Heinrich">Heinrich Kolb</persName>, by einem jar ungfahr
-                                                  jn<placeName ref="Mähren">Meerherren</placeName>von
+      <div><p>Umb das er, Hans <persName ref="Kolb, Hans Heinrich">Heinrich Kolb</persName>, by einem jar ungfahr
+                                                  jn <placeName ref="Mähren">Meerherren</placeName> von
                                                   widertöüfferen sich (als ein betagter man)
                                                   thouffen laßen und dardurch unsern und denn jmme
                                                   verlichnen christlichen thouff (als ein helig
@@ -108,7 +108,9 @@
                                                   tröster<note type="editorial"> Bürge, Id. XIV,
                                                   1435.</note> zesind versprochen) by jnen zesůchen
                                                   ursach habe.</p>
-                                                  <p>Was demnach syn (Kolben) unnd<persName ref="Meister, Magdalena">syner eefrouwen</persName>begerte eescheidung belangt, diewyl von jnen, das
+                                                  <p>Was demnach syn (Kolben) unnd <persName ref="Meister, Magdalena">syner
+                                                  eefrouwen</persName>
+                                                  begerte eescheidung belangt, diewyl von jnen, das
                                                   so ein ee scheidet dem rechten gmeß nit erwißen,
                                                   da sy aber jnn söllichem widerwillen stohnd, das
                                                   wann sy jetzt wider zsammen gwißen wurden,

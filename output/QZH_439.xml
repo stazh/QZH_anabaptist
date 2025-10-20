@@ -81,11 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Kyburg">Kyburg</placeName>und
+      <div><p> <placeName ref="Kyburg">Vogt</placeName> und
                                                   undervogt zů Bülach schryben, den ­toüf­ferischen
                                                   Schnider<note type="editorial"> Hans
-                                                  Schnyder</note><persName ref="Schnyder, Hans"/>
-                                                  von<placeName ref="Rorbas">Rorbiß</placeName>gfengklichen
+                                                  Schnyder</note><persName ref="Schnyder, Hans">zů Kyburg</persName>
+                                                  von <placeName ref="Rorbas">Rorbiß</placeName> gfengklichen
                                                   alher zeschicken.</p>
                                                   </div>
     </body>

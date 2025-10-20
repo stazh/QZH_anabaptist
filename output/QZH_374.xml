@@ -81,12 +81,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der zweygen gwichnen und abträttnen<note type="editorial"> fortziehen, Id. XIV,
+      <div><p>Der zweygen gwichnen und <note type="editorial"> fortziehen, Id. XIV,
                                                   1465.</note> ­toüf­fern<note type="editorial">
                                                   Rudolf Hofmann und Jakob Bürgi, vgl.
                                                   Nr. 227.</note> hab und gůt soll herr vogt zů
                                                   Wedischwyl<note type="editorial">
-                                                  Wädenswil</note><placeName ref="Wädenswil"/> jnn
+                                                  Wädenswil</note><placeName ref="Wädenswil">abträttnen</placeName> jnn
                                                   hafft und verbott<note type="editorial">
                                                   Sequester, Beschlag, Grimm 25, 152.</note> leggen
                                                   biß uff myner herren witern bscheid.</p>

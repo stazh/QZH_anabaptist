@@ -78,7 +78,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnseren günstigen, geneigten willen unnd alles gůts zůvor. Ersamer, wyser, besonnders gethrüwer, lieber burger unnd vogt, uff deß unnseren<persName ref="Meier, Simon">Symon Meigers</persName>von<placeName ref="Buchs">Buchs</placeName>, dynes ampts
+      <div><p>Unnseren günstigen, geneigten willen unnd alles
+                                                  gůts zůvor. Ersamer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, uff deß unnseren <persName ref="Meier, Simon">Symon
+                                                  Meigers</persName> von
+                                                  <placeName ref="Buchs">Buchs</placeName>, dynes ampts
                                                   angehörigen, underthenigs unnd thrungenlichs<note type="editorial"> eindringlich, inständig, Id.
                                                   XIV, 1111f.</note> anruͤffen unnd bitten habennt
                                                   wir demselbigen jnnansehung, das er allein armut
@@ -100,7 +104,8 @@
                                                   <p rend="margin-top">Burgermeister unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem ersammen, wysen, unnserem
-                                                  jnsonders gethrüwen, lieben burger unnd vogt zu<placeName ref="Regensberg">Rägensperg</placeName>Heinrichen
+                                                  jnsonders gethrüwen, lieben burger unnd vogt zu
+                                                  <placeName ref="Regensberg">Rägensperg</placeName> Heinrichen
                                                   Krammer.</p>
                                                   </div>
     </body>

@@ -78,9 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als beide herren obervögt<note type="editorial">Hans Heinrich<persName ref="Schönau, Hans Heinrich von">von Schönau</persName>und<persName ref="Füssli, Peter">Peter Füssli</persName></note> zů<placeName ref="Horgen">Horgen</placeName>sampt herren<persName ref="Murer, Johann Kaspar">Caspar Murer</persName>und herrn Jacoben Ůlrich<note type="critical">In
-                                                  der Vorlage: Ůrich</note><persName ref="Ulrich, Johann Jakob"/> widerumb zů Hanßen
-                                                  Landiß dem wider­toüf­fer jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert unnd jnne
+      <div><p>Als beide <note type="editorial"> Hans Heinrich <persName ref="Schönau, Hans Heinrich von">von Schönau</persName> und <persName ref="Füssli, Peter">Peter
+                                                  Füssli</persName></note> zů
+                                                  <placeName ref="Horgen">Horgen</placeName> sampt herren
+                                                  <persName ref="Murer, Johann Kaspar">Caspar Murer</persName>
+                                                  und herrn Jacoben Ůlrich<note type="critical">In
+                                                  der Vorlage: Ůrich</note><persName ref="Ulrich, Johann Jakob">herren obervögt</persName> widerumb zů Hanßen
+                                                  Landiß dem wider­toüf­fer jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kheert unnd jnne
                                                   nachmaaln mit allem erntst befragt, ob er doch
                                                   khein ander gemuͤt<note type="editorial">
                                                   Gesinnung, Id. IV, 587.</note> an sich genommen

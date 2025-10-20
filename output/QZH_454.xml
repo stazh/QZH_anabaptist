@@ -80,10 +80,13 @@
   <text>
     <body>
       <div><p>Christoph, des hail. röm. reichß erbtruchsäß,
-                                                  freyherr zue Waldpurg, herr zuer<placeName ref="Scheer">Scheer</placeName>und<placeName ref="Trauchbug">Trauchburg</placeName>, röm. khay. ma[jesta]tt etc.,
+                                                  freyherr zue Waldpurg, herr zuer <placeName ref="Scheer">Scheer</placeName> und <placeName ref="Trauchbug">Trauchburg</placeName>, röm. khay. ma[jesta]tt etc.,
                                                   auch f[ü]rs[tlicher] d[urchlauc]ht ertzhertzog
                                                   Ferdinands zue Össterreich etc. rath etc.</p>
-                                                  <p rend="margin-top">Unsern g[ünstigen?] grueß zuvor. Fromm, ernvest, fürsichtig, ersam unnd weiß, liebe besondern, unnß ist abermaln ewer fürbitlich schreiben wegen unserer geysell unnd bevorab<persName ref="Huser, Johannes">Hanß Husers</persName>unnd anderer ewer landtsässen, so sich under
+                                                  <p rend="margin-top">Unsern g[ünstigen?] grueß
+                                                  zuvor. Fromm, ernvest, fürsichtig, ersam unnd
+                                                  weiß, liebe besondern, unnß ist abermaln ewer
+                                                  fürbitlich schreiben wegen unserer geysell  <persName ref="Huser, Johannes">Hanß Husers</persName> unnd anderer ewer landtsässen, so sich under
                                                   die verdampte abscheuchliche sect der widertauffer
                                                   begeben wöllen, wol zugeantwort worden, dessen
                                                   inhalts wir vermerkht, fuegen ouch euch darauf in
@@ -100,8 +103,9 @@
                                                   haben, dieweil des Jenisch Kolers<note type="editorial"> Wenesch Keller (gest. 1593),
                                                   hutterischer Prediger und Ältester in Mähren,
                                                   untrernahm verschiedene
-                                                  Missionreisen.</note><persName ref="Keller, Wenesch"/>, jres redlifüerers,
-                                                  schreiben, so ehr bey jnen in<placeName ref="Mähren">Mährern</placeName>schicken wöllen, wie oben dißer
+                                                  Missionreisen.</note><persName ref="Keller, Wenesch">unnd
+                                                  bevorab</persName>, jres redlifüerers,
+                                                  schreiben, so ehr bey jnen in <placeName ref="Mähren">Mährern</placeName> schicken wöllen, wie oben dißer
                                                   zeyt jn originalis noch bey handen haben und
                                                   vormals<note type="critical">«vormals» am
                                                   Rand</note> euch darvon copias comuniciert
@@ -132,8 +136,8 @@
                                                   fürbitt (sovil unß von oberkhait wegen gebüren
                                                   will) unvergesßens angedenckhen haben, dann wir
                                                   euch mit g. willen wol angethon seyen. Datum
-                                                  Guetmandingen<note type="editorial"> Gutmadingen,
-                                                  heute Teil der Stadt Geisingen</note><placeName ref="Gutmadingen"/>, den 4ten octob. anno etc.
+                                                  <note type="editorial"> Gutmadingen,
+                                                  heute Teil der Stadt Geisingen</note><placeName ref="Gutmadingen">Guetmandingen</placeName>, den 4ten octob. anno etc.
                                                   84.<note type="critical">Folgt unten die
                                                   Unterschrift von Freiherr Christoph von
                                                   Waldburg.</note></p>

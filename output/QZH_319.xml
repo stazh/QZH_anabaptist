@@ -81,11 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Bräm, Jakob">Jacob Bremmen</persName>wellent myn herren syn gmecht<note type="editorial"> Vermächtnis, letzwillige
+      <div><p><persName ref="Bräm, Jakob">Jacob Bremmen</persName>
+                                                  wellent myn herren syn gmecht<note type="editorial"> Vermächtnis, letzwillige
                                                   Verfügung, Id. IV, 69.</note>, umb das er synen
                                                   ­toüf­ferischen sun synes gůtes enterbt und die
                                                   zwen gehorsammen desselbigen zůerben jnsetzt,
-                                                  bestettiget haben. Hienebent soll der vogt uff<placeName ref="Regensberg">Regensperg</placeName><bm id="109"/> uff denselben ­toüf­fer syn kundschafft
+                                                  bestettiget haben. Hienebent soll der vogt uff
+                                                  <placeName ref="Regensberg">Regensperg</placeName><bm id="109"/> uff denselben ­toüf­fer syn kundschafft
                                                   und spech<note type="editorial"> kundschaft und
                                                   spech: Erkundigung und Nachforschung/Fahndung, Id.
                                                   X, 76.</note> machen und, wo er zů betretten<note type="editorial"> antreffen, ergreifen, Id. XIV,

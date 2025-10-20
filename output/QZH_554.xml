@@ -76,10 +76,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Demnach genant herr statthalter Hirtzel<note type="editorial"><persName ref="Hirzel, Salomon">Salomon Hirzel</persName></note>, h[err] landtvogt
-                                                  Tomman, herr landtvogt Escher<note type="editorial">Hans Konrad Escher<persName ref="Escher vom Glas, Hans Konrad">(vom Glas)</persName></note> unnd herr schultheiß Grossman<note type="editorial"><persName ref="Grossmann, Konrad">Konrad Grossmann</persName></note>sampt dem herrn pfarherr zum frouwenmünster, m[eister]<persName ref="Leemann, Burkhard">Burckharten Leeman</persName>,
+      <div><p>Demnach genant herr statthalter <note type="editorial">  <persName ref="Hirzel, Salomon">Salomon Hirzel</persName></note>, h[err] landtvogt
+                                                  Tomman, herr landtvogt Escher<note type="editorial"> Hans Konrad Escher (vom
+                                                  Glas)<persName ref="Escher vom Glas, Hans Konrad"/></note> unnd herr schultheiß Grossman<note type="editorial"> <persName ref="Grossmann, Konrad">Konrad Grossmann</persName></note> sampt dem herrn
+                                                  pfarherr zum frouwenmünster, m[eister] <persName ref="Leemann, Burkhard">Burckharten
+                                                  Leeman</persName>,
                                                   widerumb jnn Wellenberg<note type="critical">Folgt
-                                                  gestrichen: keert</note><placeName ref="Zürich, Wellenberg"/> zů den ­toüf­feren
+                                                  gestrichen: keert</note><placeName ref="Zürich, Wellenberg">Hirtzel</placeName> zů den ­toüf­feren
                                                   keert<note type="editorial"> sich begeben, gehen,
                                                   Id. III, 435.</note>, sy gmeinlich miteinanderen
                                                   für sich genommen und<note type="critical">«sy
@@ -127,7 +130,8 @@
                                                   jnn allen zimlichen, billichen sachen unnd, was
                                                   nit wider gott syge, gehorsam syn sölle<note type="critical">Folgt gestrichen: uff</note>,
                                                   wellicher bekhandtnuß syne mitgspannen all
-                                                  gmeinlich zefriden gweßen. Als aber durch<note type="critical">«durch» über der Zeile</note>m[eister]<persName ref="Leemann, Burkhard">Burckharten Leeman</persName>unnd ouch die
+                                                  gmeinlich zefriden gweßen. Als aber durch<note type="critical">«durch» über der Zeile</note>
+                                                  m[eister] <persName ref="Leemann, Burkhard">Burckharten Leeman</persName> unnd ouch die
                                                   obernennten myn herren<note type="critical">Folgt
                                                   gestrichen: d</note> verordneten befragt worden,
                                                   ob ouch ein oberer ein christ syn möge ald<note type="editorial"> oder</note> nit, habent sy
@@ -151,14 +155,16 @@
                                                   gnedigklichen zuerlassen. Wellind sy sich<note type="critical">Folgt gestrichen: auch</note> uff
                                                   die überblibnen artickl wyther bedencken unnd
                                                   volgendts darüber gepürenden bscheid geben.</p>
-                                                  <p>Unnd als demnach myn herren, die verordneten,<persName ref="Bindschedler, Heinrich">Heinrichen Bindschedler</persName>von<placeName ref="Erlenbach">Erlibach</placeName>mit erntst
+                                                  <p>Unnd als demnach myn herren, die verordneten,
+                                                  <persName ref="Bindschedler, Heinrich">Heinrichen Bindschedler</persName> von
+                                                  <placeName ref="Erlenbach">Erlibach</placeName> mit erntst
                                                   befragt, was für burger zu jme gen Erlibach jnn
                                                   syn huß gewandlet, wil er von niemandem nützit
                                                   wüssen mit anzeigung, das er niemandts
                                                   beherberget.</p>
-                                                  <p>Unnd als jr, myn gnedig herren, Jaglj
-                                                  Wältis<note type="critical">Folgt gestrichen:
-                                                  von</note><persName ref="Wälti, Jagli"/> ußm
+                                                  <p>Unnd als jr, myn gnedig herren, <note type="critical">Folgt gestrichen:
+                                                  von</note><persName ref="Wälti, Jagli">Jaglj
+                                                  Wältis</persName> ußm
                                                   Bernpiet halb erkhendt, das wann er ein eyd thůn
                                                   ald an eydtsstatt anloben will, uß<note type="critical">Folgt gestrichen: my</note> üwer
                                                   myner gnedigen herren gricht unnd gepiet zezüchen,

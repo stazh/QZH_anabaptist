@@ -78,7 +78,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Diser töüffer<note type="editorial"> Vgl.
+      <div><p><note type="editorial"> Vgl.
                                                   Nr. 114. Offenbar wurde Michel Nespler verhaftet
                                                   und vor das Ratsgericht gestellt. Von der
                                                   Einvernahme sind keine Aufzeichnungen
@@ -86,7 +86,7 @@
                                                   dess costens uff ein urfecht der gefenngknus
                                                   erlaßet. Actum mitwuch den 14ten novembris anno 64
                                                   pr[aese]nt[ibus] herr von Chaam<note type="editorial"> Bernhard von
-                                                  Cham</note><persName ref="Cham, Bernhard von"/>
+                                                  Cham</note><persName ref="Cham, Bernhard von">Diser töüffer</persName>
                                                   und beid reth.</p>
                                                   </div>
     </body>

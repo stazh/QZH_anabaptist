@@ -78,7 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Grüningen">Grüningen</placeName>. Antreffend<persName ref="Gubelmann, Rudolf">Růdlj Gubelman</persName>den ­toüf­fer von<placeName ref="Hadlikon">Hadlicken</placeName>, so widerumb
+      <div><p>Vogt zů <placeName ref="Grüningen">Grüningen</placeName>.
+                                                  Antreffend <persName ref="Gubelmann, Rudolf">Růdlj Gubelman</persName> den ­toüf­fer von
+                                                  <placeName ref="Hadlikon">Hadlicken</placeName>, so widerumb
                                                   jnn gfangenschafft jst.</p>
                                                   <p rend="margin-top">Ime, dem vogt, jst gwalt
                                                   geben, das glübt thůn zelassen, darby ordnung

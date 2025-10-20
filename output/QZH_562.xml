@@ -81,8 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Schnyder, Hans">Als Hannß</persName><persName ref="Schnyder, Heinrich">und Heinrich</persName>die
-                                                  Schnydere, beid von<placeName ref="Rorbas">Rorbas</placeName>, so bißhar mitt der ­toüf­ferischen sect
+      <div><p><persName ref="Schnyder, Hans">Als Hannß</persName> <persName ref="Schnyder, Heinrich">und
+                                                  Heinrich</persName> die
+                                                  Schnydere, beid von <placeName ref="Rorbas">Rorbas</placeName>, so bißhar mitt der ­toüf­ferischen sect
                                                   behafftet gsyn, vor einem ersammen rath sich
                                                   persönlichen gestelt, jren feler selbs mundtlichen
                                                   bekhendt, sich aller gehorsamme anerbotten unnd
@@ -96,7 +97,8 @@
                                                   die gfengklichen annemmen lassen, der gebür nach
                                                   gegen jnen zehandlen.</p>
                                                   <p>Denne die 200 pfund<note type="critical">In der
-                                                  Vorlage: lb</note> belangend, so vogt von<placeName ref="Kyburg">Kyburg</placeName>von gemelts
+                                                  Vorlage: lb</note> belangend, so vogt von
+                                                  <placeName ref="Kyburg">Kyburg</placeName> von gemelts
                                                   Heinrichen wegen jnzenemmen: Er, Heinrich, aber
                                                   (sidtmalen<note type="editorial"> da, weil, Id.
                                                   IV, 147.</note> er jetzt von synem jrrthumb

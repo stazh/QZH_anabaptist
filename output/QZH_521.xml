@@ -79,9 +79,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als myn herren, die verordneten, sampt herren Hanns<persName ref="Stumpf, Hans Rudolf">Růdolff Stumpffen</persName>unnd m[eister]
+      <div><p>Als myn herren, die verordneten, sampt  <persName ref="Stumpf, Hans Rudolf">Růdolff Stumpffen</persName> unnd m[eister]
                                                   Burckharten<note type="critical">Korrigiert,
-                                                  ursprünglich: Burckhat</note> Leeman<persName ref="Leemann, Burkhard"/> abermaln zů Hanns
+                                                  ursprünglich: Burckhat</note> Leeman<persName ref="Leemann, Burkhard">herren
+                                                  Hanns</persName> abermaln zů Hanns
                                                   Hedingern, dem wannenmacher, jnn gfangenschafft
                                                   kert<note type="critical">Folgt gestrichen:
                                                   er</note>, unnd weß er sich siderhar besinnet unnd
@@ -164,7 +165,7 @@
                                                   aus dem Dokument StAZH E I 7.3, Nr. 35.</note></p>
                                                   <p rend="margin-top">Nachdem vorgemelt myn herren,
                                                   die verordneten, widerumb zů Hannsen Hedinger, dem
-                                                  wannenmacher, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kert unnd jnne uß
+                                                  wannenmacher, jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kert unnd jnne uß
                                                   bevelch üwer myner gnedigen herren<note type="critical">Folgt gestrichen: bevelch, durch
                                                   die marter</note> befragt, was er<note type="critical">Folgt gestrichen: mi</note> für
                                                   mittprediger unnd lehrer habe, anzezeigen<note type="critical">Folgt gestrichen: Ist er gentzli
@@ -173,7 +174,8 @@
                                                   dorob lyden welle, was es joch syge, er er
                                                   dieselbigen anzeigen welle</note>, hatt er
                                                   volgende personen angeben mitt nammen:</p>
-                                                  <p><persName ref="Seng, Jakob">Jacob Seng</persName>etc.<note type="editorial"> Im Dokument StAZH E I
+                                                  <p><persName ref="Seng, Jakob">Jacob Seng</persName>
+                                                  etc.<note type="editorial"> Im Dokument StAZH E I
                                                   7.3, Nr. 35 fehlen die anderen Namen. Der
                                                   anschliessende Text mit den preisgegebenen Namen
                                                   der Täufer stammt von einem separaten Dokument
@@ -186,13 +188,17 @@
                                                   Folter (vgl. den durchgestrichenen Text). Bei der
                                                   ersten Einvernahme bat er darum, keine Namen
                                                   verraten zu müssen.</note>:</p>
-                                                  <p>Jacob Senng ab dem Wedeschwyler berg<note type="editorial"> Wädenswiler
-                                                  Berg</note><placeName ref="Wädenswiler Berg"/>,<persName ref="Hochstrasser, Hans">Hanns Hochstraßer</persName>von Landtricken<note type="editorial"> Landikon</note><placeName ref="Landikon"/>, welliche beid gstorben.</p>
-                                                  <p><persName ref="Schnyder, N.">N. Schnyder</persName>zů<placeName ref="Rorbas">Rorbaß</placeName>, jst jnn<placeName ref="Mähren">Merherrn</placeName>zogen.</p>
-                                                  <p>Der alt Senn zů<placeName ref="Bubikon">Bůbicken</placeName>,<persName ref="Michel (Bubikon)">heißt Michel</persName>.</p>
-                                                  <p><persName ref="Bruppach, Jos">Joß Bruppach</persName>ab
-                                                  dem Wedeschwyler<placeName ref="Wädenswiler Berg">berg</placeName>.</p>
-                                                  <p>Zwen uß dem<placeName ref="Emmental">Ementhal</placeName>, der<persName ref="Arbogast (vom Emmental)">ein Arbogast</persName>, der<persName ref="Peter (vom Emmental)">ander Petter</persName>genennt, jre
+                                                  <p>Jacob Senng ab dem  <note type="editorial"> Wädenswiler
+                                                  Berg</note><placeName ref="Wädenswiler Berg">berg</placeName>,
+                                                  <persName ref="Hochstrasser, Hans">Hanns Hochstraßer</persName> von Landtricken<note type="editorial"> Landikon</note><placeName ref="Landikon">Wedeschwyler</placeName>, welliche beid gstorben.</p>
+                                                  <p>N. Schnyder<persName ref="Schnyder, N."/> zů
+                                                  <placeName ref="Rorbas">Rorbaß</placeName>, jst jnn
+                                                  <placeName ref="Mähren">Merherrn</placeName> zogen.</p>
+                                                  <p>Der alt Senn zů <placeName ref="Bubikon">Bůbicken</placeName>, <persName ref="Michel (Bubikon)">heißt Michel</persName>.</p>
+                                                  <p><persName ref="Bruppach, Jos">Joß Bruppach</persName> ab
+                                                  dem Wedeschwyler <placeName ref="Wädenswiler Berg">berg</placeName>.</p>
+                                                  <p>Zwen uß dem <placeName ref="Emmental">Ementhal</placeName>, der <persName ref="Arbogast (vom Emmental)">ein Arbogast</persName>, der 
+                                                  <persName ref="Peter (vom Emmental)">ander Petter</persName>genennt, jre
                                                   gschlechter sygen jme unbewüßt.<note type="editorial"> Hier endet das Dokument mit den
                                                   Namen (StAZH E I 7.3, Nr. 32). Die nachfolgenden
                                                   Abschnitte stammen wieder aus dem anderen Dokument
@@ -201,13 +207,15 @@
                                                   verordneten [befragt], wo er mit syner eefrouwen
                                                   zur kilchen gangen, hat er angezeigt, das er sy
                                                   am<note type="critical">«sy am» über der Zeile, in
-                                                  der Zeile gestrichen: am</note><placeName ref="Zürich">Bleickerweg</placeName>jnn der alten
+                                                  der Zeile gestrichen: am</note>
+                                                  <placeName ref="Zürich">Bleickerweg</placeName> jnn der alten
                                                   Affenwagern<note type="editorial"> Um welches Haus
                                                   am Bleicherweg (links der Limmat und vor den
                                                   Stadttoren) es sich dabei handelte, ist unklar.
                                                   Das Wirtshaus Zum Affenwagen lag in der
                                                   Preyergasse, rechts der Limmat auf
-                                                  Stadtgebiet.</note>jnn bysyn obermelts<persName ref="Seng, Jakob">Jacoben Sengen</persName>seligen, der
+                                                  Stadtgebiet.</note> jnn bysyn obermelts <persName ref="Seng, Jakob">Jacoben
+                                                  Sengen</persName> seligen, der
                                                   sy zůsammen geben, geehlichet habe. Bitt gantz
                                                   trungenlich<note type="editorial">
                                                   dringlich</note>, jnne der gfangenschafft jnn
@@ -220,7 +228,19 @@
                                                   die alten under dem gsatz vor der menschwerdung
                                                   unnsers herrn Christj durch das lyden Christj nit
                                                   selig worden etc. unnd ein arbetseliger<note type="editorial"> elend, verdorben, Id. I,
-                                                  424.</note>, eigenrichtiger mensch, der uß ursachen nit zůverwyßen unnd also uff ander lüth zeschicken jst, so soll er jnn ansehung synes alters, wiewol er ein annders verdiennet, jnn spital jnn ein sonderbar gmach an yßen gelegt, daselbst wol verwart, niemandt zů jme gelaßenn unnd mitt spyß und tranck nach gebür unnd nothurfft versehen werden, da man all syn gůt zů deß spitals handen nemmen unnd das an syn erhaltung verwennden soll. Actum mentags den 9ten septemb[ris] anno etc. 88 p[raese]nt[ibus] herr<persName ref="Kambli, Hans">burgermeister Kamblj</persName>unnd beid reth.</p>
+                                                  424.</note>, eigenrichtiger mensch, der uß
+                                                  ursachen nit zůverwyßen unnd also uff ander lüth
+                                                  zeschicken jst, so soll er jnn ansehung synes
+                                                  alters, wiewol er ein annders verdiennet, jnn
+                                                  spital jnn ein sonderbar gmach an yßen gelegt,
+                                                  daselbst wol verwart, niemandt zů jme gelaßenn
+                                                  unnd mitt spyß und tranck nach gebür unnd
+                                                  nothurfft versehen werden, da man all syn gůt zů
+                                                  deß spitals handen nemmen unnd das an syn
+                                                  erhaltung verwennden soll. Actum mentags den 9ten
+                                                  septemb[ris] anno etc. 88 p[raese]nt[ibus] herr
+                                                  <persName ref="Kambli, Hans">burgermeister Kamblj</persName>
+                                                  unnd beid reth.</p>
                                                   </div>
     </body>
   </text>

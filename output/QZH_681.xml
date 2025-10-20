@@ -81,9 +81,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Zwüschent<persName ref="Mathys, Pankraz">Pangratius Mathyßen</persName>, schultheiß zů<placeName ref="Bülach">Bülach</placeName>, eins<note type="critical">Am Rand: j urk[und]</note>unnd<persName ref="Stüssi, Růdli">Růdlj Stüßj</persName>von<placeName ref="Nöschikon">Nöschicken</placeName>anderstheils jst erkhendt<note type="editorial">
+      <div><p>Zwüschent <persName ref="Mathys, Pankraz">Pangratius Mathyßen</persName>, schultheiß zů
+                                                  <placeName ref="Bülach">Bülach</placeName>, eins<note type="critical">Am Rand: j urk[und]</note> unnd
+                                                  <persName ref="Stüssi, Růdli">Růdlj Stüßj</persName> von
+                                                  <placeName ref="Nöschikon">Nöschicken</placeName>
+                                                  anderstheils jst erkhendt<note type="editorial">
                                                   urteilen, amtlich festsetzen, Id. III,
-                                                  313.</note>, das wann Stüßj von einem herrn seckelmeister alhie ein schyn jme, schultheiß Mathyßen, bringt, das er sy umb die einhundert guldin von schultheiß Schnyders seligen frouwen eerb, so<persName ref="Ott, Dikt">Dictlj Otten</persName>von<placeName ref="Nassenwil">Nassenwyl</placeName>seligen
+                                                  313.</note>, das wann Stüßj von einem herrn
+                                                  seckelmeister alhie ein schyn jme, schultheiß
+                                                  Mathyßen, bringt, das er sy umb die einhundert
+                                                  guldin von schultheiß Schnyders seligen frouwen
+                                                  eerb, so <persName ref="Ott, Dikt">Dictlj Otten</persName>
+                                                  von <placeName ref="Nassenwil">Nassenwyl</placeName> seligen
                                                   tochter (die vor 32 jaren der ­toüf­ferischen sect
                                                   nachgezogen) zůgehört, gnůgsamm versicheret habe,
                                                   soll schultheiß Mathyß jme die angentz<note type="editorial"> unverzüglich, Id. II, 19.</note>

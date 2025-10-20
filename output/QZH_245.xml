@@ -78,13 +78,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als<persName ref="Streler, N.">ein Streler</persName>ab
-                                                  dem<placeName ref="Wald, Haltberg">Haldtberg</placeName>vor
+      <div><p>Als <persName ref="Streler, N.">ein Streler</persName> ab
+                                                  dem <placeName ref="Wald, Haltberg">Haldtberg</placeName> vor
                                                   meinen herren eschinnen und begehrt, jhm und
                                                   seinen uns<note type="critical">«uns» über der
                                                   Zeile</note> gehorsamen<note type="critical">korrigiert, ursprünglich: ungehorsamen</note>
                                                   geschwüsterigten den haftt<note type="editorial">
-                                                  Arrest, Beschlagnahmung, Id. II, 1055.</note>, so<persName ref="Breitinger, Rudolf">herr vogt</persName>zu<placeName ref="Grüningen">Grüningen</placeName>ihnen über
+                                                  Arrest, Beschlagnahmung, Id. II, 1055.</note>, so
+                                                  <persName ref="Breitinger, Rudolf">herr vogt</persName> zu
+                                                  <placeName ref="Grüningen">Grüningen</placeName> ihnen über
                                                   ihr haab und gutt von wegen ihren
                                                   geschüsterigten<note type="editorial">
                                                   Geschwister, Id. IX, 2235.</note>, so der
@@ -99,7 +101,9 @@
                                                   gehört, hie neben aber nit wüßen mögen, auß wz
                                                   ursachen von herren vogt<note type="critical">Folgt gestrichen: die handlung zu erkundigen
                                                   zugeschriben und mein herren</note> dz ermelt
-                                                  verpott beschehen und wz des hoffs recht im<placeName ref="Fischenthal">Fischenthal</placeName>seige, ist daruf er,<persName ref="Streler, N.">der Streler</persName>, mit gutten wortten abgewyßt
+                                                  verpott beschehen und wz des hoffs recht im
+                                                  <placeName ref="Fischenthal">Fischenthal</placeName> seige,
+                                                  ist daruf er, <persName ref="Streler, N.">der Streler</persName>, mit gutten wortten abgewyßt
                                                   auch herren vogt die handlung zu erkundigen
                                                   zgeschriben und mein herren deß zuberichten,
                                                   weliches dann, wie hie by ligend schreiben vermag,

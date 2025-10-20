@@ -78,8 +78,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem herr<persName ref="Leemann, Burkhard">Burgckhart Leeman</persName>sampt beiden herren, den
-                                                  verordneten nachgängeren, zů Gorius Frygen von<placeName ref="Knonau">Knonouw</placeName>jnn den<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>volgents zů Rudolff Feeren von Affholteren jnn den
+      <div><p>Nachdem herr <persName ref="Leemann, Burkhard">Burgckhart Leeman</persName> sampt beiden herren, den
+                                                  verordneten nachgängeren, zů Gorius Frygen von
+                                                  <placeName ref="Knonau">Knonouw</placeName> jnn den
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  volgents zů Rudolff Feeren von Affholteren jnn den
                                                   spittal keert<note type="editorial"> sich begeben,
                                                   gehen, Id. III, 435.</note>, sy mit allem flyß
                                                   unnd ernntst usß der heiligen göttlichen gschrifft
@@ -129,11 +132,15 @@
                                                   verzychung unnd entledigung der
                                                   gefanngenschafft.</p>
                                                   <p rend="margin-top">[Urteil:] Diewyl sich
-                                                  gemellter Fryg nach nit allengcklichen<note type="editorial"> vollständig</note> ergeben,
+                                                  gemellter Fryg nach <note type="editorial"> vollständig</note> ergeben,
                                                   wellend myn herren jnne beßer ryf werden lasßen.
                                                   Hienebend aber sovil Růdolf Feeren belangt unnd
                                                   antrifft, sidtmalen<note type="editorial"> da,
-                                                  weil, Id. IV, 147.</note>er sich aller gehorsame anerbotten, sölle er dißmalen der banden uff ein gwonlich urfecht ledig syn. Actum sambßtags den 13ten mertzen anno 1585 pr[aese]nt[ibu]s herr<persName ref="Thomann, Kaspar">b[urgermeister] Tomman</persName>und beid reth.</p>
+                                                  weil, Id. IV, 147.</note> er sich aller gehorsame
+                                                  anerbotten, sölle er dißmalen der banden uff ein
+                                                  gwonlich urfecht ledig syn. Actum sambßtags den
+                                                  13ten mertzen anno 1585 pr[aese]nt[ibu]s herr
+                                                  b[urgermeister] Tomman<persName ref="Thomann, Kaspar">nit allengcklichen</persName> und beid reth.</p>
                                                   <p rend="margin-top">Uff herren Burgkhardt Leemans
                                                   vilfaltigs unnd ernstlichs unnderrichten uß
                                                   heiliger biblischer gschrifft jst gemellter Fryg
@@ -141,7 +148,9 @@
                                                   g[nädig] herren jnne uff ein gwonlich urfecht nach
                                                   abrichtung costens der gfangenschafft ledig
                                                   bkentt<note type="editorial"> urteilen, Id. III,
-                                                  315.</note>. Actum mentags den 15ten mertzen anno 1585 pr[aese]nt[ibu]s herr<persName ref="Kambli, Hans">burgermeister Kamblj</persName>unnd beid
+                                                  315.</note>. Actum mentags den 15ten mertzen anno
+                                                  1585 pr[aese]nt[ibu]s herr <persName ref="Kambli, Hans">burgermeister
+                                                  Kamblj</persName> unnd beid
                                                   reth.</p>
                                                   </div>
     </body>

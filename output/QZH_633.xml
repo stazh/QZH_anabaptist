@@ -78,7 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Diewyl herr decanus<note type="editorial"><persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName></note> im<placeName ref="Freiamt">Fryampter</placeName>capitel einem
+      <div><p>Diewyl herr decanus<note type="editorial">
+                                                  <persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName></note> im
+                                                  <placeName ref="Freiamt">Fryampter</placeName> capitel einem
                                                   eersamen synodo fürbracht, wie dz ettliche ein
                                                   gůte zyt sitzind by iren eewyberen, die sy doch
                                                   noch nit zur kilchen gefuͤrt, und ir bezogne ee

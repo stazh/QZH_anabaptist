@@ -79,7 +79,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern gunst unnd geneigten willen zuvor. Frommer unnd wyßer, jnnsunders getrüwer, lieber burger unnd vogt,<persName ref="Girenbader, N.">der Gyrenbader</persName>jst unns lange zyt, wie du
+      <div><p>Unnsern gunst unnd geneigten willen zuvor.
+                                                  Frommer unnd wyßer, jnnsunders getrüwer, lieber
+                                                  burger unnd vogt, <persName ref="Girenbader, N.">der Gyrenbader</persName> jst unns lange zyt, wie du
                                                   weyßt, nit on sunder<note type="editorial">
                                                   besonderes, ausserordentliches</note> ergernuß der
                                                   kilchen<note type="critical">Folgt gestrichen:
@@ -98,12 +100,13 @@
                                                   uberantwurten mit jme zehandlen, ob wir jn zů
                                                   gebürlicher gehorsame bringen möchten, daran
                                                   thůstu unnßer gfallen.</p>
-                                                  <p>Fürer<note type="editorial"> ferner, Id. I,
+                                                  <p><note type="editorial"> ferner, Id. I,
                                                   968.</note>, so konnend die unnßeren von
                                                   Gibschyl<note type="editorial">
-                                                  Gibswil</note><placeName ref="Gibswil"/> unwegsame
+                                                  Gibswil</note><placeName ref="Gibswil">Fürer</placeName> unwegsame
                                                   halb nit wol zu jrer pfar gan Hünnwyl<note type="editorial"> Hinwil</note><placeName ref="Hinwil"/> komen. Unnd wiewol sy den pfarren
-                                                  zu Fischental unnd<placeName ref="Wald">Wald</placeName>ettwz neͣecher gelegen, meynt man doch, sy gangen
+                                                  zu Fischental unnd <placeName ref="Wald">Wald</placeName>
+                                                  ettwz neͣecher gelegen, meynt man doch, sy gangen
                                                   an deweͣders<note type="editorial"> weder der eine
                                                   noch der andere, keiner von beiden, Id. XV,
                                                   489.</note> ort zekilchen<note type="critical">Folgt gestrichen: da</note>. Unnd so aber vyl
@@ -111,7 +114,8 @@
                                                   wellest jnen die wal uffthůn, zu wellicher kilchen
                                                   sy am<note type="critical">Folgt gestrichen:
                                                   aller</note> liebsten gan wellind, gan Wald
-                                                  ald<note type="editorial"> oder</note> gan<placeName ref="Fischenthal">Fischental</placeName>. Unnd
+                                                  ald<note type="editorial"> oder</note> gan
+                                                  <placeName ref="Fischenthal">Fischental</placeName>. Unnd
                                                   welliche sy unnder dißen zweyen annemmend, da
                                                   wellest mit jnen verschaffen<note type="editorial"> machen, dass etwas geschieht, anordnen, Id.
                                                   VIII, 335-337.</note> unnd jnen ernstlich
@@ -125,13 +129,14 @@
                                                   wir jnen sölliche unghorsame unnd absünderung
                                                   oberkeyts und eeren halb nit gestan künten.
                                                   Darnach magst du jnen sagen, sich darnach wisßen
-                                                  zerichten. Uß<placeName ref="Zürich">Zürich</placeName>, 2.
+                                                  zerichten. Uß <placeName ref="Zürich">Zürich</placeName>, 2.
                                                   januarij 1544.</p>
                                                   <p rend="margin-top">Burgermeyster und rath der
                                                   st[adt] Zu[ri]ch.</p>
                                                   <p rend="margin-top">Dem frommen unnd wyßen,
-                                                  unnßer jnnsunders getrüwen, lieben burger und vogt
-                                                  zu<placeName ref="Grüningen">Grüningen</placeName>Hans<persName ref="Keller, Hans Balthasar">Balthassar Kellern.</persName></p>
+                                                  unnßer jnnsunders getrüwen, lieben burger und 
+                                                  <placeName ref="Grüningen">vogt</placeName> Hans
+                                                  Balthassar Kellern.<persName ref="Keller, Hans Balthasar">zu Grüningen</persName></p>
                                                   </div>
     </body>
   </text>

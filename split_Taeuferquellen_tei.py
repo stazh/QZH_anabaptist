@@ -151,7 +151,6 @@ def build_header(head_text: str | None, idno_text: str | None, iso_date: str | N
 
     history = tei_sub(msDesc, "history")
     tei_sub(history, "origin", "")
-    # optionales <additional> direkt unter <history>
     if qgts_nr:
         additional = tei_sub(history, "additional")
         listBibl = tei_sub(additional, "listBibl")
@@ -181,70 +180,120 @@ def extract_first_text(el) -> str | None:
 def fix_inline_persnames(p_el: etree._Element):
     """
     Sucht ein zweiteiliges Namensmuster unmittelbar vor einem leeren <persName/> und
-    überträgt es als Text in <persName>. Mutiert p_el in-place.
+    überträgt es als Text in <persName>, ohne den umgebenden Leerschlag zu verändern.
+    
+    - Bewahrt den Whitespace vor <persName> (also nach dem Namen im Fließtext).
+    - Bewahrt den Whitespace nach </persName> (kein lstrip o.ä. auf pers.tail).
+    - Erlaubt Bindestrich in Namensteilen (z. B. 'Hans-Jakob').
+    - Unicode-tauglich (Umlaute etc.).
     """
+    # "Wort" = Buchstaben (ohne Ziffern/Unterstrich), optional mit Bindestrich; zwei Wörter + Zwischen-WS + End-WS
+    WORD = r'[^\W\d_]+(?:-[^\W\d_]+)?'
+    # ... letztes Muster am Segmentende:  <WORT> <WS> <WORT> <WS* (zu erhalten)>
+    NAME_RE = re.compile(rf'({WORD})(\s+)({WORD})(\s*)$', flags=re.UNICODE)
+
+    def extract_last_two_words_preserve_space(container, use_tail: bool):
+        """
+        Entfernt die letzten zwei Wörter (inkl. deren internen Whitespace) am Ende des Textes
+        und bewahrt den nachfolgenden Whitespace (vor dem Element). Gibt (name_text) zurück
+        oder None, wenn kein Treffer.
+        """
+        txt = (container.tail if use_tail else container.text) or ''
+        m = NAME_RE.search(txt)
+        if not m:
+            return None
+        g1, ws_between, g2, ws_after = m.groups()
+        # Name genau mit dem ursprünglichen Zwischen-Whitespace zusammenbauen (keine Normalisierung!)
+        name_text = f"{g1}{ws_between}{g2}"
+        # Nur die beiden Wörter entfernen, den nachfolgenden Whitespace (ws_after) erhalten
+        new_txt = txt[: m.start(1)] + ws_after
+        if use_tail:
+            container.tail = new_txt
+        else:
+            container.text = new_txt
+        return name_text
+
+    # Alle <persName> (namespace-agnostisch) prüfen
     for pers in p_el.xpath('.//*[local-name()="persName"]'):
-        if (pers.text and pers.text.strip()):
+        # Wenn bereits Text vorhanden ist, nichts tun
+        if pers.text and pers.text.strip():
             continue
 
         parent = pers.getparent()
         if parent is None:
             continue
 
+        # Position des persName im Parent bestimmen
         children = list(parent)
         try:
             pos = children.index(pers)
         except ValueError:
             pos = -1
 
-        if pos > 0:
-            prev = children[pos - 1]
-            text_segment = prev.tail or ''
-            target_container = ('tail', prev)
-        else:
-            text_segment = parent.text or ''
-            target_container = ('text', parent)
+        # 1) Bevorzugt aus previous-sibling.tail holen (dort steht i.d.R. der laufende Text)
+        prev = children[pos - 1] if pos > 0 else None
+        name_text = extract_last_two_words_preserve_space(prev, True) if prev is not None else None
 
-        tokens = re.findall(r"\S+", text_segment)
-        if len(tokens) >= 2:
-            name = tokens[-2] + ' ' + tokens[-1]
-            remaining_tokens = tokens[:-2]
-            remaining = ' '.join(remaining_tokens)
+        # 2) Falls kein prev: aus parent.text holen
+        if not name_text:
+            name_text = extract_last_two_words_preserve_space(parent, False)
 
-            if all(any(ch.isalpha() for ch in t) for t in (tokens[-2], tokens[-1])):
-                pers.text = name
-                if target_container[0] == 'tail':
-                    prev.tail = (remaining if remaining else None)
-                else:
-                    parent.text = (remaining if remaining else None)
-                if pers.tail:
-                    pers.tail = pers.tail.lstrip()
+        # Falls ein Name gefunden wurde: in <persName> einsetzen
+        if name_text:
+            pers.text = name_text
+            # WICHTIG: pers.tail NICHT anrühren (kein lstrip) → Whitespace NACH </persName> bleibt exakt erhalten
 
 def fix_inline_placenames(p_el: etree._Element) -> None:
     """
-    Wandelt <placeName ref="X"/> direkt nach einem Wort in <placeName ref="X">Wort</placeName> um.
-    Nimmt an, dass das Wort unmittelbar davor steht (Parent.text oder previous.tail).
+    Wandelt Muster TOKEN<placeName .../> in <placeName ...>TOKEN</placeName> um.
+    - TOKEN = letztes Wort direkt vor dem <placeName/> (in parent.text oder prev.tail)
+    - Attribute am <placeName> bleiben unverändert
+    - Annahme: Ortsnamen bestehen aus genau einem Wort (keine Leerzeichen)
+    - WICHTIG: Der Leerschlag/Whitespace NACH dem Wort (und damit VOR dem Element) bleibt erhalten.
     """
-    for pn in p_el.xpath('.//*[local-name()="placeName" and not(normalize-space())]'):
-        prev = pn.getprevious()
-        parent = pn.getparent()
-        token = None
-        if prev is None:
-            if parent is not None and parent.text:
-                parts = parent.text.rstrip().rsplit(None, 1)
-                if parts:
-                    token = parts[-1]
-                    parent.text = parent.text[: -len(token)].rstrip() if len(parts) > 1 else ''
+    # Erfasst (WORT)(optional Whitespaces) am Ende
+    WORD_RE = re.compile(r'([^\W\d_]+(?:-[^\W\d_]+)?)(\s*)$', flags=re.UNICODE)
+
+    def extract_last_word_preserve_space(container, use_tail: bool) -> str | None:
+        """
+        Entfernt nur das letzte WORT, lässt aber den nachfolgenden Whitespace (vor dem Element) stehen.
+        Gibt das entfernte Wort zurück, oder None wenn keins gefunden.
+        """
+        txt = (container.tail if use_tail else container.text) or ''
+        m = WORD_RE.search(txt)
+        if not m:
+            return None
+        token = m.group(1)
+        ws_after = m.group(2)  # ursprünglicher Leerschlag nach dem Wort (vor dem Element)
+        # Wort entfernen, Whitespace erhalten
+        new_txt = txt[: m.start(1)] + ws_after
+        if use_tail:
+            container.tail = new_txt
         else:
-            tail = (prev.tail or '').rstrip()
-            if tail:
-                parts = tail.rsplit(None, 1)
-                if parts:
-                    token = parts[-1]
-                    prev.tail = prev.tail[: -len(token)].rstrip() if len(parts) > 1 else ''
+            container.text = new_txt
+        return token
+
+    # Alle leeren <placeName/> (namespace-agnostisch) durchgehen
+    for pn in list(p_el.xpath('.//*[local-name()="placeName" and not(normalize-space())]')):
+        parent = pn.getparent()
+        if parent is None:
+            continue
+
+        prev = pn.getprevious()
+
+        # 1) Versuch: Wort aus previous-sibling.tail (inkl. Whitespace-Erhalt)
+        token = extract_last_word_preserve_space(prev, True) if prev is not None else None
+
+        # 2) Sonst: Wort aus parent.text (inkl. Whitespace-Erhalt)
+        if not token:
+            token = extract_last_word_preserve_space(parent, False)
+
         if token:
             pn.text = token
-            pn.tail = (pn.tail or '').lstrip()
+            # WICHTIG: pn.tail NICHT lstrip'en – damit bleibt nachfolgender Whitespace exakt erhalten
+            # (falls du hier bewusst bereinigen willst, müsstest du es explizit tun)
+        # Wenn kein Token gefunden wurde, Element unverändert lassen (defensiv)
+
 
 def build_tei_tree(head_text, idno_text, iso_date, p_nodes, editorial_notes, qgts_nr: str | None = None):
     # Root mit Namespaces
@@ -276,7 +325,7 @@ def build_tei_tree(head_text, idno_text, iso_date, p_nodes, editorial_notes, qgt
             for child in note:
                 p.append(deepcopy(child))
 
-    return root  # (kein doppeltes return mehr)
+    return root
 
 def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
     outdir.mkdir(parents=True, exist_ok=True)
@@ -328,7 +377,6 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
             "xml-stylesheet",
             "type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'"
         )
-
         tei_root.addprevious(pi)
 
         # Schreiben IN der Schleife, prefix verwenden

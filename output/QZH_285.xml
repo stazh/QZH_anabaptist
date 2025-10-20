@@ -81,14 +81,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Gut, Andres">Andreß Gůt</persName>der
+      <div><p><persName ref="Gut, Andres">Andreß Gůt</persName> der
                                                   ­toüf­fer erbütt sich, jnn 14ten den nechsten zur
                                                   kilchen zegaan oder aber uß myner herren gricht
                                                   und gebiet zewychen unnd biß wienacht syn huß und
                                                   heim zeverkouffen. Wo ers aber nitt verkouffen
                                                   könnte zů verlichen und mit wyb und kinden myn
                                                   herren jnn jrer landtschafft ungesumpt lassen. Diß
-                                                  soll dem vogt zů<placeName ref="Knonau">Knonouw</placeName>zůgschriben werden, das dem statt beschehe. Wo
+                                                  soll dem vogt zů <placeName ref="Knonau">Knonouw</placeName>
+                                                  zůgschriben werden, das dem statt beschehe. Wo
                                                   nitt, soll er jnn widerumb mynen herren
                                                   gefengklichen zůschicken.</p>
                                                   </div>

@@ -78,7 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt uff<placeName ref="Regensberg">Regensperg</placeName>soll abermalen jr kundschafft uff sy<note type="editorial"> Vgl. Nr. 129.</note>machen und alher gfengklichen schicken. Actum 13ten may anno etc. 66 p[raese]nt[ibus]<persName ref="Müller, Georg">herr Müller</persName>und beid reth.</p>
+      <div><p>Vogt uff <placeName ref="Regensberg">Regensperg</placeName> soll abermalen jr kundschafft uff sy<note type="editorial"> Vgl. Nr. 129.</note> machen und
+                                                  alher gfengklichen schicken. Actum 13ten may anno
+                                                  etc. 66 p[raese]nt[ibus] <persName ref="Müller, Georg">herr Müller</persName> und beid reth.</p>
                                                   </div>
     </body>
   </text>

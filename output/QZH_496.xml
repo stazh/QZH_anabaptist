@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt von Knonouw<note type="editorial">Hans Heinrich Meyer<persName ref="Meyer von Knonau, Hans Heinrich">von Knonau</persName></note><placeName ref="Knonau"/> schryben, das
+      <div><p>Vogt von <note type="editorial"> Hans
+                                                  Heinrich Meyer <persName ref="Meyer von Knonau, Hans Heinrich">von Knonau</persName></note><placeName ref="Knonau">Knonouw</placeName> schryben, das
                                                   er sambt dem predicanten deß landtschrybers frouw
                                                   bschicken, jren mit erntst undersagen, das sy wie
                                                   andere christen lüth die ordenlichen predigen jnn

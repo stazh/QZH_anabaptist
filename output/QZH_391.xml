@@ -78,12 +78,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsernn günstigen geneigten willen unnd alleß gutß zuvor. Fromer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, uff gestrigen abendt sind unnß zwen ­toüf­fer, da der einn<persName ref="Studer, Christian">Christen Studer</persName>unnd der annder<persName ref="Hotz, Hans">Hannß Hotz</persName>heißt<note type="critical">Folgt gestrichen:
+      <div><p>Unnsernn günstigen geneigten willen unnd alleß
+                                                  gutß zuvor. Fromer, wyser, besonnderß gethrüwer,
+                                                  lieber burger unnd vogt, uff gestrigen abendt sind
+                                                  unnß zwen ­toüf­fer, da der einn <persName ref="Studer, Christian">Christen
+                                                  Studer</persName> unnd der
+                                                  annder <persName ref="Hotz, Hans">Hannß Hotz</persName>
+                                                  heißt<note type="critical">Folgt gestrichen:
                                                   jne</note>, gefenngklich zugefürt worden. Da wir,
                                                   alß jrenthalber unnder unnß red gehalten,
                                                   vernomen, daß du sy beid ald<note type="editorial"> oder</note> joch<note type="editorial">
                                                   auch</note> den einenn vor etwaß zytß jnn<note type="critical">Folgt gestrichen: dynen</note>
-                                                  bannden jnn unnserem schloß<placeName ref="Kyburg">Kyburg</placeName>ouch gehept. Derhalben unnser
+                                                  bannden jnn unnserem schloß <placeName ref="Kyburg">Kyburg</placeName> ouch gehept. Derhalben unnser
                                                   bevelch ann dich, du wellist unnß bj zeigernn diß
                                                   [briefs] verstenndigen, waß sollicher ­toüf­feren
                                                   halber vonn dir gehanndlet, waß sy bekhenndt unnd
@@ -97,7 +103,8 @@
                                                   <p rend="margin-top">Burgermeister unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem fromenn, wysenm unnserem
-                                                  besonderß gethrüwen, lieben burger unnd vogt zu<placeName ref="Kyburg">Kyburg</placeName>Caspparnn
+                                                  besonderß gethrüwen, lieben burger unnd vogt zu
+                                                  <placeName ref="Kyburg">Kyburg</placeName> Caspparnn
                                                   Tomann.</p>
                                                   </div>
     </body>

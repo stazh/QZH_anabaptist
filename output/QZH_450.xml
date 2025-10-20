@@ -81,9 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Den Huseren von<placeName ref="Birmensdorf">Birmenstorff</placeName>an truchseßen zur Scher<note type="editorial">Christoph<persName ref="Christoph von Waldburg">von Waldburg</persName></note><placeName ref="Scheer"/> ein unvergryffenliche<note type="editorial"> unbeschadet, Id. II, 717.</note>
+      <div><p>Den Huseren  <placeName ref="Birmensdorf">Birmenstorff</placeName> an truchseßen zur Scher<note type="editorial"> Christoph <persName ref="Christoph von Waldburg">von Waldburg</persName></note><placeName ref="Scheer">von</placeName> ein unvergryffenliche<note type="editorial"> unbeschadet, Id. II, 717.</note>
                                                   fürgschrifft<note type="editorial">
-                                                  Empfehlungsschreiben, Id. IX, 1585.</note>, jren vetern<persName ref="Huser, Johannes">Hannsen Hußer</persName>, wann er der ­toüf­feryg
+                                                  Empfehlungsschreiben, Id. IX, 1585.</note>, jren
+                                                  vetern <persName ref="Huser, Johannes">Hannsen Hußer</persName>, wann er der ­toüf­feryg
                                                   abzestaan gelobe, der gysel- unnd gfangenschafft
                                                   zůerlaßen.</p>
                                                   </div>

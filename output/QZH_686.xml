@@ -78,7 +78,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Alß m[eister] Hans<persName ref="Hottinger, Hans Jakob">Jacob Hottinger</persName>, obervogt im<placeName ref="Neuamt">Nüwenambt</placeName>, über
+      <div><p>Alß m[eister] Hans <persName ref="Hottinger, Hans Jakob">Jacob Hottinger</persName>, obervogt im
+                                                  <placeName ref="Neuamt">Nüwenambt</placeName>, über
                                                   ob­ge­mel­ten artickel der zweyen gefangnen
                                                   ­toüf­fern halb synen bericht unnd bscheid ouch
                                                   gegeben, das nammlich dise zwen ­toüf­fer allein
@@ -87,7 +88,9 @@
                                                   darby belyben unnd habent den obervögten jm
                                                   Nüwenambt bevolchen, das jnn jren ambtsverwaltung
                                                   den ­toüf­feren khein blatz gegeben werde. Sy
-                                                  söllent den wirt und die wirtin von<placeName ref="Niederglatt">Niderglatt</placeName>beschicken und jnen mit erntst undersagen, das sy
+                                                  söllent den wirt und die wirtin von
+                                                  <placeName ref="Niederglatt">Niderglatt</placeName>
+                                                  beschicken und jnen mit erntst undersagen, das sy
                                                   den ­toüf­feren kheine eignen kammeren jngebind,
                                                   noch sy verhaltind<note type="editorial">
                                                   Aufenthalt geben</note>, oder man werde sy, den
@@ -98,14 +101,16 @@
                                                   der ­toüf­feren halb ein flyßigs ufsehen haben
                                                   laße und denselben khein underschlouf
                                                   gestattne.</p>
-                                                  <p>Was dann den müller zů<placeName ref="Räterschen">Reterschen</placeName>betrifft<note type="critical">«betrifft» über der Zeile.</note>, soll dem vogt
-                                                  zů<placeName ref="Kyburg">Kyburg</placeName>geschriben
+                                                  <p>Was dann den müller zů <placeName ref="Räterschen">Reterschen</placeName> betrifft<note type="critical">«betrifft» über der Zeile.</note>, soll dem vogt
+                                                  zů <placeName ref="Kyburg">Kyburg</placeName> geschriben
                                                   werden, das er synethalb eigentliche nachfrag habe
                                                   unnd uff jnn spech<note type="editorial">
                                                   Nachforschung, Fahndung, Id. X, 76.</note> mache,
                                                   so er dann den schuldig findt, jnn nach luth der
                                                   mandaten straaffe.</p>
-                                                  <p>Actum mitwuchs den 5ten novembris a[nn]o 1600 p[raese]nt[ibus] herr<persName ref="Keller, Hans">burgermeister Keller</persName>(statthalter)
+                                                  <p>Actum mitwuchs den 5ten novembris a[nn]o 1600
+                                                  p[raese]nt[ibus] herr <persName ref="Keller, Hans">burgermeister
+                                                  Keller</persName> (statthalter)
                                                   unnd beid reth.</p>
                                                   </div>
     </body>

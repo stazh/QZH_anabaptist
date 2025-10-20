@@ -81,9 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Umb das<persName ref="Gut, Andres">Andreß Gůten</persName>von<placeName ref="Luneren">Lůnneren</placeName>wyb und
+      <div><p>Umb das <persName ref="Gut, Andres">Andreß Gůten</persName> von <placeName ref="Luneren">Lůnneren</placeName> wyb und
                                                   kind nitt zů kilchen gandt jnnhalt myner herren
-                                                  christenlichen satzungen, soll der vogt zů<placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Heinrich Meyer von
+                                                  christenlichen satzungen, soll der vogt zů
+                                                  <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Heinrich Meyer von
                                                   Knonau.</note> jnen stedts die bůßen nach
                                                   ußwyßung<note type="editorial"> Wortlaut, Inhalt,
                                                   Aussage, Id. XVI, 953.</note> deß mandaths

@@ -78,12 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hürzel<note type="editorial">
-                                                  Hirzel</note><placeName ref="Hirzel"/></p>
-                                                  <p>Daßelbst hatt bißhar ein Meylander<note type="editorial"><persName ref="Galleazo, Paulo">Paulo Galleazo</persName>, vgl. Nr. 292.</note>, so
+      <div><p><note type="editorial">
+                                                  Hirzel</note><placeName ref="Hirzel">Hürzel</placeName></p>
+                                                  <p>Daßelbst hatt bißhar ein Meylander<note type="editorial"> <persName ref="Galleazo, Paulo">Paulo Galleazo</persName>, vgl. Nr. 292.</note>, so
                                                   zů keiner kilchen gaht, die predicanten schücht
                                                   und ein widertöuffer sin sol, winterszit schůl
-                                                  gehalten. Diewyl dann derselb im gricht<placeName ref="Wädenswil">Wädischwyl</placeName>säßhafft,
+                                                  gehalten. Diewyl dann derselb im gricht
+                                                  <placeName ref="Wädenswil">Wädischwyl</placeName> säßhafft,
                                                   jst dise sach für<note type="editorial">
                                                   vor</note> unser herren gewisen, daß sy dem vogt
                                                   schribind und diser von der schůl abgeschaffet

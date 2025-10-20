@@ -80,9 +80,11 @@
     <body>
       <div><p>Unnseren günstigen, geneigten willen unnd alles
                                                   guts zůvor. Frommer, wyser, besonnders gethrüweer,
-                                                  lieber burger unnd vogt, wiewol unnser<note type="critical">Folgt gestrichen: burger
+                                                  lieber burger unnd vogt, wiewol <note type="critical">Folgt gestrichen: burger
                                                   und</note> vogt zů Gruͤningen<note type="editorial"> Heinrich
-                                                  Holzhalb</note><placeName ref="Grüningen"/>den unnseren<persName ref="Schnyder, Hans">Hannsen Schnyder</persName>, der schůmacher von<placeName ref="Rorbas">Rorbis</placeName>, von wegen der
+                                                  Holzhalb</note><placeName ref="Grüningen">unnser</placeName> den
+                                                  unnseren <persName ref="Schnyder, Hans">Hannsen Schnyder</persName>, der schůmacher von
+                                                  <placeName ref="Rorbas">Rorbis</placeName>, von wegen der
                                                   wider­toüf­feryg gfencklichen jnziechen und uff
                                                   unnser begeren nebent anderen<note type="critical">Folgt gestrichen: gfencklich</note> allher
                                                   geschickt, jst doch er, Schynder, uff der straaß
@@ -115,7 +117,7 @@
                                                   83</p>
                                                   <p rend="margin-top">Bürgermeister unnd rath der
                                                   statt Zürich.</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Kyburg">Kyburg</placeName></p>
+                                                  <p rend="margin-top">An vogt zů <placeName ref="Kyburg">Kyburg</placeName></p>
                                                   </div>
     </body>
   </text>

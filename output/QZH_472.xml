@@ -88,10 +88,19 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als jr, myn gnedig herrn, uff abhören<note type="critical">Nr. 12: abhörung</note> deß<placeName ref="Aarau">arouwischen</placeName>abscheidts
-                                                  hern statthalter Höggern<note type="editorial"><persName ref="Högger, Caspar">Caspar Högger</persName></note>, herrn landtvogt Tomman, herrn obman
+      <div><p>Als jr, myn gnedig herrn, <note type="critical">Nr. 12: abhörung</note> deß
+                                                  <placeName ref="Aarau">arouwischen</placeName> abscheidts
+                                                  hern statthalter Höggern<note type="editorial">
+                                                  <persName ref="Högger, Caspar">Caspar Högger</persName></note>, herrn landtvogt Tomman, herrn obman
                                                   Kellern<note type="editorial"> Hans Keller
-                                                  (1537-1601)</note><persName ref="Keller, Hans"/>, herrn<persName ref="Escher, Schultheiss">schuldtheiß Eschern</persName>unnd j[unker] Hanns<persName ref="Schmid, Hans Heinrich">Heinrich Schmiden</persName>von rethen unnd dann von glerthen herrn<persName ref="Lavater, Ludwig">Ludwig Lafatern</persName>, herrn Hanns<persName ref="Wick, Hans Jakob">Jacob Wicken</persName>, m[eister]<persName ref="Leemann, Burkhard">Burckharten Leeman</persName>, hern<persName ref="Körner, Rudolf">Růdolff Körnnern</persName>unnd herren Hanns<persName ref="Stumpf, Hans Rudolf">Růdolf Stumpfen</persName>verordnet, das sy mit
+                                                  (1537-1601)</note><persName ref="Keller, Hans">uff abhören</persName>,
+                                                  herrn <persName ref="Escher, Schultheiss">schuldtheiß Eschern</persName> unnd j[unker] Hanns
+                                                  <persName ref="Schmid, Hans Heinrich">Heinrich Schmiden</persName> von rethen unnd dann
+                                                  von glerthen herrn <persName ref="Lavater, Ludwig">Ludwig Lafatern</persName>, herrn Hanns <persName ref="Wick, Hans Jakob">Jacob
+                                                  Wicken</persName>,
+                                                  m[eister] <persName ref="Leemann, Burkhard">Burckharten Leeman</persName>, hern <persName ref="Körner, Rudolf">Růdolff
+                                                  Körnnern</persName> unnd
+                                                  herren Hanns <persName ref="Stumpf, Hans Rudolf">Růdolf Stumpfen</persName> verordnet, das sy mit
                                                   einanndern selbigen abscheid für sich nemmen
                                                   unnd<note type="critical">«einandern selbigen
                                                   abscheid für sich nemen und» am Rand und über der
@@ -154,7 +163,8 @@
                                                   beroubend ouch die kinnder | [fol. 3r] jrer
                                                   erbguͤtern, damit sy vil gůts uß dem lannd hinweg
                                                   ferggind<note type="editorial"> fortschaffen, Id.
-                                                  I, 1003.</note> unnd jrer gsellschafft jm lannd<placeName ref="Mähren">Meerhern</placeName>zůeignind, wie
+                                                  I, 1003.</note> unnd jrer gsellschafft jm lannd
+                                                  <placeName ref="Mähren">Meerhern</placeName> zůeignind, wie
                                                   glych ettliche, so durch jr faltsch anleitung sich
                                                   daselbshin begäben, zů jrem widerkher<note type="critical">Korrigiert («kher» über der
                                                   Zeile), ursprünglich: heimkunfft. Nr. 12: jrer
@@ -176,9 +186,10 @@
                                                   unnd gebürender masßen zůbegegnen, habent unnser
                                                   gnedig herrn, burgermeister, klein und groß<note type="critical">«klein und groß» über der Zeile,
                                                   in der Zeile gestrichen: unnd</note> rath der
-                                                  statt<placeName ref="Zürich">Zürich</placeName>, unnd jre
+                                                  statt <placeName ref="Zürich">Zürich</placeName>, unnd jre
                                                   getrüwen lieben eydtgnosßen und religions
-                                                  verwanndte, die dryg stett<placeName ref="Bern">Bern</placeName>,<placeName ref="Basel">Basell</placeName>unnd<placeName ref="Schaffhausen">Schaffhusen</placeName>,
+                                                  verwanndte, die dryg stett <placeName ref="Bern">Bern</placeName>, <placeName ref="Basel">Basell</placeName> unnd
+                                                  <placeName ref="Schaffhausen">Schaffhusen</placeName>,
                                                   hierumbe durch jre abgesandte sprach unnd
                                                   unnderred halten lasßen. Unnd nun uff heimbringung
                                                   derselbigen allersydts verordneten gůtachtens ouch
@@ -253,11 +264,11 @@
                                                   <p>Unnd wiewol unnser herrn die zythar die
                                                   jhennigen, so mit der ­toüf­feryg befleckt, mit
                                                   jrem hab unnd gůt uß jrer lanndtschafft fryg
-                                                  verfaren<note type="editorial"> fortziehen, Id. I,
+                                                  <note type="editorial"> fortziehen, Id. I,
                                                   898.</note> lasßen, sidtmaln<note type="editorial"> da, weil, Id. IV, 147.</note> aber
                                                   ougenschynlich sich erfindt, das wenn sy hinab jnn
                                                   Meerhern<note type="critical">Folgt gestrichen:
-                                                  kommend</note><placeName ref="Mähren"/> unnd
+                                                  kommend</note><placeName ref="Mähren">verfaren</placeName> unnd
                                                   aber<note type="critical">«aber» am Rand mit
                                                   Verweiszeichen</note> jnn berüwen kommend<note type="critical">«kommend» über der Zeile, in der
                                                   Zeile gestrichen: fallend</note>, wider dem
@@ -345,14 +356,17 @@
                                                   unnd gebiethen schlechts nit lyden nach<note type="editorial"> noch</note> dulden wellend.
                                                   Darnach wüße sich ein jeder zerichten.<note type="critical">Folgt: zu s.</note></p>
                                                   <p>| [fol. 5v] Hienebent wirt auch notwendig syn,
-                                                  das jr, min gnedig herren, by den üwern zů<placeName ref="Stein am Rhein">Stein</placeName>,<placeName ref="Eglisau">Eglisouw</placeName>,<placeName ref="Andelfingen">Anndelfingen</placeName>als an
+                                                  das jr, min gnedig herren, by den  
+                                                  <placeName ref="Stein am Rhein">Stein</placeName>,
+                                                  <placeName ref="Eglisau">Eglisouw</placeName>,
+                                                  <placeName ref="Andelfingen">Anndelfingen</placeName> als an
                                                   päsßen, ouch den beiden schiffferten<note type="editorial"> Fährdienst, Id. I, 1037f.</note>
                                                   zů Guͤtigkhußen<note type="editorial"> Gütighausen
                                                   hatte eine Fährverbindung über die
-                                                  Thur.</note><placeName ref="Gütighausen"/> unnd
+                                                  Thur.</note><placeName ref="Gütighausen">zů</placeName> unnd
                                                   Ruͤdlingen<note type="editorial"> Rüdlingen hatte
                                                   eine wichtige Fährverbindung über den
-                                                  Rhein.</note><placeName ref="Rüdlingen"/>, by den
+                                                  Rhein.</note><placeName ref="Rüdlingen">üwern</placeName>, by den
                                                   zollern unnd feeren verschaffen lasßind, das sy
                                                   dheinen ­toüf­fern den durchzug ald pasß
                                                   gestattind, sonnders<note type="critical">«sy

@@ -78,9 +78,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, vor unns sind erschinnen die unnseren<persName ref="Schaufelberg, Jakob">Jacob Schufelberg</persName>unnd<persName ref="Hess, Heinrich">Heinrich Heß</persName>unnd habent
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, vor unns sind erschinnen
+                                                   <persName ref="Schaufelberg, Jakob">Jacob Schufelberg</persName> unnd <persName ref="Hess, Heinrich">Heinrich
+                                                  Heß</persName> unnd habent
                                                   uns berichtet, wie<note type="critical">«wie» am
-                                                  Rand, in der Zeile gestrichen: nachdem</note>du uff unnsern bevelch dynes amptsangehörigen<persName ref="Egli, Ůli">Ůlj Egliß</persName>zů<placeName ref="Wald">Wald</placeName>gůt von syner ungehorsame und der
+                                                  Rand, in der Zeile gestrichen: nachdem</note> du
+                                                  uff unnsern bevelch dynes amptsangehörigen <persName ref="Egli, Ůli">Ůlj
+                                                  Egliß</persName> zů <placeName ref="Wald">Wald</placeName> gůt von syner ungehorsame und der
                                                   ­toüf­ferischen sect wegen, jnn deren er behafftet
                                                   jst, zů unnseren handen nemmen wellen, deßen aber
                                                   syne zweyg kind (welliche gehorsam und ze kilchen
@@ -100,7 +106,13 @@
                                                   personen unnd annderen ­toüf­feren ein underscheid
                                                   jst, so habent wir unnsern vorigen dir gegebnen
                                                   bevelch, syn (des Ůlj Egljß) halber umb etwas<note type="critical">«etwas» über der Zeile, in der
-                                                  Zeile gestrichen: so vil</note>gemilteret unnd khönnend den gehorsamen kinderen deß vaters gůt nit entzüchen, sonders laßend jnen, den kinden, dasselbig belyben. Doch solt du umbs syn (Egliß) bißhar erzeigten unghorsamme willen ein zimbliche bůß zů unnseren handen von dem gůt nemmen unnd dann<persName ref="Egli, Ůli">jme, Ůlj</persName>, durch
+                                                  Zeile gestrichen: so vil</note> gemilteret unnd
+                                                  khönnend den gehorsamen kinderen deß vaters gůt
+                                                  nit entzüchen, sonders laßend jnen, den kinden,
+                                                  dasselbig belyben. Doch solt du umbs syn (Egliß)
+                                                  bißhar erzeigten unghorsamme willen ein zimbliche
+                                                  bůß zů unnseren handen von dem gůt nemmen unnd
+                                                  dann jme, Ůlj<persName ref="Egli, Ůli">die unnseren</persName>, durch
                                                   die synen oder sontst anzeigen laßen, wir
                                                   versehind<note type="editorial"> erwarten, Id.
                                                   VII, 567.</note> unns, er werde sich eins anndern
@@ -119,7 +131,8 @@
                                                   1605.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
                                                   Eich.</p>
                                                   </div>
     </body>

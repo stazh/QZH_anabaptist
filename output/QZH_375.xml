@@ -81,10 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu<placeName ref="Knonau">Knonouw</placeName>schryben: […].<note type="editorial"> Bestättigung
+      <div><p>Vogt zu <placeName ref="Knonau">Knonouw</placeName>
+                                                  schryben: […].<note type="editorial"> Bestättigung
                                                   seiner Vollmacht, die Friedbrüchigen im Kelleramt
                                                   zu strafen, und Weisung, die heilkundige Müllerin
-                                                  im Loo zu beobachten.</note>Uff<persName ref="Gut, Andres">Andereß Guttenn</persName>zu<placeName ref="Zwillikon">Zwillicken</placeName>, den
+                                                  im Loo zu beobachten.</note> Uff <persName ref="Gut, Andres">Andereß
+                                                  Guttenn</persName> zu
+                                                  <placeName ref="Zwillikon">Zwillicken</placeName>, den
                                                   touffer, sol er syn spech<note type="editorial">
                                                   Fahndung, Id. X, 76.</note> machenn und jnn alhar
                                                   fürenn laßen.</p>

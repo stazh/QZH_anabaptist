@@ -80,14 +80,14 @@
     <body>
       <div><p>Unnsern frünndtlichen willen und alles gůts
                                                   zůvor. Gestrenger und vester, besonnders getrüwer,
-                                                  lieber landtvogt. Der unser Hanns Müller<note type="critical">Folgt gestrichen:
-                                                  z</note><persName ref="Müller, Hans"/>, schůmacher
-                                                  zů<placeName ref="Birmensdorf">Birmenstorff</placeName>,
+                                                  lieber landtvogt.  <note type="critical">Folgt gestrichen:
+                                                  z</note><persName ref="Müller, Hans">Hanns Müller</persName>, schůmacher
+                                                  zů <placeName ref="Birmensdorf">Birmenstorff</placeName>,
                                                   hatt unns zů erkhennen geben, nachdem er vor
                                                   etwas<note type="critical">Folgt gestrichen:
                                                   verkert</note> verruckter zyt synen vogt son Ulj
                                                   Joßen<note type="critical">Folgt gestrichen:
-                                                  von</note><persName ref="Jos, Uli"/>, ouch von
+                                                  von</note><persName ref="Jos, Uli">Der unser</persName>, ouch von
                                                   Birmenstorff, synem erlerneten küblerhandtwerchs
                                                   an die frömbde wandels wyße ußgeschickt<note type="critical">Folgt gestrichen: unnd</note>,
                                                   wellist du jetz<note type="critical">korrigiert,
@@ -96,13 +96,15 @@
                                                   mit Verweiszeichen</note> umb das derselbig Ůlj
                                                   Joß gegen dir, sam<note type="editorial"> wie, Id.
                                                   VII, 902.</note> er sich jnn die verfuͤrische
-                                                  ­toüf­ferische sect jnn das land<placeName ref="Mähren">Meerheren</placeName>ergeben,
+                                                  ­toüf­ferische sect jnn das land
+                                                  <placeName ref="Mähren">Meerheren</placeName> ergeben,
                                                   verleidet<note type="editorial"> verzeigen,
                                                   angeben, Id. III, 1086f.</note>, die einhundert
                                                   guldin<note type="critical">«guldin» unter der
                                                   Zeile</note>, so er by<note type="critical">«by»
                                                   über der Zeile, in der Zeile gestrichen:
-                                                  uff</note><persName ref="Lips, N.">den Lippsen</persName>jm Rebstäl<note type="editorial">
+                                                  uff</note> <persName ref="Lips, N.">den Lippsen</persName>
+                                                  jm Rebstäl<note type="editorial">
                                                   Reppischtal</note> umb zinß uff guͤtern daselbs
                                                   und anderschwo<note type="critical">«uff guͤtern
                                                   daselbs und anderschwo» am Rand mit
@@ -113,7 +115,9 @@
                                                   hocher oberkeit hatt</note>, als verwürckt<note type="critical">Folgt gestrichen: zů dinen</note>
                                                   zů<note type="critical">Folgt gestrichen:
                                                   handen</note> der acht<note type="critical">Folgt
-                                                  gestrichen: ordten</note> landtgraffschafft<placeName ref="Baden (Grafschaft)">Baden</placeName>regierenden ordten handen zů bezüchen understaan
+                                                  gestrichen: ordten</note> landtgraffschafft
+                                                  <placeName ref="Baden (Grafschaft)">Baden</placeName>
+                                                  regierenden ordten handen zů bezüchen understaan
                                                   etc., da er nun jnn vögtlicher wyß<note type="critical">Folgt gestrichen: […] (nicht
                                                   lesbar)</note>, weß er sich halten sölle, unsers
                                                   bscheids<note type="critical">Folgt gestrichen:
@@ -163,7 +167,7 @@
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem<note type="critical">Folgt gestrichen: fr</note> gestrenngen und<note type="critical">«und» über der Zeile</note>
                                                   vesten, unserem besonders gethrüwenn, lieben
-                                                  landtvogt zů<placeName ref="Baden">Baden</placeName>jnn
+                                                  landtvogt zů <placeName ref="Baden">Baden</placeName> jnn
                                                   Ergöw, Fridlin Häßj, riter unnd deß raths zů
                                                   Glaruß.</p>
                                                   </div>

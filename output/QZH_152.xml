@@ -82,7 +82,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Burgermeister und rath der satt Zürich. Unnsernn früntlichen willenn und alles gůts zůvor. Frommer unnd wyser, insonders lieber, getrüwer burger unnd vogt, als dann<persName ref="Schmid, Heinrich">Heinrich Schmid</persName>von<placeName ref="Kloten">Clotenn</placeName><persName ref="Walter, Cathrina">unnd Trina</persName>sin
+      <div><p>Burgermeister und rath der satt Zürich.
+                                                  Unnsernn früntlichen willenn und alles gůts zůvor.
+                                                  Frommer unnd wyser, insonders lieber, getrüwer
+                                                  burger unnd vogt, als dann <persName ref="Schmid, Heinrich">Heinrich
+                                                  Schmid</persName> von
+                                                  <placeName ref="Kloten">Clotenn</placeName> <persName ref="Walter, Cathrina">unnd
+                                                  Trina</persName> sin
                                                   husfrow desswegenn, dass sy sich der verjrrthenn
                                                   sect der wider­toüf­fery wider unsere mandata,
                                                   desshalb ussggangenn, underzogenn, jnn unser
@@ -125,11 +131,12 @@
                                                   vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
                                                   (Frühneuhochdeutsches Wörterbuch).</note>
                                                   früntlich umb dich jnn geneigtem gunst
-                                                  zeerkennenn. Uss<placeName ref="Zürich">Zürich</placeName><bm id="20"/>, zinstags nach mitfasten anno
+                                                  zeerkennenn. Uss <placeName ref="Zürich">Zürich</placeName><bm id="20"/>, zinstags nach mitfasten anno
                                                   mv<sup>c</sup> xxxij.</p>
                                                   <p rend="margin-top">Dem frommen unnd wysenn,
                                                   unserm jnsonders liebenn, gethrüwenn burger unnd
-                                                  vogt zů<placeName ref="Kyburg">Kyburg</placeName>Hans<persName ref="Lavater, Hans Rudolf">Růdolff Lafatern</persName>.</p>
+                                                  vogt zů <placeName ref="Kyburg">Kyburg</placeName> Hans
+                                                  <persName ref="Lavater, Hans Rudolf">Růdolff Lafatern</persName>.</p>
                                                   </div>
     </body>
     <back>

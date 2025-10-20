@@ -78,7 +78,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnseren günstigen geneigten willenn unnd alleß guts zuvor. Fromer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, wir sinnd gloublich bericht, wie daß<persName ref="Willi, Jagli">Jaglj Willj</persName>, dynn ampßangehöriger, so der
+      <div><p>Unnseren günstigen geneigten willenn unnd alleß
+                                                  guts zuvor. Fromer, wyser, besonnderß gethrüwer,
+                                                  lieber burger unnd vogt, wir sinnd gloublich
+                                                  bericht, wie daß <persName ref="Willi, Jagli">Jaglj Willj</persName>, dynn ampßangehöriger, so der
                                                   jrrigenn unnd verfürischenn sect der ­toüf­feryg
                                                   gar ergeben unnd die unnseren allenthalben, wo er
                                                   die betreten<note type="editorial"> antreffen,
@@ -126,11 +129,22 @@
                                                   <p rend="margin-top">Burgermeister unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem fromen, wysenn, unnserem
-                                                  besonnderß gethrüwen, lieben burger unnd vogt zu<placeName ref="Wädenswil">Wedeschwyl</placeName>Cunrathen
+                                                  besonnderß gethrüwen, lieben burger unnd vogt zu
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName> Cunrathen
                                                   Großmann.</p>
-                                                  <p rend="margin-top">Glychß ann<placeName ref="Grüningen">Grüningen</placeName>, annders daß der ­toüf­fer heißt<persName ref="Ballus, Jos">Joßt Balluß</persName>, diener jm<placeName ref="Fischenthal">Fischenthal</placeName>, hatt
-                                                  aber wyb unnd kinnd jnn<placeName ref="Mähren">Merherenn</placeName>.</p>
-                                                  <p>Den annderen artickel alein gan<placeName ref="Kyburg">Kyburg</placeName>,<placeName ref="Eglisau">Eglisouw</placeName>,<placeName ref="Andelfingen">Anndelfingen</placeName>,<placeName ref="Greifensee">Gryffensee</placeName>,<placeName ref="Regensberg">Regennsperg</placeName>,<placeName ref="Knonau">Knonouw</placeName>unnd<placeName ref="Laufen">Lauffenn</placeName>.</p>
+                                                  <p rend="margin-top">Glychß ann
+                                                  <placeName ref="Grüningen">Grüningen</placeName>, annders daß
+                                                  der ­toüf­fer heißt <persName ref="Ballus, Jos">Joßt Balluß</persName>, diener jm
+                                                  <placeName ref="Fischenthal">Fischenthal</placeName>, hatt
+                                                  aber wyb unnd kinnd jnn <placeName ref="Mähren">Merherenn</placeName>.</p>
+                                                  <p>Den annderen artickel alein gan
+                                                  <placeName ref="Kyburg">Kyburg</placeName>,
+                                                  <placeName ref="Eglisau">Eglisouw</placeName>,
+                                                  <placeName ref="Andelfingen">Anndelfingen</placeName>,
+                                                  <placeName ref="Greifensee">Gryffensee</placeName>,
+                                                  <placeName ref="Regensberg">Regennsperg</placeName>,
+                                                  <placeName ref="Knonau">Knonouw</placeName> unnd
+                                                  <placeName ref="Laufen">Lauffenn</placeName>.</p>
                                                   </div>
     </body>
   </text>

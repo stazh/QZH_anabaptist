@@ -81,11 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Rützensdorfer, Heinrich">Uff Ruͤtzenstorffers</persName><bm id="181"/> deß
+      <div><p>Uff Ruͤ<persName ref="Rützensdorfer, Heinrich"/><bm id="181"/> deß
                                                   glaßers schrifftliche bitt jst jme bewilliget, das
                                                   jme (als der sich sambt wyb und kinden uff den hof
                                                   Waldhußen<note type="editorial"> Weiler in der
-                                                  Gemeinde Fisibach</note><placeName ref="Fisibach, Waldhusen"/> by<placeName ref="Kaiserstuhl">Keyßerstůl</placeName>hußhablich gesetzt) der kernen- unnd geltzinnß von
+                                                  Gemeinde Fisibach</note><placeName ref="Fisibach, Waldhusen">tzenstorffers</placeName> by
+                                                  <placeName ref="Kaiserstuhl">Keyßerstůl</placeName>
+                                                  hußhablich gesetzt) der kernen- unnd geltzinnß von
                                                   synem gůt jerlichen gevolgen, doch das houptgůt
                                                   uff jnne und syne kind warttende fürer<note type="editorial"> weiter</note> alhie belyben
                                                   liggen, ouch der <nswk/> wyn, so an synen räben

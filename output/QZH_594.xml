@@ -78,8 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, vester, besonders gethrüwer, lieber burger unnd vogt, alsdann vor etwas zyt dyn amptsangehöriger<persName ref="Schnyder, Heinrich">Heinrich Schnyder</persName>von<placeName ref="Hutzikon">Hützicken</placeName>sambt syner eefrouwen<persName ref="Mantz, Regula">Regula Mantzin</persName>unnd kinden
-                                                  jnn das Landt<placeName ref="Mähren">Merrhern</placeName>hinweg gezogen, volgents nach etlichen wuchen
+      <div><p>Unsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, vester, besonders gethrüwer,
+                                                  lieber burger unnd vogt, alsdann vor etwas zyt dyn
+                                                  amptsangehöriger <persName ref="Schnyder, Heinrich">Heinrich Schnyder</persName> von <placeName ref="Hutzikon">Hützicken</placeName> sambt syner eefrouwen <persName ref="Mantz, Regula">Regula
+                                                  Mantzin</persName> unnd kinden
+                                                  jnn das Landt <placeName ref="Mähren">Merrhern</placeName>
+                                                  hinweg gezogen, volgents nach etlichen wuchen
                                                   wider ufhin khommen mitt fürgäben<note type="editorial"> Aussage, Id. II, 90.</note>, das
                                                   bemelte syn eefrouw<note type="critical">Folgt
                                                   gestrichen: jnn</note> daniden mitt tod abgangen
@@ -122,7 +127,8 @@
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, vesten, unnserm
-                                                  besonnders gethrüwen, lieben burger unnd vogt zů<placeName ref="Greifensee">Gryffensee</placeName>Jeörgen
+                                                  besonnders gethrüwen, lieben burger unnd vogt zů
+                                                  <placeName ref="Greifensee">Gryffensee</placeName> Jeörgen
                                                   Rublj.</p>
                                                   </div>
     </body>

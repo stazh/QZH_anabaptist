@@ -78,12 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Niderbercken<note type="editorial">
-                                                  Berikon</note><placeName ref="Berikon"/> jnn der
-                                                  graffschafft<placeName ref="Baden (Grafschaft)">Baden</placeName>für huß, boumgarten und
+      <div><p><note type="editorial">
+                                                  Berikon</note><placeName ref="Berikon">Niderbercken</placeName> jnn der
+                                                  graffschafft <placeName ref="Baden (Grafschaft)">Baden</placeName> für huß, boumgarten und
                                                   allen hinderlaßnen hußrath 200 müntz gulden, thůt
                                                   100 kronen.</p>
-                                                  <p>Oberbercken und<placeName ref="Oberwil">Oberwyl</placeName>jnn mynen herren hocher oberkeit an 3
+                                                  <p>Oberbercken und <placeName ref="Oberwil">Oberwyl</placeName> jnn mynen herren hocher oberkeit an 3
                                                   posten<note type="critical"><hi rend="italic">3
                                                   posten</hi> über der Zeile; in der Zeile
                                                   gestrichen: zwegs; in der nächsten Zeile folgt:
@@ -92,44 +92,46 @@
                                                   kronen.</p>
                                                   <p>Suma: 780 müntz gulden.</p>
                                                   <p>Er ist dargegen schuldig 60<note type="critical">Lesung unsicher</note> gulden.</p>
-                                                  <p rend="margin-top"><persName ref="Brunner, Hans">Hans Brunners</persName>gůt, so by 18 jars alt und
+                                                  <p rend="margin-top"><persName ref="Brunner, Hans">Hans Brunners</persName> gůt, so by 18 jars alt und
                                                   synen zweygen gschwüstergiten gůt</p>
                                                   <p>Züricher oberkeit 900 müntz gulden, zalt sich
                                                   jnn 15 jars an zinß jedes jars mit 60 gulden jnn
                                                   müntz</p>
-                                                  <p>50 gulden zů<placeName ref="Sellenbüren">Sellenburen</placeName>, Weltj Meyer<note type="critical">Folgt eine
-                                                  Wortstreichung</note>.<persName ref="Meyer, Walti"/></p>
-                                                  <p>36 gulden müntz,<persName ref="Grad, Klaus">Clauß Grad</persName>, Oberbercken<note type="editorial"> Berikon</note>.</p>
-                                                  <p>40 gulden müntz für 20 kronen, Ulj Bällins<note type="editorial"> Vermutlich Ůli
-                                                  Bäliger</note><persName ref="Bäliger, Ůli"/>,
+                                                  <p>50  <placeName ref="Sellenbüren">gulden</placeName>, Weltj Meyer<note type="critical">Folgt eine
+                                                  Wortstreichung</note>.<persName ref="Meyer, Walti">zů Sellenburen</persName></p>
+                                                  <p>36 gulden müntz, <persName ref="Grad, Klaus">Clauß Grad</persName>, Oberbercken<note type="editorial"> Berikon</note>.</p>
+                                                  <p>40 gulden müntz für 20 kronen, <note type="editorial"> Vermutlich Ůli
+                                                  Bäliger</note><persName ref="Bäliger, Ůli">Ulj Bällins</persName>,
                                                   Oberbercken.</p>
-                                                  <p>52 gulden müntz für 26 kronen,<persName ref="Gehrig, Michel">Michel Gerig</persName>, daselbs zů
+                                                  <p>52 gulden müntz für 26 kronen, <persName ref="Gehrig, Michel">Michel
+                                                  Gerig</persName>, daselbs zů
                                                   Oberbercken<note type="critical">Folgt gestrichen:
                                                   N. 50 gulden, Růdistetten</note>.</p>
                                                   <p>2 tagwen<note type="editorial"> Landmass, Id.
                                                   XVI, 33.</note> reben zů Oberwyl.</p>
-                                                  <p>50 gulden, Hůsen by<placeName ref="Lunkofen">Lungkhofen.</placeName></p>
+                                                  <p>50 gulden, Hůsen by Lungkhofen.<placeName ref="Lunkofen"/></p>
                                                   <p rend="margin-top">Summa: 1128 gulden on die 2
                                                   tagwen reben. Bringt zů end 3. teyl 376
                                                   gulden.</p>
                                                   <p rend="margin-top">Graffschafft Baden:</p>
-                                                  <p>100 gulden an zinß<persName ref="Venner, N.">undervogt Venner</persName>zů Niderberken<note type="critical">Folgt gestrichen: 100 gulden an
+                                                  <p>100 gulden an zinß <persName ref="Venner, N.">undervogt Venner</persName> zů Niderberken<note type="critical">Folgt gestrichen: 100 gulden an
                                                   zinß undervogt Venner zů Niderbercken</note>.</p>
                                                   <p>52 gulden müntz für 26 kronen, Lütj us
                                                   Wyden.</p>
-                                                  <p>100 gulden,<persName ref="Gehrig, Junghans">Junghans Gering</persName>, Niderbercken<note type="critical">Folgt gestrichen: 50 gulden
-                                                  Füglistal zů Hůßen eyn […]</note><placeName ref="Berikon">.</placeName></p>
-                                                  <p>100 gulden,<persName ref="Hug, Junghans">Junghans Hůg</persName>zů Růdistetten<note type="editorial"> Rudolfstetten</note><placeName ref="Rudolfstetten">.</placeName></p>
-                                                  <p>100<persName ref="Hindermann, N.">gulden, Hindermanen</persName>, Wynigen<note type="editorial"> Weiningen</note><placeName ref="Weiningen">.</placeName></p>
+                                                  <p>100 gulden, <persName ref="Gehrig, Junghans">Junghans Gering</persName>, Niderbercken<note type="critical">Folgt gestrichen: 50 gulden
+                                                  Füglistal zů Hůßen eyn […]</note>.<placeName ref="Berikon"/></p>
+                                                  <p>100 gulden, <persName ref="Hug, Junghans">Junghans Hůg</persName> zů Růdistetten<note type="editorial"> Rudolfstetten</note>.<placeName ref="Rudolfstetten"/></p>
+                                                  <p>100 gulden, <persName ref="Hindermann, N."/>, Wynigen<note type="editorial"> Weiningen</note>.<placeName ref="Weiningen">Hindermanen</placeName></p>
                                                   <p>50 gulden, ouch zů Ruderstetten.</p>
                                                   <p>[Summa:] 502 gulden.</p>
                                                   <p rend="margin-top">Frygamt:</p>
-                                                  <p>100 gulden an zinß, Jacob Bruner<note type="critical">Folgt in der nächsten Zeile
-                                                  gestrichen: Wie[…]</note><persName ref="Brunner, Jakob"/> zů Wallenwyl<note type="editorial"> Gemeint ist
+                                                  <p>100 gulden an zinß, <note type="critical">Folgt in der nächsten Zeile
+                                                  gestrichen: Wie[…]</note><persName ref="Brunner, Jakob">Jacob Bruner</persName> zů Wallenwyl<note type="editorial"> Gemeint ist
                                                   Wallenschwil.</note><placeName ref="Wallenschwil"/> ob Mury.</p>
-                                                  <p>46 gulden müntz für 23<persName ref="Bräm (von Besenbüren)">kronen, Bräm</persName>zů Bäßenbüren by
+                                                  <p>46 gulden müntz für 23 kronen, Bräm<persName ref="Bräm (von Besenbüren)"/> zů Bäßenbüren by
                                                   Mury.</p>
-                                                  <p>48 gulden müntz für 24<persName ref="Schmid (von Rüti)">kronen, Schmid</persName>zů Rüty by<placeName ref="Hägglingen, Rüti">Häglingen</placeName>.</p>
+                                                  <p>48 gulden müntz für 24 kronen, Schmid<persName ref="Schmid (von Rüti)"/> zů Rüty by
+                                                  <placeName ref="Hägglingen, Rüti">Häglingen</placeName>.</p>
                                                   <p>[Summa:] 194 gulden<note type="critical">Am
                                                   Rand: […] 232 gulden</note>.</p>
                                                   <p rend="margin-top">Summa 1823 müntz gulden, on
@@ -140,7 +142,8 @@
                                                   gulden, 5 costentzer b[at]z[en].</p>
                                                   <p rend="margin-top">Uberall […]<note type="critical">Lesung unmöglich</note> von Zürich
                                                   gebieth 656 gulden an die reben.</p>
-                                                  <p><placeName ref="Baden">Baden</placeName>und<placeName ref="Freiamt">Frygenampt</placeName>432
+                                                  <p><placeName ref="Baden">Baden</placeName> und
+                                                  <placeName ref="Freiamt">Frygenampt</placeName> 432
                                                   gulden<note type="critical">Am Rand gestrichen:
                                                   [summa] 988 gulden</note>.</p>
                                                   <p rend="margin-top">Summarum deß gantzen gůt jnn

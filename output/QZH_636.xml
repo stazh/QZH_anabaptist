@@ -78,10 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Wolgelehrter, ehrsammer, besonders gethrüwer, lieber burger, unnser geliebter burgermeister herr<persName ref="Keller, Hans">Johann Keller</persName><bm id="211"/> hatt unns üwer
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Wolgelehrter, ehrsammer, besonders
+                                                  gethrüwer, lieber burger, unnser geliebter
+                                                  burgermeister herr <persName ref="Keller, Hans">Johann Keller</persName><bm id="211"/> hatt unns üwer
                                                   an jnne gethaan schryben bericht unnd verzeichnuß
                                                   der ­toüf­ferischen personen halber, so hin unnd
-                                                  her jnn unnser herrschafft<placeName ref="Mähren">Knonouw</placeName>geseßen sind, verhören laßen. Da
+                                                  her jnn unnser herrschafft <placeName ref="Mähren">Knonouw</placeName> geseßen sind, verhören laßen. Da
                                                   wir hetten lyden mögen, das unns söllicher bericht
                                                   uff den jnn jüngst gehaltnem synodo gethannen
                                                   anzug unnd bevelch etwas ehe von üch unnd üweren
@@ -96,7 +99,7 @@
                                                   Rand</note> unnserm vogte zu Knonouw ein
                                                   erntstlich mandat zůschickend mitt bevelch,
                                                   dasselbig uff nechts khünfftigen sontag jnn allen
-                                                  nün kilchen deß<placeName ref="Freiamt">Frygampts</placeName>offentlich verläßen zelaßen, wie jr das mandat
+                                                  nün kilchen deß <placeName ref="Freiamt">Frygampts</placeName> offentlich verläßen zelaßen, wie jr das mandat
                                                   selbs auch empfachen und läßend werdent. Deßen wir
                                                   üch hiemit<note type="critical">Folgt gestrichen:
                                                   zů</note> berichten<note type="critical">Folgt
@@ -129,8 +132,9 @@
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem wolgelehrten ehrsammen,
                                                   unnserm besonnders gethrüwen, lieben burger herr
-                                                  Johannßen Blunschlj, pfarrer zů<placeName ref="Ottenbach">Ottenbach</placeName>unnd dechan
-                                                  deß capitels jm<placeName ref="Freiamt">Fryampt</placeName>.</p>
+                                                  Johannßen Blunschlj, pfarrer zů
+                                                  <placeName ref="Ottenbach">Ottenbach</placeName> unnd dechan
+                                                  deß capitels jm <placeName ref="Freiamt">Fryampt</placeName>.</p>
                                                   </div>
     </body>
   </text>

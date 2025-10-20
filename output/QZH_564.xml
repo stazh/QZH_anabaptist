@@ -81,9 +81,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Umb das<persName ref="Suter, Hans">Hans Suter</persName>von<placeName ref="Horgen">Horgen</placeName>sich syner
+      <div><p>Umb das <persName ref="Suter, Hans">Hans Suter</persName>
+                                                  von <placeName ref="Horgen">Horgen</placeName> sich syner
                                                   husfrouwen ungehorsame kilchgangs anerforderete
-                                                  bůß mit bößen worten verweigeret, soll er jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>gelegt und nit ußgelasßen werden, er habe dann
+                                                  bůß mit bößen worten verweigeret, soll er jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  gelegt und nit ußgelasßen werden, er habe dann
                                                   zevor x pfund<note type="critical">In der Vorlage:
                                                   lb</note> zebůß erlegt.</p>
                                                   </div>

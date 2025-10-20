@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Burgermeyster unnd rath der statt<placeName ref="Zürich">Zürich</placeName>. Unnsern grůs
+      <div><p>Burgermeyster unnd rath  <placeName ref="Zürich">der</placeName>. Unnsern grůs
                                                   zůvor. Lieber unnd gethrüwer unndervogt, du
                                                   findst<note type="critical">«findst» über der
                                                   Zeile, in der Zeile gestrichen: findsch</note>
@@ -97,7 +97,8 @@
                                                   dz du angends<note type="editorial"> sofort, Id.
                                                   II, 19.</note> unnd on allen wytteren verzug
                                                   söllich bůßen ynzüchen unnd vogt Lafatern<note type="editorial"> Hans Rudolf
-                                                  Lavater</note><persName ref="Lavater, Hans Rudolf"/> behandigen wellist, damit wir deren
+                                                  Lavater</note><persName ref="Lavater, Hans Rudolf">statt
+                                                  Zürich</persName> behandigen wellist, damit wir deren
                                                   vernuͤgt<note type="editorial"> zufriedenstellen,
                                                   Id. IV, 701.</note> werdint. Dann söltestu
                                                   sollichs lenger understan uffzeziechen<note type="editorial"> aufschieben, verschleppen, Id.
@@ -126,8 +127,7 @@
                                                   damit wir dest kommenlicher<note type="editorial">
                                                   passend, gelegen, Id. III, 285.</note> allwägen
                                                   ynn den sachen handlen mögint.</p>
-                                                  <p>Unnd ob dir der thoüffern ettlich, wer
-                                                  joch<note type="editorial"> auch</note>
+                                                  <p>Unnd ob dir der thoüffern ettlich, <note type="editorial"> auch</note>
                                                   <note type="critical">Folgt gestrichen:
                                                   dich</note> die werind, jn andere unnsere
                                                   herrschafften, gericht unnd gebiette, wie ald<note type="editorial"> oder</note> wo dz were,
@@ -149,7 +149,8 @@
                                                   straffswyß handlen, das du wölltest uns gehorsam
                                                   gewesen sin. Unnd diewyl Martin<note type="critical">«Martin» über der Zeile, in der
                                                   Zeile gestrichen: Martj</note>
-                                                  Gyrspergers<persName ref="Girsberger, Marin"/>
+                                                  Gyrspergers<persName ref="Girsberger, Marin">wer
+                                                  joch</persName>
                                                   handlung, als er die roßs gehowen hat, das
                                                   malefitz<note type="editorial"> dem Hochgericht
                                                   verfallen, Id. IV, 167.</note> belangen wil, jst
@@ -171,11 +172,12 @@
                                                   zů grosßer verachtung» am Rand mit
                                                   Verweiszeichen</note> beharren, wurdest du des
                                                   gewüßlich höcher entgälten, dann du selbs gelouben
-                                                  magst. Darnach wüße dich zerichten. Uß<placeName ref="Zürich">Zürich</placeName>, mitwuchs nach
+                                                  magst. Darnach wüße dich zerichten. Uß
+                                                  <placeName ref="Zürich">Zürich</placeName>, mitwuchs nach
                                                   sanct Verenen tag anno etc. 1539.<note type="critical">Folgt darunter: Bůsßen
                                                   etc.</note></p>
                                                   <p rend="margin-top">Unnserem lieben unnd
-                                                  gethrüwen unndervogt zů<placeName ref="Stammheim">Stamheym</placeName>[…]<note type="critical">Spatium</note> Wäpfer<persName ref="Wäpfer, N."/>.</p>
+                                                  gethrüwen  <placeName ref="Stammheim">unndervogt</placeName> […]<note type="critical">Spatium</note> Wäpfer<persName ref="Wäpfer, N.">zů Stamheym</persName>.</p>
                                                   </div>
     </body>
   </text>

@@ -81,10 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu Grüningen<note type="editorial">Hans<persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note><placeName ref="Grüningen"/>soll<persName ref="Leutenegger, Jörg">Jörgen Luttenegger</persName>, den<note type="critical">«Lüttenegger den» am Rand, in der
+      <div><p>Vogt zu <note type="editorial"> Hans
+                                                  <persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note><placeName ref="Grüningen">Grüningen</placeName> soll <persName ref="Leutenegger, Jörg">Jörgen Luttenegger</persName>, den<note type="critical">«Lüttenegger den» am Rand, in der
                                                   Zeile gestrichen: Otten</note> müller, den
-                                                  wider­toüf­fer ußem<placeName ref="Thurgau">Turgouw</placeName>, so sich jetzo uff<placeName ref="Hinwil, Orn">Orn</placeName>endthalten<note type="editorial"> sich aufhalten, wohnen, Id. II,
-                                                  1230.</note>soll, und<persName ref="Bertschinger, Hans">Heynne Bertschickern</persName>jm<placeName ref="Fischenthal">Vischenthal</placeName>als
+                                                  wider­toüf­fer ußem <placeName ref="Thurgau">Turgouw</placeName>, so sich jetzo uff <placeName ref="Hinwil, Orn">Orn</placeName> endthalten<note type="editorial"> sich aufhalten, wohnen, Id. II,
+                                                  1230.</note> soll, und <persName ref="Bertschinger, Hans">Heynne
+                                                  Bertschickern</persName>
+                                                  jm <placeName ref="Fischenthal">Vischenthal</placeName> als
                                                   rechte ufrüerer gefengclichen jnnzüchen laßen unnd
                                                   mynen h[erre]n zůschicken.</p>
                                                   </div>

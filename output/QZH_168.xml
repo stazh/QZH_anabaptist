@@ -79,9 +79,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Min gantz undertenig guͤtwillig tienst zuͤfor. Gnedig min heren, uwer schriben betreffend<persName ref="Schmid, N.">den Schmid</persName>ussem
+      <div><p>Min gantz undertenig guͤtwillig tienst zuͤfor.
+                                                  Gnedig min heren,   <persName ref="Schmid, N.">den
+                                                  Schmid</persName> ussem
                                                   Vischental<note type="editorial">
-                                                  Fischenthal</note><placeName ref="Fischenthal"/>
+                                                  Fischenthal</note><placeName ref="Fischenthal">uwer</placeName>
                                                   sines ungschikten singens und rimes, och das er
                                                   den arbatzelgen<note type="editorial">
                                                   arbeitselig, elend, verkommen, Id. I, 424.</note>
@@ -110,7 +112,7 @@
                                                   heren, gestraft sye worden. Und als ir, min heren,
                                                   mir in uwrem schriben befolen, ze erkenen, ob
                                                   juncker Erhart Plarer<note type="editorial">
-                                                  Erhard Blarer von Wartensee</note><persName ref="Blarer von Wartensee, Erhard."/> ein sun ze
+                                                  Erhard Blarer von Wartensee</note><persName ref="Blarer von Wartensee, Erhard.">schriben betreffend</persName> ein sun ze
                                                   Pfefers<note type="editorial"> Pfäfers, wo das
                                                   dortige Benediktinerkloster die Grundherrschaft
                                                   hatte.</note><placeName ref="Pfäfers"/> im kloster
@@ -121,10 +123,11 @@
                                                   nutz von erkenen noch vinden. Hiemit bewar uch der
                                                   almechtig got in sinem heilsamen friden. Datum uff
                                                   martiny jm xxxvj.</p>
-                                                  <p rend="margin-top"><persName ref="Bleuler, Hans">Hans Bluwler</persName>uwer altzit guͤtwilliger
-                                                  underteniger diener zuͤ<placeName ref="Grüningen">Gruͤningen</placeName></p>
+                                                  <p rend="margin-top"><persName ref="Bleuler, Hans">Hans Bluwler</persName> uwer altzit guͤtwilliger
+                                                  underteniger diener zuͤ Gruͤ<placeName ref="Grüningen">ningen</placeName></p>
                                                   <p rend="margin-top">Den fromen, vesten, ersamen
-                                                  und wisen burgermeister und rat der stat<placeName ref="Zürich">Zurich</placeName>, minen gnedigen
+                                                  und wisen burgermeister und rat der stat
+                                                  <placeName ref="Zürich">Zurich</placeName>, minen gnedigen
                                                   lieben heren.</p>
                                                   </div>
     </body>

@@ -78,8 +78,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gutß zuvor. Fromer, wyser, besonnders gethrüwer, lieber burger und vogt, wir habent uß dynnen uns uberschickten rechnungen, wellicher massen<persName ref="Häuptli, Hans">Hannsen Höuptlis</persName>unnd<persName ref="Scheller, Hans">Hannsen Schellers</persName>beider widerthoüffern, so sich<note type="critical">«sich» über der Zeile</note> jnn
-                                                  dz land<placeName ref="Mähren">Merhern</placeName>begeben<note type="critical">Folgt gestrichen:
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gutß zuvor. Fromer, wyser, besonnders gethrüwer,
+                                                  lieber burger und vogt, wir habent uß dynnen uns
+                                                  uberschickten rechnungen,  <persName ref="Häuptli, Hans">Hannsen
+                                                  Höuptlis</persName> unnd
+                                                  <persName ref="Scheller, Hans">Hannsen Schellers</persName>
+                                                  beider widerthoüffern, so sich<note type="critical">«sich» über der Zeile</note> jnn
+                                                  dz land <placeName ref="Mähren">Merhern</placeName>
+                                                  begeben<note type="critical">Folgt gestrichen:
                                                   z</note>, sachen zytlicher güter halben
                                                   beschaffen, verstanden, unnd diewyl dann du
                                                   hierjnn der sachen mit glegenheit wol wirst
@@ -89,7 +96,11 @@
                                                   dz du zum vorderisten<note type="critical">Folgt
                                                   gestrichen: ordnung gebist</note> fürsechung
                                                   thügist<note type="critical">«fürsechung thügist»
-                                                  am Rand</note>, dz unser thurnhüter<persName ref="Grebel, Hans">Hans Grebel</persName>umb den uberloffnen costen wegen der beiden töffern<persName ref="Riedel, Jörg">Jergen Riedels</persName>und<persName ref="Pfister, Heinrich">Heinrichen Pfisters</persName>, wie du dan von jme
+                                                  am Rand</note>, dz unser thurnhüter <persName ref="Grebel, Hans">Hans
+                                                  Grebel</persName> umb den
+                                                  uberloffnen costen wegen der beiden töffern <persName ref="Riedel, Jörg">Jergen
+                                                  Riedels</persName> und
+                                                  <persName ref="Pfister, Heinrich">Heinrichen Pfisters</persName>, wie du dan von jme
                                                   desselben<note type="critical">«desselben» am Rand
                                                   mit Verweiszeichen</note> einen ußzug haben
                                                   wirst<note type="critical">Lesung unsicher</note>,
@@ -109,7 +120,7 @@
                                                   nachfaren</note> nachkomenden vogt unser
                                                   herrschafft Wedeschwyl<note type="critical">Folgt
                                                   gestrichen: als hinder</note><placeName ref="Wädenswil"/> Cunrathen Grebl<note type="editorial"> Konrad Grebel war ab 1600
-                                                  Landvogt von Wädenswil</note><persName ref="Grebel, Konrad"/> hinderlassen, damit wir
+                                                  Landvogt von Wädenswil</note><persName ref="Grebel, Konrad">wellicher massen</persName> hinderlassen, damit wir
                                                   jederzyt, wann wir es begerent, darumb gnugsame
                                                   rechenschafft und bscheidts zuerholen unnd unser
                                                   glegenheit nach ferner damit zehandlen<note type="critical">Lesung unsicher</note> wüssent,
@@ -122,7 +133,8 @@
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zurich</p>
                                                   <p rend="margin-top">Dem fromen, wysen, unserm
-                                                  besonders gethrüwen, lieben burger und vogt zu<placeName ref="Wädenswil">Wedischwyl</placeName>Solomon
+                                                  besonders gethrüwen, lieben burger und vogt zu
+                                                  <placeName ref="Wädenswil">Wedischwyl</placeName> Solomon
                                                   Hirtzel n.</p>
                                                   </div>
     </body>

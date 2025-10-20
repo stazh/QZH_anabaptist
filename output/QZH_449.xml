@@ -78,50 +78,65 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Wittmeier, Heinrich">Hainrich Wittmaier</persName>von Deitigkhaim<note type="editorial"> Dietikon</note><placeName ref="Dietikon"/></p>
-                                                  <p><persName ref="Reitlinger, Anna">Anna Reittlingerin</persName>sein hausfraw</p>
-                                                  <p><persName ref="Meier, Michel">Michel Maier</persName>von
+      <div><p> <persName ref="Wittmeier, Heinrich">Hainrich Wittmaier</persName>von Deitigkhaim<note type="editorial"> Dietikon</note><placeName ref="Dietikon"/></p>
+                                                  <p><persName ref="Reitlinger, Anna">Anna Reittlingerin</persName> sein hausfraw</p>
+                                                  <p><persName ref="Meier, Michel">Michel Maier</persName> von
                                                   Aldtsteten<note type="editorial">
                                                   Altstetten</note><placeName ref="Alstetten"/></p>
                                                   <p><persName ref="Meier, Margeth">Margretha Maieri</persName>n sein hausfraw</p>
-                                                  <p><persName ref="Reiss, Heinrich">Heinrich Reiß</persName>von Deittigkhaim</p>
-                                                  <p><persName ref="Reiter, Jakob">Jacob Reitter</persName>von Permeßdorff<note type="editorial">
+                                                  <p><persName ref="Reiss, Heinrich">Heinrich Reiß</persName>
+                                                  von Deittigkhaim</p>
+                                                  <p><persName ref="Reiter, Jakob">Jacob Reitter</persName>
+                                                  von Permeßdorff<note type="editorial">
                                                   Birmensdorf</note><placeName ref="Birmensdorf"/></p>
-                                                  <p><persName ref="Hotz, Hans">Hanß Hotz</persName>von
+                                                  <p><persName ref="Hotz, Hans">Hanß Hotz</persName> von
                                                   Wedenschweil<note type="editorial">
                                                   Wädenswil</note><placeName ref="Wädenswil"/></p>
-                                                  <p><persName ref="Stocker, Elisabeth">Elisabeth Stockerin</persName>sein hausfraw</p>
-                                                  <p><persName ref="Huber, Ruedi">Ruede Hueber</persName>von
+                                                  <p><persName ref="Stocker, Elisabeth">Elisabeth Stockerin</persName> sein hausfraw</p>
+                                                  <p><persName ref="Huber, Ruedi">Ruede Hueber</persName> von
                                                   Bonstetten<note type="critical">In der Vorlage:
                                                   B(in)stetten (Lesung unsicher)</note><placeName ref="Bonstetten"/></p>
-                                                  <p><persName ref="Meier, Michael">Michael Maier</persName>von Wetteschweil<note type="editorial">
+                                                  <p><persName ref="Meier, Michael">Michael Maier</persName>
+                                                  von Wetteschweil<note type="editorial">
                                                   Wettswil</note><placeName ref="Wettswil"/></p>
-                                                  <p><persName ref="Paur, Ulrich">Ulrich Paur</persName>deselbst</p>
-                                                  <p><persName ref="Höck, Veronika">Veronica Höckhin</persName>sein hausfraw</p>
+                                                  <p><persName ref="Paur, Ulrich">Ulrich Paur</persName>
+                                                  deselbst</p>
+                                                  <p><persName ref="Höck, Veronika">Veronica Höckhin</persName> sein hausfraw</p>
                                                   <p><persName ref="Ers, Margreth">Margreth Ersin</persName>,
                                                   Heinrich Renckher von Brangartten<note type="editorial"> Bremgarten</note><placeName ref="Bremgarten"/> hausfraw</p>
-                                                  <p><persName ref="Trechtler, Thomas">Thomas Trechtler</persName>von Permenßdorff</p>
-                                                  <p><persName ref="Kaufmann, Elisabeth">Elisabeth Kauffmennin</persName>sein hausfraw</p>
-                                                  <p><persName ref="Höck, Agnes">Agnes Hockhin</persName>,<persName ref="Huser, Johannes">Hansen Hausers</persName>von Permenßdorff hausfraw</p>
-                                                  <p><persName ref="Wittmeier, Hans">Hanß Wittmaier</persName>von Deittighaim</p>
-                                                  <p><persName ref="Ryser, Agnes">Agnes Rayserin</persName>sein hausfraw</p>
-                                                  <p><persName ref="Hedinger, Ulrich">Ulrich Hedinger</persName>von Permenßdorff</p>
-                                                  <p><persName ref="Schneider, Veronika">Veronica Schneiderin</persName>sein hausfraw</p>
-                                                  <p><persName ref="Müller, Anna">Anna Millerin</persName>daselbst</p>
-                                                  <p><persName ref="Müller, Elisabeth">Elisabeth Millerin</persName>von Tissa</p>
-                                                  <p>Sara Peurin<persName ref="Paur, Sara">von Zürch</persName><placeName ref="Zürich"/></p>
-                                                  <p><persName ref="Lips, Margreth">Margeth Lipsse</persName>von Uhdroff<note type="editorial">
+                                                  <p><persName ref="Trechtler, Thomas">Thomas Trechtler</persName> von Permenßdorff</p>
+                                                  <p><persName ref="Kaufmann, Elisabeth">Elisabeth Kauffmennin</persName> sein hausfraw</p>
+                                                  <p><persName ref="Höck, Agnes">Agnes Hockhin</persName>,
+                                                  <persName ref="Huser, Johannes">Hansen Hausers</persName>
+                                                  von Permenßdorff hausfraw</p>
+                                                  <p><persName ref="Wittmeier, Hans">Hanß Wittmaier</persName>
+                                                  von Deittighaim</p>
+                                                  <p><persName ref="Ryser, Agnes">Agnes Rayserin</persName>
+                                                  sein hausfraw</p>
+                                                  <p><persName ref="Hedinger, Ulrich">Ulrich Hedinger</persName> von Permenßdorff</p>
+                                                  <p><persName ref="Schneider, Veronika">Veronica Schneiderin</persName> sein hausfraw</p>
+                                                  <p><persName ref="Müller, Anna">Anna Millerin</persName>
+                                                  daselbst</p>
+                                                  <p><persName ref="Müller, Elisabeth">Elisabeth Millerin</persName> von Tissa</p>
+                                                  <p>Sara  <persName ref="Paur, Sara">von Zürch</persName><placeName ref="Zürich">Peurin</placeName></p>
+                                                  <p><persName ref="Lips, Margreth">Margeth Lipsse</persName>
+                                                  von Uhdroff<note type="editorial">
                                                   Urdorf</note><placeName ref="Urdorf"/></p>
-                                                  <p><persName ref="Mest, Margreth">Margreth Mehstin</persName></p>
-                                                  <p><persName ref="Schneider, Anna">Anna Scheiderin</persName>&gt; ^#.} von Permenßdorff</p>
-                                                  <p><persName ref="Wölin, Elisabeth">Elisabeth Wöllin</persName></p>
-                                                  <p><persName ref="Dehin, Barbara">Barbara Dehin</persName>von Aasch<note type="editorial">
+                                                  <p><persName ref="Mest, Margreth">Margreth Mehstin</persName>
+                                                  </p>
+                                                  <p><persName ref="Schneider, Anna">Anna Scheiderin</persName> &gt; ^#.} von Permenßdorff</p>
+                                                  <p><persName ref="Wölin, Elisabeth">Elisabeth Wöllin</persName>
+                                                  </p>
+                                                  <p><persName ref="Dehin, Barbara">Barbara Dehin</persName>
+                                                  von Aasch<note type="editorial">
                                                   Aesch</note><placeName ref="Aesch"/></p>
                                                   <p rend="margin-top">Und dan die vier Gaisell:</p>
-                                                  <p><persName ref="Hofmann, Heinrich">Hainrich Hoffman</persName>von Wettenschweil</p>
-                                                  <p><persName ref="Huser, Johannes">Hanß Hauser</persName>von Permenßdorff</p>
-                                                  <p><persName ref="Rank, Heinrich">Heinrich Renckher</persName>von Premgarten</p>
-                                                  <p><persName ref="Peyer, Marx">Marx Bayer</persName>von<placeName ref="Dietikon">Deuttighaim</placeName></p>
+                                                  <p><persName ref="Hofmann, Heinrich">Hainrich Hoffman</persName> von Wettenschweil</p>
+                                                  <p><persName ref="Huser, Johannes">Hanß Hauser</persName>
+                                                  von Permenßdorff</p>
+                                                  <p><persName ref="Rank, Heinrich">Heinrich Renckher</persName> von Premgarten</p>
+                                                  <p><persName ref="Peyer, Marx">Marx Bayer</persName> von
+                                                  <placeName ref="Dietikon">Deuttighaim</placeName></p>
                                                   </div>
     </body>
     <back>

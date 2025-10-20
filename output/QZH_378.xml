@@ -79,9 +79,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnd als dann uff nechstem tag herr schulltheisß<persName ref="Müllinen, Beat Ludwig von">von Müllinen</persName>jnnamen syner
+      <div><p>Unnd als dann uff nechstem tag herr
+                                                  schulltheisß <persName ref="Müllinen, Beat Ludwig von">von Müllinen</persName> jnnamen syner
                                                   herren vor unns anzogenn<note type="editorial">
-                                                  erwähnen, anführen, Grimm 1, 528.</note>von wegenn<persName ref="Müller, Ruedi">eines Müllers</persName>, so ettwas gůtts jnn der graffschafft<placeName ref="Baden, Grafschaft">Baden</placeName>,
+                                                  erwähnen, anführen, Grimm 1, 528.</note> von
+                                                  wegenn <persName ref="Müller, Ruedi">eines Müllers</persName>, so ettwas gůtts jnn der graffschafft
+                                                  <placeName ref="Baden, Grafschaft">Baden</placeName>,
                                                   welliches jme durch unnseren lanndtvogt zů Baden
                                                   verbotten<note type="editorial"> mit Beschlag
                                                   belegen, Id. IV, 1873f.</note> wordenn mit begär,
@@ -109,9 +112,10 @@
                                                   unnserer lieben eydtgnosßen von Zürich haryn nit
                                                   wellen verwilligen.</p> z <p>Wir habennd ouch
                                                   unnseren beiden lanndtvögten zů Badenn unnd jnn
-                                                  Frygenn Empteren<note type="editorial"> Freie
-                                                  Ämter</note><placeName ref="Freie Ämter"/>
-                                                  deßglychen denen von<placeName ref="Baden">Baden</placeName>,<placeName ref="Bremgarten">Bremgarten</placeName>unnd<placeName ref="Mellingern">Mellinngen</placeName>ganntz
+                                                  Frygenn <note type="editorial"> Freie
+                                                  Ämter</note><placeName ref="Freie Ämter">Empteren</placeName>
+                                                  deßglychen denen von <placeName ref="Baden">Baden</placeName>, <placeName ref="Bremgarten">Bremgarten</placeName> unnd
+                                                  <placeName ref="Mellingern">Mellinngen</placeName> ganntz
                                                   erntstlich bevolchenn, das sy gůtt acht habenn
                                                   unnd, wo sy sölliche thöüfferische ufwigler
                                                   bethrättenn<note type="editorial"> antreffen, Id.

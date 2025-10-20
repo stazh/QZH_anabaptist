@@ -79,8 +79,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Burgermeyster unnd rath der statt<placeName ref="Zürich">Zürich</placeName>unnseren grůß zůvor. Lieber unnd getrüwer, als<persName ref="Binzmüller, Regula">Regula Byntzmüllerin</persName>genant Söwerin<note type="critical">Folgt
-                                                  gestrichen: der toü</note> von<placeName ref="Neerach">Neerach</placeName>, deßglychen deß Meygers sun von<placeName ref="Schachen">Schachen</placeName>unnd<persName ref="Valdeyer, Jörg">Jörg Valdeyer</persName>von<placeName ref="Raad">Raat</placeName>der ­toüf­fery halb
+      <div><p>Burgermeyster unnd rath der statt
+                                                  <placeName ref="Zürich">Zürich</placeName> unnseren grůß
+                                                  zůvor. Lieber unnd getrüwer, als <persName ref="Binzmüller, Regula">Regula
+                                                  Byntzmüllerin</persName>
+                                                  genant Söwerin<note type="critical">Folgt
+                                                  gestrichen: der toü</note> von <placeName ref="Neerach">Neerach</placeName>, deßglychen deß Meygers sun von
+                                                  <placeName ref="Schachen">Schachen</placeName> unnd <persName ref="Valdeyer, Jörg">Jörg
+                                                  Valdeyer</persName> von
+                                                  <placeName ref="Raad">Raat</placeName> der ­toüf­fery halb
                                                   jnn unnser gefangenschafft komen<note type="critical">Folgt gestrichen: haben</note>
                                                   unnd wir jnen gnad mitteylt, haben sy den
                                                   kyndertouff für gerecht unnd den widertouff für
@@ -116,14 +123,15 @@
                                                   sich für erlittenen Schaden an jemanden halten,
                                                   Id. III, 283.</note>. Darnach wellest<note type="critical">Folgt gestrichen: dich haben
                                                   zerichten</note> wissen, dest bessern flyß
-                                                  zehaben. Uß<placeName ref="Zürich">Zürich</placeName>,
+                                                  zehaben. Uß <placeName ref="Zürich">Zürich</placeName>,
                                                   zynßtags nach sanct Othmars tag anno etc.
                                                   1535.</p>
                                                   <p rend="margin-top">Unnserem lieben unnd getrüwen
-                                                  undervogt jm Nüwenampt<note type="critical">«undervogt jm Nüwenampt» über der
-                                                  Zeile</note><placeName ref="Neuamt"/><persName ref="Moor, Junghans">Junnghanns Moren</persName>zu
+                                                  undervogt  <note type="critical">«undervogt jm Nüwenampt» über der
+                                                  Zeile</note><placeName ref="Neuamt">Nüwenampt</placeName> <persName ref="Moor, Junghans">Junnghanns
+                                                  Moren</persName> zu
                                                   Neschigken<note type="editorial">
-                                                  Nöschikon</note><placeName ref="Nöschikon">.</placeName></p>
+                                                  Nöschikon</note>.<placeName ref="Nöschikon">jm</placeName></p>
                                                   </div>
     </body>
   </text>

@@ -81,9 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr seckelmeister Escher<note type="editorial">Hans Escher<persName ref="Escher vom Luchs, Hans">vom Luchs</persName></note>, vogt
-                                                  Kipenhan<note type="editorial"><persName ref="Kippenhan, Hans">Hans Kippenhan</persName></note>
-                                                  und vogt Leman<note type="editorial">Hans<persName ref="Leemann, Hans Rduolf">Rudolf Leemann</persName></note> söllent gwalt haben, mit dem
+      <div><p>Herr seckelmeister Escher<note type="editorial"> Hans Escher <persName ref="Escher vom Luchs, Hans">vom Luchs</persName></note>, vogt
+                                                  Kipenhan<note type="editorial"> <persName ref="Kippenhan, Hans">Hans
+                                                  Kippenhan</persName></note>
+                                                  und vogt Leman<note type="editorial"> Hans <persName ref="Leemann, Hans Rduolf">Rudolf
+                                                  Leemann</persName></note> söllent gwalt haben, mit dem
                                                   Blickenstorfer ab Bůchenegg und syner frawen uff
                                                   das fürgezeigt schryben zeüberkommen<note type="editorial"> übereinkommen, Id. III,
                                                   272.</note>, was gmeiner statt von Elßbetha

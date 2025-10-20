@@ -77,7 +77,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Es jst by dem ­toüf­fer unnd<persName ref="Guggerli, Elsa">der Gugerlin</persName>gut
+      <div><p>Es jst by dem ­toüf­fer unnd <persName ref="Guggerli, Elsa">der
+                                                  Gugerlin</persName> gut
                                                   ynzunemen</p>
                                                   <p>ann gelt 345 gulden<note type="critical">In der
                                                   Vorlage stets: fl[orenos]</note>, 7 s[chilling],
@@ -117,19 +118,21 @@
                                                   <p>2 pfund jm für die<note type="critical">Folgt
                                                   gestrichen: le</note> ußzüg.</p>
                                                   <p>10 s. jm gatter gelt.</p>
-                                                  <p>30 pfund, 8 s. dem wird zu<placeName ref="Lunkhofen">Lungkhofen.</placeName></p>
-                                                  <p>14 pfund, 1 s. 6 h[eller] dem<note type="critical">Folgt gestrichen: Stapfer zu
-                                                  Bremgarten</note> wirt zur Cronen zu<placeName ref="Bremgarten">Bremgarten.</placeName></p>
-                                                  <p>21 pfund, 5 s. 6 h[eller]<persName ref="Stapfer (von Bremgarten)">dem Stapfer</persName>zu
+                                                  <p>30 pfund, 8 s. dem wird zu
+                                                  Lungkhofen.<placeName ref="Lunkhofen"/></p>
+                                                  <p>14 pfund, 1 s. 6 h[eller] <note type="critical">Folgt gestrichen: Stapfer zu
+                                                  Bremgarten</note> wirt zur Cronen zu
+                                                  Bremgarten.<placeName ref="Bremgarten">dem</placeName></p>
+                                                  <p>21 pfund, 5 s. 6 h[eller] <persName ref="Stapfer (von Bremgarten)">dem Stapfer</persName> zu
                                                   Bremgarten.</p>
                                                   <p>2 pfund, 7 s. dem stattknecht zu
                                                   Bremgarten.</p>
-                                                  <p>5 pfund, 2 s. 4 h[eller]<persName ref="Lupfer, Peter">Peter Lupfer</persName>zu<placeName ref="Jonen">Jonen.</placeName></p>
+                                                  <p>5 pfund, 2 s. 4 h[eller] <persName ref="Lupfer, Peter">Peter Lupfer</persName> zu Jonen.<placeName ref="Jonen"/></p>
                                                   <p>4 pfund dem scherer zu Jonen.</p>
-                                                  <p>16 pfund<persName ref="Guggerli, Jakob">Jacob Gugerli</persName>zu Jonen.</p>
+                                                  <p>16 pfund <persName ref="Guggerli, Jakob">Jacob Gugerli</persName> zu Jonen.</p>
                                                   <p>22 pfund, 8 s. Gugerlin mann.</p>
                                                   <p>3 pfund, 4 s. Gugerlin vogt.</p>
-                                                  <p>3 pfund, 4 s. vogt zu<placeName ref="Knonau">Knonow.</placeName></p>
+                                                  <p>3 pfund, 4 s. vogt zu Knonow.<placeName ref="Knonau"/></p>
                                                   <p>1 pfund, 12 s. dem landschryber.</p>
                                                   <p>2 pfund dem Gras[…]<note type="critical">Lesung
                                                   unklar</note></p>
@@ -138,14 +141,15 @@
                                                   alten landtschryber.</p>
                                                   <p>Dise posten schik ich dem vogt zu Knonow<note type="critical">«Dise posten … Knonow» am
                                                   Rand.</note>.</p>
-                                                  <p rend="margin-top">Zalt 3 pfund, 4 s.<persName ref="Engelhart, N.">herr Engelhart.</persName></p>
-                                                  <p>Zalt 3 pfund, 4 s.<persName ref="Thumysen, Heinrich">herr Thumysen.</persName></p>
-                                                  <p>Zalt 3 pfund, 4 s.<persName ref="Bauer, Rudolph">herr Puren.</persName></p>
+                                                  <p rend="margin-top">Zalt 3 pfund, 4 s. herr
+                                                  Engelhart.<persName ref="Engelhart, N."/></p>
+                                                  <p>Zalt 3 pfund, 4 s. herr Thumysen.<persName ref="Thumysen, Heinrich"/></p>
+                                                  <p>Zalt 3 pfund, 4 s. herr Puren.<persName ref="Bauer, Rudolph"/></p>
                                                   <p>Zalt 3 pfund, 4 s. underschryber.</p>
                                                   <p>Zalt 2 pfund, 8 s. Marchsal.</p>
-                                                  <p>Zalt 2<persName ref="Wolf, N.">pfund Wolfen.</persName></p>
-                                                  <p>Zalt 2<persName ref="Zehnder, N.">pfund Zender.</persName></p>
-                                                  <p>Zalt 2<persName ref="Hartmann, N.">pfund Hartman.</persName></p>
+                                                  <p>Zalt 2 pfund Wolfen.<persName ref="Wolf, N."/></p>
+                                                  <p>Zalt 2 pfund Zender.<persName ref="Zehnder, N."/></p>
+                                                  <p>Zalt 2 pfund Hartman.<persName ref="Hartmann, N."/></p>
                                                   <p>Nota: zalt 3 pfund, 4 s. landschryber.</p>
                                                   <p>Zalt 10 s. stal<note type="critical">Lesung
                                                   unsicher</note>.</p>
@@ -154,7 +158,8 @@
                                                   <p>Summa 32 pfund, 6 s.</p>
                                                   <p rend="margin-top">Herr Thumysen hat jnn der
                                                   armen frouwen sach ußgeben:</p>
-                                                  <p>Zalt 1 pfund, 12 s., zu Jonen<persName ref="Graf, N.">Graf verzert</persName></p>
+                                                  <p>Zalt 1 pfund, 12 s., zu Jonen <persName ref="Graf, N.">Graf
+                                                  verzert</persName></p>
                                                   <p>Zalt 1 pfund, 15 s. Joachim zů Capell</p>
                                                   <p>Zalt 3 pfund verzert wirt […]<note type="critical">Lesung unklar</note> den hußrath
                                                   unnd kleider verkoufft.</p>

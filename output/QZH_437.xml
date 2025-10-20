@@ -78,16 +78,19 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Ersammer, wyßer, besonnders getrüwer, lieber burger und vogt, was masßen unnser diener<persName ref="Kriesi, Jörg">Jeörge Krießj</persName>und
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Ersammer, wyßer, besonnders getrüwer,
+                                                  lieber burger und vogt,  
+                                                  <persName ref="Kriesi, Jörg">Jeörge Krießj</persName> und
                                                   syne zweygen zůgebne mitthafften über dinen
                                                   ernstlich<note type="critical">«ernstlich» am Rand
                                                   mit Verweiszeichen</note> empfangnen bevelch durch
                                                   jr verwarloßung Hannß<note type="critical">korrigiert, ursprünglich: Hannßen</note>
-                                                  Schnyder<persName ref="Schnyder, Hans"/>, der
-                                                  schůmacher von<placeName ref="Rorbas">Rorbis</placeName>,
+                                                  Schnyder<persName ref="Schnyder, Hans">unnser diener</persName>, der
+                                                  schůmacher von <placeName ref="Rorbas">Rorbis</placeName>,
                                                   jtem Hanß<note type="critical">korrigiert,
-                                                  ursprünglich: Hannßen</note> Sträler<persName ref="Streler, Hans"/> uffem<placeName ref="Wald, Haltberg">Haltperrg</placeName>und Růdolf<note type="critical">korrigiert, ursprünglich:
-                                                  Růdolfen</note> Gubelman<persName ref="Gubelmann, Rudolf"/> von<placeName ref="Hadlikon">Hadlicken</placeName>, die wider­toüf­fer, entlouffen,
+                                                  ursprünglich: Hannßen</note> Sträler<persName ref="Streler, Hans">was masßen</persName> uffem <placeName ref="Wald, Haltberg">Haltperrg</placeName> und Růdolf<note type="critical">korrigiert, ursprünglich:
+                                                  Růdolfen</note> Gubelman<persName ref="Gubelmann, Rudolf"/> von <placeName ref="Hadlikon">Hadlicken</placeName>, die wider­toüf­fer, entlouffen,
                                                   darnebent das sy, die wider­toüf­fere, sich
                                                   träffenlich<note type="editorial"> in starkem
                                                   Mass, Id. XIV, 395.</note> meerind und erst jüngst
@@ -173,7 +176,8 @@
                                                   den 21ten septembris anno etc. 83.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt Holtzhalben zů<placeName ref="Grüningen">Gruͤningen.</placeName></p>
+                                                  <p rend="margin-top">An vogt Holtzhalben zů
+                                                  Gruͤningen.<placeName ref="Grüningen"/></p>
                                                   </div>
     </body>
   </text>

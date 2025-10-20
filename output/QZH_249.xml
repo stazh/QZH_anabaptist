@@ -78,8 +78,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>H[err]<persName ref="Wirth, Christian">Christian Wirt</persName>, dechan in<placeName ref="Winterthur">Wintherdurer</placeName>capittel, zeygt an, wie ein vast<note type="editorial"> sehr</note> schedlicher wolff
-                                                  were zů<placeName ref="Wülflingen">Wülfflingen</placeName>,
+      <div><p>H[err] <persName ref="Wirth, Christian">Christian Wirt</persName>, dechan in
+                                                  <placeName ref="Winterthur">Wintherdurer</placeName>
+                                                  capittel, zeygt an, wie ein vast<note type="editorial"> sehr</note> schedlicher wolff
+                                                  were zů <placeName ref="Wülflingen">Wülfflingen</placeName>,
                                                   der were vor zyten verwisen von Wintherthur, dahin
                                                   er doch widerumb sin zůgang haͤtte. Were ein
                                                   toͤuffer, sagte, das christen kein oberkeit haben
@@ -89,9 +91,10 @@
                                                   Mensch, Id. III, 1503.</note>. Da begaͤr ein gantz
                                                   capittel, das man inen, den wolff, abnaͤme.</p>
                                                   <p>Das sol an unser gnedig herren gebracht werden,
-                                                  ob die dem Steiner<note type="editorial"> Andreas
-                                                  Steiner (gest. 1565)</note><persName ref="Steiner, Andreas"/>, dem grichtsherren, oder
-                                                  dem herren uff<placeName ref="Kyburg">Kyburg</placeName>oder ouch denen von<placeName ref="Winterthur">Wintherdur</placeName>geschriben haͤttind, damitt
+                                                  ob die <note type="editorial"> Andreas
+                                                  Steiner (gest. 1565)</note><persName ref="Steiner, Andreas">dem Steiner</persName>, dem grichtsherren, oder
+                                                  dem herren uff <placeName ref="Kyburg">Kyburg</placeName>
+                                                  oder ouch denen von <placeName ref="Winterthur">Wintherdur</placeName> geschriben haͤttind, damitt
                                                   sinem verfuͤrren geweert etc.</p>
                                                   </div>
     </body>

@@ -76,12 +76,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem herr<persName ref="Bäumler, Markus">Marx Böümler</persName>und herr<persName ref="Waser, Kaspar">Caspar Waser</persName>sampt m[eister] Hanns<persName ref="Wolf, Hans Ulrich">Ůlrich Wolffen</persName>, m[eister] Hans Jacoben
+      <div><p> <persName ref="Bäumler, Markus">Marx Böümler</persName> und herr <persName ref="Waser, Kaspar">Caspar
+                                                  Waser</persName> sampt
+                                                  m[eister] Hanns <persName ref="Wolf, Hans Ulrich">Ůlrich Wolffen</persName>, m[eister] Hans Jacoben
                                                   Hottingern<note type="editorial"> Hans Jakob
                                                   Hottinger (1552-1605), Ratsherr freier Wahl,
                                                   folgte im Amt Gerold Escher, der am 5. Juli 1596
-                                                  gestorben war.</note><persName ref="Hottinger, Hans Jakob"/> und den beiden
-                                                  herren nachgengeren widerumb zů<note type="critical">«zů» über der Zeile</note><persName ref="Riedel, Jörg">Jörgen Riedel</persName>uß dem<placeName ref="Allgäu">Algöüw</placeName>jnn den<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>keert, und die heren gleerten mit jmme
+                                                  gestorben war.</note><persName ref="Hottinger, Hans Jakob">Nachdem herr</persName> und den beiden
+                                                  herren nachgengeren widerumb zů<note type="critical">«zů» über der Zeile</note> <persName ref="Riedel, Jörg">Jörgen
+                                                  Riedel</persName> uß dem
+                                                  <placeName ref="Allgäu">Algöüw</placeName> jnn den
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  keert, und die heren gleerten mit jmme
                                                   fürnemlichen von den vier articlen namlich,
                                                   dz<note type="critical">«dz» über der Zeile, in
                                                   der Zeile gestrichen: ob ein</note> die
@@ -112,7 +118,9 @@
                                                   1232.</note> worden, jst er<note type="editorial">
                                                   Jörg Riedel</note> doch uff syner letzen<note type="editorial"> verkehrt, Id. III, 1549.</note>
                                                   meynung beharret.</p>
-                                                  <p>Und als vermelte herren hernach<persName ref="Pfister, Heinrich">Heinrichen Pfister</persName>glychfals fürhand genommen<note type="critical">Folgt gestrichen: h</note> und uß göttlicher
+                                                  <p>Und als vermelte herren hernach <persName ref="Pfister, Heinrich">Heinrichen
+                                                  Pfister</persName>
+                                                  glychfals fürhand genommen<note type="critical">Folgt gestrichen: h</note> und uß göttlicher
                                                   schrifft deß gloubens halber sprech mit jmm
                                                   zuhalten begert, hat er doch schlechten bscheyd
                                                   geben, und wenig grunts göttlichen worts by jmme
@@ -136,8 +144,8 @@
                                                   er es nit erhalten könen, sagt er<note type="critical">Folgt gestrichen: glych</note>, ob
                                                   er glych ein rechte leer gfürt, habe man doch
                                                   deren nit gfolget.</p>
-                                                  <p>Was herr Walterten<note type="editorial">
-                                                  Rudolf Gwalther</note><persName ref="Gwalther, Rudolf"/> seliger belanget, zeigt
+                                                  <p>Was <note type="editorial">
+                                                  Rudolf Gwalther</note><persName ref="Gwalther, Rudolf">herr Walterten</persName> seliger belanget, zeigt
                                                   er an, als<note type="critical">Folgt gestrichen:
                                                   fr</note> er von wegen, dz sy<note type="critical">«sy» über der Zeile</note> sich also sonderind,
                                                   sprech mit jm gehalten, habe<note type="critical">Folgt gestrichen: er</note> h[er]r Walthert so

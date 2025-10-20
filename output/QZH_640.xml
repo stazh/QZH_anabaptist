@@ -81,12 +81,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als herr schultheiß Keller<note type="editorial"> Felix Keller
+      <div><p>Als herr schultheiß <note type="editorial"> Felix Keller
                                                   (1535-1599)<persName ref="Keller, Felix"/></note>
                                                   unnd m[eister] Felix Peyer<note type="editorial">
-                                                  Felix Peyer (1558-1622)<persName ref="Peyer, Felix"/></note>, obervögt im nüwen<placeName ref="Neuamt">ampt</placeName>, sampt heren Marxen
-                                                  Boümler<note type="editorial"><persName ref="Bäumler, Markus">Markus Bäumler</persName></note> zů
-                                                  Magdalena Mellickerin von Wyach<note type="editorial"> Weiach</note><placeName ref="Weiach"/> jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert unnd sy
+                                                  Felix Peyer (1558-1622)<persName ref="Peyer, Felix"/></note>, obervögt im nüwen
+                                                  <placeName ref="Neuamt">ampt</placeName>, sampt heren Marxen
+                                                  Boümler<note type="editorial"> <persName ref="Bäumler, Markus">Markus
+                                                  Bäumler</persName></note> zů
+                                                  Magdalena Mellickerin von Wyach<note type="editorial"> Weiach</note><placeName ref="Weiach">Keller</placeName> jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kheert unnd sy
                                                   befraget, uß was ursachen sy<note type="critical">Folgt gestrichen: bißhero unnd</note> über
                                                   erntstlichs ermannen jres herren predicanten nit
                                                   allein<note type="critical">Folgt gestrichen: die
@@ -97,7 +99,9 @@
                                                   deßglychen</note> ouch uff verschinne<note type="editorial"> vergangene</note> heilige
                                                   zyt<note type="editorial"> Ostern (6. April
                                                   1597)</note>, als man das heilig nachtmaal
-                                                  zůdienet, sich von Wiach hinweg unnd jnn das<placeName ref="Baden (Landgrafschaft)">Bader</placeName>gebiet<note type="editorial"> Grafschaft Baden,
+                                                  zůdienet, sich von Wiach hinweg unnd jnn das
+                                                  <placeName ref="Baden (Landgrafschaft)">Bader</placeName>
+                                                  gebiet<note type="editorial"> Grafschaft Baden,
                                                   gemeindeidgenössische Vogtei.</note> gethan unnd
                                                   sich dergstalt von jren kilchgnoßen abgesöndert
                                                   unnd annderen faltschen lehreren nachgeloffen unnd
@@ -114,10 +118,10 @@
                                                   gottes verkündt und<note type="critical">Folgt
                                                   gestrichen: s</note> sy zůsammen khommen, gangen
                                                   etc.</p>
-                                                  <p>Nachdem aber<note type="critical">Folgt
+                                                  <p><note type="critical">Folgt
                                                   gestrichen: sy von obgen</note> herr Marxen
                                                   Boümler<note type="critical">Folgt gestrichen: bef
-                                                  un</note><persName ref="Bäumler, Markus"/> jnn
+                                                  un</note><persName ref="Bäumler, Markus">Nachdem aber</persName> jnn
                                                   einem und dem anndern articel gnůgsam unnd wol der
                                                   ­toüf­ferischen seckt unnd jre schweren
                                                   jrrthumben<note type="critical">Folgt gestrichen:
@@ -143,7 +147,13 @@
                                                   hinfüro</note> aller ­toüf­feren unnd jrer seckt
                                                   müßig zegan unnd sich dero<note type="critical">Folgt gestrichen: gentzlich</note> zů
                                                   enthalten.</p>
-                                                  <p rend="margin-top">[Urteil]: Diewyl sy sich aller ghorsamme anerbietet, soll sy der gefangenschafft wider ledig gelaßen werden unnd jrem anerbietten statt thůn. Actum mitwuchs den 25ten maij anno etc. 97 p[raese]nt[ibus] herr<persName ref="Keller, Hans">burgermeister Keller</persName>unnd beid reth.</p>
+                                                  <p rend="margin-top">[Urteil]: Diewyl sy sich
+                                                  aller ghorsamme anerbietet, soll sy der
+                                                  gefangenschafft wider ledig gelaßen werden unnd
+                                                  jrem anerbietten statt thůn. Actum mitwuchs den
+                                                  25ten maij anno etc. 97 p[raese]nt[ibus] herr
+                                                  <persName ref="Keller, Hans">burgermeister Keller</persName>
+                                                  unnd beid reth.</p>
                                                   </div>
     </body>
   </text>

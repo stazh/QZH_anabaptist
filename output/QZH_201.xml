@@ -78,8 +78,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der daͤchen von<placeName ref="Bäretswil">Baͤrodtschwyl</placeName>zeygt an, das die toͤuffer
-                                                  haͤfftig zůnaͤmind zů<placeName ref="Wald">Wald</placeName>,<placeName ref="Bubikon">Bůbikon</placeName>und<placeName ref="Gossau">Goßow</placeName>.</p>
+      <div><p>Der daͤchen von Baͤ<placeName ref="Bäretswil">rodtschwyl</placeName> zeygt an, das die toͤuffer
+                                                  haͤfftig zůnaͤmind zů <placeName ref="Wald">Wald</placeName>,
+                                                  <placeName ref="Bubikon">Bůbikon</placeName> und
+                                                  <placeName ref="Gossau">Goßow</placeName>.</p>
                                                   </div>
     </body>
   </text>

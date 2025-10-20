@@ -81,7 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Grüningen">Gruͤningen</placeName>von deß ­toüf­fers<persName ref="Egli, Ůli">Ůlj Egliß</persName>von<placeName ref="Wald">Wald</placeName>wegen zůschryben.</p>
+      <div><p>Vogt zů Gruͤ<placeName ref="Grüningen">ningen</placeName>
+                                                  von deß ­toüf­fers <persName ref="Egli, Ůli">Ůlj Egliß</persName> von <placeName ref="Wald">Wald</placeName>
+                                                  wegen zůschryben.</p>
                                                   </div>
     </body>
     <back>

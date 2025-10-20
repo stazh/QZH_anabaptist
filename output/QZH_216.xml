@@ -78,9 +78,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Gwalther, Rudolf">Der dechan</persName>amm Zürych see kapitel<note type="editorial">
+      <div><p><persName ref="Gwalther, Rudolf">Der dechan</persName>
+                                                  amm Zürych see kapitel<note type="editorial">
                                                   Rudolf Gwalther</note> zeygt, das toͤuffer vil
-                                                  underschlouff habind zů<placeName ref="Horgen">Horgen</placeName>,<placeName ref="Stäfa">Staͤfa</placeName>und
+                                                  underschlouff habind zů <placeName ref="Horgen">Horgen</placeName>, Staͤ<placeName ref="Stäfa">fa</placeName> und
                                                   Dallwyl<note type="editorial">
                                                   Talwil</note><placeName ref="Thalwil"/> etc.</p>
                                                   <p>Daruff ward empfolhen, der toͤüfferen namen

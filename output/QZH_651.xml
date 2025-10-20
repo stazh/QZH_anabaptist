@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Uff bitt Hans<persName ref="Oberkan, Hans Jakob">Jacob Oberkhans</persName>deß kannengießers zů<placeName ref="Strassburg">Straßburg</placeName>, so er
+      <div><p>Uff bitt Hans <persName ref="Oberkan, Hans Jakob">Jacob Oberkhans</persName> deß kannengießers zů
+                                                  <placeName ref="Strassburg">Straßburg</placeName>, so er
                                                   durch syn deßhalb alher geschickte frauwen thůn
                                                   laßen, soll jme syn noch alhie habend jm
                                                   schirmkasten ligend gůte desß 200 und etlich pfund

@@ -81,11 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Knonau">Knonouw</placeName>schryben, die jhenigen syne amptsangehörigen, so
+      <div><p>Vogt zů <placeName ref="Knonau">Knonouw</placeName>
+                                                  schryben, die jhenigen syne amptsangehörigen, so
                                                   sich synen undervögten den ­toüf­feren, die myner
                                                   herren mandat übersehen, pfand ußzetryben und
                                                   zenemmen, beholfen zesind, widerend, sonnderlichen
-                                                  wanns etwan arme weren, die das allmoßen von<placeName ref="Kappel">Capel</placeName>habent, für<note type="editorial"> vor</note> sich zůbeschicken, sy
+                                                  wanns etwan arme weren, die das allmoßen von
+                                                  <placeName ref="Kappel">Capel</placeName> habent, für<note type="editorial"> vor</note> sich zůbeschicken, sy
                                                   der pflicht unnd gehorsamme, so sy mynen herren
                                                   sonderlichen jnn diserm fal, da es christenliche
                                                   mandat antrifft, zeleisten, schuldig ermannen.

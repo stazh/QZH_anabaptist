@@ -81,7 +81,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als her vogt zů<placeName ref="Grüningen">Grüningen</placeName>uff<persName ref="Streler">den Strelern</persName>gůt, so der töüfferischen sect
+      <div><p>Als her vogt zů <placeName ref="Grüningen">Grüningen</placeName> uff <persName ref="Streler">den Strelern</persName> gůt, so der töüfferischen sect
                                                   anhengig, ein pot<note type="editorial"> Arrest
                                                   der Sache, Id. IV, 1897.</note> angleit und aber
                                                   die gehorsamen derselben brüdern sich des
@@ -110,20 +110,28 @@
                                                   Rütj waldt zusamen sollen, jr spech<note type="editorial"> Nachforschung, Fahndung, Id. X,
                                                   76.</note> und kundtschaft machen und sy
                                                   fengklichen anemen.</p>
-                                                  <p>Deßglychen er, vogt, einen ordnen,<persName ref="Bürgi, Jakob">der Jacoben</persName>ob Stralegs
+                                                  <p>Deßglychen er, vogt, einen ordnen, <persName ref="Bürgi, Jakob">der
+                                                  Jacoben</persName> ob Stralegs
                                                   keß<note type="editorial"> Käse</note> verkouffe
                                                   und das<note type="critical">Korrigiert, das
-                                                  ursprüngliche Wort ist nicht lesbar.</note>gelt hinder jm plybe, ouch er hiezwüschen erkundige, ob er wyter schuldig und was der costen sige. Er soll ouch erkundigen, wellicher gstalt<persName ref="Müller, N.">der Müller</persName>jm Radt<note type="editorial"> Raad, Hof in der Gemeinde
+                                                  ursprüngliche Wort ist nicht lesbar.</note> gelt
+                                                  hinder jm plybe, ouch er hiezwüschen erkundige, ob
+                                                  er wyter schuldig und was der costen sige. Er soll
+                                                  ouch erkundigen, wellicher gstalt <persName ref="Müller, N.">der
+                                                  Müller</persName> jm Radt<note type="editorial"> Raad, Hof in der Gemeinde
                                                   Wald</note><placeName ref="Wald, Raad"/> und der
-                                                  Streler ob dem<placeName ref="Wald, Haltberg">Haltperg</placeName>mit dem gfangnen toufer ob<placeName ref="Fischenthal, Strahlegg">Stralegg</placeName>gehandlet.</p>
+                                                  Streler ob dem <placeName ref="Wald, Haltberg">Haltperg</placeName> mit dem gfangnen toufer ob
+                                                  <placeName ref="Fischenthal, Strahlegg">Stralegg</placeName>
+                                                  gehandlet.</p>
                                                   <p>Diser Jacob ob Stralegg, sonst Bürgj geheisen,
                                                   schwur einen eydt von stett und land, biß er synes
                                                   jrtumbs obstunde, nit wider daryn zekomen. Deshalb
                                                   ward jm zugelaßen, syne keß wie obstat selbs jn
                                                   monats frist zeverkoufen, ouch syne schulden
                                                   zebezalen und syne gescheft zuverrichten. Den
-                                                  costen, der uf jnn gangen, ward bezalt, und<note type="critical">Lesung unsicher</note>den uberigen gegen<persName ref="Breitinger, Rudolf">hern vogt</persName>zu Grüningen<note type="editorial"> Rudolf Escher (vom
-                                                  Glas)</note><placeName ref="Grüningen"/> ward Hans
+                                                  costen, der uf jnn gangen, ward bezalt, <note type="critical">Lesung unsicher</note> den
+                                                  uberigen gegen <persName ref="Breitinger, Rudolf">hern vogt</persName> zu Grüningen<note type="editorial"> Rudolf Escher (vom
+                                                  Glas)</note><placeName ref="Grüningen">und</placeName> ward Hans
                                                   Schufelberg troster<note type="editorial"> Bürge,
                                                   Id. XIV, 1435.</note>. Ouch das ales bemeltj<note type="editorial"> Erwähnte</note> hern vogt
                                                   zugeschriben, uf das er uf jn acht hete, wo er
@@ -134,8 +142,10 @@
                                                   wüßte.<note type="critical">«Er soll auch
                                                   erkundigen, wellicher … zeervordern wüßte» auf S.
                                                   33 mit Verweiszeichen.</note></p>
-                                                  <p>Her vogt von Wedischwyl<note type="editorial">
-                                                  Johannes Röuchli</note><placeName ref="Wädenswil"/> schryben, das er des puren von<placeName ref="Wädenswil, Gisenrüti">Gisenrütj</placeName>sun, den sennen und andere theüffer achtheben und
+                                                  <p>Her vogt von <note type="editorial">
+                                                  Johannes Röuchli</note><placeName ref="Wädenswil">Wedischwyl</placeName> schryben, das er des puren von
+                                                  <placeName ref="Wädenswil, Gisenrüti">Gisenrütj</placeName>
+                                                  sun, den sennen und andere theüffer achtheben und
                                                   annemen.</p>
                                                   </div>
     </body>

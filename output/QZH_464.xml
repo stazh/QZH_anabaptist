@@ -79,9 +79,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Burgermeister unnd rath der statt Zürich, unnßeren grůß zůvor. Ersammen, lieben gethrüwen, unnßere besonnders gethrüwen, lieben mitreth unnd vögt zů Bülach,<persName ref="Gimper, Kaspar">Caspar Gimpper</persName>unnd<persName ref="Wüst, Jakob">Jacob Wüst</persName>habend unns erscheint unnd
+      <div><p>Burgermeister unnd rath der statt Zürich,
+                                                  unnßeren grůß zůvor. Ersammen, lieben gethrüwen,
+                                                  unnßere besonnders gethrüwen, lieben mitreth unnd
+                                                  vögt zů Bülach, <persName ref="Gimper, Kaspar">Caspar Gimpper</persName> unnd <persName ref="Wüst, Jakob">Jacob Wüst</persName> habend unns erscheint unnd
                                                   fürgebracht: Nachdem sy verschinner<note type="editorial"> vergangener</note> zyt<note type="critical">«verschinner zyt» am Rand mit
-                                                  Verweiszeichen</note>uß unnßerem geheiß unnd bevelch die unnßeren Hanns<persName ref="Königsholzer, Hans Heinrich">Heinrichen Küngßholtzer</persName>von Bülach unnd<persName ref="Meyer, Mathe">Mathe Meyeren</persName>von Niderflachs<note type="editorial"> Weiler,
+                                                  Verweiszeichen</note> uß unnßerem geheiß unnd
+                                                  bevelch die unnßeren Hanns <persName ref="Königsholzer, Hans Heinrich">Heinrichen
+                                                  Küngßholtzer</persName> von Bülach
+                                                  unnd <persName ref="Meyer, Mathe">Mathe Meyeren</persName>
+                                                  von Niderflachs<note type="editorial"> Weiler,
                                                   heute ein Quartier der Gemeinde
                                                   Bülach</note><placeName ref="Bülach, Niderflachs"/> mit allem ernst so wol mündtlich als
                                                   schriftlich, eintweders von der jrrigen unnd

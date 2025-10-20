@@ -78,13 +78,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als<persName ref="Zöbeli, Hans">Hanns Zöbeli</persName>von<placeName ref="Rorbas">Rorbaß</placeName>, von wegen das
+      <div><p> <persName ref="Zöbeli, Hans">Hanns Zöbeli</persName>
+                                                  von <placeName ref="Rorbas">Rorbaß</placeName>, von wegen das
                                                   er sich thöyfferischer sect<note type="critical">Gestrichen: rhot unnd (sect)en</note> widerumb
                                                   unnderzogen, jnn gefanngen­schafft komenn, ist jme
                                                   alda durch die geordneten herren fürghalten<note type="editorial"> vorwerfen, Id. II, 1234.</note>,
                                                   demnach er (wie jme one zwyfel noch wol zewüsßenn)
                                                   vor ettwas jaren ouch umb söllicher jrrung willen
-                                                  dausßenn zů<placeName ref="Kyburg">Kyburg</placeName>jnn
+                                                  dausßenn zů <placeName ref="Kyburg">Kyburg</placeName> jnn
                                                   ­ge­fennck­nüsß gelegenn unnd nach enndung
                                                   derselbenn gefenngk­nüsß jnn der urfechdt<note type="editorial"> Urfehde</note> zů gott
                                                   geschworen, darvon sicherlichen abzestaan, sich
@@ -104,7 +105,7 @@
                                                   740.</note> der lennge nach verstanndenn, hatt er
                                                   sich daruff dises bescheyds entschlosßenn: Wiewol
                                                   er dausßen zů Kyburg<note type="critical">Folgt
-                                                  gestrichen: obg</note><placeName ref="Kyburg"/>
+                                                  gestrichen: obg</note><placeName ref="Kyburg">Als</placeName>
                                                   obangezeygte gelüpt uff sich genommen unnd die bym
                                                   eyd zehalten<note type="critical">Folgt
                                                   gestrichen: gep</note> gelopt unnd versprochen, so
@@ -128,7 +129,8 @@
                                                   geleerten abzestaan wyßen lasßen wurde, ob er sich
                                                   glychwol desselben ettwas widert. Mit frünntlichem
                                                   pitten, jne jnn gůtem bevolchenn zehabenn.</p>
-                                                  <p rend="margin-top">[Urteil:] Wiewol Hanns Keller,<persName ref="Zöbeli, Hans">genant Zöbelj</persName>, luth siner urfechd einen eyd geschworn, sich
+                                                  <p rend="margin-top">[Urteil:] Wiewol Hanns
+                                                  Keller, <persName ref="Zöbeli, Hans">genant Zöbelj</persName>, luth siner urfechd einen eyd geschworn, sich
                                                   der widerthoüfferschen leer und säct zemüssigen,
                                                   hat er sich doch unangesechen desselbigen dero
                                                   wider angenomen unnd beladen. Deßhalben min herren

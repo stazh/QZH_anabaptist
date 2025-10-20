@@ -81,8 +81,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem herr<persName ref="Cramer, Heinrich">statthalter Krammer</persName>und meister<persName ref="Müller, Georg">Jerg Müller</persName>zů
-                                                  Heinrichen Rützistorfferen jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kertt unnd jmme jn bysyn synner schwiger<note type="editorial"> Schwiegereltern</note> unnd<note type="critical">Folgt gestrichen: M</note><persName ref="Maag, Rudolf">Růdolffen Maagen</persName>des
+      <div><p>Nachdem herr <persName ref="Cramer, Heinrich">statthalter Krammer</persName> und meister <persName ref="Müller, Georg">Jerg
+                                                  Müller</persName> zů
+                                                  Heinrichen Rützistorfferen jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  kertt unnd jmme jn bysyn synner schwiger<note type="editorial"> Schwiegereltern</note> unnd<note type="critical">Folgt gestrichen: M</note>
+                                                  <persName ref="Maag, Rudolf">Růdolffen Maagen</persName> des
                                                   schuchmachers<note type="critical">«des
                                                   schuchmachers» am Rand</note>, synem<note type="critical">ursprünglich «synes»</note>
                                                   schwager, vor geöffnnet, wie das myn herren an syn
@@ -132,7 +136,14 @@
                                                   <p>Dess eyds halber gibt er volgender bescheid,
                                                   namlichen das er den eydt, so jmme jetzt
                                                   vorgeoffnnet<note type="editorial"> eröffnen,
-                                                  mitteilen, Id. I, 115.</note>, gar nit schweren welle. Er welle wol schweren uß dem lannd, aber das er für dasselbig nit mehr drynn wölle, sye er beschwertt, dan jmme unbewüßt, wie es jmme nach gannge, dardurch er verursachet, widerumb harzůkommen. Ja er welle es ouch nit verheyßen, dan es stannde jn der offennbarunng<persName ref="Johannes (Seher)">sannct Johannes</persName>, wer
+                                                  mitteilen, Id. I, 115.</note>, gar nit schweren
+                                                  welle. Er welle wol schweren uß dem lannd, aber
+                                                  das er für dasselbig nit mehr drynn wölle, sye er
+                                                  beschwertt, dan jmme unbewüßt, wie es jmme nach
+                                                  gannge, dardurch er verursachet, widerumb
+                                                  harzůkommen. Ja er welle es ouch nit verheyßen,
+                                                  dan es stannde jn der offennbarunng <persName ref="Johannes (Seher)">sannct
+                                                  Johannes</persName>, wer
                                                   ettwaß verheyße unnd es nit halte, der syge ein
                                                   lůgnner.<note type="editorial"> Gemeint ist
                                                   vielleicht 1Joh 2,4.</note> So finde man ouch jn
@@ -164,7 +175,7 @@
                                                   hie schaden zůversechen, so doch jr, myn g[nedig]
                                                   herren, sonnster dheinen über vhal der thoüfferen
                                                   unnd jrer kinden halben habinnd.</p>
-                                                  <p>Dargegenn<persName ref="Rützensdorfer, Heinrich">synn (Rützistorffers</persName>) schwiger jmme
+                                                  <p>Dargegenn synn (Rützistorffers<persName ref="Rützensdorfer, Heinrich"/>) schwiger jmme
                                                   anzeigt, das sy jmme weder wyb nach kind, hab nach
                                                   gůt mit jmme hinweg laßen welle künfftiger
                                                   beschwerden, so sy unnd die jren deßnacher, wan er
@@ -172,7 +183,7 @@
                                                   hettind. Daruff Rützistorffer anzeigt, das er ohne
                                                   wyb unnd kind nit fortzüchen welle, er begere by
                                                   jnnen zů wonen und zů hůßen.</p>
-                                                  <p>Unnd dan zůlest zeigt<note type="critical">Folgt gestrichen: M</note><persName ref="Maag, Rudolf">Růdolff Maag</persName>, der schůchmacher, jmme,
+                                                  <p>Unnd dan zůlest zeigt<note type="critical">Folgt gestrichen: M</note> <persName ref="Maag, Rudolf">Růdolff Maag</persName>, der schůchmacher, jmme,
                                                   Rützistorffer synem schwager, ann, diewyl er synes
                                                   gůts, damit er dasselbig mit jmme hinwegzüchen
                                                   könne, heruß begere, ouch synen gepürennden abzug
@@ -184,8 +195,14 @@
                                                   volgennder beschwerden, so er dardurch vonn synen
                                                   kinden zů erwartten, deren erb er dan were zů<note type="critical">«zů» über der Zeile</note>
                                                   enndtledigen unnd abzenemen, oder aber wann er
-                                                  gann Eppfingen<note type="editorial"><placeName ref="Öpfingen">Öpfingen</placeName>befand sich
-                                                  wie die Herrschaft<placeName ref="Justingen">Justingen</placeName>im Besitz der Freiherren von Freyberg; seit 1584 wurden beide Herrschaften von Georg Ludwig von Freyberg dem Jüngeren (1574-1631) verwaltet, 1591 übernahm Georg Ludwig die Herrschaft Öpfingen und sein Bruder<persName ref="Freyberg., Johann Pleickhart von">Johann Pleickhart</persName>die
+                                                  gann Eppfingen<note type="editorial">
+                                                  <placeName ref="Öpfingen">Öpfingen</placeName> befand sich
+                                                  wie die Herrschaft <placeName ref="Justingen">Justingen</placeName> im Besitz der Freiherren von
+                                                  Freyberg; seit 1584 wurden beide Herrschaften von
+                                                  Georg Ludwig von Freyberg dem Jüngeren (1574-1631)
+                                                  verwaltet, 1591 übernahm Georg Ludwig die
+                                                  Herrschaft Öpfingen und sein Bruder <persName ref="Freyberg., Johann Pleickhart von">Johann
+                                                  Pleickhart</persName> die
                                                   Herrschaft Justingen.</note>, allda er sich
                                                   willenns zů setzen, komme unnd ettwaß gelts, so
                                                   jme durch syn gethon gloublich schryben geöffnnet

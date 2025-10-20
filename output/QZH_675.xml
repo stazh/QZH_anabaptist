@@ -78,9 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem herr<persName ref="Bäumler, Markus">Marx Böümler</persName>, herr<persName ref="Egli, Raphael">Raphael Eglj</persName>und herr<persName ref="Waser, Kaspar">Caspar Waser</persName>, deßglychen m[eister] Hanns<persName ref="Wolf, Hans Ulrich">Ulrich Wolff</persName>und beyd herrn
-                                                  nachgengere widerumb zů Jörgen Riedel uß dem<placeName ref="Allgäu">Algöüw</placeName>und Heinrichen
-                                                  Pfister von<placeName ref="Wädenswil">Wedischwyl</placeName>, den widerthöufferen, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>keert und jnen
+      <div><p>Nachdem herr <persName ref="Bäumler, Markus">Marx Böümler</persName>, herr <persName ref="Egli, Raphael">Raphael
+                                                  Eglj</persName> und herr
+                                                  <persName ref="Waser, Kaspar">Caspar Waser</persName>,
+                                                  deßglychen m[eister] Hanns <persName ref="Wolf, Hans Ulrich">Ulrich Wolff</persName> und beyd herrn
+                                                  nachgengere widerumb zů Jörgen Riedel uß dem
+                                                  <placeName ref="Allgäu">Algöüw</placeName> und Heinrichen
+                                                  Pfister von <placeName ref="Wädenswil">Wedischwyl</placeName>, den widerthöufferen, jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> keert und jnen
                                                   fürgehalten, wyl myn g[nedig] h[erren] berichtet,
                                                   dz Jörg Riedel sich erclagt, man habe jnne nit
                                                   gnůgsam ghört und zůr verantwortung kommen laßen,
@@ -90,7 +94,7 @@
                                                   gestrichen: wird</note>, sigind sy nachmaln
                                                   abgeordnet, sy gnugsam zůverhören und jrs
                                                   bscheidts zůerwarten.</p>
-                                                  <p>Darüber<persName ref="Riedel, Jörg">Jörg Riedel</persName>die anttwort geben, es sige vormals anzug<note type="editorial"> Erwähnung, Id. XVII, 517.</note>
+                                                  <p>Darüber <persName ref="Riedel, Jörg">Jörg Riedel</persName> die anttwort geben, es sige vormals anzug<note type="editorial"> Erwähnung, Id. XVII, 517.</note>
                                                   bschechen von der menschwerdung Christj<note type="critical">Folgt gestrichen: und</note> und
                                                   der uferstentnuß, darüber sy nit zu verandtwortung
                                                   kömen<note type="critical">Folgt gestrichen:
@@ -148,7 +152,8 @@
                                                   verdorben, Id I, 424.</note>
                                                   <note type="critical">Folgt gestrichen: lüt</note>
                                                   und hartneckig lüt belyben lassen; und sol der
-                                                  costen uß der ­toüf­fern gůt ze<placeName ref="Wädenswil">Wedeschwyl</placeName><note type="editorial"> Wädenswil</note> gnomen
+                                                  costen uß der ­toüf­fern gůt ze
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName><note type="editorial"> Wädenswil</note> gnomen
                                                   werden.</p>
                                                   </div>
     </body>

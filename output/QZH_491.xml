@@ -78,9 +78,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Edlen, vesten, frommen, fürsichtigen, eersamen unnd wyßen, jnnsonnders günnstigen gnnedigen lieben herren. Nach dem e[uer] e[rsam] wy[sheit] kurtzverrugkter tagen durch ein geschrifftliche wyßung, wie wir unns enntzwüschenndt<persName ref="Frei, Kilian">Cillian Frigen</persName>vonn Bůch an
+      <div><p>Edlen, vesten, frommen, fürsichtigen, eersamen
+                                                  unnd wyßen, jnnsonnders günnstigen gnnedigen
+                                                  lieben herren. Nach dem e[uer] e[rsam] wy[sheit]
+                                                  kurtzverrugkter tagen durch ein geschrifftliche
+                                                  wyßung, wie wir unns  <persName ref="Frei, Kilian">Cillian
+                                                  Frigen</persName> vonn Bůch an
                                                   dem Irchell<note type="editorial"> Buch am
-                                                  Irchel</note><placeName ref="Buch am Irchel"/>unnd<persName ref="Frei, Kleinanne">Kleinanne Frigen</persName>synner eefrouwen, welliche
+                                                  Irchel</note><placeName ref="Buch am Irchel">enntzwüschenndt</placeName>
+                                                  unnd <persName ref="Frei, Kleinanne">Kleinanne Frigen</persName> synner eefrouwen, welliche
                                                   nechstverschinne<note type="editorial">
                                                   letztvergangene</note> pfinngsten jnne verlassenn,
                                                   vonn lannd mit denn töüffern hinnweg - unnd (wie

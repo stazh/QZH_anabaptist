@@ -81,9 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Häsi, Ulrich">Ůlrichen Häsi</persName>ab
+      <div><p><persName ref="Häsi, Ulrich">Ůlrichen Häsi</persName> ab
                                                   Oügsten<note type="editorial"> Aeugst am
-                                                  Albis</note><placeName ref="Aeugst am Albis"/>will man von syner<persName ref="Häsi, Anna">tochter Anna</persName>,<persName ref="Bickel, Jakob">Jacob Bickels</persName>frauwen, von der ­toüf­fery
+                                                  Albis</note><placeName ref="Aeugst am Albis"/>
+                                                  will man von syner <persName ref="Häsi, Anna">tochter Anna</persName>, <persName ref="Bickel, Jakob">Jacob Bickels</persName> frauwen, von der ­toüf­fery
                                                   wegen hinder mynen herren liggenden müterlichen
                                                   gůt, deß 300 pfund<note type="critical">In der
                                                   Vorlage: lb</note> jst, an synen darmit erlitnen

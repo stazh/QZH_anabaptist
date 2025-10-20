@@ -80,7 +80,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Escher, Rudolf">Dem vogt</persName>z’Grüningen<note type="editorial"> Rudolf
+      <div><p><persName ref="Escher, Rudolf">Dem vogt</persName>
+                                                  z’Grüningen<note type="editorial"> Rudolf
                                                   Escher</note><placeName ref="Grüningen"/> soll
                                                   wyter geschriben werden, uff die toufer syn<note type="critical">In der Vorlage: sy</note>
                                                   ferere<note type="editorial"> weitere</note>

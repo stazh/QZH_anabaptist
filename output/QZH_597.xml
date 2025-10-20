@@ -83,10 +83,11 @@
       <div><p>Unnsern günstigen geneigten willen unnd alles
                                                   gůts zůvor. Frommer, vester, besonnders gethrüwer,
                                                   lieber burger unnd vogt, unns hatt unnser
-                                                  geliebter burgermeister beide<note type="critical">«beide» am Rand mit Verweiszeichen</note> (dyn
+                                                  geliebter burgermeister <note type="critical">«beide» am Rand mit Verweiszeichen</note> (dyn
                                                   unnd deß herrn dechans zů Ottenbach[s]<note type="critical">Wort aufgrund der Bindung nicht
-                                                  vollständig lesbar</note><placeName ref="Ottenbach"/>
-                                                  <note type="editorial">Dekan<persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName></note> jnnammen deß gantzen capitels) gethanne
+                                                  vollständig lesbar</note><placeName ref="Ottenbach">beide</placeName>
+                                                  <note type="editorial"> Dekan <persName ref="Bluntschli, Johannes">Johannes
+                                                  Bluntschli</persName></note> jnnammen deß gantzen capitels) gethanne
                                                   schryben<note type="editorial"> Beide Schreiben
                                                   sind nicht überliefert.</note> unnd klag der
                                                   wider­toüf­feren halber jnn dyner amptsverwaltung
@@ -152,7 +153,7 @@
                                                   16. d. octobris anno etc. 91.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Knonau">Knonouw</placeName>Hanß Heinrichen Meyer von
+                                                  <p rend="margin-top">An vogt zů <placeName ref="Knonau">Knonouw</placeName> Hanß Heinrichen Meyer von
                                                   Knonouw.</p>
                                                   </div>
     </body>

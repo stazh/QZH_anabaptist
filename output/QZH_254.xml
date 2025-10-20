@@ -78,8 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der daͤchen von Türten<note type="editorial">
-                                                  Dürnten</note><placeName ref="Dürnten"/>, h[err]<persName ref="Hamberger, Hartman">Hartman Hamberger</persName>, klagt der toͤuffern
+      <div><p>Der daͤchen von <note type="editorial">
+                                                  Dürnten</note><placeName ref="Dürnten">Türten</placeName>, h[err]
+                                                  <persName ref="Hamberger, Hartman">Hartman Hamberger</persName>, klagt der toͤuffern
                                                   halb. Und diewyl aber soͤmliche klag vil
                                                   fürgebracht und kein ernst volge, so woͤllind sy
                                                   jetzund die letst warnung gethan haben.</p>

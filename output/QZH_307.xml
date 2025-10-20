@@ -81,13 +81,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Undervogt zů<placeName ref="Horgen">Horgen</placeName>schryben, das er<persName ref="Yssig, Rudolf">Růdolfen Yßig</persName>den kremer, so sich<persName ref="Staub, N.">jnn Stouben</persName>huß
+      <div><p>Undervogt zů <placeName ref="Horgen">Horgen</placeName>
+                                                  schryben, das er <persName ref="Yssig, Rudolf">Růdolfen Yßig</persName> den kremer, so sich <persName ref="Staub, N.">jnn
+                                                  Stouben</persName> huß
                                                   enthaltet<note type="editorial"> sich
                                                   aufhalten</note> und ­toüf­ferischer seckt syn
                                                   soll, gfengklichen alher schicke. Unnd wo er mer
                                                   wüßte, die den ­toüf­fern anhangetind, das er die
                                                   ouch jnhin jnn gfangenschafft fertigen.</p>
-                                                  <p>Vogt zů<placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Rahn</note>schryben, diewyl<persName ref="Gut, Andres">Andreß Gůt</persName>zů<placeName ref="Lunnern">Lůnneren</placeName>jnn synem
+                                                  <p>Vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Rahn</note> schryben,
+                                                  diewyl <persName ref="Gut, Andres">Andreß Gůt</persName> zů
+                                                  <placeName ref="Lunnern">Lůnneren</placeName> jnn synem
                                                   ­toüf­ferischen weßen trotzlichen fürfart, soll er
                                                   jnn gfengklichen annemmen und mynen herren
                                                   zůschicken. Und wo er noch andere mer syner seckt

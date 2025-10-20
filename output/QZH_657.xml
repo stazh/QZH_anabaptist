@@ -76,7 +76,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Eß sol dem herrn<note type="editorial">Pfarrer<persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName></note> ghan<placeName ref="Ottenbach">Ottenbach</placeName>geschriben
+      <div><p>Eß sol dem herrn<note type="editorial"> Pfarrer
+                                                   <persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName></note> ghan
+                                                  <placeName ref="Ottenbach">Ottenbach</placeName> geschriben
                                                   werden, harjnnen angedüthe personen mynen herrn
                                                   nammhafft zů machen.</p>
                                                   </div>

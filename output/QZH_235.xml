@@ -81,8 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als<persName ref="Röuchli, Johannes">her vogt</persName>von Wedischwil<note type="editorial"> Johannes
-                                                  Röuchli</note><placeName ref="Wädenswil"/> myn
+      <div><p> <persName ref="Röuchli, Johannes">her vogt</persName>
+                                                  von Wedischwil<note type="editorial"> Johannes
+                                                  Röuchli</note><placeName ref="Wädenswil">Als</placeName> myn
                                                   herren bericht, wie er einen ­toüf­fer jnn
                                                   gefengknus und die gerichts lüth begerint, jnen
                                                   den abzenemen, doch jren frigheiten<note type="editorial"> Freiheiten</note> one schaden,
@@ -95,7 +96,9 @@
                                                   töüffer mynen herren zuschicken. Welchs jnen
                                                   onschedlich an jren frigheiten syn solle. Darneben
                                                   aber solle er, der vogt, angends<note type="editorial"> unverzüglich, Id. II, 19.</note>
-                                                  den puren zu<placeName ref="Wädenswil, Gisenrüti">Gisenrüti</placeName>, so ein rechter redlifürer jst, nachstellen und understan, jnn zu synen handen zebringen, ob er<persName ref="Clotter, N.">den Cloter</persName>jnhin schicke. Und diewyl
+                                                  den puren zu <placeName ref="Wädenswil, Gisenrüti">Gisenrüti</placeName>, so ein rechter
+                                                  redlifürer jst, nachstellen und understan, jnn zu
+                                                  synen handen zebringen, ob er <persName ref="Clotter, N.">den Cloter</persName> jnhin schicke. Und diewyl
                                                   dieselben sich treffenlich<note type="editorial">
                                                   in starkem Mass, Id. XIV, 395.</note> da obnen
                                                   merent, das dann er uff sy acht<note type="critical">Folgt gestrichen: ab</note> haben,
@@ -104,10 +107,11 @@
                                                   werden, jnnen jnn das Frigampt<note type="editorial"> Freiamt, ein in die Landvogtei
                                                   Knonau integriertes
                                                   Herrschaftsgebiet</note><placeName ref="Freiamt"/>
-                                                  auch<placeName ref="Horgen">Horgen</placeName>nachiagen<note type="critical">Folgt gestrichen:
-                                                  sollen</note>. Das soll ouch<persName ref="Meyer, Ludwig">dem vogt</persName>zu Knonow<note type="editorial"> Ludwig
+                                                  auch <placeName ref="Horgen">Horgen</placeName>
+                                                  nachiagen<note type="critical">Folgt gestrichen:
+                                                  sollen</note>. Das soll ouch <persName ref="Meyer, Ludwig">dem vogt</persName> zu Knonow<note type="editorial"> Ludwig
                                                   (Rosen-)Meyer</note><placeName ref="Knonau"/>
-                                                  zugeschriben werden, item gen Grüningen<note type="editorial"><persName ref="Breitinger, Rudolf">Rudolf Breitinger</persName>, Landvogt von
+                                                  zugeschriben werden, item gen Grüningen<note type="editorial"> <persName ref="Breitinger, Rudolf">Rudolf Breitinger</persName>, Landvogt von
                                                   Grüningen</note><placeName ref="Grüningen"/>,
                                                   gedenck m. Bertschinger ouch anzuzeigen.</p>
                                                   </div>

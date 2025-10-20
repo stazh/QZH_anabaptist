@@ -82,8 +82,8 @@
       <div><p>Unnsern frundtlichen, sunders geneygten willen
                                                   unnd alles gůts zůvor. Ersamer, wyser, jnnsunders
                                                   getrüwer, lieber burger unnd vogt. Es ist eyn alte
-                                                  frow zů Tälligken<note type="editorial">
-                                                  Dällikon</note><placeName ref="Dällikon"/>, die
+                                                  frow zů <note type="editorial">
+                                                  Dällikon</note><placeName ref="Dällikon">Tälligken</placeName>, die
                                                   der lütprister daselbs dir jnn eym geheym wol
                                                   anzeygen wirt, mit der ­toüf­fery, darumbe sy dann
                                                   vor<note type="editorial"> vorher, früher</note>
@@ -112,7 +112,7 @@
                                                   fängklich zůfuͤren<note type="critical">Folgt
                                                   gestrichen: lasßenn</note> unnd überanndtwurten
                                                   lasßenn.</p>
-                                                  <p>Wytter so langt unns gloüplich an<note type="editorial"> anlangen: zugetragen werden, als
+                                                  <p>Wytter so langt   <note type="editorial"> anlangen: zugetragen werden, als
                                                   Kunde zukommen, Id. III, 1330.</note>, wie sich
                                                   die ­toüf­fer abermaln<note type="critical">«abermaln» über der Zeile</note> träffennlich umb
                                                   din amptsverwaltung herumb<note type="critical">Folgt gestrichen: meeren</note> erheben unnd
@@ -120,10 +120,10 @@
                                                   schaar uff der undermarch<note type="editorial">
                                                   Grenze, Markstein, Id. IV, 389.</note> ob
                                                   Schneysingen<note type="editorial">
-                                                  Schneisingen</note><placeName ref="Schneisingen"/>, wo<note type="critical">In der Vorlage: wie;
+                                                  Schneisingen</note><placeName ref="Schneisingen">an</placeName>, wo<note type="critical">In der Vorlage: wie;
                                                   folgt gestrichen: der gr</note> unnser, deßglychen
-                                                  der graafschafft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>unnd unnsers
-                                                  gnedigen herren von<placeName ref="Konstanz">Costentz</placeName>gerichte zůsamenn stosßend, jnn
+                                                  der graafschafft <placeName ref="Baden (Landgrafschaft)">Baden</placeName> unnd unnsers
+                                                  gnedigen herren von <placeName ref="Konstanz">Costentz</placeName> gerichte zůsamenn stosßend, jnn
                                                   dem holtz<note type="editorial"> Wald</note>
                                                   zůsamenn komenn<note type="critical">Folgt
                                                   gestrichen: sollenn</note>, unnd da jr wäsen unnd
@@ -140,9 +140,11 @@
                                                   anheymisch<note type="editorial"> anwesend, Id.
                                                   II, 1286.</note> wirt, das du eygener person zuͤ
                                                   jmm gan Baden<note type="critical">«gan Baden» am
-                                                  Rand mit Verweiszeichen</note><placeName ref="Baden (Landgrafschaft)"/>keeren unnd mit jm, deßglychen unnserem burger<persName ref="Schulthess, Cornel">Cornell Schultheyß</persName>,
+                                                  Rand mit Verweiszeichen</note><placeName ref="Baden (Landgrafschaft)">gloüplich</placeName> keeren unnd mit jm,
+                                                  deßglychen unnserem burger <persName ref="Schulthess, Cornel">Cornell
+                                                  Schultheyß</persName>,
                                                   vogt zů Keyserstůll<note type="critical">korrigiert, ursprünglich:
-                                                  Keysersperg</note><placeName ref="Kaiserstuhl"/>
+                                                  Keysersperg</note><placeName ref="Kaiserstuhl">unns</placeName>
                                                   (denen wir deßhalb ouch geschriben<note type="editorial"> Vgl. die nachfolgenden zwei
                                                   Nummern (das Schreiben an Adreas Schmid und das an
                                                   Cornel Schulthess).</note>), eyn anschlag<note type="editorial"> Plan, Verabredung, Id. IX,
@@ -171,12 +173,14 @@
                                                   zyt<note type="critical">Folgt gestrichen:
                                                   un</note> gegen dir zůerkennen geneygt sin
                                                   wellent.<note type="critical">Folgt gestrichen:
-                                                  wellist ouch</note> Uß<placeName ref="Zürich">Zürich</placeName>zynßtags nach mittvasten anno etc.
+                                                  wellist ouch</note> Uß <placeName ref="Zürich">Zürich</placeName> zynßtags nach mittvasten anno etc.
                                                   1538.</p>
                                                   <p rend="margin-top">Bůrgermeister unnd rhat der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem eersamen, wysen, unnserem
-                                                  jnnsonnders getruwen, lieben burger unnd vogt zů<placeName ref="Regensberg">Regensperg</placeName><persName ref="Steinbrüchel, Erhard">Eerhardten Steynbrüchhel.</persName></p>
+                                                  jnnsonnders getruwen, lieben burger unnd  <placeName ref="Regensberg">vogt</placeName> Eerhardten
+                                                  Steynbrüchhel.<persName ref="Steinbrüchel, Erhard">zů
+                                                  Regensperg</persName></p>
                                                   </div>
     </body>
   </text>

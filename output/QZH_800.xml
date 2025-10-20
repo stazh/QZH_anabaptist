@@ -78,12 +78,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, wir werdent von dem unsern Hans<persName ref="Erzinger, Hans Heinrich">Heinrich Ertzinger</persName>berichtet, alsdann
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, wir werdent von dem unsern
+                                                   <persName ref="Erzinger, Hans Heinrich">Heinrich Ertzinger</persName> berichtet, alsdann
                                                   er synen hoff uff Schoubingen<note type="editorial"> Schaubigen, am
-                                                  Pfannenstiel</note><placeName ref="Schaubigen"/>dyner amptsverwaltung gegen synem vetern<persName ref="Erzinger, Heinrich">Heinrichen Ertzinger</persName>verkoufft und albereit
+                                                  Pfannenstiel</note><placeName ref="Schaubigen">Hans</placeName>
+                                                  dyner amptsverwaltung gegen synem vetern
+                                                  <persName ref="Erzinger, Heinrich">Heinrichen Ertzinger</persName> verkoufft und albereit
                                                   demselben den hof übergeben und er mit dem synen
                                                   zů den unseren gen Esch<note type="editorial">
-                                                  Aesch bei<placeName ref="Aesch bei Birmensdorf">Birmensdorf</placeName></note> züchen und
+                                                  Aesch bei <placeName ref="Aesch bei Birmensdorf">Birmensdorf</placeName></note> züchen und
                                                   verfahren wellen, habist du jme alls von wegen
                                                   synes vaters Heinrich Ertzingers deß<note type="critical">Folgt gestrichen: vaters</note>
                                                   ­toüf­fers als ­toüf­fer gůt jnn verbot<note type="editorial"> Sequester, Beschlag, Grimm 25,
@@ -127,7 +132,8 @@
                                                   octob[ris] a[nn]o 1606.</p>
                                                   <p rend="margin-top">Burgermeister und rhat der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
                                                   Eich.</p>
                                                   </div>
     </body>

@@ -78,7 +78,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alls guts zuvor. Frommer, wyser, besonnders gethrüwer, lieber burger und vogt, wir habent den unsern, dyn amptsangehörigen<persName ref="Weber, Gorius">Goriusen Wäbern</persName>von Ebertschwyl<note type="editorial"> Eberstwil</note><placeName ref="Ebertswil"/>, so der ­toüf­ferischen sect
+      <div><p>Unnsern günstigen geneigten willen und alls
+                                                  guts zuvor. Frommer, wyser, besonnders gethrüwer,
+                                                  lieber burger und vogt, wir habent den unsern, dyn
+                                                   <persName ref="Weber, Gorius">Goriusen Wäbern</persName> von Ebertschwyl<note type="editorial"> Eberstwil</note><placeName ref="Ebertswil">amptsangehörigen</placeName>, so der ­toüf­ferischen sect
                                                   annhengig gwesen, uff syn vor etlichen unnsern
                                                   lieben mitredten gethonn versprechen, dz er wie
                                                   ander synne kilchgnossen zu kilchen gonn unnd
@@ -139,7 +142,8 @@
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem fromen, wysen, unserm
-                                                  besonders gethrüwen, lieben burger und vogt zu<placeName ref="Knonau">Knonow</placeName>Anderes
+                                                  besonders gethrüwen, lieben burger und vogt zu
+                                                  <placeName ref="Knonau">Knonow</placeName> Anderes
                                                   Brämen.</p>
                                                   </div>
     </body>

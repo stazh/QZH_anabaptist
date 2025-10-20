@@ -79,7 +79,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern gunstigen, geneigten willen unnd alles gůts zůvor. Ersamer, wyser, besonnders gethrüwer, lieber burger unnd vogt, der unnser,<persName ref="Gut, Andres">Andares Gůt</persName>von<placeName ref="Lunnern">Lunneren</placeName>, so du
+      <div><p>Unnsern gunstigen, geneigten willen unnd alles
+                                                  gůts zůvor. Ersamer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, der unnser, <persName ref="Gut, Andres">Andares
+                                                  Gůt</persName> von
+                                                  <placeName ref="Lunnern">Lunneren</placeName>, so du
                                                   unns<note type="critical">Folgt gestrichen:
                                                   vor</note> kurtz hievor verschiner tagen von wegen
                                                   syner jrrigien meinung der ­toüf­feryg<note type="critical">Folgt gestrichen: z</note>
@@ -125,9 +129,11 @@
                                                   dir jnn gnaden zuerwidern geneigt. Datum mittwuchs
                                                   den 4ten septembris anno d[omini] 66.</p>
                                                   <p rend="margin-top">B[urgermeister] u[nd] r[at]
-                                                  d[er] st[att]<placeName ref="Zürich">Z[ürich]</placeName>.</p>
+                                                  d[er] st[att] Z[ürich]<placeName ref="Zürich"/>.</p>
                                                   <p rend="margin-top">Dem ersamen, wysen, unnserm
-                                                  jnnsonders gethrüwen, lieben burger unnd vogt zu<placeName ref="Knonau">Knonouw</placeName><persName ref="Rahn, Hans">Hanns Raanen</persName>.</p>
+                                                  jnnsonders gethrüwen, lieben burger unnd vogt zu
+                                                  <placeName ref="Knonau">Knonouw</placeName> <persName ref="Rahn, Hans">Hanns
+                                                  Raanen</persName>.</p>
                                                   </div>
     </body>
   </text>

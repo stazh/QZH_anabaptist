@@ -81,10 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die almoßens pfleger söllent<persName ref="Hofstetter, N.">N. Hofsteters</persName>von
+      <div><p>Die almoßens pfleger söllent N.
+                                                  <persName ref="Hofstetter, N."/> von
                                                   Hengst<note type="editorial">
-                                                  Heisch</note><placeName ref="Heisch"/> knaben, der
-                                                  jnn<placeName ref="Mähren">Merrhern</placeName>gefuͤrt werden söllen, zů einem handtwerck verdingen. Das töchterlj aber soll<persName ref="Ringger, N.">seckelmeister Ringger</persName>von<placeName ref="Hausen am Albis">Hußen</placeName>, der kinden vogt, uß jrem
+                                                  Heisch</note><placeName ref="Heisch">Hofsteters</placeName> knaben, der
+                                                  jnn <placeName ref="Mähren">Merrhern</placeName> gefuͤrt
+                                                  werden söllen, zů einem handtwerck verdingen. Das
+                                                  töchterlj aber soll <persName ref="Ringger, N.">seckelmeister Ringger</persName> von <placeName ref="Hausen am Albis">Hußen</placeName>, der kinden vogt, uß jrem
                                                   guͤtlj<note type="editorial"> Grundstück, Id. II,
                                                   546f.</note> selbs verdingen und versehen<note type="editorial"> dafür sorgen, Id. VII,
                                                   572.</note>, das es erzogen werde, biß es syn můß

@@ -78,8 +78,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der dechan von<placeName ref="Regensberg">Regensperg</placeName>und<persName ref="Haldenstein, Rudolf">der pfarrer</persName>von Waͤningen<note type="editorial"> Rudolf
-                                                  Haldenstein</note><placeName ref="Niederweningen"/> zugend an und sagtend vil, wie die toͤuffer der
+      <div><p>Der dechan  <placeName ref="Regensberg">Regensperg</placeName> und <persName ref="Haldenstein, Rudolf">der pfarrer</persName> von Waͤningen<note type="editorial"> Rudolf
+                                                  Haldenstein</note><placeName ref="Niederweningen">von</placeName> zugend an und sagtend vil, wie die toͤuffer der
                                                   orten so fraͤch werind und fast<note type="editorial"> stark</note> zůnaͤmind etc.</p>
                                                   </div>
     </body>

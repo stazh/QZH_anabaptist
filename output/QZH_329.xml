@@ -79,10 +79,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Gessner, Abraham">Aberham Gäßner</persName>gipt uff gethonen fürhalt<note type="editorial"> Vorhaltung, Vorwurf</note> der worten halb, so
+      <div><p><persName ref="Gessner, Abraham">Aberham Gäßner</persName> gipt uff gethonen fürhalt<note type="editorial"> Vorhaltung, Vorwurf</note> der worten halb, so
                                                   Zur Stägen verloffen, dise antwurt: Als er ettwas
                                                   zyts jnn übung gehept, das er vil mit ettlichen
-                                                  herren predicanten gespatiert<note type="editorial"> disputiert</note>unnd die<persName ref="Hartmann, Isaak">beid Hartmanen</persName>das
+                                                  herren predicanten gespatiert<note type="editorial"> disputiert</note> unnd die <persName ref="Hartmann, Isaak">beid
+                                                  Hartmanen</persName> das
                                                   gesechen, hetten sy jnne alweg ein töüffer
                                                   geschulten und vil wesens getriben, das er
                                                   lettstlichen nie mer erlyden mögen, sonder gesagt,
@@ -92,7 +93,11 @@
                                                   gestrichen: da</note> sy nützit uff der
                                                   offenbarung Johannis hetten, wie sy dann ettwan
                                                   gegen jm gethon und gsagt, das sy nüt daruff,
-                                                  sonder es allein für ein gedicht<note type="critical">Folgt gestrichen: unnd</note>, so nit<persName ref="Johannes (Seher)">von Johanne</persName>geschriben, habint<note type="critical">korrigiert, ursprünglich: halten</note>. Wie man sy demnach uff den heligen ostertag Zur Stägen kommen, seite<persName ref="Hartmann, Jakob">Jacob Hartman</persName>, das er den wyn nit für
+                                                  sonder es allein für ein gedicht<note type="critical">Folgt gestrichen: unnd</note>, so
+                                                  nit <persName ref="Johannes (Seher)">von Johanne</persName>
+                                                  geschriben, habint<note type="critical">korrigiert, ursprünglich: halten</note>. Wie man
+                                                  sy demnach uff den heligen ostertag Zur Stägen
+                                                  kommen, seite <persName ref="Hartmann, Jakob">Jacob Hartman</persName>, das er den wyn nit für
                                                   ein gab gottes hielte<note type="critical">Folgt
                                                   gestrichen: sonder</note>, dann man dardurch nun
                                                   voll und ungschickt werde. Das were der anfang und
@@ -158,14 +163,14 @@
                                                   clag mer von<note type="critical">Folgt
                                                   gestrichen: h</note> jm hören söllen.</p>
                                                   <p rend="margin-top">[Urteil]: Myne herren wellent
-                                                  an dißer syner antwurt ein vernügen<note type="editorial"> Genügen</note> haben, das beßer
+                                                  an dißer syner antwurt <note type="editorial"> Genügen</note> haben, das beßer
                                                   glouben, jnne uff ein urphecht nach abrichtung
                                                   alles costens der gefanngenschafft erlaßen unnd
                                                   habent alle reden unnd hanndlungen, so sich jnn
                                                   dißer sach verlouffen, ufgehept, also das
                                                   dieselben keinen theil an synen eeren nützit
                                                   haben. Actum sambstags den 11ten aprilis anno
-                                                  1573, pr[aesen]t[ibus] herr Bram<note type="editorial"> Hans Bräm</note><persName ref="Bräm, Hans"/> (burgermeister) unnd beid
+                                                  1573, pr[aesen]t[ibus] herr Bram<note type="editorial"> Hans Bräm</note><persName ref="Bräm, Hans">ein vernügen</persName> (burgermeister) unnd beid
                                                   reth.</p>
                                                   </div>
     </body>

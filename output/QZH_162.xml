@@ -79,7 +79,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Burgermeister und rät der statt<placeName ref="Zürich">Zürich</placeName>. Unnsern
+      <div><p>Burgermeister und rät der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>. Unnsern
                                                   früntlichen sunders geneigten willen und alles
                                                   gůtz zůvor. Fromer und wyser, insonders lieber,
                                                   gethrüwer burger und vogt. Wir haben
@@ -171,7 +172,9 @@
                                                   Zürich, mitwüchs nach sant Gallen tag anno etc.
                                                   1535.</p>
                                                   <p rend="margin-top">Dem fromen und wysen, unserem
-                                                  jnsunders lieben und getrüwen burger und vogt zů<placeName ref="Kyburg">Kyburg</placeName>, Johans<persName ref="Lavater, Hans Rudolf">Růdolff Laffatern.</persName></p>
+                                                  jnsunders lieben und getrüwen burger und  <placeName ref="Kyburg">vogt</placeName>, Johans Růdolff
+                                                  Laffatern.<persName ref="Lavater, Hans Rudolf">zů
+                                                  Kyburg</persName></p>
                                                   </div>
     </body>
   </text>

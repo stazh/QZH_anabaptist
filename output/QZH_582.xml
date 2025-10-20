@@ -76,10 +76,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als herr statthalter Widerkherr<note type="editorial"> Bernhard
-                                                  Wiederkehr</note><persName ref="Wiederkehr, Bernhard"/> mit den beiden
+      <div><p>Als herr <note type="editorial"> Bernhard
+                                                  Wiederkehr</note><persName ref="Wiederkehr, Bernhard">statthalter Widerkherr</persName> mit den beiden
                                                   geordneten herrn nachgengeren widerumb zu Isacen
-                                                  Hartman unnd Heinrich Wyßen jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kert unnd erstlich uß bevelch üwer myner gnedigen
+                                                  Hartman unnd Heinrich Wyßen jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  kert unnd erstlich uß bevelch üwer myner gnedigen
                                                   herren Heinrich Wyßen mit allem erntst befragt, wo
                                                   syn beschriben<note type="critical">Folgt
                                                   gestrichen: to beschriben</note> bůch wider den
@@ -96,7 +98,8 @@
                                                   er wider den touff beschriben, darvon wüsse er,
                                                   jnmaaßen er sich hievor ouch entschuldiget, gantz
                                                   unnd gar nützit<note type="critical">Folgt
-                                                  gestrichen: dann</note> unnd habe er dheins<note type="editorial"> keines</note>dann deß<persName ref="Felbinger, Klaus">Niclous Felbingers</persName>.
+                                                  gestrichen: dann</note> unnd habe er dheins<note type="editorial"> keines</note> dann deß <persName ref="Felbinger, Klaus">Niclous
+                                                  Felbingers</persName>.
                                                   Desßglychen so habe er ouch dhein lied gemachet
                                                   unnd syge jme von dheinem<note type="critical">Folgt gestrichen: lied</note> dann dem marterlied
                                                   der ­toüf­feren, so er ghept, aber nit gmacht,
@@ -112,7 +115,7 @@
                                                   vorwüßen etlicher anderer üwer<note type="critical">«üwer» über der Zeile</note> myner
                                                   herren.</p>
                                                   <p>Die taler, darvon Isac Hartman gredt haben
-                                                  sölte, das die zů<placeName ref="Nürnberg">Nürenberg</placeName>an prangen sygind geschlagen
+                                                  sölte, das die zů <placeName ref="Nürnberg">Nürenberg</placeName> an prangen sygind geschlagen
                                                   worden, betreffent, wüsse er nützit, dann das uff
                                                   ein zyt darvon gredt, könne aber nit anzeigen, ob
                                                   Hartmann oder ein anderer ald<note type="editorial"> oder</note> wer das gredt.</p>
@@ -127,7 +130,8 @@
                                                   gnedigklichen zůerlassen, welle er sich fürterhin
                                                   als einem frommen christen unnd biderman zůstande
                                                   halten.</p>
-                                                  <p rend="margin-top">So denne habent gemelte verordnete herren<persName ref="Hartmann, Isaak">Isacen Hartman</persName>ouch für<note type="editorial"> vor</note> sich genommen unnd
+                                                  <p rend="margin-top">So denne habent gemelte
+                                                  verordnete herren <persName ref="Hartmann, Isaak">Isacen Hartman</persName> ouch für<note type="editorial"> vor</note> sich genommen unnd
                                                   jme syn jnzüchen<note type="editorial"> aufnehmen,
                                                   beherbergen, <hl to="https://fwb-online.de/lemma/einziehen.s.3vu"><Hyperlink>https://fwb-online.de/lemma/einziehen.s.3vu</Hyperlink></hl>
                                                   (Frühneuhochdeutsches Wörterbuch).</note> der
@@ -142,7 +146,9 @@
                                                   sygind geschlagen worden. Uber welliche artickel
                                                   er sich volgender maaßen verantwortet,
                                                   namlich:</p>
-                                                  <p>So vil das jnzüchen der ­toüf­feren betrifft, syge nit weniger, dann das er vor 8 jaren synen schwager<persName ref="Grob, Kaspar">Caspar Groben</persName>, wann der alher khommen, beherberget unnd
+                                                  <p>So vil das jnzüchen der ­toüf­feren betrifft,
+                                                  syge nit weniger, dann das er vor 8 jaren synen
+                                                  schwager <persName ref="Grob, Kaspar">Caspar Groben</persName>, wann der alher khommen, beherberget unnd
                                                   sonderlichen uff ein mal, als er mit einem anderen
                                                   syner gspannen harkhommen, habe syn schwager
                                                   gseit, dörffe vor s[anct] Gallen tag<note type="editorial"> 16. Oktober</note> nit wider
@@ -166,7 +172,9 @@
                                                   <p>Wyßen bůch vom kindertouff unnd dem<note type="critical">«dem» über der Zeile, in der Zeile
                                                   gestrichen: das</note> lied habe er nie mehr
                                                   nachkhommen<note type="editorial"> Folge leisten,
-                                                  verstehen</note>khönnen. Sontsten syge ein bůch unnd lied verhanden gsyn, da andere mehr gsagt,<persName ref="Wyss, Heinrich">das Wyß</persName>die
+                                                  verstehen</note> khönnen. Sontsten syge ein bůch
+                                                  unnd lied verhanden gsyn, da andere mehr gsagt,
+                                                  <persName ref="Wyss, Heinrich">das Wyß</persName> die
                                                   gemachet, wo die aber hinkhommen, möge er nit
                                                   wüssen.</p>
                                                   <p>Unnd letstlichen die ufgeschlagnen taler

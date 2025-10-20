@@ -78,10 +78,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der dechan von Baͤrotschwyl<note type="editorial"> Niklaus
-                                                  Schnyder</note><placeName ref="Bäretswil"/> klagt,
+      <div><p>Der dechan von Baͤ<note type="editorial"> Niklaus
+                                                  Schnyder</note><placeName ref="Bäretswil">rotschwyl</placeName> klagt,
                                                   wie von allterhar die toͤuffer naͤmend zů daoben
-                                                  imm Gruͤninger<placeName ref="Grüningen (Landvogtei)">ampt</placeName>. Da were kurtzlich<persName ref="Streler, N.">der Straͤler</persName>toͤuffer
+                                                  imm Gruͤninger <placeName ref="Grüningen (Landvogtei)">ampt</placeName>. Da were kurtzlich
+                                                  der Straͤler<persName ref="Streler, N."/> toͤuffer
                                                   gstorben und haͤtte, alls man vermeinte, ein
                                                   betrunglich testament gemacht, damitt sine erben
                                                   nitt umb die haab des eerbs sines meineydts halb

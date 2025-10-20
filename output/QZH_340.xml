@@ -81,9 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Grüningen">Gruͤningen</placeName>schryben, das er jnnhalt deß mandaths gegen den
+      <div><p>Vogt zů Gruͤ<placeName ref="Grüningen">ningen</placeName>
+                                                  schryben, das er jnnhalt deß mandaths gegen den
                                                   ­toüf­fern allen fürfaren. Sovil aber den
-                                                  werchmeister und sennen zů<placeName ref="Bubikon">Bůbiken</placeName>, so nit zkilchen gand, belanget,
+                                                  werchmeister und sennen zů <placeName ref="Bubikon">Bůbiken</placeName>, so nit zkilchen gand, belanget,
                                                   soll er jnne anzeigen lassen, das sy jnn monats
                                                   frist ouch wie andere gehorsame jnn die kilchen
                                                   zůr predig und bätt gangint. Wo sy aber das nit

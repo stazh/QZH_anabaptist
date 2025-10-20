@@ -78,8 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>­<hi rend="italic">Der Abgesandte von<placeName ref="Zürich">Zürich</placeName>soll die Anfrage
-                                                  des Landvogts von<placeName ref="Baden">Baden</placeName>,
+      <div><p>­<hi rend="italic">Der Abgesandte von
+                                                  <placeName ref="Zürich">Zürich</placeName> soll die Anfrage
+                                                  des Landvogts von <placeName ref="Baden">Baden</placeName>,
                                                   wie man gegen die Täufer vorgehen solle, zur
                                                   Beantwortung an den Bürgermeister und Rat von
                                                   Zürich weiterleiten.</hi></p>

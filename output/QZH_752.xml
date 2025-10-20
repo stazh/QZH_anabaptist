@@ -79,9 +79,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Frommer, ehrenvester, fürsichtiger<note type="critical">In der Vorlage: fürsichter</note>, fürnemmer undt wyßer, jnsonders hoch eerrender herr burgermeister unndt fründtlicher lieber schwager. Es sind vor mir erschinen des<persName ref="Rüegg, Jaggli">Jogli Rüggen</persName>des thöuffers, so jn üwer (m[iner] gnedigen herren) gefangenschafft ligt, eeliche hußfrow mit sampt<persName ref="Rüegg, Hans">Hanß Rüggen</persName>uff der
+      <div><p>Frommer, ehrenvester, <note type="critical">In der Vorlage: fürsichter</note>,
+                                                  fürnemmer undt wyßer, jnsonders hoch eerrender
+                                                  herr burgermeister unndt fründtlicher lieber
+                                                  schwager. Es sind vor mir erschinen des <persName ref="Rüegg, Jaggli">Jogli
+                                                  Rüggen</persName> des
+                                                  thöuffers, so jn üwer (m[iner] gnedigen herren)
+                                                  gefangenschafft ligt, eeliche hußfrow mit sampt
+                                                  <persName ref="Rüegg, Hans">Hanß Rüggen</persName> uff der
                                                   Flů<note type="editorial"> Fluh, Weiler in der
-                                                  Gemeinde Bauma.</note><placeName ref="Bauma, Fluh"/>, synem brůder, unnd mich hochtrungenlich
+                                                  Gemeinde Bauma.</note><placeName ref="Bauma, Fluh">fürsichtiger</placeName>, synem brůder, unnd mich hochtrungenlich
                                                   gebethen, diewyl vorgemelter thöuffer als jr ehman
                                                   und brůder von synem jrßal<note type="editorial">
                                                   Irrtum, Irrlehre, Id. I, 411.</note> der
@@ -103,7 +110,8 @@
                                                   wan jnen sollicher costen wurde uffgleith, so
                                                   müßen sy uff die gaßen und an bedtelstab
                                                   geschlagen werden, ouch dem almůßen uffbunden syn,
-                                                  dan sy mir den costen, so über jnn zů<placeName ref="Kyburg">Kyburg</placeName>ergangen, nit
+                                                  dan sy mir den costen, so über jnn zů
+                                                  <placeName ref="Kyburg">Kyburg</placeName> ergangen, nit
                                                   zůerleggen gehept, sonder jnnen ethwas daran
                                                   geschengkt unnd nachgelaßen. Jr wellen anordnung
                                                   geben und verschaffen<note type="editorial">
@@ -137,7 +145,8 @@
                                                   Kyburg</p>
                                                   <p rend="margin-top">Dem frommen, ehrenvesten,
                                                   fürsichtigen, fürnemmen unndt wyßen herren
-                                                  Heinrich Bremmen, burgermeister der statt<placeName ref="Zürich">Zürich</placeName>, mynem hoch
+                                                  Heinrich Bremmen, burgermeister der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>, mynem hoch
                                                   ehrrenden, jnsonders gönstigen, lieben herren und
                                                   schwagern.</p>
                                                   </div>

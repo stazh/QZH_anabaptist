@@ -78,8 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Dem vogt zů Gruͤningen<note type="editorial">Jakob<persName ref="Zur Eich, Jakob">Zur Eich</persName></note><placeName ref="Grüningen"/> unnd auch
-                                                  dem undervogt zů<placeName ref="Küsnacht">Küßnacht</placeName>soll erntstlich geschriben werden, sy<note type="editorial"><persName ref="Erzinger, Hansmann">Hansmann Erzinger</persName>und seine Frau, vgl. die
+      <div><p>Dem vogt zů Gruͤ<note type="editorial">
+                                                  Jakob <persName ref="Zur Eich, Jakob">Zur Eich</persName></note><placeName ref="Grüningen">ningen</placeName> unnd auch
+                                                  dem undervogt zů <placeName ref="Küsnacht">Küßnacht</placeName> soll erntstlich geschriben werden, sy<note type="editorial">  <persName ref="Erzinger, Hansmann">Hansmann Erzinger</persName>und seine Frau, vgl. die
                                                   vorausgehende Nummer.</note> gfengklich anzůnemmen
                                                   unnd mynen herren zůzeschicken. Decretum coram
                                                   senatu, den 24ten decemb[ris] 1604</p>

@@ -79,8 +79,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Ersammer, wyßer, besonnders getrüwer, lieber burger unnd vogt, wir habent geachtet, du hettist<persName ref="Gut, Andres">Andresß Gůten</persName>von<placeName ref="Lunnern">Luneren</placeName>und<persName ref="Schnewli, Heini">Heinj Schnewlis</persName><note type="critical">korrigiert, ursprünglich:
-                                                  Schwellis</note> sun von<placeName ref="Affoltern am Albis">Affholtern</placeName>, so jrer
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Ersammer, wyßer, besonnders getrüwer,
+                                                  lieber burger unnd vogt, wir habent geachtet, du
+                                                  hettist <persName ref="Gut, Andres">Andresß Gůten</persName>
+                                                  von <placeName ref="Lunnern">Luneren</placeName> und <persName ref="Schnewli, Heini">Heinj
+                                                  Schnewlis</persName><note type="critical">korrigiert, ursprünglich:
+                                                  Schwellis</note> sun von <placeName ref="Affoltern am Albis">Affholtern</placeName>, so jrer
                                                   ­toüf­ferischen, jrigen, verfuͤrischen seckt nitt
                                                   abstaan wellend<note type="critical">«wellend»
                                                   über der Zeile, in der Zeile gestrichen:
@@ -118,8 +123,8 @@
                                                   bscheidts ferner verstendigen. Datum mittwuchs den
                                                   30ten aprillis anno etc. lxvij.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
-                                                  statt<placeName ref="Zürich">Zürich</placeName>.</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Knonau">Knonouw</placeName></p>
+                                                  statt <placeName ref="Zürich">Zürich</placeName>.</p>
+                                                  <p rend="margin-top">An vogt zů <placeName ref="Knonau">Knonouw</placeName></p>
                                                   </div>
     </body>
   </text>

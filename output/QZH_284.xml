@@ -79,7 +79,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Gestrengen, fromen, vesten, fürsichtigen unnd wysen, jnsonnders gnedigen jr min herrenn, min underthenig, gehorsam, willig dienst sigend u[wer] w[yßheit] allzitt bereytt zůvor. Demnach üch, min gnedig herren, wol jndenck, wie jr mir letstlichenn zůgeschriben antreffend<persName ref="Gut, Andres">Andres Gůtten</persName>von<placeName ref="Lunnern">Luneren</placeName>des
+      <div><p>Gestrengen, fromen, vesten, fürsichtigen unnd
+                                                  wysen, jnsonnders gnedigen jr min herrenn, min
+                                                  underthenig, gehorsam, willig dienst sigend u[wer]
+                                                  w[yßheit] allzitt bereytt zůvor. Demnach üch, min
+                                                  gnedig herren, wol jndenck, wie jr mir
+                                                  letstlichenn   <persName ref="Gut, Andres">Andres
+                                                  Gůtten</persName> von
+                                                  <placeName ref="Lunnern">Luneren</placeName> des
                                                   touffers<note type="editorial"> Vgl.
                                                   Nr. 116.</note>, wie das ich sin hußfrowen mit
                                                   ernst ermanne, das sy gedachten jren eman, diewil
@@ -103,10 +110,10 @@
                                                   gipt etc. Demnach so fugen ich üch, minen gnedigen
                                                   herren, witter zůwüßen, das noch ein touffer
                                                   uffgestanden ist zů Affhollteren<note type="editorial"> Affoltern am
-                                                  Albis</note><placeName ref="Affolthern am Albis"/>, der<persName ref="Schnewli, Heini">Heinj Schnewlis</persName>sunn. Da mir fürkomen, das
+                                                  Albis</note><placeName ref="Affolthern am Albis">antreffend</placeName>, der <persName ref="Schnewli, Heini">Heinj Schnewlis</persName> sunn. Da mir fürkomen, das
                                                   er alle sunntag sych nütt wytt vonn
                                                   Wedeschwil<note type="editorial">
-                                                  Wädenswil</note><placeName ref="Wädenswil"/>
+                                                  Wädenswil</note><placeName ref="Wädenswil">zůgeschriben</placeName>
                                                   verfüge zů anderen ­toüf­ferenn, die daselbs um
                                                   daheim sigennd und jr versamlung daselbs habend by
                                                   zwentzig personnen, hab ich nechst verschiner
@@ -141,12 +148,14 @@
                                                   1566.</p>
                                                   <p rend="margin-top">Uwer allezitt gehorsamer
                                                   williger dienner</p>
-                                                  <p>Hanns Raann, derzitt vogt zů<placeName ref="Knonau">Knonouw</placeName>.</p>
+                                                  <p>Hanns Raann, derzitt vogt zů <placeName ref="Knonau">Knonouw</placeName>.</p>
                                                   <p rend="margin-top">Denn fromen, vesten,
                                                   fürsichtigen, ersamen und wysenn herren,
-                                                  bůrgermeister und rath der statt<placeName ref="Zürich">Zürich</placeName>, minenn jnsonders gnedigen und
+                                                  bůrgermeister und rath der statt <placeName ref="Zürich">Zürich</placeName>, minenn jnsonders gnedigen und
                                                   gepiettenden, liebenn herrenn.</p>
-                                                  <p rend="margin-top">[Undatierter Beschluss des Rates:]<persName ref="Gut, Andres">Andreß Gůtten</persName>und Heini Schnewlis sun, die ­toüf­fer, belangend,
+                                                  <p rend="margin-top">[Undatierter Beschluss des
+                                                  Rates:] <persName ref="Gut, Andres">Andreß Gůtten</persName>
+                                                  und Heini Schnewlis sun, die ­toüf­fer, belangend,
                                                   söllent gfengklichen angenomen werden.</p>
                                                   </div>
     </body>

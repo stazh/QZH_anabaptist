@@ -76,8 +76,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Schultheiß Hußherr<note type="editorial">
-                                                  Joachim Huser</note><persName ref="Huser, Joachim"/>, als vogt und verwalter<note type="editorial"><persName ref="Steiner, Andreas">Andreas Steiner</persName></note> der herrschafft<placeName ref="Wülflingen">Wülflingen</placeName>, deßglychen j[unker] Hansen<persName ref="Ulm, Hans von">von Ulm</persName>schryben, wo
+      <div><p><note type="editorial">
+                                                  Joachim Huser</note><persName ref="Huser, Joachim">Schultheiß Hußherr</persName>, als vogt und verwalter<note type="editorial">
+                                                  <persName ref="Steiner, Andreas">Andreas Steiner</persName></note> der herrschafft <placeName ref="Wülflingen">Wülflingen</placeName>, deßglychen j[unker] Hansen <persName ref="Ulm, Hans von">von
+                                                  Ulm</persName> schryben, wo
                                                   er<note type="editorial"> Hans Hedinger</note> zů
                                                   betretten<note type="editorial"> antreffen,
                                                   ergreifen, Id. XIV, 1486.</note>, gfengklichen

@@ -77,10 +77,11 @@
   <text>
     <body>
       <div><p>Als mine herren, die verordneten, sambt herr
-                                                  Růdolff Walltherten<note type="editorial"> Rudolf
-                                                  Gwalther</note><persName ref="Gwalther, Rudolf"/>
+                                                  <note type="editorial"> Rudolf
+                                                  Gwalther</note><persName ref="Gwalther, Rudolf">Růdolff Walltherten</persName>
                                                   zů Elßbetha Teylern der wider­toüf­fern, Hannsen
-                                                  Suters am<placeName ref="Horgenberg">Horgerberg</placeName>eefrowen, jnn gfengknusß keert, sy, usß was
+                                                  Suters am <placeName ref="Horgenberg">Horgerberg</placeName>
+                                                  eefrowen, jnn gfengknusß keert, sy, usß was
                                                   ursachen sy sich jnn die kilchen und
                                                   christenlichen versamlungen zegaan verwidere,
                                                   befraget unnd letstlichen sy durch vil und
@@ -101,7 +102,8 @@
                                                   kylchen zů Horgen</note> mencklichem<note type="editorial"> jedermann, Grimm 12, Sp.
                                                   1592f.</note>
                                                   <note type="critical">Folgt gestrichen: jnn der
-                                                  kylchen zů Horgen</note>, so jnn die kilchen zů<placeName ref="Horgen">Horgen</placeName>gangen, dhein<note type="editorial"> kein</note> bůßfertigkheit,
+                                                  kylchen zů Horgen</note>, so jnn die kilchen zů
+                                                  <placeName ref="Horgen">Horgen</placeName> gangen, dhein<note type="editorial"> kein</note> bůßfertigkheit,
                                                   sonders alle verrůchte<note type="editorial">
                                                   Verruchtheit</note> gspürt und das sy jnn jrem
                                                   sündtlichen leben unangesehen aller warnungen,
@@ -139,7 +141,8 @@
                                                   fencklichen angenommen und glychs krüzes wie
                                                   sy<note type="critical">Folgt gestrichen:
                                                   erwart</note> dardurch erwartet syn muͤßtind.</p>
-                                                  <p rend="margin-top">[Ratsbeschluss]: Sy soll jnn<placeName ref="Zürich, Kratz">Kratz</placeName>thurn glegt
+                                                  <p rend="margin-top">[Ratsbeschluss]: Sy soll jnn
+                                                  <placeName ref="Zürich, Kratz">Kratz</placeName> thurn glegt
                                                   werden, biß sy besserenn bscheid gipt.</p>
                                                   </div>
     </body>

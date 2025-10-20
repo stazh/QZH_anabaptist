@@ -78,7 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, demnach unns von unnserm eegricht hieby ligend herr<persName ref="Bluntschli, Johannes">Hans Bluntschlins</persName>deß dechans jm<placeName ref="Freiamt">Frygampt</placeName>an sy beschechen schryben zůgestelt worden, dir
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger unnd vogt, demnach unns von unnserm
+                                                  eegricht hieby ligend herr <persName ref="Bluntschli, Johannes">Hans
+                                                  Bluntschlins</persName>
+                                                  deß dechans jm <placeName ref="Freiamt">Frygampt</placeName>
+                                                  an sy beschechen schryben zůgestelt worden, dir
                                                   darüber bscheid zegeben unnd wir dasselbig uff
                                                   hütt<note type="critical">Folgt gestrichen:
                                                   ver</note> abgehört und verstanden, so gebend wir
@@ -121,7 +127,7 @@
                                                   93.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Knonau">Knonouw</placeName>Andareß Brämen.</p>
+                                                  <p rend="margin-top">An vogt zů <placeName ref="Knonau">Knonouw</placeName> Andareß Brämen.</p>
                                                   </div>
     </body>
   </text>

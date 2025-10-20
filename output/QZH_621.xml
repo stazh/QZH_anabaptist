@@ -79,14 +79,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als Elsa Nasplerin, von<placeName ref="Höri">Hörj</placeName>bürttig, so vor jaren mitt den
-                                                  ­toüf­feren jnn<placeName ref="Mähren">Mehreren</placeName>gezogen, mitt bystannd jres eemans<persName ref="Abner, Enderli">Ännderlj Abnern</persName>von
+      <div><p>Als Elsa Nasplerin,  <placeName ref="Höri">Hörj</placeName> bürttig, so vor jaren mitt den
+                                                  ­toüf­feren jnn <placeName ref="Mähren">Mehreren</placeName>
+                                                  gezogen, mitt bystannd jres eemans <persName ref="Abner, Enderli">Ännderlj
+                                                  Abnern</persName> von
                                                   Wolfanitz<note type="editorial"> Olbramovice
-                                                  (deutsch<placeName ref="Olbramovice">Wolframitz)</placeName></note> uß Mehrerren myn gnedig herren,
+                                                  (deutsch Wolframitz)<placeName ref="Olbramovice"/></note> uß Mehrerren myn gnedig herren,
                                                   burgemeister unnd rath der statt Zürich, angelangt
                                                   und gebätten, sy, myn gnedig herren, welten jre jr
-                                                  gůtt, so 193 guldin 10 schilling<note type="critical">In der Vorlage: ß</note>an einem schuldbrief<persName ref="Keller, Heini">uff Heinj</persName>unnd Bläßj<persName ref="Keller, Bläsi">den Källern</persName>zů Küchelhörj<note type="editorial"> alte Bezeichnung von
-                                                  Endhöri</note><placeName ref="Endhöri"/> wyßende
+                                                  gůtt, so 193 guldin 10 schilling<note type="critical">In der Vorlage: ß</note> an einem
+                                                  schuldbrief <persName ref="Keller, Heini">uff Heinj</persName> unnd Bläßj <persName ref="Keller, Bläsi">den Källern</persName> zů Küchelhörj<note type="editorial"> alte Bezeichnung von
+                                                  Endhöri</note><placeName ref="Endhöri">von</placeName> wyßende
                                                   und bißhar hinder herren seckelmeister
                                                   Schwertzenbach<note type="editorial"> Matthias
                                                   Schwerzenbach (gest. 1595)<persName ref="Schwerzenbach, Matthias"/></note> bhalts wyße
@@ -114,9 +117,10 @@
                                                   bezallt:</p>
                                                   <p>11 g., gabennd sy jr, Nasplerin, sälbs, als sy
                                                   hinweg zögen.</p>
-                                                  <p>30 g. gabennd sy<persName ref="Kern, Toni">Tönij Kernen</persName>von<placeName ref="Bülach">Bülach</placeName>unnd synem schwager<persName ref="Ott, Heini">Heinj Otten</persName>von
+                                                  <p>30 g. gabennd  <persName ref="Kern, Toni">Tönij Kernen</persName> von <placeName ref="Bülach">Bülach</placeName> unnd synem schwager <persName ref="Ott, Heini">Heinj
+                                                  Otten</persName> von
                                                   Naßenwyl<note type="editorial"> Ortschaft der
-                                                  Gemeinde Niederhasli</note><placeName ref="Nassenwil"/>, deßen sy beid anred<note type="editorial"> geständig, Id. VI, 542.</note>
+                                                  Gemeinde Niederhasli</note><placeName ref="Nassenwil">sy</placeName>, deßen sy beid anred<note type="editorial"> geständig, Id. VI, 542.</note>
                                                   <note type="critical">Folgt gestrichen: und
                                                   bekanndtlich</note> unnd urbütig<note type="editorial"> bereit, Id. IV. 1881.</note>
                                                   widerumb zleggen.</p>
@@ -150,7 +154,10 @@
                                                   95. jars gefallenden zinnß<note type="critical">«ouch den uff Martinj … zinnß» am Rand mit
                                                   Verweiszeichen, in der Zeile gestrichen:
                                                   zinnß</note> vernuͤgt<note type="editorial">
-                                                  zufriedenstellen, vergelten, Id. IV, 701.</note>unnd bezallt, welliches alles sy, Näsplerin, mitt jrem eeman deßglychen geruͤrte Källeren, ouch<persName ref="Kern, Toni">Tönj Kernn</persName>unnd syn
+                                                  zufriedenstellen, vergelten, Id. IV, 701.</note>
+                                                  unnd bezallt, welliches alles sy, Näsplerin, mitt
+                                                  jrem eeman deßglychen geruͤrte Källeren, ouch <persName ref="Kern, Toni">Tönj
+                                                  Kernn</persName> unnd syn
                                                   schwager also angenommen unnd zehalten an herren
                                                   lanndtvogt Schwertzenbachs hannd anglobt.</p>
                                                   <p>Actum denn 23ten novembris anno etc. 94.</p>

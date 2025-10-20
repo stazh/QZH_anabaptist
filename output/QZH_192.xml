@@ -78,8 +78,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der dechan am Zürych see<note type="editorial">
-                                                  Rudolf Gwalther</note><persName ref="Gwalther, Rudolf"/> zeygt an, das das kinder
+      <div><p>Der dechan am <note type="editorial">
+                                                  Rudolf Gwalther</note><persName ref="Gwalther, Rudolf">Zürych see</persName> zeygt an, das das kinder
                                                   und todten vertrincken<note type="editorial"> ein
                                                   Ereignis oder eine Person mit (übermässigem)
                                                   Trinken feiern, Id. XIV, 1477.</note> seer wider

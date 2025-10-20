@@ -78,14 +78,22 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonnders gethrüwer, lieber burger unnd vogt. Von dem unnsern<persName ref="Aner, Hans">Hannßen Aner</persName>uß dem Nüwen<placeName ref="Neuamt">ampt</placeName>werdent wir berichtet, wie<persName ref="Gartner, Margretha">Margretha Gartnerin</persName>, Hanns<persName ref="Gertenhofer, Hans Heinrich">Heinrich Gertenhofers</persName>deß zimbermans
-                                                  eefrauw, von jrem brůder jnn der herrschafft<placeName ref="Grüningen (Landvogtei)">Gruͤningen</placeName>jnn die 70 g[ulden] ereerpt habe, da du jnen
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt. Von dem unnsern <persName ref="Aner, Hans">Hannßen
+                                                  Aner</persName> uß dem Nüwen
+                                                  <placeName ref="Neuamt">ampt</placeName> werdent wir
+                                                  berichtet, wie <persName ref="Gartner, Margretha">Margretha Gartnerin</persName>, Hanns <persName ref="Gertenhofer, Hans Heinrich">Heinrich
+                                                  Gertenhofers</persName> deß zimbermans
+                                                  eefrauw, von jrem brůder jnn der herrschafft
+                                                  Gruͤ<placeName ref="Grüningen (Landvogtei)">ningen</placeName> jnn die 70 g[ulden] ereerpt habe, da du jnen
                                                   söllich erb, von deßwegen das sy beide der
                                                   taüfferischen<note type="critical">Folgt
                                                   gestrichen: seckt</note> sect anhengig sind,
                                                   bißhar nit gevolgen<note type="editorial">
                                                   rechtlich zukommen, Id. I, 812.</note> laßen
-                                                  wellen. Mitt bitt, diewyl er, Gertenhofer, zů<placeName ref="Weiach">Wyach</placeName>zwey unerzogne
+                                                  wellen. Mitt bitt, diewyl er, Gertenhofer, zů
+                                                  <placeName ref="Weiach">Wyach</placeName> zwey unerzogne
                                                   brůderskind, die er zů erhalten schuldig habe, wir
                                                   welten bewilligen, das söllich erb an die erzühung
                                                   ermelter<note type="editorial"> erwähnter</note>
@@ -105,7 +113,8 @@
                                                   <p rend="margin-top">Burgermeister unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wyßen, unnserm
-                                                  besonnders gethrüwen, lieben burger unnd vogt zů<placeName ref="Grüningen">Gruͤningen</placeName>Hannßen
+                                                  besonnders gethrüwen, lieben burger unnd vogt zů
+                                                  Gruͤ<placeName ref="Grüningen">ningen</placeName> Hannßen
                                                   Kipenhan.</p>
                                                   </div>
     </body>

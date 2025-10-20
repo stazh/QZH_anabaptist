@@ -79,16 +79,24 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Alls her statthalter Ůlinger<note type="editorial"><persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, m[eister]<persName ref="Bodmer, Jakob">Jacob Bodmer</persName>unnd m[eister]<persName ref="Bertschinger, Hans">Hannß Bertschinger</persName>sampt herren<persName ref="Bäumler, Markus">Marco Beümler</persName>unnd herren<persName ref="Egli, Raphael">Raphael Eglj</persName>uß üwer (myner gnedigen herren) bevelch widerumb
-                                                  bj Jagli Ruͤggen von Felmiß jnn der pfar<placeName ref="Pfäffikon">Pfefficken</placeName>uß der
-                                                  graffschafft Kyburg unnd Ůlrichen Störchlj von<placeName ref="Wellhausen">Wellhußen</placeName>bj<placeName ref="Frauenfeld">Frouwenfäld</placeName>uß dem
+      <div><p>Alls her statthalter Ůlinger<note type="editorial"> <persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, m[eister] <persName ref="Bodmer, Jakob">Jacob
+                                                  Bodmer</persName> unnd
+                                                  m[eister] <persName ref="Bertschinger, Hans">Hannß Bertschinger</persName> sampt herren <persName ref="Bäumler, Markus">Marco
+                                                  Beümler</persName> unnd
+                                                  herren <persName ref="Egli, Raphael">Raphael Eglj</persName>
+                                                  uß üwer (myner gnedigen herren) bevelch widerumb
+                                                  bj Jagli Ruͤggen von Felmiß jnn der pfar
+                                                  <placeName ref="Pfäffikon">Pfefficken</placeName> uß der
+                                                  graffschafft Kyburg unnd Ůlrichen Störchlj von
+                                                  <placeName ref="Wellhausen">Wellhußen</placeName> bj
+                                                  <placeName ref="Frauenfeld">Frouwenfäld</placeName> uß dem
                                                   Turgeüw jmm Wellenberg gsyn unnd, weßen sy sich
                                                   uff daß gesprech, so letstlichen mit jnnen uß
                                                   heiliger götlicher gschrifft geschächen, unnd waß
                                                   jnnen wyters anglegen syn möchte, deßelbigen sich
                                                   zuerkleren, sy vermandt unnd jrer andtwort darüber
                                                   begert.</p>
-                                                  <p>Unnd hat erstlichen<persName ref="Rüegg, Jaggli">Jaglj Ruͤgg</persName>vonn Felmiß uß der
+                                                  <p>Unnd hat erstlichen Jaglj Ruͤgg<persName ref="Rüegg, Jaggli"/> vonn Felmiß uß der
                                                   graffschafft Kyburg annzeigt, daß er sich
                                                   dheins<note type="editorial"> keines</note>
                                                   annderen alß zevor bedacht, dann Christus sage,
@@ -135,7 +143,8 @@
                                                   znänd; unnd werdind zů jeden zyten mängel jnn der
                                                   cilchen syn.</p>
                                                   <p>Des bannß halben habind sy vormalß erwißen, daß
-                                                  die gmeind zů<placeName ref="Korinth">Corinto</placeName>ein kilchen Christj unnd<persName ref="Paulus">von Paulo</persName>geplantzet gwäßen unnd Paulus am
+                                                  die gmeind zů <placeName ref="Korinth">Corinto</placeName>
+                                                  ein kilchen Christj unnd <persName ref="Paulus">von Paulo</persName> geplantzet gwäßen unnd Paulus am
                                                   12. unnd 13. cap[itel] zun Corinteren
                                                   geschriben<note type="editorial"> 2Kor
                                                   12,20-13,1</note>, er förcht, wan er zum 3. mall
@@ -164,11 +173,13 @@
                                                   daß dieselbige denn glouben zezwingen gwalt habe,
                                                   dann ein sölliches Christus syne jünger unnd
                                                   apostel ouch nit hann.</p>
-                                                  <p rend="margin-top">Demnach hat<persName ref="Störchli, Ulrich">Ůlrich Störchlj</persName>uß dem
+                                                  <p rend="margin-top">Demnach  <persName ref="Störchli, Ulrich">Ůlrich
+                                                  Störchlj</persName> uß dem
                                                   Turgeüw, so vonn syner teüfferischen meinung
                                                   abstanden, anzeigt, er bätte üch, myn gnedig
                                                   herren, umb erledigung der gfanngenschafft, da er
-                                                  dann willens, uff denn fruͤling jnn<placeName ref="Mähren">Mehrherren</placeName>zů ziehen, wyl
+                                                  dann willens, uff denn fruͤling jnn
+                                                  <placeName ref="Mähren">Mehrherren</placeName> zů ziehen, wyl
                                                   man doch anndre teüffer auch gaan laße. Dann er
                                                   der gschrifft nit sovil bericht, daß er vill
                                                   andtworten khönne. Er habe aber gehört läßen, daß
@@ -177,8 +188,8 @@
                                                   teüfferyg ergeben unnd sich von einem frömbden
                                                   teüffer zů Hirten<note type="editorial"> Herten,
                                                   Weiler zwischen Altikon und Ellikon an der
-                                                  Thur.</note><placeName ref="Herten"/> jnn der
-                                                  graffschafft<placeName ref="Kyburg (Landvogtei)">Kyburg</placeName>annderst<note type="editorial"> zum zweiten Mal, Id. I,
+                                                  Thur.</note><placeName ref="Herten">hat</placeName> jnn der
+                                                  graffschafft <placeName ref="Kyburg (Landvogtei)">Kyburg</placeName> annderst<note type="editorial"> zum zweiten Mal, Id. I,
                                                   311.</note> touffen laßen. Unnd Christus habe
                                                   gsagt, einn jedes volck syge syn lyb unnd er daß
                                                   houpt.<note type="editorial"> Vgl. Eph
@@ -261,7 +272,8 @@
                                                   zesyn. Doch möge er nit wüßen, wie es gstalt mit
                                                   dem eydschwur habe, unnd begärt, deßhalb hierumb
                                                   verständiget zewerden.</p>
-                                                  <p rend="margin-top">[Urteil]: Diewyl<persName ref="Störchli, Ulrich">diser Störchlj</persName>von der
+                                                  <p rend="margin-top">[Urteil]: Diewyl <persName ref="Störchli, Ulrich">diser
+                                                  Störchlj</persName> von der
                                                   töüfferig abzestan, die predigen zebesůchen und
                                                   uff den früling uß dem land zezüchen, sich
                                                   anerbieth, sol er der gfangenschafft ledig syn und

@@ -81,11 +81,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Wädeschwyl<note type="editorial">
-                                                  Konrad Grebel (1561-1626)<persName ref="Grebel, Konrad"/></note><placeName ref="Wädenswil"/> soll die dryg oder vier
+      <div><p>Vogt zů <note type="editorial">
+                                                  Konrad Grebel (1561-1626)<persName ref="Grebel, Konrad"/></note><placeName ref="Wädenswil">Wädeschwyl</placeName> soll die dryg oder vier
                                                   hartneckigen ­toüf­fer gfengklich alher
                                                   schicken.</p>
-                                                  <p>Unnd jr (der ­toüf­feren) gmein hüßlj, darjnn<persName ref="Suter, Ůli">Ůlj Suter</persName>sitzt, ab
+                                                  <p>Unnd jr (der ­toüf­feren) gmein hüßlj, darjnn
+                                                  <persName ref="Suter, Ůli">Ůlj Suter</persName> sitzt, ab
                                                   der hoftstatt verkouffen unnd das erlößt gelt unnd
                                                   was die ­toüf­fer wyter für gmein gůt hetten zů
                                                   myner herren hannden nemmen.</p>

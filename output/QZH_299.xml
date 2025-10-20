@@ -81,7 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Rahn</note>schryben, das er<persName ref="Gut, Andres">uß Andreß</persName>­toüf­fers gůt, es syge vech ald<note type="editorial"> oder</note> anders, woruß am
+      <div><p>Vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Hans Rahn</note> schryben, das
+                                                  er <persName ref="Gut, Andres">uß Andreß</persName>
+                                                  ­toüf­fers gůt, es syge vech ald<note type="editorial"> oder</note> anders, woruß am
                                                   basten gelt zemachen, angryffen<note type="editorial"> in Besitz nehmen, Id. II,
                                                   714.</note> und verkouffen und dann daruß den
                                                   costen, so alhie und da ennen<note type="editorial"> drüben, Id. I, 266.</note>

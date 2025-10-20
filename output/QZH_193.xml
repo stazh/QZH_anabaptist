@@ -79,7 +79,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Schmid, N.">Der Schmid</persName>von<placeName ref="Meilen">Meylenn</placeName>beschwert sich
+      <div><p><persName ref="Schmid, N.">Der Schmid</persName> von
+                                                  <placeName ref="Meilen">Meylenn</placeName> beschwert sich
                                                   der fürgehaltnen<note type="editorial">
                                                   vorgeworfenen, Id. II, 1234.</note> articklen
                                                   thräffennlich<note type="editorial"> eindringlich,

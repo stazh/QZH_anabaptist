@@ -81,10 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die brief umb die 500 gulden<note type="critical">In der Vorlage: fl.</note>haubtgůts<persName ref="Atinger, Ůli">Ůlj Atingers</persName>von<placeName ref="Stettnach">Stettbach</placeName>eefrouwen (so ein ­toüf­ferin unnd jm land
+      <div><p>Die brief umb die 500 gulden<note type="critical">In der Vorlage: fl.</note>
+                                                  haubtgůts <persName ref="Atinger, Ůli">Ůlj Atingers</persName> von <placeName ref="Stettnach">Stettbach</placeName>
+                                                  eefrouwen (so ein ­toüf­ferin unnd jm land
                                                   Merrhern jst) gůt söllent durch m[eister]
-                                                  Ůlingern<note type="editorial"><persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, obervogt
-                                                  zů<placeName ref="Dübendorf">Dübendorf</placeName>, sampt
+                                                  Ůlingern<note type="editorial"> 
+                                                  <persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, obervogt
+                                                  zů <placeName ref="Dübendorf">Dübendorf</placeName>, sampt
                                                   den fürgeschlagnen<note type="editorial">
                                                   ersparten, Id. IX, 456.</note> zinnßen jnn das
                                                   seckel­ampt zů annderm der ­toüf­feren gůt gegeben

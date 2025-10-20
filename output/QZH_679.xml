@@ -77,17 +77,27 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>| [fol. 1r] Nachdem h[err] Rudolff Wirt<note type="editorial">Hans<persName ref="Wirth, Hans Rudolf">Rudolf Wirth</persName></note>, h[err] Marx
-                                                  Böümler<note type="editorial"><persName ref="Bäumler, Markus">Markus Bäumler</persName></note>unnd h[err]<persName ref="Egli, Raphael">Raphael Eglj</persName>, deßglychen h[err] obman
-                                                  Raan<note type="editorial">Hans<persName ref="Rahn, Hans Rudolf">Rudolf Rahn</persName></note>, m[eister] Hans Ůlrich Wolff, m[eister] Hanns<persName ref="Holzhalb, Hans Heinrich">Heinrich Holtzhalb</persName>und m[eister]<persName ref="Grebel, Konrad">Cůnrath Grebel</persName>üwer (myner gnedigen herren) bevelch unnd
+      <div><p>| [fol. 1r] Nachdem h[err] Rudolff <note type="editorial"> Hans  <persName ref="Wirth, Hans Rudolf">Rudolf Wirth</persName></note>, h[err] Marx
+                                                  Böümler<note type="editorial"> <persName ref="Bäumler, Markus">Markus
+                                                  Bäumler</persName></note>
+                                                  unnd h[err] <persName ref="Egli, Raphael">Raphael Eglj</persName>, deßglychen h[err] obman
+                                                  Raan<note type="editorial"> Hans <persName ref="Rahn, Hans Rudolf">Rudolf
+                                                  Rahn</persName></note>,
+                                                  m[eister] Hans Ůlrich Wolff, m[eister] Hanns
+                                                  <persName ref="Holzhalb, Hans Heinrich">Heinrich Holtzhalb</persName> und m[eister]
+                                                  <persName ref="Grebel, Konrad">Cůnrath Grebel</persName>
+                                                  üwer (myner gnedigen herren) bevelch unnd
                                                   erkhandtnuß<note type="editorial"> Entscheidung,
-                                                  Beschluss</note>nach<persName ref="Ziegler, Hans">Hannsen Ziegler</persName>den pfister,<persName ref="Herder, Jakob">Jacoben Herder</persName>den kürsiner,<persName ref="Kambli, Heinrich">Heinrichen Kamblj</persName>den kupferschmid und<persName ref="Häfeli, Jakob">Jacoben Häfelj</persName>den
+                                                  Beschluss</note> nach <persName ref="Ziegler, Hans">Hannsen Ziegler</persName> den pfister, <persName ref="Herder, Jakob">Jacoben
+                                                  Herder</persName> den
+                                                  kürsiner, <persName ref="Kambli, Heinrich">Heinrichen Kamblj</persName> den kupferschmid und
+                                                  <persName ref="Häfeli, Jakob">Jacoben Häfelj</persName> den
                                                   meßerschmid verschines zinstags<note type="editorial"> vergangenen Dienstag</note> uff
                                                   die corherren stuben<note type="editorial"> Die
                                                   Chorherrenstube im Grossmünster-Kreuzgang diente
                                                   als Trinkstube für die Chorherren und im Winter
                                                   gleichzeitig als Vorlesungssaal der Hohen
-                                                  Schule.</note><placeName ref="Zürich, Chorherrenstube"/> bescheiden unnd
+                                                  Schule.</note><placeName ref="Zürich, Chorherrenstube">Wirt</placeName> bescheiden unnd
                                                   jnnen durch herren obman Raanen der lenge nach
                                                   fürgehalten worden, diewyl jr, myn herren, uß jren
                                                   hievor gegebnen antwort verstanden, dz sy sich jnn
@@ -140,7 +150,7 @@
                                                   underrichtung unnd lehren geben, dz sy sich
                                                   derselben dißmals setigen und<note type="critical">Folgt gestrichen: lehren</note> benügen
                                                   laßen.</p>
-                                                  <p>Und driten articul<note type="critical">«articul» über der Zeile, in der Zeile
+                                                  <p>Und <note type="critical">«articul» über der Zeile, in der Zeile
                                                   gestrichen: puncten</note> aber von wegen deß
                                                   pans<note type="editorial"> Kirchenbann</note>,
                                                   wyl die zyth zu kurtz jst, uffgeschlagen<note type="editorial"> verschieben, vertagen, Id. IX,
@@ -150,10 +160,12 @@
                                                   <note type="critical">«selbigen tags fürgeent» am
                                                   Rand mit Verweiszeichen</note> und vermeint,
                                                   diewyl sant Poulus<note type="critical">Folgt
-                                                  gestrichen: der</note><persName ref="Paulus"/>
+                                                  gestrichen: der</note><persName ref="Paulus">driten articul</persName>
                                                   denen zů Corrintho den zuhalten<note type="critical">«den zuhalten» am Rand mit
                                                   Verweiszeichen</note> bevolchen<note type="editorial"> Vgl. 1. Kor. 5,5 und 2. Kor. 13,
-                                                  1-3.</note>, auch hin und wider jn göttlicher schrifft angezogen und m[eister]<persName ref="Zwingli, Huldrych">Ulrich Zwinglj</persName>s[elig]
+                                                  1-3.</note>, auch hin und wider jn göttlicher
+                                                  schrifft angezogen und m[eister] <persName ref="Zwingli, Huldrych">Ulrich
+                                                  Zwinglj</persName> s[elig]
                                                   uff denselbigen getrungen und zum teil schon jn dz
                                                   werch gericht<note type="critical">Folgt
                                                   gestrichen: hat</note>, sölte derselbig nachmalen
@@ -171,13 +183,13 @@
                                                   ursprünglich: nachtmals</note> deß herren
                                                   zeempfachen ouch hinderhalte.</p>
                                                   <p>Darüber die herren glehrten jnen disen bscheid
-                                                  geben, dz weder<note type="critical">«weder» über
+                                                  geben, <note type="critical">«weder» über
                                                   der Zeile</note> jr, myn gnedig herren<note type="critical">Folgt gestrichen: den pan
                                                   nit</note>, noch sy, die geistlichen, den pan
                                                   verwerffint. Derselbig sölle ouch, wo man die
                                                   gelegenheit nach der leer Poulj<note type="critical">«nach der leer Poulj» am Rand mit
                                                   Verweiszeichen, in der Zeile gestrichen:
-                                                  haben</note><persName ref="Paulus"/> mit erbuwung
+                                                  haben</note><persName ref="Paulus">dz weder</persName> mit erbuwung
                                                   und one<note type="critical">«one» über der
                                                   Zeile</note> zerütung<note type="editorial">
                                                   Zerstörung</note> haben möge, gehalten werden. Er
@@ -188,7 +200,8 @@
                                                   Verweiszeichen; am Rand gestrichen: nota</note>.
                                                   Zů dem so habind die zů Corintho<note type="critical">Folgt gestrichen: und
                                                   andere</note> (wie dann dieselbig<note type="critical">«wie dann dieselbig» am Rand, in
-                                                  der Zeile gestrichen: jn der selbigen</note><persName ref="Paulus">epistel Poulj</persName>luthet)
+                                                  der Zeile gestrichen: jn der selbigen</note>
+                                                  <persName ref="Paulus">epistel Poulj</persName> luthet)
                                                   den<note type="critical">Folgt gestrichen:
                                                   halten</note> als dz ußerist mitel der kilchen
                                                   halten müßen, diewyl sy under der römeren
@@ -220,8 +233,13 @@
                                                   synes lieben sund tod gedechtnuß imd
                                                   danckbarkeit</note>, ze­thund befolchen.</p>
                                                   <p>Uff sölliche vilfaltige lehren und gůte exempel
-                                                  und byspel, so jnen von dick<note type="editorial"> oft, Id. XII, 1238.</note>erzelten herren glehrten uß biblischer schriftt fürgehalten worden, dz alles der | [fol. 2v] lenge nach alhie zubeschryben nit wol müglich, habend sich<persName ref="Häfeli, Jakob">vermelte Häfelj</persName>,
-                                                  Herder<persName ref="Herder, Jakob"/><persName ref="Kambli, Heinrich">und Kamblj</persName>mit
+                                                  und byspel, so jnen <note type="editorial"> oft, Id. XII, 1238.</note> erzelten herren
+                                                  glehrten uß biblischer schriftt fürgehalten
+                                                  worden, dz alles der | [fol. 2v] lenge nach alhie
+                                                  zubeschryben nit wol müglich, habend sich <persName ref="Häfeli, Jakob">vermelte
+                                                  Häfelj</persName>,
+                                                  Herder<persName ref="Herder, Jakob">von dick</persName> <persName ref="Kambli, Heinrich">und
+                                                  Kamblj</persName> mit
                                                   danksagung söllicher underrichtung gůtwillig dahin
                                                   begeben<note type="critical">Folgt gestrichen:
                                                   dz</note>, uff schier künfftigen h[eiligen]

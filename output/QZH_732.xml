@@ -77,7 +77,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der, so für den toͤüffer har wellen den thurn huͤtter und ouch den spittal umb den costen betzallen, heist Hans<persName ref="Vontobel, Hans">von Tobel</persName>von Oberdürtten<note type="editorial"><placeName ref="Oberdürnten">Oberdürnten</placeName></note>.</p>
+      <div><p>Der, so für den toͤüffer har wellen den thurn
+                                                  huͤtter und ouch den spittal umb den costen
+                                                  betzallen, heist Hans <persName ref="Vontobel, Hans">von Tobel</persName> von Oberdürtten<note type="editorial"> <placeName ref="Oberdürnten">Oberdürnten</placeName></note>.</p>
                                                   <p>Dem vogt jst geschriben, dz er jnne alher wyße,
                                                   sy beid zůbezalen.</p>
                                                   </div>

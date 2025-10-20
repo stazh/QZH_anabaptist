@@ -78,9 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hanns<persName ref="Müller, Hans Heinrich">Heinrych Müller</persName>diacon zů
+      <div><p> <persName ref="Müller, Hans Heinrich">Heinrych Müller</persName> diacon zů
                                                   Waͤningen<note type="editorial">
-                                                  Niederweningen</note><placeName ref="Niederweningen"/> verkoufft sine buͤcher in
+                                                  Niederweningen</note><placeName ref="Niederweningen">Hanns</placeName> verkoufft sine buͤcher in
                                                   theologia, will fliegen one faͤderen<note type="editorial"> d.h. Theologe sein ohne
                                                   theologische Bücher</note>. Last sich mitt
                                                   disputieren an, alls ob imm der widertoͤüffer leer

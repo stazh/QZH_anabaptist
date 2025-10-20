@@ -80,8 +80,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Demnach beide herren nachgengere sampt m[eister]<persName ref="Füssli, Peter">Peter Füßlj</persName>, obervogt zů Horgen, zů<persName ref="Isler, Jakob">Jacoben Isler</persName>, dem widertheüffer ab dem<placeName ref="Horgenberg">Horgerberg</placeName>, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert, jnne zum anfang welicher gstalt er sich uß
-                                                  der gfangenschafft ab den<placeName ref="Zürich, Rathaus">rathhus</placeName>selbs gelediget unnd
+      <div><p>Demnach beide herren nachgengere sampt
+                                                  m[eister] <persName ref="Füssli, Peter">Peter Füßlj</persName>, obervogt zů Horgen, zů <persName ref="Isler, Jakob">Jacoben Isler</persName>, dem widertheüffer ab dem
+                                                  <placeName ref="Horgenberg">Horgerberg</placeName>, jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  kheert, jnne zum anfang welicher gstalt er sich uß
+                                                  der gfangenschafft ab den <placeName ref="Zürich, Rathaus">rathhus</placeName> selbs gelediget unnd
                                                   demnach wyters befragt, uß waß ursachen er sich
                                                   des christnelichen kilchgangs geüßert unnd sich zů
                                                   der teüferischen sekt begeben habe, unnd syner
@@ -115,7 +119,7 @@
                                                   d</note> er von synem glauben nit wychen khönne,
                                                   sonders einmaalen bedacht syge, darbj
                                                   zůverharren.</p>
-                                                  <p rend="margin-top">Uff<persName ref="Witz, Jaggli">Jagglj Witzen</persName>und syner mithaften<note type="editorial"> Parteigänger, Id. II,
+                                                  <p rend="margin-top">Uff <persName ref="Witz, Jaggli">Jagglj Witzen</persName> und syner mithaften<note type="editorial"> Parteigänger, Id. II,
                                                   1057.</note> begeren, das diser Ißler ledig
                                                   gelassen werde<note type="critical">In der
                                                   Vorlage: werden</note>, jst erkendt<note type="editorial"> urteilen, amtlich festsetzen,
@@ -123,7 +127,12 @@
                                                   wohn<note type="editorial"> Wahn, falsche Meinung,
                                                   Id. XVI, 1.</note> nit abstohn und nit zekilchen
                                                   gohn will, soll er, untzit<note type="editorial">
-                                                  bis</note>er sich ergibt, jnn gfangeschaft blyben und das mitel, so synen und anderen syns glychen widerspennigen lüthen halber jm werck, zů syner zyt an jmme volnstreckt werden. Actum sabstags den 2ten septembris anno 1609 p[raese]nt[ibus] herr<persName ref="Holzhalb, Leonhard">burgermeister Holtzhalb</persName><bm id="312"/> und beide
+                                                  bis</note> er sich ergibt, jnn gfangeschaft blyben
+                                                  und das mitel, so synen und anderen syns glychen
+                                                  widerspennigen lüthen halber jm werck, zů syner
+                                                  zyt an jmme volnstreckt werden. Actum sabstags den
+                                                  2ten septembris anno 1609 p[raese]nt[ibus] herr
+                                                  <persName ref="Holzhalb, Leonhard">burgermeister Holtzhalb</persName><bm id="312"/> und beide
                                                   reth.</p>
                                                   </div>
     </body>

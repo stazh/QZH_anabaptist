@@ -81,10 +81,10 @@
     <body>
       <div><p>Unnsern fründtlichen, sonnders geneygten willen
                                                   zůvor. Frommer unnd wyßer, jnnsonnders getrüwer,
-                                                  lieber lanndtvogt. Als du<note type="critical">Folgt gestrichen: verrugkter tagen</note>
+                                                  lieber lanndtvogt. <note type="critical">Folgt gestrichen: verrugkter tagen</note>
                                                   mitsammpt<note type="critical">In der Vorlage:
                                                   misammpt</note> vogt Sägissern<note type="editorial"> Bernhard Segesser von
-                                                  Brunegg</note><persName ref="Segesser von Brunegg, Bernhard"/> von
+                                                  Brunegg</note><persName ref="Segesser von Brunegg, Bernhard">Als du</persName> von
                                                   Keyßerstul unnd unnserm vogt uff Regensperg<note type="editorial"> Erhard
                                                   Steinbrüchel</note><persName ref="Steinbrüchel, Erhard"/> verrugkter<note type="editorial"> vergangen, Id. VI, 856.</note>
                                                   tagen uff<note type="critical">«uff» über der
@@ -108,10 +108,16 @@
                                                   erkennen […] lassen unnd […] demnach brichten
                                                   lasßen</note>. Die hat nach ernstlichem<note type="critical">Folgt gestrichen:
                                                   erjnnerung</note> unnderricht unnd erjnneung sich
-                                                  gejrt haben bekenth unnd widerruͤfft<note type="critical">Folgt gestrichen: unnd</note>, unns ouch darneben bericht, das genante zwen, so jm lermen entlouffen under dyner ammptwaltung, unnd namlich der eyn,<persName ref="Cunrad">so Cůnrath</persName>heysße<note type="critical">Folgt
-                                                  gestrichen: unnd</note>, zů Wißligken<note type="editorial"> Wislikofen</note><placeName ref="Wislikofen"/>, der annder<persName ref="Bastian">aber Bastian</persName>unnd jnn
+                                                  gejrt haben bekenth unnd widerruͤfft<note type="critical">Folgt gestrichen: unnd</note>,
+                                                  unns ouch darneben bericht, das genante zwen, so
+                                                  jm lermen entlouffen under dyner ammptwaltung,
+                                                  unnd namlich der eyn, <persName ref="Cunrad">so Cůnrath</persName> heysße<note type="critical">Folgt
+                                                  gestrichen: unnd</note>, zů Wißligken<note type="editorial"> Wislikofen</note><placeName ref="Wislikofen"/>, der annder <persName ref="Bastian">aber
+                                                  Bastian</persName> unnd jnn
                                                   Sennenloch<note type="editorial"> Sänneloch bei
-                                                  Klingnau</note><placeName ref="Klingnau, Sänneloch"/> by<placeName ref="Klingnau">Clingnow</placeName>jnn der graffschafft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>sesshafft syge. Söllichen jren bericht haben wir
+                                                  Klingnau</note><placeName ref="Klingnau, Sänneloch"/> by <placeName ref="Klingnau">Clingnow</placeName> jnn der graffschafft
+                                                  <placeName ref="Baden (Landgrafschaft)">Baden</placeName>
+                                                  sesshafft syge. Söllichen jren bericht haben wir
                                                   dir dannocht zewissen thun wellen, damit du
                                                   fürer<note type="editorial"> ferner, Id. I,
                                                   968.</note> mit gedachten dynen
@@ -119,13 +125,15 @@
                                                   gedachten dynen amptsangehörigen» am Rand mit
                                                   Verweiszeichen</note> der gpür nach<note type="critical">Folgt gestrichen: mit</note>
                                                   handlen<note type="critical">Folgt gestrichen:
-                                                  ke</note> könnist, verstand von unns jm besten. Uß<placeName ref="Zürich">Zürich</placeName>, mentags nach
+                                                  ke</note> könnist, verstand von unns jm besten. Uß
+                                                  <placeName ref="Zürich">Zürich</placeName>, mentags nach
                                                   Marie himelfart 1543.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen unnd wyßen,
                                                   unnserm besonnders<note type="critical">Folgt
-                                                  gestrichen: lieben unnd</note>gethrüwen, lieben landvogt zů Baden N. an<persName ref="An der Rüti, Jakob">der Rüti</persName>, deß raths zu
+                                                  gestrichen: lieben unnd</note> gethrüwen, lieben
+                                                  landvogt zů Baden N. an <persName ref="An der Rüti, Jakob">der Rüti</persName>, deß raths zu
                                                   Schwytz.</p>
                                                   </div>
     </body>

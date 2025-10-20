@@ -79,17 +79,20 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Uff disem tag hatt herr schulltheiß von
-                                                  Müllinen<note type="editorial"> Beat Ludwig von
+      <div><p>Uff disem tag hatt herr  <note type="editorial"> Beat Ludwig von
                                                   Mülinen (1521-1597), seit 1568 Schultheiss von
-                                                  Bern.</note><persName ref="Müllinen, Beat Ludwig von"/> von<placeName ref="Bern">Bern</placeName>vor unns antzogen<note type="editorial"> erwähnen, anführen, Grimm 1,
-                                                  528.</note>, demnach unnser alter landtvogt zů Baden gesterigs tags vor unns erschinnen und antzeigt, wie das er<persName ref="Müller (Täufer)">einem Müller</persName>, so ein widerthoüffer unnd
+                                                  Bern.</note><persName ref="Müllinen, Beat Ludwig von">von
+                                                  Müllinen</persName> von
+                                                  <placeName ref="Bern">Bern</placeName> vor unns antzogen<note type="editorial"> erwähnen, anführen, Grimm 1,
+                                                  528.</note>, demnach unnser alter landtvogt zů
+                                                  Baden gesterigs tags vor unns erschinnen und
+                                                  antzeigt, wie das er <persName ref="Müller (Täufer)">einem Müller</persName>, so ein widerthoüffer unnd
                                                   jnn das Merhern landt getzogen, demnach widerumb
                                                   hinuf kommen, etlich personen ufgwiglet, hinab
                                                   gefuͤrt unnd sonderlich ein Vischer zů
                                                   Birmenstorff<note type="editorial"> Birmenstorf
                                                   (AG), in der Landgrafschaft
-                                                  Baden.</note><placeName ref="Birmensdorf"/>, der
+                                                  Baden.</note><placeName ref="Birmensdorf">schulltheiß</placeName>, der
                                                   mitt syner hußfrowen und sechs kleiner kinden
                                                   hinab zogen, 300 guldin mitt jm gnommen. Wie er
                                                   nun hinab jnn das land kommen, hab man jm
@@ -97,7 +100,8 @@
                                                   mitt wyb unnd kinden hinuf gschickt und das gůt
                                                   daunden jm landt behallten. Unnd diewyl gemellter
                                                   Müller sölliche lüth ufgewiglet, heimlich predigen
-                                                  gehept, dartzů etlich gůt jnn der grafschafft<placeName ref="Baden, Grafschaft">Baden</placeName>, hab
+                                                  gehept, dartzů etlich gůt jnn der grafschafft
+                                                  <placeName ref="Baden, Grafschaft">Baden</placeName>, hab
                                                   er<note type="editorial"> Gemeint ist der (alte?)
                                                   Vogt von Baden.</note> zůhanden myner g[nädigen]
                                                   h[erren], der eydgnoßen, verbieten laßen und daruf
@@ -136,7 +140,18 @@
                                                   schulltheiß von Müllinen jnn synem anbringen
                                                   verstanden unnd aber wir darnebent verstendiget,
                                                   das gedachter Müller, nachdem er erstlich syn hab
-                                                  und gůt, was er jnn unnser eydtgnoßen von<placeName ref="Bern">Bernbiet</placeName>, deßglychen jnn der grafschafft Baden, da er dann ouch ein zyt lang gewonet, gehept, verkoufft, jnn das landt hinab zogen, etlich lüth unnd syn schwöster mitt jm ufgwiglet und verfuͤrt, nachgents widerumb hinuff jnn trotten und annderen orthen predigen gehept, abermals etlich lüth verfuͤrt, da dann sy jr hab und gůt mitt jnen hinab genommen und dann mitt wyb unnd kinden widerumb hinuf als bättler kommen, dann sy jr gůt dahinden laßen muͤßen, zůdem das<persName ref="Müller (Täufer)">gedachter Müller</persName>gnůgsam gwarnet worden,
+                                                  und gůt, was er jnn unnser eydtgnoßen von
+                                                  <placeName ref="Bern">Bernbiet</placeName>, deßglychen jnn
+                                                  der grafschafft Baden, da er dann ouch ein zyt
+                                                  lang gewonet, gehept, verkoufft, jnn das landt
+                                                  hinab zogen, etlich lüth unnd syn schwöster mitt
+                                                  jm ufgwiglet und verfuͤrt, nachgents widerumb
+                                                  hinuff jnn trotten und annderen orthen predigen
+                                                  gehept, abermals etlich lüth verfuͤrt, da dann sy
+                                                  jr hab und gůt mitt jnen hinab genommen und dann
+                                                  mitt wyb unnd kinden widerumb hinuf als bättler
+                                                  kommen, dann sy jr gůt dahinden laßen muͤßen,
+                                                  zůdem das <persName ref="Müller (Täufer)">gedachter Müller</persName> gnůgsam gwarnet worden,
                                                   das er nit mehr jnn die grafschafft Baden kommen,
                                                   sonnder man zů synem lyb unnd gůt gryffen werde,
                                                   welliches er nun alles verachtet, unnd aber wir,

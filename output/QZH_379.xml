@@ -80,14 +80,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Winkler, Polei">Polej Winckler</persName>von<placeName ref="Bülach">Bülach</placeName>bürtig, den
-                                                  herr vogt Tschudj zů<placeName ref="Kaisertuhl">Keyßerstůl</placeName>üch, minen g[nedigen]
+      <div><p><persName ref="Winkler, Polei">Polej Winckler</persName>
+                                                  von <placeName ref="Bülach">Bülach</placeName> bürtig, den
+                                                  herr vogt Tschudj zů <placeName ref="Kaisertuhl">Keyßerstůl</placeName> üch, minen g[nedigen]
                                                   herren<note type="critical">Folgt gestrichen: ob
                                                   dem gricht zu Wiach</note>, fencklichen
                                                   überschickt<note type="critical">korrigiert,
                                                   ursprünglich: überschicken</note>, gibt uff der
                                                   verordneten herren fürhallten<note type="editorial"> Darlegung oder Vorwurf, Id. II,
-                                                  1234.</note>den bericht und bscheid: Demnach er sich by vier jaren ungfhar mitt<persName ref="Vischer, Kathrina">Tryna Vischern</persName>von
+                                                  1234.</note> den bericht und bscheid: Demnach er
+                                                  sich by vier jaren ungfhar mitt <persName ref="Vischer, Kathrina">Tryna
+                                                  Vischern</persName> von
                                                   Wiach<note type="editorial">
                                                   Weiach</note><placeName ref="Weiach"/>, by deren
                                                   er gediennet, vereelichet, syge er bald darnach
@@ -97,7 +100,7 @@
                                                   thüre<note type="editorial"> Teuerung</note> ouch
                                                   ungehorsame etlicher jrer kinden<note type="critical">Folgt gestrichen: halb</note>
                                                   wegen und ouch zum teil von etlichen ­toüf­feren
-                                                  überredt, jnn das<placeName ref="Mähren">Meerhernlandt</placeName>getzogen. Daselbs er sich ein zyt
+                                                  überredt, jnn das <placeName ref="Mähren">Meerhernlandt</placeName> getzogen. Daselbs er sich ein zyt
                                                   lang enthallten<note type="editorial"> sich
                                                   aufhalten, wohnen, Id. II, 1230.</note>, volgents
                                                   aber widerumb gen Wiach kommen und als man jnne
@@ -110,7 +113,7 @@
                                                   wiewol dieselbig jme enbotten, das er wider hinab
                                                   kommen und sich jnn die ­toüf­feryg begebe, syge
                                                   er doch deßen gentzlichen nit gesinnet.</p>
-                                                  <p>Was dann<persName ref="Leemann, Veronika">Fronnegg Leemanin</persName>antrifft, syge er
+                                                  <p>Was dann <persName ref="Leemann, Veronika">Fronnegg Leemanin</persName> antrifft, syge er
                                                   bekhandlich, dieselbig geschwengeret und jren die
                                                   ee verheisßen haben, doch nit annderer gstallt
                                                   (das ouch sy, die Leemanin, sagen werde) dann wann
@@ -119,11 +122,13 @@
                                                   Bittet üch, min g[nedig] herren, wo er gfelt umb
                                                   gnad unnd erlasßung der gfangenschafft.</p>
                                                   <p rend="margin-top">[Urteil]: Diewyl er sich
-                                                  drygfacht übersehenn, jnndem das er jnn<placeName ref="Mähren">Merhern</placeName>, deßglychen jnn<placeName ref="Frankreich">Frannckrych</placeName>zogen und
+                                                  drygfacht übersehenn, jnndem das  <placeName ref="Mähren">er</placeName>, deßglychen jnn
+                                                  <placeName ref="Frankreich">Frannckrych</placeName> zogen und
                                                   dann die ee brochen, soll er myner herren gricht
                                                   und gepieth myden, syner frouwen nachzüchen und
                                                   nit meer widerkommen. Actum den 27ten septembris
-                                                  anno etc. 78 p[raese]nt[ibus] herr Kamblj<note type="editorial"> Hans Kambli</note><persName ref="Kambli, Hans"/> unnd beid reth.</p>
+                                                  anno etc. 78 p[raese]nt[ibus] herr Kamblj<note type="editorial"> Hans Kambli</note><persName ref="Kambli, Hans">jnn
+                                                  Merhern</persName> unnd beid reth.</p>
                                                   </div>
     </body>
     <back>

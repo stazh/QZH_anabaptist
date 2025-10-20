@@ -78,11 +78,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willenn unnd alleß gutß zuvor. Frommer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, uff hütigen tag sinnd vor unnß erschinnen<persName ref="Müller, Hans">Jacob Müller</persName>unnd sunnen, beid usß dem<placeName ref="Kelleramt">Kellerampt</placeName>, unnd unnß
+      <div><p>Unnsern günstigen geneigten willenn unnd alleß
+                                                  gutß zuvor. Frommer, wyser, besonnderß gethrüwer,
+                                                  lieber burger unnd vogt, uff hütigen tag sinnd vor
+                                                  unnß erschinnen <persName ref="Müller, Hans">Jacob Müller</persName> unnd sunnen, beid usß dem
+                                                  <placeName ref="Kelleramt">Kellerampt</placeName>, unnd unnß
                                                   flyssigklichenn ansuchen unnd pitenn lassenn, wir
                                                   welten jnen der suma geltß, so jrer vonn wegen daß
                                                   jre vater unnd brüderenn der toufferischen sect
-                                                  nach jnn das Merherren<placeName ref="Mähren">land</placeName>gezogen vonn unnseren verordnneten uferlegt
+                                                  nach jnn das Merherren <placeName ref="Mähren">land</placeName> gezogen vonn unnseren verordnneten uferlegt
                                                   unnd dir vermög bj hannden habennden
                                                   schrifftlichen usszugß ynzuzüchen unnd jnn unnser
                                                   statt seckelampt zeantworten bevelchenn, noch
@@ -104,7 +108,8 @@
                                                   <p rend="margin-top">Burgermeister unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wysenn, unnßerem
-                                                  besonnders gethrüwenn, lieben burger unnd vogt zu<placeName ref="Knonau">Knonouw</placeName>Rudollf
+                                                  besonnders gethrüwenn, lieben burger unnd vogt zu
+                                                  <placeName ref="Knonau">Knonouw</placeName> Rudollf
                                                   Purenn.</p>
                                                   </div>
     </body>

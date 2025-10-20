@@ -79,7 +79,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Bürgermeyster unnd rath der statt<placeName ref="Zürich">Zurich</placeName>. Unnsern gruß zuvor. Lieber, getrüwer, uff trungennlich anruͤffen<persName ref="Kofel, Hans oder bůb">bůb Kofels</persName>unnd siner
+      <div><p>Bürgermeyster unnd rath der statt
+                                                  <placeName ref="Zürich">Zurich</placeName>. Unnsern gruß
+                                                  zuvor. Lieber, getrüwer, uff trungennlich
+                                                  anruͤffen <persName ref="Kofel, Hans oder bůb">bůb Kofels</persName> unnd siner
                                                   frundtschafft<note type="editorial">
                                                   Verwandtschaft, Sippe, Id. I, 1307.</note>, als er
                                                   sich bekeert unnd von der ­toüf­fery abgestanden
@@ -146,7 +149,9 @@
                                                   schaden zehuͤtten. Uß Zürich, sampßtags nach sanct
                                                   Niclaus tag anno etc. 1535.</p>
                                                   <p rend="margin-top">Unnserem lieben unnd getrüwen
-                                                  undervogt jm<placeName ref="Neuamt">Nüwenampt</placeName><persName ref="Moor, Junghans">Junnghanns Moren</persName>von<placeName ref="Nöschikon">Neschigken</placeName>.</p>
+                                                  undervogt jm <placeName ref="Neuamt">Nüwenampt</placeName>
+                                                  <persName ref="Moor, Junghans">Junnghanns Moren</persName>
+                                                  von <placeName ref="Nöschikon">Neschigken</placeName>.</p>
                                                   </div>
     </body>
   </text>

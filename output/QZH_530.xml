@@ -81,7 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr obman Widerkher<note type="editorial"><persName ref="Wiederkehr, Bernhard">Bernhard Wiederkehr</persName></note>jst Hannß<persName ref="Oberkan, Hans Jakob">Jacob Oberkhanen</persName>und<persName ref="Heidegger, Samuel">Samuel Heideggers</persName>(der
+      <div><p>Herr obman Widerkher<note type="editorial">
+                                                  <persName ref="Wiederkehr, Bernhard">Bernhard Wiederkehr</persName></note> jst Hannß
+                                                  <persName ref="Oberkan, Hans Jakob">Jacob Oberkhanen</persName> und <persName ref="Heidegger, Samuel">Samuel
+                                                  Heideggers</persName> (der
                                                   hinweg getzognen widerthoüfferen) gůts vogt
                                                   verordnet worden. Soll die wyber nach der statt
                                                   recht ußrichten laßen unnd, was dannenthin jres

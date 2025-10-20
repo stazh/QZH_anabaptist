@@ -76,7 +76,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>M[eister]<persName ref="Usteri, Paul">Paulj Usteris</persName>deß Müllers gegebnen bericht,
+      <div><p>M[eister] <persName ref="Usteri, Paul">Paulj Usteris</persName> deß Müllers gegebnen bericht,
                                                   Thomman Gügis deß müllerknechts schulden und
                                                   widerschulden halber<note type="critical">Aufschrift auf der Rückseite des
                                                   Dokuments.</note></p>
@@ -84,20 +84,23 @@
                                                   nachgenger m[eister] Paulj Usterj, den müller,
                                                   alhie, für<note type="editorial"> vor</note> sich
                                                   beschickt unnd jnne befraget, was er Thoman Gügj,
-                                                  den müllerknecht, ußem<placeName ref="Thurgau">Thurgöw</placeName>, so vor etwas zyts by jme
+                                                  den müllerknecht, ußem <placeName ref="Thurgau">Thurgöw</placeName>, so vor etwas zyts by jme
                                                   gedienet, noch schuldig, oder wer jme, Gügj,
                                                   schuldig und ob er nie khein zesammen khomnuß by
                                                   jme gehept.</p>
                                                   <p>Darüber hat Usterj anzeigt, das er gemelten
-                                                  Gügi gar nüt mehr schuldig, dann<note type="critical">Folgt gestrichen: er</note> an der
+                                                  Gügi gar nüt mehr schuldig, <note type="critical">Folgt gestrichen: er</note> an der
                                                   nacht, do er ußträtten<note type="editorial"> das
                                                   Land verlassen, Id. XIV, 1479.</note> und anzeigt,
-                                                  das er uff die jm<placeName ref="Elsass">Elsaß</placeName>jme versprochne müllj welle, habe er jnne allerdings uff syn begeren zvollen abzalt. Sontsten habe er by<persName ref="Notz, Joder">Joder Notzen</persName>alhie noch 6 g[ulden], jtem
+                                                  das er uff die jm <placeName ref="Elsass">Elsaß</placeName>
+                                                  jme versprochne müllj welle, habe er jnne
+                                                  allerdings uff syn begeren zvollen abzalt.
+                                                  Sontsten habe er by <persName ref="Notz, Joder">Joder Notzen</persName> alhie noch 6 g[ulden], jtem
                                                   ein schuld<note type="critical">«ein schuld» am
                                                   Rand mit Verweiszeichen</note> uff einem müller zů
                                                   Ellicken<note type="editorial"> Ellikon an der
-                                                  Thur</note><placeName ref="Ellikon an der Thur"/>
-                                                  jnn der grafschafft<placeName ref="Kyburg">Kyburg</placeName>(synem anzeigen nach) jnzůzüchen ghan. Ob er
+                                                  Thur</note><placeName ref="Ellikon an der Thur">dann</placeName>
+                                                  jnn der grafschafft <placeName ref="Kyburg">Kyburg</placeName> (synem anzeigen nach) jnzůzüchen ghan. Ob er
                                                   aber dieselbigen jnzogen, möge er, Usterj, nit
                                                   wüßen.</p>
                                                   <p>Zůdem hete er ouch von dem gesagten Gügj ghört,

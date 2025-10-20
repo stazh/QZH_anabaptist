@@ -81,8 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>J[unker] Hansen von Ulm<note type="editorial">
-                                                  Gerichtsherr von Teufen (Zürich)</note><persName ref="Ulm, Hans von"/> schryben, wover<note type="editorial"> wenn, Id. I, 914.</note><persName ref="Schnyder, Hans">Heinrich Schnider</persName>von<placeName ref="Rorbas">Rorbis</placeName>uff syn
+      <div><p>J[unker] Hansen <note type="editorial">
+                                                  Gerichtsherr von Teufen (Zürich)</note><persName ref="Ulm, Hans von">von Ulm</persName> schryben, wover<note type="editorial"> wenn, Id. I, 914.</note>
+                                                  <persName ref="Schnyder, Hans">Heinrich Schnider</persName>
+                                                  von <placeName ref="Rorbas">Rorbis</placeName> uff syn
                                                   abstand der jrrigenn ­toüf­ferischen sect etwas
                                                   bitt umb die 100 g[ulden], so von synem gůt jetzt
                                                   mynen herren noch gfallen sölte, jme zelasßen,

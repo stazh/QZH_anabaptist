@@ -81,8 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Wybel zů Stadel<note type="editorial"> Hans
-                                                  Kofel</note><persName ref="Kofel, Hans"/><placeName ref="Stadel"/>schryben, das myn herren Stefan<persName ref="Im Tal, Stefan">jm Tall</persName>, den ­toüf­fer, dergstalt
+      <div><p> <note type="editorial"> Hans
+                                                  Kofel</note><persName ref="Kofel, Hans">zů Stadel</persName><placeName ref="Stadel">Wybel</placeName> schryben, das myn
+                                                  herren Stefan <persName ref="Im Tal, Stefan">jm Tall</persName>, den ­toüf­fer, dergstalt
                                                   der gfengknuß erlassen, das er jm huß blyben und
                                                   gar niennerdt hin, weder gaan ald<note type="editorial"> oder</note> wandlen, das er jnn
                                                   die kilchen zůr predig, ouch jemmanden zů jm jns

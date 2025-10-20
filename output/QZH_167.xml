@@ -78,8 +78,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Die bruͤder imm<placeName ref="Grüningen">Gruͤninger</placeName>ampt.</p>
-                                                  <p>Becklagend sich, wie durch<persName ref="Schmid, N.">einen Schmyd</persName>imm<placeName ref="Fischenthal">Vischental</placeName>ein
+      <div><p>Die bruͤder imm Gruͤ<placeName ref="Grüningen">ninger</placeName> ampt.</p>
+                                                  <p>Becklagend sich, wie durch <persName ref="Schmid, N.">einen
+                                                  Schmyd</persName> imm
+                                                  <placeName ref="Fischenthal">Vischental</placeName> ein
                                                   schantlich lied<note type="editorial"> Das Lied
                                                   hatte den Titel «Bumberlibum», vgl. Ludwig Tobler,
                                                   Schweizerische Volkslieder, Bd. 2, Frauenfeld

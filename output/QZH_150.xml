@@ -79,20 +79,26 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Ich,<persName ref="Bächi, Hans">Hans Beͣchi</persName>vonn Kymenhof<note type="editorial"> Chimenhof bei
+      <div><p>Ich, Hans Beͣ<persName ref="Bächi, Hans"/>
+                                                  vonn Kymenhof<note type="editorial"> Chimenhof bei
                                                   Embrach, in der Landvogtei
-                                                  Kyburg.</note><placeName ref="Chimenhof"/><bm id="16"/>, bekenn offenlich mit disem brieff, alls
+                                                  Kyburg.</note><placeName ref="Chimenhof">chi</placeName><bm id="16"/>, bekenn offenlich mit disem brieff, alls
                                                   dann ich mich der verfuerischen töufferyg, so
                                                   wider got unnd sin heylig ewig wort ist,
                                                   underwunden<note type="editorial"> sich einlassen,
                                                   Id. XVI, 570f.</note>, derselbigenn rott unnd
                                                   seckt angehanget, ouch darumb vor jarenn jn myner
-                                                  gnädgenn herrenn vonn<placeName ref="Zürich">Zürich</placeName>fengknus<note type="editorial">
+                                                  gnädgenn herrenn vonn <placeName ref="Zürich">Zürich</placeName> fengknus<note type="editorial">
                                                   Gefängnis</note> kommenn bin und domals ein urfech
                                                   geschworn, darvon zestan, und aber dasselbig
                                                   ubergangenn. Dann ich mich söllicher verfuerischen
                                                   töuffery siderhar wider underwundenn und geuebt.
-                                                  Desswegen mich die gemelltenn<note type="editorial"> genannten</note>myne herren widerumb fengklichenn annemmen wöllen lassen, wo ich nit entwichenn. Uff söllichs mich der fromm, fürnäm, wyß Johans<persName ref="Lavater, Hans Rudolf">Ruedolff Lavater</persName><bm id="17"/>, burger<placeName ref="Zürich">Zürich</placeName>, der zyt vogt zu<placeName ref="Kyburg">Kyburg</placeName>, myn günstiger
+                                                  Desswegen mich die gemelltenn<note type="editorial"> genannten</note> myne herren
+                                                  widerumb fengklichenn annemmen wöllen lassen, wo
+                                                  ich nit entwichenn. Uff söllichs mich der fromm,
+                                                  fürnäm, wyß Johans <persName ref="Lavater, Hans Rudolf">Ruedolff Lavater</persName><bm id="17"/>, burger
+                                                  <placeName ref="Zürich">Zürich</placeName>, der zyt vogt zu
+                                                  <placeName ref="Kyburg">Kyburg</placeName>, myn günstiger
                                                   lieber herr, uff myner früntschafft<note type="editorial"> Verwandtschaft, Sippe, Id. I,
                                                   1307.</note> groß bitt jn nammen gemellter myner
                                                   herrenn gnediglichen on alle engelltnus wider heim
@@ -139,7 +145,11 @@
                                                   disers urfechs. So hab ich den gemellten mynen
                                                   herren von Zürich zweyhundert guldin guͤter
                                                   zurcher weͣrung vertröst<note type="editorial">
-                                                  verbürgen, Id. XIV, 1407-1414.</note>und jnen darumb zů reͣchten güllten unnd bürgen ggeben die erbarn<persName ref="Bächi, Klaus">Claus Beͣche</persName>vonn<placeName ref="Chimenhof">Kymenhoff</placeName>, myn lieben brůder, und<persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>vonn<placeName ref="Rüti">Rütj</placeName>, myn lieben vetter. Also wo ich
+                                                  verbürgen, Id. XIV, 1407-1414.</note> und jnen
+                                                  darumb zů reͣchten güllten unnd bürgen ggeben die
+                                                  erbarn Claus Beͣche<persName ref="Bächi, Klaus"/>
+                                                  vonn <placeName ref="Chimenhof">Kymenhoff</placeName>, myn
+                                                  lieben brůder, und <persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName> vonn <placeName ref="Rüti">Rütj</placeName>, myn lieben vetter. Also wo ich
                                                   söllich urfech und das, so mir darinn yngebund
                                                   ist, nit hielt, das jn eym oder meer stucken
                                                   ubertraͤtti uber kurtz oder lang, dass dann die
@@ -161,7 +171,9 @@
                                                   der predig zů hörenn unnd mich dess mit dheynem
                                                   gevaͤrdenn nitt absündern, alles on gevaͤrd war
                                                   hallten.</p>
-                                                  <p rend="margin-top">Wir die vorgenannten<persName ref="Bächi, Klaus">Claus Beͣchi</persName><bm id="18"/>unnd<persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>, globend und verspreͣchend
+                                                  <p rend="margin-top">Wir die vorgenannten Claus
+                                                  Beͣchi<persName ref="Bächi, Klaus"/><bm id="18"/>
+                                                  unnd <persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>, globend und verspreͣchend
                                                   ouch beyd gemeynlich für uns und all unser erbenn
                                                   by unsernn guͤten trüwenn an eyds statt, gegen den
                                                   vorgemellten unsernn herren unnd obern vonn Zürich
@@ -173,7 +185,12 @@
                                                   war und staͤtt hallten, dess gelobenn unnd
                                                   gnůgthůn on alle jnred alles on gevaͤrd, so wyt
                                                   unser lyb, hab und gůt gelangenn mag.</p>
-                                                  <p rend="margin-top">Unnd dess zů warem urkhund so hab ich, obgenanter<persName ref="Bächi, Hans">Hans Baͤchi</persName>, alls der thaͤter und seͣcher unnd wir, die vorgenanten<persName ref="Bächi, Klaus">Claus Beͣchi</persName>und<persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>, beyd alls güllten und bürgen all dryg gemeynlich erbeͣttenn den ersamen wolbescheidnen<persName ref="Wolf, Heinrich">Heinrich Wolff</persName>, burger<placeName ref="Zürich">Zürich</placeName>, der zyt schaffner zů<placeName ref="Embrach">Embrach</placeName>, das er sin
+                                                  <p rend="margin-top">Unnd dess zů warem urkhund so
+                                                  hab ich, obgenanter Hans Baͤchi<persName ref="Bächi, Hans"/>, alls der thaͤter und seͣcher
+                                                  unnd wir, die vorgenanten Claus Beͣchi<persName ref="Bächi, Klaus"/> und <persName ref="Altorfer, Ruedi">Ruedj Alltorffer</persName>, beyd alls güllten und
+                                                  bürgen all dryg gemeynlich erbeͣttenn den ersamen
+                                                  wolbescheidnen <persName ref="Wolf, Heinrich">Heinrich Wolff</persName>, burger <placeName ref="Zürich">Zürich</placeName>, der zyt schaffner zů
+                                                  <placeName ref="Embrach">Embrach</placeName>, das er sin
                                                   ynsigel für uns und unser erbenn, doch jmm und
                                                   sinen erbenn jnn allweg on schaͤdlich, offenlich
                                                   ann disen brieff gehenckt hatt. Ggeͣbenn uff

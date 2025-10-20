@@ -79,8 +79,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt<persName ref="Escher, Rudolf"/><bm id="76"/> von Grüningen<note type="editorial"> Rudolf
-                                                  Escher vom Glas</note><placeName ref="Grüningen"/>schryben, das<persName ref="Bürgi, Jakob">er Jacoben</persName>ab<placeName ref="Fischenthal, Strahlegg">Stralegg</placeName>dem thoüffer
+      <div><p><persName ref="Escher, Rudolf"/><bm id="76"/> von Grüningen<note type="editorial"> Rudolf
+                                                  Escher vom Glas</note><placeName ref="Grüningen">Vogt</placeName>
+                                                  schryben, das <persName ref="Bürgi, Jakob">er Jacoben</persName> ab <placeName ref="Fischenthal, Strahlegg">Stralegg</placeName> dem thoüffer
                                                   antzeige, das er dem eyd, so er geschworen, statt
                                                   thüge unnd uß miner herren gepiet züche. Wa er
                                                   aber disem nit statt thüge biß wiennacht unnd jnn

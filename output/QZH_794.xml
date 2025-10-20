@@ -80,10 +80,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Min frünttlicher grůß und bereydt dienst sigend üweren eerenvest wissheitten zubevor. Fromme, edle, eerenveste, fürsichtige, wyse herren und eydtgnoßen, ess hatt sich<persName ref="Lips, Anna">Anna Lipps</persName>von Räbstall<note type="editorial"> Reppischtal</note><placeName ref="Reppischtal"/> üwerer ampttßverwalttung
+      <div><p>Min frünttlicher grůß und bereydt dienst sigend
+                                                  üweren eerenvest wissheitten zubevor. Fromme,
+                                                  edle, eerenveste, fürsichtige, wyse herren und
+                                                  eydtgnoßen, ess hatt  <persName ref="Lips, Anna">Anna Lipps</persName> von Räbstall<note type="editorial"> Reppischtal</note><placeName ref="Reppischtal">sich</placeName> üwerer ampttßverwalttung
                                                   theilß angehörig inn die böse sect deren
                                                   widertaüfferen begäben, daß land gerumptt und
-                                                  albereytt ein lange zitt inn<placeName ref="Mähren">Merheren</placeName>irem abfaal gmäß sich
+                                                  albereytt ein lange zitt inn <placeName ref="Mähren">Merheren</placeName> irem abfaal gmäß sich
                                                   verhaltten<note type="editorial"> sich aufhalten,
                                                   Grimm 25, 513.</note>. Nun wird ich glaubwürdig
                                                   berichtett, daß selbige hinder anderen auch an
@@ -116,7 +119,7 @@
                                                   und oberen zu hochem gefallen, ich aber zu
                                                   sonderbarem danck uffnemmen will. Uf daß aber e.
                                                   evst. whten. desto beßer sächen mögend, waß maßen
-                                                  die sach inn der graffschafftt<placeName ref="Baden (Landgrafschaft)">Baden</placeName>uß gemeinem
+                                                  die sach inn der graffschafftt <placeName ref="Baden (Landgrafschaft)">Baden</placeName> uß gemeinem
                                                   ansächen aller daßelbst regierenden ortten disen
                                                   fäler beträffende beschaffen, hab ich nitt wöllen
                                                   underlaßen die zwen articul, so uff selbigen
@@ -136,12 +139,12 @@
                                                   <p rend="margin-top">Ewer eerenvest whtn.
                                                   gůttwilliger</p>
                                                   <p>Matthiaß Grüeninger, landtvogtt der
-                                                  graffschafftt<placeName ref="Baden">Baden</placeName>imm
+                                                  graffschafftt <placeName ref="Baden">Baden</placeName> imm
                                                   Ergöw</p>
                                                   <p rend="margin-top">Den frommen, edlen,
                                                   ernvesten, fürsichtigen und wyßen herrn N.
                                                   Schneebergern etc. und herren N. Schwerzenbach des
-                                                  raths der statt<placeName ref="Zürich">Zürich</placeName>,
+                                                  raths der statt <placeName ref="Zürich">Zürich</placeName>,
                                                   minen sonders vertruwten herren und
                                                   eydtgnossen.</p>
                                                   </div>

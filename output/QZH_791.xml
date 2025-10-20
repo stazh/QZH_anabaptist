@@ -78,11 +78,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, vor unns jst erschinnen der unser<persName ref="Hindermeister, Felix">Felix Hindermeister</persName>von<placeName ref="Opfikon">Opfiken</placeName>, dyn amptsangehöriger, unnd
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, vor unns jst erschinnen
+                                                  der unser <persName ref="Hindermeister, Felix">Felix Hindermeister</persName> von <placeName ref="Opfikon">Opfiken</placeName>, dyn amptsangehöriger, unnd
                                                   uns<note type="critical">Folgt gestrichen: bitten
-                                                  (Lesung unsicher)</note> berichten<note type="critical">«berichten» am Rand</note>laßen, demnach der ouch unser<persName ref="Wüst, Melchior">Melchior Wüst</persName>zů […]<note type="critical">In der Vorlage ein Spatium</note>selig mit tod abgangen unnd zween söhn,<persName ref="Wüst, Caspar">namblich Caspar</persName>und Mathyß,<persName ref="Wüst, Mathis">die Wüsten</persName>, verlaßen,
+                                                  (Lesung unsicher)</note> berichten<note type="critical">«berichten» am Rand</note> laßen,
+                                                  demnach der ouch unser <persName ref="Wüst, Melchior">Melchior Wüst</persName> zů […]<note type="critical">In der Vorlage ein Spatium</note> selig mit tod
+                                                  abgangen unnd zween söhn, <persName ref="Wüst, Caspar">namblich Caspar</persName> und Mathyß, <persName ref="Wüst, Mathis">die
+                                                  Wüsten</persName>, verlaßen,
                                                   denen syn gůt zůgefallen<note type="critical">Folgt gestrichen: und</note>, welliche beide söhn
-                                                  aber sich jnn<placeName ref="Mähren">Mehrherrn</placeName>begeben<note type="critical">Folgt gestrichen: und
+                                                  aber sich jnn <placeName ref="Mähren">Mehrherrn</placeName>
+                                                  begeben<note type="critical">Folgt gestrichen: und
                                                   derselbigen</note>. Und diewyl aber vermelter<note type="editorial"> erwähnter</note> Mathyß Wuͤst,
                                                   (so uß Mehrherrn alher khommen)<note type="critical">«(so uß … khommen)» am Rand mit
                                                   Verweiszeichen</note> jnne, Hindermeistern (als da
@@ -126,7 +133,8 @@
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wyßen, unnserm
-                                                  besonders gethrüwen, lieben burger und vogt zů<placeName ref="Kyburg">Kyburg</placeName>Hans Ůlrich
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Kyburg">Kyburg</placeName> Hans Ůlrich
                                                   Wolffen.</p>
                                                   </div>
     </body>

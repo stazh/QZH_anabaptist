@@ -85,7 +85,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsren günstigen geneigten willen und alles gůts zůvor. Frommer, wyser, besonders gethrüwer, lieber burger und vogt, wir habend uß dynem schryben verstanden, wie das du die jehningen personen, so<persName ref="Spöri, Hermann">Herman Spörj</persName>, als derselbig dir uß dynem
+      <div><p>Unnsren günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyser, besonders gethrüwer,
+                                                  lieber burger und vogt, wir habend uß dynem
+                                                  schryben verstanden, wie das du die jehningen
+                                                  personen, so <persName ref="Spöri, Hermann">Herman Spörj</persName>, als derselbig dir uß dynem
                                                   bevelch gfengklichen zůgfürt werden söllen,
                                                   widerumb ledig gemacht und jnne beherberget
                                                   habend, nach der gebür gebüßt und gstrafft habist,
@@ -122,7 +126,8 @@
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wysen unserem
-                                                  besonders gethrüwen, lieben burger und vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
                                                   Eych.</p>
                                                   </div>
     </body>

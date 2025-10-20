@@ -81,11 +81,13 @@
     <body>
       <div><p>Bůrgermeyster unnd rath der statt Zürich.
                                                   Unnsern grůß zůvor. Getrüwer, lieber undervogt,
-                                                  unns kompt clegt<note type="editorial">
-                                                  Klage</note>, wie eyn küffer, gennat Jacob<persName ref="Felder, Jakob">von Felderen</persName>, deßglychen<persName ref="Kriechli, Stefan">Steffan Kriechlis</persName>selgen gelasßene wittwe
+                                                  unns kompt <note type="editorial">
+                                                  Klage</note>, wie eyn küffer, gennat Jacob <persName ref="Felder, Jakob">von
+                                                  Felderen</persName>,
+                                                  deßglychen <persName ref="Kriechli, Stefan">Steffan Kriechlis</persName> selgen gelasßene wittwe
                                                   von Understamheym<note type="critical">«von
                                                   Understamheym» am Rand mit
-                                                  Verweiszeichen</note><placeName ref="Stammheim"/>
+                                                  Verweiszeichen</note><placeName ref="Stammheim">clegt</placeName>
                                                   widerspänigclich dem widertouff anhängig, jnn dem
                                                   das sy wäder zum gotswort noch zu den
                                                   cristenlichen sacramenten gangind unnd alle
@@ -103,10 +105,11 @@
                                                   (Frühneuhochdeutsches Wörterbuch).</note> unnd
                                                   wellent unns hierjnn zů dir alles flysßes
                                                   versechen<note type="editorial"> erwarten, Id.
-                                                  VII, 566f.</note>. Uß<placeName ref="Zürich">Zurich</placeName>, mittwuchs vor Symonis unnd Jude
+                                                  VII, 566f.</note>. Uß <placeName ref="Zürich">Zurich</placeName>, mittwuchs vor Symonis unnd Jude
                                                   1542.</p>
                                                   <p rend="margin-top">Unnserem getrüwen, lieben
-                                                  undervogt zů<placeName ref="Stammheim">Stamheym</placeName><persName ref="Wäpfer, N.">N. Wäpfer.</persName></p>
+                                                   <placeName ref="Stammheim">undervogt</placeName>
+                                                  N. Wäpfer.<persName ref="Wäpfer, N.">zů Stamheym</persName></p>
                                                   </div>
     </body>
   </text>

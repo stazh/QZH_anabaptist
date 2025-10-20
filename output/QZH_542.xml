@@ -81,8 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr landtvogt Escher<note type="editorial">Hans Konrad Escher<persName ref="Escher vom Glas, Hans Konrad">vom Glas</persName></note> jst
-                                                  dem vogt zů Knonouw<note type="editorial">Hans Heinrich Meyer<persName ref="Meyer von Knonau, Hans Heinrich">von Knonau</persName></note><placeName ref="Knonau"/> zůgegeben, der
+      <div><p>Herr landtvogt <note type="editorial">
+                                                  Hans Konrad Escher  <persName ref="Escher vom Glas, Hans Konrad">vom Glas</persName></note> jst
+                                                  dem vogt zů Knonouw<note type="editorial"> Hans
+                                                  Heinrich Meyer <persName ref="Meyer von Knonau, Hans Heinrich">von Knonau</persName></note><placeName ref="Knonau">Escher</placeName> zůgegeben, der
                                                   ­toüf­feren jm ampt halber zehandlen, jnnsonders
                                                   die, so unverteilte<note type="editorial"> nicht
                                                   getrennt (im gleichen Haus lebend), Id. XII,
@@ -108,7 +110,9 @@
                                                   nach Franken ausgewanderten und katholisch
                                                   gewordenen Jakob Wegmann von Hirzwangen, vgl. auch
                                                   das zweite Dokument.</note></p>
-                                                  <p rend="margin-top">Als j[unker] Hanns Heinrich Meyer<persName ref="Meyer von Knonau, Hans Heinrich">von Knonouw</persName>, vogt zů<placeName ref="Knonau">Knonouw</placeName>, myn gnedig
+                                                  <p rend="margin-top">Als j[unker] Hanns Heinrich
+                                                  Meyer <persName ref="Meyer von Knonau, Hans Heinrich">von Knonouw</persName>, vogt zů
+                                                  <placeName ref="Knonau">Knonouw</placeName>, myn gnedig
                                                   herren berichtet, was beschwerd jme die zyt har
                                                   der ­toüf­feren halber jnn syner amptsverwaltung
                                                   begegnet, jnn dem da jnn unverteilten<note type="editorial"> nicht getrennt (im gleichen Haus
@@ -127,7 +131,8 @@
                                                   gstaltsamme<note type="editorial"> Beschaffenheit,
                                                   Id. XI, 368.</note> der sachen genanntem herrn
                                                   vogte zů Knonouw zůgegeben jren lieben rathsfründt
-                                                  herrn landtvogt Eschern<note type="editorial">Hans Konrad Escher<persName ref="Escher vom Glas, Hans Konrad">(vom Glas)</persName></note> mitt
+                                                  herrn landtvogt Eschern<note type="editorial">
+                                                  Hans Konrad Escher (vom Glas)<persName ref="Escher vom Glas, Hans Konrad"/></note> mitt
                                                   dem bevelch, da er sambt jme, dem vogt, die
                                                   brůderen, so mitt jnen unverteilte brůder ald<note type="editorial"> oder</note> verwandten hetten,
                                                   die der ­toüf­ferischen seckt anhenig<note type="editorial"> anhängig</note>, für<note type="editorial"> vor</note> sich bescheiden,
@@ -172,8 +177,10 @@
                                                   dann er, herr landtvogt Escher, sölliches alles
                                                   mitt wyttloüffigeren dientstlichen worten
                                                   ußzerichten wol wüßen wirt.</p>
-                                                  <p>Unnd als dann fürs annder gesagter vogt zů Knonouw von mynen gnedigen herren bscheidts begert, wie er sich<persName ref="Wegmann, Jakob">Jacob Wegmans</persName>von<placeName ref="Hausen am Albis, Hirzwangen">Hirtzwangen</placeName>gůts halber,
-                                                  so er jnn das<placeName ref="Franken">Franckenland</placeName>(alda er sich nidergelaßen unnd unnder die
+                                                  <p>Unnd als dann fürs annder gesagter vogt zů
+                                                  Knonouw von mynen gnedigen herren bscheidts
+                                                  begert, wie er sich <persName ref="Wegmann, Jakob">Jacob Wegmans</persName> von <placeName ref="Hausen am Albis, Hirzwangen">Hirtzwangen</placeName> gůts halber,
+                                                  so er jnn das <placeName ref="Franken">Franckenland</placeName> (alda er sich nidergelaßen unnd unnder die
                                                   jesuiter begeben<note type="editorial"> Von
                                                   Jesuiten rekatholisierte Gebiete Frankens</note>)
                                                   hinweg zezüchen begert etc., hallten sölle, habent
@@ -191,8 +198,9 @@
                                                   annderen, so das ansprechend, zů syner zyth
                                                   deßhalb wol gebürenden bscheid geben wirt.</p>
                                                   <p>Actum mittwochs den 26ten februarij anno etc.
-                                                  89 p[raese]nt[ibus] herr burgermeister Tomman<note type="editorial"> Kaspar Thomann</note><persName ref="Thomann, Kaspar"/> unnd beid reth.</p>
-                                                  <p rend="margin-top">Underschryber zů<placeName ref="Zürich">Zürich</placeName>[scripsit]<note type="critical">In der Vorlage: ßt.</note>.</p>
+                                                  89 p[raese]nt[ibus] herr <note type="editorial"> Kaspar Thomann</note><persName ref="Thomann, Kaspar">burgermeister Tomman</persName> unnd beid reth.</p>
+                                                  <p rend="margin-top">Underschryber zů
+                                                  <placeName ref="Zürich">Zürich</placeName> [scripsit]<note type="critical">In der Vorlage: ßt.</note>.</p>
                                                   </div>
     </body>
     <back>

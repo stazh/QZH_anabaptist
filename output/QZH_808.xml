@@ -81,8 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hanns Heinrich Buman<note type="critical">Am
-                                                  Rand: j b[e]kh[antnus]</note><persName ref="Baumann, Hans Heinrich"/> von<placeName ref="Horgen">Horgen</placeName>soll recht uß
+      <div><p>Hanns <note type="critical">Am
+                                                  Rand: j b[e]kh[antnus]</note><persName ref="Baumann, Hans Heinrich">Heinrich Buman</persName> von
+                                                  <placeName ref="Horgen">Horgen</placeName> soll recht uß
                                                   gnaden von den 810 pfund<note type="critical">In
                                                   der Vorlage: lb</note> (die er nun 10 jar lang
                                                   verzinßet<note type="editorial"> Vgl. zum Beispiel

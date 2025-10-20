@@ -76,18 +76,28 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Ůlrichen Störchliß von<placeName ref="Wellhausen">Welhußen</placeName>bj Frouwenfäld uß dem<placeName ref="Thurgau">Turgeüw</placeName>unnd Jagly
+      <div><p>Ůlrichen Störchliß von <placeName ref="Wellhausen">Welhußen</placeName> bj Frouwenfäld uß dem
+                                                  <placeName ref="Thurgau">Turgeüw</placeName> unnd Jagly
                                                   Ruͤggen von Felnuß<note type="editorial"> Felmis,
                                                   Weiler in der Gemeinde Bauma, gehörte bis 1651 zur
                                                   Pfarrei Pfäffikon (Zürich)</note> uß der
-                                                  graffschafft<placeName ref="Kyburg">Kyburg</placeName>beider widerteüffern andtworthen.</p>
+                                                  graffschafft <placeName ref="Kyburg">Kyburg</placeName>
+                                                  beider widerteüffern andtworthen.</p>
                                                   <p rend="margin-top">Demnach her statthalter
-                                                  Ůlinger<note type="editorial"><persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, m[eister]<persName ref="Bertschinger, Hans">Hanß Bertschinger</persName>unnd m[eister]<persName ref="Bodmer, Jakob">Jacob Bodmer</persName>sampt herren
-                                                  Marco Beümler<note type="editorial"><persName ref="Bäumler, Markus">Markus Bäumler</persName></note>unnd herren<persName ref="Waser, Kaspar">Caspar Waßer</persName>uß üwer (miner gnedigen
+                                                  Ůlinger<note type="editorial"> 
+                                                  <persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, m[eister]
+                                                  <persName ref="Bertschinger, Hans">Hanß Bertschinger</persName> unnd m[eister] <persName ref="Bodmer, Jakob">Jacob
+                                                  Bodmer</persName> sampt herren
+                                                  Marco Beümler<note type="editorial">  <persName ref="Bäumler, Markus">Markus
+                                                  Bäumler</persName></note>
+                                                  unnd herren <persName ref="Waser, Kaspar">Caspar Waßer</persName> uß üwer (miner gnedigen
                                                   herren) bevelch zů Ůlrichen<note type="critical">In der Vorlage: Ůrlichen</note> Störchlj von
                                                   Wellhůßen bj Frouwenfäld uß dem Turgeuw und Jaglj
-                                                  Ruͤgg von<placeName ref="Bauma, Felmis">Felmiß</placeName>jnn der pfar<placeName ref="Pfäffikon (Zürich)">Pfefficken</placeName>uß der graffschafft
-                                                  Kyburg beiden widerteüfferen jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>khert<note type="editorial"> sich begeben, gehen,
+                                                  Ruͤgg von <placeName ref="Bauma, Felmis">Felmiß</placeName>
+                                                  jnn der pfar <placeName ref="Pfäffikon (Zürich)">Pfefficken</placeName> uß der graffschafft
+                                                  Kyburg beiden widerteüfferen jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  khert<note type="editorial"> sich begeben, gehen,
                                                   Id. III, 435.</note> unnd jnnen mit allem ernst
                                                   fürgehalten<note type="editorial"> vorwerfen, Id.
                                                   II, 1234.</note>, daß jr, min gnedig [herren], die
@@ -104,10 +114,17 @@
                                                   unnßer kilchen mangle, waß jnnen annglegen, ouch
                                                   annder sachen anzůzeigen, vermandt unnd darüber
                                                   jres bscheids begärt.</p>
-                                                  <p>Zeigt erstlichen<persName ref="Störchli, Ulrich">Ůlrich Störchlj</persName>uß dem<placeName ref="Thurgau">Turgeuw</placeName>an, das er by 10 jaren zů
-                                                  Sechen<note type="editorial"><placeName ref="Seen">Seen</placeName></note> by<placeName ref="Winterthur">Winterthur</placeName>unnd Alticken<note type="editorial"><placeName ref="Altikon">Altikon</placeName></note>jnn üwer (miner gnedigen herren) gebieten gedienet unnd ungevar vor drihalb jaren daß kuͤffer handtwerch gelernet unnd aber der wyn die jar har nit geraten, also daß er sich mit dißem synem hanndtwerch nit allein sonder ouch mit anderer arbeit erhalten muͤßen unnd letstlichem dem<persName ref="Spöri, Peter">Petter Spörj</persName>uff
+                                                  <p>Zeigt  <persName ref="Störchli, Ulrich">Ůlrich Störchlj</persName> uß dem <placeName ref="Thurgau">Turgeuw</placeName> an, das er by 10 jaren zů
+                                                  Sechen<note type="editorial"> <placeName ref="Seen">Seen</placeName></note> by <placeName ref="Winterthur">Winterthur</placeName> unnd Alticken<note type="editorial"> <placeName ref="Altikon">Altikon</placeName></note> jnn üwer (miner gnedigen herren)
+                                                  gebieten gedienet unnd ungevar vor drihalb jaren
+                                                  daß kuͤffer handtwerch gelernet unnd aber der wyn
+                                                  die jar har nit geraten, also daß er sich mit
+                                                  dißem synem hanndtwerch nit allein sonder ouch mit
+                                                  anderer arbeit erhalten muͤßen unnd letstlichem
+                                                  dem <persName ref="Spöri, Peter">Petter Spörj</persName> uff
                                                   Dunckelwiß<note type="editorial"> Dunkelwis, Hof
-                                                  in der Gemeinde Bäretswil</note><placeName ref="Bäretswil, Dunkelwis"/> jm ampt<placeName ref="Grüningen">Gruͤningen</placeName>gearbeitet,
+                                                  in der Gemeinde Bäretswil</note><placeName ref="Bäretswil, Dunkelwis">erstlichen</placeName> jm ampt
+                                                  Gruͤ<placeName ref="Grüningen">ningen</placeName> gearbeitet,
                                                   daselbsten er dann gfänglichen angnommen worden.
                                                   Er habe aber niemandt ufgwißen<note type="editorial"> zu etwas angestiftet, verleitet,
                                                   Id. XVI, 1939.</note> noch glehrt, dann er noch
@@ -132,7 +149,11 @@
                                                   andtworten khönnen, sonnder umb erledigung der
                                                   gfangenschafft<note type="critical">Folgt
                                                   gestrichen: begert</note> gebeten.</p>
-                                                  <p>Demnach zeigt<persName ref="Rüegg, Jaggli">Jaglj Ruͤgg</persName>von<placeName ref="Bauma, Felmis">Felmiß</placeName>an, er<note type="critical">«er» über der Zeile</note> syge jmm<placeName ref="Fischenthal">Vischenthall</placeName>jm ampt Gruͤningen zů synen bruͤderen gwandlet unnd habe<persName ref="Bertschinger, Heini (alias Schmid, Heini)">Heinj Bertschingers</persName>(genant Schmid, ein<note type="critical">«ein» am
+                                                  <p>Demnach zeigt Jaglj Ruͤgg<persName ref="Rüegg, Jaggli"/> von <placeName ref="Bauma, Felmis">Felmiß</placeName> an, er<note type="critical">«er» über der Zeile</note> syge jmm
+                                                  <placeName ref="Fischenthal">Vischenthall</placeName> jm ampt
+                                                  Gruͤningen zů synen bruͤderen gwandlet unnd habe
+                                                  <persName ref="Bertschinger, Heini (alias Schmid, Heini)">Heinj Bertschingers</persName>
+                                                  (genant Schmid, ein<note type="critical">«ein» am
                                                   Rand</note> teüffer) predig jnn einer schür, da er
                                                   nit wüßen möge, wem dießelbig zůghöre, angehört;
                                                   vermeine ouch, syge nit alles, waß er wüße,
@@ -152,7 +173,9 @@
                                                   gestrichen: mir […]</note> jnn der kilchen<note type="critical">Folgt gestrichen: sige daß
                                                   die</note> allhie nit sige, so sige der jn
                                                   der<note type="critical">«allzit nit sige, so sige
-                                                  der jn der» am Rand</note> gmeind zů<placeName ref="Korinth">Corinto</placeName>, alß die ein kilch Christj unnd<persName ref="Paulus">von Paulo</persName>gefplantzet gwäsen, ouch nie kein bann ghept
+                                                  der jn der» am Rand</note> gmeind zů
+                                                  <placeName ref="Korinth">Corinto</placeName>, alß die ein
+                                                  kilch Christj unnd <persName ref="Paulus">von Paulo</persName> gefplantzet gwäsen, ouch nie kein bann ghept
                                                   unnd nüdtestminder kein gleübiger dersälbigen
                                                   kilchen sich von des bans wegen, ja sover die
                                                   evangelische lehr doryn luther unnd rein

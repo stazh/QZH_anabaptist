@@ -81,8 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Baumann, Ludwig">Ludwig Buman</persName>von<placeName ref="Horgen">Horgen</placeName>soll umb das gůt, so er byhanden unnd<persName ref="Stocker, Heinrich">Heinrichen Stocker</persName>und syner<persName ref="Baumann, Magdalena">schwöster Magdalena</persName>von Horgen (welliche
-                                                  beide jm landt<placeName ref="Mähren">Merrhern</placeName>unnd der ­toüf­ferischen sect anhengig sind)
+      <div><p><persName ref="Baumann, Ludwig">Ludwig Buman</persName>
+                                                  von <placeName ref="Horgen">Horgen</placeName> soll umb das
+                                                  gůt, so er byhanden unnd <persName ref="Stocker, Heinrich">Heinrichen
+                                                  Stocker</persName> und
+                                                  syner <persName ref="Baumann, Magdalena">schwöster Magdalena</persName> von Horgen (welliche
+                                                  beide jm landt <placeName ref="Mähren">Merrhern</placeName>
+                                                  unnd der ­toüf­ferischen sect anhengig sind)
                                                   zůgehört, den seckelmeisteren unnd obervogt<note type="editorial"> Junghans
                                                   Thumysen</note><persName ref="Thumysen, Junghans"/> zů Horgen rechnung geben und dannenthin söllich
                                                   gůt (deß 600 gulden<note type="critical">In der

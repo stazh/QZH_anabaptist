@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hern vogt zu Wädischwyl<note type="editorial">Hans<persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note><placeName ref="Wädenswil"/> schryben, die teüffer, so jm
+      <div><p>Hern vogt zu <note type="editorial">
+                                                  Hans <persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note><placeName ref="Wädenswil">Wädischwyl</placeName> schryben, die teüffer, so jm
                                                   zädel<note type="editorial"> Die Namenliste ist
                                                   nicht überliefert.</note> beschriben, fenngklich
                                                   antzenemmen unnd mit jnen nach der gepür

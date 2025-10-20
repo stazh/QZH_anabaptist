@@ -81,9 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Müller, Baschi">Baschj Müller</persName>von<placeName ref="Birmensdorf">Birmenstorff</placeName>jst
+      <div><p><persName ref="Müller, Baschi">Baschj Müller</persName>
+                                                  von <placeName ref="Birmensdorf">Birmenstorff</placeName> jst
                                                   syner begerenden hilf uß syner eefrowen s[eligen]
-                                                  brůders, so by 24 jaren jnn<placeName ref="Mähren">Mehrherren</placeName>zogen und gstorben syn soll, gůte
+                                                  brůders, so by 24 jaren jnn <placeName ref="Mähren">Mehrherren</placeName> zogen und gstorben syn soll, gůte
                                                   ab- und deßhalb ruͤwig zesyn gewißen worden,
                                                   diewyl es nit ­toüf­fer gůt, sonder von einer
                                                   schuld naher<note type="critical">Folgt

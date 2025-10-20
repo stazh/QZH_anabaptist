@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Strenng<note type="critical">In der Vorlage:
+      <div><p><note type="critical">In der Vorlage:
                                                   stranng</note>, frum, edel, eren, vest,
                                                   fuͤrsychdig, ersam und wyß, jnsunders günstig,
                                                   gnedig jr myn heren, min underthenig, gehorsam,
@@ -89,7 +89,7 @@
                                                   alß üwer er. wißheit mir hat zů schryben laßen,
                                                   wie<note type="critical">«wie» über der
                                                   Zeile</note> Falwhanns<persName ref="Falw Hans (von Schüpfen)"/> von Schypfen<note type="editorial"> Schüpfen
-                                                  (Schüpfheim)</note><placeName ref="Schüpfen"/>
+                                                  (Schüpfheim)</note><placeName ref="Schüpfen">Strenng</placeName>
                                                   sych für und für der töyfferschen sect beladen und
                                                   sunst jnn andere wäg ouch ungepürlich hanndlen
                                                   sölle. Deßhalben ich den undervogt uff angännde
@@ -107,16 +107,23 @@
                                                   sampt anderen eren lütten gan Schypffen geschickt,
                                                   die sälbigen das huß umbstelt, demnach der
                                                   undervogt sampt anderen personnen jn das hus
-                                                  gangen und gemaltden<note type="critical">korrigiert, ursprünglich: gemaltdem</note>Falwhannßen nach gefragt und jn allenthalben jn dem hus und bedter gpsůcht, aber jn nit können fynden nach erfragen. Demnach sige der undervogt mit sampt den annderen personnen jn des Hannß<persName ref="Hans von Raz">von Raz</persName>huß gangen und
+                                                  gangen und gemaltden<note type="critical">korrigiert, ursprünglich: gemaltdem</note>
+                                                  Falwhannßen nach gefragt und jn allenthalben jn
+                                                  dem hus und bedter gpsůcht, aber jn nit können
+                                                  fynden nach erfragen. Demnach sige der undervogt
+                                                  mit sampt den annderen personnen jn des Hannß <persName ref="Hans von Raz">von
+                                                  Raz</persName> huß gangen und
                                                   jnn daryn ouch nit funden. Deß halben jr, min
                                                   heren, mögendt hanndlen nach üwerem gevallen.
                                                   Datum samßtag den eynlyfften<note type="editorial"> elften, Id. I, 283.</note> tag janners dyß sechs
                                                   und fünffzygisten jars.</p>
                                                   <p rend="margin-top">U[wer] w[illiger] dienner</p>
-                                                  <p>Mathyß Schwerzenbach, vogt uff<placeName ref="Regensberg">Regennsperg</placeName></p>
+                                                  <p>Mathyß Schwerzenbach, vogt uff
+                                                  <placeName ref="Regensberg">Regennsperg</placeName></p>
                                                   <p rend="margin-top">Den stränngen, frumen, edlen,
                                                   eren, vesten, fursychtigen, ersamen unnd wyßenn
-                                                  heren burgermeyster und rath der statt<placeName ref="Zürich">Zürych</placeName>, mynen günstigen,
+                                                  heren burgermeyster und rath der statt
+                                                  <placeName ref="Zürich">Zürych</placeName>, mynen günstigen,
                                                   gnedigen, lyeben herenn.</p>
                                                   </div>
     </body>

@@ -81,13 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Diewyl vogt Meyer<note type="editorial"> Von
+      <div><p>Diewyl <note type="editorial"> Von
                                                   Hans Heinrich Meyer vom Weggen (gest.
                                                   1624)<persName ref="Meyer vom Weggen, Hans Heinrich"/> ist sonst
                                                   nicht bekannt, dass er einen Bruder mit Namen
-                                                  Erhard hatte.</note> zů<placeName ref="Greifensee">Gryffensee</placeName>mit synem brůder Ehrharten
+                                                  Erhard hatte.</note> zů <placeName ref="Greifensee">Gryffensee</placeName> mit synem brůder Ehrharten
                                                   Meyer<note type="critical">Marginalie: j
-                                                  b[ekhantnus]</note><persName ref="Meyer, Erhard"/>
+                                                  b[ekhantnus]</note><persName ref="Meyer, Erhard">vogt Meyer</persName>
                                                   (so sich jnn die ­toüf­ferisch sect begeben) also
                                                   syn Ehrharten gůts halb (so er, vogt, under
                                                   handen) verglichen<note type="editorial"> sich

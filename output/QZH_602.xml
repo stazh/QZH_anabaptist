@@ -78,11 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Der töüfferen jnn der herrschafft<placeName ref="Knonau">Knonouw</placeName>bůsßen und
+      <div><p>Der töüfferen jnn der herrschafft
+                                                  <placeName ref="Knonau">Knonouw</placeName> bůsßen und
                                                   schuldigen costen belangende<note type="critical">Aufschrift auf der Rückseite des Dokument, ebd.
                                                   die Notiz: «Doüffer zadell von dem alden fogtt
                                                   Meyerr soll jnnzüchen».</note></p>
-                                                  <p rend="margin-top">Alls j[unker] Hanns Heinrich Meyger<persName ref="Meyer von Knonau, Hans Heinrich">von Knonouw</persName>, gewessner
+                                                  <p rend="margin-top">Alls j[unker] Hanns Heinrich
+                                                  Meyger <persName ref="Meyer von Knonau, Hans Heinrich">von Knonouw</persName>, gewessner
                                                   vogt der herschafft Knonouw, by unnd nebent syner
                                                   letsten vogt rechnung myn gnedig herren, die
                                                   rächenherren, berichtet, wie das jmme von
@@ -105,9 +107,11 @@
                                                   schuldigen bůßen unnd costen halb zůgeschriben,
                                                   können sy nachmalen kein besser mittel finden,
                                                   dann das meergesagter herr vogt Meyger zů glegner
-                                                  zyt überhin gen<placeName ref="Knonau">Knonouw</placeName>kere<note type="editorial"> sich begeben, gehen,
+                                                  zyt überhin gen <placeName ref="Knonau">Knonouw</placeName>
+                                                  kere<note type="editorial"> sich begeben, gehen,
                                                   Id. III, 435.</note>, angezeygt schryben jetzigem
-                                                  herren vogt Brämen<note type="editorial"><persName ref="Bräm, Andreas">Andreas Bräm</persName></note> wie
+                                                  herren vogt Brämen<note type="editorial"> <persName ref="Bräm, Andreas">Andreas
+                                                  Bräm</persName></note> wie
                                                   ouch denn unndervögten fürzeige unnd hiemitt
                                                   ordnung gebe, das selbigem mitt allem ernst
                                                   nachgangen werden, damitt einmalen die
@@ -127,7 +131,12 @@
                                                   sölle. Inmassen herr vogt Meyger umb gesagte bůsen
                                                   ouch den costenn, so uff die sach ergangen
                                                   ald<note type="editorial"> oder</note> nach
-                                                  fürbas<note type="editorial"> weiter</note>ergaan möchte, uff fürderlichist bezalt werde. Hieran besicht wolgenanter myner gnedigen herren will unnd wolgefallen. Actum donstags den 17ten februarij anno etc. 92 pr[aese]nt[ibus] herr<persName ref="Grossmann, Konrad">burgermeister Grosman</persName>und verordneten
+                                                  fürbas<note type="editorial"> weiter</note> ergaan
+                                                  möchte, uff fürderlichist bezalt werde. Hieran
+                                                  besicht wolgenanter myner gnedigen herren will
+                                                  unnd wolgefallen. Actum donstags den 17ten
+                                                  februarij anno etc. 92 pr[aese]nt[ibus] herr
+                                                  <persName ref="Grossmann, Konrad">burgermeister Grosman</persName> und verordneten
                                                   rechenherren.</p>
                                                   <p rend="margin-top">Rechenschryber scripsit</p>
                                                   </div>

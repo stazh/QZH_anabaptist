@@ -79,11 +79,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Uff mitwuchs den 28ten octobris anno 1584 hatt<persName ref="Müller, Klaus">Claus Müller</persName><bm id="154"/>, burger zur<placeName ref="Scheer">Scheer</placeName>, herren burgermeister unnd rath der statt Zürich von deß wolgebornen herren,<persName ref="Christoph von Waldburg">hern Christoffen</persName>deß heiligen römischen rychs erbruch[sess etc.
+      <div><p>Uff mitwuchs den 28ten octobris anno 1584 hatt
+                                                  <persName ref="Müller, Klaus">Claus Müller</persName><bm id="154"/>, burger zur <placeName ref="Scheer">Scheer</placeName>, herren burgermeister unnd rath der
+                                                  statt Zürich von deß wolgebornen herren, <persName ref="Christoph von Waldburg">hern
+                                                  Christoffen</persName> deß heiligen römischen rychs erbruch[sess etc.
                                                   die copia obligationes zukommen lassen.]<note type="editorial"> Der Text bricht hier
                                                   ab.</note></p>
                                                   <p rend="margin-top">Wir, burgermeister unnd rath
-                                                  der statt<placeName ref="Zürich">Zürich</placeName>, thůnd
+                                                  der statt <placeName ref="Zürich">Zürich</placeName>, thůnd
                                                   khundt menngklichem<note type="editorial">
                                                   jedermann, Grimm 12, Sp. 1592f.</note> mit dißem
                                                   brieff, das unns uff mitwuch nechst
@@ -92,7 +95,7 @@
                                                   Verweiszeichen</note> abermalen von deß
                                                   wolgebornen herren, hern Christoff, deß heiligen
                                                   römischen rychs erbruchseß, frygherr zů Waldtburg,
-                                                  herr zur Scheer unnd<placeName ref="Trauchburg">Trauchburg</placeName>, röm. key. ma[jesta]tt etc.
+                                                  herr zur Scheer unnd <placeName ref="Trauchburg">Trauchburg</placeName>, röm. key. ma[jesta]tt etc.
                                                   auch f[ü]rs[tlicher] d[urchlauch]t erzherzog
                                                   Ferdinanden zů Österrych etc. rath etc.,
                                                   oberamptlüten durch Claußen Müller, burger zur

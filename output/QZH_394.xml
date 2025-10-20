@@ -78,11 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als herr seckelmeister Escher<note type="editorial"> Konrad Escher
-                                                  (1518-1588)</note><persName ref="Escher, Konard"/>und j[unker]<persName ref="Keller, Christia">Hans Keller</persName>zů Hanß Hotzen unnd
+      <div><p>Als herr <note type="editorial"> Konrad Escher
+                                                  (1518-1588)</note><persName ref="Escher, Konard">seckelmeister Escher</persName>
+                                                  und j[unker] <persName ref="Keller, Christia">Hans Keller</persName> zů Hanß Hotzen unnd
                                                   Christen Stůder, den ­toüf­feren<note type="critical">«den ­toüf­feren» am Rand mit
-                                                  Verweiszeichen</note> von<placeName ref="Alstetten">Alltstetten</placeName>bürtig, so sich widerumb uß dem
-                                                  Merhern<placeName ref="Mähren">landt</placeName>ufhin
+                                                  Verweiszeichen</note> von <placeName ref="Alstetten">Alltstetten</placeName> bürtig, so sich widerumb uß dem
+                                                  Merhern <placeName ref="Mähren">landt</placeName> ufhin
                                                   gelasßen, jnn gefangenschafft keert, jnen
                                                   fürgehallten<note type="editorial"> vorgeworfen,
                                                   Id. II, 1235.</note>, uß was ursachen und jnn was
@@ -95,7 +96,7 @@
                                                   hatt erstlichen der Hotz den bescheid geben, das
                                                   er zuvorderst wol erkhennen khönne, jnn dem
                                                   unrecht thon haben, das er wider und über das
-                                                  gelüpt, so er hern vogt zů<placeName ref="Kyburg">Kyburg</placeName><note type="editorial"> Kaspar
+                                                  gelüpt, so er hern vogt zů <placeName ref="Kyburg">Kyburg</placeName><note type="editorial"> Kaspar
                                                   Thomann</note> gethon, üwer (miner herren) biet
                                                   zemyden, sich widerumb darjn gelasßen.<note type="critical">Folgt gestrichen: Es</note> Er
                                                   syge aber domaln, als er diß glübt gethon, syn
@@ -117,7 +118,9 @@
                                                   züchen.</p>
                                                   <p>Sontst syge er dismaln allein der meinung har
                                                   kommen, die 421 pfund<note type="critical">In der
-                                                  Vorlage: lb.</note>ungfhar, so jme<persName ref="Bluntschli, Marx">Marx Bluntschlj</persName>allhie noch<note type="critical">«noch» über der
+                                                  Vorlage: lb.</note> ungfhar, so jme <persName ref="Bluntschli, Marx">Marx
+                                                  Bluntschlj</persName>
+                                                  allhie noch<note type="critical">«noch» über der
                                                   Zeile</note> schuldig, jntzůzüchen. Da er üch, min
                                                   herren, bette, jme zum jntzug desselben beholffen
                                                   und beradten zesind, welle er, so bald er betzalt,
@@ -137,7 +140,8 @@
                                                   sachen geredt und disputiert, sonder sich still
                                                   gehallten, syge auch noch nit gesinnet, jemmanden
                                                   ufzeweiblen ald unruͤwig zemachen.</p>
-                                                  <p><persName ref="Hedinger, Hans">Deß Hedingers</persName>synes mittbrůders fuͤrender lehr halb, das namlich
+                                                  <p><persName ref="Hedinger, Hans">Deß Hedingers</persName>
+                                                  synes mittbrůders fuͤrender lehr halb, das namlich
                                                   unser herr Christus allein für die erbsünd gnůg
                                                   thon, jtem das kheiner, so umb syns mißthůns
                                                   willen von der oberkeit abgethon werde, möge zů
@@ -148,7 +152,7 @@
                                                   habe wol gemellter Hedinger vilmaln auch<note type="critical">«auch» über der Zeile</note>
                                                   gredt, das jme Hotzen nit gefellig, sonders
                                                   zewider gweßen.</p>
-                                                  <p>Sodenne gibt gesagter<persName ref="Studer, Christian">Christen Studer</persName>die antwort, demnach er
+                                                  <p>Sodenne gibt  <persName ref="Studer, Christian">Christen Studer</persName> die antwort, demnach er
                                                   by fünff jaren ungfharr uß frygem<note type="editorial"> freiem</note> můt und<note type="critical">Folgt gestrichen: h</note> dheiner
                                                   unredlichen sachen halb<note type="critical">Folgt
                                                   gestrichen: hinn</note> jnn Märhern getzogen, syge
@@ -159,7 +163,7 @@
                                                   deren uff die 300 by einannderen zů
                                                   Austerlitz<note type="editorial"> Slavkov u
                                                   Brna</note>
-                                                  <placeName ref="Slavkov u Brna"/>jnn der vorstatt
+                                                  <placeName ref="Slavkov u Brna">gesagter</placeName>jnn der vorstatt
                                                   sich enthalltind<note type="editorial"> sich
                                                   aufhalten, wohnen, Id. II, 1230.</note>, bevolchen
                                                   unnd jngebunden, syge sollicher und kheiner
@@ -216,7 +220,8 @@
                                                   g[nedig] herren) gebiet zemyden, dann ein
                                                   sölliches wider gots verbott were, und er syn
                                                   gwüßne dardurch beschweren wurde.</p>
-                                                  <p rend="margin-top">[Urteil:]<persName ref="Hotz, Hans">Diewyl Hotz</persName>sich
+                                                  <p rend="margin-top">[Urteil:] <persName ref="Hotz, Hans">Diewyl
+                                                  Hotz</persName> sich
                                                   enbotten<note type="editorial"> sich anerbieten,
                                                   Id. IV, 1868f.</note>, anzulobenn usß myner herren
                                                   gricht unnd gebiet zůzüchenn unnd niemermeer daryn
@@ -227,9 +232,16 @@
                                                   läben, als wann er einen gelerten eidt geschworen
                                                   hette, zůrichten befuͤgt syn, so habennd myn
                                                   herren sich erkhennt<note type="editorial">
-                                                  urteilen, Id. III, 313.</note>, das er uff söllich anloben der gfenncknus nach erleggung deß costenns erlasßen werde, unnd wover er synem erbieten nit statt thette, sonnders feerner ergriffen wurde, als dann er synen gepürenden lon empfachen solle. Actum sampstags den 5ten septembris anno 79 p[raese]nt[ibus] herr<persName ref="Kambli, Hans">burgermeister Kamblj</persName>und beid
+                                                  urteilen, Id. III, 313.</note>, das er uff söllich
+                                                  anloben der gfenncknus nach erleggung deß costenns
+                                                  erlasßen werde, unnd wover er synem erbieten nit
+                                                  statt thette, sonnders feerner ergriffen wurde,
+                                                  als dann er synen gepürenden lon empfachen solle.
+                                                  Actum sampstags den 5ten septembris anno 79
+                                                  p[raese]nt[ibus] herr <persName ref="Kambli, Hans">burgermeister
+                                                  Kamblj</persName> und beid
                                                   reth.</p>
-                                                  <p>Als<persName ref="Studer, Christian">Christenn Studer</persName>sich glychen anlobens
+                                                  <p>Als <persName ref="Studer, Christian">Christenn Studer</persName> sich glychen anlobens
                                                   wie Hotz zethůnd enbotten, jst er uff erstattunng
                                                   desselben unnd erlegung uferlouffnen kostenns der
                                                   gfenncknus ledig gelasßenn worden mitt dem

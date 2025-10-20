@@ -80,13 +80,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, vester, besonders, gethrüwer, lieber burger unnd vogt, hüttigs morgens jnn der nacht sind<persName ref="Gut, Andres">Andares Gůt</persName>von<placeName ref="Luneren">Luneren</placeName>unnd<persName ref="Wäber, Gorius">Gorius Wäber</persName>von
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, vester, besonders, gethrüwer,
+                                                  lieber burger unnd vogt, hüttigs morgens jnn der
+                                                  nacht sind <persName ref="Gut, Andres">Andares Gůt</persName> von <placeName ref="Luneren">Luneren</placeName> unnd
+                                                  <persName ref="Wäber, Gorius">Gorius Wäber</persName> von
                                                   Äbertschwyl<note type="editorial">
                                                   Ebertswil</note>, beid dyne amptsangehörige, die
                                                   wir von wegen jrer angenomnen ­toüf­ferischen sect
                                                   jetzt ein [zyt] har jnn verstrickung gehept,
                                                   nebent anderen jren mitthafften<note type="editorial"> Parteigänger, Id. II,
-                                                  1057.</note> usß unnser gfengknus, dem<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>,
+                                                  1057.</note> usß unnser gfengknus, dem
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>,
                                                   gebrochen unnd ußkhommen. Deßwegen so bevelchend
                                                   wir dir hiemitt, dyn spech unnd khundtschaft<note type="editorial"> spech und kundschaft:
                                                   Nachforschung und Erkundigung, Id. X, 76.</note>
@@ -107,7 +112,8 @@
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, vesten, unnserm
                                                   besonders gethrüwen, lieben burger unnd vogt zů
-                                                  Knonouw Hanns Heinrichen Meyer von<placeName ref="Knonau">Knonouw</placeName>.</p>
+                                                  Knonouw Hanns Heinrichen Meyer von
+                                                  <placeName ref="Knonau">Knonouw</placeName>.</p>
                                                   </div>
     </body>
   </text>

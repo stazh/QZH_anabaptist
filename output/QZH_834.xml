@@ -76,7 +76,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Alß beide herren obervögt zů<placeName ref="Horgen">Horgen</placeName>zů Jacoben Isler, dem
+      <div><p>Alß beide herren obervögt zů <placeName ref="Horgen">Horgen</placeName> zů Jacoben Isler, dem
                                                   wider­toüf­fer ab dem Horgerberg uff dem
                                                   Bodenhoff, uf daß rathuß kheert, jnne volgender
                                                   artigclen wegen der lenge nach befragt, jmme eins
@@ -102,19 +102,24 @@
                                                   <p>Daß sy dhein bestimpt ort zů predigen, sonnder
                                                   uß forcht einst da, annderst dört predigen
                                                   laßint.</p>
-                                                  <p>Wie houptman Müllers son<note type="editorial"><persName ref="Müller, Jos">Jos Müller</persName></note>mit<persName ref="Sträuli, Hans">Hannsen Strüwlis</persName>von<placeName ref="Wädenswil">Wädischwyl</placeName>tochter
+                                                  <p>Wie houptman Müllers <note type="editorial">
+                                                  <persName ref="Müller, Jos">Jos Müller</persName></note> mit
+                                                  <persName ref="Sträuli, Hans">Hannsen Strüwlis</persName>
+                                                  von <placeName ref="Wädenswil">Wädischwyl</placeName> tochter
                                                   hochzyt gehalten, syge er nit daheim, sonnder uf
                                                   Bůchenegg<note type="critical">Folgt gestrichen:
-                                                  gewäsen</note><placeName ref="Buchenegg"/>. Unnd
+                                                  gewäsen</note><placeName ref="Buchenegg">son</placeName>. Unnd
                                                   wyl er nit darby gwäsen, vermeine er nit
                                                   annzůzeigen, ann wellichem ort die hochzyt
                                                   gehalten worden.</p>
-                                                  <p>Glychergstalt, wer mit<persName ref="Gut, Junghans">Junghannß Gůten</persName>von<placeName ref="Lunneren">Lunneren</placeName>, synem dienstknächt<note type="critical">«ynem dienstknächt» am Rand mit
+                                                  <p>Glychergstalt, wer mit <persName ref="Gut, Junghans">Junghannß Gůten</persName> von <placeName ref="Lunneren">Lunneren</placeName>, synem dienstknächt<note type="critical">«ynem dienstknächt» am Rand mit
                                                   Verweiszeichen</note>, hochzyt gehalten, hat er
                                                   ouch nit nambhafft machen wellen.</p>
-                                                  <p>Denn seckelmeister jres gmeinen gůts unnd wievil deselben, wüße er nit. Unnd ob wol darvon geret worden, das<persName ref="Isler, Jakob">er, Ysler</persName>, derselbig syn sölte, syge
+                                                  <p>Denn seckelmeister jres gmeinen gůts unnd
+                                                  wievil deselben, wüße er nit. Unnd ob wol darvon
+                                                  geret worden, das er, Ysler<persName ref="Isler, Jakob"/>, derselbig syn sölte, syge
                                                   doch daßelbig nit waar, unnd verneine er, daß jr
-                                                  seckelmeister nit jnn<placeName ref="Horgen">Horger</placeName>vogtyg wonhafft. Ouch wüße er nit,
+                                                  seckelmeister nit jnn <placeName ref="Horgen">Horger</placeName> vogtyg wonhafft. Ouch wüße er nit,
                                                   alß der allein 4 jar lanng sich der predig
                                                   geüßert, wer jnn daß thöuffer gůt gestuͤrt.</p>
                                                   <p>Unnd ob wol er geholfen, etwaß kernens kauffen,

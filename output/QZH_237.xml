@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Bürgi, Rudolf">Ruͦdolff Bürgj</persName>von Wedischwyl<note type="editorial">
+      <div><p>Ruͦ<persName ref="Bürgi, Rudolf">dolff Bürgj</persName>
+                                                  von Wedischwyl<note type="editorial">
                                                   Wädenswil</note><placeName ref="Wädenswil"/> jst
                                                   der thöufferj abstannden unnd sich begeben, dem
                                                   vogt gehorsamj zethund. Das soll man dem vogt
@@ -90,8 +91,9 @@
                                                   er jn<note type="critical">«jn» über der
                                                   Zeile</note> fenngklichen annemme unnd
                                                   harschicke.</p>
-                                                  <p><placeName ref="Grüningen">Grüningen</placeName>schryben,
-                                                  das sich die thoüffer zů<note type="critical">Folgt gestrichen: wann […] (Lesung unklar)</note><placeName ref="Wald">Wald</placeName>versamlind, darumb er
+                                                  <p><placeName ref="Grüningen">Grüningen</placeName> schryben,
+                                                  das sich die thoüffer zů<note type="critical">Folgt gestrichen: wann […] (Lesung unklar)</note>
+                                                  <placeName ref="Wald">Wald</placeName> versamlind, darumb er
                                                   sin späch<note type="editorial"> Fahndung, Id. X,
                                                   76.</note> uff sy mache unnd verschaffe, das sy
                                                   nach der gepür gestrafft werdint.</p>

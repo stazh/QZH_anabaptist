@@ -78,8 +78,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unsern günstigen geneigten willen unnd alls guts zuvor. Frommer, wyser, besonnders gethrüwer, lieber burger und vogt,<persName ref="Schnorf, Hans">Hanns Schnorf</persName>, so verschinen jaren uß
-                                                  dyner amptsverwaltung jnn dz land zu<placeName ref="Mähren">Merhern</placeName>gezogen unnd onn zwyfel by den wider­toüf­feren daselbst syn wonung gehept, jst uff hütigen tag vor uns erschinen unnd jnamen deß unseren<persName ref="Jost, Hans">Hans Joßten</persName>, so auch am selben ordt syn
+      <div><p>Unsern günstigen geneigten willen unnd alls
+                                                  guts zuvor. Frommer, wyser, besonnders gethrüwer,
+                                                  lieber burger und vogt, <persName ref="Schnorf, Hans">Hanns Schnorf</persName>, so verschinen jaren uß
+                                                  dyner amptsverwaltung jnn dz land zu
+                                                  <placeName ref="Mähren">Merhern</placeName> gezogen unnd onn
+                                                  zwyfel by den wider­toüf­feren daselbst syn wonung
+                                                  gehept, jst uff hütigen tag vor uns erschinen unnd
+                                                  jnamen deß unseren <persName ref="Jost, Hans">Hans Joßten</persName>, so auch am selben ordt syn
                                                   unnderhaltung hat, etwas hab und guts hin weg
                                                   züchen wollen<note type="critical">Folgt
                                                   gestrichen: dieweyl wir dan</note>. Wirt nun uns
@@ -102,7 +108,8 @@
                                                   zukomen lassen, uns gegen jme wyter zuverhalten,
                                                   ds sind wir gegen dich jn ganden zuerkennen
                                                   gneigt. Datum den 6ten august, a[nn]o 97.</p>
-                                                  <p rend="margin-top">Ann vogt Hirtzel zu<placeName ref="Wädenswil">Wedeschwyl</placeName>.</p>
+                                                  <p rend="margin-top">Ann vogt Hirtzel zu
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName>.</p>
                                                   </div>
     </body>
   </text>

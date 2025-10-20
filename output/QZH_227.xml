@@ -81,7 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><placeName ref="Grüningen">Grüningen</placeName>,<placeName ref="Knonau">Knonow</placeName>unnd<placeName ref="Wädenswil">Wedischwyl</placeName>schryben,
+      <div><p><placeName ref="Grüningen">Grüningen</placeName>,
+                                                  <placeName ref="Knonau">Knonow</placeName> unnd
+                                                  <placeName ref="Wädenswil">Wedischwyl</placeName> schryben,
                                                   uff die thöuffer ein acht zehaben unnd zestraffen
                                                   unnd die predicannten har umb zů eerkonndigen, waß
                                                   sy darvon wüssint.</p>

@@ -81,7 +81,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Wann der vogt zu<placeName ref="Grüningen">Grüningen</placeName>von schulmeyster Wysen<note type="editorial"> Heinrich Wyss. Über ihn, der
+      <div><p>Wann der  <placeName ref="Grüningen">vogt</placeName> von schulmeyster Wysen<note type="editorial"> Heinrich Wyss. Über ihn, der
                                                   sich 1589 wegen seines täuferischen
                                                   beziehungsweise schwenckfeldischen Glaubens vor
                                                   Gericht verantworten musste, sind noch weitere
@@ -97,7 +97,9 @@
                                                   Ehre ist demzufolge unbeschadet. Ebenso sollen die
                                                   Töchter bei ihrer Ehre bleiben. Weil die beiden
                                                   aber zu viel geredet haben, werden sie mit 20
-                                                  Batzen gebüsst).</note><persName ref="Wyss, Heinrich"/>oder anndern<persName ref="Peter, Bartli">Bartlj Petters</persName>seligen wegen wider<persName ref="Rüegg, Ludwig">Ludwig Rüeggen</persName>, so jne mit strychen
+                                                  Batzen gebüsst).</note><persName ref="Wyss, Heinrich">zu Grüningen</persName> oder anndern <persName ref="Peter, Bartli">Bartlj
+                                                  Petters</persName> seligen
+                                                  wegen wider <persName ref="Rüegg, Ludwig">Ludwig Rüeggen</persName>, so jne mit strychen
                                                   mißhandlet, umb recht angeruefft wirt, sol er
                                                   jnnen desselben vor denn zwolff richtern
                                                   ampts<note type="editorial"> Das Gericht der

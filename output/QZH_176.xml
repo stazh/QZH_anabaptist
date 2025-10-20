@@ -79,18 +79,23 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Edlen, strenngen, fromen, erenvesten, fürsichtigen, ersamen und wysen, sunders gnedig, günstig, lieb herren, uch sige min früntlich willig dienst mit erpiettung aller eeren nach schuldigen pflichten alletzyt bevor. Es hatt mir<persName ref="Segesser von Brunegg, Bernhard">der vogte</persName>von
+      <div><p>Edlen, strenngen, fromen, erenvesten,
+                                                  fürsichtigen, ersamen und wysen, sunders gnedig,
+                                                  günstig, lieb herren, uch sige min früntlich
+                                                  willig dienst mit erpiettung aller eeren nach
+                                                  schuldigen pflichten alletzyt bevor.  
+                                                  <persName ref="Segesser von Brunegg, Bernhard">der vogte</persName> von
                                                   Keyßerstůl<note type="editorial"> Bernhard
                                                   Segesser von Brunegg</note> verganngener tagen
                                                   geschriben, wie sich etlich widerthöuffer
                                                   gewonlich an sampstagen zů abent bey
                                                   Waldhusen<note type="editorial"> Weiler der
                                                   Gemeinde Fisibach im Grenzgebiet zu
-                                                  Zürich.</note><placeName ref="Waldhausen"/> und
+                                                  Zürich.</note><placeName ref="Waldhausen">Es</placeName> und
                                                   daselbst umb uff den unndermarchen<note type="editorial"> Grenze, Markstein, Id. IV,
                                                   389.</note> uwer herrschafft Regenspurg<note type="editorial"> Landvogtei
                                                   Regensberg</note><placeName ref="Regensberg"/> und
-                                                  der graffschaft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>versamlen söllen,
+                                                  der graffschaft <placeName ref="Baden (Landgrafschaft)">Baden</placeName> versamlen söllen,
                                                   achtet ouch wol, das er durch die sinen späch und
                                                   uffsächen<note type="editorial"> späch und
                                                   uffsächen: Nachforschung und Beobachtung, Id. VII,
@@ -99,7 +104,7 @@
                                                   deß begärtte, wölt er mich deß berichten. Und alls
                                                   ich söllich sin schryben herren burgermeister
                                                   Röysten<note type="editorial"> Diethelm
-                                                  Röist</note><persName ref="Röist, Diethelm"/>
+                                                  Röist</note><persName ref="Röist, Diethelm">hatt mir</persName>
                                                   angetzeigt und sines rats begärt, wie den sachen
                                                   zethůnd sige, der mir geannttwurt, das jch den
                                                   hanndel üch, minen g[nädigen] herren, zůschryben
@@ -107,7 +112,7 @@
                                                   angsähen<note type="editorial"> anordnen,
                                                   festsetzen, Id. VII, 555f.</note>, das ein
                                                   lanndtvogt von Baden ein vogt von Regenspurg und
-                                                  ein vogt von<placeName ref="Kaiserstuhl">Keyßerstůl</placeName>sich eines tags vereinbart und
+                                                  ein vogt von <placeName ref="Kaiserstuhl">Keyßerstůl</placeName> sich eines tags vereinbart und
                                                   söllich widertöuffer habent lassen sůchen, damit,
                                                   jnn wölliche herrschaft sy entrunnen, das sy
                                                   darjnn angenomen und der selben oberkeit
@@ -131,11 +136,12 @@
                                                   tag julij anno etc. xliij.</p>
                                                   <p rend="margin-top">U[wer] g[naden] w[illiger]
                                                   diener</p>
-                                                  <p>Jacob An<persName ref="An der Rüti, Jakob">der Rüty</persName>, des rats zů<placeName ref="Schwyz">Schwytz</placeName>, landtvogt zů
+                                                  <p>Jacob An <persName ref="An der Rüti, Jakob">der Rüty</persName>, des rats zů
+                                                  <placeName ref="Schwyz">Schwytz</placeName>, landtvogt zů
                                                   Baden.</p>
                                                   <p rend="margin-top">Den edlen, strenngen, fromen,
                                                   erenvesten, fürsichtigen, ersamen und wysen herren
-                                                  burgermeister und rat der statt<placeName ref="Zürich">Zürich</placeName>, minen jnsunderen gn[ä]d[igen],
+                                                  burgermeister und rat der statt <placeName ref="Zürich">Zürich</placeName>, minen jnsunderen gn[ä]d[igen],
                                                   günstigen, lieben herren.</p>
                                                   </div>
     </body>

@@ -79,12 +79,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Wir, burgermeister unnd rath der statt<placeName ref="Zürich">Zürich</placeName>, thůnd kundt
+      <div><p>Wir, burgermeister unnd rath  <placeName ref="Zürich">der</placeName>, thůnd kundt
                                                   mengklichem<note type="editorial"> jedem</note>
                                                   mit diserm brief, demnach unns uß krafft unnserer
-                                                  hochen oberkeit jm<placeName ref="Kelleramt">Kellerampt</placeName>rechtsame<note type="editorial">
+                                                  hochen oberkeit jm <placeName ref="Kelleramt">Kellerampt</placeName> rechtsame<note type="editorial">
                                                   rechtliche Stellung, Rechtsverhältnis, Id. VI,
-                                                  318.</note>der daruß hin gezognen wider­toüf­feren hab unnd gůte verfallen, das unnsere verordeten mit dem unnsern,<persName ref="Baumann, Heini">Heini Bůman</persName>von<placeName ref="Jona">Jonen</placeName>, von wegen synes brůders<persName ref="Baumann, Jakob">Jacoben Bumans</persName>(so ouch jnn das Merherrn<placeName ref="Mähren">land</placeName>hinweg gezogen)
+                                                  318.</note> der daruß hin gezognen
+                                                  wider­toüf­feren hab unnd gůte verfallen, das
+                                                  unnsere verordeten mit dem unnsern, <persName ref="Baumann, Heini">Heini
+                                                  Bůman</persName> von
+                                                  <placeName ref="Jona">Jonen</placeName>, von wegen synes
+                                                  brůders <persName ref="Baumann, Jakob">Jacoben Bumans</persName> (so ouch jnn das Merherrn
+                                                  <placeName ref="Mähren">land</placeName> hinweg gezogen)
                                                   dergstalt überkommen sind, das derselbig zů zweyen
                                                   bestimpten zilen<note type="editorial"> Zeitpunkt,
                                                   Grimm 31, 1064.</note> achtzig müntz guldin geben
@@ -92,9 +98,10 @@
                                                   dann gesagter Heinj Bůman von bemelts<note type="editorial"> erwähntem</note>
                                                   <note type="critical">Folgt gestrichen:
                                                   unnsers</note> synes brůders wegen unnserm vogte
-                                                  zů<placeName ref="Knonau">Konouw</placeName>wylandt<note type="editorial"> vormals, Id. XV, 1254f.</note>
+                                                  zů <placeName ref="Knonau">Konouw</placeName> wylandt<note type="editorial"> vormals, Id. XV, 1254f.</note>
                                                   Růdolff Puren<note type="editorial"> Rudolf Paur
-                                                  ist 1586 gestorben.</note><persName ref="Paur, Rudolf"/> seligen jnn unnserm nammen zů
+                                                  ist 1586 gestorben.</note><persName ref="Paur, Rudolf">statt
+                                                  Zürich</persName> seligen jnn unnserm nammen zů
                                                   den gesetzten zweyen zilen also bar erlegt unnd
                                                   bezalt hat. Daß zů urkhundt habent wir unnser
                                                   statt Zürich secret insigel offentlich harjn laßen
@@ -102,7 +109,8 @@
                                                   <p rend="margin-top">Nota:</p>
                                                   <p>Als uff anzug<note type="editorial"> Äusserung,
                                                   Mitteilung, Id. XVII, 517f.</note> hern vogt
-                                                  Thumyßens<note type="editorial"><persName ref="Thumysen, Junghans">Junghans Thumysen</persName></note> von
+                                                  Thumyßens<note type="editorial"> 
+                                                  <persName ref="Thumysen, Junghans">Junghans Thumysen</persName></note> von
                                                   mynen g[nädigen] herren, einem ersammen rath<note type="critical">Folgt gestrichen: ein
                                                   quitta</note>, gesagtem Heini Bůman ein
                                                   quittanz<note type="editorial"> Quittung, Id. V,
@@ -119,7 +127,8 @@
                                                   jngenommen haben, und dz also er, vogt Thumyßen,
                                                   wol wüße, dz diser Bůman bezalt habe, so hab jch
                                                   uß erlauptnuß myns herrn burgermeister
-                                                  Tommans<note type="editorial"><persName ref="Thomann, Kaspar">Kaspar Thomann</persName><bm id="176"/></note> und uß bevelch und geheiß vogt
+                                                  Tommans<note type="editorial"> <persName ref="Thomann, Kaspar">Kaspar
+                                                  Thomann</persName><bm id="176"/></note> und uß bevelch und geheiß vogt
                                                   Thumyßens mitt wüßen und willen vogt Puren seligen
                                                   sohns (der deßwegen by mir gweßen) genanntem Heinj
                                                   Bůman ein quittantz jnn obgeschribner form

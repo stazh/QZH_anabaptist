@@ -78,7 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt. Wir habent uß dynem schryben verstanden, was unnser eegricht alhie dir von wegen<persName ref="Erzinger, Hansmann">Hanßenmans Ertzingers</persName>deß ­toüf­fers uff<placeName ref="Egg, Guldenen">Guldinen</placeName>, dynes
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt. Wir habent uß dynem
+                                                  schryben verstanden, was unnser eegricht alhie dir
+                                                  von wegen <persName ref="Erzinger, Hansmann">Hanßenmans Ertzingers</persName> deß ­toüf­fers uff
+                                                  <placeName ref="Egg, Guldenen">Guldinen</placeName>, dynes
                                                   ampts anegehörigen<note type="critical">«uff
                                                   Guldinen … anegehörigen» am Rand mit
                                                   Verweiszeichen</note>, und der wybspersohn, die er
@@ -125,7 +130,8 @@
                                                   <p rend="margin-top">Burgermeister und rhat der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wyßen, unnserm
-                                                  besonders gethrüwen, lieben burger und vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben zur
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben zur
                                                   Eych.</p>
                                                   </div>
     </body>

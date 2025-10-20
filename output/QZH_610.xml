@@ -79,9 +79,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem herr statthalter Kramer<note type="editorial"> Heinrich Cramer
-                                                  (1529-1594)<persName ref="Cramer, Heinrich"/></note>, m[eister] Jörg Müller<note type="editorial"> Georg Müller</note><persName ref="Müller, Georg"/>, obervogt zů Birmenstorff, mit sampt herren<persName ref="Trüb, Felix">Felix Truͤben</persName>und herr<persName ref="Wolf, Heinrich">Heinrich Wolffen</persName>zů
-                                                  Heinrichen Ruͤtzenstorffer, burger allhie, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>keert und jnne mit allem ernst gfraget, warumb er
+      <div><p> <note type="editorial"> Heinrich Cramer
+                                                  (1529-1594)<persName ref="Cramer, Heinrich"/></note>, m[eister] Jörg Müller<note type="editorial"> Georg Müller</note><persName ref="Müller, Georg">statthalter Kramer</persName>, obervogt zů Birmenstorff,
+                                                  mit sampt herren Felix Truͤben<persName ref="Trüb, Felix">Nachdem herr</persName> und herr <persName ref="Wolf, Heinrich">Heinrich
+                                                  Wolffen</persName> zů
+                                                  Heinrichen Ruͤtzenstorffer, burger allhie, jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  keert und jnne mit allem ernst gfraget, warumb er
                                                   uß üwer (myner gnedigen herren) gricht und gepiet
                                                   von wyb und kinden gezogen, ouch warumb er nit jnn
                                                   die kilchen und gmeind gottes gann und üch, mynen
@@ -89,20 +93,20 @@
                                                   für das erst angezeigt:</p>
                                                   <p>Das er von synem wyb und kinden zogen, syge
                                                   nit, sonder er syge by syner schwöster zů
-                                                  Arow<note type="editorial"> Aarau, bernische
-                                                  Munizipalstadt.</note><placeName ref="Aarau"/>
+                                                  <note type="editorial"> Aarau, bernische
+                                                  Munizipalstadt.</note><placeName ref="Aarau">Arow</placeName>
                                                   gsyn. Und als er uff dem heimweg gwesen, syge jme
                                                   syn leerknab entgegenn kommen und zů imme gsagt,
                                                   er sölle nit heim, er werde gfangen; jme ouch
                                                   anzeigt worden, syn wyb unnd kind sygint hinweg.
                                                   Da er widerumb hinder sich zůruck zogen und sich
-                                                  jnn dem<placeName ref="Baden (Landgrafschaft)">Bader</placeName>gepiet<note type="editorial"> Grafschaft Baden,
+                                                  jnn dem <placeName ref="Baden (Landgrafschaft)">Bader</placeName> gepiet<note type="editorial"> Grafschaft Baden,
                                                   gemein­eid­genössische Vogtei.</note> gesetzt, ja
                                                   uff die maß, so lang als er alda blatz habe. Were
                                                   ouch syn schwiger nit gsyn, welte er sich nit mehr
                                                   jn üwer (myner g. herren) gricht und gepiet
                                                   glassen haben.</p>
-                                                  <p>Als herr<persName ref="Trüb, Felix">Felix Truͤb</persName>jnne gfraget, warumb er sich aber sündere von
+                                                  <p>Als herr Felix Truͤb<persName ref="Trüb, Felix"/> jnne gfraget, warumb er sich aber sündere von
                                                   der christenlichen kilchen, was jnn hie jrre,
                                                   antwortet er: Die prediger, so das heilig göttlich
                                                   wort dem gmeinen volk fürtragind, haltindts selbs
@@ -118,7 +122,8 @@
                                                   oug unnd gschowist nit den trotboum<note type="editorial"> grosser Balken (für eine
                                                   Baumkelter), Id. 4,1248.</note> jnn dynem oug<note type="editorial"> Vgl. Mt 7,3</note> etc., und
                                                   derglychen.</p>
-                                                  <p>Darnach hat jnne herr<persName ref="Cramer, Heinrich">statthalter Kramer</persName>gefraget,
+                                                  <p>Darnach hat jnne herr <persName ref="Cramer, Heinrich">statthalter
+                                                  Kramer</persName> gefraget,
                                                   was fürhin syn vorhaben syge. Er geantwortet, er
                                                   welle üch, mynen g. herren, ghorsam syn ja jnn
                                                   allen usserlichen und burgerlichen sachen, aber by

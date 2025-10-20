@@ -78,8 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unndervögt [von]<placeName ref="Birmensdorf">Birmenstorff</placeName>,<placeName ref="Aesch">Äsch</placeName>unnd Wetteschwyl<note type="editorial">
-                                                  Wettswil</note><placeName ref="Wettswil"/>schryben, die schuldigen fencklichen alhar zeschicken. Actum mentags den 3ten augsten anno etc. 84 pr[aese]nt[ibus]<persName ref="Kambli, Hans">herr Kamblj</persName>unnd beid reth.</p>
+      <div><p>Unndervögt [von] <placeName ref="Birmensdorf">Birmenstorff</placeName>, <placeName ref="Aesch">Äsch</placeName>
+                                                  unnd Wetteschwyl<note type="editorial">
+                                                  Wettswil</note><placeName ref="Wettswil"/>
+                                                  schryben, die schuldigen fencklichen alhar
+                                                  zeschicken. Actum mentags den 3ten augsten anno
+                                                  etc. 84 pr[aese]nt[ibus] <persName ref="Kambli, Hans">herr Kamblj</persName> unnd beid reth.</p>
                                                   </div>
     </body>
   </text>

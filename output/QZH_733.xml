@@ -81,9 +81,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Pannerherr Holtzhalb<note type="editorial">Hans<persName ref="Holzhalb, Hans Heinrich">Heinrich Holzhalb</persName></note> und
+      <div><p><note type="editorial">
+                                                  Hans <persName ref="Holzhalb, Hans Heinrich">Heinrich Holzhalb</persName></note> und
                                                   rechenschryber Waser<note type="editorial"> Hans
-                                                  Waser</note><persName ref="Waser, Hans"/>söllent<persName ref="Stünz, Barbara">Barbel Stüntzin</persName>von<placeName ref="Küsnacht">Küßnacht</placeName>ansprach<note type="editorial"> Anspruch</note>an<persName ref="Zöbeli, N.">N. Zöbelis</persName>gůt, so by
+                                                  Waser</note><persName ref="Waser, Hans">Pannerherr Holtzhalb</persName> söllent
+                                                  <persName ref="Stünz, Barbara">Barbel Stüntzin</persName>
+                                                  von <placeName ref="Küsnacht">Küßnacht</placeName>
+                                                  ansprach<note type="editorial"> Anspruch</note> an
+                                                  N. Zöbelis <persName ref="Zöbeli, N."/>gůt, so by
                                                   anderm ­toüf­fergůt ligt, baß<note type="editorial"> mehr</note> nachfragen, und
                                                   habent gwalt, jro darvon etwas werden zelaßen.</p>
                                                   </div>

@@ -78,10 +78,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, vester, besonders gethrüwer, lieber burger, wir habend hievor<persName ref="Rüegg, Jaggli">Jaglj Rügen</persName>von
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, vester, besonders gethrüwer,
+                                                  lieber burger, wir habend  <persName ref="Rüegg, Jaggli">Jaglj
+                                                  Rügen</persName> von
                                                   Felniß<note type="editorial">
-                                                  Felmis</note><placeName ref="Bauma, Felmis"/> jnn
-                                                  unser gravschafft<placeName ref="Kyburg">Kyburg</placeName>(wellicher jetz lange zyth von wegen der
+                                                  Felmis</note><placeName ref="Bauma, Felmis">hievor</placeName> jnn
+                                                  unser gravschafft <placeName ref="Kyburg">Kyburg</placeName>
+                                                  (wellicher jetz lange zyth von wegen der
                                                   töüfferischen sekt jnn unser gefangenschafft
                                                   gelegen) můter, so uff die 80 jar syn sol,
                                                   deßglychen syner frouwen und kinden uß unserm
@@ -108,7 +112,7 @@
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem froemmen, vesten, unserm
                                                   besonders gethrüwen, lieben burger und<note type="critical">Folgt gestrichen: vogt</note>
-                                                  amptman zů<placeName ref="Rüti">Rüthj</placeName>Hanns
+                                                  amptman zů <placeName ref="Rüti">Rüthj</placeName> Hanns
                                                   Cunrath Kellern.</p>
                                                   </div>
     </body>

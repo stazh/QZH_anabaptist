@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Knonow<note type="editorial"><persName ref="Rahn, Hans">Hans Rahn</persName></note><placeName ref="Knonau"/> schryben, das<note type="critical">Folgt gestrichen: er</note><persName ref="Bickel, Hans">Hanß Byckel</persName>von<placeName ref="Affoltern am Albis">Affholtern</placeName>, wo er er
+      <div><p>Vogt zů <note type="editorial"> <persName ref="Rahn, Hans">Hans
+                                                  Rahn</persName></note><placeName ref="Knonau">Knonow</placeName> schryben, das<note type="critical">Folgt gestrichen: er</note> <persName ref="Bickel, Hans">Hanß Byckel</persName> von <placeName ref="Affoltern am Albis">Affholtern</placeName>, wo er er
                                                   zůbetretten<note type="editorial"> antreffen,
                                                   ergreifen, Id. XIV, 1486.</note>, gfengklichen
                                                   angenommen, und wo er sich geüsseret, syn hab und

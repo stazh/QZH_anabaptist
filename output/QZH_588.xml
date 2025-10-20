@@ -79,7 +79,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Edle, gestrenge, ehrnveste, fürsichtige, ersame unnd weyse, sonders liebe herrn und freundt. Mein freundtlich gutwillige dienst seyen euch bevor, unnd darbej freundtlicher guter mainung zuvernemmen, daß mir ewer mitburger<persName ref="Gessner, Abraham">Abraham Gäßner</persName>,
+      <div><p>Edle, gestrenge, ehrnveste, fürsichtige, ersame
+                                                  unnd weyse, sonders liebe herrn und freundt. Mein
+                                                  freundtlich gutwillige dienst seyen euch bevor,
+                                                  unnd darbej freundtlicher guter mainung
+                                                  zuvernemmen, daß mir ewer mitburger <persName ref="Gessner, Abraham">Abraham
+                                                  Gäßner</persName>,
                                                   goldtschmidt, durch ettliche mittelpersonen
                                                   dermaßen recommendirt unnd dabey auch durch jhne
                                                   selbst anvermeldt worden, was ursachen (sein
@@ -157,7 +162,8 @@
                                                   göttlichem gnadenschirmb befohlen. Datum uf
                                                   Justingen den letzten augustj anno 1590.</p>
                                                   <p rend="margin-top">Georg Ludwig v. Freyberg,
-                                                  Herr zu<placeName ref="Justingen">Justingen</placeName>u.<placeName ref="Öpfingen">Öpffingen</placeName></p>
+                                                  Herr zu <placeName ref="Justingen">Justingen</placeName> u.
+                                                  <placeName ref="Öpfingen">Öpffingen</placeName></p>
                                                   <p rend="margin-top">Den edlen, gestrengen,
                                                   ehrnvesten, fürsichtigen, ersamen und weysen herrn
                                                   burgermeister und rath der loblichen statt Zürich,

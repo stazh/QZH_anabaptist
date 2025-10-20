@@ -78,7 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern gunstigen, geneigten willen unnd alles guts zuvor. Ersammer, wyser, besonnders gethrüwer, lieber burger unnd vogt, nachdem wir die unnseren<persName ref="Egli, Uli">Ulj Eglj</persName>uss dem<placeName ref="Fischenthal">Fischenthal</placeName>,<persName ref="Gubelmann, Rudolf">Rudolffen Gugelman</persName>von Haldicken<note type="editorial"> Hadlikon</note><placeName ref="Hadlikon"/> uss dem<placeName ref="Hinwil, Girenbad">Gyrenbad</placeName>unnd<persName ref="Peter, Hans">Hannsen Peter</persName>ouch uss dem
+      <div><p>Unnsern gunstigen, geneigten willen unnd alles
+                                                  guts zuvor. Ersammer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, nachdem wir die 
+                                                  <persName ref="Egli, Uli">Ulj Eglj</persName> uss dem
+                                                  <placeName ref="Fischenthal">Fischenthal</placeName>,
+                                                  <persName ref="Gubelmann, Rudolf">Rudolffen Gugelman</persName> von Haldicken<note type="editorial"> Hadlikon</note><placeName ref="Hadlikon">unnseren</placeName> uss dem <placeName ref="Hinwil, Girenbad">Gyrenbad</placeName> unnd <persName ref="Peter, Hans">Hannsen
+                                                  Peter</persName> ouch uss dem
                                                   Fischenthal, dyne amptßangehorigen,
                                                   ­toüf­ferischer secten wegen jnn unnser<note type="critical">Folgt gestrichen:
                                                   gefanngknus</note> gefangenschafft gehept, habennd
@@ -98,7 +104,8 @@
                                                   <p rend="margin-top">Burgermeister unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem ersammen, wysen, unnserem
-                                                  besonnders gethrüwen, lieben burger unnd vogt zu<placeName ref="Grüningen">Gruningen</placeName>Heinrich
+                                                  besonnders gethrüwen, lieben burger unnd vogt zu
+                                                  <placeName ref="Grüningen">Gruningen</placeName> Heinrich
                                                   Holzhalb.</p>
                                                   </div>
     </body>

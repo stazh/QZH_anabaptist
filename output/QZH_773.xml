@@ -78,9 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als m[eister]<persName ref="Hafner, Kaspar">Caspar Hafner</persName>und h[err] zunftmeister
-                                                  Wirtz<note type="editorial">Hans<persName ref="Wirz, Hans Konrad">Conrad Wirz</persName></note> zů Hans
-                                                  Wolfen von Bülach, dem thöüffer, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert und jmme angetzeigt, demnach jr, myn gnedig
+      <div><p>Als m[eister] <persName ref="Hafner, Kaspar">Caspar Hafner</persName> und h[err] zunftmeister
+                                                  Wirtz<note type="editorial"> Hans 
+                                                  <persName ref="Wirz, Hans Konrad">Conrad Wirz</persName></note> zů Hans
+                                                  Wolfen von Bülach, dem thöüffer, jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  kheert und jmme angetzeigt, demnach jr, myn gnedig
                                                   herren, verschiner<note type="editorial">
                                                   vergangener</note> tagen berichtet worden, das er
                                                   sich anerboten, das glübt zethůn, wofeer<note type="editorial"> wenn, Id. I, 914.</note> er der
@@ -95,8 +98,9 @@
                                                   werden möchte. Und darüber sy, beide herren,
                                                   dißers thöüffers andtwort empfangen, welliche er
                                                   nebent vilfaltiger verandtwortung syner
-                                                  unschuldigen gefangenschaft, so jm erstlich zů<placeName ref="Andelfingen">Andelfingen</placeName>, demnach
-                                                  zů<placeName ref="Kyburg">Kyburg</placeName>und jetzt
+                                                  unschuldigen gefangenschaft, so jm erstlich zů
+                                                  <placeName ref="Andelfingen">Andelfingen</placeName>, demnach
+                                                  zů <placeName ref="Kyburg">Kyburg</placeName> und jetzt
                                                   letstlich alhie unverschulter wyß (wie er meint)
                                                   bewißen, verweigeret und nit thůn wellen von
                                                   deßwegen, diewyl vorertzelt anloben jr (der
@@ -148,7 +152,8 @@
                                                   meineid worden were. Und so er etwas an costen
                                                   zegeben hatt, soll er dz thůn. Actum mentags den
                                                   30ten julij 1604 pr[aese]nt[ibus] herr statthalter
-                                                  Brenwald<note type="editorial"><persName ref="Brennwald, Hermann">Hermann Brennwald</persName></note> und beide reth.</p>
+                                                  Brenwald<note type="editorial"> <persName ref="Brennwald, Hermann">Hermann
+                                                  Brennwald</persName></note> und beide reth.</p>
                                                   </div>
     </body>
   </text>

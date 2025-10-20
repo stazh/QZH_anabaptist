@@ -81,10 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr vogt zů Wedischwyl<note type="editorial">Hans<persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note><placeName ref="Wädenswil"/> soll versehen<note type="editorial"> sorgen für, Id. VII,
+      <div><p>Herr vogt  <note type="editorial">
+                                                  Hans <persName ref="Zoller, Hans Wilpert">Wilpert Zoller</persName></note><placeName ref="Wädenswil">Wedischwyl</placeName> soll versehen<note type="editorial"> sorgen für, Id. VII,
                                                   571.</note>, das der ­toüf­ferinen von
                                                   Richtischwyl<note type="editorial">
-                                                  Richterswil</note><placeName ref="Richterswil"/>,
+                                                  Richterswil</note><placeName ref="Richterswil">zů</placeName>,
                                                   so<note type="critical">Wort (so)
                                                   wiederholt</note> das land myden, weder von jrer
                                                   seckt abzestaan und zů kilchen gaan will, allein

@@ -81,10 +81,14 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr hußschryber Grebel<note type="editorial">
-                                                  Konrad Grebel</note><persName ref="Grebel, Konrad"/> und amptman Keller<note type="editorial"> Hans
+      <div><p>Herr <note type="editorial">
+                                                  Konrad Grebel</note><persName ref="Grebel, Konrad">hußschryber Grebel</persName> und amptman Keller<note type="editorial"> Hans
                                                   Conrad Keller</note><persName ref="Keller, Hans Conrad"/> söllend erkhundigen,
-                                                  wie es Caspar Wuͤsten von<placeName ref="Kloten">Cloten</placeName>, der vor jaren jnn<placeName ref="Mähren">Mehrherren</placeName>zogen, hab und gůts halber gestaltet und, je nachdem sy<persName ref="Wüst, Bat">findend, Bat</persName>und Hans<persName ref="Wüst, Hans">den Wuͤsten</persName>, so deßen
+                                                  wie es Caspar Wuͤsten von <placeName ref="Kloten">Cloten</placeName>, der vor jaren jnn
+                                                  <placeName ref="Mähren">Mehrherren</placeName> zogen, hab und
+                                                  gůts halber gestaltet und, je nachdem sy findend,
+                                                  Bat<persName ref="Wüst, Bat"/> und Hans den
+                                                  Wuͤsten<persName ref="Wüst, Hans"/>, so deßen
                                                   ußhin begert, mit bscheid zůbegegnen oder die sach
                                                   wider für<note type="editorial"> vor</note> rath
                                                   zebringen.</p>

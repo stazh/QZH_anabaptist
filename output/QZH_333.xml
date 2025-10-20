@@ -80,10 +80,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Früber, Hans">Hanns Früber</persName>von<placeName ref="Bertschikon">Bertschicken</placeName>uß den<placeName ref="Südtirol">Etschland</placeName>gebt uff
+      <div><p><persName ref="Früber, Hans">Hanns Früber</persName> von
+                                                  <placeName ref="Bertschikon">Bertschicken</placeName> uß den
+                                                  <placeName ref="Südtirol">Etschland</placeName> gebt uff
                                                   gethonen fürhalt<note type="editorial">
                                                   Vorhaltung, Vorwurf</note> dise antwurt, das jme
-                                                  nit zwüßen, das er weder zu Meilen,<placeName ref="Meilen, Toggwil">Toggwyl</placeName>noch
+                                                  nit zwüßen, das er weder zu Meilen,
+                                                  <placeName ref="Meilen, Toggwil">Toggwyl</placeName> noch
                                                   andern ordten jemandem gar kein leid gethon oder
                                                   überlegen gewesen, sonder vermeint, das er denen,
                                                   by denen er gewonet, lieb und angnem were, dann sy
@@ -124,7 +127,8 @@
                                                   getriben<note type="critical">Folgt gestrichen:
                                                   mitt trungenlichem anrüffen d[…]</note>, nach vil
                                                   minder jemanden syne kind hinzůfürem vorhabens
-                                                  gsyn. Dann wie er gehört, das vil lüthen jnn das<placeName ref="Mähren">Meerherren</placeName>land züchint,
+                                                  gsyn. Dann wie er gehört, das vil lüthen jnn das
+                                                  <placeName ref="Mähren">Meerherren</placeName> land züchint,
                                                   hette er gesagt, das er ouch willens, sich dahin
                                                   zethund, unnd so ettwar<note type="editorial">
                                                   jemand</note> lust, möchte er mit jm gon, aber
@@ -141,8 +145,8 @@
                                                   von statt unnd lannd verwißen werden unnd zuvor
                                                   allen costen, so uff jnn ganngen, erlegen. Actum
                                                   den 24. d[ies] julij anno etc. 73 pr[aesen]t[ibus]
-                                                  herr Kamblj<note type="editorial"> Hans
-                                                  Kambli</note><persName ref="Kambli, Hans"/> unnd
+                                                  <note type="editorial"> Hans
+                                                  Kambli</note><persName ref="Kambli, Hans">herr Kamblj</persName> unnd
                                                   beid reth.</p>
                                                   </div>
     </body>

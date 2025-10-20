@@ -78,8 +78,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Edlen, frommen, erennvesten, fürsichtigen, fürnemen, ersamen unnd wyßen, gnedig min herren, eüwer wyßheit sigen min unnderthenig willig dienst altzyt jn schuldiger pflicht zůvor bereit. Gnedig min herren, nachdem mich herr<persName ref="Farner, Marti">Marti Farner</persName>, predicant
-                                                  zů<placeName ref="Wald">Wald</placeName>, bericht, das jr, min gnedig herren, jm gerathen,<persName ref="Walder, Heini">Heinj Waldern</persName>den
+      <div><p>Edlen, frommen, erennvesten, fürsichtigen,
+                                                  fürnemen, ersamen unnd wyßen, gnedig min herren,
+                                                  eüwer wyßheit sigen min unnderthenig willig dienst
+                                                  altzyt jn schuldiger pflicht zůvor bereit. Gnedig
+                                                  min herren, nachdem mich  <persName ref="Farner, Marti">Marti
+                                                  Farner</persName>, predicant
+                                                  zů <placeName ref="Wald">Wald</placeName>, bericht, das jr,
+                                                  min gnedig herren, jm gerathen, <persName ref="Walder, Heini">Heinj
+                                                  Waldern</persName> den
                                                   töüffer, jnn siner pfarr gesäßen, umb das er jm
                                                   zůgeredt, alhie vor den zwölffen<note type="editorial"> Das Gericht der Zwölf,
                                                   Herrschaftsgericht in der Landvogtei
@@ -102,7 +109,10 @@
                                                   vergangenen</note> dornstags jnn uffs dritt gricht
                                                   füren. Und als jetzgenannter herr Martj jn bystand
                                                   herr dächens<note type="editorial"> Dekan</note>
-                                                  zů Dürnten<note type="editorial"><persName ref="Hamberger, Hartmann">Hartmann Hamberger</persName></note><placeName ref="Dürnten"/>unnd herr Johannsen<persName ref="Ulm, Johannes von">von Ulms</persName>, pfarrers zů<placeName ref="Egg">Egg</placeName>, dise meinung zů jm
+                                                  zů Dürnten<note type="editorial"> <persName ref="Hamberger, Hartmann">Hartmann
+                                                  Hamberger</persName></note><placeName ref="Dürnten">herr</placeName> unnd herr
+                                                  Johannsen <persName ref="Ulm, Johannes von">von Ulms</persName>, pfarrers zů
+                                                  <placeName ref="Egg">Egg</placeName>, dise meinung zů jm
                                                   clagt, das er verschiner zyt uff ein sambstag zů
                                                   Hünwyl<note type="editorial"> Hinwil</note> jn
                                                   offner bedstuben<note type="editorial"> häusliche
@@ -173,9 +183,14 @@
                                                   unbericht nit lassen söllen und bin üch darnebent
                                                   altzyt unnderthänigen willen zůbewysen schuldig
                                                   unnd ganntz geneigt.</p>
-                                                  <p>Beschließlich vorgenannt, gnedig min herren, diewyl sich<persName ref="Walder, Heini">diser Walder</persName>nun mer ein langj zyt siner
+                                                  <p>Beschließlich vorgenannt, gnedig min herren,
+                                                  diewyl sich <persName ref="Walder, Heini">diser Walder</persName> nun mer ein langj zyt siner
                                                   töüfferischen leer unnd seckt unangesächen, das er
-                                                  zůvor, wie ich verstan, von eüweren vorfaren<note type="editorial"> Vorgänger</note>vögten ouch darumb gestrafft, geprucht, hab ich jm umb bůß unnd den uncosten, so hiemit uffgath, zwo kü nämen unnd alher tryben lassen. Des sich der alt Walder, sin vatter, mit bystannd<persName ref="Pfeninger, N.">vogt Pfäningers</persName>beschwerdt unnd redt, das er
+                                                  zůvor, wie ich verstan, von eüweren vorfaren<note type="editorial"> Vorgänger</note> vögten ouch
+                                                  darumb gestrafft, geprucht, hab ich jm umb bůß
+                                                  unnd den uncosten, so hiemit uffgath, zwo kü nämen
+                                                  unnd alher tryben lassen. Des sich der alt Walder,
+                                                  sin vatter, mit bystannd <persName ref="Pfeninger, N.">vogt Pfäningers</persName> beschwerdt unnd redt, das er
                                                   jn enterpt, ouch sin gůt unnd kinder bevogtet lut
                                                   brief unnd sigel, so er by hannden unnd die kü
                                                   sin. Da ich vermein, das er üch darumb kein
@@ -196,10 +211,11 @@
                                                   etc. 73.</p>
                                                   <p rend="margin-top">Eüwer wyßheit altzyt
                                                   unnderthäniger diener</p>
-                                                  <p>Felix Brunner, vogt zů<placeName ref="Grüningen">Grüningen</placeName></p>
+                                                  <p>Felix Brunner, vogt zů <placeName ref="Grüningen">Grüningen</placeName></p>
                                                   <p rend="margin-top">Den edlen, frommen,
                                                   erenvesten, fürsichtigen, fürnemen, ersamen unnd
-                                                  wysen herren burgermeister unnd rath der statt<placeName ref="Zürich">Zürich</placeName>, minen gnedigen
+                                                  wysen herren burgermeister unnd rath der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>, minen gnedigen
                                                   herren.</p>
                                                   </div>
     </body>

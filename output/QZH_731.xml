@@ -78,8 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, demnach wir<persName ref="Gubelmann, Rudolf">Růdolfen Gubelman</persName>, den
-                                                  wagner von<placeName ref="Hadlikon">Hadlicken</placeName>dynen amptsangehörigen den halsstarrigen<note type="critical">«halsstarrigen» am Rand</note>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, demnach wir <persName ref="Gubelmann, Rudolf">Růdolfen
+                                                  Gubelman</persName>, den
+                                                  wagner von <placeName ref="Hadlikon">Hadlicken</placeName>
+                                                  dynen amptsangehörigen den halsstarrigen<note type="critical">«halsstarrigen» am Rand</note>
                                                   widerthöuffer, den du unns verschinner<note type="editorial"> vergangener</note> zyt
                                                   gfengklich zůgeschickt, ein zyt lang jnn unnser
                                                   gfangenschafft enthalten<note type="editorial">
@@ -118,7 +122,8 @@
                                                   den 19. d. mey anno 1602.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
                                                   Eich</p>
                                                   </div>
     </body>

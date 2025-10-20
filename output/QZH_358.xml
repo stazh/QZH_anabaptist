@@ -76,7 +76,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Meine lieben und guotten giner<note type="editorial"> Gönner</note>und frindt, nemlich Petter Hettinger ouch<persName ref="Frey, Hans">Hans Frey</persName>des gleichen<persName ref="Job, Jackle">Jackle Job</persName>. Ich, Hans
+      <div><p>Meine lieben und guotten giner<note type="editorial"> Gönner</note> und frindt,
+                                                  nemlich Petter Hettinger ouch <persName ref="Frey, Hans">Hans Frey</persName> des gleichen <persName ref="Job, Jackle">Jackle
+                                                  Job</persName>. Ich, Hans
                                                   Hettinger von Brimesdorff<note type="editorial">
                                                   Birmensdorf</note>, jetz im lands Merhern wonendt,
                                                   ich kan gleich aus hertzlicher liebe nit
@@ -135,7 +137,8 @@
                                                   verhoff zu eich allen, das ir mich hierin nitt
                                                   werdt sumen oder verhindern oder auffhaltten,
                                                   sunder guott williglich obferttigen.</p>
-                                                  <p>Weitter ist auch mein bitt an eich, es hatt mich der<persName ref="Lupfer, Jackle">Jackle Lupfer</persName>gebetten, do ich bin ain
+                                                  <p>Weitter ist auch mein bitt an eich, es hatt
+                                                  mich  <persName ref="Lupfer, Jackle">Jackle Lupfer</persName> gebetten, do ich bin ain
                                                   bruoder worden im romer debile<note type="editorial"> Diminutiv von
                                                   Dobel/Tobel?</note>, das ich im sol embietten, wan
                                                   ich ins landt kum, wie es mier gefal, sol ich ims
@@ -148,7 +151,7 @@
                                                   dis mal, dan ich winsch eich allen gottes gnadt
                                                   und was eich zu eiberer sellen hail nutzlich und
                                                   firderlich ist. Dattum Schaidawitz<note type="editorial"> Žádovice (deutsch Schadowitz),
-                                                  Südmähren</note><placeName ref="Žádovice"/> im
+                                                  Südmähren</note><placeName ref="Žádovice">der</placeName> im
                                                   lan[d]s Merhern des 75.</p>
                                                   <p rend="margin-top">Von mier, Hans Hettinger von
                                                   Brimelsdorff, jetz im lands Merhern wonendt zu
@@ -156,7 +159,7 @@
                                                   <p rend="margin-top">Disser brieff geherrt dem
                                                   Petter Hettinger gen Brimelsdorff<note type="editorial"> Vermutlich Birmensdorf
                                                   (Zürich)</note> in das Schweitzerlandt zu
-                                                  andwurtten, ein meil wegs von<placeName ref="Zürich">Zirch</placeName>.</p>
+                                                  andwurtten, ein meil wegs von <placeName ref="Zürich">Zirch</placeName>.</p>
                                                   </div>
     </body>
   </text>

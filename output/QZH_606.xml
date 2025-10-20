@@ -78,11 +78,17 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnßern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrwüer, lieber burger unnd vogt, vor unns jst erschinen<persName ref="Eicher, Heinrich">Heinrich Eicher</persName>,
+      <div><p>Unnßern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrwüer,
+                                                  lieber burger unnd vogt, vor unns jst 
+                                                  <persName ref="Eicher, Heinrich">Heinrich Eicher</persName>,
                                                   bürtig von Herschmetlen<note type="editorial">
                                                   Herschmettlen, Ortschaft der Gemeinde Gossau
-                                                  (Zürich)</note><placeName ref="Herschmettlen"/>
-                                                  jnn unser herrschafft<placeName ref="Grüningen (Landvogtei)">Grüningen</placeName>gelegen, unnd unns berichtet, wie das er ein schuld uff<persName ref="Knabenhans, Ůli">Ůlj Knabenhanßen</persName>zů<placeName ref="Wädenswil">Wädeschwyl</placeName>dyner
+                                                  (Zürich)</note><placeName ref="Herschmettlen">erschinen</placeName>
+                                                  jnn unser herrschafft <placeName ref="Grüningen (Landvogtei)">Grüningen</placeName> gelegen, unnd unns
+                                                  berichtet, wie das er ein schuld uff <persName ref="Knabenhans, Ůli">Ůlj
+                                                  Knabenhanßen</persName> zů
+                                                  <placeName ref="Wädenswil">Wädeschwyl</placeName> dyner
                                                   amptsverwaltung jnn ansprach<note type="editorial"> rechtlicher Anspruch, Id. X, 722.</note>
                                                   <note type="critical">Folgt gestrichen:
                                                   habe</note> unnd dieselbig jetzunder<note type="critical">«jetzunder» über der Zeile, in der
@@ -91,7 +97,8 @@
                                                   krafft unserer satzung<note type="critical">«uß
                                                   krafft unserer satzung» am Rand mit
                                                   Verweiszeichen</note>, von wägen er sich jetzt
-                                                  etliche jar lang zů Underkanitz<note type="editorial"> Dolní Kounice (deutsch<placeName ref="Dolní Kounice">Unterkanitz)</placeName></note> jm lannd<placeName ref="Mähren">Merherren</placeName>enthalten<note type="editorial">
+                                                  etliche jar lang zů Underkanitz<note type="editorial"> Dolní Kounice (deutsch
+                                                  Unterkanitz)<placeName ref="Dolní Kounice"/></note> jm lannd <placeName ref="Mähren">Merherren</placeName> enthalten<note type="editorial">
                                                   sich aufhalten, wohnen, Id. II, 1230.</note>, one
                                                   unßere verwilligung nit gestatnen<note type="critical">«gestatnen» über der Zeile, in der
                                                   Zeile gestrichen: je verfolgen laßen</note>
@@ -106,7 +113,8 @@
                                                   verwilligen. Wann nun wir syn begären verstanden
                                                   und aber nit eigentlich wüßen mögen, ob<note type="critical">Folgt gestrichen: syn
                                                   fürgab</note> er allein nach synem fürgäben dem
-                                                  handtwerch nach und nit der ­toüf­feryg wägen jnn<placeName ref="Mähren">Merheren</placeName>zogen syge, so
+                                                  handtwerch nach und nit der ­toüf­feryg wägen jnn
+                                                  <placeName ref="Mähren">Merheren</placeName> zogen syge, so
                                                   jst unßer bevelch an dich, du wellist
                                                   beschaffenheit der sachen<note type="critical">Folgt gestrichen: erkhundigen</note> synethalb
                                                   erkhundigen und, so du befintst, das dem wie er
@@ -118,8 +126,8 @@
                                                   etc. 92.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An<note type="critical">Folgt
-                                                  gestrichen: her</note> vogt Örj zů Wedischwyl<note type="editorial"> Wädenswil</note><placeName ref="Wädenswil"/>.</p>
+                                                  <p rend="margin-top"><note type="critical">Folgt
+                                                  gestrichen: her</note> vogt Örj zů Wedischwyl<note type="editorial"> Wädenswil</note><placeName ref="Wädenswil">An</placeName>.</p>
                                                   </div>
     </body>
   </text>

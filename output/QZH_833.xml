@@ -81,12 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hans<persName ref="Kolb, Hans Heinrich">Heinrich Kolb</persName>soll synem
+      <div><p>Hans <persName ref="Kolb, Hans Heinrich">Heinrich Kolb</persName> soll synem
                                                   stieftochter<note type="editorial"> Barbara
                                                   Bullinger, Tochter von Hans Heinrich Bullinger
                                                   (1557-1587) und Magdalena Meister (1559-?),
                                                   Stieftochter von Hans Heinrich Kolb, heiratete
-                                                  1606 Alexander Bierbrauer</note>man<persName ref="Bierbrauer, Alexander">Alexandern Bierbruͤyer</persName>, dem kupferschmid, umb allerley ursachen willen
+                                                  1606 Alexander Bierbrauer</note> man Alexandern
+                                                  Bierbruͤyer<persName ref="Bierbrauer, Alexander"/>, dem kupferschmid, umb allerley ursachen willen
                                                   synen diß rechtstags halb erlitnen<note type="critical">ursprünglich: erlitnen diß
                                                   rechtstags halb</note> costen abfertigen und von
                                                   deß an syner stieftochter deß Bierbruͤyers frow

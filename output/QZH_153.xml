@@ -82,11 +82,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Ich,<persName ref="Schmid, Heinrich">Heinrich Schmid</persName>vonn Clotenn, und jch,<persName ref="Walter, Cathrina">Cathrina Walltherin</persName>sin eelich husfrow,
+      <div><p>Ich, <persName ref="Schmid, Heinrich">Heinrich Schmid</persName> vonn Clotenn, und jch,
+                                                  <persName ref="Walter, Cathrina">Cathrina Walltherin</persName> sin eelich husfrow,
                                                   bekennen uns offenlich mit diesem brieff, alls
                                                   dann wir nit on mergcliche ursach in unser
                                                   gnädigenn herrenn burgermeysters unnd rätenn der
-                                                  statt<placeName ref="Zürich">Zürich</placeName>fängknus
+                                                  statt <placeName ref="Zürich">Zürich</placeName> fängknus
                                                   kommen sind, namlich darumb, wiewol die gedachtenn
                                                   unser herrenn unnd oberen vor jarenn ein mandat
                                                   unnd schwär gebott der verjrretenn sect unnd
@@ -179,11 +180,14 @@
                                                   habenn wider alle ußzüg<note type="editorial">
                                                   Einwand, Vorwand, Id. XVII, 541f.</note>, bös
                                                   fünd<note type="editorial"> List, Ausflüchte, Id.
-                                                  I, 850.</note>und gevärd, unnd dess zů warem urkhund, so habennd wir beyde gemeynlich erbeͣttenn den frommen wysenn Johans<persName ref="Lavater, Hans Rudolf">Růdolff Lavather</persName>,
-                                                  burger<placeName ref="Zürich">Zürich</placeName>, der zyt
-                                                  vogt zů<placeName ref="Kyburg">Kyburg</placeName>unsern
+                                                  I, 850.</note> und gevärd, unnd dess zů warem
+                                                  urkhund, so habennd wir beyde gemeynlich
+                                                  erbeͣttenn den frommen wysenn Johans <persName ref="Lavater, Hans Rudolf">Růdolff
+                                                  Lavather</persName>,
+                                                  burger <placeName ref="Zürich">Zürich</placeName>, der zyt
+                                                  vogt zů <placeName ref="Kyburg">Kyburg</placeName> unsern
                                                   liebenn herrenn, das er sin ynsigel für uns beyde
-                                                  und für unser erbenn doch dem hus<placeName ref="Kyburg">Kyburg</placeName>ann aller zůgehörd ouch jmm und
+                                                  und für unser erbenn doch dem hus <placeName ref="Kyburg">Kyburg</placeName> ann aller zůgehörd ouch jmm und
                                                   sinen erben onscheͣdlich offentlich inn disen
                                                   brieff getruckt hatt, der ggeͣben ist uff zinstag
                                                   nach mittfastenn anno etc. fünffzehenhundert

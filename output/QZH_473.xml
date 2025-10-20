@@ -79,12 +79,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Ist einhelligklich bestedt, mitwuchs den 4ten augustj anno etc. 85 p[raese]nt[ibus] herr<persName ref="Kambli, Hans">bůrgermeister Kamblj</persName>, reth und bůrger.</p>
+      <div><p>Ist einhelligklich bestedt, mitwuchs den 4ten
+                                                  augustj anno etc. 85 p[raese]nt[ibus] herr
+                                                  <persName ref="Kambli, Hans">bůrgermeister Kamblj</persName>, reth und bůrger.</p>
                                                   <p rend="margin-top">Demnach<note type="critical">«Demnach» am Rand, in der Zeile gestrichen:
                                                   Als</note> die vier evangelischen stett, mit
                                                   nammen<note type="critical">«mit namen» über der
                                                   Zeile, in der Zeile gestrichen: als</note> unser
-                                                  gnedig herren von Zürich, ouch<placeName ref="Bern">Bern</placeName>,<placeName ref="Basel">Basell</placeName>und<placeName ref="Schaffhausen">Schaffhusen</placeName>,
+                                                  gnedig herren von Zürich, ouch <placeName ref="Bern">Bern</placeName>, <placeName ref="Basel">Basell</placeName> und
+                                                  <placeName ref="Schaffhausen">Schaffhusen</placeName>,
                                                   verursachet worden, wyl die schedliche<note type="critical">Folgt gestrichen: wider</note>
                                                   sect der wider­toüf­feryg (wider) nun mehr zů-
                                                   weder abnemmen will, sich durch jr allersidts
@@ -158,7 +161,7 @@
                                                   303.</note> und zůverhüten wüße<note type="critical">«ouch ein jeder … zůverhüten wüße»
                                                   am Rand mit Verweiszeichen</note>, wellent offt
                                                   wolgenannt unser gnedig herren, burgermeister und
-                                                  rath der statt<placeName ref="Zürich">Zürich</placeName>,
+                                                  rath der statt <placeName ref="Zürich">Zürich</placeName>,
                                                   das dises jr erkandtnuß<note type="editorial">
                                                   Beschluss</note> nit allein anjetzo, sonders
                                                   fürbaß jnn allen sinodis, so jm jar zwürig alhie
@@ -174,7 +177,8 @@
                                                   fürzwenden</note> fürwenden<note type="editorial">
                                                   vorbringen, Id. XVI, 428.</note> könne. Actum
                                                   mitwuchs, den 4ten augustj anno etc.<note type="critical">Folgt in der Vorlage: anno etc.
-                                                  (Wiederholung)</note>85 p[raese]nt[ibus] herr<persName ref="Kambli, Hans">burgermeister Kamblj</persName>, reth und burger.</p>
+                                                  (Wiederholung)</note> 85 p[raese]nt[ibus] herr
+                                                  <persName ref="Kambli, Hans">burgermeister Kamblj</persName>, reth und burger.</p>
                                                   </div>
     </body>
   </text>

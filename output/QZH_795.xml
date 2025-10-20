@@ -78,14 +78,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Herr<persName ref="Schneeberger, Hans Heinrich">landtvogt Schneeberger</persName>und<persName ref="Schwerzenbach, Hans Thoman">m[eister] Schwertzenbach</persName>söllend dißerm
+      <div><p>Herr <persName ref="Schneeberger, Hans Heinrich">landtvogt Schneeberger</persName> und m[eister]
+                                                  Schwertzenbach<persName ref="Schwerzenbach, Hans Thoman"/> söllend dißerm
                                                   gůt nachfragen und jnn arrest leggen, da es dann
                                                   an dem syn wirt, ob es den 8 alten orten oder der
-                                                  statt<placeName ref="Zürich">Zürich</placeName>, dahin die
+                                                  statt <placeName ref="Zürich">Zürich</placeName>, dahin die
                                                   manschafft<note type="editorial"> Lehnrecht, Id.
                                                   IV, 292.</note> ußm Räbstal ghört, zůdienen und
                                                   gehören sölle ald<note type="editorial">
-                                                  oder</note> nit. Deßen soll der landtvogt zů<placeName ref="Baden">Baden</placeName>berichtet werden.
+                                                  oder</note> nit. Deßen soll der landtvogt zů
+                                                  <placeName ref="Baden">Baden</placeName> berichtet werden.
                                                   Actum mittwuchs den 4ten junij 1606 coram
                                                   senatu.</p>
                                                   </div>

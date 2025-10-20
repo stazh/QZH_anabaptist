@@ -79,7 +79,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Ich wünsch euch gotes gnadt und barmherzigkeit und alles guets zuvor. Mein lieber<persName ref="Meyer, Wolfgang">bruder Wolffganng</persName>und liebe<persName ref="Meyer, Regula">schwester Regele</persName>, jch kan gleich nit
+      <div><p>Ich wünsch euch gotes gnadt und barmherzigkeit
+                                                  und alles guets zuvor. Mein  <persName ref="Meyer, Wolfgang">bruder
+                                                  Wolffganng</persName> und
+                                                  liebe <persName ref="Meyer, Regula">schwester Regele</persName>, jch kan gleich nit
                                                   underlassen, euch ein wenig zu schreiben. Erstlich
                                                   wie es mir geet, so wais ich nit anders, denn das
                                                   es mir woll geet bei den frommen, dem herren sei
@@ -115,7 +118,7 @@
                                                   herzen und oren, seiner warheit zu volgen, dz
                                                   wünsch ich euch durch Jesum Christum, amen. Datum
                                                   Letenitz<note type="editorial"> Letonice (dt.
-                                                  Lettonitz)</note><placeName ref="Letonice"/> in
+                                                  Lettonitz)</note><placeName ref="Letonice">lieber</placeName> in
                                                   Marhern den freitag nach Petri und Pauli des 1579.
                                                   jars.</p>
                                                   <p rend="margin-top">Hanns Meyer, euer lieber

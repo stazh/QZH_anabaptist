@@ -78,9 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt. Uff dyn schryben und bericht anthreffendt den halßstarren widerthoüffer<persName ref="Bertschinger, Heini">Heinj Bertschinger</persName>, den Schmid jm
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt. Uff dyn schryben und
+                                                  bericht anthreffendt den halßstarren 
+                                                  <persName ref="Bertschinger, Heini">Heinj Bertschinger</persName>, den Schmid jm
                                                   Vischental<note type="critical">Folgt gestrichen:
-                                                  de[…] mit der to</note><placeName ref="Fischenthal"/>, und darmit überschickte
+                                                  de[…] mit der to</note><placeName ref="Fischenthal">widerthoüffer</placeName>, und darmit überschickte
                                                   abschrifft synes vaters seligen gmechts<note type="editorial"> Vermächtnis, Vertrag, Id. IV,
                                                   69.</note> und syn (deß ­toüf­fers) an dich
                                                   ußgangnen schrybens gebend wir dir den bevelch,
@@ -112,9 +116,10 @@
                                                   möchten), sonnders mehr umb die gehorsame zethůnd
                                                   jst unnd das diser schedlichen sect gewehrt
                                                   werde.</p>
-                                                  <p>Darnebent so jst auch nochmaln unnser bevelch unnd will, das wo diser<persName ref="Schmid, Heini">Heini Schmid</persName>oder der uß unnserm spital
+                                                  <p>Darnebent so jst auch nochmaln unnser bevelch
+                                                  unnd will, das wo  <persName ref="Schmid, Heini">Heini Schmid</persName> oder der uß unnserm spital
                                                   entloffne ­toüf­fer von Hadlicken<note type="editorial"> Rudolf Gubelmann von Hadlikon
-                                                  (Hinwil).</note><placeName ref="Hadlikon"/> unnd
+                                                  (Hinwil).</note><placeName ref="Hadlikon">diser</placeName> unnd
                                                   anndere jrs glychen jnn diner amptsverwaltung
                                                   zůbetretten<note type="editorial"> antreffen, Id.
                                                   XIV, 1486.</note> weren (daruf du dann flyßige
@@ -134,7 +139,8 @@
                                                   anno 1602.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Jacoben Zur
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
                                                   Eich.</p>
                                                   </div>
     </body>

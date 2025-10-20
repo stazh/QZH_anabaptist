@@ -79,16 +79,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als herr statthalter Widerkheer<note type="editorial"> Bernhard
-                                                  Wiederkehr</note><persName ref="Wiederkehr, Bernhard"/> unnd herr landvogt
-                                                  Schmid<note type="editorial"><persName ref="Schmid, Matthias">Matthias Schmid</persName></note>
+      <div><p>Als herr <note type="editorial"> Bernhard
+                                                  Wiederkehr</note><persName ref="Wiederkehr, Bernhard">statthalter Widerkheer</persName> unnd herr landvogt
+                                                  Schmid<note type="editorial"> <persName ref="Schmid, Matthias">Matthias
+                                                  Schmid</persName></note>
                                                   nach üwer myner g[nedigen] herren bevelch Heinrich
                                                   Rützenstorfer für sich uff das rathuß beschickt
                                                   unnd von jme zewüssen begert, was syn vorhaben, wo
                                                   er syn wyb und kind habe unnd sich zesetzen
                                                   willens syge, wievil er synes gůts hinweg gezogen
                                                   und noch alhie liggen habe, volgents ouch herr
-                                                  Leeman<note type="editorial"><persName ref="Leemann, Burkhard">Burkhard Leemann</persName></note>
+                                                  Leeman<note type="editorial"> <persName ref="Leemann, Burkhard">Burkhard
+                                                  Leemann</persName></note>
                                                   unser<note type="critical">«unser» über der Zeile,
                                                   in der Zeile gestrichen: der</note> religion halb,
                                                   was mangels er daran wüsse, befraget und mitt jm
@@ -99,13 +101,16 @@
                                                   zebringen und sich also gehorsamcklich mit
                                                   denselben alhie zůenthallten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note>,
                                                   hatt er darüber volgenden bscheid geben:</p>
-                                                  <p>Das syn wyb und kinder zů Hägelen<note type="editorial"> Weiler der Gemeinde
-                                                  Fisibach.</note><placeName ref="Fisibach, Hägelen"/> uff einem hof jnn der grafschafft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>nechst by<placeName ref="Kaiserstuhl">Keyserstůl</placeName>sygind. Daselbsten habe er ein bhußung sampt einem
+                                                  <p>Das syn wyb und kinder zů <note type="editorial"> Weiler der Gemeinde
+                                                  Fisibach.</note><placeName ref="Fisibach, Hägelen">Hägelen</placeName> uff einem hof jnn der grafschafft
+                                                  <placeName ref="Baden (Landgrafschaft)">Baden</placeName>
+                                                  nechst by <placeName ref="Kaiserstuhl">Keyserstůl</placeName>
+                                                  sygind. Daselbsten habe er ein bhußung sampt einem
                                                   garten, zů einer khů und holtzes gnůg umb 2
                                                   gulden<note type="critical">In der Vorlage:
                                                   gl.</note> empfangen. So er nun der enden nit
                                                   blatz, wüsse er noch ein ander gůt ort, doch er
-                                                  nit gsinnet, jnn<placeName ref="Mähren">Merherrnland</placeName>zezüchen. Sollichs thuͤge er, damit
+                                                  nit gsinnet, jnn <placeName ref="Mähren">Merherrnland</placeName> zezüchen. Sollichs thuͤge er, damit
                                                   er sich und<note type="critical">Folgt gestrichen:
                                                   syn</note> die synen desterbaß<note type="editorial"> desto besser</note>
                                                   ußbringen<note type="editorial"> auskommen, Id. V,
@@ -127,7 +132,8 @@
                                                   ererbten gůt er ungfahr 300 gulden hinweg bracht.
                                                   Das überig, namlich ein kernengült<note type="editorial"> Rente, bestehend in der
                                                   jährlicher Lieferung eines Getreidezinses, Id. II,
-                                                  288.</note>, jtem ein stuck räben zů<placeName ref="Meilen">Meylen</placeName>, daruf 100 gulden
+                                                  288.</note>, jtem ein stuck räben zů
+                                                  <placeName ref="Meilen">Meylen</placeName>, daruf 100 gulden
                                                   standint, die er dorab lößen, unnd einen hundert
                                                   gulden wertigen gültbrief, so alles über die 600
                                                   gulden sich anlouffe<note type="critical">«so
@@ -154,7 +160,14 @@
                                                   <p rend="margin-top">Diewyl er nit gehorsamm syn
                                                   will und man nit wüssen mag, wie syne sachen sich
                                                   erlouffen, soll es by angelegtem verbott<note type="editorial"> Sequester, Beschlag, Grimm 25,
-                                                  152.</note>synes noch alhie liggenden gůts blyben, und herr<persName ref="Wiederkehr, Bernhard">statthalter Widerkeer</persName>, so sich die zythar synen umb etwas z’gůtem beladen, recht das best thůn, dasselbig alles jnventieren unnd beschryben lassen unnd mitt einem vogt versehen. Actum mentags den 11ten maij anno etc. 90 pr[aesen]t[ibus] herr<persName ref="Thomann, Kaspar">burgermeister Tomman</persName>und beid
+                                                  152.</note> synes noch alhie liggenden gůts
+                                                  blyben, und herr <persName ref="Wiederkehr, Bernhard">statthalter Widerkeer</persName>, so sich die zythar
+                                                  synen umb etwas z’gůtem beladen, recht das best
+                                                  thůn, dasselbig alles jnventieren unnd beschryben
+                                                  lassen unnd mitt einem vogt versehen. Actum
+                                                  mentags den 11ten maij anno etc. 90
+                                                  pr[aesen]t[ibus] herr <persName ref="Thomann, Kaspar">burgermeister
+                                                  Tomman</persName> und beid
                                                   reth.</p>
                                                   </div>
     </body>

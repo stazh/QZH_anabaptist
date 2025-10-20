@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Uff herrn vogts von<placeName ref="Regensberg">Regensperg</placeName><note type="editorial"><persName ref="Binder, Heinrich">Heinrich Binder</persName></note>
+      <div><p>Uff herrn vogts von <placeName ref="Regensberg">Regensperg</placeName><note type="editorial">  <persName ref="Binder, Heinrich">Heinrich
+                                                  Binder</persName></note>
                                                   fürbringen<note type="editorial"> Darlegung</note>
                                                   jst jme umb hernach gemelte artickel volgenden
                                                   bescheid<note type="critical">Folgt gestrichen:

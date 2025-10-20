@@ -78,9 +78,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><placeName ref="Knonau">Knonower</placeName>oder<placeName ref="Freiamt">Fryampt</placeName>capittel aͤnnet
+      <div><p><placeName ref="Knonau">Knonower</placeName> oder
+                                                  <placeName ref="Freiamt">Fryampt</placeName> capittel aͤnnet
                                                   Albis</p>
-                                                  <p>[…] Zů<placeName ref="Affoltern am Albis">Affholtern</placeName>ist ein toͤuffer, der
+                                                  <p>[…] Zů <placeName ref="Affoltern am Albis">Affholtern</placeName> ist ein toͤuffer, der
                                                   macht grosse unrůw, das sy sich parthend<note type="editorial"> sich parteien, Id. IV,
                                                   1618.</note> und einandren schlahend. Saͤhend
                                                   wëder den vogt noch yemants an. Sagend, man soͤlte
@@ -119,7 +120,7 @@
                                                   wol stattlichen zethůnd wüssen werden etc.<note type="critical">Dieser Satz fehlt in den Censura,
                                                   wo es stattdessen heisst: Ist für myn herren
                                                   zebringen gwißen.</note></p>
-                                                  <p>Frygampt<note type="critical">Laut Censura; im
+                                                  <p><note type="critical">Laut Censura; im
                                                   Text zuhanden der politischen Obrigkeit:
                                                   «Wetzikoner cappitel». Affoltern gehört nicht zum
                                                   Kapitel Wetzikon, sondern Freiamt. Die Censura
@@ -127,9 +128,10 @@
                                                   ­toüf­fer sich habe lassen mercken, jnn einem jar
                                                   vast die predig nie besůcht, dem bstande der vater
                                                   by, ouch die můter, gebend jm underschlouff. Soll
-                                                  an myn herren komen.»</note><placeName ref="Freiamt"/>: […]<note type="editorial"> Das
+                                                  an myn herren komen.»</note><placeName ref="Freiamt">Frygampt</placeName>: […]<note type="editorial"> Das
                                                   erste Traktandum betrifft die
-                                                  Almosenordnung.</note>Als<persName ref="Schnewli, Heini">Heinj Schnewlj</persName>zů<placeName ref="Affoltern am Albis">Aoffholteren</placeName>jnn der herrschafft<placeName ref="Knonau">Knonouw</placeName><bm id="94"/>, deß
+                                                  Almosenordnung.</note> Als <persName ref="Schnewli, Heini">Heinj Schnewlj</persName> zů <placeName ref="Affoltern am Albis">Aoffholteren</placeName> jnn der herrschafft
+                                                  <placeName ref="Knonau">Knonouw</placeName><bm id="94"/>, deß
                                                   sun ein ­toüf­fer jst, und jr, myn herren, üwerm
                                                   vogt zů Knonouw<note type="editorial"> Hans
                                                   Rahn</note> synethalber zůgschriben und bevolhen,

@@ -79,9 +79,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Her Hanns<persName ref="Müller, Hans Heinrich">Heinrich Müller</persName>, diacon zu
+      <div><p> <persName ref="Müller, Hans Heinrich">Heinrich Müller</persName>, diacon zu
                                                   Weningen<note type="editorial">
-                                                  Niederweningen</note><placeName ref="Niederweningen"/>, git mynen herren, den verordneten, jnn gefengknus die antwurt. Als er uff sin pfrůnd zogen, hette er das buͤchlj, so m.<persName ref="Zwingli, Huldrych">Ulrich Zwinglj</persName>selig des touffs halb wider d.<persName ref="Hubmaier, Balthasar">Baltassar Hůbmeiger</persName>ußgan lassen<note type="editorial"> Huldrych
+                                                  Niederweningen</note><placeName ref="Niederweningen"/>, git mynen herren, den
+                                                  verordneten, jnn gefengknus die antwurt. Als er
+                                                  uff sin pfrůnd zogen, hette er das buͤchlj, so m.
+                                                  <persName ref="Zwingli, Huldrych">Ulrich Zwinglj</persName>
+                                                  selig des touffs halb wider d. <persName ref="Hubmaier, Balthasar">Baltassar
+                                                  Hůbmeiger</persName>
+                                                  ußgan lassen<note type="editorial"> Huldrych
                                                   Zwingli: Uber Doctor Balthazars Touffbuechlin
                                                   waarhaffte gründte antwurt, Zürich: Froschauer,
                                                   1525 (VD16 Z 907).</note>, uß sines vatters
@@ -104,7 +110,7 @@
                                                   anzogen, wellichs sin vatter<note type="editorial"> Hans Müller genannt Schalmeyer</note>
                                                   geschriben. Dises bůch er naher hern Israel
                                                   Stehelj<note type="editorial"> Israel
-                                                  Stäheli</note><persName ref="Stäheli, Israel"/>
+                                                  Stäheli</note><persName ref="Stäheli, Israel">Her Hanns</persName>
                                                   uff sin bitt glihen und wenig vermeint, das jm
                                                   etwas daruß volgen solte, anderst (wie das wol zu
                                                   gedenken were) hette er jm das nit geben. Und
@@ -122,7 +128,8 @@
                                                   verbrennt. Diewyl dann das vorgemelt<note type="editorial"> vorher erwähnte</note> sin
                                                   zugeseyt wort uß guter meinig nach sinem verstand
                                                   und kindtheit<note type="editorial"> kindisch, Id.
-                                                  III, 350.</note>beschehen und er wider m.<persName ref="Zwingli, Huldrych">Ulrich Zwinglis</persName>ler
+                                                  III, 350.</note> beschehen und er wider m. <persName ref="Zwingli, Huldrych">Ulrich
+                                                  Zwinglis</persName> ler
                                                   nie gewesen, so bitte er üch, myn herren, jne jnn
                                                   ansehen siner jugent wider zu gnaden ufzunemmen
                                                   und der gefengknus zu erledigen. Dagegen welle er
@@ -130,8 +137,8 @@
                                                   dhein ergernus nit geben.</p>
                                                   <p rend="margin-top">Als myn herren widerumb zu
                                                   jmm gfaren, git er wyteren bscheid. Und namlich
-                                                  deßwegen, das er gegen Andenberger also mit
-                                                  lichfertigen worten<note type="critical">Folgt
+                                                  deßwegen, das er gegen Andenberger also 
+                                                  <note type="critical">Folgt
                                                   gestrichen: herfür</note> des touffs halb
                                                   führgfallen<note type="critical">korrigiert,
                                                   ursprünglich: gfallen</note>, das solliche sin
@@ -141,20 +148,24 @@
                                                   werden solle und gfalle jm der ­toüf­feren ler
                                                   gantz und gar nit, dann es by dem abzunemmen, das
                                                   er an der cantzel<note type="critical">Folgt am
-                                                  Rand am Rand mir Verweiszeichen: noch sonst</note>dawider rede, wie er getruwte, die undertanen, so sy darumb erforderet wurden, jm des gute zügknus geben. Zudem wie er<persName ref="Ruman, Peter">Peter Rumans</persName>von<placeName ref="Schöflisdorf">Schöfflistorff</placeName>­toüf­fery bericht, were er
+                                                  Rand am Rand mir Verweiszeichen: noch sonst</note>
+                                                  dawider rede, wie er getruwte, die undertanen, so
+                                                  sy darumb erforderet wurden, jm des gute zügknus
+                                                  geben. Zudem wie er <persName ref="Ruman, Peter">Peter Rumans</persName> von <placeName ref="Schöflisdorf">Schöfflistorff</placeName> ­toüf­fery bericht, were er
                                                   zum andernmal zu hern obervogt gan Regensperg<note type="editorial"> Matthias
-                                                  Schwerzenbach</note><persName ref="Schwerzenbach, Matthias"/><placeName ref="Regensberg"/> gangen, jme anzöugt, wellicher
+                                                  Schwerzenbach</note><persName ref="Schwerzenbach, Matthias">lichfertigen worten</persName><placeName ref="Regensberg">mit</placeName> gangen, jme anzöugt, wellicher
                                                   maß derselb sich der kilchen und gmeind Cristj
                                                   üsserte, der erpute sich<note type="critical">«sich» über der Zeile</note>, der sach
                                                   nachzufragen.</p>
-                                                  <p>Sovil dann den angebnen spiler<persName ref="Schibli, Ruedi">Ruͤdj Schyblj</persName>betrifft,
+                                                  <p>Sovil dann den angebnen spiler Ruͤ<persName ref="Schibli, Ruedi">dj
+                                                  Schyblj</persName> betrifft,
                                                   hette er den selben gute meinung gespreit und
                                                   gerett, man wurde jnn leren spilen und straffen,
                                                   das doch uß dheinem argen gmuͤt nit beschehen<note type="critical">Folgt gestrichen: we</note> und
                                                   weren her Ruland<note type="editorial"> Ruland
                                                   Zayg</note><persName ref="Zayg, Ruland"/> und er
                                                   derhalb wol eins.</p>
-                                                  <p>Er welle auch m.<persName ref="Zwingli, Huldrych">Ulrich Zwinglis</persName>ler jnn keinen weg
+                                                  <p>Er welle auch m. <persName ref="Zwingli, Huldrych">Ulrich Zwinglis</persName> ler jnn keinen weg
                                                   geschulten, sonders was er dartzu geschriben, das
                                                   habe er uß torheit und unverstand gethon, an
                                                   wellichem allen er sich bekenne, hefftig gejrrt
@@ -162,10 +173,16 @@
                                                   sollichs ein gnugsame warnung sin werde, jm das
                                                   best zethůnd unnd zu verzyhen, wie dann hievor
                                                   ouch gemeldet jst.</p>
-                                                  <p rend="margin-top">Herr<persName ref="Müller, Hans">Hanns Müller</persName>antwurt also: als<note type="critical">«als» über der Zeile, in der Zeile
+                                                  <p rend="margin-top">Herr <persName ref="Müller, Hans">Hanns Müller</persName> antwurt also: als<note type="critical">«als» über der Zeile, in der Zeile
                                                   gestrichen: das er</note> ungevar vor zehen oder
                                                   fünffzehen jaren<note type="critical">Folgt
-                                                  gestrichen: als</note>die loüff der ler halb seltzam unnd gefarlich gewesen, hette er sich jnn der gschrifft gefaßt gemacht, damitt, so es von nöten, er antwurt zu geben wüsste. Und domalen m. Ulrich Zwinglis, deßglychen doctor<persName ref="Hubmaier, Balthasar">Balthassar Hůbmeigers</persName>buͤchlj des touffs<note type="editorial">
+                                                  gestrichen: als</note> die loüff der ler halb
+                                                  seltzam unnd gefarlich gewesen, hette er sich jnn
+                                                  der gschrifft gefaßt gemacht, damitt, so es von
+                                                  nöten, er antwurt zu geben wüsste. Und domalen m.
+                                                  Ulrich Zwinglis, deßglychen doctor <persName ref="Hubmaier, Balthasar">Balthassar
+                                                  Hůbmeigers</persName>
+                                                  buͤchlj des touffs<note type="editorial">
                                                   Balthasar Hubmaier: Von dem Christenlichen Tauff
                                                   der glaübigen, s.l. et n., 1525 (VD16 H
                                                   5651).</note> halb abgeschriben und gegeneinander
@@ -175,7 +192,26 @@
                                                   usserthalb<note type="critical">korrigiert,
                                                   ursprünglich: ussert</note> der geschrifft, sin
                                                   meinung dartzu<note type="critical">Folgt
-                                                  gestrichen: geschriben</note>gethan unnd möge er villich die wort, das Zwinglj vor schnyder, gerwen und schuchmacheren gůt zůreden gehept, die sich daruf wenig verstanden, und ander derglych aber doch gar niemand zu verachtung ald schmach geschriben und dartzu heresis, das nach dem verstand der gschrifft ein zertrenner derselben hiesse, gemacht haben. Sollich buͤchlj sin sun<persName ref="Müller, Hans Heinrich">Hanns Heinrich</persName>zu sinen handen mit anderen buͤchern genommen, dasselbig ußglihen, daruß jm jetzt diser lermen und unrůw erwachsen, des er sich gar nit uß lenge der zit versehen, sonders gedacht, das solte jm dhein schaden gebracht haben, dann er sonst m.<persName ref="Zwingli, Huldrych">Ulrich Zwinglis</persName>ler jnn allweg plyben lasse und darwider nit handlen werde. Unnd als er dise buͤchlj gegen einander besehen, hette jm zu vilmalen<persName ref="Hubmaier, Balthasar">d[octor] Balthasars</persName>ler baß<note type="editorial"> besser</note> dann
+                                                  gestrichen: geschriben</note> gethan unnd möge er
+                                                  villich die wort, das Zwinglj vor schnyder, gerwen
+                                                  und schuchmacheren gůt zůreden gehept, die sich
+                                                  daruf wenig verstanden, und ander derglych aber
+                                                  doch gar niemand zu verachtung ald schmach
+                                                  geschriben und dartzu heresis, das nach dem
+                                                  verstand der gschrifft ein zertrenner derselben
+                                                  hiesse, gemacht haben. Sollich buͤchlj sin sun
+                                                  <persName ref="Müller, Hans Heinrich">Hanns Heinrich</persName> zu sinen handen mit
+                                                  anderen buͤchern genommen, dasselbig ußglihen,
+                                                  daruß jm jetzt diser lermen und unrůw erwachsen,
+                                                  des er sich gar nit uß lenge der zit versehen,
+                                                  sonders gedacht, das solte jm dhein schaden
+                                                  gebracht haben, dann er sonst m. <persName ref="Zwingli, Huldrych">Ulrich
+                                                  Zwinglis</persName> ler
+                                                  jnn allweg plyben lasse und darwider nit handlen
+                                                  werde. Unnd als er dise buͤchlj gegen einander
+                                                  besehen, hette jm zu vilmalen d[octor]
+                                                  Balthasars<persName ref="Hubmaier, Balthasar"/>
+                                                  ler baß<note type="editorial"> besser</note> dann
                                                   des Zwinglis und hinwider des Zwinglins lieber
                                                   dann d. Balthasars gefallen, wie<note type="critical">Folgt gestrichen: man</note> dann
                                                   jnn regimenten die richter jnn geistlichen ald
@@ -200,7 +236,8 @@
                                                   er als ein alter erlepter man, diß sin verhandlen
                                                   jm besten zu verstan und gnedigklich zu
                                                   verzyhen.</p>
-                                                  <p rend="margin-top">| [Urteil:] Herr<persName ref="Müller, Hans">Hanns Müller</persName>genant
+                                                  <p rend="margin-top">| [Urteil:] Herr <persName ref="Müller, Hans">Hanns
+                                                  Müller</persName> genant
                                                   Schalmyger ward uff ein urfecht unnd hundert
                                                   pfundt trostung<note type="editorial"> Bürgschaft,
                                                   Kaution, Id. XIV, 1423.</note> der gefengknus

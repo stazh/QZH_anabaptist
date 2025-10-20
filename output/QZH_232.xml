@@ -81,10 +81,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Clotter, Elsi">Elsi Clotter</persName>jm<placeName ref="Zürich, Kratz">Kratz</placeName>soll
+      <div><p><persName ref="Clotter, Elsi">Elsi Clotter</persName> jm
+                                                  <placeName ref="Zürich, Kratz">Kratz</placeName> soll
                                                   eigentlich erkonet<note type="editorial">
                                                   ausforschen, Id. III, 325.</note> werden, an
-                                                  wellichen ennden die töuffer jnn der herschafft<placeName ref="Wädenswil">Wedischwyl</placeName>zůsamen
+                                                  wellichen ennden die töuffer jnn der herschafft
+                                                  <placeName ref="Wädenswil">Wedischwyl</placeName> zůsamen
                                                   komend, unnd so man von jnen eigentlich bscheid
                                                   hat, soll man dem vogt von Wedischwyl das
                                                   zůschryben.</p>

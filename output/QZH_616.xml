@@ -81,12 +81,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Maler, Balthasar">Baltasar Maalern</persName>am Seeveld<note type="editorial"> Seefeld, Gebiet der Gemeinde
+      <div><p><persName ref="Maler, Balthasar">Baltasar Maalern</persName> am Seeveld<note type="editorial"> Seefeld, Gebiet der Gemeinde
                                                   Riesbach, das zur Obervogtei Küsnacht
                                                   gehörte.</note><placeName ref="Seefeld (Riesbach)"/> ein gleit zum rächten und darvon<note type="editorial"> Geleit auf dem Weg zum und
                                                   zurück vom Gericht</note> gegen synem
                                                   tochterman<note type="editorial"> Schwiegersohn
-                                                  (Hans Heinrich Pfister)</note>, da dan zů m[eister]<persName ref="Bräm, Heinrich">Heinrichen Brämen</persName>staan, wann dz gleit angaan
+                                                  (Hans Heinrich Pfister)</note>, da dan zů
+                                                  m[eister] <persName ref="Bräm, Heinrich">Heinrichen Brämen</persName> staan, wann dz gleit angaan
                                                   uff ein monat lang<note type="editorial"> Zum
                                                   Rechtshandel vgl. Nr. 704.</note>.</p>
                                                   </div>

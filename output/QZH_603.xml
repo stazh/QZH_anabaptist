@@ -81,9 +81,10 @@
   <text>
     <body>
       <div><p>Demnach dann Augustyn Gaßer von
-                                                  Niderstamheim<note type="editorial">
-                                                  Unterstammheim</note><placeName ref="Unterstammheim"/> verschinner<note type="editorial"> vergangener</note> zyt zů mir
-                                                  kommen unnd anzeigt, wie dz er sich jnn<placeName ref="Bern">Bernbiet</placeName>hußhablich
+                                                  <note type="editorial">
+                                                  Unterstammheim</note><placeName ref="Unterstammheim">Niderstamheim</placeName> verschinner<note type="editorial"> vergangener</note> zyt zů mir
+                                                  kommen unnd anzeigt, wie dz er sich jnn
+                                                  <placeName ref="Bern">Bernbiet</placeName> hußhablich
                                                   zesitzen willens unnd syn ereerpt hab unnd gůt
                                                   dahin ziechen welte, unnd deß abzugs halb mit mir
                                                   abkommen<note type="editorial"> übereinkommen,
@@ -102,13 +103,14 @@
                                                   e. w. zůgeschickt werden söllen, hab jch
                                                   schuldiger pflicht nach denselben hiemit
                                                   verwarlich überantworten unnd hienäbent syn hab
-                                                  unnd gůt zů<placeName ref="Stammheim">Stamheim</placeName>jnn arrest leggen laßen söllen. Ob nun e. e. w.,
+                                                  unnd gůt zů <placeName ref="Stammheim">Stamheim</placeName>
+                                                  jnn arrest leggen laßen söllen. Ob nun e. e. w.,
                                                   jnne mit synem hab und gůt faren laßen ald<note type="editorial"> oder</note> anders an die hannd
                                                   zenemmen sich dieselben zehalten, wol wüßen
                                                   werden.</p>
-                                                  <p rend="margin-top">Bernhart Lafater<note type="editorial"> Bernhard Lavater (1547-1599),
+                                                  <p rend="margin-top"><note type="editorial"> Bernhard Lavater (1547-1599),
                                                   seit 1588 Obervogt von
-                                                  Steinegg-Stammheim.</note><persName ref="Lavater, Bernhard"/>, vogt zů Steinegk<note type="editorial"> Obervogtei
+                                                  Steinegg-Stammheim.</note><persName ref="Lavater, Bernhard">Bernhart Lafater</persName>, vogt zů Steinegk<note type="editorial"> Obervogtei
                                                   Steinegg-Stammheim</note><placeName ref="Steinegg-Stammheim (Vogtei)"/></p>
                                                   </div>
     </body>

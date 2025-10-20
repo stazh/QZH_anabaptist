@@ -81,12 +81,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Kyburg<note type="editorial">Hans<persName ref="Holzhalb, Hans Jakob">Jakob Holzhalb</persName></note><placeName ref="Kyburg"/>soll<persName ref="Wyss, Konrad">Conradt Wyßen</persName>von<placeName ref="Baltenswil">Baltenstchwyl</placeName>, so ein
+      <div><p>Vogt zů <note type="editorial"> Hans
+                                                  <persName ref="Holzhalb, Hans Jakob">Jakob Holzhalb</persName></note><placeName ref="Kyburg">Kyburg</placeName> soll <persName ref="Wyss, Konrad">Conradt
+                                                  Wyßen</persName> von
+                                                  <placeName ref="Baltenswil">Baltenstchwyl</placeName>, so ein
                                                   ­toüf­ferischer ufwigler, angentz<note type="editorial"> unverzüglich, sofort, Id. II,
                                                   19.</note> gfenklich jnzügen laßen<note type="critical">«laßen» über der Zeile</note> und
                                                   verwart alher schicken.</p>
                                                   <p>Und sol der obristknecht anordnung thůn, das
-                                                  die ­toüf­fer jnn der Ringgern huß zů<placeName ref="Niederglatt">Niderglatt</placeName>ußgnommen
+                                                  die ­toüf­fer jnn der Ringgern huß zů
+                                                  <placeName ref="Niederglatt">Niderglatt</placeName> ußgnommen
                                                   und sy sampt dem gelt, so sy by jnen hetten, alher
                                                   gefürt werden.</p>
                                                   </div>

@@ -77,10 +77,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als vor jaren<persName ref="Spöri, Jakob">Jacob Spörj</persName>, hinder Gryffenberg<note type="editorial"> Greifenberg</note> whonhafft,
+      <div><p>Als vor jaren <persName ref="Spöri, Jakob">Jacob Spörj</persName>, hinder Gryffenberg<note type="editorial"> Greifenberg</note> whonhafft,
                                                   einen schwären rächtshandel under herren vogt
                                                   Kippenhannen<note type="editorial"> Hans
-                                                  Kippenhan</note>mit sinem vetteren<persName ref="Spöri, Ůli">Ůlj Spörin</persName>seeligen gehept
+                                                  Kippenhan</note> mit sinem vetteren <persName ref="Spöri, Ůli">Ůlj
+                                                  Spörin</persName> seeligen gehept
                                                   unnd er sich ungebürlich gehalten, das er nach
                                                   sinem beschulden gethürnt<note type="editorial">
                                                   ins Gefängnis legen, Id. XIII, 1668.</note> und
@@ -108,15 +109,24 @@
                                                   er sich allerdings unseren christl[ichen] gmeind
                                                   und kilchgangs entschlagen<note type="editorial">
                                                   entäussern, meiden, Grimm 3, 602.</note>.</p>
-                                                  <p>Gemelter<persName ref="Spöri, Jakob">Jacob Spörj</persName>, dißer tragedj anfenger und
-                                                  actor, hat einen brůder, Herman Spörj, ouch hinder<placeName ref="Greifenberg">Gryffenberg</placeName>,
+                                                  <p> <persName ref="Spöri, Jakob">Jacob Spörj</persName>, dißer tragedj anfenger und
+                                                  actor, hat einen brůder, Herman Spörj, ouch hinder
+                                                  <placeName ref="Greifenberg">Gryffenberg</placeName>,
                                                   wellicher in den ersten jaren herren vogt
-                                                  Claußers<note type="editorial">Hans<persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note> von unser gmeind zů einem eegoumer in
+                                                  Claußers<note type="editorial"> Hans  <persName ref="Clauser, Hans Heinrich">Heinrich
+                                                  Clauser</persName></note> von unser gmeind zů einem eegoumer in
                                                   siner wacht erwelt worden, wellicher gleich
                                                   anfangs etwas<note type="critical">Folgt
                                                   gestrichen: uns</note> unweßen, so by der
                                                   Thannen<note type="editorial"> Tannen, Hof in der
-                                                  Gemeinde Bäretswil.</note><placeName ref="Bäretswil, Tannen"/>nachts von etlichen gsellen fürgangen, mir erklagt, da wir nit können underlassen (das böß abzestellen), sölliches herren vogt Claußern fürzebringen, der one verzug dißere personen beschickt und umb ir mißhandlen gebuͤßt hat. Under dißen ist einer geweßen<persName ref="Spöri, Ůli">Ůlj Spöris</persName>seligen lediger son, hat uff den eegoumer<persName ref="Spöri, Hermann">Herman Spörin</persName>vor herren vogt Claußern
+                                                  Gemeinde Bäretswil.</note><placeName ref="Bäretswil, Tannen">Gemelter</placeName> nachts von etlichen
+                                                  gsellen fürgangen, mir erklagt, da wir nit können
+                                                  underlassen (das böß abzestellen), sölliches
+                                                  herren vogt Claußern fürzebringen, der one verzug
+                                                  dißere personen beschickt und umb ir mißhandlen
+                                                  gebuͤßt hat. Under dißen ist einer geweßen <persName ref="Spöri, Ůli">Ůlj
+                                                  Spöris</persName> seligen lediger
+                                                  son, hat uff den eegoumer <persName ref="Spöri, Hermann">Herman Spörin</persName> vor herren vogt Claußern
                                                   klagt, wie er (als er im 4 schilling<note type="critical">In der Vorlage: ß</note> schuldig
                                                   geweßen) ine, den knaben, uffgewißen<note type="editorial"> zu etwas anstiften, verleiten,
                                                   Id. XVI, 1939.</note>, sölle diß gelt dem vatter
@@ -159,8 +169,7 @@
                                                   zächenden und allen burgerlichen beschwärden frey
                                                   zemachen und zeledigen, inzegießen und
                                                   zepflantzen.</p>
-                                                  <p>So nun der besserung und widerkeer by disen
-                                                  kybigen<note type="editorial"> eigensinnig,
+                                                  <p>So nun der besserung und  <note type="editorial"> eigensinnig,
                                                   boshaft, zänkisch, Id. III, 108.</note> und
                                                   widerspenigen<note type="editorial">
                                                   widerspenstigen</note> bruͤderen kein hoffnung
@@ -174,8 +183,20 @@
                                                   rechten oberhand fürgebracht, in uffgemanet, das
                                                   er mit sinem ansehen und gwalt dem unradt und übel
                                                   wölle vorkommen<note type="editorial"> vorbeugen,
-                                                  Id.</note>. Und ob er gleich durch den weibel by hoher bůß zur ghorsamme sie lassen vermannen, ist es doch by inen vergeblich geweßen. Deßhalb herr<persName ref="Clauser, Hans Heinrich">vogt Claußer</persName>bewegt und verursachet worden, den Gerber mit etlichen anderen zeschicken und,<persName ref="Spöri, Hermann">weil Herman</persName>im kyb<note type="editorial"> Zank, Streit, Trotz, Id. III,
-                                                  106.</note>beharret, im ein houpt veech zůr bůß lassen hinweg tryben. Der<persName ref="Spöri, Jakob">ander, Jacob</persName>, hat sich zur ghorsamme erbotten, von deßen wegen im domalen verschonet worden. Zů dißen hat sich ir jüngster brůder<persName ref="Spöri, Peter">Peter Spörj</persName>, uff<placeName ref="Bäretswil, Dunkelwis">Dunckelwyß</placeName>seßhafft, an einem unwägsammen einöden ortt
+                                                  Id.</note>. Und ob er gleich durch den weibel by
+                                                  hoher bůß zur ghorsamme sie lassen vermannen, ist
+                                                  es doch by inen vergeblich geweßen. Deßhalb herr
+                                                  <persName ref="Clauser, Hans Heinrich">vogt Claußer</persName> bewegt und verursachet worden, den Gerber mit
+                                                  etlichen anderen zeschicken und, <persName ref="Spöri, Hermann">weil
+                                                  Herman</persName> im kyb<note type="editorial"> Zank, Streit, Trotz, Id. III,
+                                                  106.</note> beharret, im ein houpt veech zůr bůß
+                                                  lassen hinweg tryben. Der ander, Jacob<persName ref="Spöri, Jakob">disen
+                                                  kybigen</persName>, hat sich zur ghorsamme
+                                                  erbotten, von deßen wegen im domalen verschonet
+                                                  worden. Zů dißen hat sich ir jüngster brůder <persName ref="Spöri, Peter">Peter
+                                                  Spörj</persName>, uff
+                                                  <placeName ref="Bäretswil, Dunkelwis">Dunckelwyß</placeName>
+                                                  seßhafft, an einem unwägsammen einöden ortt
                                                   geschlagen, wellicher das sin alles unnützlich
                                                   verschwempt<note type="editorial"> unnütz
                                                   durchbringen, Id. IX, 1861f.</note> und hindurch
@@ -185,19 +206,30 @@
                                                   und herberig gibt, da predigen laßt und das
                                                   töuffisch unweßen fuͤren. Und diße all drey lassen
                                                   sich nimmermer abwenden, louffen in der gantzen
-                                                  gmeind, understond, mengklichen uff ir parth<note type="editorial"> Partei, Id. IV, 1617.</note>zebringen. Und hat herr vogt Claußer abermals wenig zeit von sinem abzug (als ich dißer bruͤderen ungehorsamme und widerspenigkeit<persName ref="Spöri, Hermann">fürgebracht), Herman</persName><persName ref="Spöri, Peter">und Petern</persName>jedem
+                                                  gmeind, understond, mengklichen uff ir parth<note type="editorial"> Partei, Id. IV, 1617.</note>
+                                                  zebringen. Und hat herr vogt Claußer abermals
+                                                  wenig zeit von sinem abzug (als ich dißer
+                                                  bruͤderen ungehorsamme und widerspenigkeit
+                                                  fürgebracht), Herman<persName ref="Spöri, Hermann">widerkeer by</persName> <persName ref="Spöri, Peter">und Petern</persName> jedem
                                                   ein houpt veech zur bůß lassen hinweg fuͤren.</p>
                                                   <p>Als aber wir capitels bruͤder des abgelouffnen
                                                   monats januarij bey euch, herr dechan, zů
-                                                  Türnten<note type="editorial">
-                                                  Dürnten</note><placeName ref="Dürnten"/> uns
+                                                  <note type="editorial">
+                                                  Dürnten</note><placeName ref="Dürnten">Türnten</placeName> uns
                                                   besamlet, söllicher unnd anderer sachen uns
                                                   zeberadtschlagen, hat es sich begeben, das ich
                                                   nach miner ankunfft von gloubwürdigen lüthen
                                                   berichtet worden, wie angedüte Spörinen gebruͤder
                                                   einen argwhönigen touffbrůder by inen
                                                   uffenthaltind<note type="editorial"> Unterkunft
-                                                  geben, beherbergen, Id. II, 1231.</note>, wellicher sie understande in irer angefengten widerspenigkeit zestercken, ouch in schriben und läßen anzefuͤren, bin ich verursachet worden, mit<persName ref="Hess, Benedikt">Bendict Hessen</persName>, dem eegoumer, dahin zekeeren und dißen handel im grund zuvernemmen. Derowegen anfangs<persName ref="Spöri, Jakob">zů Jacoben</persName>| [fol. 2r]
+                                                  geben, beherbergen, Id. II, 1231.</note>,
+                                                  wellicher sie understande in irer angefengten
+                                                  widerspenigkeit zestercken, ouch in schriben und
+                                                  läßen anzefuͤren, bin ich verursachet worden, mit
+                                                  <persName ref="Hess, Benedikt">Bendict Hessen</persName>,
+                                                  dem eegoumer, dahin zekeeren und dißen handel im
+                                                  grund zuvernemmen. Derowegen anfangs <persName ref="Spöri, Jakob">zů
+                                                  Jacoben</persName> | [fol. 2r]
                                                   (wellicher bißhar glychsnerischer<note type="editorial"> heuchlerischer</note> wyß als
                                                   ein ambidexter<note type="editorial">
                                                   Beidhänder</note> uff beiden achslen getragen und
@@ -261,7 +293,12 @@
                                                   III, 353.</note> zegeben), one nott alle sine
                                                   inwürff und ungerymbte hässische thädung<note type="editorial"> Geschwätz, Id. XII, 439.</note>
                                                   zeverzeichnen.</p>
-                                                  <p>Hab also one verzug herren<persName ref="Clauser, Hans Heinrich">vogt Claußern</persName>diß alles schrifftlich thůn berichten, wellicher zestund<persName ref="Gerber, N. (von Grüningen)">den Gerber</persName><persName ref="Schmit, N. (von Grüningen)">und Schmid</persName>von<placeName ref="Grüningen">Gruͤningen</placeName>alhar
+                                                  <p>Hab also one verzug herren <persName ref="Clauser, Hans Heinrich">vogt
+                                                  Claußern</persName>
+                                                  diß alles schrifftlich thůn berichten, wellicher
+                                                  zestund <persName ref="Gerber, N. (von Grüningen)">den Gerber</persName> <persName ref="Schmit, N. (von Grüningen)">und
+                                                  Schmid</persName>
+                                                  von Gruͤ<placeName ref="Grüningen">ningen</placeName> alhar
                                                   geschickt, die ouch andere zů inen genommen, in
                                                   gesůcht, aber nit funden; hieruff ein roß zum
                                                   rächten<note type="editorial"> hier i.S. von ‘für
@@ -271,7 +308,8 @@
                                                   werden, er aber sich niemals erzeigen wöllen. Und
                                                   weil grad druff hin herr vogt Claußer abzogen und
                                                   nützit weiters erfolget, ich ouch bißhar den nüwen
-                                                  herren vogt Zur Eich<note type="editorial">Jakob<persName ref="Zur Eich, Jakob">Zur Eich</persName></note>
+                                                  herren vogt Zur Eich<note type="editorial"> Jakob
+                                                   <persName ref="Zur Eich, Jakob">Zur Eich</persName></note>
                                                   dißer sach halb nit dörffen anstrengen<note type="critical">Lesung unsicher</note>, weil wir
                                                   jemerdar uff uns[er] g. herren bescheid uff
                                                   unser<note type="critical">«unser» über der Zeile,

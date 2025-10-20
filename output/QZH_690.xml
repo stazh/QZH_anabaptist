@@ -76,13 +76,15 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Myn<persName ref="Waser, Hans">Hannßen Wasers</persName>Rechnung von wegen deß touffer gutz vom 1600isten
+      <div><p>Myn <persName ref="Waser, Hans">Hannßen Wasers</persName>
+                                                  Rechnung von wegen deß touffer gutz vom 1600isten
                                                   jar<note type="critical">Die Überschrift befindet
                                                   sich auf fol. 6v des Faszikels</note></p>
                                                   <p rend="margin-top">| [fol. 1r] Ingenommen von
                                                   wegen deß töüffer gůtts, so herr amptmann
-                                                  Keller<note type="editorial">Hans<persName ref="Keller, Hans Conrad">Conrad Keller</persName></note>
-                                                  zu<placeName ref="Rüti">Rüthj</placeName>by syner andern
+                                                  Keller<note type="editorial"> Hans <persName ref="Keller, Hans Conrad">Conrad
+                                                  Keller</persName></note>
+                                                  zu <placeName ref="Rüti">Rüthj</placeName> by syner andern
                                                   rechnung vom 1599isten jar schuldig bliben unnd
                                                   mir uß bevelch myner gnedigen herren, der
                                                   rechenherren, donstags den 24ten apprellen
@@ -96,66 +98,85 @@
                                                   <p rend="margin-top">So hab jch wyter ynngenommen
                                                   an zinsen von obstendem houptgut vom 1600isten
                                                   jar:</p>
-                                                  <p>13 pfund vonn<persName ref="Bickel, Oswald">Oßwalden Bickel</persName>von<placeName ref="Affoltern am Albis">Affholtern</placeName>von 260 pfund houptgůt
+                                                  <p>13 pfund vonn <persName ref="Bickel, Oswald">Oßwalden Bickel</persName> von <placeName ref="Affoltern am Albis">Affholtern</placeName> von 260 pfund houptgůt
                                                   uff marthinj.</p>
-                                                  <p>10 pfund vonn<persName ref="Hegi, Adam">Adammen Hegi</persName>von Hengst<note type="editorial"> Heisch</note><placeName ref="Heisch"/> von 200 pfund houptgutz uff
+                                                  <p>10 pfund  <persName ref="Hegi, Adam">Adammen Hegi</persName> von Hengst<note type="editorial"> Heisch</note><placeName ref="Heisch">vonn</placeName> von 200 pfund houptgutz uff
                                                   marthinj.</p>
-                                                  <p>9 pfund von<persName ref="Steli, Jaggli">Jagli Stelj</persName>von<placeName ref="Lunnern">Lunnern</placeName>von 180 pfund houptgutz.</p>
-                                                  <p>2 pfund 10 schilling von<persName ref="Gut, Melchior">Melchior Gůtten</persName>zů<placeName ref="Unterlunnern">Niderlunnern</placeName>von 50
+                                                  <p>9 pfund von <persName ref="Steli, Jaggli">Jagli Stelj</persName> von <placeName ref="Lunnern">Lunnern</placeName> von 180 pfund houptgutz.</p>
+                                                  <p>2 pfund 10 schilling von <persName ref="Gut, Melchior">Melchior
+                                                  Gůtten</persName> zů
+                                                  <placeName ref="Unterlunnern">Niderlunnern</placeName> von 50
                                                   pfund houptgutz uff marthinj.</p>
-                                                  <p>9 pfund von<persName ref="Steli, Hans Rudolf">Hanns Růdolff</persName>unnd Hanns<persName ref="Steli, Hans">den Stelinen</persName>von<placeName ref="Ottenbach">Ottenbach</placeName>von 180
+                                                  <p>9 pfund von <persName ref="Steli, Hans Rudolf">Hanns Růdolff</persName> unnd Hanns <persName ref="Steli, Hans">den
+                                                  Stelinen</persName> von
+                                                  <placeName ref="Ottenbach">Ottenbach</placeName> von 180
                                                   pfund houptgutz uff marthinj.</p>
-                                                  <p>5 pfund von<persName ref="Stierli, Ůli">den Stierlinen</persName><persName ref="Stierli, Hans"/> zu<placeName ref="Ottenbach">Ottenbach</placeName>von
+                                                  <p>5  <persName ref="Stierli, Ůli">den Stierlinen</persName><persName ref="Stierli, Hans">pfund von</persName> zu <placeName ref="Ottenbach">Ottenbach</placeName> von
                                                   100 pfund houptgutz uff marthinj.</p>
-                                                  <p>8 pfund 2 schilling von<persName ref="Kleiner, Jakob (alias Jos)">Jacoben Cleiner</persName>, genant Joß von<placeName ref="Mettmenstetten">Mettmenstetten</placeName><bm id="249"/>, von 162
+                                                  <p>8 pfund 2 schilling von <persName ref="Kleiner, Jakob (alias Jos)">Jacoben
+                                                  Cleiner</persName>, genant Joß von <placeName ref="Mettmenstetten">Mettmenstetten</placeName><bm id="249"/>, von 162
                                                   houptgutz uff marthinj.</p>
                                                   <p rend="margin-top">Summa diß blatts vom
                                                   1600isten jar zinsen yngenommen an gellt 56 pfund
                                                   12 schilling.</p>
                                                   <p rend="margin-top">| [fol. 1v] Innemmen an zinß
                                                   vom 1600. jar:</p>
-                                                  <p>6 pfund 18 schilling von<persName ref="Bücheler, Hans">Hanßen Bücheler</persName><bm id="250"/> von Obermettmenstetten von 138 pfund
+                                                  <p>6 pfund 18 schilling von <persName ref="Bücheler, Hans">Hanßen
+                                                  Bücheler</persName><bm id="250"/> von Obermettmenstetten von 138 pfund
                                                   houptgutz uff wienecht.</p>
                                                   <p>8 pfund 2 schilling soll<note type="editorial">
-                                                  schuldig sein, Id. VII, 771.</note><persName ref="Bär, Hans">Hannß Bär</persName><bm id="251"/> von<placeName ref="Uerzlikon">Ürtzlicken</placeName>von 162
+                                                  schuldig sein, Id. VII, 771.</note> <persName ref="Bär, Hans">Hannß
+                                                  Bär</persName><bm id="251"/> von
+                                                  <placeName ref="Uerzlikon">Ürtzlicken</placeName> von 162
                                                   pfund houptgutz uff den 20ten jenner anno
                                                   1600.</p>
-                                                  <p>5 pfund 8 schilling uff<persName ref="Hurter, Jakob">den Hurttern</persName><persName ref="Hurter, Hans"/><bm id="252"/> zu Ürtzlicken von 108 pfund
+                                                  <p>5 pfund 8  <persName ref="Hurter, Jakob">den Hurttern</persName><persName ref="Hurter, Hans">schilling uff</persName><bm id="252"/> zu Ürtzlicken von 108 pfund
                                                   houptgut uff martinj.</p>
-                                                  <p>3 pfund 1 schilling von<persName ref="Wyss, Heini">Heinj Wyßen</persName><bm id="253"/> von<placeName ref="Hedingen">Hedingen</placeName>von 61 pfund
+                                                  <p>3 pfund 1 schilling von <persName ref="Wyss, Heini">Heinj Wyßen</persName><bm id="253"/> von
+                                                  <placeName ref="Hedingen">Hedingen</placeName> von 61 pfund
                                                   houptgut uff marthinj.</p>
-                                                  <p>2 pfund 10 schilling soll<persName ref="Lüssi, David">Davidt Lußj</persName>von<placeName ref="Hausen am Albis">Hußen</placeName>von 50 pfund houptgutz uff
+                                                  <p>2 pfund 10 schilling soll <persName ref="Lüssi, David">Davidt Lußj</persName> von <placeName ref="Hausen am Albis">Hußen</placeName> von 50 pfund houptgutz uff
                                                   marthinj.</p>
-                                                  <p>1 pfund<persName ref="Huber, Konrad">Cunradt Hůber</persName>zů<placeName ref="Hausen am Albis, Wesenmatt">Weßenmat</placeName>von 20 pfund
+                                                  <p>1 pfund <persName ref="Huber, Konrad">Cunradt Hůber</persName> zů <placeName ref="Hausen am Albis, Wesenmatt">Weßenmat</placeName> von 20 pfund
                                                   houptgut uff marthinj.</p>
-                                                  <p>1 pfund 6 schilling soll<persName ref="Weidmann, Hans">Hanns Weidmann</persName>zu<placeName ref="Affoltern (Zürich)">Affholtern</placeName>jm
+                                                  <p>1 pfund 6 schilling soll <persName ref="Weidmann, Hans">Hanns
+                                                  Weidmann</persName> zu
+                                                  <placeName ref="Affoltern (Zürich)">Affholtern</placeName> jm
                                                   ampt Regenstorff von 26 pfund houptgůtz uff
                                                   marthinj.</p>
-                                                  <p>2 pfund 3 schilling 6 heller<persName ref="Studer, Jakob">Jacob Studer</persName>der schnyder
-                                                  zů<placeName ref="Altstetten">Alstetten</placeName>von 43
+                                                  <p>2 pfund 3 schilling 6 heller <persName ref="Studer, Jakob">Jacob
+                                                  Studer</persName> der schnyder
+                                                  zů <placeName ref="Altstetten">Alstetten</placeName> von 43
                                                   pfund 10 schilling houptgůt uff marthinj.</p>
-                                                  <p>15 pfund söllent<persName ref="Eberli, Heini Uli">Heinj Ulj</persName>unnd Heinrich<persName ref="Eberli, Heinrich">die Äberlinen</persName>uff
-                                                  Bůchen<placeName ref="Buchenegg">Egg</placeName><bm id="254"/> uff martinj.</p>
-                                                  <p>15 pfund soll<persName ref="Huber, Hans">Hanns Hůber</persName>zů<placeName ref="Bonstetten">Bonstetten</placeName>von 300 pfund houptgutz uff
+                                                  <p>15 pfund söllent <persName ref="Eberli, Heini Uli">Heinj Ulj</persName> unnd Heinrich <persName ref="Eberli, Heinrich">die
+                                                  Äberlinen</persName> uff
+                                                  Bůchen <placeName ref="Buchenegg">Egg</placeName><bm id="254"/> uff martinj.</p>
+                                                  <p>15 pfund soll <persName ref="Huber, Hans">Hanns Hůber</persName> zů <placeName ref="Bonstetten">Bonstetten</placeName> von 300 pfund houptgutz uff
                                                   marthinj.</p>
-                                                  <p>5 pfund<persName ref="Toggwiler, Felix">söllen Felix</persName><persName ref="Toggwiler, Heini">unnd Heinj</persName>die Toggwyler zu
+                                                  <p>5 pfund <persName ref="Toggwiler, Felix">söllen Felix</persName> <persName ref="Toggwiler, Heini">unnd Heinj</persName> die Toggwyler zu
                                                   Bonstetten uff marthinj.</p>
                                                   <p rend="margin-top">Summa zinß anno 1600 an gellt
                                                   65 pfund 8 schilling 6 heller.</p>
                                                   <p rend="margin-top">| [fol. 2r] Ingenommen zinß
                                                   anno 1600:</p>
-                                                  <p>35 pfund 10 schilling soll<persName ref="Baumann, Ludwig">Ludwig Bumann</persName><bm id="255"/> zů<placeName ref="Horgen, Arn">Arne</placeName>jnn der vogthyg Horgen vonn 710 pfund houptgutz
+                                                  <p>35 pfund 10 schilling soll <persName ref="Baumann, Ludwig">Ludwig
+                                                  Bumann</persName><bm id="255"/> zů <placeName ref="Horgen, Arn">Arne</placeName>
+                                                  jnn der vogthyg Horgen vonn 710 pfund houptgutz
                                                   uff marthinj.</p>
-                                                  <p>5 pfund Clein Hanns von Källen<note type="editorial"> Gemeint ist vielleicht Chelen,
-                                                  ein Hof in der Gemeinde Hirzel.</note><persName ref="Kälen, Kleinhans von"/> zů Arnne von 100
+                                                  <p>5 pfund Clein Hanns <note type="editorial"> Gemeint ist vielleicht Chelen,
+                                                  ein Hof in der Gemeinde Hirzel.</note><persName ref="Kälen, Kleinhans von">von Källen</persName> zů Arnne von 100
                                                   pfund houptgutz uff marthinj.</p>
-                                                  <p>64 pfund houptgutz, 3 pfund 4 schilling zinß vonn<persName ref="Widmer, Kaspar">Caspar Widmer</persName><bm id="256"/> von<placeName ref="Hedingen">Hedingen</placeName>, gfalt der zinß uff marthinj</p>
-                                                  <p>17 pfund<persName ref="Keller, Heini">söllend Heinj</persName>unnd Bläßj<persName ref="Keller, Bläsi">die Kellern</persName>zu
+                                                  <p>64 pfund houptgutz, 3 pfund 4 schilling zinß
+                                                  vonn <persName ref="Widmer, Kaspar">Caspar Widmer</persName><bm id="256"/> von <placeName ref="Hedingen">Hedingen</placeName>, gfalt der zinß uff marthinj</p>
+                                                  <p>17 pfund <persName ref="Keller, Heini">söllend Heinj</persName> unnd Bläßj <persName ref="Keller, Bläsi">die
+                                                  Kellern</persName> zu
                                                   Küchelhörj<note type="editorial"> Höri</note> von
                                                   340 pfund houptgutz uff marthinj.</p>
-                                                  <p>5 pfund soll<persName ref="Appenzeller, Rudolf">Růdolff Appenzeller</persName><bm id="257"/> zů<placeName ref="Höngg">Höngg</placeName>uff marthinj.</p>
-                                                  <p>5 pfund<persName ref="Bütschli, Hans">uff Hanns</persName><persName ref="Bütschli, Mathis">und Mathiß</persName>den Bütschlinen zů<placeName ref="Leimbach">Leymbach</placeName>uff wienecht.</p>
-                                                  <p>5 pfund 15 schilling uff<persName ref="Pur, Heini">Heinj Puren</persName>zů<placeName ref="Höngg">Höngg</placeName>uff marthinj.</p>
+                                                  <p>5 pfund soll <persName ref="Appenzeller, Rudolf">Růdolff Appenzeller</persName><bm id="257"/> zů
+                                                  <placeName ref="Höngg">Höngg</placeName> uff marthinj.</p>
+                                                  <p>5 pfund <persName ref="Bütschli, Hans">uff Hanns</persName> <persName ref="Bütschli, Mathis">und Mathiß</persName>
+                                                  den Bütschlinen zů <placeName ref="Leimbach">Leymbach</placeName> uff wienecht.</p>
+                                                  <p>5 pfund 15 schilling uff <persName ref="Pur, Heini">Heinj Puren</persName> zů <placeName ref="Höngg">Höngg</placeName> uff marthinj.</p>
                                                   <p rend="margin-top">Summa diß blatts an houptgůt
                                                   64 pfund.</p>
                                                   <p>An zinsen vom [1]600isten 76 pfund 9
@@ -166,63 +187,98 @@
                                                   <p>Unnd so nun houptgůt, zinß unnd das ynnemmen
                                                   allerleig zůsammen grechnet, bringt es jn einer
                                                   summa an gellt 5084 pfund 11 schilling.</p>
-                                                  <p rend="margin-top">Dißere jerrlichen zinß meerend sich diß jars gegen der verndrigen rechnung umb 22 pfund 15 schilling, namlichen 17 pfund<persName ref="Keller, Heini">uff Heinj</persName><persName ref="Keller, Bläsi">unnd Bläßj</persName>den Kellern zů Küchelhörj unnd 5 pfund 15 schilling uff<persName ref="Pur, Heini">Heinj Puren</persName>zů<placeName ref="Höngg">Höngg</placeName>. Dargegen minderent sy sich umb 14 pfund, namlichen 10 pfund<persName ref="Edbrecht, Konrad">uff Cůnradt</persName><persName ref="Edbrecht, Hans">unnd Hanns</persName>den
-                                                  Edtbrachten zů<placeName ref="Affoltern am Albis">Affholtern</placeName>unnd 4 pfund uff<persName ref="Schürer, Jakob">Jacoben Schürer</persName>zů<placeName ref="Zwillikon">Zwillicken</placeName>, welliche beid zinß jr, myn gnedig herren,<persName ref="Sandmann, Hans">Hanßen Sandtmanns</persName>des
+                                                  <p rend="margin-top">Dißere jerrlichen zinß
+                                                  meerend sich diß jars gegen der verndrigen
+                                                  rechnung umb 22 pfund 15 schilling, namlichen 17
+                                                  pfund <persName ref="Keller, Heini">uff Heinj</persName>
+                                                  <persName ref="Keller, Bläsi">unnd Bläßj</persName> den
+                                                  Kellern zů Küchelhörj unnd 5 pfund 15 schilling
+                                                  uff <persName ref="Pur, Heini">Heinj Puren</persName> zů
+                                                  <placeName ref="Höngg">Höngg</placeName>. Dargegen minderent
+                                                  sy sich umb 14 pfund, namlichen 10 pfund <persName ref="Edbrecht, Konrad">uff
+                                                  Cůnradt</persName> <persName ref="Edbrecht, Hans">unnd
+                                                  Hanns</persName> den
+                                                  Edtbrachten zů <placeName ref="Affoltern am Albis">Affholtern</placeName> unnd 4 pfund uff
+                                                  <persName ref="Schürer, Jakob">Jacoben Schürer</persName> zů
+                                                  <placeName ref="Zwillikon">Zwillicken</placeName>, welliche
+                                                  beid zinß jr, myn gnedig herren, <persName ref="Sandmann, Hans">Hanßen
+                                                  Sandtmanns</persName> des
                                                   töüffer d’schwüstergite, als von dem dißer zinß
                                                   harkombt, sampt dem houptgůt uff versicherung
                                                   vermög hierumb ergangner urtheil ynnemmen
                                                   laßen.</p>
-                                                  <p>Es jst ouch von den 170 pfund, so<persName ref="Wüst, Jakob">meister Wüst</persName>selig soll
+                                                  <p>Es jst ouch von den 170 pfund, so <persName ref="Wüst, Jakob">meister
+                                                  Wüst</persName> selig soll
                                                   dheinen<note type="editorial"> keinen</note> zinß
                                                   jn ansechung, wyl das houptgůt nit zů erheben
                                                   grechnet.</p>
                                                   <p rend="margin-top">Item von den 90 pfund, so
-                                                  herr vogt Thumyßens<note type="editorial">
-                                                  Junghasn Thumysen</note><persName ref="Thumysen, Junghans"/> seligen erben by der
-                                                  vogthyg<placeName ref="Horgen">Horgen</placeName>an töüffer
+                                                  herr <note type="editorial">
+                                                  Junghasn Thumysen</note><persName ref="Thumysen, Junghans">vogt Thumyßens</persName> seligen erben by der
+                                                  vogthyg <placeName ref="Horgen">Horgen</placeName> an töüffer
                                                   gůt bezallen sollent ouch dehein zinß.</p>
                                                   <p rend="margin-top">| [fol. 3r] Dargegen volgt
                                                   myn ußgeben:</p>
-                                                  <p>50 pfund gab jch herren schwager amptmann zů<placeName ref="Rüti">Rüthj</placeName>, weliche jr myn
+                                                  <p>50 pfund gab jch herren schwager amptmann zů
+                                                  <placeName ref="Rüti">Rüthj</placeName>, weliche jr myn
                                                   gnedig herren jme als er umb das töüffer gůt von
                                                   acht unnd nün und nüntzigisten jare rechnung geben
                                                   für syn deßhalber erlittne müyg vereert.</p>
                                                   <p>8 pfund hat herr schwager seckelmeister
                                                   Kamblj<note type="editorial"> Hans Kambli
-                                                  (1554-1621)<persName ref="Kambli, Hans (1554-1621)"/></note>uß bevelch üwer myner gnedigen herren<persName ref="Merckt, Andres">Andreßen Merckten</persName>von
-                                                  Ettingen uß<placeName ref="Mähren">Meerherren</placeName>anstatt<persName ref="Steger, Daniel">Daniel Stegers</persName>von<placeName ref="Heisch">Hengst</placeName>des töüffers kinden von den 200
+                                                  (1554-1621)<persName ref="Kambli, Hans (1554-1621)"/></note> uß bevelch
+                                                  üwer myner gnedigen herren <persName ref="Merckt, Andres">Andreßen
+                                                  Merckten</persName> von
+                                                  Ettingen uß <placeName ref="Mähren">Meerherren</placeName>
+                                                  anstatt <persName ref="Steger, Daniel">Daniel Stegers</persName> von <placeName ref="Heisch">Hengst</placeName> des töüffers kinden von den 200
                                                   pfund, so üch mynen gnedigen herren deßnocher
                                                   zůgefallen, darmit sy dan vermög der den 7ten may
                                                   anno 1600 hierumb beschechner urtheil jnn feernerm
                                                   abgewißen syn sollint.</p>
                                                   <p>280 pfund houptgůt, 24 pfund für zwen jar zinß,
-                                                  1 pfund 6 schilling costen hat mir herr schwager
-                                                  ambtmann zů<placeName ref="Rüti">Rüthj</placeName>uff<persName ref="Schürer, Jakob">Jacoben Schürer</persName>zů<placeName ref="Zwillikon">Zwilicken</placeName>unnd uff<persName ref="Edbrecht, Konrad">den Ebrechten</persName><persName ref="Edbrecht, Hans"/> zů<placeName ref="Affoltern am Albis">Affholtern</placeName>übergeben unnd yngrechnet, so von<persName ref="Sandmann, Hans">Hanßen Sandtmann</persName>dem töüffer harkombt. Weliche summa aber von üch, mynen gnedigen<persName ref="Sandmann, Heinrich">herren, Heinrich</persName><persName ref="Sandmann, Elsbetha">unnd Elsbetha</persName>den Sandtmannen synen
+                                                  1 pfund 6 schilling costen hat mir   <placeName ref="Rüti">herr</placeName> uff
+                                                  <persName ref="Schürer, Jakob">Jacoben Schürer</persName> zů
+                                                  <placeName ref="Zwillikon">Zwilicken</placeName> unnd uff <persName ref="Edbrecht, Konrad">den
+                                                  Ebrechten</persName><persName ref="Edbrecht, Hans">zů Rüthj</persName> zů
+                                                  <placeName ref="Affoltern am Albis">Affholtern</placeName>
+                                                  übergeben unnd yngrechnet, so von <persName ref="Sandmann, Hans">Hanßen
+                                                  Sandtmann</persName> dem
+                                                  töüffer harkombt. Weliche summa aber von üch,
+                                                  mynen gnedigen herren, Heinrich<persName ref="Sandmann, Heinrich">schwager
+                                                  ambtmann</persName> <persName ref="Sandmann, Elsbetha">unnd Elsbetha</persName> den Sandtmannen synen
                                                   geschwüstergiten uff versicherung zenutzen
                                                   übergeben luth eines hierumb uffgerichten
                                                   brieffs.</p>
                                                   <p rend="margin-top">Summa diß blatts an geltt 363
                                                   pfund 6 schilling.</p>
                                                   <p rend="margin-top">| [fol. 3v] Ußgebenn:</p>
-                                                  <p>46 pfund 10 schilling<persName ref="Keller, Heini">habent Heinj</persName>unnd Bläßj<persName ref="Keller, Bläsi">die Kellern</persName>zů<placeName ref="Höri">Hörj</placeName>uß bewilligung myner gnedigen herren<persName ref="Nespler, Elsa">Elßa Näsplern</persName>von den 386 pfund 10
+                                                  <p>46 pfund 10 schilling <persName ref="Keller, Heini">habent Heinj</persName> unnd Bläßj <persName ref="Keller, Bläsi">die
+                                                  Kellern</persName> zů
+                                                  <placeName ref="Höri">Hörj</placeName> uß bewilligung myner
+                                                  gnedigen herren <persName ref="Nespler, Elsa">Elßa Näsplern</persName> von den 386 pfund 10
                                                   schilling von jro har gefalnem töüffer gůt
                                                   widerumbe zuͦgestelt, darmit sy nun mehr umb zinß
                                                   unnd houptgůt abgefertiget unnd die überigen 340
                                                   pfund gmeiner statt uff behalten und zinßet
                                                   werdent.</p>
                                                   <p>30 pfund 19 schilling habent jr, myn gnedig
-                                                  herren, vermög der bekandtnus<note type="editorial"> Entscheidung, Urteil, vgl.
+                                                  herren, vermög <note type="editorial"> Entscheidung, Urteil, vgl.
                                                   http://fwb-online.de/go/bekenntnis.s.1fn_1732122555
-                                                  (Frühneuhochdeutsches Wörterbuch).</note><persName ref="Hegi, Ulrich">Ůlrichen Hägj</persName>für zwen zinß als 99 und 1600 von<persName ref="Eberli, Heini Uli">den Äberlinen</persName><persName ref="Eberli, Heinrich"/> uff Bůchen<placeName ref="Buchenegg">Egg</placeName>an den costen, so er syner
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> <persName ref="Hegi, Ulrich">Ůlrichen
+                                                  Hägj</persName> für zwen zinß
+                                                  als 99 und 1600 von <persName ref="Eberli, Heini Uli">den Äberlinen</persName><persName ref="Eberli, Heinrich">der bekandtnus</persName> uff Bůchen <placeName ref="Buchenegg">Egg</placeName> an den costen, so er syner
                                                   töüfferischen schwöster halben, von dero
                                                   ungehorsamme wegen dißers gůt har kombt, erlitten,
                                                   ynnemmen laßen und diewyl dieselben hievor jm
                                                   ynnemmen uff mich kommen, gepürendt mir somliche
                                                   alhar widerzmbe jns ußgeben zuschryben.</p>
-                                                  <p>6 pfund 10 schilling hat mir<persName ref="Keller, Heini">Heinj Keller</persName>an dem 1600isten jar zinß, so von syner bassen<persName ref="Nespler, Elsa">Elßa Näsplern</persName>der
+                                                  <p>6 pfund 10 schilling hat mir <persName ref="Keller, Heini">Heinj
+                                                  Keller</persName> an dem
+                                                  1600isten jar zinß, so von syner bassen <persName ref="Nespler, Elsa">Elßa
+                                                  Näsplern</persName> der
                                                   widertöüffern har kombt, jnbehalten und anzeigt,
                                                   das er dieselben angedüter syner bassen uß bevelch
-                                                  herren seckelmeister Eschers<note type="editorial">Hans Escher<persName ref="Escher vom Luchs, Hans">vom Luchs</persName></note>
+                                                  herren seckelmeister Eschers<note type="editorial"> Hans Escher <persName ref="Escher vom Luchs, Hans">vom Luchs</persName></note>
                                                   zugestelt.</p>
                                                   <p>1 pfund 10 schilling hab jch diß jar von den
                                                   yngebrachten zinßen thrinckgelt geben.</p>
@@ -235,54 +291,81 @@
                                                   pfund 16 schilling.</p>
                                                   <p rend="margin-top">Dißere summa zeigen unnd
                                                   bezallen jch volgender gestalt als namlichen:</p>
-                                                  <p>260 pfund houptgůt uff<persName ref="Bickel, Oswald">Oßwalden Bickel</persName>von<placeName ref="Affoltern am Albis">Affholtern</placeName>.</p>
-                                                  <p>200 pfund uff<persName ref="Hegi, Adam">Adamen Hägj</persName>von Hengst.</p>
-                                                  <p>180 pfund houptgůt, 9 pfund zinß anno 1600 uff<persName ref="Steli, Jaggli">Jaglj Stelj</persName>vonn<placeName ref="Lunnern">Lunnern</placeName>.</p>
-                                                  <p>50 pfund uff<persName ref="Gut, Melchior">Melchior Gůtten</persName>zů Nider<placeName ref="Unterlunnern">Lunnern</placeName>.</p>
-                                                  <p>162 pfund houptgůt, 8 pfund 10 schilling zinß an[nis] 99, [1]600 uff<persName ref="Kleiner, Jakob (alias Jos)">Jacoben Cleiner</persName>genant Joß zů<placeName ref="Mettmenstetten">Mettmenstetten</placeName>.</p>
-                                                  <p>180 pfund houptgůt, 9 pfund zinß anno 1600 uff<persName ref="Steli, Hans Rudolf">Hans Růdolff</persName><persName ref="Steli, Hans">und Hanns</persName>den
-                                                  Stelinen zů<placeName ref="Ottenbach">Ottenbach</placeName>.</p>
-                                                  <p>100 pfund houptgůt uff<persName ref="Stierli, Ůli">den Stierlinen</persName><persName ref="Stierli, Hans"/> zů Ottenbach.</p>
+                                                  <p>260 pfund houptgůt uff <persName ref="Bickel, Oswald">Oßwalden Bickel</persName> von <placeName ref="Affoltern am Albis">Affholtern</placeName>.</p>
+                                                  <p>200 pfund uff <persName ref="Hegi, Adam">Adamen Hägj</persName> von Hengst.</p>
+                                                  <p>180 pfund houptgůt, 9 pfund zinß anno 1600 uff
+                                                  <persName ref="Steli, Jaggli">Jaglj Stelj</persName> vonn
+                                                  <placeName ref="Lunnern">Lunnern</placeName>.</p>
+                                                  <p>50 pfund uff <persName ref="Gut, Melchior">Melchior Gůtten</persName> zů Nider <placeName ref="Unterlunnern">Lunnern</placeName>.</p>
+                                                  <p>162 pfund houptgůt, 8 pfund 10 schilling zinß
+                                                  an[nis] 99, [1]600 uff <persName ref="Kleiner, Jakob (alias Jos)">Jacoben Cleiner</persName> genant Joß zů
+                                                  <placeName ref="Mettmenstetten">Mettmenstetten</placeName>.</p>
+                                                  <p>180 pfund houptgůt, 9 pfund zinß anno 1600 uff
+                                                  <persName ref="Steli, Hans Rudolf">Hans Růdolff</persName>
+                                                  <persName ref="Steli, Hans">und Hanns</persName> den
+                                                  Stelinen zů <placeName ref="Ottenbach">Ottenbach</placeName>.</p>
+                                                  <p>100 pfund  <persName ref="Stierli, Ůli">den Stierlinen</persName><persName ref="Stierli, Hans">houptgůt uff</persName> zů Ottenbach.</p>
                                                   <p rend="margin-top">Summa an dem blatt an
                                                   houptgůt 1132 pfund, an zinßen 26 pfund 10
                                                   schilling.</p>
                                                   <p rend="margin-top">| [fol. 4v] Zaller:</p>
-                                                  <p>138 pfund houptgůt, 8 pfund 12 schilling nüw und alt zinß uff<persName ref="Bücheler, Hans">Hanßen Bücheler</persName>von<placeName ref="Mettmenstetten">Obermettmenstetten</placeName>.</p>
-                                                  <p>162 pfund houptgut, 44 pfund 19 schilling zinß<persName ref="Bär, Hans">Hanns Bär</persName>zů<placeName ref="Uerzlikon">Ürtzlicken</placeName>.</p>
-                                                  <p>108 pfund houptgůt uff<persName ref="Hurter, Jakob">den Hurttern</persName><persName ref="Hurter, Hans"/> zů Ürtzlicken.</p>
-                                                  <p>61 pfund houptguͦt, 3 pfund 6 schilling alt und nüw zinß<persName ref="Wyss, Heini">Heinj Wyß</persName>zů<placeName ref="Hedingen">Hedingen</placeName>.</p>
-                                                  <p>50 pfund houptgůt, 18 pfund 9 schilling zinß<persName ref="Lüssi, David">Davidt Lußj</persName>von<placeName ref="Hausen am Albis">Hußen</placeName>.</p>
-                                                  <p>20 pfund houptgůt uff<persName ref="Huber, Konrad">Cůnradten Hůber</persName>zů<placeName ref="Hausen am Albis, Wesenmatt">Weßenmatt</placeName>.</p>
-                                                  <p>26 pfund houptgůt uff<persName ref="Weidmann, Hans">Hanßen Weidmann</persName>zů<placeName ref="Affoltern (Zürich)">Affholtern</placeName>.</p>
-                                                  <p>43 pfund 10 schilling houptgůt, 8 pfund 10 schilling zinß<persName ref="Studer, Jakob">Jacob Studer</persName>der schnyder zů<placeName ref="Altstetten">Alstetten</placeName>.</p>
-                                                  <p>450 pfund houptgůt uff<persName ref="Eberli, Heini Uli">den Äberlinen</persName><persName ref="Eberli, Heinrich"/> uff Bůchen<placeName ref="Buchenegg">Egg</placeName>.</p>
-                                                  <p>300 pfund houptgůt uff<persName ref="Huber, Hans">Hanßen Hůber</persName>zů<placeName ref="Bonstetten">Bonstetten</placeName>.</p>
+                                                  <p>138 pfund houptgůt, 8 pfund 12 schilling nüw
+                                                  und alt zinß uff <persName ref="Bücheler, Hans">Hanßen Bücheler</persName> von
+                                                  <placeName ref="Mettmenstetten">Obermettmenstetten</placeName>.</p>
+                                                  <p>162 pfund houptgut, 44 pfund 19 schilling zinß
+                                                  <persName ref="Bär, Hans">Hanns Bär</persName> zů
+                                                  <placeName ref="Uerzlikon">Ürtzlicken</placeName>.</p>
+                                                  <p>108 pfund  <persName ref="Hurter, Jakob">den Hurttern</persName><persName ref="Hurter, Hans">houptgůt uff</persName> zů Ürtzlicken.</p>
+                                                  <p>61 pfund houptguͦt, 3 pfund 6 schilling alt und
+                                                  nüw zinß <persName ref="Wyss, Heini">Heinj Wyß</persName> zů
+                                                  <placeName ref="Hedingen">Hedingen</placeName>.</p>
+                                                  <p>50 pfund houptgůt, 18 pfund 9 schilling zinß
+                                                  <persName ref="Lüssi, David">Davidt Lußj</persName> von
+                                                  <placeName ref="Hausen am Albis">Hußen</placeName>.</p>
+                                                  <p>20 pfund houptgůt uff <persName ref="Huber, Konrad">Cůnradten Hůber</persName> zů <placeName ref="Hausen am Albis, Wesenmatt">Weßenmatt</placeName>.</p>
+                                                  <p>26 pfund houptgůt uff <persName ref="Weidmann, Hans">Hanßen Weidmann</persName> zů <placeName ref="Affoltern (Zürich)">Affholtern</placeName>.</p>
+                                                  <p>43 pfund 10 schilling houptgůt, 8 pfund 10
+                                                  schilling zinß <persName ref="Studer, Jakob">Jacob Studer</persName> der schnyder zů
+                                                  <placeName ref="Altstetten">Alstetten</placeName>.</p>
+                                                  <p>450 pfund  <persName ref="Eberli, Heini Uli">den Äberlinen</persName><persName ref="Eberli, Heinrich">houptgůt uff</persName> uff Bůchen <placeName ref="Buchenegg">Egg</placeName>.</p>
+                                                  <p>300 pfund houptgůt uff <persName ref="Huber, Hans">Hanßen Hůber</persName> zů <placeName ref="Bonstetten">Bonstetten</placeName>.</p>
                                                   <p>100 pfund houptgůt, 5 pfund zinß [1]600
-                                                  Felix<persName ref="Toggwiler, Felix"/><persName ref="Toggwiler, Heini">unnd Heinj</persName>die
-                                                  Toggwyllern zů<placeName ref="Bonstetten">Bonstetten</placeName>.</p>
-                                                  <p>710 pfund houptgůt, 41 pfund 4½ schilling zinß<persName ref="Baumann, Ludwig">Ludwig Bumann</persName>zů<placeName ref="Horgen, Arn">Arne</placeName>jn der vogthyg
+                                                  Felix<persName ref="Toggwiler, Felix"/> <persName ref="Toggwiler, Heini">unnd
+                                                  Heinj</persName> die
+                                                  Toggwyllern zů <placeName ref="Bonstetten">Bonstetten</placeName>.</p>
+                                                  <p>710 pfund houptgůt, 41 pfund 4½ schilling zinß
+                                                  <persName ref="Baumann, Ludwig">Ludwig Bumann</persName> zů
+                                                  <placeName ref="Horgen, Arn">Arne</placeName> jn der vogthyg
                                                   Horgen.</p>
                                                   <p rend="margin-top">Summa diß blatts an houptgůt
                                                   2148 pfund 10 schilling, an zinß 130 pfund 6
                                                   heller.</p>
                                                   <p rend="margin-top">| [fol. 5r] Zallung:</p>
-                                                  <p>100 pfund houptgůt Clein Hanns von Kallen<note type="editorial"> Gemeint ist vielleicht Chelen,
-                                                  ein Hof in der Gemeinde Hirzel</note><persName ref="Kälen, Kleinhans von"/> zů<placeName ref="Horgen, Arn">Arnne</placeName>.</p>
-                                                  <p>44 pfund houptgůt, 6 pfund 8 schilling für 2 zinß<persName ref="Widmer, Kaspar">Caspar Widmer</persName>zů<placeName ref="Hedingen">Hedingen</placeName>, soll ein
+                                                  <p>100 pfund houptgůt Clein Hanns <note type="editorial"> Gemeint ist vielleicht Chelen,
+                                                  ein Hof in der Gemeinde Hirzel</note><persName ref="Kälen, Kleinhans von">von Kallen</persName> zů <placeName ref="Horgen, Arn">Arnne</placeName>.</p>
+                                                  <p>44 pfund houptgůt, 6 pfund 8 schilling für 2
+                                                  zinß <persName ref="Widmer, Kaspar">Caspar Widmer</persName>
+                                                  zů <placeName ref="Hedingen">Hedingen</placeName>, soll ein
                                                   breiff hierumb gmacht werden.</p>
-                                                  <p>340 pfund houptgůt<persName ref="Keller, Heini">uff Heinj</persName><persName ref="Keller, Bläsi">unnd Bläßj</persName>den Kellern zů
+                                                  <p>340 pfund  <persName ref="Keller, Heini">uff Heinj</persName> <persName ref="Keller, Bläsi">unnd Bläßj</persName> den Kellern zů
                                                   Küchelhörj<note type="editorial">
-                                                  Höri</note><placeName ref="Höri"/>.</p>
-                                                  <p>100 pfund uff<persName ref="Rütschi, Heinrich">Heinrichen Rütschj</persName>zů<placeName ref="Höngg">Höngg</placeName>, hat vor<persName ref="Appenzeller, Rudolf">Růdolff Appenzeller</persName>söllen.</p>
-                                                  <p>100 pfund houptgůt, 5 pfund zinß vom 1600<persName ref="Bütschli, Hans">uff Hanns</persName><persName ref="Bütschli, Mathis">unnd Mathyß</persName>den
-                                                  Bütschlinen zů<placeName ref="Leimbach">Leymbach</placeName>.</p>
-                                                  <p>115 pfund houptgůt uff<persName ref="Pur, Heini">Heinj Puren</persName>zů<placeName ref="Höngg">Höngg</placeName>.</p>
-                                                  <p>90 pfund houptgůt uff herren vogt
-                                                  Thumyßens<note type="editorial"> Junghans
-                                                  Thumysen</note><persName ref="Thumysen, Junghans"/> seligen erben.</p>
-                                                  <p>170 pfund houptgůt uff meister<persName ref="Wüst, Jakob">Jacob Wüsten</persName>selligen
+                                                  Höri</note><placeName ref="Höri">houptgůt</placeName>.</p>
+                                                  <p>100 pfund uff <persName ref="Rütschi, Heinrich">Heinrichen Rütschj</persName> zů <placeName ref="Höngg">Höngg</placeName>, hat vor <persName ref="Appenzeller, Rudolf">Růdolff
+                                                  Appenzeller</persName>
+                                                  söllen.</p>
+                                                  <p>100 pfund houptgůt, 5 pfund zinß vom 1600 <persName ref="Bütschli, Hans">uff
+                                                  Hanns</persName> <persName ref="Bütschli, Mathis">unnd
+                                                  Mathyß</persName> den
+                                                  Bütschlinen zů <placeName ref="Leimbach">Leymbach</placeName>.</p>
+                                                  <p>115 pfund houptgůt uff <persName ref="Pur, Heini">Heinj Puren</persName> zů <placeName ref="Höngg">Höngg</placeName>.</p>
+                                                  <p>90 pfund houptgůt uff herren <note type="editorial"> Junghans
+                                                  Thumysen</note><persName ref="Thumysen, Junghans">vogt
+                                                  Thumyßens</persName> seligen erben.</p>
+                                                  <p>170 pfund houptgůt uff meister <persName ref="Wüst, Jakob">Jacob
+                                                  Wüsten</persName> selligen
                                                   erben.</p>
-                                                  <p>80 pfund houptgůt uff<persName ref="Bleuler, Heinrich">Heinrichen Blüwler</persName><bm id="258"/> zů<placeName ref="Zollikon">Zollicken</placeName><bm id="259"/> hab jch jme verschines meyens diß
+                                                  <p>80 pfund houptgůt uff <persName ref="Bleuler, Heinrich">Heinrichen
+                                                  Blüwler</persName><bm id="258"/> zů <placeName ref="Zollikon">Zollicken</placeName><bm id="259"/> hab jch jme verschines meyens diß
                                                   1601. jars von den yngenommnen zinß umb gepürliche
                                                   verzinßung fürgesetzt.</p>
                                                   <p rend="margin-top">Summa diß blatts an houptgůt
@@ -302,15 +385,22 @@
                                                   geben unnd habent myn herren, die rechenherren,
                                                   daran ein gůt vernügen gehept unnd mir darby 25
                                                   pfund für myn gehepte müyg verordnet.</p>
-                                                  <p>Actum ut supra pr[aesen]t[ibus] herr<persName ref="Keller, Hans">burgemeister Keller</persName>unnd veordnete rechenherren.</p>
+                                                  <p>Actum ut supra pr[aesen]t[ibus] herr
+                                                  <persName ref="Keller, Hans">burgemeister Keller</persName>
+                                                  unnd veordnete rechenherren.</p>
                                                   <p>S[alve] reverende ac doctissime d[omine]
                                                   decane, cum nuper querelas de anabaptistis quas ex
                                                   me in coetu fratrum audivisti literis mandate mihi
                                                   iniungeris id nunc paucis expedire volui. Furor
                                                   anabaptistarum huius parochiæ eo exarsit ut
-                                                  coniugia sua<note type="critical">Folgt
-                                                  gestrichen: in</note>non in conspectu christianæ ecclesiæ, pro veteri et laudato more, sed in clandestinis suis conventiculis confirmari et consecrari curent. Si quidem nuper<persName ref="Egli, Ulrich">Huldricus Eglinus</persName>Büelensis<note type="editorial">
-                                                  Büel</note><placeName ref="Wald, Büel"/> huius
+                                                  coniugia <note type="critical">Folgt
+                                                  gestrichen: in</note> non in conspectu christianæ
+                                                  ecclesiæ, pro veteri et laudato more, sed in
+                                                  clandestinis suis conventiculis confirmari et
+                                                  consecrari curent. Si quidem nuper <persName ref="Egli, Ulrich">Huldricus
+                                                  Eglinus</persName>
+                                                  Büelensis<note type="editorial">
+                                                  Büel</note><placeName ref="Wald, Büel">sua</placeName> huius
                                                   sectae assecta nuptias suas cum ancilla in coetu
                                                   anabaptistico celebravit; et cum a super
                                                   intendentibus sive morum censoribus huius
@@ -340,26 +430,35 @@
                                                   <p>Io[annes] Henricus Schinzius, ecclesiastes
                                                   Waldensis.</p>
                                                   <p rend="margin-top">Reverendo et clarissimo viro
-                                                  d[omino] Hartmanno Hambergero, ecclesiæ quæ est<placeName ref="Dürnten">Tünrati</placeName>ministro
+                                                  d[omino] Hartmanno Hambergero, ecclesiæ quæ est
+                                                  <placeName ref="Dürnten">Tünrati</placeName> ministro
                                                   fidelissimo vicinarumque decano, domino suo
                                                   reverenter colendo.</p>
                                                   <p>S[alve]. Nachdem getrüwe unnd vilfaltige
                                                   warnungen, so näbendt der kantzel an die
-                                                  kybigen<note type="editorial"> eigensinnig,
+                                                  <note type="editorial"> eigensinnig,
                                                   boshaft, zänkisch, Id. III, 108.</note>,
                                                   widerspenigen unnd unruͤwigen thoüfferbruͤder, jn
                                                   der Hinnwyler barchj<note type="editorial">
                                                   Pfarrei, Id. IV, 1535.</note> gesässen, namlich
                                                   unnd sonderlich den kybigen thoüffer müller uff
-                                                  Ohrn<note type="editorial"> Orn</note><placeName ref="Hinwil, Orn"/> genampt unnd näbendt jmme ouch
-                                                  den anderen zů<placeName ref="Hadlikon">Hadlikon</placeName>zum theil mündtlich von mir, dem pfarrer, zum
+                                                  Ohrn<note type="editorial"> Orn</note><placeName ref="Hinwil, Orn">kybigen</placeName> genampt unnd näbendt jmme ouch
+                                                  den anderen zů <placeName ref="Hadlikon">Hadlikon</placeName>
+                                                  zum theil mündtlich von mir, dem pfarrer, zum
                                                   theil aber unnd mehrmaals durch die verordneten
                                                   ehegoumer<note type="editorial"> Vertreter der
                                                   Sittenzucht, Id. II, 304.</note> mitt großem ernst
                                                   uff eines e[rsamen] herren obervogts befälch unnd
                                                   gheiß hin beschähen, so wenig verfangen unnd
                                                   bracht, daß sy, die thoüffer, über alles so
-                                                  bschähen sich offendtlich unnd gantz fräffner<note type="editorial"> dreist, Id. I, 1286.</note>wyß dem hochen gwalt einer ckristenlichen eersammen oberkeit widersetzen und gantz trützliche unnd verachtliche spitz wortt der sälbigen entgägen bietten dörffen, jn dem sy besonders aber unnd mitt namen der unbändig schwatzman uff Ohrn,<persName ref="Leutenegger, Jörg">Görg Lüttenegger</persName>genampt, durch einen der eegoumeren an mich, den
+                                                  bschähen sich offendtlich unnd gantz fräffner<note type="editorial"> dreist, Id. I, 1286.</note> wyß
+                                                  dem hochen gwalt einer ckristenlichen eersammen
+                                                  oberkeit widersetzen und gantz trützliche unnd
+                                                  verachtliche spitz wortt der sälbigen entgägen
+                                                  bietten dörffen, jn dem sy besonders aber unnd
+                                                  mitt namen der unbändig schwatzman uff Ohrn, <persName ref="Leutenegger, Jörg">Görg
+                                                  Lüttenegger</persName>
+                                                  genampt, durch einen der eegoumeren an mich, den
                                                   predickanten zů Hinnwyl, gantz trutzglich<note type="editorial"> trotzig, spottend, frech, Id.
                                                   XIV, 1678f.</note> gohn laßen. Wie daß jch nuhn
                                                   mehr offtmals sälbs ghört, daß weder er,
@@ -406,14 +505,21 @@
                                                   ecclesiae Hinnwylensis pastor s[crib]s[i]t</p>
                                                   <p>Als mir verschinen 8 tag den 30. jenners von
                                                   gloubwürdigen lüthen kundt gethon, wie die
-                                                  Spörinen hinder Gryffenberg<note type="editorial">
-                                                  Greifenberg</note><placeName ref="Greifenberg"/>,
+                                                  Spörinen hinder <note type="editorial">
+                                                  Greifenberg</note><placeName ref="Greifenberg">Gryffenberg</placeName>,
                                                   gebrüder, töüfferischer sect anhengige lüth, ein
                                                   argwhönigen touffbruͤder by inen
                                                   uffenthaltind<note type="editorial"> Unterkunft
                                                   geben, beherbergen, Id. II, 1231.</note>,
                                                   wellicher sie<note type="critical">Folgt
-                                                  gestrichen: in</note>understande in irer angefengten und iez lang gewärten widerspenigkeit zestercken, ouch in schriben und läßen anzefuͤren, bin ich verursacht worden, selb persönlich mit<persName ref="Hess, Benedikt">Benedict Hessen</persName>dem eegoumer dahin zekeeren und disen handel im grund zevernemmen. Derowegen anfangs zů<persName ref="Spöri, Jakob">Jacob Spörj</persName>(wellicher
+                                                  gestrichen: in</note> understande in irer
+                                                  angefengten und iez lang gewärten widerspenigkeit
+                                                  zestercken, ouch in schriben und läßen anzefuͤren,
+                                                  bin ich verursacht worden, selb persönlich mit
+                                                  <persName ref="Hess, Benedikt">Benedict Hessen</persName>
+                                                  dem eegoumer dahin zekeeren und disen handel im
+                                                  grund zevernemmen. Derowegen anfangs zů <persName ref="Spöri, Jakob">Jacob
+                                                  Spörj</persName> (wellicher
                                                   bißhar glichsnerischer<note type="editorial">
                                                   heuchlerischer</note> wyß als ein ambidexter<note type="editorial"> Beidhänder</note> uff beiden
                                                   achslen getragen und etwan ouch zů uns zur kilchen
@@ -493,8 +599,8 @@
                                                   das toüffisch gifft in mengklichen zeschießen, wie
                                                   sie den schon allbereit etlich in der pfarr uff ir
                                                   parth gebracht, die zů iren predigen uff
-                                                  Dunckelwyß<note type="editorial"> Dunkelwis, Hof
-                                                  in der Gemeinde Bäretswil</note><placeName ref="Bäretswil, Dunkelwis"/> strychen<note type="critical">Folgt gestrichen: well</note>
+                                                  <note type="editorial"> Dunkelwis, Hof
+                                                  in der Gemeinde Bäretswil</note><placeName ref="Bäretswil, Dunkelwis">Dunckelwyß</placeName> strychen<note type="critical">Folgt gestrichen: well</note>
                                                   (deren etlich, wo es unser g[nedig] herren
                                                   begeren, ich wol weiß zeer­nampsen), das alles zů
                                                   abbruch der offnen predigen göttliches worts und
@@ -520,10 +626,13 @@
                                                   lestergeister geschirmpt werde. Den 6. februarij
                                                   anno 1601.<note type="critical">Eine Unterschrift
                                                   fehlt.</note></p>
-                                                  <p>Vogt zu Grüningen<note type="editorial">Hans<persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note><placeName ref="Grüningen"/>soll<persName ref="Leutenegger, Jörg">Jörgen Luttenegger</persName>, den<note type="critical">«Lüttenegger den» am Rand, in der
+                                                  <p>Vogt zu <note type="editorial"> Hans
+                                                  <persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note><placeName ref="Grüningen">Grüningen</placeName> soll <persName ref="Leutenegger, Jörg">Jörgen Luttenegger</persName>, den<note type="critical">«Lüttenegger den» am Rand, in der
                                                   Zeile gestrichen: Otten</note> müller, den
-                                                  wider­toüf­fer ußem<placeName ref="Thurgau">Turgouw</placeName>, so sich jetzo uff<placeName ref="Hinwil, Orn">Orn</placeName>endthalten<note type="editorial"> sich aufhalten, wohnen, Id. II,
-                                                  1230.</note>soll, und<persName ref="Bertschinger, Hans">Heynne Bertschickern</persName>jm<placeName ref="Fischenthal">Vischenthal</placeName>als
+                                                  wider­toüf­fer ußem <placeName ref="Thurgau">Turgouw</placeName>, so sich jetzo uff <placeName ref="Hinwil, Orn">Orn</placeName> endthalten<note type="editorial"> sich aufhalten, wohnen, Id. II,
+                                                  1230.</note> soll, und <persName ref="Bertschinger, Hans">Heynne
+                                                  Bertschickern</persName>
+                                                  jm <placeName ref="Fischenthal">Vischenthal</placeName> als
                                                   rechte ufrüerer gefengclichen jnnzüchen laßen unnd
                                                   mynen h[erre]n zůschicken.</p>
                                                   <p>1. Der töufferen anhenger uff der landtschafft
@@ -555,7 +664,8 @@
                                                   gefangnen töufferen fürschub<note type="editorial"> Beihilfe, Id. VIII, 84.</note> thůn sol und sie
                                                   bey irem gefaßten wahn nur dapffer<note type="critical">«nur dapffer» fehlt in
                                                   Original 2</note> zůverharren stercken.</p>
-                                                  <p>5. Ein<persName ref="Kägi, N.">junger Kägi</persName>im<placeName ref="Fischenthal">Fischenthal</placeName>hat
+                                                  <p>5. Ein <persName ref="Kägi, N.">junger Kägi</persName> im
+                                                  <placeName ref="Fischenthal">Fischenthal</placeName> hat
                                                   geredt, er wölte lieber an den galgen den in die
                                                   kirchen gefuͤrt werden, ouch lieber under den
                                                   galgen dan in den kirchhoff begraben ligen<note type="critical">«ouch lieber … ligen» fehlt in
@@ -600,10 +710,13 @@
                                                   redliche kirchendiener so wol in statt als uff der
                                                   landtschafft zůschmähen und zůlesteren und
                                                   sonderlich die in dem herren entschlaffen, als den
-                                                  sonderlich<note type="critical">Original 2:
+                                                  <note type="critical">Original 2:
                                                   fürnemlich (statt «sonderlich»)</note> houptman
                                                   Müllers zů Eticken<note type="editorial">
-                                                  Edikon</note><placeName ref="Edikon"/><persName ref="Müller, N. (Sohn des Hauptmann)">eelicher sohn</persName>gethon, wellicher von m[eister]<persName ref="Bullinger, Heinrich (1504-1575)">Heinrichen Bullingern</persName>seeliger
+                                                  Edikon</note><placeName ref="Edikon">sonderlich</placeName> <persName ref="Müller, N. (Sohn des Hauptmann)">eelicher
+                                                  sohn</persName> gethon,
+                                                  wellicher von m[eister] <persName ref="Bullinger, Heinrich (1504-1575)">Heinrichen
+                                                  Bullingern</persName> seeliger
                                                   gedechtnus<note type="critical">Original 2:
                                                   seeligen (statt «selliger gedechtnus»)</note>
                                                   offentlich ußgeben, er sige ein weltmann geweßen
@@ -621,16 +734,19 @@
                                                   christlichen oberkeit ab, machen dieselbigen
                                                   zwiffel glöubig, unrichtig, das sy nit wüssen,
                                                   woran sie sind.</p>
-                                                  <p>11.<persName ref="Corrodi, Kleinjörg">Cleinjörg Corradj</persName>zů Letenmaaß<note type="editorial"> Lettenmoos</note><placeName ref="Dürnten, Lettenmoos"/> hat geredt<note type="critical">Original 2: gesagt</note>, wan man
+                                                  <p>11. <persName ref="Corrodi, Kleinjörg">Cleinjörg Corradj</persName> zů Letenmaaß<note type="editorial"> Lettenmoos</note><placeName ref="Dürnten, Lettenmoos"/> hat geredt<note type="critical">Original 2: gesagt</note>, wan man
                                                   in der pfarr Türnten<note type="editorial">
                                                   Dürnten</note> meeren<note type="editorial">
                                                   abstimmen, Id. IV, 371f.</note> sölte, wurde
-                                                  houptman Müller zů<placeName ref="Edikon">Eticken</placeName>sohn, der ein widertöuffer ist, mer byfals
+                                                  houptman Müller zů <placeName ref="Edikon">Eticken</placeName> sohn, der ein widertöuffer ist, mer byfals
                                                   haben dan herr dechan Hamberger<note type="editorial"> Hartmann Hamberger</note>, der
                                                   dan<note type="critical">Original 2: doch</note>
                                                   siner leer und lebens halb bißhar uff sin höchst
                                                   alter unklagbar wol sich gehalten.</p>
-                                                  <p>12. Sie machen uns[ern] g[nedigen] herren underthonen ungehorsam, als dan<persName ref="Streler, Kleinuli">Cleinůlj Sträler</persName>im<placeName ref="Wald, Aatal">Aathal</placeName>gethon,
+                                                  <p>12. Sie machen uns[ern] g[nedigen] herren
+                                                  underthonen ungehorsam, als dan <persName ref="Streler, Kleinuli">Cleinůlj
+                                                  Sträler</persName> im
+                                                  <placeName ref="Wald, Aatal">Aathal</placeName> gethon,
                                                   wellicher in einem eehandel ein weibsperson
                                                   uffgewißen<note type="editorial"> zu etwas
                                                   anstiften, verleiten, Id. XVI, 1939.</note>, sie
@@ -640,11 +756,13 @@
                                                   behaußung muͤssen wandlen, die gemein landtstraaß
                                                   vermiden, damit sie von dem predicanten nit
                                                   befraget werde.</p>
-                                                  <p>13. Obgedachter<note type="critical">Folgt in
-                                                  Original 2: Cleinůly</note>Sträler hat zů<persName ref="Glatthaar, Samuel">Samuel Glathaaren</persName>seeligen zů Wald<note type="critical">Original 2:
+                                                  <p>13. <note type="critical">Folgt in
+                                                  Original 2: Cleinůly</note> Sträler hat zů <persName ref="Glatthaar, Samuel">Samuel
+                                                  Glathaaren</persName>
+                                                  seeligen zů Wald<note type="critical">Original 2:
                                                   zů Wald hat zů Samuel Glathaaren seeligen zů Wald
                                                   (statt «hat zů Samuel Glathaaren seeligen zů
-                                                  Wald»)</note><placeName ref="Wald"/> sohn<note type="editorial"> Vielleicht Samuel Glatthar, der
+                                                  Wald»)</note><placeName ref="Wald">Obgedachter</placeName> sohn<note type="editorial"> Vielleicht Samuel Glatthar, der
                                                   am 5. Februar 1598 Küngolt Müller, Tochter des
                                                   Fischenthaler Pfarrers Beat Felix Müller heiratete
                                                   (vgl. StAZH, E III 133.1, EDB 351).</note> geredt,
@@ -653,7 +771,7 @@
                                                   Ob er inen muͤsse helffen strecken<note type="editorial"> auf die Folter spannen (im
                                                   wörtlichen Sinn)</note>, samm die predicanten
                                                   scharpffrichter und henncker werind?</p>
-                                                  <p>14.<persName ref="Streler, Grosshans">Großhanns Strälers</persName>des wider­toüf­fers
+                                                  <p>14. <persName ref="Streler, Grosshans">Großhanns Strälers</persName> des wider­toüf­fers
                                                   sohn zů<note type="critical">Original 2: in der
                                                   pfarr (statt «zů»)</note> Wald | [fol. 2r] hat im
                                                   brauch, den pfarrer daselbst, wan er mit gottes
@@ -665,25 +783,30 @@
                                                   widertöufferen</note> gönstig, als die lieber
                                                   sehind, das man an der cantzlen allderings iren
                                                   geschwige.</p>
-                                                  <p>15. Was anlangt<persName ref="Leutenegger, Jörg">Georgen Lautenegcker</persName>ab Horn<note type="editorial"> Orn</note><placeName ref="Hinwil, Orn"/> uß der pfarr Hünwyl, thůt er
+                                                  <p>15. Was  <persName ref="Leutenegger, Jörg">Georgen Lautenegcker</persName> ab Horn<note type="editorial"> Orn</note><placeName ref="Hinwil, Orn">anlangt</placeName> uß der pfarr Hünwyl, thůt er
                                                   wider sin gegeben urfech, da die bestimbte
                                                   monatszeit fürüber, er aber nit weichen wil und
                                                   kompt teglich vill volck, der töuffery anhengig,
                                                   zů im, welliches er zur ungehorsamme zereitzen nit
                                                   scheücht.</p>
                                                   <p>16. So hat des gefangnen wagners<note type="critical">«wagners» fehlt in der Vorlage,
-                                                  ergänzt nach Original 2</note> von<placeName ref="Hadlikon">Hatlicken</placeName>sohn geredt,
+                                                  ergänzt nach Original 2</note> von
+                                                  <placeName ref="Hadlikon">Hatlicken</placeName> sohn geredt,
                                                   ee er wölte sinen vatter von sinem gefaßten wohn
                                                   abmannen, er wölt in ee taussend mal darin
                                                   stercken, dan er wüsse, das er recht daran sige
                                                   etc.</p>
-                                                  <p><placeName ref="Wetzikon">Wetzikommer</placeName>capitel<note type="critical">«Wetzikommer capitel»
+                                                  <p><placeName ref="Wetzikon">Wetzikommer</placeName>
+                                                  capitel<note type="critical">«Wetzikommer capitel»
                                                   am Rand</note>:</p>
-                                                  <p>Erklagt sich der widerteufferen halber. Vor einem halben jar, hat<persName ref="Egli, N.">N. Egli</persName>die ee bezogen mit siner magt,
-                                                  die aber nach<note type="editorial"> noch</note>nie ordentlicher wys bestetet.<persName ref="Oberholzer, N.">N. Oberholtzer</persName>hat
+                                                  <p>Erklagt sich der widerteufferen halber. Vor
+                                                  einem halben jar, hat N. Egli<persName ref="Egli, N."/> die ee bezogen mit siner magt,
+                                                  die aber nach<note type="editorial"> noch</note>
+                                                  nie ordentlicher wys bestetet. N.
+                                                  Oberholtzer<persName ref="Oberholzer, N."/> hat
                                                   ein wyb genommen, hochzyt gehalten, hat aber der
                                                   selbigen kein eeliche bywonung nie gethon. Hat
-                                                  über das den teufferen uß<placeName ref="Mähren">Moravia</placeName>9 gulden<note type="critical">In
+                                                  über das den teufferen uß <placeName ref="Mähren">Moravia</placeName> 9 gulden<note type="critical">In
                                                   der Vorlage: fl.</note> gäben, dz sy disere syn
                                                   frow hinwëg fuͤrind. Welches dann ouch
                                                   beschähen.</p>
@@ -694,13 +817,20 @@
                                                   in der Vorlage lautet: «Uß dem synodo jm meyen
                                                   a[nn]o 1601, jst für myn gnedig herren
                                                   gewißen».</note>:</p>
-                                                  <p>Von dem<placeName ref="Wetzikon">Wetzikommer</placeName>capitel unnd anderen predicanten mehr wirt
+                                                  <p>Von dem <placeName ref="Wetzikon">Wetzikommer</placeName>
+                                                  capitel unnd anderen predicanten mehr wirt
                                                   anzeigt, das die sect der wider­toüf­fern je
-                                                  lenger je mehr zůnemme, sonderlichen jm hof<placeName ref="Wald">Wald</placeName>. Do kurtzlich vil sich
+                                                  lenger je mehr zůnemme, sonderlichen jm hof
+                                                  <placeName ref="Wald">Wald</placeName>. Do kurtzlich vil sich
                                                   zesammen gerottet, under denen etliche der
                                                   fürnemmen, denen mans nit truwte und noch heimlich
                                                   sygen. Die geltbůßen bschüßind<note type="editorial"> ausreichen, fruchten, Id. VIII,
-                                                  1414.</note>nüdt mehr. Sy gebind jerlich etwan bůßen, trybind aber nun spott darmit und sagind, es sye unsern herren nur umbs gelt zethůn. Item, sy müßind aber zum vogt und jre frowen empfachen etc., welliches alles jnn schrift verzeichnet, so herr<persName ref="Hamberger, Hartmann">dechan Hamberger</persName>(die aber jetzt
+                                                  1414.</note> nüdt mehr. Sy gebind jerlich etwan
+                                                  bůßen, trybind aber nun spott darmit und sagind,
+                                                  es sye unsern herren nur umbs gelt zethůn. Item,
+                                                  sy müßind aber zum vogt und jre frowen empfachen
+                                                  etc., welliches alles jnn schrift verzeichnet, so
+                                                  herr <persName ref="Hamberger, Hartmann">dechan Hamberger</persName> (die aber jetzt
                                                   nit<note type="critical">«nit» über der
                                                   Zeile</note> alhie jst) by handen und dasselbig
                                                   synem anzeigen nach alhar geschickt habe.<note type="editorial"> Gemeint ist vermutlich Nr. 546.
@@ -713,7 +843,8 @@
                                                   <p>Es wirt ouch gemeldet, das stedts ufwigler ußem
                                                   land ufhin kommind, die ohn alles schüchen jnn
                                                   myner herren gepiet umbhin wandlint. Unnd sye
-                                                  einer jm hof Wald jm<placeName ref="Wald, Niderholz">Niderholtz</placeName>, genannt<persName ref="Streler, N.">der Streler</persName>, der welle
+                                                  einer jm hof Wald jm <placeName ref="Wald, Niderholz">Niderholtz</placeName>, genannt <persName ref="Streler, N.">der
+                                                  Streler</persName>, der welle
                                                   jnn acht tagen wider hinweg züchen und ohne zwyfel
                                                   volck mit jm führen.</p>
                                                   </div>

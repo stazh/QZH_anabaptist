@@ -80,7 +80,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Dem vogt zů Gruͤningen<note type="editorial">Jakob<persName ref="Zur Eich, Jakob">Zur Eich</persName></note><placeName ref="Grüningen"/> jst es<note type="editorial"> Nämlich Hansmann Erzinger und
+      <div><p>Dem vogt zů Gruͤ<note type="editorial">
+                                                  Jakob <persName ref="Zur Eich, Jakob">Zur Eich</persName></note><placeName ref="Grüningen">ningen</placeName> jst es<note type="editorial"> Nämlich Hansmann Erzinger und
                                                   dessen Konkubine zu verhaften, vgl.
                                                   Nr. 627.</note> abermaln zůgschriben worden, den
                                                   letsten jenner 1607.</p>

@@ -81,8 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Grüningen">Gruͤningen</placeName><note type="editorial"> Hans Heinrich
-                                                  Clauser</note> schryben, gegen deß Strelers zů<placeName ref="Wald">Wald</placeName>wyb<persName ref="Streler, N."/>, die der toüferischen sect
+      <div><p>Vogt zů Gruͤ<placeName ref="Grüningen">ningen</placeName><note type="editorial"> Hans Heinrich
+                                                  Clauser</note> schryben, gegen deß Strelers zů
+                                                  <placeName ref="Wald">Wald</placeName> wyb<persName ref="Streler, N."/>, die der toüferischen sect
                                                   anhengig und die ee nit mit dem kilchgang
                                                   bestetigen will, nützit fürzenemmen, biß sy deß
                                                   kindts genäßen unnd uß der kindbette jst. Als dann

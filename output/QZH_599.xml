@@ -78,9 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Actum mittwuchs den 17ten novembris anno etc. 91 p[raese]nt[ibu]s herr<persName ref="Grossmann, Konrad">burgermeister Großman</persName>unnd
+      <div><p>Actum mittwuchs den 17ten novembris anno etc.
+                                                  91 p[raese]nt[ibu]s herr <persName ref="Grossmann, Konrad">burgermeister
+                                                  Großman</persName> unnd
                                                   beid reth.</p>
-                                                  <p rend="margin-top">Als Heinj Schmid zů<placeName ref="Schüpfen">Schipffen</placeName>vor einem jar
+                                                  <p rend="margin-top">Als Heinj Schmid zů
+                                                  <placeName ref="Schüpfen">Schipffen</placeName> vor einem jar
                                                   über die herren predicanten etliche schmechliche
                                                   lesterliche rede ußgoßen, und daruf die herren
                                                   predicanten jnn statt unnd landtschafft gmeinlich
@@ -91,7 +94,9 @@
                                                   hatt sich jnn der rechtshandlung durch verhörte
                                                   khundtschafft<note type="editorial">
                                                   Zeugenaussage, Id. III, 353.</note> gnůgsam
-                                                  befunden, das er, Schmid, jm wirtshuß zů<placeName ref="Stadel">Stadel</placeName>jm<placeName ref="Neuamt">Nüwenampt</placeName>unnder
+                                                  befunden, das er, Schmid, jm wirtshuß zů
+                                                  <placeName ref="Stadel">Stadel</placeName> jm
+                                                  <placeName ref="Neuamt">Nüwenampt</placeName> unnder
                                                   ehrlichen lüthen (nachdem er zevor denselben
                                                   erzelt, wie er jm wirtshuß zum Storchen jnn der
                                                   statt alhie mitt zweygen predicanten disputiert

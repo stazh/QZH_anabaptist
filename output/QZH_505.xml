@@ -79,8 +79,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Als herr landtvogt Schmid<note type="editorial"><persName ref="Schmid, Matthias">Matthias Schmid</persName></note>, m[eister]<persName ref="Wiederkehr, Hans">Bernhart Widerkherr</persName>unnd m[eister]<persName ref="Kippenhan, Hans">Hanns Kippenhan</persName>zů
-                                                  Hannsen Summerouwer, dem pfister<note type="editorial"> Bäcker</note>, jnn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kert unnd jme fürgehalten<note type="editorial">
+      <div><p>Als herr landtvogt Schmid<note type="editorial">  <persName ref="Schmid, Matthias">Matthias Schmid</persName></note>, m[eister] <persName ref="Wiederkehr, Hans">Bernhart Widerkherr</persName> unnd m[eister] <persName ref="Kippenhan, Hans">Hanns
+                                                  Kippenhan</persName> zů
+                                                  Hannsen Summerouwer, dem pfister<note type="editorial"> Bäcker</note>, jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  kert unnd jme fürgehalten<note type="editorial">
                                                   mündlich vortragen, vorwerfen, Id. II,
                                                   1235.</note> unnd befragt<note type="critical">«unnd befragt» am Rand</note>, warumbe er sich
                                                   von der kilchen unnd den predigen göttliches
@@ -139,7 +142,13 @@
                                                   welle er synem hierob angezeigten anerbieten
                                                   gehorsamblichen nachkommen unnd volnfuͤren.</p>
                                                   <p rend="margin-top">[Urteil:] Er soll uff ein
-                                                  gwonlich urfechd der gfangenschafft erlassen<note type="critical">Folgt gestrichen: werden</note>unnd jme darby angezeigt werden, das wo er sich synem anerbieten nach nit gmeß hielte, sonder das urfechd übersechen, werde man zů jme nit als einem ­toüf­fer, sonder als einem meineiden man richten. Actum sambstags den 10ten augustj anno etc. 88 pr[aesen]t[ibus]<persName ref="Kambli, Hans">herr Kamblj</persName>unnd beid reth.</p>
+                                                  gwonlich urfechd der gfangenschafft erlassen<note type="critical">Folgt gestrichen: werden</note>
+                                                  unnd jme darby angezeigt werden, das wo er sich
+                                                  synem anerbieten nach nit gmeß hielte, sonder das
+                                                  urfechd übersechen, werde man zů jme nit als einem
+                                                  ­toüf­fer, sonder als einem meineiden man richten.
+                                                  Actum sambstags den 10ten augustj anno etc. 88
+                                                  pr[aesen]t[ibus] <persName ref="Kambli, Hans">herr Kamblj</persName> unnd beid reth.</p>
                                                   </div>
     </body>
   </text>

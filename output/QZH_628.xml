@@ -81,9 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu<placeName ref="Knonau">Knonow</placeName>brichten, wie dz synn amptsangehöriger<persName ref="Weber, Gorius">Gorius Weber</persName>vonn
+      <div><p>Vogt  <placeName ref="Knonau">Knonow</placeName>
+                                                  brichten, wie dz synn amptsangehöriger <persName ref="Weber, Gorius">Gorius
+                                                  Weber</persName> vonn
                                                   Ebertschwyl<note type="editorial">
-                                                  Ebertswil</note><placeName ref="Ebertswil"/>, so
+                                                  Ebertswil</note><placeName ref="Ebertswil">zu</placeName>, so
                                                   vonn der widerthoüfferischen sect unnd synner<note type="critical">Folgt gestrichen: wid</note>
                                                   hartneckigkeit wegen alhie etliche wuchen jnn
                                                   gfanngenschafft endthalten<note type="editorial">

@@ -81,10 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unndervögtenn zu<placeName ref="Niederglatt">Niderglatt</placeName>unnd<placeName ref="Birmensdorf">Birmennstorff</placeName>schrybenn, uff die ­toüf­fer
+      <div><p>Unndervögtenn zu <placeName ref="Niederglatt">Niderglatt</placeName> unnd <placeName ref="Birmensdorf">Birmennstorff</placeName> schrybenn, uff die ­toüf­fer
                                                   achtung zehaben unnd welliche sy fänndent,
                                                   fänngklich annemmen unnd alhar fürenn.</p>
-                                                  <p>Glychergstalt ann schultheiß unnd rath zů<placeName ref="Bülach">Bülach</placeName>.</p>
+                                                  <p>Glychergstalt ann schultheiß unnd rath zů
+                                                  <placeName ref="Bülach">Bülach</placeName>.</p>
                                                   </div>
     </body>
     <back>

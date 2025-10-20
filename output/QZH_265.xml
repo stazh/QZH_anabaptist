@@ -81,7 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Knonouw<note type="editorial"><persName ref="Rahn, Hans">Hans Rahn</persName></note><placeName ref="Knonau"/>schryben, das er nachmalen über<persName ref="Gut, Andres">den ­toüf­fer</persName>syn
+      <div><p> <note type="editorial"> <persName ref="Rahn, Hans">Hans
+                                                  Rahn</persName></note><placeName ref="Knonau">Vogt</placeName> schryben, das er nachmalen über den
+                                                  ­toüf­fer<persName ref="Gut, Andres">zů Knonouw</persName> syn
                                                   kundtschafft machen. Wo er jnn doch mitt sonderen
                                                   costen betretten<note type="editorial"> antreffen,
                                                   ergreifen, Id. XIV, 1486.</note>, alher schicken,

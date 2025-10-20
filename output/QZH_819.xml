@@ -76,16 +76,18 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem juncker Hanns Heinrich<persName ref="Schönau, Hans Heinrich von">von Schönouw</persName>sampt herrn Caspar Murer<note type="editorial">Johann<persName ref="Murer, Johann Kaspar">Kaspar Murer</persName></note> und herrn
+      <div><p>Nachdem juncker  <persName ref="Schönau, Hans Heinrich von">von
+                                                  Schönouw</persName> sampt herrn Caspar Murer<note type="editorial">
+                                                  Johann  <persName ref="Murer, Johann Kaspar">Kaspar Murer</persName></note> und herrn
                                                   Jacoben Ůlrich<note type="editorial"> In der
-                                                  Vorlage: Ůrich</note><persName ref="Ulrich, Johann Jakob"/>
+                                                  Vorlage: Ůrich</note><persName ref="Ulrich, Johann Jakob">Hanns Heinrich</persName>
                                                   <note type="editorial"> Johann Jakob Ulrich</note>
                                                   zů<note type="critical">Folgt gestrichen:
                                                   Jacob</note> Hannßen Landis, dem
                                                   wider­toüf­fer<note type="critical">«dem
                                                   wider­toüf­fer» am Rand mit Verweiszeichen</note>
-                                                  uff dem<placeName ref="Hirzel, Boden">Boden</placeName>hoff
-                                                  am Horgerberg, jnn<placeName ref="Zürich, Wellenberg">Wellenbärg</placeName>kheert unnd<note type="critical">Folgt gestrichen: jmme syn</note>
+                                                  uff dem <placeName ref="Hirzel, Boden">Boden</placeName> hoff
+                                                  am Horgerberg, jnn <placeName ref="Zürich, Wellenberg">Wellenbärg</placeName> kheert unnd<note type="critical">Folgt gestrichen: jmme syn</note>
                                                   jnne mit allem erntst<note type="critical">Folgt
                                                   gestrichen: bef</note> hernach volgender artigklen
                                                   halben befragt und hierüber synes bscheidts
@@ -194,13 +196,15 @@
                                                   juncker Hans Heinrich von Schönouw jnne</note>,
                                                   Landiß, ouch befragt worden<note type="critical">«worden» über der Zeile</note>, welcher gstalt
                                                   houptman Müllers<note type="critical">Folgt
-                                                  gestrichen: seligen</note> sohn<note type="editorial"><persName ref="Müller, Jos">Jos Müller</persName></note>, jtem<persName ref="Isler, Hans">Hans Ißlers</persName>knächt sampt
+                                                  gestrichen: seligen</note> sohn<note type="editorial"> <persName ref="Müller, Jos">Jos Müller</persName></note>, jtem <persName ref="Isler, Hans">Hans
+                                                  Ißlers</persName> knächt sampt
                                                   jren wyberen sygen zůsammen gäben worden, jtem wer
                                                   jr seckelmeister deß zůsammen gestürten gůts syge
                                                   und wo sy jre predigen haltind, hat er darüber
                                                   kheinen bscheid gäben wellen, sonder anzeigt,
                                                   begäre niemand zůverraten.</p>
-                                                  <p>Wann dann nun vorgemälte herren gägen obgedachtem<persName ref="Landis, Hans">Hansen Landiß</persName>mit lehren, vermanen und
+                                                  <p>Wann dann nun vorgemälte herren gägen
+                                                  obgedachtem <persName ref="Landis, Hans">Hansen Landiß</persName> mit lehren, vermanen und
                                                   underrichten allen flyß angewändt unnd jmme synen
                                                   verwirten won<note type="editorial"> Wahn, falsche
                                                   Meinung, Id. XVI, 1.</note> und zwyfelhafftigen

@@ -81,9 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Grüningen<note type="editorial">Jakob<persName ref="Zur Eich, Jakob">Zur Eich</persName></note><placeName ref="Grüningen"/> sol nach dem
+      <div><p>Vogt zů <note type="editorial"> Jakob
+                                                   <persName ref="Zur Eich, Jakob">Zur Eich</persName></note><placeName ref="Grüningen">Grüningen</placeName> sol nach dem
                                                   uß dem spital entloffnen ­toüf­fer, dem
-                                                  wagner<note type="editorial"><persName ref="Gubelmann, Rudolf">Rudolf Gubelmann</persName></note>,
+                                                  wagner<note type="editorial"> 
+                                                  <persName ref="Gubelmann, Rudolf">Rudolf Gubelmann</persName></note>,
                                                   stellen unnd jnne wider alhar schicken.</p>
                                                   </div>
     </body>

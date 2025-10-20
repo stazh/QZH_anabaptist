@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Grüningen">Gruͤningen</placeName>schryben,<persName ref="Kriesi, Jörg">den Kriessj</persName>und synen mitthafften<note type="editorial">
+      <div><p>Vogt zů Gruͤ<placeName ref="Grüningen">ningen</placeName>
+                                                  schryben, <persName ref="Kriesi, Jörg">den Kriessj</persName> und synen mitthafften<note type="editorial">
                                                   Mithaftender, Mithelfer, Id. II, 1057.</note>, so
                                                   die dryg ­toüf­fer durch verwarloßung entlouffen
                                                   laßen, ufzůleggen<note type="editorial">
@@ -97,7 +98,7 @@
                                                   gfangenschafft zůr gehorsame zehalten, die, so sy
                                                   beherbergent, nach luth der mandathen
                                                   zestraffen.</p>
-                                                  <p>Die zwen zů<placeName ref="Bülach">Bülach</placeName>, so
+                                                  <p>Die zwen zů <placeName ref="Bülach">Bülach</placeName>, so
                                                   nit zů kilchen gaan wellend, söllend ouch
                                                   alher<note type="critical">Folgt gestrichen:
                                                   bewart</note> gschickt werden.</p>

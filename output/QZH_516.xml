@@ -78,7 +78,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen, geneigten willen unnd alles gůts zůvor. Frommer, vester, besonnders gethrüwer, lieber burger unnd vogt, wiewol wir unns hievor erkhendt, wann<persName ref="Kleger, Hans">Hanns Kleger</persName>unnd<persName ref="Peter, Joseph">Joseph Peter</persName>, beid uß dem<placeName ref="Fischenthal">Vischental</placeName>, so mitt
+      <div><p>Unnsern günstigen, geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, vester, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, wiewol wir unns hievor
+                                                  erkhendt, wann <persName ref="Kleger, Hans">Hanns Kleger</persName> unnd <persName ref="Peter, Joseph">Joseph Peter</persName>, beid uß dem
+                                                  <placeName ref="Fischenthal">Vischental</placeName>, so mitt
                                                   der ­toüf­ferischen sect behafftet sind, einen
                                                   eydt schweeren ald<note type="editorial">
                                                   oder</note> sontsten an eydes statt anloben
@@ -114,7 +118,8 @@
                                                   anno etc.<?gl?>88.</p>
                                                   <p rend="margin-top">Burgermeister und rath der
                                                   statt Zürich</p>
-                                                  <p rend="margin-top">An vogt zů<placeName ref="Grüningen">Grüningen</placeName>Hannß
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Hannß
                                                   Meyßen</p>
                                                   </div>
     </body>

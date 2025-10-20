@@ -79,7 +79,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnßern gunst unnd alles guts zuvor. Frommer, vester, jnnsunders getrüwer, lieber burger und vogt, wir habend allerley mittel, sträfflich und sunst, mit<persName ref="Müller, Frau">der Mullerin</persName>von<placeName ref="Glattfelden">Glattfelden</placeName>fürgenomen unnd sy ettliche
+      <div><p>Unnßern gunst unnd alles guts zuvor. Frommer,
+                                                  vester, jnnsunders getrüwer, lieber burger und
+                                                  vogt, wir habend allerley mittel, sträfflich und
+                                                  sunst, mit <persName ref="Müller, Frau">der Mullerin</persName> von <placeName ref="Glattfelden">Glattfelden</placeName> fürgenomen unnd sy ettliche
                                                   maal jnn gefengcknus<note type="critical">korrigiert, ursprünglich: gefengckgnus</note>
                                                   ghept, ob wir sy vonn der jrrigen sect der
                                                   ­toüf­fery und dz sy mit kilchgang unnd annderen
@@ -111,15 +114,16 @@
                                                   <note type="critical">«die harr» am Rand</note>
                                                   zůgestatten, kanst du wol gedencken, dz sollichs
                                                   mer zu jrrung und ergernüß<note type="critical">«ergernüß» am Rand</note> dann zu růwen dienen
-                                                  wurde. Uß<placeName ref="Zürich">Zürich</placeName>, 2.
+                                                  wurde. Uß <placeName ref="Zürich">Zürich</placeName>, 2.
                                                   januarj<note type="critical">«januarj» über der
                                                   Zeile, in der Zeile gestrichen: decembris</note>
                                                   1544.</p>
                                                   <p rend="margin-top">Burgermeyster und rath der
                                                   statt Zürich.</p>
                                                   <p rend="margin-top">Dem frommen, vesten, unnßerm
-                                                  jnnßunders getrüwen, lieben burger und vogt zu<placeName ref="Kyburg">Kyburg</placeName>Bernharten<note type="critical">korrigiert, ursprünglich:
-                                                  Berharten</note><persName ref="Cham, Bernhard von">von Chaam.</persName></p>
+                                                  jnnßunders getrüwen, lieben burger und  <placeName ref="Kyburg">vogt</placeName> Bernharten<note type="critical">korrigiert, ursprünglich:
+                                                  Berharten</note> von Chaam.<persName ref="Cham, Bernhard von">zu
+                                                  Kyburg</persName></p>
                                                   </div>
     </body>
   </text>

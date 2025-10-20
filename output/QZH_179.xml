@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div><p><persName ref="Schmidlin, Verena">Verena Schmidlin</persName>von Thüngen<note type="editorial"> Tiengen</note><placeName ref="Tiengen"/> uß dem<placeName ref="Klettgau">Clegkgöw</placeName>zoygt an, by drygen jaren
+      <div><p> <persName ref="Schmidlin, Verena">Verena Schmidlin</persName> von Thüngen<note type="editorial"> Tiengen</note><placeName ref="Tiengen"/> uß dem <placeName ref="Klettgau">Clegkgöw</placeName> zoygt an, by drygen jaren
                                                   ungefaarlich sin, da sy sich erstmals der
                                                   thoüfferischen sect belüde, das beschech jm
                                                   Siglistorffer<note type="critical">«Siglistorffer»
@@ -87,26 +87,36 @@
                                                   Sibistorffer.</note><placeName ref="Siglistorf"/>
                                                   <note type="editorial"> Siglistorf, in der
                                                   Landvogtei Baden.</note> holtz, jnn der
-                                                  graaffschafft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>gelegen, das sy
+                                                  graaffschafft <placeName ref="Baden (Landgrafschaft)">Baden</placeName> gelegen, das sy
                                                   widergetthoufft unnd jnn der gloübigen zal
                                                   jngeschlossen wurde alles jnn meynung<note type="critical">Folgt gestrichen: alles</note>,
                                                   deß vatters wort zuerkennen. Seyt<note type="editorial"> sagt</note> sunst, sy gloub, was
                                                   gott geheyßen hab, das man dasselbig thůn, unnd
                                                   das der gloub mit den wärchen gan sölle.</p>
-                                                  <p rend="margin-top">Dises<note type="critical">Dieser und der folgende Abschnitt von anderer
+                                                  <p rend="margin-top"><note type="critical">Dieser und der folgende Abschnitt von anderer
                                                   Hand.</note> wyb ist so eygenrichtig unnd
                                                   hartneckig, das wyters von jro nit zebrynngen dann
                                                   schlechts<note type="editorial"> bedeutungslos,
-                                                  Id. IX, 52f.</note>. So will sy nyenervon<note type="editorial"> von nichts, Id. I, 842.</note>wisßenn, dann das sy anzeygt eyner, genannt<persName ref="Hotz, Hans">Hans Hotz</persName>uß dem oberlannd, habe sy toufft. Item so heysßint die beyd, die wie man sy pfanngen von jro flüchtig worden sygint, nemlich der<persName ref="Bastian">eyn Bastlj</persName>,
+                                                  Id. IX, 52f.</note>. So will sy nyenervon<note type="editorial"> von nichts, Id. I, 842.</note>
+                                                  wisßenn, dann das sy anzeygt eyner, genannt <persName ref="Hotz, Hans">Hans
+                                                  Hotz</persName> uß dem oberlannd,
+                                                  habe sy toufft. Item so heysßint die beyd, die wie
+                                                  man sy pfanngen von jro flüchtig worden sygint,
+                                                  nemlich der <persName ref="Bastian">eyn Bastlj</persName>,
                                                   syge jnn Sennenloch<note type="editorial">
-                                                  Sänneloch</note><placeName ref="Klingnau, Sänneloch"/>, unnd der<persName ref="Cunrad">annder Cůnrat</persName>zuͤ Wißlicken<note type="editorial"> Wislikofen</note><placeName ref="Wislikofen"/>, jnn der graafschafft<placeName ref="Baden (Landgrafschaft)">Baden</placeName>beyd gsesßen. Ob sy aber noch an disen ennden
+                                                  Sänneloch</note><placeName ref="Klingnau, Sänneloch">Dises</placeName>, unnd der <persName ref="Cunrad">annder
+                                                  Cůnrat</persName> zuͤ Wißlicken<note type="editorial"> Wislikofen</note><placeName ref="Wislikofen"/>, jnn der graafschafft
+                                                  <placeName ref="Baden (Landgrafschaft)">Baden</placeName>
+                                                  beyd gsesßen. Ob sy aber noch an disen ennden
                                                   seigint, deßglychen wie sy mit dem zuͤnamen
                                                   heyßsint, will sy ouch nit wissen unnd
                                                   schlechts<note type="editorial">
                                                   schlechterdings</note> sunst nyemants nennen. Dann
                                                   wenn man sy lanng fragt, so git sy keyn anntwurt,
                                                   sonnder schwygt unnd laßt mit jr reden, unntz<note type="editorial"> bis</note> man muͤd wirt.</p>
-                                                  <p rend="margin-top">[Urteil:]<persName ref="Schmidlin, Verena">Veren Schmidlin</persName>von<placeName ref="Tiengen">Tuͤngen</placeName>, so eyn
+                                                  <p rend="margin-top">[Urteil:] <persName ref="Schmidlin, Verena">Veren
+                                                  Schmidlin</persName> von
+                                                  Tuͤ<placeName ref="Tiengen">ngen</placeName>, so eyn
                                                   toyfferin was, alß sy sich bekannth, geirrt haben,
                                                   unnd sich begab<note type="editorial"> sich
                                                   entscheiden, sich verpflichten, Id. II,

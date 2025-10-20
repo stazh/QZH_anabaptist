@@ -81,13 +81,22 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt<persName ref="Breitinger, Rudolf"/> von
+      <div><p><persName ref="Breitinger, Rudolf"/> von
                                                   Grüningen<note type="editorial"> Rudolf
-                                                  Breitinger</note><placeName ref="Grüningen"/>schryben, das<persName ref="Peter, Hans">Hanns Petter</persName>der ­toüf­ferschen sect
+                                                  Breitinger</note><placeName ref="Grüningen">Vogt</placeName>
+                                                  schryben, das <persName ref="Peter, Hans">Hanns Petter</persName> der ­toüf­ferschen sect
                                                   abstannden unnd sich begeben, gehorsam zesin. Unnd
                                                   diewyl er anzeigt, das er<note type="critical">«er» über der Zeile</note> jm vorher nit
                                                   geschworen, sölle er jm jnne jetz schweren unnd
-                                                  gehorsame thůn lassen unnd dann dest fürer<note type="editorial"> eher, mehr, Id. I, 968.</note>acht uff jnn haben. Darby sölle er den costen, so uff jnn ganngen, jntzüchen. Unnd als er ettlich mer ­toüf­fer angeben, soll er dieselben ouch vengklich annemen, mit namen den wannenmacher und sin son,<persName ref="Schyb, Hans">Hannß Scheyb</persName>von<placeName ref="Appenzell">Appentzell</placeName>,<persName ref="Streler, Hans">Hanns Sträler</persName>,<persName ref="Streler, Klaus">Claus Sträler</persName>,<note type="critical">Folgt gestrichen: Jacob</note>
+                                                  gehorsame thůn lassen unnd dann dest fürer<note type="editorial"> eher, mehr, Id. I, 968.</note>
+                                                  acht uff jnn haben. Darby sölle er den costen, so
+                                                  uff jnn ganngen, jntzüchen. Unnd als er ettlich
+                                                  mer ­toüf­fer angeben, soll er dieselben ouch
+                                                  vengklich annemen, mit namen den wannenmacher und
+                                                  sin son, <persName ref="Schyb, Hans">Hannß Scheyb</persName>
+                                                  von <placeName ref="Appenzell">Appentzell</placeName>, <persName ref="Streler, Hans">Hanns
+                                                  Sträler</persName>, <persName ref="Streler, Klaus">Claus
+                                                  Sträler</persName>,<note type="critical">Folgt gestrichen: Jacob</note>
                                                   Bürgi<persName ref="Bürgi, N."/> von
                                                   Wädischwyl<note type="editorial">
                                                   Wädenswil</note><placeName ref="Wädenswil"/>.</p>

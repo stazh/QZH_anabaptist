@@ -81,9 +81,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zu<placeName ref="Knonau">Knonouw</placeName>schryben, daß er von<persName ref="Müller, Jakob">Jacoben Müller</persName>, dem buman, unnd jren
+      <div><p>Vogt zu <placeName ref="Knonau">Knonouw</placeName>
+                                                  schryben, daß er von <persName ref="Müller, Jakob">Jacoben Müller</persName>, dem buman, unnd jren
                                                   mithafften<note type="editorial"> Mithaftender,
-                                                  Parteigänger, Id. II, 1057.</note> jm<placeName ref="Kelleramt">Källerampt</placeName>daß
+                                                  Parteigänger, Id. II, 1057.</note> jm
+                                                  <placeName ref="Kelleramt">Källerampt</placeName> daß
                                                   uferlegt ­toüf­fergält vermög mit jnen beschächner
                                                   abred ynzüchen unnd jnn daß seckelampt alhar
                                                   schicken und antworten sölle.</p>

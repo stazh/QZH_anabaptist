@@ -81,8 +81,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Hans<persName ref="Engelhart, Hans Konrad">Cůnrat Engelharten</persName>, so sich zů
-                                                  Gostal<note type="editorial"> Podivín (deutsch<placeName ref="Podivín">Kostel)</placeName></note> jnn<placeName ref="Mähren">Merherrn</placeName>hushablich
+      <div><p>Hans <persName ref="Engelhart, Hans Konrad">Cůnrat Engelharten</persName>, so sich zů
+                                                  Gostal<note type="editorial"> Podivín (deutsch
+                                                  Kostel)<placeName ref="Podivín"/></note> jnn
+                                                  <placeName ref="Mähren">Merherrn</placeName> hushablich
                                                   gesetzt und jnkouft, aber der wider­toüf­fery nit
                                                   anlanget, söllent syne zwen gültbrief, 200
                                                   g[ulden] wyßende, uß dem schirmkasten zůgstelt

@@ -78,13 +78,13 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern<note type="critical">Folgt gestrichen:
+      <div><p><note type="critical">Folgt gestrichen:
                                                   f</note> günstigen geneigten willen unnd alles
                                                   gůts zůvor. Frommer, wyßer, besonders getrüwer,
                                                   lieber burger und vogt. Uff din unns jüngster
                                                   tagen gethaan fürbringen, wie sich von<note type="critical">«von» über der Zeile</note>
                                                   etlicher jnn unserm Kellerampt<note type="critical">«jnn unserm Kellerampt» am Rand
-                                                  mit Verweiszeichen</note><placeName ref="Kelleramt"/> der ­toüf­ferischen sect
+                                                  mit Verweiszeichen</note><placeName ref="Kelleramt">Unnsern</placeName> der ­toüf­ferischen sect
                                                   ußträttnen<note type="editorial"> das Land
                                                   verlassen, Id. XIV, 1479.</note> personnen
                                                   hinderlasßnen hab und gůts wegen<note type="critical">«wegen» über der Zeile</note>
@@ -119,8 +119,8 @@
                                                   hochen herrligkeit anhengig und zůgehörig jst,
                                                   schrybent wir albereits<note type="critical">«schrybent wir albereits» am Rand, in der Zeile
                                                   gestrichen: habent wir</note> schultheißen und
-                                                  rath zů<placeName ref="Bremgarten">Bremgarten</placeName>,
-                                                  ouch dem landtvogt zů<placeName ref="Baden">Baden</placeName>zů.<note type="editorial"> Vgl. Nr. 259. Das
+                                                  rath zů <placeName ref="Bremgarten">Bremgarten</placeName>,
+                                                  ouch dem landtvogt zů <placeName ref="Baden">Baden</placeName> zů.<note type="editorial"> Vgl. Nr. 259. Das
                                                   Schreiben an den Magistrat von Bremgarten ist
                                                   vermutlich nicht überliefert.</note> Wover sy diß
                                                   fals etwas ansprach<note type="editorial">
@@ -159,7 +159,8 @@
                                                   <p rend="margin-top">Burgermeister unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wyßen, unnserm
-                                                  besonders getrüwen, lieben burger und vogt zů<placeName ref="Knonau">Knonouw</placeName>Junghannsen
+                                                  besonders getrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Knonau">Knonouw</placeName> Junghannsen
                                                   Thůmyßen.</p>
                                                   </div>
     </body>

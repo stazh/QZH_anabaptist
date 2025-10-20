@@ -83,7 +83,7 @@
       <div><p>Unsern günstigen, geneigten willen unnd alles
                                                   gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
                                                   lieber burger unnd vogt, nachdem du unns diser
-                                                  tagen Peter Rumen von<placeName ref="Schöfflisdorf">Schöfflistorff</placeName>, so mit der ­toüf­ferischen
+                                                  tagen Peter Rumen von <placeName ref="Schöfflisdorf">Schöfflistorff</placeName>, so mit der ­toüf­ferischen
                                                   sect behafft, gefenngklichen h[ast] zůgeschickt,
                                                   hatt er<note type="critical">Folgt gestrichen:
                                                   sich</note> uff anhallten unnserer verordneten,
@@ -144,9 +144,11 @@
                                                   gůtwillig. Datum sambstag den 30. d. maij anno
                                                   etc. 65.</p>
                                                   <p rend="margin-top">B[urgermeister] u[nd] r[ath]
-                                                  d[er] St[adt]<placeName ref="Zürich">Zürich</placeName></p>
+                                                  d[er] St[adt] <placeName ref="Zürich">Zürich</placeName></p>
                                                   <p rend="margin-top">Dem frommen, wysen, unnserem
-                                                  besonders gethrüwen, lieben burger unnd vogt zů<placeName ref="Regensberg">Regennsperg</placeName><persName ref="Binder, Heinrich">Heinrichen Binder</persName></p>
+                                                  besonders gethrüwen, lieben burger unnd vogt zů
+                                                  <placeName ref="Regensberg">Regennsperg</placeName>
+                                                  <persName ref="Binder, Heinrich">Heinrichen Binder</persName></p>
                                                   </div>
     </body>
   </text>

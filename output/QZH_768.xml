@@ -82,17 +82,19 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Demnach herr statthalter Ulinger<note type="editorial"><persName ref="Ulinger, Hans">Hans Ulinger</persName></note>unnd j[unker] Hannß<persName ref="Wirz, Hans Konrad">Conrat Wirtz</persName>,
+      <div><p>Demnach herr statthalter Ulinger<note type="editorial"> <persName ref="Ulinger, Hans">Hans Ulinger</persName></note> unnd j[unker] Hannß
+                                                  <persName ref="Wirz, Hans Konrad">Conrat Wirtz</persName>,
                                                   nachgenger, uß üwer (myner gnedigen herren)
                                                   bevelch zů Hanns Joachim Dietschin, dem
-                                                  widerteüffer, jn<placeName ref="Zürich, Wellenberg">Wellenberg</placeName>kheert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  widerteüffer, jn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kheert<note type="editorial"> sich begeben, gehen, Id. III,
                                                   435.</note>, jmme der lenge nach fürgehalten<note type="editorial"> vorwerfen, Id. II, 1234.</note>,
                                                   wie das er von üch, mynen gnedigen h[erren], mit
                                                   einem hüpschen dienstlin<note type="editorial">
                                                   hier eine Tätigkeit im Salzamt</note> begaabet
                                                   gewäßen, darby er aber nit bas gehuset<note type="editorial"> besser gewirtschaftet</note>,
                                                   dann das er synes gůts nit vill mehr gehept, also
-                                                  das er sich jnn<placeName ref="Mähren">Merherren</placeName>begäben unnd des burgrächtens<note type="editorial"> städtisches Bürgerrecht</note>
+                                                  das er sich jnn <placeName ref="Mähren">Merherren</placeName>
+                                                  begäben unnd des burgrächtens<note type="editorial"> städtisches Bürgerrecht</note>
                                                   alhie gentzlichen entzigen<note type="editorial">
                                                   (auf sein Bürgerrecht) verzichten, Id. XVII,
                                                   863.</note> unnd vilicht er der ursach alhar
@@ -143,14 +145,15 @@
                                                   unnd er auch nit verachtet syn wellen) jmme
                                                   fürgenommen, hinweg zezüchen unnd ein annder unnd
                                                   frömber volck zesůchen.</p>
-                                                  <p>Welliches jmme herr hußschryber Hottinger<note type="editorial">Hans<persName ref="Hottinger, Hans Jakob">Jakob Hottinger</persName></note> etlichemal
+                                                  <p>Welliches jmme herr hußschryber Hottinger<note type="editorial"> Hans <persName ref="Hottinger, Hans Jakob">Jakob Hottinger</persName></note> etlichemal
                                                   geweert unnd widerrathen unnd jmme anngezeigt, er
                                                   khönne alhie auch rächt thůn. Allß er aber jmme
                                                   nit willfaren wellen, habe er gesagt, wann er doch
                                                   hinweg welle, sölle er zůvor zů einem h[errn]
                                                   burgermeister gaan unnd synen dienst ufsagen. Das
                                                   er gethan unnd zů herren burgermeister
-                                                  Großman<note type="editorial"><persName ref="Grossmann, Konrad">Konrad Grossmann</persName></note> gangen unnd jmme vemäldt, er khönne nit
+                                                  Großman<note type="editorial"> <persName ref="Grossmann, Konrad">Konrad
+                                                  Grossmann</persName></note> gangen unnd jmme vemäldt, er khönne nit
                                                   mehr alhie verblyben, er falle von<note type="critical">«von» über der Zeile, in der Zeile
                                                   gestrichen: jnn</note> einer<note type="critical">korrigiert, ursprünglich: ein</note> sünd jnn die
                                                   annder, unnd jnne gepätten, wann er ald<note type="editorial"> oder</note> syne kinder mit der
@@ -162,7 +165,7 @@
                                                   sinthalben geret. Da er woll verstanden, daß syne
                                                   sachen schlechtlich gnůg standint, unnd hiemit
                                                   jmme glück uff die reiß gewüntscht.</p>
-                                                  <p>Da er nun jnn<placeName ref="Mähren">Mehrherren</placeName>gezogen, habe er sich by den brůderen
+                                                  <p>Da er nun jnn <placeName ref="Mähren">Mehrherren</placeName> gezogen, habe er sich by den brůderen
                                                   jnngelaßen unnd den cordoan<note type="editorial">
                                                   Feines Ziegenleder, Grimm 11, 1808.</note> oder
                                                   margyn<note type="editorial"> Maroquin, Id. IV,
@@ -202,7 +205,8 @@
                                                   gepätten, geforderet, dann er sich gůtwillig
                                                   gestelt unnd syner annkunfft rächenschafft gegäben
                                                   hette.</p>
-                                                  <p>Was anndere widerteüffer belange, so mit jmme unnd dem<persName ref="Meyer, Erhard">Erhart Meyer</persName>alhar khommen, wüße er nit, wo dieselbigen
+                                                  <p>Was anndere widerteüffer belange, so mit jmme
+                                                  unnd dem <persName ref="Meyer, Erhard">Erhart Meyer</persName> alhar khommen, wüße er nit, wo dieselbigen
                                                   sygen. Er bezüge aber warhafftig, das weder er
                                                   noch Meyer von den brůderen darumb<note type="critical">Folgt gestrichen: nit</note> alhar
                                                   geschickt worden, das sy anndere auch abhin<note type="critical">«abhin» am Rand, in der Zeile
@@ -221,7 +225,7 @@
                                                   khemind, zůgestelt werde.</p>
                                                   <p rend="margin-top">[Urteil]: Er jst der
                                                   gfangenschafft uff erlegung deß costens wider
-                                                  ledig erkhendt<note type="editorial"> urteilen,
+                                                  <note type="editorial"> urteilen,
                                                   amtlich festsetzen, Id. III, 313.</note> unnd jme
                                                   vergundt, nach etliche tag jnn stille alhie
                                                   zeblyben, die sachen mit herrn hußschryber richtig
@@ -234,7 +238,7 @@
                                                   ufwiglen oder myner herren straff erwarten. Actum
                                                   sambßtags den 12ten maij 1604 p[raese]nt[ibus]
                                                   b[urgermeister] Bräm<note type="editorial">
-                                                  Heinrich Bräm</note><persName ref="Bräm, Heinrich"/> und beid reth.</p>
+                                                  Heinrich Bräm</note><persName ref="Bräm, Heinrich">ledig erkhendt</persName> und beid reth.</p>
                                                   </div>
     </body>
     <back>

@@ -79,9 +79,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Fromm, vest, fürsichtig, ersam, wys, jnsunders günstig, gnedig herren. Demnach<persName ref="Bürgi, Rudolf">Rudolff Bürgj</persName>, Jos unnd<persName ref="Clotter, Jos">Martin Clotter</persName><persName ref="Clotter, Martin"/> all von
+      <div><p>Fromm, vest, fürsichtig, ersam, wys, jnsunders
+                                                  günstig, gnedig herren.  <persName ref="Bürgi, Rudolf">Rudolff
+                                                  Bürgj</persName>, Jos unnd
+                                                  <persName ref="Clotter, Jos">Martin Clotter</persName><persName ref="Clotter, Martin"/> all von
                                                   Wädischwyl<note type="editorial">
-                                                  Wädenswil</note><placeName ref="Wädenswil"/> von
+                                                  Wädenswil</note><placeName ref="Wädenswil">Demnach</placeName> von
                                                   wegen der ­toüf­fery verschiner<note type="editorial"> vergangener</note> zit in u[wer]
                                                   w[yßheit] bannden unnd gefangenschafften gelegen,
                                                   volgenz ouch, das sy zur predig gan unnd jre kind

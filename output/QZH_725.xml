@@ -81,8 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů Knonouw<note type="editorial">Hans Heinrich<persName ref="Wellenberg, Hans Heinrich von">von Wellenberg</persName></note><placeName ref="Knonau"/> schryben, das
-                                                  er jnn geheim gegen Barbara Näfin zů Hußen<note type="editorial"> Hausen am Albis</note><placeName ref="Hausen am Albis"/>, so ein ­toüf­ferin jst,
+      <div><p>Vogt  <note type="editorial"> Hans
+                                                  Heinrich <persName ref="Wellenberg, Hans Heinrich von">von Wellenberg</persName></note><placeName ref="Knonau">Knonouw</placeName> schryben, das
+                                                  er jnn geheim gegen Barbara Näfin zů Hußen<note type="editorial"> Hausen am Albis</note><placeName ref="Hausen am Albis">zů</placeName>, so ein ­toüf­ferin jst,
                                                   mit erforrderung der straff, wyl sy alt, nit
                                                   vortschryten sölle, sonnder thůn, als ob er sy
                                                   straffen und nüdt dest minder zur kilchen

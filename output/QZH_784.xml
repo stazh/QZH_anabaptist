@@ -80,7 +80,11 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, vester, besonders gethrüwer, lieber burger und vogt, demnach<persName ref="Buchmann, Verena">Verena Bůchmanin</persName>, deß unnsern<persName ref="Bidermann, Heini">Heinj Bidermans</persName>zů Dachelßen<note type="editorial"><placeName ref="Dachlissen">Dachlissen</placeName></note> eewyb, die sich der
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, vester, besonders gethrüwer,
+                                                  lieber burger und vogt, demnach <persName ref="Buchmann, Verena">Verena
+                                                  Bůchmanin</persName>, deß
+                                                  unnsern <persName ref="Bidermann, Heini">Heinj Bidermans</persName> zů Dachelßen<note type="editorial"> <placeName ref="Dachlissen">Dachlissen</placeName></note> eewyb, die sich der
                                                   ­toüf­ferischen sect anhengig gemacht, welliche du
                                                   unns von deßwegen gfengklich alher gschickt, sich
                                                   uff die an sy beschechne vermanungen begäben,
@@ -112,7 +116,8 @@
                                                   <p rend="margin-top">Burgermeister und rhat der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, vesten, unnserm
-                                                  besonders gethrüwen, lieben burger und vogt zů<placeName ref="Knonau">Knonow</placeName>Hans Heinrichen
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Knonau">Knonow</placeName> Hans Heinrichen
                                                   Wellenberg.</p>
                                                   </div>
     </body>

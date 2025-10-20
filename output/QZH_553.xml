@@ -81,8 +81,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Uff verhörung deß kouffbriefs umb das huß<note type="critical">Marginalie: j urk[und]</note>, so Hans<persName ref="Rützensdorfer, Hans Heinrich">Heinrich Rützenstorffer</persName>synem
-                                                  schwager Melchior Magen<note type="editorial">Melchior Maag (1565-1643) heiratete 1588<persName ref="Rüzensdorfer, Anna">Anna Rüzensdorfer</persName>.</note><persName ref="Maag, Melchior"/>zekouffen geben, hand myn herren darjnne nüdt unbillichs befinden können und hiemitt deselben kouff als deßen sy beidersidts wol zefriden und ein ufrechter redlicher kouff jst bestetiget, unangesehen m[eister]<persName ref="Baumann, Jakob">Jacoben Buwmans</persName>deß Rützenstorffers
+      <div><p>Uff verhörung deß kouffbriefs umb <note type="critical">Marginalie: j urk[und]</note>, so
+                                                  Hans <persName ref="Rützensdorfer, Hans Heinrich">Heinrich Rützenstorffer</persName> synem
+                                                  schwager Melchior Magen<note type="editorial">
+                                                  Melchior Maag (1565-1643) heiratete 1588 <persName ref="Rüzensdorfer, Anna">Anna
+                                                  Rüzensdorfer</persName>.</note><persName ref="Maag, Melchior">das huß</persName>
+                                                  zekouffen geben, hand myn herren darjnne nüdt
+                                                  unbillichs befinden können und hiemitt deselben
+                                                  kouff als deßen sy beidersidts wol zefriden und
+                                                  ein ufrechter redlicher kouff jst bestetiget,
+                                                  unangesehen m[eister] <persName ref="Baumann, Jakob">Jacoben Buwmans</persName> deß Rützenstorffers
                                                   schwähers vermeindten jntrags.</p>
                                                   </div>
     </body>

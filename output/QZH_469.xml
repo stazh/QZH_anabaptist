@@ -79,14 +79,16 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Nachdem unser lieb eydtgnosßen von<placeName ref="Bern">Bern</placeName>myn gnedig herren wie
+      <div><p>Nachdem   <placeName ref="Bern">unser</placeName> myn gnedig herren wie
                                                   ouch die andern beid stett, unser lieb eydtgnosßen
-                                                  von<placeName ref="Basel">Basell</placeName>und<placeName ref="Schaffhausen">Schaffhusen</placeName>,
+                                                  von <placeName ref="Basel">Basell</placeName> und
+                                                  <placeName ref="Schaffhausen">Schaffhusen</placeName>,
                                                   schrifftlichen errsůchen lasßen, jre
                                                   rathtsbottschafften sambt etlichen<note type="critical">Folgt gestrichen: jr</note> der
                                                   fürnempsten jrer theologen und vorstendern
                                                   göttlichs worts uff sontag den vierdten<note type="critical">In der Vorlage: viedten</note> tag
-                                                  julij gen<placeName ref="Aarau">Arouw</placeName>abzůfertigen, daselbs mit jren geordneten sprach
+                                                  julij gen <placeName ref="Aarau">Arouw</placeName>
+                                                  abzůfertigen, daselbs mit jren geordneten sprach
                                                   und conferentz zepflegen<note type="critical">«zepflegen» am Rand, in der Zeile gestrichen:
                                                   zehalten</note> und ein verglychung<note type="editorial"> Verständigung, Einigung</note>
                                                   zethůnd, wie sich doch der<note type="critical">Folgt gestrichen: schedlichen</note> personen
@@ -111,10 +113,11 @@
                                                   unnd<note type="critical">Folgt gestrichen:
                                                   de</note> hieruf den frommen vesten<note type="critical">Folgt gestrichen: jren</note>
                                                   j[unker] Hanß Keller<note type="editorial"> Hans
-                                                  Keller (1537-1601)</note><persName ref="Keller, Hans"/>, jren lieben mitrath, und den
+                                                  Keller (1537-1601)</note><persName ref="Keller, Hans">von
+                                                  Bern</persName>, jren lieben mitrath, und den
                                                   eerwürdigen wolgelerten hern Ludwigen
                                                   Lafatern<note type="editorial"> Ludwig Lavater
-                                                  (1527-1586)</note><persName ref="Lavater, Ludwig"/>, predicant der kilchen zum großenmünster, jren
+                                                  (1527-1586)</note><persName ref="Lavater, Ludwig">lieb eydtgnosßen</persName>, predicant der kilchen zum großenmünster, jren
                                                   lieben burger, erwelt und verordnet,
                                                   obangeregte<note type="critical">Folgt gestrichen:
                                                   tagba</note> tagsatzung jnn jrem nammen
@@ -172,7 +175,9 @@
                                                   (darüber halb) zů samen tragung (halb) jedes ordts
                                                   wol witere ordnung (…) zegeben wüßen
                                                   wirt.</note></p>
-                                                  <p>Actum sambstags den 3ten julij anno etc. 85 pr[aesen]t[ibus] herr<persName ref="Kambli, Hans">burgermeister Kamblj</persName>und beid
+                                                  <p>Actum sambstags den 3ten julij anno etc. 85
+                                                  pr[aesen]t[ibus] herr <persName ref="Kambli, Hans">burgermeister
+                                                  Kamblj</persName> und beid
                                                   reth.</p>
                                                   </div>
     </body>

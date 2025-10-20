@@ -78,8 +78,12 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, das die<persName ref="Schnyder, Hans">unnseren Hanß</persName><persName ref="Schnyder, Heinrich">und Heinrich</persName>, die
-                                                  Schnydere von<placeName ref="Rorbas">Rorbas</placeName>,
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger unnd vogt, das die <persName ref="Schnyder, Hans">unnseren
+                                                  Hanß</persName> <persName ref="Schnyder, Heinrich">und
+                                                  Heinrich</persName>, die
+                                                  Schnydere von <placeName ref="Rorbas">Rorbas</placeName>,
                                                   sich persönlichen vor unns gestelt unnd den<note type="critical">«den» über der Zeile, in der Zeile
                                                   gestrichen: jren</note> jrrthumb jrer die zythar
                                                   gebruchten ­toüf­ferischen sect bekhendt,
@@ -135,7 +139,8 @@
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommen, wyßen, unserm
                                                   besonnders gethrüw[en]<note type="critical">Infolge Bindung nicht lesbar</note>, lieben
-                                                  burger und vogt zů<placeName ref="Kyburg">Kyburg</placeName>Hansen Ziegeler.</p>
+                                                  burger und vogt zů <placeName ref="Kyburg">Kyburg</placeName>
+                                                  Hansen Ziegeler.</p>
                                                   </div>
     </body>
   </text>

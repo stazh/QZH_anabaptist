@@ -78,8 +78,9 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Wir, burgermeister unnd rath der statt<placeName ref="Zürich">Zürich</placeName>, entbietend den
-                                                  unnseren jnn unnser herrschafft<placeName ref="Knonau">Knonouw</placeName>unnsern grůß, gnedigen und
+      <div><p>Wir, burgermeister unnd rath der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>, entbietend den
+                                                  unnseren jnn unnser herrschafft <placeName ref="Knonau">Knonouw</placeName> unnsern grůß, gnedigen und
                                                   geneigten willen unnd thůnd üch hiemit<note type="critical">Folgt in ZBZ Ms A 72: allen</note>
                                                   zůvernemmen, das<note type="critical">«das» über
                                                   der Zeile, in der Zeile gestrichen: demnach</note>

@@ -82,18 +82,31 @@
       <div><p><persName ref="Sommerauer, Hans">Hanns Summerouwer</persName>, pfister<note type="editorial"> Bäcker</note> alhie<note type="editorial"> gemeint ist die Stadt
                                                   Zürich</note>, jst umb 15 pfund<note type="critical">In der Vorlage: lb</note> gstrafft
                                                   unnd sol 5 pfund an kosten geben.</p>
-                                                  <p rend="margin-top">Von Wedeschwyl<note type="editorial"> Wädenswil</note><placeName ref="Wädenswil"/>: [im]<placeName ref="Zürich, Wellenberg">W[ellenberg]</placeName><note type="critical">«w» über der Zeile</note>leerer<persName ref="Hofmann, Rudolf">Růdolff Hofman</persName>, w.<persName ref="Pfister, Walti">Wältj Pfister</persName>, leerer<persName ref="Bruppach, Rutsch">Růtsch Brupach</persName>,
-                                                  [im] n[üwen<placeName ref="Zürich, Neuenturm">turm]</placeName><note type="critical">«n»
-                                                  über der Zeile</note>leerer<persName ref="Pfister, Hans">Hanns Pfister</persName>,<persName ref="Hön, Peter">Petter Hön</persName>, n.<persName ref="Hess, Walti">Wältj Hesß</persName>, w.<persName ref="Suter, Uli">Ulj Sutter</persName>.</p>
-                                                  <p rend="margin-top">Von<placeName ref="Horgen">Horgen</placeName>: w.<note type="critical">«w» über
-                                                  der Zeile</note>leerer<persName ref="Landis, Heini">Heinj Landiß</persName>, leerer<persName ref="Landis, Hans">Hanns Landiß</persName>.</p>
-                                                  <p rend="margin-top">W.<persName ref="Wäber, Gorius">Gorius Wäber</persName>von Ebertschwyl<note type="editorial"> Ebertswil</note><placeName ref="Ebertswil"/>, w.<persName ref="Hochstrasser, Jakob">Jacob Hochstraßer</persName>von Wetzwyl<note type="editorial"> Wettswil am
-                                                  Albis</note><placeName ref="Wettswil"/>, w.<persName ref="Erzinger, Uli">Ulj Ertzinger</persName>ab
+                                                  <p rend="margin-top"> <note type="editorial"> Wädenswil</note><placeName ref="Wädenswil">Wedeschwyl</placeName>: [im] W[ellenberg]<placeName ref="Zürich, Wellenberg">Von</placeName><note type="critical">«w» über der Zeile</note> leerer <persName ref="Hofmann, Rudolf">Růdolff
+                                                  Hofman</persName>, w. <persName ref="Pfister, Walti">Wältj
+                                                  Pfister</persName>, leerer
+                                                  <persName ref="Bruppach, Rutsch">Růtsch Brupach</persName>,
+                                                  [im] n[üwen turm]<placeName ref="Zürich, Neuenturm"/><note type="critical">«n»
+                                                  über der Zeile</note> leerer <persName ref="Pfister, Hans">Hanns
+                                                  Pfister</persName>, <persName ref="Hön, Peter">Petter
+                                                  Hön</persName>, n. <persName ref="Hess, Walti">Wältj
+                                                  Hesß</persName>, w. <persName ref="Suter, Uli">Ulj
+                                                  Sutter</persName>.</p>
+                                                  <p rend="margin-top">Von <placeName ref="Horgen">Horgen</placeName>: w.<note type="critical">«w» über
+                                                  der Zeile</note> leerer <persName ref="Landis, Heini">Heinj Landiß</persName>, leerer <persName ref="Landis, Hans">Hanns
+                                                  Landiß</persName>.</p>
+                                                  <p rend="margin-top">W. <persName ref="Wäber, Gorius">Gorius Wäber</persName> von Ebertschwyl<note type="editorial"> Ebertswil</note><placeName ref="Ebertswil"/>, w. <persName ref="Hochstrasser, Jakob">Jacob Hochstraßer</persName> von Wetzwyl<note type="editorial"> Wettswil am
+                                                  Albis</note><placeName ref="Wettswil"/>, w. <persName ref="Erzinger, Uli">Ulj
+                                                  Ertzinger</persName> ab
                                                   Guldinen<note type="editorial">
-                                                  Guldenen</note><placeName ref="Guldenen"/>, n.<persName ref="Bindschedler, Heinrich">Heinrich Bindschedler</persName>von Erlibach<note type="editorial"> Erlenbach
-                                                  (Zürich)</note><placeName ref="Erlenbach"/>, w.<persName ref="Wälti, Jagli">Jaglj Wältj</persName>uß
+                                                  Guldenen</note><placeName ref="Guldenen"/>, n.
+                                                  <persName ref="Bindschedler, Heinrich">Heinrich Bindschedler</persName> von Erlibach<note type="editorial"> Erlenbach
+                                                  (Zürich)</note><placeName ref="Erlenbach"/>, w.
+                                                  <persName ref="Wälti, Jagli">Jaglj Wältj</persName> uß
                                                   Bernpiet jm Surthal<note type="editorial">
-                                                  Suhrental</note><placeName ref="Suhrental"/>, w.<persName ref="Bruppach, Jos">Joß Brugpach</persName>von<placeName ref="Wädenswil">Wedeschwyl</placeName>.</p>
+                                                  Suhrental</note><placeName ref="Suhrental"/>, w.
+                                                  <persName ref="Bruppach, Jos">Joß Brugpach</persName> von
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName>.</p>
                                                   </div>
     </body>
   </text>

@@ -81,7 +81,8 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Vogt zů<placeName ref="Kyburg">Kyburg</placeName>schryben,<persName ref="Schnyder, Hans">dem ­toüf­fer</persName>von Rorbiß<note type="editorial"> Rorbas</note><placeName ref="Rorbas"/> die bůß vermög deß jüngst
+      <div><p> <placeName ref="Kyburg">Vogt</placeName>
+                                                  schryben, dem ­toüf­fer<persName ref="Schnyder, Hans">zů Kyburg</persName> von Rorbiß<note type="editorial"> Rorbas</note><placeName ref="Rorbas"/> die bůß vermög deß jüngst
                                                   getruckten ußgangnen mandaths abzenemmen unnd jnne
                                                   der gfangenschafft zůerlassen, damitt er syne
                                                   patienten, deren er alhie und anderschwo ein gůten

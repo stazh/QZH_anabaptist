@@ -79,7 +79,10 @@
   </teiHeader>
   <text>
     <body>
-      <div><p>Unnsern frundtlichen, sunders<note type="editorial"> besonders</note>geneygten willen unnd alles gůts zuvor. Frommer unnd wyßer, jnnsunders getrüwer, lieber burger unnd vogt, unns kompt vil clegt von<persName ref="Müller, Frau">der Müllerin</persName>zů<placeName ref="Glattfelden">Glattfelden</placeName>, die vor ettwa meer jnn unnser
+      <div><p>Unnsern frundtlichen, sunders<note type="editorial"> besonders</note> geneygten
+                                                  willen unnd alles gůts zuvor. Frommer unnd wyßer,
+                                                  jnnsunders getrüwer, lieber burger unnd vogt, unns
+                                                  kompt vil clegt von <persName ref="Müller, Frau">der Müllerin</persName> zů <placeName ref="Glattfelden">Glattfelden</placeName>, die vor ettwa meer jnn unnser
                                                   gefangenschafft gewesen, wie das sy für unnd für
                                                   jnn jrer<note type="critical">Folgt gestrichen:
                                                   hardtnägkigkeyt unnd jrrunng</note> jrrung unnd
@@ -100,13 +103,14 @@
                                                   Daran thůstu unnser eernstlich meynung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
                                                   (Frühneuhochdeutsches Wörterbuch).</note>
                                                   <note type="critical">Folgt gestrichen: wir
-                                                  wellend von</note>. Uß<placeName ref="Zürich">Zürich</placeName>, mittwuchs vor Symonis unnd Jude
+                                                  wellend von</note>. Uß <placeName ref="Zürich">Zürich</placeName>, mittwuchs vor Symonis unnd Jude
                                                   1542.</p>
                                                   <p rend="margin-top">Burgermeyster unnd rath der
                                                   statt Zürich</p>
                                                   <p rend="margin-top">Dem frommenn unnd wysen,
                                                   unnserem jnnsunders getrüwen, lieben burger unnd
-                                                  vogt zů<placeName ref="Eglisau">Eglißow</placeName><persName ref="Bachofen, Beat">Batt Bachofen.</persName></p>
+                                                   <placeName ref="Eglisau">vogt</placeName> Batt
+                                                  Bachofen.<persName ref="Bachofen, Beat">zů Eglißow</persName></p>
                                                   </div>
     </body>
   </text>
