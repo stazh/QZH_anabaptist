@@ -5,12 +5,11 @@
 Segmentiert eine lange XML mit <div type="document"> in viele TEI-Dateien.
 
 Verbesserungen in dieser Version:
-- Korrekte Übernahme von <pb/> auch wenn sie Geschwister von <p> sind (keine Duplikate).
-- Robustes Handling von Mixed Content in editorialen Notizen.
+- Standard-Präfix auf "QZH" gesetzt (Dateinamen: QZH_XXX.xml).
+- <head type="Originalsprache"> wird im Body mit exportiert.
+- Korrekte Übernahme von <pb/> auch wenn sie Geschwister von <p> sind.
+- Robustes Handling von Mixed Content in editoriale Notizen.
 - Korrekte Einbindung der Processing Instruction (Stylesheet).
-
-Aufruf:
-    python split_Taeuferquellen_tei.py /pfad/zu/eingabe.xml /pfad/zum/ausgabeordner --prefix QZH
 """
 
 from pathlib import Path
@@ -53,22 +52,19 @@ def to_iso_date(date_str: str) -> Optional[str]:
     def monthnum(tok: str) -> Optional[str]:
         return MONTHS.get(tok.lower())
 
-    # YYYY MON DD
     if len(toks) >= 3 and toks[0].isdigit() and len(toks[0]) == 4 and monthnum(toks[1]) and toks[2].isdigit():
         y, m, d = toks[0], monthnum(toks[1]), toks[2].zfill(2)
         return f"{y}-{m}-{d}"
-    # DD MON YYYY
     if len(toks) >= 3 and toks[0].isdigit() and monthnum(toks[1]) and toks[2].isdigit() and len(toks[2]) == 4:
         d, m, y = toks[0].zfill(2), monthnum(toks[1]), toks[2]
         return f"{y}-{m}-{d}"
-    # YYYY MON (ohne Tag) -> 01
     if len(toks) >= 2 and toks[0].isdigit() and len(toks[0]) == 4 and monthnum(toks[1]):
         y, m = toks[0], monthnum(toks[1])
         return f"{y}-{m}-01"
     return None
 
 def clean_vorlage(text: str) -> str:
-    """Bereinigt Vorlage-Texte: 'Vorlage:' + Leerraum entfernen, 'StAZH' normalisieren."""
+    """Bereinigt Vorlage-Texte."""
     if not text:
         return ""
     t = text.strip()
@@ -91,9 +87,8 @@ def build_header(head_text: Optional[str],
                  ms_idno: Optional[str],
                  iso_date: Optional[str],
                  qgts_nr: Optional[str] = None) -> etree._Element:
-    """Baut den TEI-Header inkl. history + additional (Edition)."""
+    """Baut den TEI-Header."""
     teiHeader = tei_el("teiHeader")
-
     fileDesc = tei_sub(teiHeader, "fileDesc")
     titleStmt = tei_sub(fileDesc, "titleStmt")
     tei_sub(titleStmt, "title", "Quellen zur Zürcher Geschichte")
@@ -121,7 +116,6 @@ def build_header(head_text: Optional[str],
     msDesc = tei_sub(sourceDesc, "msDesc")
     msIdentifier = tei_sub(msDesc, "msIdentifier")
     tei_sub(msIdentifier, "idno", ms_idno or "")
-
     tei_sub(msDesc, "head", head_text or "")
 
     history = tei_sub(msDesc, "history")
@@ -129,17 +123,13 @@ def build_header(head_text: Optional[str],
         origin = tei_sub(history, "origin")
         tei_sub(origin, "origDate", None, **{"when": iso_date})
 
-    # Editionsblock
     if qgts_nr:
         additional = tei_sub(msDesc, "additional")
         listBibl = tei_sub(additional, "listBibl")
         tei_sub(listBibl, "head", "Edition")
         bibl_outer = tei_sub(listBibl, "bibl")
         bibl_inner = tei_sub(bibl_outer, "bibl")
-        ref_el = tei_sub(
-            bibl_inner, "ref", "QGTS",
-            **{"target": "https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"}
-        )
+        ref_el = tei_sub(bibl_inner, "ref", "QGTS", **{"target": "https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"})
         if ref_el is not None:
             ref_el.tail = f", Bd. 5, Nr. {qgts_nr}"
 
@@ -158,7 +148,6 @@ def extract_first_text(el) -> Optional[str]:
     return "".join(el.itertext()).strip()
 
 def fix_inline_persnames(p_el: etree._Element):
-    """Überträgt Wörter vor leerem <persName/> in das Element."""
     WORD = r'[^\W\d_]+(?:-[^\W\d_]+)?'
     NAME_RE = re.compile(rf'({WORD})(\s+)({WORD})(\s*)$', flags=re.UNICODE)
 
@@ -195,7 +184,6 @@ def fix_inline_persnames(p_el: etree._Element):
             pers.text = name_text
 
 def fix_inline_placenames(p_el: etree._Element) -> None:
-    """Wandelt TOKEN<placeName/> in <placeName>TOKEN</placeName>."""
     WORD_RE = re.compile(r'([^\W\d_]+(?:-[^\W\d_]+)?)(\s*)$', flags=re.UNICODE)
 
     def extract_last_word_preserve_space(container, use_tail: bool) -> Optional[str]:
@@ -223,22 +211,16 @@ def fix_inline_placenames(p_el: etree._Element) -> None:
             pn.text = token
 
 def build_tei_tree(head_text, series_idno, ms_idno, iso_date, content_nodes, editorial_notes, qgts_nr=None):
-    """Erstellt den TEI-Baum."""
     root = etree.Element("{%s}TEI" % TEI_NS, nsmap={None: TEI_NS, "xsi": XSI_NS})
-
-    # Header
     teiHeader = build_header(head_text, series_idno, ms_idno, iso_date, qgts_nr)
     root.append(teiHeader)
 
-    # Text / Body
     text = tei_sub(root, "text")
     body = tei_sub(text, "body")
     div = tei_sub(body, "div")
 
-    # Content Nodes einfügen (<p> und <pb/>)
     for node in content_nodes:
         node_copy = deepcopy(node)
-        # Nur bei <p> die Inline-Fixes anwenden
         if etree.QName(node_copy).localname == "p":
             try:
                 fix_inline_persnames(node_copy)
@@ -247,35 +229,25 @@ def build_tei_tree(head_text, series_idno, ms_idno, iso_date, content_nodes, edi
                 pass
         div.append(node_copy)
 
-    # <back> für editoriale Notizen
     if editorial_notes:
         back = tei_sub(text, "back")
         for note in editorial_notes:
             note_div = tei_sub(back, "div")
             p = tei_sub(note_div, "p")
-            
-            # WICHTIG: Mixed Content sicher kopieren
-            # 1. Text direkt im p
             p.text = note.text
-            # 2. Kind-Elemente inkl. deren Tails
             for child in note:
                 child_copy = deepcopy(child)
                 p.append(child_copy)
 
     return root
 
-def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
+def process(input_xml: Path, outdir: Path, prefix: str = "QZH"):
     outdir.mkdir(parents=True, exist_ok=True)
-
     parser = etree.XMLParser(remove_blank_text=False)
     tree = etree.parse(str(input_xml), parser)
-
     divs = tree.xpath('//*[local-name()="div" and @type="document"]')
 
-    # Start-Index jetzt auf 115 gesetzt
     for idx, d in enumerate(divs, start=115):
-        
-        # HEAD ohne editoriale Notizen für den Header extrahieren
         head_el = d.xpath('.//*[local-name()="head"]')
         if head_el:
             head_copy = deepcopy(head_el[0])
@@ -287,7 +259,6 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
         else:
             head_text = ""
 
-        # ms_idno
         vorlage_el = d.xpath('.//*[local-name()="div" and @type="vorlage"]')
         original_el = d.xpath('.//*[local-name()="div" and @type="original"]')
         ms_idno = ""
@@ -296,13 +267,10 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
         elif original_el:
             ms_idno = clean_vorlage(extract_first_text(original_el[0]) or "")
 
-        # --- FIX: INHALT SELEKTIEREN ---
-        # Wir wählen <p> oder <pb>, aber nur solche, die NICHT innerhalb eines anderen <p> liegen.
-        # Das verhindert Duplikate bei verschachtelten <pb> und erfasst Geschwister-<pb> korrekt.
-        content_xpath = './/*[(local-name()="p" or local-name()="pb") and not(ancestor::*[local-name()="p"])]'
+        # --- FIX: Inkludiert nun <head type="Originalsprache"> ---
+        content_xpath = './/*[(local-name()="p" or local-name()="pb" or (local-name()="head" and @type="Originalsprache")) and not(ancestor::*[local-name()="p"])]'
         content_nodes = d.xpath(content_xpath)
 
-        # Source / Date Parsing
         iso_when = None
         qgts_nr = None
         src_with_n = d.xpath('.//*[local-name()="div" and @type="source" and @n][1]')
@@ -317,32 +285,23 @@ def process(input_xml: Path, outdir: Path, prefix: str = "doc"):
             iso_when = to_iso_date(date_attr)
             qgts_nr = (src.get('n') or '').strip() or None
 
-        # Editoriale Notizen (nur aus <head>)
         editorial_notes = []
         for n in d.xpath('.//*[local-name()="note" and @type="editorial"]'):
-            # Prüfen ob ancestor 'head' ist
             if any((anc.tag.endswith("head")) for anc in n.iterancestors()):
                 editorial_notes.append(n)
 
-        # TEI Struktur bauen
         series_idno = f"{prefix}_{idx}"
         tei_root = build_tei_tree(head_text, series_idno, ms_idno, iso_when, content_nodes, editorial_notes, qgts_nr)
-
-        # --- FIX: PI KORREKT EINBINDEN ---
-        # Erst den Tree erstellen, dann PI hinzufügen
         tei_tree = etree.ElementTree(tei_root)
         
         pi = etree.ProcessingInstruction(
             "xml-stylesheet",
             "type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'"
         )
-        # PI vor dem Root-Element einfügen
         tei_tree.getroot().addprevious(pi)
 
-        # Schreiben
         filename = f"{prefix}_{idx}.xml"
         out_path = outdir / filename
-        
         tei_tree.write(str(out_path), encoding="UTF-8", xml_declaration=True, pretty_print=True)
         print(f"Geschrieben: {out_path}")
 
@@ -350,7 +309,7 @@ def main():
     ap = argparse.ArgumentParser(description="Segmentiert TEI/XML nach <div type='document'>.")
     ap.add_argument("input", type=Path, help="Pfad zur Eingabe-XML")
     ap.add_argument("outdir", type=Path, help="Ausgabe-Ordner")
-    ap.add_argument("--prefix", default="doc", help="Dateinamen-Präfix")
+    ap.add_argument("--prefix", default="QZH", help="Dateinamen-Präfix")
     args = ap.parse_args()
     process(args.input, args.outdir, args.prefix)
 
