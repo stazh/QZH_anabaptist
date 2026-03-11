@@ -4,11 +4,14 @@
 """
 Segmentiert eine lange XML mit <div type="document"> in viele TEI-Dateien.
 
-Verbesserungen in dieser Version (v5):
-- FIX: ECHTE VERSCHIEBUNG. Wenn ein Name vor einer <note> gefunden wird, 
-  wird der <persName>-Tag physisch vor die Note verschoben.
-  (Vorher blieb der Tag hinter der Note und zog den Text mit sich).
-- FIX: Stopword-Logik und Backtracking (aus v3/v4 übernommen).
+Verbesserungen in dieser Version (v6):
+- FIX: Wenn <persName/> direkt nach einer <note> steht, schaut das Skript nun ZUERST 
+  in die Note. Ist der Name dort, wandert der Tag IN die Note.
+- FIX: <placeName> nutzt nun dieselbe intelligente Backtracking-Logik wie <persName>.
+- FIX: Historische Stopwords erweitert ("zů", "ze", "uff", "vff", etc.), damit 
+  "zů Stadel" nicht als Person erkannt wird.
+- FIX: Beim Löschen/Verschieben von Tags werden nachfolgende Leer/Satzzeichen (tail) 
+  strikt gerettet.
 """
 
 from pathlib import Path
@@ -39,15 +42,15 @@ MONTHS = {
 # Wörter, die signalisieren, dass das Wort davor KEIN Teil des Namens ist.
 STOPWORDS = {
     "und", "oder", "aber", "sondern", "denn", "doch",
-    "vnnd", "oder", "aber", # Historisch
+    "vnnd", # Historisch
     "der", "die", "das", "dem", "den", "des", "ein", "eine", "einer", "eines",
     "von", "zu", "in", "im", "am", "auf", "bei", "mit", "nach", "für", "über",
+    "zů", "ze", "uff", "vff", "uß", "ob", # Historische Präpositionen
     "dass", "da", "weil", "wenn", "als", "wie",
     "herr", "frau", "meister", "meyster", "doktor", "doctor" 
 }
 
 def to_iso_date(date_str: str) -> Optional[str]:
-    """Erwartet z.B. '1542 Oktober 25'."""
     if not date_str:
         return None
     s_norm = re.sub(r"\s+", " ", date_str.strip())
@@ -158,19 +161,9 @@ def extract_first_text(el) -> Optional[str]:
     return "".join(el.itertext()).strip()
 
 def fix_inline_persnames(p_el: etree._Element):
-    """
-    Sucht vor <persName/> nach Wörtern.
-    Strategie:
-    1. Container suchen (Note überspringen).
-    2. Wenn gefunden: 
-       - Neuen <persName> Tag erstellen.
-       - Diesen Tag AN DER STELLE des Textes einfügen (also vor die Note!).
-       - Alten Tag löschen.
-    """
     WORD = r'[^\W\d_]+(?:-[^\W\d_]+)?'
     NAME_FLEX_RE = re.compile(rf'(?:({WORD})(\s+))?({WORD})(\s*)$', flags=re.UNICODE)
 
-    # Hilfsfunktion, die jetzt Analyse-Daten zurückgibt statt nur Text
     def analyze_container_text(text: str) -> Optional[Tuple[str, int, str]]:
         if not text: return None
         m = NAME_FLEX_RE.search(text)
@@ -191,8 +184,6 @@ def fix_inline_persnames(p_el: etree._Element):
             
         return (name_text, cut_pos, ws_end)
 
-    # Durch alle leeren persNames iterieren
-    # Wir machen eine Liste, da wir den Tree verändern werden
     for pers in list(p_el.xpath('.//*[local-name()="persName"]')):
         if pers.text and pers.text.strip():
             continue
@@ -200,7 +191,6 @@ def fix_inline_persnames(p_el: etree._Element):
         parent = pers.getparent()
         if parent is None: continue
         
-        # --- Container Suche ---
         container = None
         use_tail = False
         curr = pers.getprevious()
@@ -211,86 +201,131 @@ def fix_inline_persnames(p_el: etree._Element):
                 use_tail = False
                 break
             
-            # Hat das Element Text im Tail?
             if curr.tail and curr.tail.strip():
                 container = curr
                 use_tail = True
                 break
             
-            # Überspringen
             tag_local = etree.QName(curr).localname
             if tag_local in ['note', 'pb', 'lb', 'cb', 'gap']:
+                # NEU: Steht der Name IN der Note?
+                if tag_local == 'note' and len(curr) == 0 and curr.text and curr.text.strip():
+                    res = analyze_container_text(curr.text)
+                    if res:
+                        container = curr
+                        use_tail = False
+                        break
                 curr = curr.getprevious()
                 continue
             
-            # Sonstiges Element: nehmen wir dessen Tail
             container = curr
             use_tail = True
             break
             
-        # Wenn wir nichts gefunden haben
         if container is None: continue
 
-        # --- Analyse ---
         text_to_check = container.tail if use_tail else container.text
         result = analyze_container_text(text_to_check)
         
         if result:
             name_text, cut_pos, ws_end = result
             
-            # --- DOM OPERATION: MOVE AND REPLACE ---
-            
-            # 1. Neuen Tag erstellen (Kopie der Attribute)
             new_pers = deepcopy(pers)
             new_pers.text = name_text
-            # Der Whitespace, der NACH dem Namen kam, wird zum Tail des neuen Tags
             new_pers.tail = ws_end 
             
-            # 2. Text im Container abschneiden
             remaining_text = text_to_check[:cut_pos]
             
             if use_tail:
                 container.tail = remaining_text
-                # Einfügen: NACH dem Container
                 parent_of_container = container.getparent()
-                # Index finden
                 idx = parent_of_container.index(container)
                 parent_of_container.insert(idx + 1, new_pers)
             else:
                 container.text = remaining_text
-                # Einfügen: Als ERSTES Kind des Containers (der Parent ist)
                 container.insert(0, new_pers)
                 
-            # 3. Alten Tag löschen
+            # Sicher löschen (Tail retten)
+            if pers.tail:
+                prev_sib = pers.getprevious()
+                if prev_sib is not None:
+                    prev_sib.tail = (prev_sib.tail or '') + pers.tail
+                else:
+                    parent.text = (parent.text or '') + pers.tail
             parent.remove(pers)
 
+
 def fix_inline_placenames(p_el: etree._Element) -> None:
-    # Hier lassen wir die einfache Logik, da Ortsnamen selten von Notes getrennt sind.
-    # Falls doch, müsste man die Logik von oben spiegeln.
     WORD_RE = re.compile(r'([^\W\d_]+(?:-[^\W\d_]+)?)(\s*)$', flags=re.UNICODE)
 
-    def extract_last_word_preserve_space(container, use_tail: bool) -> Optional[str]:
-        txt = (container.tail if use_tail else container.text) or ''
-        m = WORD_RE.search(txt)
-        if not m:
-            return None
+    def analyze_container_text_place(text: str) -> Optional[Tuple[str, int, str]]:
+        if not text: return None
+        m = WORD_RE.search(text)
+        if not m: return None
         token, ws_after = m.groups()
-        new_txt = txt[: m.start(1)] + ws_after
-        if use_tail:
-            container.tail = new_txt
-        else:
-            container.text = new_txt
-        return token
+        return (token, m.start(1), ws_after)
 
     for pn in list(p_el.xpath('.//*[local-name()="placeName" and not(normalize-space())]')):
         parent = pn.getparent()
         if parent is None: continue
-        prev = pn.getprevious()
-        token = extract_last_word_preserve_space(prev, True) if prev is not None else None
-        if not token:
-            token = extract_last_word_preserve_space(parent, False)
-        if token:
-            pn.text = token
+        
+        container = None
+        use_tail = False
+        curr = pn.getprevious()
+        
+        # Dieselbe intelligente Backtrack-Logik wie bei persName
+        while True:
+            if curr is None:
+                container = parent
+                use_tail = False
+                break
+            
+            if curr.tail and curr.tail.strip():
+                container = curr
+                use_tail = True
+                break
+            
+            tag_local = etree.QName(curr).localname
+            if tag_local in ['note', 'pb', 'lb', 'cb', 'gap', 'persName']:
+                curr = curr.getprevious()
+                continue
+            
+            container = curr
+            use_tail = True
+            break
+            
+        if container is None: continue
+
+        text_to_check = container.tail if use_tail else container.text
+        result = analyze_container_text_place(text_to_check)
+        
+        if result:
+            name_text, cut_pos, ws_end = result
+            
+            new_pn = deepcopy(pn)
+            new_pn.text = name_text
+            new_pn.tail = ws_end 
+            
+            remaining_text = text_to_check[:cut_pos]
+            
+            if use_tail:
+                container.tail = remaining_text
+                parent_of_container = container.getparent()
+                idx = parent_of_container.index(container)
+                parent_of_container.insert(idx + 1, new_pn)
+            else:
+                container.text = remaining_text
+                container.insert(0, new_pn)
+                
+            # Sicher löschen (Tail retten)
+            if pn.tail:
+                prev_sib = pn.getprevious()
+                if prev_sib is not None:
+                    prev_sib.tail = (prev_sib.tail or '') + pn.tail
+                else:
+                    parent.text = (parent.text or '') + pn.tail
+            parent.remove(pn)
+
 
 def build_tei_tree(head_text, series_idno, ms_idno, iso_date, content_nodes, editorial_notes, qgts_nr=None):
     root = etree.Element("{%s}TEI" % TEI_NS, nsmap={None: TEI_NS, "xsi": XSI_NS})
