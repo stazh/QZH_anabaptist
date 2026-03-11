@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_654</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_654</idno>
+          </msIdentifier>
+          <head>Fürtrag der Kirchenleitung von
+                                                  Zürich vor dem Rat</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1598-05-12"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 505</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Fürtrag an burgermeister und raht alhie den
+                                                  12ten maij a[nn]o 1598 beträffend 1. die
+                                                  ­toüf­ferische sect, 2. die nüwen
+                                                  uffgewachsnen<note type="editorial"> aufgekommen,
+                                                  Id. XV, 297.</note> frömbden ordens mäner der
+                                                  jesuitern und capuzineren, 3. die religions
+                                                  beschwerden jn den gemeinen herrschafften und jm
+                                                  <placeName ref="Toggenburg">Toggenburg</placeName>, so
+                                                  beschähen von den kilchen dieneren der statt und
+                                                  landschafft Zürich.</p>
+                                                  <p rend="margin-top">Herr burgermeister, fromm
+                                                  etc. Sitenmalen<note type="editorial"> da, weil,
+                                                  Id. IV, 147.</note> zwejerlej ungleiche und
+                                                  widerwertige geschlächt der mentschen, namlich die
+                                                  ­toüf­ferische sect an einen und dann noch die
+                                                  noüwlich uff gewachßnen frömbden und ußländischen
+                                                  ordens mäner der jesuitern und capucineren am
+                                                  anderen theil sich wider unß und unsere religions
+                                                  verwanten in einer lobl[ichen] eidtgnoschafft jn
+                                                  underthrukung evang[elischer] worheit und gmeines
+                                                  fridens, ruw und wohlstants gar fräffentlich
+                                                  herfür thunnd unnd bruchen lassend, ja sich diser
+                                                  jezigen zeit vil frächer und truzlicher, dan
+                                                  vormals je beschehen, erzeigend darjn dan jezt
+                                                  gemältes jesuitern und capuzineren alß spanischen
+                                                  exploratoribus und hetzhünden etliche benochburte
+                                                  bischoff, apt und prælaten, so unß bede jres |
+                                                  [fol. 91v] harkommende auch stand und ambts halb
+                                                  nit gönstig noch hold mit raht, that,
+                                                  fürschub<note type="editorial"> Beihilfe, Id.
+                                                  VIII, 84.</note> und bistand, wie die tägliche
+                                                  erfahrung gnůgsam bezeügen, mächtig beholffen
+                                                  sind.</p>
+                                                  <p>So habend jhr, unßer g. h., so von rehten und
+                                                  burgeren einem ehrsamen synodo verschynen
+                                                  zynstags<note type="editorial"> 9. Mai (a.
+                                                  St.)</note> bejgewohnet, wie auch euwere kilchen
+                                                  diener in stat und land (nachdem soliche vor augen
+                                                  schwäbende gfehrliche und schädliche sachen durch
+                                                  etliche herr[en] decanos bericht und klagswiß zum
+                                                  ernstlichisten anzogen und fürgebracht worden) uch
+                                                  gfallen lassen, daß diewil die verordneten herren
+                                                  zur lehr umb anderer ursachen willen uß eweer
+                                                  (unser g. h.) anordnung und befelch die her[ren]
+                                                  decanos ab der landschafft mit sambt den
+                                                  camerarijs und eltisten uff mitwuchen nach dem
+                                                  synodo zu sich beruffen und etwas fürderlicher
+                                                  underordnung mit jnen halten werdent, so solle man
+                                                  alßdan in der kilchen dieneren gemeiner
+                                                  versammlung in stet und landt die beid articel,
+                                                  nammlich wie der teüfferischen sect, deßgleichen
+                                                  auch denen fridhäßigen ordens mäneren und
+                                                  jren<note type="critical">Folgt gestrichen: s
+                                                  [Lesung unsicher]</note> autoribus, patronen und
+                                                  hälffer zubegegnen, auch wie die jugent jn
+                                                  glaubens sachen beser und grundtlicher zů
+                                                  underrichten mit ein anderen fleißig und wol zů
+                                                  berathschlagen für sich nemmen und waß diß orts
+                                                  unser gutdunken sein möchte, volgents fürderlich
+                                                  an uch, unser g. h., wither nach deren gefalen
+                                                  darinen zehanndlen, langen zelassen, welichem dan
+                                                  wir bilich verschinen mitwuchens ghorsammlich
+                                                  nachkommen und stat beschähen ist.</p>
+                                                  <p>Wollend hiemit e[wer] e[rsam] w[ysheit] durch
+                                                  dise underthenig und demütige suplication und
+                                                  schriftlichen fürtrag deß alles einfalt berichten
+                                                  und verständigen der trostlichen hofnung, [fol.
+                                                  92r] e. e. w. werde sömlichs gönstig anhören und
+                                                  beherzigen und von unß alß eweren kilchen dieneren
+                                                  jn allen gnaden uffnemmen und verstahn.</p>
+                                                  <p>Waß nun für daß erst die underwyßung der jugent
+                                                  und kinderbericht belanget, sambt der
+                                                  ­toüf­ferischen sect, diewil hieran nüt wenig
+                                                  mangels seye befunden, habent die h[e]r[ren]
+                                                  decani und camerarij sich anerbotten und uff daß
+                                                  fürderlichest zů verständigen, wo und welicher
+                                                  gstalten der mangel beschaffen und wie dem
+                                                  selbigen jres erachtens zu helffen, derhalben wir
+                                                  dißen handel dißmal růwen lassen biß das ein
+                                                  ordentlicher ußzug desselbigen jn gschrifft
+                                                  verfassen, jn kurzem an eüch, unßer g. h., zu
+                                                  deren witheren gedencken langen wirt.</p>
+                                                  <p>[…]<note type="editorial"> Zweites und drittes
+                                                  Traktandum des Fürtrags sind umfangreicher und
+                                                  betreffen die gegenreformatorischen Aktivitäten
+                                                  der Jesuiten, Kapuziner und Prälaten sowie
+                                                  einzelner Vertreter der Fünf Orte in den gemeinen
+                                                  Herrschaften. Darin und in der zunehmenden
+                                                  Diskriminierung der evangelischen Bevölkerung in
+                                                  der Grafschaft Baden, im Thurgau, im Rheintal und
+                                                  im Toggenburg erblickte die Kirchenleitung eine
+                                                  Verletzung des Landfriedens von 1531, worauf die
+                                                  Politik ihres Erachtens reagieren
+                                                  sollte.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

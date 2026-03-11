@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_399</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_399</idno>
+          </msIdentifier>
+          <head>Heinrich Cramer
+                                                  Heinrich Cramer (1529-1594) an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-01-16"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 250</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edel, stränng, from, eernvest, fürsichtig,
+                                                  ersam, wiß, jnnsonnders gnedig günstig, jr min
+                                                  herenn, min unnderthenig, gehorsam, ganntz gneigt
+                                                  unnd gůtwiliger dienst sig eüwer ersam wißheidt
+                                                  mit aller unnderthenigkeidt alzit bereidt, unnd
+                                                  thůn eüch hiemit zůvernemen, nachdem <persName ref="Ruman, Peter">Peter
+                                                  Roman</persName> vonn
+                                                  <placeName ref="Schöfflisdorf">Schöfflystorff</placeName>,
+                                                  wie jr, min gnedig heren, wol wüßendt, jetz lannge
+                                                  zit mit der thöüffery umbganngen unnd eüch, minen
+                                                  gnedigen heren, verheißenn, niemendts darzu
+                                                  zezüchen, sonder aleyn jnn siner hußhaltung
+                                                  zubelyben, so thüge er doch syner zůsag dheyns
+                                                  wägs nit statt etc., louffe hin unnd wider jnn die
+                                                  höltzer unnd plätz unnd richte soliche schädliche
+                                                  sägkt ann, darzu habe er sinen <persName ref="Ruman, Michel">sun Michel</persName> auch dahin bracht, das er zu
+                                                  eynem sölichen eelenden mentschen unnd thöüffer
+                                                  auch wordenn jst. Dennsälben jch zů denn
+                                                  bredicanden jnn eüwer miner gnedigen heren schloß
+                                                  fuͤren laßen, den eigenlichen wellen erfaren,
+                                                  worumb er eüch, minen gnedigen heren, nit
+                                                  gehorsame leisten unnd zů kilchen gan welle, habe
+                                                  er darüber nützit anntwurten wellen, dann was er
+                                                  fürsich genomen, darby welle er blybenn, welle
+                                                  auch nit zů kilchen gann unnd dhein ghorsame nüt
+                                                  schwerenn von sölichen sinen unnd sines vatters
+                                                  mißthatten wägen, wagen jch verursachendt,
+                                                  dennsälben Michel Roman eüch, mynen gnedigen
+                                                  heren, alß eyn ungehorsamen zů zuschigken, statt
+                                                  nach jrem mißhandlen zů beschuldenn unnd nach
+                                                  eüwerm gfalen mit jme zehandlen. Actum denn 6. tag
+                                                  wynmonat anno 81. Jar.</p>
+                                                  <p rend="margin-top">[Uwer wyßheit]<note type="critical">In der Vorlage eine schwer lesbare
+                                                  Abkürzung.</note> alzit gantz gneigt unnd
+                                                  guttwiliger dienner</p>
+                                                  <p>Heynrich Kraamer, obervogt der herrschafft
+                                                  <placeName ref="Regensberg">Ragensperg</placeName></p>
+                                                  <p rend="margin-top">Denn edlenn, stränngen,
+                                                  fromen, eernnvesten, fürsichtigen, ersamen, unnd
+                                                  wyßen herenn burgermeister unnd ratt der statt
+                                                  Zürich, minen innsonders gnedigen, günstigenn,
+                                                  liebenn heren.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Heinrich Cramer (1529-1594)</p>
+    </back>
+  </text>
+</TEI>

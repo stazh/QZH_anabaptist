@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_673</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_673</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Salomon Hirzel (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1599-10-06"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 524</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern gönstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger unnd vogt, es jst <note type="critical">Folgt gestrichen: mein</note>
+                                                  bevelch an dich, du wellist gegen den unnsern
+                                                  <persName ref="Sträuli, Hans">Hannßen Stroüwlj</persName> zů
+                                                  Wedeschwyl<note type="critical">«zů Wedeschwyl» am
+                                                  Rand mit Verweiszeichen</note><placeName ref="Wädenswil">unnser</placeName> verschaffen, das er biß mentag
+                                                  zů mittag zů unnserm lieben mittrath Hans <persName ref="Wolf, Hans Ulrich">Ulrich
+                                                  Wolffen</persName> alher
+                                                  khomme unnd, was derselbig jme von unsert wegen
+                                                  anzeigen wirt, anhöre. Fürs erst. Demnach fürs
+                                                  ander werden wir berichtet, wie das nit allein
+                                                  obgedachter Stroüwlj, sonnder ouch der unnser
+                                                  <persName ref="Hön, Heini">Heinj Hön</persName> von
+                                                  Wedeschwyl<note type="editorial"> Wädenswil</note>
+                                                  etwas<note type="critical">Folgt gestrichen: von
+                                                  der ­toüf­feren</note> gůts, so der persohnen, so
+                                                  von der widerthoüfferischen sect wegen jnn dem
+                                                  landt zů<note type="critical">«landt zů» am
+                                                  Rand</note> <placeName ref="Mähren">Mehrhern</placeName>
+                                                  sygen, unnderhanden habind.<note type="critical">Folgt gestrichen: Unnd die</note> Wann dann
+                                                  unns<note type="critical">Folgt gestrichen: diser
+                                                  abgethrettnen</note> von oberkeit wegen zůstadt,
+                                                  diserm gůt nachzefragen, so jst unnser bevelch an
+                                                  dich, du wellist vorgenannte beide, den Stroüwlj
+                                                  und Hön, und andere jnn dyner verwaltung, die sy
+                                                  beid dir wol anzeigen werden khönnen<note type="critical">«und andere … khönnen» am Rand mit
+                                                  Verweiszeichen</note>, für<note type="editorial">
+                                                  vor</note> dich bescheiden unnd von jnen
+                                                  erkhundigen, was unnd wie vil sy deß gůts
+                                                  unnderhanden, wo dasselbig gelegen<note type="critical">Folgt gestrichen: unnd</note>, wie
+                                                  es darmit gestaltet unnd wellichen persohnen
+                                                  dasselbig zůgehörig unnd was du also jnn erfarung
+                                                  bringst, unns desselbigen schrifftlichen
+                                                  berichten<note type="critical">Folgt gestrichen:
+                                                  deßen wir unns</note>, damit wir unns darnach
+                                                  feerner zehalten wüßint. Datum sambßtags de 6ten
+                                                  octobris a[nn]o etc. 99.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unnserm
+                                                  besonders gethrüwen, lieben burger unnd vogt zů
+                                                  Wedeschwyl Salomon Hirtzeln.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

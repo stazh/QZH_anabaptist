@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_664</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_664</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1598-10-30"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 515</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wyßunng etlicher widertöüfferischer personen
+                                                  jnn der herrschaft <placeName ref="Knonau">Knonauw</placeName></p>
+                                                  <p rend="margin-top">Es soll dem vogt zu Knonow
+                                                  zugeschriben werden, d[as] er durch sonderpare
+                                                  […]<note type="editorial"> Lesung unklar</note>
+                                                  personen syn gspech<note type="editorial">
+                                                  Nachforschung, Fahndung, Id. X, 76.</note>
+                                                  <note type="critical">«gspech» über der Zeile, in
+                                                  der Zeile gestrichen: machen</note> uff dise
+                                                  ­toüf­fer machen und wo er die bethretten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+                                                  1486.</note> […]<note type="editorial"> Lesung
+                                                  unklar</note> fengklichen zuschicken, und gegen
+                                                  die, so sy beherbergent und underschloff gebint,
+                                                  mit der straff, wie er verschines jars […]<note type="critical">Lesung unklar</note>, lut der
+                                                  mandathen fürfaren. Actum mentags den 30ten
+                                                  octobris a[nn]o 98 pr[aesen]t[ibus] herr
+                                                  <persName ref="Grossmann, Konrad">burgermeister Großman</persName> und beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

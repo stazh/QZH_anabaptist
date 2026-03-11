@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_197</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_197</idno>
+          </msIdentifier>
+          <head>Heinrich Cramer Zum
+                                                  Briefschreiber vgl. die Aufschrift des Kanzlisten
+                                                  auf der Rückseite des Dokumentes: «Vogt von
+                                                  Gruͤningen schrybt den fridbruch zwischen Hanns
+                                                  Bollern unnd Jacob Webern, jtem des sennen halb zů
+                                                  Bůbicken.» an den Bürgermeister von Zürich
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1550-10-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 48</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[…]<note type="editorial"> Der erste Teil des
+                                                  Schreibens betrifft einen Streit zwischen Hans
+                                                  Boller und Jakob Weber, beide keine Täufer.</note>
+                                                  Für das annder, gnädiger lieber her burgermeyster,
+                                                  min her schaffner von <placeName ref="Bubikon">Bůbikon</placeName>, der hat sich sines senntes<note type="editorial"> Sennerei, milchwirtschaftlicher
+                                                  Alpbetrieb, Id. VII, 1007.</note> versächen mit
+                                                  einem sännen, der ein ­thöüf­fer. Und aber wider
+                                                  üwer miner heren mandat jst, das man die nüt
+                                                  beherbergen sölle. Ist doch mit dem sennen gret,
+                                                  das er wie ander eren lüt zum gotzwort ganng. Das
+                                                  aber bißhar nüt bschächen. Zů dem jch selbs mit
+                                                  dem schaffner gret, das er jn, den sännen, darzů
+                                                  halte, das er zůr ler gotes ganng<note type="critical">«ganng» am Rand mit
+                                                  Verweiszeichen</note> und sich von dem widerthouff
+                                                  abkere. So find jch doch, das man keiner beserung
+                                                  warten jst. Uff das lanngt an üch min flisig piyt
+                                                  und begären, wellend so wol thůn und genamtem
+                                                  schaffner verschriben, das er genamten sinenn
+                                                  sännen darzů halte, das er wie ander eren lüth jn
+                                                  die kilchen ganng. Wo nüt, das er jnne hindan uß
+                                                  üwer (miner herren) grichten und gepieten abwyse,
+                                                  je nach üwerem gfallen und gůt beduncken ouch
+                                                  vermög der mandaten und satzungenn. Söliches stadt
+                                                  mir umb üch jeden jnsonders jn under­thanikeyt zů
+                                                  beschulden. Datum den 10. tag winmonat jm
+                                                  1550.</p>
+                                                  <p rend="margin-top">[Unterschrift fehlt]</p>
+                                                  <p rend="margin-top">Dem fromenn, vesten,
+                                                  fürsichtigenn, ersamenn unnd wysenn her <persName ref="Haab, Johannes">Johannsenn
+                                                  Habenn</persName>,
+                                                  burgermeister der statt <placeName ref="Zürich">Zürich</placeName>, minem gnädigenn herrenn.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Zum
+                                                  Briefschreiber vgl. die Aufschrift des Kanzlisten
+                                                  auf der Rückseite des Dokumentes: «Vogt von
+                                                  Gruͤningen schrybt den fridbruch zwischen Hanns
+                                                  Bollern unnd Jacob Webern, jtem des sennen halb zů
+                                                  Bůbicken.»</p>
+    </back>
+  </text>
+</TEI>

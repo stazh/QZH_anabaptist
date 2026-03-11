@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_341</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_341</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Felix
+                                                  Brunner
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1574-11-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 192</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders getrüwer,
+                                                  lieber burger und vogt, sidt das du unsers wider
+                                                  die ­toüf­fer ußgangen mandath<note type="critical">Folgt gestrichen: verkhu</note>
+                                                  jnn diner amptsverwaltung ver­khünden und
+                                                  mengklichen<note type="editorial"> jeden</note>
+                                                  sich dero zemuͤßigen warnnen lassen, hatt unnser
+                                                  lieber<note type="critical">«lieber» am Rand, in
+                                                  der Zeile gestrichen: lie</note> burger <persName ref="Vogel, Marx">Marx
+                                                  Vogel</persName>, statthalter zů
+                                                  <placeName ref="Bubikon">Bůbicken</placeName>, unserm lieben
+                                                  bůrgermeister herr <persName ref="Kambli, Hans">Johansen Kamblj</persName> angezeigt, wiewol syn
+                                                  werchmeister und senn sich deß gwonlichen
+                                                  kilchgangs üsserind, so habint sy doch zů den
+                                                  ­toüf­fern, noch dieselben zů jnen<note type="critical">Folgt gestrichen: dhe</note>
+                                                  einichen wandel ald gmeindtschafft. Mit bitt, jme
+                                                  die (jnansehung, das sy jme jnn synes habenden
+                                                  ampts sachen gantz dientstlich) nit zevertriben,
+                                                  sonders recht by jrem weßen blyben zelassen, deß
+                                                  erbietens zů verschaffen<note type="editorial">
+                                                  machen, dass etwas geschieht, Id. VIII,
+                                                  335-337.</note>
+                                                  <note type="critical">«zů verschaffen» am Rand mit
+                                                  Verweiszeichen</note>, das sy usserthalb dem
+                                                  kilchgang sich jn alweg unsern christenlichen<note type="critical">«christenlichen» über der
+                                                  Zeile</note> satzungen gemesß halten. Unnd wann
+                                                  nun hieruf gemelter<note type="editorial">
+                                                  erwähnter</note> unser burgermeister uns deß
+                                                  alleßen aller lenge nach bericht, will unns nit
+                                                  für thůnlich ansehen, disen<note type="critical">Folgt gestrichen: zweygen</note> zwo personnen
+                                                  fryge üsserung deß kilchgangs under uns zů
+                                                  gestattnen. Inn betrachtung, das<note type="critical">Folgt gestrichen: der</note> der
+                                                  kilchgang zevordrist zůbefürderen jst unnd so
+                                                  disen zweygen das zůgelasßen werden sölte, andere
+                                                  einen anlasß glychsfals zefaren nemmen. Derhalben
+                                                  so jst nochmalen unnser meinung, das [es] by
+                                                  unserm obangeregten mandath blybe, und du disem
+                                                  werchmeister und sennen anzeigen laßist, das sy
+                                                  jnn monats frist und ouch dann fürterhin<note type="editorial"> weiterhin</note> witer wie
+                                                  andere gehorsame under uns wonnende zur kilchen
+                                                  jnn die predig und zum gebätt gangint. Unnd so sy
+                                                  das thůnd wol und gůt, söllent sy frist<note type="editorial"> Aufenthalt, Id. I, 1335.</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  und</note>, sicherheit und blatz haben. Wo nit,
+                                                  alsdann du gegen disen beiden glych wie mit andern
+                                                  widerspennigen ­toüf­fern und<note type="critical">«gegen disen beiden … und» am Rand mit
+                                                  Verweiszeichen</note> (luth und vermög unsers
+                                                  ußgangnen mandaths) fürnemmen und handlen, woltend
+                                                  wir dir uff das, so diser zwo personen halben an
+                                                  uns und villichten an dich ouch gelanget jst, zů
+                                                  bscheid nit verhalten, mit erbietung unsers
+                                                  günstigen willens. Datum mitwuchs den 3ten
+                                                  novembris anno etc. 74.</p>
+                                                  <p rend="margin-top">B[urgermeister] u[nd] r[ath]
+                                                  d[er] s[tatt] Z[ürich]</p>
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_621</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_621</idno>
+          </msIdentifier>
+          <head>Zwangsverwaltung des Besitzes von Elsa
+                                                  Nespler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1594-11-23"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 472</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als Elsa Nasplerin,  <placeName ref="Höri">Hörj</placeName> bürttig, so vor jaren mitt den
+                                                  ­toüf­feren jnn <placeName ref="Mähren">Mehreren</placeName>
+                                                  gezogen, mitt bystannd jres eemans <persName ref="Abner, Enderli">Ännderlj
+                                                  Abnern</persName> von
+                                                  Wolfanitz<note type="editorial"> Olbramovice
+                                                  (deutsch Wolframitz)<placeName ref="Olbramovice"/></note> uß Mehrerren myn gnedig herren,
+                                                  burgemeister unnd rath der statt Zürich, angelangt
+                                                  und gebätten, sy, myn gnedig herren, welten jre jr
+                                                  gůtt, so 193 guldin 10 schilling<note type="critical">In der Vorlage: ß</note> an einem
+                                                  schuldbrief <persName ref="Keller, Heini">uff Heinj</persName> unnd Bläßj <persName ref="Keller, Bläsi">den Källern</persName> zů Küchelhörj<note type="editorial"> alte Bezeichnung von
+                                                  Endhöri</note><placeName ref="Endhöri">von</placeName> wyßende
+                                                  und bißhar hinder herren seckelmeister
+                                                  Schwertzenbach<note type="editorial"> Matthias
+                                                  Schwerzenbach (gest. 1595)<persName ref="Schwerzenbach, Matthias"/></note> bhalts wyße
+                                                  glägen, nachfolgen laßen etc., habennd haruf
+                                                  wolgenant myn gnedig herren uß jrem raths mittel
+                                                  verordnett herren lanndtvogt<note type="critical">Folgt gestrichen: Raanen</note>
+                                                  Schwertzenbach<note type="editorial"> Hartmann
+                                                  Schwerzenbach (1538-1603)<persName ref="Schwerzenbach, Hartmann"/></note> unnd
+                                                  j[unker] Wilhelm Äscher<note type="editorial">
+                                                  Wilhelm Escher vom Luchs (1542-1602)<persName ref="Escher vom Luchs, Wilhelm"/></note> mitt
+                                                  bevelch, nach gstallt der sachen harinnen
+                                                  zehanndlen etc.</p>
+                                                  <p>Welliche nun diß gůtts halben von jren
+                                                  schuldnern ouch von wägen der usstännden zinnßen
+                                                  bscheid und rächnung ervorderet unnd jst das
+                                                  ganntz gůtt danacher reichende wie volgt:</p>
+                                                  <p>193 g[ulden] 10 schilling<note type="critical">In der Vorlage: ß</note> houptgůts uff gesagten
+                                                  Källeren.</p>
+                                                  <p>57 g. 34 schilling söllennd sy darvon zinß von
+                                                  martinj anno etc. 88 biß uff martinj anno etc.
+                                                  94.</p>
+                                                  <p>Summa der ganntzen schuld 251 g. 4
+                                                  schilling.</p>
+                                                  <p rend="margin-top">Dargegen habennd sy
+                                                  bezallt:</p>
+                                                  <p>11 g., gabennd sy jr, Nasplerin, sälbs, als sy
+                                                  hinweg zögen.</p>
+                                                  <p>30 g. gabennd  <persName ref="Kern, Toni">Tönij Kernen</persName> von <placeName ref="Bülach">Bülach</placeName> unnd synem schwager <persName ref="Ott, Heini">Heinj
+                                                  Otten</persName> von
+                                                  Naßenwyl<note type="editorial"> Ortschaft der
+                                                  Gemeinde Niederhasli</note><placeName ref="Nassenwil">sy</placeName>, deßen sy beid anred<note type="editorial"> geständig, Id. VI, 542.</note>
+                                                  <note type="critical">Folgt gestrichen: und
+                                                  bekanndtlich</note> unnd urbütig<note type="editorial"> bereit, Id. IV. 1881.</note>
+                                                  widerumb zleggen.</p>
+                                                  <p>Summa 41 g.</p>
+                                                  <p rend="margin-top">Also sinnd die Källern
+                                                  schuldig bliben:</p>
+                                                  <p>193 g. 10 schilling houptgůtts.</p>
+                                                  <p>16 g. 34 schilling by verfallnen zinnßen one
+                                                  die 30 g., so Kernn empfangen.</p>
+                                                  <p rend="margin-top">Uff sölliches habennd
+                                                  obgemält beid myn herren, die verordneten, sich
+                                                  harumbe deß enntschloßen, nammlich: Diewyl gesagte
+                                                  Näsplerin wider myner gnedigen herren ußganngne
+                                                  mandata hinweg zogen, ouch nach ein jung mentsch
+                                                  unnd villichter sy ald<note type="editorial">
+                                                  oder</note> jre kinnder widerumb alhar kommen
+                                                  möchten, so sölle obvermält houptgůtt, die 193 g.
+                                                  10 schilling, vollkommenlich wie bißhar hinnder
+                                                  mynen gnedigen herren bhaltswyße blyben leggenn,
+                                                  doch jr, Näsplerin, was by den verfallnen zinnßen
+                                                  nach ußstadt, gevolgen unnd mitt nammen Tönj Kernn
+                                                  unnd syn schwager jre die 30 g., so sy von
+                                                  Kelleren yngenommen, zůstellen. Demnach vermälte
+                                                  Kellerenn jre näbent obvermälten 16 guldinen 34
+                                                  schilling, so sy luther by verfallnen zinßen
+                                                  zethůnd, nach 9 gulden 26 schilling als ein jar
+                                                  zinns, so erst uff martinj deß nechskünfftigen 95.
+                                                  gefallen wirtt, thůtt 26 gulden 20 schilling also
+                                                  bar bezallen. Hiemitt jst sy, Näsplerin, umb alle
+                                                  bißhar verfallnen, ouch den uff martinj künfftigs
+                                                  95. jars gefallenden zinnß<note type="critical">«ouch den uff Martinj … zinnß» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen:
+                                                  zinnß</note> vernuͤgt<note type="editorial">
+                                                  zufriedenstellen, vergelten, Id. IV, 701.</note>
+                                                  unnd bezallt, welliches alles sy, Näsplerin, mitt
+                                                  jrem eeman deßglychen geruͤrte Källeren, ouch <persName ref="Kern, Toni">Tönj
+                                                  Kernn</persName> unnd syn
+                                                  schwager also angenommen unnd zehalten an herren
+                                                  lanndtvogt Schwertzenbachs hannd anglobt.</p>
+                                                  <p>Actum denn 23ten novembris anno etc. 94.</p>
+                                                  <p rend="margin-top">Unnderschryber</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

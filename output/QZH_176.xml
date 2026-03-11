@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_176</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_176</idno>
+          </msIdentifier>
+          <head>Jakob An der Rüti an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1543-07-27"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 27</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, strenngen, fromen, erenvesten,
+                                                  fürsichtigen, ersamen und wysen, sunders gnedig,
+                                                  günstig, lieb herren, uch sige min früntlich
+                                                  willig dienst mit erpiettung aller eeren nach
+                                                  schuldigen pflichten alletzyt bevor.  
+                                                  <persName ref="Segesser von Brunegg, Bernhard">der vogte</persName> von
+                                                  Keyßerstůl<note type="editorial"> Bernhard
+                                                  Segesser von Brunegg</note> verganngener tagen
+                                                  geschriben, wie sich etlich widerthöuffer
+                                                  gewonlich an sampstagen zů abent bey
+                                                  Waldhusen<note type="editorial"> Weiler der
+                                                  Gemeinde Fisibach im Grenzgebiet zu
+                                                  Zürich.</note><placeName ref="Waldhausen">Es</placeName> und
+                                                  daselbst umb uff den unndermarchen<note type="editorial"> Grenze, Markstein, Id. IV,
+                                                  389.</note> uwer herrschafft Regenspurg<note type="editorial"> Landvogtei
+                                                  Regensberg</note><placeName ref="Regensberg"/> und
+                                                  der graffschaft <placeName ref="Baden (Landgrafschaft)">Baden</placeName> versamlen söllen,
+                                                  achtet ouch wol, das er durch die sinen späch und
+                                                  uffsächen<note type="editorial"> späch und
+                                                  uffsächen: Nachforschung und Beobachtung, Id. VII,
+                                                  549, und X, 76.</note> haben wöllte, wann und an
+                                                  wölchem ordt sy zůsamen komen wurdent. Und so ich
+                                                  deß begärtte, wölt er mich deß berichten. Und alls
+                                                  ich söllich sin schryben herren burgermeister
+                                                  Röysten<note type="editorial"> Diethelm
+                                                  Röist</note><persName ref="Röist, Diethelm">hatt mir</persName>
+                                                  angetzeigt und sines rats begärt, wie den sachen
+                                                  zethůnd sige, der mir geannttwurt, das jch den
+                                                  hanndel üch, minen g[nädigen] herren, zůschryben
+                                                  sölle. Dann vor ettlichen jaren sige ouch
+                                                  angsähen<note type="editorial"> anordnen,
+                                                  festsetzen, Id. VII, 555f.</note>, das ein
+                                                  lanndtvogt von Baden ein vogt von Regenspurg und
+                                                  ein vogt von <placeName ref="Kaiserstuhl">Keyßerstůl</placeName> sich eines tags vereinbart und
+                                                  söllich widertöuffer habent lassen sůchen, damit,
+                                                  jnn wölliche herrschaft sy entrunnen, das sy
+                                                  darjnn angenomen und der selben oberkeit
+                                                  uberantwurt wurdent.<note type="editorial"> Vgl.
+                                                  die oben edierten Dokumente des Jahrs 1538.</note>
+                                                  Uff söllich sin (herr burgermeister Roisten)
+                                                  antzeigen schryb ich üch alls minen g. herren den
+                                                  hanndel zů, ob üch gevallen wölle, das der vogt
+                                                  von Rägenspurg<note type="editorial"> Erhard
+                                                  Steinbrüchel</note>, der vogt von Keyßerstůl und
+                                                  jch unns eines tags miteinannderen vereinbaren,
+                                                  wann wir söllich widerthöuffer sůchen wöllten, jn
+                                                  wöllicher oberkeit sy dann ergriffen, das sy ouch
+                                                  der selben überanntwurt söllen werden, damit sy
+                                                  nach jren verdienen gestraft werdent. Das wöllent
+                                                  jr, min g. herren, gůtter meinung von mir vernomen
+                                                  und mich uwers willens und gvallens haruber
+                                                  geschrifftlichen berichten, damit ich mich darnach
+                                                  zůhalten wüsse. Hiemit ich mich zů uweren diensten
+                                                  alletzyt gantz willig erpietende. Datum den 27.
+                                                  tag julij anno etc. xliij.</p>
+                                                  <p rend="margin-top">U[wer] g[naden] w[illiger]
+                                                  diener</p>
+                                                  <p>Jacob An <persName ref="An der Rüti, Jakob">der Rüty</persName>, des rats zů
+                                                  <placeName ref="Schwyz">Schwytz</placeName>, landtvogt zů
+                                                  Baden.</p>
+                                                  <p rend="margin-top">Den edlen, strenngen, fromen,
+                                                  erenvesten, fürsichtigen, ersamen und wysen herren
+                                                  burgermeister und rat der statt <placeName ref="Zürich">Zürich</placeName>, minen jnsunderen gn[ä]d[igen],
+                                                  günstigen, lieben herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_796</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_796</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1606-07-07"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 647</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt. Wir habent uß dynem
+                                                  schryben verstanden, was unnser eegricht alhie dir
+                                                  von wegen <persName ref="Erzinger, Hansmann">Hanßenmans Ertzingers</persName> deß ­toüf­fers uff
+                                                  <placeName ref="Egg, Guldenen">Guldinen</placeName>, dynes
+                                                  ampts anegehörigen<note type="critical">«uff
+                                                  Guldinen … anegehörigen» am Rand mit
+                                                  Verweiszeichen</note>, und der wybspersohn, die er
+                                                  by jme hatt und aber noch nie offentlich zů
+                                                  kilchen gefuͤrt, zů etlichen malen<note type="critical">«zů etlichen malen» am Rand mit
+                                                  Verweiszeichen</note> zůgeschriben und bevolchen
+                                                  und wz du jnen darüber für bscheid<note type="critical">Folgt gestrichen: geg</note>
+                                                  zůkhommen laßen etc. Nun heten wir unns zů dir
+                                                  versehen<note type="editorial"> erwarten, Id. VII,
+                                                  567.</note>, du demselbigen bevelch statt gethaan
+                                                  und disere zwo personen gfengklichen alher
+                                                  geschickt hettist. Diewyl aber dasselbig bißher
+                                                  nit beschechen und wir von unnseren byseßen, so
+                                                  dem eegricht bywohnend, berichtet wurden, das<note type="critical">Folgt gestrichen: man</note> die
+                                                  genannten beid personen nit von der<note type="critical">«der» über der Zeile, in der Zeile
+                                                  gestrichen: wegen</note> ­toüf­ferischen<note type="critical">Folgt gestrichen: seckt</note>
+                                                  sect, sonnder von deßwegen, das er by der
+                                                  wybspersohn also sitzt und dieselb nit zkilchen
+                                                  fürt, das<note type="critical">Folgt gestrichen:
+                                                  durch</note> dann große ergernuß by den unnseren
+                                                  gebracht<note type="critical">korrigiert,
+                                                  ursprünglich: jngebracht</note>, gfengklich
+                                                  alher<note type="critical">Folgt gestrichen:
+                                                  schicken söllist</note> geschickt werden söllen
+                                                  etc., so jst daruf unnser erntstlicher bevelch und
+                                                  meinung<note type="editorial"> Erwartung, Weisung,
+                                                  vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, das du
+                                                  dem<note type="critical">Folgt gestrichen:
+                                                  bevelch</note>, wz dir unnser eegricht zů mehr
+                                                  maln zůgeschriben, nochmaln statt thůn<note type="critical">«thůn» über der Zeile, in der
+                                                  Zeile gestrichen: thuͤgist</note> und<note type="critical">Folgt gestrichen: dir uff</note>
+                                                  vermelten beid personen<note type="critical">Folgt
+                                                  gestrichen: dyn</note> angentz<note type="editorial"> unverzüglich, sofort, Id. II,
+                                                  19.</note> gfengklich annemmen laßen<note type="critical">«laßen» über der Zeile</note> und
+                                                  unns bewart zůschicken söllist<note type="critical">«söllist» über der Zeile</note>,
+                                                  damit wir die gebür gegen jnen fürnemmen<note type="critical">Folgt gestrichen: laßen</note>
+                                                  khönnend. Dann wir sy beide lenger also by ein
+                                                  andern zů verhuͤtung großer ergernuß nit sitzen
+                                                  laßen wöllend, unns versehende, du werdist diserm
+                                                  unnsern bevelch ghorsamlich statt thůn. Das
+                                                  wellend wir jnn gnaden erkhennen. Datum den 7. d.
+                                                  julij anno 1606.</p>
+                                                  <p rend="margin-top">Burgermeister und rhat der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unnserm
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben zur
+                                                  Eych.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

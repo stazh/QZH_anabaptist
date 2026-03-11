@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_602</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_602</idno>
+          </msIdentifier>
+          <head>Beschluss des Rechenrates</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1592-02-17"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 453</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der töüfferen jnn der herrschafft
+                                                  <placeName ref="Knonau">Knonouw</placeName> bůsßen und
+                                                  schuldigen costen belangende<note type="critical">Aufschrift auf der Rückseite des Dokument, ebd.
+                                                  die Notiz: «Doüffer zadell von dem alden fogtt
+                                                  Meyerr soll jnnzüchen».</note></p>
+                                                  <p rend="margin-top">Alls j[unker] Hanns Heinrich
+                                                  Meyger <persName ref="Meyer von Knonau, Hans Heinrich">von Knonouw</persName>, gewessner
+                                                  vogt der herschafft Knonouw, by unnd nebent syner
+                                                  letsten vogt rechnung myn gnedig herren, die
+                                                  rächenherren, berichtet, wie das jmme von
+                                                  unghorsamen töüfferen hin unnd wider jnn der
+                                                  herschafft Knonouw wäder die jnen ufferlegten
+                                                  bůßen nach ouch der costen, so uff disere handlung
+                                                  ergangen, bezalt werden mögen, unnd unnder anderem
+                                                  ouch fürnemlich der ursachen, das denn undervögten
+                                                  mit ustragen der pfanden<note type="editorial">
+                                                  Busse, Id. V, 1142.</note> und derglychen bevelch
+                                                  schier niemants beholffen syn welle mitt byt, sy,
+                                                  myn herren, welten jmme anleitung geben, mit was
+                                                  mittlen er doch zů söllichem jnnzug kommen möge.
+                                                  Wann nun wolgenant myn herren diß hern vogt
+                                                  Meigers anbringen unnd begeren verstanden und sich
+                                                  hieby erjnneret, was von mynen gnedigen herren,
+                                                  den kleinen rethen, jmme verschinen<note type="editorial"> vergangenen</note> 2. tag
+                                                  februarij diß jars gemelter<note type="editorial">
+                                                  erwähnter</note> töüfferen unnd jnzugs jrer
+                                                  schuldigen bůßen unnd costen halb zůgeschriben,
+                                                  können sy nachmalen kein besser mittel finden,
+                                                  dann das meergesagter herr vogt Meyger zů glegner
+                                                  zyt überhin gen <placeName ref="Knonau">Knonouw</placeName>
+                                                  kere<note type="editorial"> sich begeben, gehen,
+                                                  Id. III, 435.</note>, angezeygt schryben jetzigem
+                                                  herren vogt Brämen<note type="editorial"> <persName ref="Bräm, Andreas">Andreas
+                                                  Bräm</persName></note> wie
+                                                  ouch denn unndervögten fürzeige unnd hiemitt
+                                                  ordnung gebe, das selbigem mitt allem ernst
+                                                  nachgangen werden, damitt einmalen die
+                                                  ungehorsamen unnd widerspenigen töüffer zur
+                                                  gehorsame gebracht werdind. Unnd jst hieby jr
+                                                  (myner herren, der rächenherren) ernstlich will
+                                                  unnd meinung<note type="editorial"> Erwartung,
+                                                  Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, das
+                                                  vermelter jr jetziger vogt jmme, herrn vogt
+                                                  Meyger, jnn diser handlung nach vermög obernanter
+                                                  missif<note type="editorial"> Sendbrief</note>
+                                                  wenigers nit, als wann sy an jmme selbs geschryben
+                                                  were, beholffen synn, die unndervögt unnd anndere
+                                                  zůerstattung jres bevelchs mitt ernst halten unnd
+                                                  hanndthaben unnd harjnn unglichen flyß anwenden
+                                                  sölle. Inmassen herr vogt Meyger umb gesagte bůsen
+                                                  ouch den costenn, so uff die sach ergangen
+                                                  ald<note type="editorial"> oder</note> nach
+                                                  fürbas<note type="editorial"> weiter</note> ergaan
+                                                  möchte, uff fürderlichist bezalt werde. Hieran
+                                                  besicht wolgenanter myner gnedigen herren will
+                                                  unnd wolgefallen. Actum donstags den 17ten
+                                                  februarij anno etc. 92 pr[aese]nt[ibus] herr
+                                                  <persName ref="Grossmann, Konrad">burgermeister Grosman</persName> und verordneten
+                                                  rechenherren.</p>
+                                                  <p rend="margin-top">Rechenschryber scripsit</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

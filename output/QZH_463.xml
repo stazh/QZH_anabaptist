@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_463</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_463</idno>
+          </msIdentifier>
+          <head>Rudolf Paur an
+                                                  Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-03-05"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 314</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlenn, ernvestenn, frommenn, fürsichtigen,
+                                                  ersamenn unnd wysenn herr burgermeyster,
+                                                  besonnders gnedig lieb herren, ewer edelveste ouch
+                                                  e[rsam] w[ysheit] sigenn min gehorsam
+                                                  unnderthenige diennst sammpt schulldiger pflicht
+                                                  zůvor. Es sinndt an heüt dato disere beyd
+                                                  gegennwürttigenn personnen, vonn wägenn dz sy mit
+                                                  der töüfferischen seckt vermaßget<note type="editorial"> besudeln, beflecken, Id. IV,
+                                                  436.</note>, durch ettliche verordnetten mineß
+                                                  ammpts anngehorigenn venncklichen zůgfürt wordenn.
+                                                  Da nammlichenn der einn mit nammenn <persName ref="Fehr, Rudolf">Růdolff
+                                                  Feer</persName>, ein kesßler
+                                                  vonn <placeName ref="Affoltern am Albis">Affhollternn</placeName>, so unngefar bey fünnff
+                                                  aldt<note type="editorial"> oder</note> sechs
+                                                  jarenn jnn gedachte seckt gerathenn, vonn
+                                                  wellichem mich der erwürdig unnd wollgelert
+                                                  herr<note type="critical">Lesung unsicher</note>
+                                                  Johanns Bluntschlj, pfarrer unnd dechann zů
+                                                  Ottennbach, vor ettwas verschiner<note type="editorial"> vergangener</note> zyth
+                                                  schrifftlich unnd ouch vollgennz selbst muntlich
+                                                  bericht<note type="editorial"> Vgl.
+                                                  Nr. 312.</note>, wie dz gesagter Růdolf Feer gar
+                                                  einn hardtneckiger abtruniger mennstsch; was gůtts
+                                                  man hath je mitt jmme hanndlen wellenn, allemalln
+                                                  gannz widerspenig sye, ouch darnebennt greth,
+                                                  Christus unnser herr habe bruderen ghapt wie einn
+                                                  annderer menntsch, dz, wie sinn pfarrer anzeigt,
+                                                  selbst bsezenn<note type="editorial">
+                                                  belegen</note> können welle. <nswk/> Derhalbenn
+                                                  jch, wie billich unnd thragennden ampts pflichtig,
+                                                  disere beyd obgehörtten personnen ewer edelveste
+                                                  ouch e. w. alls der rechtenn ordennlichen
+                                                  oberhanndt venncklichenn zůschickenn lasßenn,
+                                                  damit, was der billigkeyt gmeß, mitt jenigenn
+                                                  konne fürgenommen werdenn, uff dz sy nitt ettwann
+                                                  wyters mitt gehörtter sechkt jnnbrechen unnd
+                                                  annder einnfalltig volck meer nebent jnnen
+                                                  verfürenn unnd ufwiglenn thiegent etc. Wover<note type="editorial"> wenn, Id. I, 914.</note> unnd
+                                                  ich aber hienebennt was wytters der ennden könndte
+                                                  abschaffenn, will ich mynn flisß so ernnsthafftig
+                                                  (mit gůttem uffsechenn) erzeigenn, dz euwer
+                                                  edelveste ouch e. w. darann gnedigs gefallenn unnd
+                                                  mich fernner wie bißhar (darumb ich mitt hochster
+                                                  unnderthenigkeyt pittenn) jnn gnadenn befolhenn
+                                                  habenn wirt. Datum den 5ten martij anno etc.
+                                                  85.</p>
+                                                  <p rend="margin-top">Ewer edelveste, ouch e. w.
+                                                  unnderthiger</p>
+                                                  <p>Růdolff Pur, vogt zů <placeName ref="Knonau">Knonouw</placeName></p>
+                                                  <p rend="margin-top">Den edlenn, ernvestenn,
+                                                  frommenn, fürsichtigen, ersammenn unnd wysenn herr
+                                                  burgermeister unnd rath der statt Zürich, minen
+                                                  besonders gnedigenn liebenn herrenn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

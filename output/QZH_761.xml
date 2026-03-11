@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_761</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_761</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1603-08-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 612</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, eernvesten, frommen, fürsichtigen,
+                                                  eersammen und wysen, e. u. und e. w. seyen myn
+                                                  underthenig und geflissen dienst jnn aller
+                                                  schuldigen pflicht und ghorsamme iederzyth zůvor.
+                                                  Herr burgermeister, jnsonders gnedig, günstig und
+                                                  gebiettendt herrn, jch kan die lenger unbricht nit
+                                                  lassen, was grosser unghorsamme, hartnäckiger
+                                                  widerspennige und fräffels ietzt die zyth har
+                                                  <persName ref="Spöri, Hermann">durch Herman</persName> und
+                                                  Peter <persName ref="Spöri, Peter">die Spörinen</persName>
+                                                  uff <placeName ref="Bäretswil, Dunkelwis">Dunckelwiß</placeName> jnn der pfarr
+                                                  Berentschwyl<note type="editorial">
+                                                  Bäretswil</note> myner amptsveralthung gebrucht
+                                                  worden.<note type="editorial"> Vgl. die Nummern
+                                                  550, 571, 592 und 598.</note> Nammlich als ich den
+                                                  4ten novembris jüngstverschines 1602. jars ein
+                                                  töüffer mit nammen <persName ref="Störchli, Ulrich">Ůlj Störchlj</persName> ussem <placeName ref="Thurgau">Turgoüw</placeName> (so by jnen, den Spörinen, syn
+                                                  underschlauff ghept) eüch, mynen gnedigen herren,
+                                                  verwartt zů gschickt, haben domaln gesagte
+                                                  Spörinen wegen der töüfferischen seckt ouch
+                                                  gfenngklichen jnzogen werden sollen<note type="critical">«sollen» über der Zeile</note>. So
+                                                  ist aber der Herman selbiger nacht nit an
+                                                  heimsch<note type="editorial"> im Haus anwesend,
+                                                  Id. II, 1286.</note> funden worden und berürter
+                                                  Peter, syn brůder, jnen sonst entwichen. Nun sind
+                                                  sy, die beid Spörinen, an der anderen nacht
+                                                  darnach <persName ref="Kunz, Konrad">Cůnrathen Kůntzen</persName> jmm Wertzenthal<note type="editorial"> Wirzenthal (heute
+                                                  Wirzweil)<placeName ref="Wirzweil"/></note> (so
+                                                  jnen sonnst verschwägeret) für syn huß kommen,
+                                                  jnne ußhin gevorderet und als er kommen, jnn
+                                                  angefallen, zů boden gerissen und mit schlachen
+                                                  auch bößen wortten jnn übel misshandlet, allso das
+                                                  er sich schier (wie er mir klagt) synes lybs und
+                                                  läbens erwehren muͤssen. Und söllichs jmme allein
+                                                  deß wegen zůgefüegt, das er alls ein geschworner
+                                                  und eegoumer<note type="editorial"> Vertreter der
+                                                  Sittenzucht, Id. II, 304.</note> an der vorigen
+                                                  nacht uff ernstlichs ermannen dem weibel gholffen,
+                                                  angeregten ­toüf­fer byfanngen unnd sy zůvor etwan
+                                                  mehrmaln zůr kilchen und hörung göttlichs wortts
+                                                  (luth synes eids) gewisen hat etc. Uff söllichs
+                                                  ich gesagten Sporinen als unghorsammen und
+                                                  verachtern aller gůten ordnungen jr huß von
+                                                  oberkeitts wegen bschliessen lassen der meinung,
+                                                  zůvorderst jr hab unnd gůt zů erduren<note type="editorial"> gründlich prüfen, Id. XIII,
+                                                  1297-1300.</note> und demnach eüch, myn gnedig
+                                                  herren, dessen und aller umbstenden zů
+                                                  berichten.</p>
+                                                  <p>So sind aber sy, die Spörinen, so fräffen<note type="editorial"> dreist, Id. I, 1286.</note>
+                                                  gsyn, das sy eigens gwalts das huß widerumb
+                                                  geöffnet und ufgebrochen und mit hinzů biß har
+                                                  allso (sittmaln<note type="editorial"> da, weil,
+                                                  Id. IV, 147.</note> das huß alleinig und zimmlich
+                                                  wytt von andern hüsern an einem sonnst
+                                                  unbewonnlichen ortt nechst an der graffschafft
+                                                  <placeName ref="Kyburg">Kyburg</placeName> boden statt)
+                                                  darinn gewonnet. Und wie wol ich die zyth har
+                                                  <persName ref="Hess, Heinrich">Heinrichen Hessen</persName>,
+                                                  dem weibel<note type="critical">In der Vorlage:
+                                                  wiebel</note> zů <placeName ref="Bäretswil">Bärentschwyl</placeName>, vilmaln höchlichen vermanet,
+                                                  jmm ouch eeüwer (myner gnedigen herrn) ernstlich
+                                                  schryben desswegen, uff myn rathaltung an mich
+                                                  gethan, vorgelässen. Item auch erst by einnem
+                                                  monat ungvor, als ich der kilchen Bärentschwyl
+                                                  zehanden zů <placeName ref="Kempten (Zürich)">Kempten</placeName> verlichen jnbywesen herrn
+                                                  pfarrers Hans <persName ref="Wagner, Johann Jakob">Jacoben Wagners</persName> (der dann vermeintt,
+                                                  sy, die Spörinen, und andere töüffer jnn syner
+                                                  pfarr, so rechter ernst angewenndt wurde, wol zů
+                                                  bethrätten<note type="editorial"> ergreifen, Id.
+                                                  XIV, 1486.</note> weren) abermals mit höchstem
+                                                  flyß by jmme angehalten, syn gspäch<note type="editorial"> Fahndung, Id. X, 76.</note> uff
+                                                  sy zemachen unnd eerliche lüth daselbst umb by
+                                                  jren eiden oder sonst vermanen, jmme harzů
+                                                  verholffen zesyn, damit also eüwer (myner gnedigen
+                                                  herren) bevelch und ußgangne mandath mit allem
+                                                  flyss und threüwen ghorsammlich ußgricht und
+                                                  nachganngen werde, so hat doch söllichs alles
+                                                  nützit verfangen und er dem kein erstattung
+                                                  gethan.</p>
+                                                  <p>Als mich nun gesagter her pfarrer von
+                                                  <placeName ref="Bäretswil">Bärentschwyl</placeName> der tagen
+                                                  abermals schrifftlich berichtet und klagt, wie das
+                                                  andere unghorsamme by jnnen, den Spörinen, wegen
+                                                  das man sy allso vogelfrey sitzen lasse, ein anlaß
+                                                  nemmend und nach<note type="editorial">
+                                                  noch</note> böser und halßstarriger werdind etc.,
+                                                  hab ich gemeltem<note type="editorial">
+                                                  genanntem</note> weibel Hessen uffs aller
+                                                  ernstlichest zů geschriben mit vermeldung, so er
+                                                  syn eid und pflicht hierin nit besser dann bis har
+                                                  bethrachten, könne ich nit fürkommen<note type="editorial"> verhüten, nicht umhinkommen, Id.
+                                                  III, 278.</note>, eüch, min gnedig herren, dessen
+                                                  zůverstenndigen. Uff söllichs er mir durch syn
+                                                  schryben geantwurtt, er habe von yemanden<note type="editorial"> niemand, vgl. <hl to="http://fwb-online.de/go/jeman.s.6pro_1646404203"><Hyperlink>http://fwb-online.de/go/jeman.s.6pro_1646404203</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> kein
+                                                  hillf hierzů, dann sich niemanths diser lüthen
+                                                  (die ­toüf­fer meinende) beladen<note type="editorial"> sich einer Sache annehmen, Id.
+                                                  III, 1061.</note> wölle mitt bitt, jmme lüth von
+                                                  <placeName ref="Grüningen">Grüeningen</placeName> zů zegäben
+                                                  unnd verordnen, die jmm verhilfflich seyen. Dann
+                                                  er sömlichs nit alleinig thůn wölle, ehe den
+                                                  dienst uffgeben etc. Diewyl aber die burger alhie
+                                                  (als eüch, mynen gnedigen herren, jnn dem schryben
+                                                  mit obgemeltem<note type="editorial"> oben
+                                                  erwähnten</note> töüffer überschickt, ich ouch
+                                                  vermelt) sich beschweren, ­toüf­fer so ussert jrer
+                                                  pfar byfangen zehelffen, und aber ich mit gemeltem
+                                                  weibel Hessen nützit anders, dann wie gehördt,
+                                                  ußrichten mögen und die Spörinen jmmer zů jnn jrer
+                                                  unghorsamme und verachtung halßstarriger wyß
+                                                  fürfarind<note type="editorial"> fortfahren</note>
+                                                  und zů keiner straaff und buß zebringen, allein
+                                                  das ich jnen verschiner zyth jr vech als zwo
+                                                  ring<note type="editorial"> geringe</note> khüe
+                                                  durch den landtbotten hinweg nemmen und alhar
+                                                  füren lassen. Wölichs aber zů abrichtung deß daruf
+                                                  ergangnen uncostens und wolverdientter straaff und
+                                                  bůß by wyttem nit gereichen mag. So gelangt hieruf
+                                                  an e. u. und e. w. myn gantz underthenig bitt, die
+                                                  wöllen mir mit jrem rat hierin beholffen syn,
+                                                  anleittung und bevelch geben, wie ich mich ferners
+                                                  jnn sölicher sach verhalten sölle, da dann dem
+                                                  selben durch mich ghorsammliche erstattung, bests
+                                                  mynes vermögens mit allem flyß beschehen und
+                                                  nachkommen werden soll, demselben hiemit mich, uns
+                                                  alle aber göttlicher allmacht zů gnaden
+                                                  bevelchende. Datum den 4ten augstens a[nn]o
+                                                  1603.</p>
+                                                  <p rend="margin-top">E. u. und e. w. undertheniger
+                                                  ghorsammer burger unnd dienner</p>
+                                                  <p>Jacob Zur Eich, vogt der herrschafft
+                                                  <placeName ref="Grüningen">Grüeningen</placeName></p>
+                                                  <p rend="margin-top">Den edlen, ernvesten,
+                                                  frommen, fürsichtigen, ersammen und wysen herrn
+                                                  burgermeister und rath der statt Zürich, mynen
+                                                  sonders gnedigen, günstigen unnd gebiettenden
+                                                  herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_626</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_626</idno>
+          </msIdentifier>
+          <head>Heinrich Rüzensdorfer an Bürgermeister
+                                                  und Rat von Zürich Auf der
+                                                  Rückseite des Schreibens befindet sich die
+                                                  Aufschrift: Heinrich Rützensorfers
+                                                  bscheidt</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 477</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr burgermeister, ersamen und wysen,
+                                                  ynsonders günstig, gnedig yr myn herren und
+                                                  oberen. Es hatt mir ein  
+                                                  <placeName ref="Kilchberg">Kilchberg</placeName> nechst
+                                                  verschines frytags z’abett ein tagzedel<note type="editorial"> Vorladung, Id. XVII, 312.</note>
+                                                  gschickt. So bitt ich eüch, myn gnedig herren und
+                                                  oberen, ir welinds mir verzychen, das ich nitt
+                                                  selbs bersönlich erschynen bin, dan ichs nitt gern
+                                                  on ein gleitt thon hab. So ist mir zů spatt gsyn,
+                                                  umb eins zů werben; darzů hand sy hütt 8 tag schon
+                                                  tag<note type="editorial"> Tag einer Verhandlung,
+                                                  Gerichtstag, Id. XII, 797.</note> ghan und mir uß
+                                                  am frytag den tagzedel gschickt. Nun gedenck ich
+                                                  wol, sy werdend eüch, myn herren, betten, das yr
+                                                  weder mych noch myn wyb und kynd hie blyben lasen
+                                                  allein darum, das sy fürchten, ich ziehe in volck
+                                                  ab<note type="editorial"> abziehen: abwerben, vgl.
+                                                  <hl to="http://fwb-online.de/go/abziehen.s.3vu_1668625831"><Hyperlink>http://fwb-online.de/go/abziehen.s.3vu_1668625831</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>. Das
+                                                  aber ich gar nit gerte<note type="editorial">
+                                                  begehren, Id. II, 403.</note> und ynen gar niemer
+                                                  abzuge. Dan ich mag ein ieden by sym glouben
+                                                  blyben lan und hof<note type="critical">«hof» am
+                                                  Rand</note>, das man under alerlei voͤlcker nach
+                                                  find, die saͤlig werden, und richt hiemit keinen
+                                                  mentschen, diewyl es alein an der barmhertzigkeitt
+                                                  gottes statt. Darzů han ich sy betten, sy soͤlend
+                                                  doch wartten und lůgen. Wen ich mich nitt recht
+                                                  des inziehens<note type="editorial"> (in eine
+                                                  private Zusammenkunft) hineinbringen</note>, das
+                                                  sy dan so übel klagend, halte, so wele ich es
+                                                  engelten, wie recht syg. Darzů soͤllend sy bede
+                                                  bredigkantten zů Stalicken<note type="editorial">
+                                                  Stallikon</note><placeName ref="Stallikon">zů</placeName> und
+                                                  zů Birmenstorff<note type="editorial"> Birmensdorf
+                                                  (Zürich)</note><placeName ref="Birmensdorf">gmeind</placeName>,
+                                                  ouch ein gantze gmeind zů Birmenstorff fragen, ob
+                                                  sy klag ab mir habend, oder soͤlend den<note type="critical">Folgt gestrichen: sy</note>
+                                                  selbigen obervogt fragen, ob myntt halben klag
+                                                  kon<note type="editorial"> gekommen</note> syg
+                                                  oder nit, dan ich 3 jar zů Landicken<note type="editorial"> Landikon</note> gsesen bin, das
+                                                  ich wol wais, das niemen mitt der warheitt kan
+                                                  sägen, das ich inen ein mentschen abzogen hab. Nun
+                                                  ist das guͤttli zů <placeName ref="Landikon">Landicken</placeName>, das ich zů lee<note type="editorial"> Lehen, Pacht</note> ghan hab,
+                                                  mit mer guͤtteren verkouft worden. Da ist mir
+                                                  fürgen<note type="editorial"> gesagt, Id. II,
+                                                  90.</note> worden, wie hie ein guͤttli feil syg
+                                                  und so einer 5 gulden<note type="critical">In der
+                                                  Vorlage: f[lorenos]</note> zum inzug<note type="editorial"> Abgabe beim Zuzug an einen Ort,
+                                                  Id. XVII, 526.</note> gebe und myn heren einen
+                                                  dolind<note type="editorial"> dulden, gestatten,
+                                                  Id. XII, 1650.</note>, so muͤsind sy auch<note type="critical">«auch» am Rand</note> einen
+                                                  annen<note type="editorial"> annehmen</note>. Da
+                                                  hatt myner kinden fogt das guͤttli kouft, und bin
+                                                  ich dahin mit wyb und kind zogen. Da kumbt herr
+                                                  Margs Wydler<note type="editorial"> Markus Wydler
+                                                  (1545-1613)<persName ref="Wydler, Markus"/></note>
+                                                  und thůt gar letz<note type="editorial"> verkehrt,
+                                                  Id. III, 1549.</note> über mich<note type="critical">«mich» am Rand mit
+                                                  Verweiszeichen</note> und sagt, es syg kein
+                                                  redlicher<note type="critical">In der Vorlage:
+                                                  redli-licher</note> kouf, das aber mitt keiner
+                                                  warheitt mag bewysen werden. Druf han ich gar
+                                                  früntlich nit nun einmal mit im grett, das er
+                                                  einmal wider zů mir kon ist und mir anzeigt, das
+                                                  die kylchmeier und gschwornen by ein anderen gsyn
+                                                  syend und<note type="critical">Folgt gestrichen:
+                                                  he</note> begerend 3 artickel von mir und heigind
+                                                  daͤn im syn zů lůgen, wie ich mich halten. Der 1.
+                                                  artickel ist, das ich kein inzug<note type="editorial"> private Zusammenkunft, Id. XVII,
+                                                  523.</note> hab, der 2. das ich mynn kinder las zů
+                                                  kylchen gan, der 3. ist, das ich inen wele bürgen
+                                                  gen, das myne kind der gmeind nitt<note type="critical">Folgt gestrichen: wele</note>
+                                                  ufbunden werden, soͤlcher artickel bin ich
+                                                  ingangen und wol zů friden gsyn. So hand sy ouch
+                                                  den inzug<note type="editorial"> Abgabe beim Zuzug
+                                                  an einen Ort, Id. XVII, 526.</note> von mir
+                                                  begertt, dan ich inen ouch gen<note type="editorial"> gegeben</note> han. So kan ich
+                                                  nitt vernen<note type="editorial"> vernehmen, hier
+                                                  i. S. von verstehen, Id. IV, 745.</note>, das die
+                                                  <placeName ref="Adliswil">Adlischwyler</placeName> mich nitt
+                                                  gern da hettend, das ich gmeintt han, die sach syg
+                                                  richtig und han hieruf das huß und guͤttli
+                                                  angefangen zů rußen<note type="editorial">
+                                                  reinigen, ausräumen, Id. VI, 1457.</note> und han
+                                                  ein gar grossen kosten da ghan, dan es als so übel
+                                                  ab gangen ist, das einer kum nachts drin blatz
+                                                  hatt ghan. Darzuͦ ist myn eltister knab nach
+                                                  bishar bin eüch, mynen gnedigen herren, in d’schůl
+                                                  und in d’kilchen gangen, so begeren ich die
+                                                  anderen ouch, in d’schůl gen Kilchberg z’thůnd,
+                                                  han ims ouch gschickt gen baͤtten, wyls ouch, so
+                                                  ich moͤcht blatz han und mir gott das laͤben
+                                                  gibtt, ale zum handtwerchen thůn. Darum, gnedig
+                                                  liebe herren und oberen, ich bitten eüch gantz
+                                                  früntlich, ir welind dis myn einfaltt schryben im
+                                                  besten von mir ufnemen und welinds mit mir
+                                                  versůchen und gedult mit mir han und welind doch
+                                                  zbest thůn, damitt ich myn wyb und kind dester
+                                                  bas<note type="editorial"> besser</note> also in
+                                                  der stile könen erhaltten. Ich hofen ouch, yr
+                                                  werdend mynett halben kein klag mitt der warheitt
+                                                  vernen. Wo aber yr, myn gnedig herren, klag
+                                                  vernemend, so wils ich gern engelten nitt witters,
+                                                  dan ich bitt eüch, myn gnedig herren<note type="critical">«herren» am Rand mit
+                                                  Verweiszeichen</note>, ir welind zbest thůn, das
+                                                  bitt ich eüch. Hiemitt befilch ich eüch in den
+                                                  schutz und schirm des almechtigen gottes amen, dan
+                                                  ich nach under keiner obberkeitt lieber wonen
+                                                  woltt dan under eüch, myn gnedigen herren.</p>
+                                                  <p rend="margin-top">Ü[wer] w[illiger]
+                                                  a[llzyt]</p>
+                                                  <p>Heinrich Rützenstorffer</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Auf der
+                                                  Rückseite des Schreibens befindet sich die
+                                                  Aufschrift: Heinrich Rützensorfers
+                                                  bscheidt</p>
+    </back>
+  </text>
+</TEI>

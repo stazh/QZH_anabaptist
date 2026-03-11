@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_601</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_601</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Heinrich Meyer von
+                                                  Knonau
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1592-02-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 452</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, vester, besonders gethrüwer,
+                                                  lieber burger unnd vogt, wir habent uß dynem
+                                                  schryben verstanden, was<note type="critical">Folgt gestrichen: dir</note> vergangner tagen dir
+                                                  und den undervögten jnn dyner amptsverwaltung jnn
+                                                  dem jnzug der verfallnen bůßen unnd kostens von
+                                                  den widerspennigen lüthen, den ­toüf­feren,
+                                                  begegnet, jnn dem das<note type="critical">«Inn
+                                                  dem das» über der Zeile, in der Zeile gestrichen:
+                                                  da namblich</note> den undervögten jnn<note type="critical">Folgt gestrichen: der</note>
+                                                  verrichtung deß empfangnen bevelchs niemmandts
+                                                  dyner amptsangehörigen beholfen syn welle etc. Nun
+                                                  will sich uß allerley ursachen nit gebüren, das
+                                                  wir, wie begert wirt, jemandts uß unnser statt den
+                                                  undervögten zůgäbint, die jnen mitt erforderung
+                                                  der bůßen und hinuß nemmen der pfanden beholfen
+                                                  sygen. Innansehen das (unnser erachtens) die
+                                                  sachen noch wol annderer gstalt unnd uff volgende
+                                                  wyß zehanden genommen werden khan, da namlich du
+                                                  den undervögten nachmalen bevelchen, das sy die
+                                                  jhenigen, so jnen jnn annderen sachen, die
+                                                  verrichtung jres dientsts belangend, bißhar
+                                                  zůgesprungen oder aber andere redliche armmer
+                                                  gsellen, die das allmoßen von <placeName ref="Kappel">Capel</placeName> habent<note type="critical">«haben»
+                                                  am Rand mit Verweiszeichen</note> (deren<note type="critical">Folgt gestrichen: ders</note>
+                                                  dann, als wir achtend, wol zefinden syn, die sich
+                                                  deß nit verweigeren werdent), zů jnen nemmen unnd
+                                                  mitt<note type="critical">Folgt gestrichen:
+                                                  d</note> hilf derselben das, so jnen uß krafft
+                                                  unnsers christenlichen der wider­toüf­fery halb
+                                                  ußgangnen mandats<note type="critical">«uß krafft
+                                                  … mandats» am Rand mit Verweiszeichen</note> von
+                                                  dir bevolchen wirt, ußrichten söllint. Woveer<note type="editorial"> wenn, Id. I, 914.</note> aber
+                                                  einer oder der ander, so von den undervögten
+                                                  darumb angredt wird, sich deßen verwideren
+                                                  wurde<note type="critical">«wurde» über der
+                                                  Zeile</note>, alsdann du den und dieselben
+                                                  für<note type="editorial"> vor</note> dich
+                                                  beschicken, sy der pflicht, darmitt sy unns
+                                                  zůgethaan, und deß eydts, den sy dir an unnser
+                                                  statt geschworen habent, erjnneren unnd<note type="critical">Folgt gestrichen: sy</note> mitt
+                                                  erntst unnd früntligkeit<note type="critical">«unnd früntligkeit» am Rand mit
+                                                  Verweiszeichen</note> zur<note type="critical">Folgt gestrichen: ges</note> gehorsamme jnn diser
+                                                  billichen sach, so unnsere christenlichen mandat
+                                                  berürt, ermannen unnd wyßen und denen, so das
+                                                  allmoßen hetten, by tröwung<note type="editorial">
+                                                  Drohung</note> abstrickung desselben gebieten<note type="critical">«und denen … gebieten» am Rand mit
+                                                  Verweiszeichen</note>, versehend wir unns, sy
+                                                  werdint sich deßen wyter nit speeren, sonders das
+                                                  thůn, so sy schuldig sind. Im fal dann einer
+                                                  ald<note type="editorial"> oder</note> mehr ab
+                                                  söllichem ouch nüt thůn wellte unnd sich nachmalen
+                                                  unghorsam widersetzen wurde, den- und dieselben
+                                                  sollt du rechtlich für unns betagen<note type="editorial"> vorladen, Id. XII, 1080.</note>
+                                                  unnd sy darumb vor unns beklagen, damit wir gegen
+                                                  söllichen lüten wyter nach der gebür handlen
+                                                  khönnind. Ob auch vilichter den<note type="critical">korrigiert, ursprünglich:
+                                                  denen</note> undervögten oder annderen, so jnen
+                                                  jnn verrichtung diß jres bevelchs beholfen sind,
+                                                  etwas leidts mitt haß, vyendtschaft ald sontst von
+                                                  der ­toüf­feren verwandten hierob<note type="critical">«hierob» über der Zeile</note>
+                                                  begegnen wurde, dieselben gfründten<note type="editorial"> Verwandten</note> du bschicken,
+                                                  jnen das mitt allem erntst<note type="critical">«mitt allem erntst» am Rand mit
+                                                  Verweiszeichen</note> undersagen und denen, so das
+                                                  jr gethaan und empfangnen bevelch ußgrichtet
+                                                  habent, schirm geben<note type="critical">Folgt
+                                                  gestrichen: wie wir dir verthru</note>. Dann wir
+                                                  je<note type="critical">Folgt gestrichen: der
+                                                  t[…]ß</note> diße schädlichen sect zeweeren
+                                                  gemeint, als<note type="critical">«als» über der
+                                                  Zeile, in der Zeile gestrichen: wie</note> wir von
+                                                  oberkeits wegen schuldig sind, verthruwend dir, du
+                                                  werdist<note type="critical">Folgt gestrichen:
+                                                  hi</note> jnn söllichem allem an dynem flyß<note type="critical">Folgt gestrichen: under</note>
+                                                  nützit erwinden<note type="editorial"> fehlen, Id.
+                                                  XVI, 580f.</note> laßen unnd die sachen, als under
+                                                  dir ufgeloffen, so vil müglich noch vor dynem
+                                                  abzug verrichten, stadt unns gegen dir jnn ganden
+                                                  zůerkhennen. Datum den 2. februarij anno etc.
+                                                  92.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů <placeName ref="Knonau">Knonouw</placeName> Hanns Heinrichen Meyer von
+                                                  Knonouw.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

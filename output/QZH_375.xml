@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_375</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_375</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mitwuchs, den 11ten
+                                                  junij p[raese]nt[ibus] herr Bräm unnd beid
+                                                  räth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1578-06-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 226</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt zu <placeName ref="Knonau">Knonouw</placeName>
+                                                  schryben: […].<note type="editorial"> Bestättigung
+                                                  seiner Vollmacht, die Friedbrüchigen im Kelleramt
+                                                  zu strafen, und Weisung, die heilkundige Müllerin
+                                                  im Loo zu beobachten.</note> Uff <persName ref="Gut, Andres">Andereß
+                                                  Guttenn</persName> zu
+                                                  <placeName ref="Zwillikon">Zwillicken</placeName>, den
+                                                  touffer, sol er syn spech<note type="editorial">
+                                                  Fahndung, Id. X, 76.</note> machenn und jnn alhar
+                                                  fürenn laßen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mitwuchs, den 11ten
+                                                  junij p[raese]nt[ibus] herr Bräm unnd beid
+                                                  räth».</p>
+    </back>
+  </text>
+</TEI>

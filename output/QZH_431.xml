@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_431</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_431</idno>
+          </msIdentifier>
+          <head>Rechnungen im Zusammenhang mit
+                                                  Täufervermögen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 282</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Es jst by dem ­toüf­fer unnd <persName ref="Guggerli, Elsa">der
+                                                  Gugerlin</persName> gut
+                                                  ynzunemen</p>
+                                                  <p>ann gelt 345 gulden<note type="critical">In der
+                                                  Vorlage stets: fl[orenos]</note>, 7 s[chilling],
+                                                  darann jst zubezalen</p>
+                                                  <p>an gelt 100 gulden, 8 s.,</p>
+                                                  <p>wie also bschechen:</p>
+                                                  <p>17 gulden, 8 s. jst schonn zalt.</p>
+                                                  <p><e1/>73 gulden soll noch zalt werden, wann diß
+                                                  ußgricht, so blybt luther überig ynzenemen</p>
+                                                  <p rend="margin-top">an gelt 245 gulden.</p>
+                                                  <p>Finndt sich also:</p>
+                                                  <p>80 gulden ann einem gült brief,</p>
+                                                  <p><e1/>165 gulden ann schuldenn bim kauff der
+                                                  guterenn<note type="critical">Lesung
+                                                  unsicher</note> der ­toüf­fer schuld unnd
+                                                  sonst.</p>
+                                                  <p rend="margin-top">Der Gügerlin<note type="critical">Folgt eine Wortstreichung</note>
+                                                  acher unnd maten sinnd verkoufft umb 86
+                                                  kronenn.</p>
+                                                  <p>Tuch<note type="critical">Folgt eine
+                                                  Wortstreichung</note> zurechnung<note type="critical">Lesung unsicher</note></p>
+                                                  <p>an gelt 137 k[ronen], 24 s.</p>
+                                                  <p>Zalt sich also:</p>
+                                                  <p>80 kronen ann einem brief,</p>
+                                                  <p>19 gulden, 8 s. bar zalt.</p>
+                                                  <p>118<note type="critical">Ermittelter Betrag,
+                                                  die Zahl in der Vorlage ist kaum unlesbar.</note>
+                                                  gulden, 16 s. uff martinj<note type="editorial">
+                                                  11. November</note>.</p>
+                                                  <p rend="margin-top">Uß dem vonn herrenn
+                                                  seckelmeister empfangnen gelt zalt ich:</p>
+                                                  <p>16 pfund<note type="critical">In der Vorlage
+                                                  stets: l[i]b[rum]</note>, 5 s. herren vogt
+                                                  Thumysen.</p>
+                                                  <p>3 pfund, 4 s. h[err] Engelhart.</p>
+                                                  <p>3 pfund, 4 s. dem unnderschryber.</p>
+                                                  <p>2 pfund jm für die<note type="critical">Folgt
+                                                  gestrichen: le</note> ußzüg.</p>
+                                                  <p>10 s. jm gatter gelt.</p>
+                                                  <p>30 pfund, 8 s. dem wird zu
+                                                  Lungkhofen.<placeName ref="Lunkhofen"/></p>
+                                                  <p>14 pfund, 1 s. 6 h[eller] <note type="critical">Folgt gestrichen: Stapfer zu
+                                                  Bremgarten</note> wirt zur Cronen zu
+                                                  Bremgarten.<placeName ref="Bremgarten">dem</placeName></p>
+                                                  <p>21 pfund, 5 s. 6 h[eller] <persName ref="Stapfer (von Bremgarten)">dem Stapfer</persName> zu
+                                                  Bremgarten.</p>
+                                                  <p>2 pfund, 7 s. dem stattknecht zu
+                                                  Bremgarten.</p>
+                                                  <p>5 pfund, 2 s. 4 h[eller] <persName ref="Lupfer, Peter">Peter Lupfer</persName> zu Jonen.<placeName ref="Jonen"/></p>
+                                                  <p>4 pfund dem scherer zu Jonen.</p>
+                                                  <p>16 pfund <persName ref="Guggerli, Jakob">Jacob Gugerli</persName> zu Jonen.</p>
+                                                  <p>22 pfund, 8 s. Gugerlin mann.</p>
+                                                  <p>3 pfund, 4 s. Gugerlin vogt.</p>
+                                                  <p>3 pfund, 4 s. vogt zu Knonow.<placeName ref="Knonau"/></p>
+                                                  <p>1 pfund, 12 s. dem landschryber.</p>
+                                                  <p>2 pfund dem Gras[…]<note type="critical">Lesung
+                                                  unklar</note></p>
+                                                  <p>2 pfund, 5 s., 6 h[eller]<note type="critical">Betrag in der Zeile gestrichen, «2 l[ibrum] 5
+                                                  s[chilling] 6 h[eller]» unter der Zeile</note> dem
+                                                  alten landtschryber.</p>
+                                                  <p>Dise posten schik ich dem vogt zu Knonow<note type="critical">«Dise posten … Knonow» am
+                                                  Rand.</note>.</p>
+                                                  <p rend="margin-top">Zalt 3 pfund, 4 s. herr
+                                                  Engelhart.<persName ref="Engelhart, N."/></p>
+                                                  <p>Zalt 3 pfund, 4 s. herr Thumysen.<persName ref="Thumysen, Heinrich"/></p>
+                                                  <p>Zalt 3 pfund, 4 s. herr Puren.<persName ref="Bauer, Rudolph"/></p>
+                                                  <p>Zalt 3 pfund, 4 s. underschryber.</p>
+                                                  <p>Zalt 2 pfund, 8 s. Marchsal.</p>
+                                                  <p>Zalt 2 pfund Wolfen.<persName ref="Wolf, N."/></p>
+                                                  <p>Zalt 2 pfund Zender.<persName ref="Zehnder, N."/></p>
+                                                  <p>Zalt 2 pfund Hartman.<persName ref="Hartmann, N."/></p>
+                                                  <p>Nota: zalt 3 pfund, 4 s. landschryber.</p>
+                                                  <p>Zalt 10 s. stal<note type="critical">Lesung
+                                                  unsicher</note>.</p>
+                                                  <p>Zalt 1 pfund jme kuchj<note type="critical">Lesung unsicher</note>.</p>
+                                                  <p>Zalt 6 pfund, 8 s. den frouwen.</p>
+                                                  <p>Summa 32 pfund, 6 s.</p>
+                                                  <p rend="margin-top">Herr Thumysen hat jnn der
+                                                  armen frouwen sach ußgeben:</p>
+                                                  <p>Zalt 1 pfund, 12 s., zu Jonen <persName ref="Graf, N.">Graf
+                                                  verzert</persName></p>
+                                                  <p>Zalt 1 pfund, 15 s. Joachim zů Capell</p>
+                                                  <p>Zalt 3 pfund verzert wirt […]<note type="critical">Lesung unklar</note> den hußrath
+                                                  unnd kleider verkoufft.</p>
+                                                  <p>Zalt 1 pfund, 10 s. lezj.</p>
+                                                  <p>Sumarum 38 pfund, 13 s.</p>
+                                                  <p>Zalt […]<note type="critical">Lesung
+                                                  unklar</note> dem Grafen 2 pfund.</p>
+                                                  <p rend="margin-top">Ist also zertheilt:</p>
+                                                  <p>30 pfund uff die ­toüf­fer.</p>
+                                                  <p>10 pfund, 13 s. uff der armen frouwen gut.</p>
+                                                  <p>Zalt 2 pfund dem underschryber für die
+                                                  uszüg.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

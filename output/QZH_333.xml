@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_333</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_333</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Früber Aufschrift auf der Rückseite des
+                                                  Dokuments: Hannsen Frübers von Bertschicken uß dem
+                                                  Etschland antwurt</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1573-07-24"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 184</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Früber, Hans">Hanns Früber</persName> von
+                                                  <placeName ref="Bertschikon">Bertschicken</placeName> uß den
+                                                  <placeName ref="Südtirol">Etschland</placeName> gebt uff
+                                                  gethonen fürhalt<note type="editorial">
+                                                  Vorhaltung, Vorwurf</note> dise antwurt, das jme
+                                                  nit zwüßen, das er weder zu Meilen,
+                                                  <placeName ref="Meilen, Toggwil">Toggwyl</placeName> noch
+                                                  andern ordten jemandem gar kein leid gethon oder
+                                                  überlegen gewesen, sonder vermeint, das er denen,
+                                                  by denen er gewonet, lieb und angnem were, dann sy
+                                                  jme ettwan unbegert<note type="critical">korrigiert, ursprünglich: ungepätten</note> zu
+                                                  essen geben unnd jnne by jnen zu belyben gepätten.
+                                                  Da dann er, wann das volck zůsamen kommen, ettwan
+                                                  von der unbůßfertigckeit, schemden und lastern,
+                                                  darjnn die welt läbe<note type="critical">Folgt
+                                                  gestrichen: gesagt</note>, unnd das unns gott
+                                                  darumb hertencklich straffen werde und darby
+                                                  gesagt, das Noe<note type="editorial">
+                                                  Noah</note><persName ref="Noah"/> zů disen unseren
+                                                  zyten ouch<note type="critical">«ouch» über der
+                                                  Zeile</note> kum acht fromme<note type="critical">korrigiert, ursprünglich: frommer</note>,
+                                                  grechte<note type="critical">korrigiert,
+                                                  ursprünglich: grechter</note>, gott gefellige
+                                                  mentschen finden wurde. Welliches sy vilicht nit
+                                                  gern von jme gehept, jme die wort verkert und
+                                                  gredt, das er sich für den Noe ußgeben. Das er
+                                                  aber nit gethon, dann er wol wüsse, das er sich
+                                                  dem heiligen propheten<note type="critical">«propheten» am Rand</note> Noe nit verglychen
+                                                  sölle, sonder sich ouch für ein sünder<note type="critical">Folgt gestrichen: pre</note> und
+                                                  armen presthafften<note type="editorial">
+                                                  gebrechlich, sündhaft, Id. V, 853f.</note>
+                                                  mentschen<note type="critical">Folgt gestrichen:
+                                                  er</note> erkenne. Deßglychen könne er ouch von
+                                                  dheinem<note type="editorial"> keinem</note>
+                                                  gschrey, so er hinder den muren oder zünen gefürt,
+                                                  sagen, dan allein hette er sich ettwan von
+                                                  jnen<note type="critical">Folgt gestrichen:
+                                                  der</note> gethon unnd an gemelten orden gott den
+                                                  almechtigen, den er allein für synen<note type="critical">Folgt gestrichen: ha</note>
+                                                  heiland erkenne und nebent jm<note type="critical">Folgt gestrichen: so</note> niemant anrüffe<note type="critical">korrigiert, ursprünglich:
+                                                  anbätte</note>, mit rüffender stim umb gnad und
+                                                  vertzychung syner und aller welt sünden gepätten
+                                                  und<note type="critical">Folgt gestrichen: das er
+                                                  uns gnedig</note> sonst dhein ander geschrey
+                                                  getriben<note type="critical">Folgt gestrichen:
+                                                  mitt trungenlichem anrüffen d[…]</note>, nach vil
+                                                  minder jemanden syne kind hinzůfürem vorhabens
+                                                  gsyn. Dann wie er gehört, das vil lüthen jnn das
+                                                  <placeName ref="Mähren">Meerherren</placeName> land züchint,
+                                                  hette er gesagt, das er ouch willens, sich dahin
+                                                  zethund, unnd so ettwar<note type="editorial">
+                                                  jemand</note> lust, möchte er mit jm gon, aber
+                                                  sonst niemant gepätten oder mit faltschem
+                                                  fürgeben<note type="editorial"> fälschlich
+                                                  angeben, vorgeben, weis machen, Id. II, 90.</note>
+                                                  dahin zůbereden vorhabens gsyn, sonder bescheche
+                                                  jme damit ungütlich mit trungenlichem<note type="editorial"> eindringlich, inständig, Id.
+                                                  XIV, 1111f.</note> anrüffen unnd pitten, jr (myn
+                                                  herren) wellint jme der gefangenschafft widerumb
+                                                  ledigen unnd jnne syn straß züchen laßen, dann es
+                                                  gewüßlichen nit anderts ergangen.</p>
+                                                  <p rend="margin-top">[Urteil]: Er sol mit dem eyd
+                                                  von statt unnd lannd verwißen werden unnd zuvor
+                                                  allen costen, so uff jnn ganngen, erlegen. Actum
+                                                  den 24. d[ies] julij anno etc. 73 pr[aesen]t[ibus]
+                                                  <note type="editorial"> Hans
+                                                  Kambli</note><persName ref="Kambli, Hans">herr Kamblj</persName> unnd
+                                                  beid reth.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Aufschrift auf der Rückseite des
+                                                  Dokuments: Hannsen Frübers von Bertschicken uß dem
+                                                  Etschland antwurt</p>
+    </back>
+  </text>
+</TEI>

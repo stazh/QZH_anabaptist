@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_354</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_354</idno>
+          </msIdentifier>
+          <head>Gutachten der Rechenherren über die
+                                                  Rückkehrer aus Mähren</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1575-11-17"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 205</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Es haben jr (min gnedig herren) verruckter<note type="editorial"> vergangener, Id. VI, 856.</note>
+                                                  zyt minen herren (den rechenherren) einen
+                                                  rathschlag zethun bevolhen derenhalb, so mit lyb
+                                                  unnd gut uß disen landen jnn das Merrherisch, alda
+                                                  die wider­toüf­ferisch sect sich halten soll,
+                                                  ziehendt unnd jres guts entblößt<note type="editorial"> beraubt, entledigt, Id. V,
+                                                  160.</note>, widerumb heruffer mit frömbden,
+                                                  glycher jrrigen leer anhengigen unnd redlinßfürern
+                                                  sich begebend. Daruß lychtlich, wo nit darzu
+                                                  gethon, sy stillschwigendt gelittenn unnd jnen
+                                                  zugesehen, etwas gemeinen unraths<note type="editorial"> Nachteil, Schaden, Unheil, Id.
+                                                  VI, 1577.</note> unnd schadens erwachßen möchte
+                                                  etc. Unnd were zwar disem üwer (miner gnedigen
+                                                  herrn) bevelch zytlicher<note type="editorial">
+                                                  rechtzeitiger, frühzeitiger, Grimm 31, 588.</note>
+                                                  statt beschehen, wo minen herrn (den rechenherren)
+                                                  nit anderer eehafften<note type="editorial">
+                                                  gesetzlich, Id. I, 7.</note> geschefften halb unnd
+                                                  sunsten verhinderungen jngefallen<note type="editorial"> dazwischen gekommen</note>.</p>
+                                                  <p>Sovil nun die sach an jr selbs belangt: Wiewol
+                                                  einem jeden burger unnd landtsman siner
+                                                  gelegenheit nach, wo er sin uffenthalt unnd narung
+                                                  zuverbessern meint, anderschwo sich zu setzen unnd
+                                                   <note type="editorial">
+                                                  unverwehrt</note>, so spürt man doch, das leider
+                                                  meererntheils umb dises schedlichen jrthumbs
+                                                  willen solche reissen zuhanden nemmen<note type="editorial"> zuhanden nemmen: ohne Aufschub
+                                                  unternehmen</note> unnd dahin gebracht, das sy jr
+                                                  mitgefürt hab unnd gut entweders selbs an denen
+                                                  orten liederlicher wyß durchhin richtenn<note type="editorial"> durchbringen, Id. VI,
+                                                  443.</note> oder jnen von andern untrüwen lüthen
+                                                  entwendt. Inmassen dann kundt unnd offenbar, das
+                                                  vil üwerer (miner herren) underthonen unnd
+                                                  landsessen von <placeName ref="Otelfingen">Ottelfingen</placeName>, <placeName ref="Boppelsen">Boppelsen</placeName>, Buchs<note type="editorial">
+                                                  Otelfingen, Boppelsen und Buchs gehörten zur
+                                                  Landvogtei Regensberg.</note><placeName ref="Buchs">zu</placeName> unnd anderschwo hinabgezogen, vil
+                                                  guts unnd gelts mit jnen gefürt, hernach wider ler
+                                                  unnd bloß<note type="editorial"> mittellos, Id. V,
+                                                  155.</note> heruffkommen, da sy dann den andern
+                                                  das jr abnemmen unnd uff dem halß ligendt, dem
+                                                  bättel unnd almußen zu abbruch gemeiner hilff unnd
+                                                  nothurfft hußarmer lüthen nachzühendt<note type="editorial"> nachfolgen</note> unnd sunst jnn
+                                                  vilweg menkliche beschwerden jns landt bringendt.
+                                                  Derwegen miner herren (der rechenherren)
+                                                  gutachten, das zu fürkommung<note type="editorial"> Vorsorge, Vorkehrung, Id. III, 286.</note>
+                                                  wyterer schedlichenn jnbrüchenn unnd unruwen von
+                                                  üch (minen gnedigen herren) ein offenlich mandat
+                                                  jnn statt unnd landt ußgangen, darinnen allen
+                                                  obern unnd undernvögten, amptlüthen, weiblen unnd
+                                                  dienern bevolhenn, uff die jenigen, so zum theil
+                                                  jren bessern nutz zuschaffen vermeinendt, zum
+                                                  theil auch<note type="critical">«zum theil … zum
+                                                  theil auch» am Rand mit Verweiszeichen</note> also
+                                                  unbesinter lychtfertiger wyß hinwegziehen unnd
+                                                  widerkommen, ein ernstlich uffsehens<note type="editorial"> Aufpassen, Achtgeben, Id. VII,
+                                                  549.</note> zuhaben; unnd welcher also
+                                                  hinweggezogen, derselb ohn üwer (miner herren)
+                                                  erloubnus nit meer jngelassen, sonder da er
+                                                  widerumb betretten<note type="editorial">
+                                                  antreffen, ergreifen, Id. XIV, 1486.</note>, ohn
+                                                  alle gnad an lyb unnd gut (wie ouch die, so sy
+                                                  über üwer, miner herrn, willen unnd verbott
+                                                  beherbergen unnd underschlouff geben) ernstlich
+                                                  gestrafft, das auch die undervögt unnd weibel
+                                                  glychßfals ein flyssig uffmerckens unnd gůt
+                                                  kundschafft<note type="editorial">
+                                                  Erkundigung</note> habindt uff die, so sy
+                                                  heimblich uffwiglen, anreizen unnd verfüren,
+                                                  dieselben zu begryffenn unnd mit glicher
+                                                  gebürender straf gegen jnen zůverfaren. Derwegen
+                                                  jedermeniglich sonderlich die, so villicht jn
+                                                  solche landtsart<note type="editorial"> Gegend,
+                                                  Id. I, 475.</note> oder anderschwo zu jhrem
+                                                  verderben louffen möchten, zuverwarnen, sich
+                                                  darnach zuhalten unnd zuvergoumen<note type="editorial"> sich hüten vor, Id. II,
+                                                  303.</note>. Sunsten solte es by vorigen
+                                                  uffgerichten mandaten unnd ordnung dises fals
+                                                  halben gentzlich bestan blyben unnd denselben mit
+                                                  allem ernst nachgesetzt werden. Doch stat es zu
+                                                  üwer (miner gnedigen herren) verbesserung unnd
+                                                  wolgefallen. Actum den 17. novembris anno etc. 75,
+                                                  pr[aese]nt[ibus] herrn burgermeister Bremen<note type="editorial"> Hans Bräm</note><persName ref="Bräm, Hans">dienen unerweert</persName> unnd geordneten
+                                                  rechenherrn.</p>
+                                                  <p rend="margin-top">Rechenschriber.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_268</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_268</idno>
+          </msIdentifier>
+          <head>Hans Rahn an Bürgermeister und Rat von
+                                                  Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1564-12-09"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 119</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Gestrengen, fromen, vestenn, fürsichtigen und
+                                                  wyßen, jnsonder gnedig jr min herren, minen
+                                                  underthenig willig dienst sigend u[wer] w[yßheit]
+                                                  allezitt bereitht zuvor. Demnach ist üch nach<note type="editorial"> noch</note> wol jnngedenck, wie
+                                                  das ich üch verschinen<note type="editorial">
+                                                  vergangene</note> zith zugeschribenn antreffend
+                                                  <persName ref="Gut, Andres">Andreßen Gůtten</persName>, des
+                                                  töffers vonn <placeName ref="Lunnern">Luneren</placeName>,
+                                                  schuldvorderen<note type="editorial">
+                                                  Gläubiger</note>, wie ich mich gegen den selbigenn
+                                                  solte halttenn. Diewil gemelter Andres nütt
+                                                  anheimsch<note type="editorial"> im Land anwesend,
+                                                  Id. II, 1286.</note> sige, habend jr mir uff min
+                                                  begeren zůgeschribenn, das ich sine schuldvorderen
+                                                  um jr ußstennd schulden das recht gegenn sin, des
+                                                  Andres, gůtte solle gann laßen unangesechenn, das
+                                                  er nütt annheimsch. Das ich gethan und etlich
+                                                  sines fychs verkouffen laßen, und die
+                                                  annsprecher<note type="editorial"> Kläger, Id. X,
+                                                  772.</note> darus zallen laßen etc. Nun hatt u. w.
+                                                  mir domallen ouch geschriben, so die annsprecher
+                                                  vernůgt<note type="editorial"> zufrieden gestellt,
+                                                  Id. IV, 701.</note> werdend, solle ich alß dan
+                                                  sin, des Andressen, gůtt, was nach verhanden,
+                                                  eigenlich erkundigen, ouch woran das selbig sige,
+                                                  üch deße berichten. Damit jr wytter der
+                                                  erhoschung<note type="editorial"> Bedarf,
+                                                  Erfordernis, Grimm, 3, 847.</note> nach sin, des
+                                                  Anndreßen, kinden halber an die hand
+                                                  fürzůnemen<note type="editorial"> an die Hand
+                                                  nehmen, vornehmen</note> wußend, hab ich dißer
+                                                  tagenn sinne die nechsten verwante zů mir
+                                                  beschickt und sin hab und gůtt eigennlich
+                                                  erfragett. Hand sy mir anzogt, das er nach habe
+                                                  huß und hoffstatt zu Luneren und darzů sibenthalb
+                                                  juchartten achers, ouch uff syben manwerch<note type="editorial"> Flächenmaas, oft entsprechend
+                                                  einer Juchart (30-36 Aren), Id. XVI, 1226.</note>
+                                                  höw gewechs, weidenn und matten, das er wol möge
+                                                  drü houpt<note type="editorial"> Stück Rindvieh,
+                                                  Id. II, 1496.</note> haben<note type="critical">Folgt gestrichen: daby</note>, hatt ouch dismal
+                                                  zwo kuͤgen uff disem allem statt nüt mee dan fünff
+                                                  stuck, etlichs geltt und kernen zinß, sunst fry
+                                                  ledig eigen. Uff das mögend jr, min gnedig herren,
+                                                  gegen sin (des Andreßen) ob angezögt gůtt, was üch
+                                                  fürgůtt ansicht, handlen alß die recht oberhand,
+                                                  dann er sich nach bißhar ußert miner ampts
+                                                  verwaltung enthaltet, zubesorgenn, nüt sines
+                                                  weßens abstan werde, hab ouch die spech<note type="editorial"> Fahndung, Id. X, 76.</note> on
+                                                  witteren costen uff jnn, so ich jn moͤchte
+                                                  betretten<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note>, uch zůschicken
+                                                  wurde etc. Üch hiemit allezitt jn den schirm
+                                                  gottes wil befolchen habenn. Datum den 9. december
+                                                  1564.</p>
+                                                  <p rend="margin-top">Üwer allezitt gehorsamer
+                                                  williger dienner</p>
+                                                  <p><persName ref="Rahn, Hans">Hanns Raann</persName>,
+                                                  derzitt vogt zů <placeName ref="Knonau">Knonowe</placeName>.</p>
+                                                  <p rend="margin-top">Denn fromen, vesten,
+                                                  fürsichtigen, ersamen und wyßenn herren,
+                                                  burgermeister und ratht der statt <placeName ref="Zürich">Zürich</placeName>, minen jnsonders gnedigen und
+                                                  gepyettenden<note type="critical">In der Vorlage:
+                                                  gepeyttenden</note> lieben herrenn.</p>
+                                                  <p rend="margin-top">[Undatierter Beschluss des
+                                                  Rates:] Sover die kind jm hůß sind, soll ers darin
+                                                  lassen und das gůt jnn hafft<note type="editorial"> Arrest, Beschlagnahmung, Id. I, 1055.</note> und
+                                                  verbott, biß uff witern bscheid, leggen. Wo aber
+                                                  die kind das huß nit selbs besesßind, sölle er
+                                                  gwalt haben, mit den frünnden das gůt zů verlihen
+                                                  und mitller zyt myn herren widerumb berichten, wie
+                                                  die sach gstaltet.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

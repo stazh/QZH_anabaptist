@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_655</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_655</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Heinrich von
+                                                  Birch</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1598-05-13"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 506</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Demnach die beid herren nachgenger zů H[ans]
+                                                  Heinerichen von Birch dem tischmacher uff das
+                                                  rathhuß <note type="critical">Folgt
+                                                  gestrichen: unnd jne befragt uß was</note> und jme
+                                                  angezeigt, jr, myn gnedig herren, sigint brichtet,
+                                                  wie das er sampt andern uß Meerherren<note type="critical">Folgt gestrichen:
+                                                  al</note><placeName ref="Mähren">keert</placeName> jn üwre gricht
+                                                  und gebiet abgesendt, eerliche lüth jres jrthumbs
+                                                  zů berichten<note type="editorial">
+                                                  unterrichten</note> und mit valtschem fürgeben
+                                                  jrer meynung zů bereden<note type="editorial">
+                                                  überreden, überzeugen</note>, von der
+                                                  ghorsamme<note type="critical">Folgt gestrichen:
+                                                  anzü</note>, glych wie vor der zyt gegen jnne och
+                                                  beschechen, abzůzüchen und uß unßern landen mit
+                                                  jnen hinab jn Merheren<note type="critical">Folgt
+                                                  gestrichen: zů</note> zů füren. Daran jr<note type="critical">Folgt gestrichen: fü)</note> dan
+                                                  ein hochs<note type="critical">In der Vorlage:
+                                                  hohs</note> misfalen tragint und bewegt worden,
+                                                  oberkeitliche fürsechung<note type="editorial">
+                                                  Vorsorge, Massnahme, Id. VII, 759.</note> zethůnd
+                                                  und darüber syns bescheids, was er zů verhandlen
+                                                  habe oder ob er by uns blyben und, ws einem
+                                                  rechten kristen gepüte, thun wele.</p>
+                                                  <p>Hatt er darüber angezeigt: Es erlouffe sich nun
+                                                  meer über die 18 jaren, das er von hinen<note type="critical">Folgt gestrichen: hinabge</note>
+                                                  jn <placeName ref="Zürich">Meerherren</placeName> gezogen und
+                                                  sich dieselbig zyt zů Ousterlitz<note type="editorial"> Austerlitz (Slavkov u
+                                                  Brna)<placeName ref="Slavkov u Brna"/></note>
+                                                  endthalten<note type="editorial"> sich aufhalten,
+                                                  wohnen, Id. II, 1230.</note>, ouch ein wyb und drü
+                                                  kinder daselbsten habe. Uß der ursach und
+                                                  sonderlichen wyl er vernommen, das jn der zyt
+                                                  sines abscheidens etliche der sinigen mit todt
+                                                  abgangen, sige er bewegt<note type="critical">«beweg» am Rand, in der Zeile gestrichen:
+                                                  verursachet</note> worden, einmalen syn vatterland
+                                                  widerumbe zůbesůchen<note type="critical">Folgt
+                                                  gestrichen: jn</note> und sich<note type="critical">Folgt gestrichen: vor synem
+                                                  endt</note> mit synem vatter, als der nun meer
+                                                  guts alters, vor synem abscheid zů ersprachen
+                                                  und<note type="critical">Folgt gestrichen:
+                                                  dan</note> danenhin<note type="editorial">
+                                                  daraufhin, Id. II, 1356.</note> jme und sinen
+                                                  geschwüstergiten fründtlichen zů gnaden und
+                                                  widerumbe abzůscheiten. Als er nun verschines<note type="editorial"> vergangenen</note> mittwuchen
+                                                  acht tag alhar kommen und jn syns brůders<note type="editorial"> <persName ref="Müller, Heinrich">Heinrich Müller</persName>, vgl. Nr. 499. </note>,
+                                                  so müller<note type="critical">In der Vorlage:
+                                                  mülle</note> an der Sil, jn keert, were er<note type="critical">Folgt gestrichen: volgents</note>
+                                                  am driten tag dornach zů synem brůder,
+                                                  landtschryber, gan <placeName ref="Mettmenstetten">Mettmenstetten</placeName>, gewandlet und denselbigen
+                                                  ouch besucht<note type="critical">Folgt
+                                                  gestrichen: volgents gan Konow keert, dan er zů
+                                                  Knonow erfaren da erfaren söllen</note>, jn Wilers
+                                                  zů <placeName ref="Knonau">Knonow</placeName> zů erfaren, ob
+                                                  sich einer, deßen nammen jme aber jetzo nit
+                                                  bewüßt, jn der zyt syn husfrow von jme gan
+                                                  Ousterlitz jn Meerheren zogen, anderschwo
+                                                  verelichet, dan dieselbig by jnen nit widerumb jn
+                                                  den eestand komme, es habe sich dan vermelter jr
+                                                  verlaßner zůvor dahin begäben und er deßen zügnuß
+                                                  bringe, derhalben sige er<note type="critical">«derhalben siger er» am Rand mit Verweiszeichen,
+                                                  in der Zeile gestrichen: sige er</note> am andern
+                                                  tag dahin keert und volgentz widerumb<note type="critical">«und volgentz widerumb» am Rand
+                                                  mit Verweiszeichen, in der Zeile gestrichen: und
+                                                  sich lenger nit dan ½ stund diser sachen halber
+                                                  alda gesumbt, sonders gestrax widerumbe</note> zů
+                                                  sinem bruder, landtschryber, gan Mettmenstetten
+                                                  ganngen<note type="critical">«gangen» am Rand, in
+                                                  der Zeile gestrichen: keert</note>. Diewyl aber
+                                                  jne herr vogt zů Knonow<note type="critical">In
+                                                  der Vorlage: Know</note> ersehen, habe er jme
+                                                  nachgestelt<note type="critical">Folgt
+                                                  gestrichen:: so syns erachtens wyl er vernommen
+                                                  des sonsten nach zween mit jme hinuff zogen</note>
+                                                  und alhar füren laßen. Diewyl er aber nit der
+                                                  gestalt, das er erliche lüth uffwiglen und zů
+                                                  siner meynung zů bringen understande alhar kommen,
+                                                  so bette er üch, myn g[nedig] herren, wyl er sins
+                                                  erachtens dheiner<note type="editorial">
+                                                  keiner</note> andern meynung jn gefangenschafft
+                                                  jngezogen worden, jr welint jne derselbigen uff
+                                                  synen verhörten bricht widerumbe erlaßen, damit er
+                                                  syn vorhaben erstrecken und synen vatter und
+                                                  gefrünte besůchen köne<note type="critical">Folgt
+                                                  gestrichen: so wole er zů ersten</note>. Dan er
+                                                  sich<note type="critical">Folgt gestrichen:
+                                                  zů</note> nach verrichtung deße zů erster syner
+                                                  begebenheit ohne abfürung der üwern widerumb hinab
+                                                  zů sinen wyb und kinden verfügen<note type="critical">Folgt gestrichen: wele</note>, dan
+                                                  sins thůns gar nit lang<note type="critical">«lang» über der Zeile</note> hie sige.</p>
+                                                  <p>Sover aber er von einem und dem andern umb
+                                                  rechenschafft und becandtnus syns gloubens
+                                                  angesprochen, wurde er sömlichs, wie billich<note type="critical">In der Vorlage: bil[c]h; folgt
+                                                  gestrichen: und eins</note> als das von einem
+                                                  jeden kristen mentschen erfordert werde,
+                                                  erstattnen und anzeigen.</p>
+                                                  <p>Sovil dan die zwen, so mit jme <note type="critical">Folgt gestrichen: gezogen</note>
+                                                  und zů <placeName ref="Birmensdorf">Birmenstorff</placeName>
+                                                  durch gezogen belange, habe er sich derselbigen
+                                                  gar nützit zu beladen ald<note type="editorial">
+                                                  oder</note> mit denselbigen einiche verkomnuß<note type="editorial"> Übereinkunft, Vereinbarung, Id.
+                                                  III, 277.</note> zu hinfürung volcks gethon,
+                                                  sonder bemelte zwen sigint gestrax uff Lůsana<note type="editorial"> Lausanne</note><placeName ref="Lausanne">hinuff</placeName> zůzogen.</p>
+                                                  <p rend="margin-top">[Urteil]: Myn herren sind
+                                                  recht an diß thoüffers endtschudigung umb deß
+                                                  besten willen komen und an diser syner anndtwort
+                                                  vernügt<note type="editorial"> zufriedenstellen
+                                                  Id. IV, 701.</note>. Doch soll er, nachdem er der
+                                                  gefangenschafft uff ein gwonlich urphecht erlassen
+                                                  und allen costen, so hieruf gangen, abgetragen,
+                                                  vordt geschickt und jme darby, ob er von syner
+                                                  widerspenige nit abstaan, anzeigt werden, und er
+                                                  sich hinfür jnn myner herren gricht und gepiet nit
+                                                  meer finden lasßen, sonsten wurde annders, den
+                                                  jetzo beshechen, gegen jme fürgenommen werden.
+                                                  Actum sambstags den 13ten maij anno etc. 98
+                                                  p[raesen]t[ibus] <persName ref="Keller, Hans">herr Keller</persName> unnd beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

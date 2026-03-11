@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_854</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_854</idno>
+          </msIdentifier>
+          <head>Die Geistlichen des Kapitels Oberwetzikon an
+                                                  Bürgermeister und Rat von Zürich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 705</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>| [S. 533] Fromm, edel, ehrenvest, fürsichtig,
+                                                  ersamm, weiß herr burgermeister, gönstige,
+                                                  gnädige, liebe herren und vätter. Wiewol<note type="critical">Folgt gestrichen: etliche</note>
+                                                  unser etliche des oberwetzikommer capitels im
+                                                  <placeName ref="Grüningen">Gröninger</placeName> ampt<note type="editorial"> Landvogtei Grüningen</note>
+                                                  wohnhaffte diener der kirchen, ewer (uns[er]
+                                                  g[nedigen] herren) underthenige gehorsamme, ietzt
+                                                  etwas zeits her der erstlichen endtlichen hoffnung
+                                                  und zůversicht gewesen, e. e. w[eisheit]
+                                                  vätterliche trüwherzige wolmeinung, vilfaltige
+                                                  ermanung und warnung und sonderlich das letst
+                                                  getruckte, in gottes wortt wol gegründte und
+                                                  allenthalb uff der landtschafft verleßne edict und
+                                                  mandath<note type="editorial"> Entweder Nr. 329
+                                                  oder QGTS 6, Nr. 36.</note>, wider die kilchen
+                                                  ungehorsammen töuffischer sect anhengige ußgangen,
+                                                  wurde sovil by allen denen unseren pfarrs
+                                                  angehörigen (die bißhar one rechtmessige und
+                                                  billige ursach zur<note type="critical">Folgt
+                                                  gestrichen: tö</note> schedlichen und vergifften
+                                                  sect der töufferey sich geschlagen und von dem
+                                                  christlichen kirchgang, gemeinen gebätt, gebruch
+                                                  <nswk/> und übung der h[eiligen] sacramenten
+                                                  leichtfertiger und fräffner<note type="editorial">
+                                                  dreist, unverschämt, Id. I, 1286.</note> wyß mit
+                                                  verergerung viller einfaltigen gwüßinnen
+                                                  gesönderet), welliche nach aller nottwendigkeit in
+                                                  jeder pfarr von irem ordenlichen kirchendiener
+                                                  durch fründtliche gespräch und underredung mit
+                                                  inen gehalten, wol und flissig underricht und mit
+                                                  höchstem ernst zur gehorsamme theils gegen gott,
+                                                  theils gegen irer fromen christlichen oberkeit
+                                                  loblichen und ehrlichen mandathen vermanet worden,
+                                                  gebracht und verfangen haben, das vermeldte
+                                                  töuffische anhenger von irer unbefugten
+                                                  ungehorsame, widersinnigen verachtung gůter
+                                                  polliceyen<note type="editorial"> öffentliche
+                                                  Ordnung, vgl. <hl to="http://fwb-online.de/go/policei.s.1f_1709446281"><Hyperlink>http://fwb-online.de/go/policei.s.1f_1709446281</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> und
+                                                  satzungen gůtwillig weren abgestanden und sich
+                                                  bereit umb der ehren gottes und ihres eignen
+                                                  nutzes und wolstands willen zů rechter schuldiger
+                                                  gehorsamme hettind begeben. Weil und aber wir
+                                                  gemeinlich und sonderlich mit schmerzen und
+                                                  hertzleid an der thatt gespüren und erfaren, das
+                                                  e[uer] (uns[er] g. herren und vätteren)
+                                                  trüwherzige wolmeinung wie ouch christl[iche],
+                                                  eerbare, wolgegründte satzungen, welliche zů
+                                                  gottes sonderen ehren und wolstand des gantzen
+                                                  vatterlandts (wie einer frommen oberkeit gebürt)
+                                                  gestelt und gemacht, nit nun von söllichen
+                                                  verstockten und verblendten pharisaischen hertzen
+                                                  vernütet<note type="editorial"> geringschätzen,
+                                                  als unhaltbar hinstellen, Id. IV, 873.</note> und
+                                                  veracht, sonder die selbigen je lenger je eerger,
+                                                  frächer und getröster<note type="editorial">
+                                                  zuversichtlicher</note> in irem einmal gefaßten
+                                                  ytelen wohn selbsgerächter frommkeit und
+                                                  heiligkeit zůverharren gesinnet, darumb das sie
+                                                  sehen kein exequntion<note type="editorial">
+                                                  Exekution, Ausführung</note> gedachter loblicher
+                                                  satzungen erfolgen, sonder man sie also frey und
+                                                  ungestrafft in irer ungehorsamme verbliben laßt.
+                                                  Uß wellichem zwaren vill übels und unradts
+                                                  erfolget, das wo glich bißhar durch die weibel und
+                                                  undervögt alle taxierte und ernampsete bůßen von
+                                                  inen, den touffbriederen, sampt den iren von weib
+                                                  und kinderen (deren dan leider nun zůvill sind und
+                                                  sich täglich in zaal vermehren thůt) geforderet
+                                                  werden, das sie nit nun nützit wöllen geben,
+                                                  sonder gstrax und allerdings zů uns zur kilchen
+                                                  zegon (die sie nur heiden zenennen pflegen)
+                                                  geweigeret und abgeschlagen. Mit vermeldung, das
+                                                  sie in un[serer] kirchen und gmeinden sich nit
+                                                  wöllind finden lassen, man stelle inen dan
+                                                  prediger uff, welliche im brůff und ampt den
+                                                  h[eiligen] apostlen gleich sigen, das sie deßmal
+                                                  alle schuld und ursach irer sonderung ia ungunst
+                                                  by dem gemeinen mann, denselbigen ouch zum abfahl
+                                                  und ungehorsamme zůveranlaßen, uff uns<note type="critical">Folgt gestrichen:
+                                                  zeträchen</note>, die predicanten, zeträchen sich
+                                                  befleissigen. Und ob schon wir und ein jeder in
+                                                  siner vertruwten pfarr besonders offtmals von inen
+                                                  zůerfaren begert, wo dan der mangel sige, wie und
+                                                  warmit wir sie ver-| [S. 534]eergerind und unser
+                                                  mangel (als die wir ouch menschen und nit engel
+                                                  sigind und uns für sünder gůtwillig dargebind), wo
+                                                  uns die gezeigt, mit gottes hilff und bystand
+                                                  zůverbesseren vorhabens, haben sie doch
+                                                  derselbigen keine offenbaren und undersagen<note type="editorial"> mitteilen, Id. VII, 407.</note>
+                                                  wöllen, sind der trostlichen hoffnung zů gott und
+                                                  unseren vertruwten gmeinden (da wir leiden mögen,
+                                                  das unser leer und läbens halb flissige nachfrag
+                                                  gehalten werde), wir geben inen zů dißer
+                                                  eigenrichtigen widerfüge<note type="editorial">
+                                                  Widerspenstigkeit, Id. I, 702.</note> weder ursach
+                                                  noch anlaß. Nebend dem sie ouch sich vermercken
+                                                  lassend, es habe umb dißer irer sönderung
+                                                  willen<note type="critical">«willen» über der
+                                                  Zeile</note> die oberkeit<note type="critical">«die oberkeit» am Rand mit Verweiszeichen</note>
+                                                  zů irem leib und gůt kein billiche ursach und
+                                                  sigind sölliche mandath nur schreckböttlj<note type="editorial"> Schreckmittel, Id. IV,
+                                                  1903.</note>, man werde sie also uff irem gefaßten
+                                                  whon verharren lassen, sonsten in ewer (uns. g.
+                                                  herren) staat erstlich ein reformation und
+                                                  abstellung der töuffery beschehe, das sie
+                                                  sich<note type="critical">«sich über der
+                                                  Zeile</note> deren, so inen byfellig, in uns. g.
+                                                  herren statt vill berůmmen, so es dan nit nun umb
+                                                  die personen, welliche den halß gestreckt ietzmal
+                                                  ­toüf­fer sind und uff irer eigensinnigen wys
+                                                  allerdings zůverbliben sich verlauten lassen,
+                                                  zethůn, sonder vilmer umb gottes (uns.
+                                                  himel[ischen] vatters) ehr, ewer (uns. g. herren)
+                                                  reputation und ansehen. Da zůbesorgen, wo nit
+                                                  onverzogentlich disem übel mit gůtem wolbetrachtem
+                                                  radt und gwalt gestürt und gewehrt, die
+                                                  christl[iche] mandath, sonderlich das letst
+                                                  angezogen, gehandthabet, es werde die höchste
+                                                  ungehorsamme bey eweren underthonen im Grüninger
+                                                  ampt (die sonsten jemerdar im widerspil<note type="editorial"> Widerspenstigkeit, Widerstand,
+                                                  Id. X, 161-164.</note> ligen, als in uns. gn.
+                                                  herren offtmals und erst kurtz verruckter <note type="editorial"> vergangener</note> zeit an der
+                                                  thatt erfaren,<note type="critical">Folgt
+                                                  gestrichen: die</note> da der widertöuffery
+                                                  anhenger gwüßlich nit die mindsten, sonder
+                                                  forderisten redlinfuͤrer und ursächer geweßen, das
+                                                  vill sich die ufferlegte stühr zegeben sich in das
+                                                  widerspil gelegt) erwachsen, die unsinnig
+                                                  töuffische sect als ein wurtzel villes übels ie
+                                                  lenger je mer inryßen und überhand nemmen, es dan
+                                                  albereit schon uff dem wäg und leider nur zevil
+                                                  ingewurget hat. Darzů ouch andere ewere lobliche
+                                                  christl. satzungen in verachtung kommen, wie
+                                                  dan<note type="critical">«dan» über der
+                                                  Zeile</note> ir, uns. g. herren und vätter, mit
+                                                  flissiger und embsiger betrachtung aller
+                                                  obligenden gfaaren und was uß dißer nachlassung
+                                                  und ungehorsame entspringen möge, villbas<note type="editorial"> viel besseer</note> ermäßen und
+                                                  iudicieren können<note type="critical">«können»
+                                                  über der Zeile</note>, als wir erzellen
+                                                  mög[en]<note type="critical">Textverlust</note>.
+                                                  So dan nun wir von unsers berůffs und ampts wie
+                                                  ouch gethonen eydts wegen schuldig und verpflicht
+                                                  und sonsten darzů ouch bereit und geneigt, gottes
+                                                  ehr zůuffnen<note type="editorial"> befördern,
+                                                  vermehren, Id. I, 123.</note>, was zů erbuwung,
+                                                  nutz und wolstand uns. vertruwten gemeinden,
+                                                  sonderlich zů beförderung ewer dignitet und
+                                                  ansehen reichen mag, zůpflantzen, alle
+                                                  ungehorsamme und verachtung gottes wortts und ewer
+                                                  loblichen satzungen abzůschaffen. Darzů wir den in
+                                                  allen synodis vermanet werden und bißhar nach
+                                                  unserem müglichisten fleiß unser best und
+                                                  wägst<note type="editorial"> gut, passend,
+                                                  angemessen, Id. XV, 691.</note> gethon haben und
+                                                  aber villicht an den nachgesetzten amptlüten etwas
+                                                  mangels sin möchte, die nun zůvil durch die finger
+                                                  zesehen pflegen und sich mit söllichen lüthen nit
+                                                  versündigen wöllen. Wir aber getruwen, wo e. e. w.
+                                                  diß leidigen handels im grund verstendiget, wir
+                                                  ouch von unserem herren obervogt berichtet, das er
+                                                  deßen an ewch, uns. g. herren, ein schriben gethon
+                                                  und also jemerdar uff ir entlichen entschluß und
+                                                  geheiß warte, mithinzů aber die sach sich versumet
+                                                  und dem mandath nit nachgangen wirt, haben wir
+                                                  lenger nit underlaßen und umbgan können, damit nit
+                                                  sömlicher hinlessigkeit schuld uns gegeben
+                                                  wurde,<note type="critical">Reklamant: sam
+                                                  w</note> | [S. 535] samm<note type="editorial">
+                                                  als ob, Id. VII, 902.</note> wir unserem ehr und
+                                                  eydt wie ouch schuldiger pflicht nit gnůg gethon
+                                                  und zů söllicher widerfůgen hartneckigkeit mit
+                                                  unserem stilschwigen gehulffen hettind, sonder
+                                                  deßen im grund berichten söllen und wöllen. Mit
+                                                  undertheniger hochgeflißner bitt, sömlichs von uns
+                                                  als eweren dienern im besten uffzenemmen und
+                                                  zůverstan. Dan sollichs nit beschicht, uns. g.
+                                                  herren als hochverstendigen und der eewigen
+                                                  waarheit liebhabenden vätteren etwas fürzeschriben
+                                                  oder (das wir an e. w. gůtwilligkeit, den waaren
+                                                  gottsdienst zůuffnen und das böß abzeschaffen
+                                                  zwifflind), sonder hiemit uns. conscientzen
+                                                  zůliberieren und unsere dienstwillige underthenige
+                                                  gehorsamme anzebieten, was wir hierin zůverhelffen
+                                                  nach unserem klein[en] vermögen alzeit
+                                                  ongespart<note type="editorial"> bereit</note>
+                                                  sin. Entbieten uns ouch, wo es euch, uns. g.
+                                                  herren und vätter, für radtsam, nutz und gůt
+                                                  ansehen wurde, mit allen der töuffischen sect
+                                                  anhengern ein fründtlichs gespräch (da sie in
+                                                  allen iren beschwerlichen articklen möchtind
+                                                  verhört und uß gottes wortt nochmal zum überlfüss
+                                                  bericht werden), im Gröninger ampt oder<note type="critical">Folgt in der Vorlage: w[…]
+                                                  (Textverlust)</note> wo es e. e. w. belieben und
+                                                  gefallen wurde, zehalten. Ob gleich uns vorbewüßt,
+                                                  das die rechten redlifuͤrer von uns nit wöllen
+                                                  geleer[t]<note type="critical">Textverlust</note>
+                                                  und underwißen werden, möchtind doch hiedurch vill
+                                                  einfaltige zur reinen, heilsammen, evangelischen
+                                                  leer, in wellichen das töuffesch gifft umb etwas
+                                                  steckt, widerbracht werden. Sind ouch
+                                                  onbeschwärdt, wo es e. e. w. von uns erforderen
+                                                  wurde, alle und jede personen, so sich zur
+                                                  thöuffery begeben, in unseren pfarren und gmeinden
+                                                  whonhafft (wie wir es den schon lengist gethon und
+                                                  uns. herren obervogt übergeben haben), namhafft
+                                                  zemachen. Verhoffend also in erwegung aller
+                                                  gstaltsamme<note type="editorial"> Beschaffenheit,
+                                                  Id. XI, 368.</note> der sachen, ewer ers. weißheit
+                                                  werd mit müglichistem fleiß und authoritet diß
+                                                  loblich mandath wider aller libertiner und
+                                                  töuffer, die sich von allen burgerlichen und
+                                                  lendtlichen beschwärden<note type="editorial">
+                                                  gesetzlich vorgeschriebene Lasten, Leistungen,
+                                                  vgl. <hl to="http://fwb-online.de/go/beschwerde.s.1f_1732127447"><Hyperlink>http://fwb-online.de/go/beschwerde.s.1f_1732127447</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>
+                                                  frey<note type="critical">Folgt gestrichen:
+                                                  zer</note> und ledig zemachen, allerlej confusion
+                                                  und<note type="critical">«und» über der
+                                                  Zeile</note> unrůw anzerichten, die underthonen
+                                                  von irer ordenlichen von gott gesetzten oberkeit
+                                                  abzeschrentzen undertsond, angendts dappfer
+                                                  handthaben und volstrecken, damit wer gmeinlich
+                                                  und sonderlich dest bas in gůtem friden und
+                                                  einigkeit durcheinannderen handlen und wandlen
+                                                  mögind. Befelhen hiemit e. e. w. dem vatter aller
+                                                  gnaden, wellicher durch sinen einigen sohn, uns.
+                                                  herrn Jes[um] Christum, in kraff[t]<note type="critical">Textverlust</note> des h[eiligen]
+                                                  geists euch ein ers[am], christl., fromme oberkeit
+                                                  alle zeit wider alles anlouffen des sathans und
+                                                  aller figenden<note type="editorial">
+                                                  Feinden</note> der waaren christl. religion in
+                                                  glücklicher fridlicher regierung und gůtem
+                                                  wolstand zů seel und leib erhalten wölle.
+                                                  Amen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

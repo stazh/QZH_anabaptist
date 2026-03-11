@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_402</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_402</idno>
+          </msIdentifier>
+          <head>Fridolin Hässi an Junghans
+                                                  Thumysen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-10-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 253</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min frünndtlich willig dienntst, grůs mit
+                                                  erpiettunng aller eeren unnd guts zuvor. Frommer,
+                                                  eerenvester unnd wyßer, sonnders eerender, lieber
+                                                  herr unnd guter frünndt, demnach dann
+                                                  jünngstverschiner  <persName ref="Brunner, Hans">Hanns Brunner</persName> von Niderbergkhen<note type="editorial"> Berikon</note><placeName ref="Berikon">zyt</placeName> miner amptsverwalttigung hocher
+                                                  oberkeit der thöüfferischen sect nach jnn das
+                                                  Merhern <placeName ref="Mähren">lannd</placeName> getzogen.
+                                                  Alls nun ich dess jnn erfarung kommen, hab ich
+                                                  derohalben vonn hocher oberkeits wegen miner
+                                                  gnädigen herren gethrüwen lyebenn unndervogt zu
+                                                  <placeName ref="Baden">Baden</placeName> nebent dem obervogt
+                                                  zů Niderbergkhen unnd herrn stattschryber zu
+                                                  <placeName ref="Bremgarten">Bremgartten</placeName> sinem
+                                                  ouch annderen, die glycher gestaltt sich der
+                                                  töüfferischen sect annhenngig gemacht,
+                                                  hinderlassen hab unnd guts nach zůfragen unnd
+                                                  dasselbig zůinvenntieren abverordnet, wellichem
+                                                  bevelch sy nun nachgesetzt. Da daan gesagts
+                                                  Brunners erben unnd geschwüstergitten<note type="editorial"> Geschwister, Id. IX,
+                                                  2235.</note> ann hüt dattum vor mir erschinen unnd
+                                                  vonn gedachts jres brůders, wellicher mit jnnen
+                                                  jnn gmeiner unvertheiltter<note type="editorial">
+                                                  nicht getrennt, Id. XII, 1604.</note> hußhalttunng
+                                                  gstannden, verlassnen guts wegen abkommen<note type="editorial"> übereinkommen</note> wellen,
+                                                  doch darunnder annzeigt, das jr annstatt üwer wie
+                                                  ouch miner gnädigen herren vermeinen vyl gedachter
+                                                  Hanns Brunner unnd sine geschwüstergitten, hievor
+                                                  jnn üwer ampts verwalttigunng uff dem hoff zu
+                                                  <placeName ref="Islisberg">Jsslisperg</placeName> gesässen,
+                                                  das derohalben die betzallunngen (was sin theil
+                                                  betrifft) üch zůgenanntter üwer g[nädigen] herren
+                                                  hannden heimverfallen unnd dienntstlich sin
+                                                  söltte, darab ich nit wenig befrembdens
+                                                  empfanngen, jnbedenncken ob glych woll genannter
+                                                  Brunner unnd sine mittgeschwüstergit vor der zyt
+                                                  jnn üwer ampts oberkeit gesässen, sinnd sy doch
+                                                  widerumb gen <placeName ref="Berikon">Niderberckhen</placeName>, daselbsten sy vormals ouch gewont, gezogen
+                                                  unnd erst unnder söllichem gemeltter<note type="editorial"> erwähnter</note> Brunner sich
+                                                  der töüffery begeben. Da dann on alles mittell sin
+                                                  verlassen gůt (wiewoll das meertheils unnder üwer
+                                                  amptsverwalttigung gelegen) jnn crafft min der
+                                                  gnädigen herren der acht altten oder der
+                                                  meertheill orten loblicher eidtgnosschafft zu
+                                                  hievor gehalttnen Badischen tagleistungen
+                                                  anngenomnen erkanntnußen unnd abscheidenn, umbe
+                                                  das sy ein jeden, der sich der sect der ­toüf­fery
+                                                  annhenngig macht, alls malefitzisch<note type="editorial"> dem Hochgericht verfallen, Id.
+                                                  IV, 167.</note> gehanndlet erkhanndt, achten unnd
+                                                  haltten, heimverfallen unnd zugehörig ist, ouch
+                                                  söllich gůt dem malefitz unnbedacht, wo das gůt
+                                                  gelägen, noch faltt unnd volgen soll unnd danne
+                                                  mir amptshalben vor wollgenannten minen gädigen
+                                                  herren alls zu Niderberckhen die hoche oberkeit
+                                                  ann jrer habennden rechtsamme nützit hingon, noch
+                                                  verschinen zelassen zustath. So ist hieruff min
+                                                  ganntz frünndtlich annsinnen unnd begerren ann
+                                                  üch, jr wellend jnnbedacht erstertzeltten
+                                                  grunndtlichen ursachen der ennden üwer vorhabens
+                                                  ­güett­lichen unnd frünndtlichen abston, dann sich
+                                                  die frünndtschafft<note type="editorial">
+                                                  Verwandtschaft</note> ganntz gůtwillig gegen mir
+                                                  zuvertragen anerpotten unnd semlich gůt mir alls
+                                                  einem lanndtvogt zů wollgesagter miner gnädigen
+                                                  herren (der eidtgnossen) hannden one einiche
+                                                  verspeerung<note type="editorial">
+                                                  Widerstand</note> lassen verlanngen unnd
+                                                  gevolgen.</p>
+                                                  <p>Fürs annder alßdann <persName ref="Gerwig, Jakob">Jacob Gerwig</persName> unnd sin husfrouw sich ouch
+                                                  jnn die sect der töüffery jngelassen, wellicher
+                                                  dann sin gůt meertheils ouch ann gültten unnd
+                                                  schulden jnn üwer verwalttigung hinderlassen, da
+                                                  jr abermals glycher gstaltt jnnammen üwer herren
+                                                  unnd oberen jnntrag unnd verspeerung ouch das zů
+                                                  jren hannden zubeziechen vermeinen machten, hab
+                                                  ich mich derohalben gegen sinen nechsten
+                                                  verwandten, so ouch ann hüt datum vor mir
+                                                  erschinen unnd mit mir abkommen wellen, nit
+                                                  jnnlassen können. Sittenmaln<note type="editorial"> weil, Id. IV, 277.</note> aber jeder zyt dess
+                                                  malefitzischen hinderlassen gůt, deren oberkeit
+                                                  darunnder er sässhafft gwäsen, wie obverstannden,
+                                                  zufaltt, ouch semlichs untz<note type="editorial">
+                                                  bis, Id. I, 360.</note> hiehar (wie war) jnn bruch
+                                                  unnd übung gwässen, thůn ich mich annstatt
+                                                  obwollgesagter miner gnädigen herren dess zu üch
+                                                  getrostlichen versächen unnd verhaltten, jr üch
+                                                  jnn dißen beiden articklen üwer vorhabennden
+                                                  meinung überheben unnd söllich gůt mir annstatt
+                                                  miner gnädigen herren (wie obvermerckt)
+                                                  jntzůtziechen, one einiche versperung gestatten
+                                                  werden. Wie ich mich wegen der billichkeit unnd
+                                                  biß hiehar geübtem bruch dess zů üch
+                                                  ungezwyvenlich versächen thůn mit erpiettung
+                                                  hingegen mich gegen denn erben zů beidentheillen
+                                                  (sovil veranntwurttlich) der gepür nach, das sy
+                                                  dess orts jrer erbschafft nit allerdingen beroupt,
+                                                  sonnder ettlicher maaßen genießlich ergetzt werden
+                                                  zuverhaltten. Das ich üch frünntlicher meinung
+                                                  söllen unnd wellen zůschryben, üwer anntwurt
+                                                  hierüber by dißem minem allein hierumb abgeßandten
+                                                  botten erwarttende, mich verer<note type="editorial"> weiter, Id. I, 912.</note>
+                                                  darnach zuhaltten wüsse, üch sunnst frünndtlichen
+                                                  unnd angenemmen willen zůertzeigen, bin ich
+                                                  sonnders gneigt unnd willig, unns hiemit dem
+                                                  thrüwen lieben gott befelchende. Datum denn
+                                                  20isten octobris anno etc. 1581</p>
+                                                  <p rend="margin-top">U[wer] williger frünndt</p>
+                                                  <p>Fridli Hässi, ritter deß raths zu
+                                                  <placeName ref="Glarus">Glarus</placeName>, der zyt
+                                                  lanndtvogt zu <placeName ref="Baden">Baden</placeName> jnn
+                                                  Ergöüw.</p>
+                                                  <p rend="margin-top">Dem frommen, eerenvesten unnd
+                                                  wysen herren h[errn] Thumbysen dess raths der
+                                                  statt <placeName ref="Zürich">Zürich</placeName>, obervogt
+                                                  der herrschafft <placeName ref="Knonau">Knonouw</placeName>,
+                                                  minem sonnders eerenden herr unnd guten
+                                                  frünndt.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

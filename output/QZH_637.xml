@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_637</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_637</idno>
+          </msIdentifier>
+          <head>Täufermandat (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1596-12-01"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 488</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wir, burgermeister unnd rath der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>, entbietend den
+                                                  unnseren jnn unnser herrschafft <placeName ref="Knonau">Knonouw</placeName> unnsern grůß, gnedigen und
+                                                  geneigten willen unnd thůnd üch hiemit<note type="critical">Folgt in ZBZ Ms A 72: allen</note>
+                                                  zůvernemmen, das<note type="critical">«das» über
+                                                  der Zeile, in der Zeile gestrichen: demnach</note>
+                                                  unns fürkhommen<note type="editorial"> zu Ohren
+                                                  kommen, kund werden, Id. III, 279.</note>,
+                                                  wie<note type="critical">«wie» am Rand</note>
+                                                  <note type="critical">ZBZ Ms A 72: wie das unß
+                                                  vürkommen (statt «das unns fürkhommen wie»)</note>
+                                                  das hin unnd her jnn unnser herrschafft Knonouw
+                                                  vil lüth, man unnd wybspersonen, verhanden, so der
+                                                  wider­toüf­ferischen sect anhengig sygen, welliche
+                                                  nit allein über alles guͤtlich ermannen bißhar nit
+                                                  zur kilchen unnd<note type="critical">Folgt
+                                                  gestrichen: jnn die chr zů d</note> jnn die predig
+                                                  wie anndere christenlüth gaan wellen, sonnders
+                                                  auch etliche diser ­toüf­ferischen personen als
+                                                  eelüth by einannderen wonind, da sy doch noch
+                                                  nie<note type="critical">Folgt über der Zeile
+                                                  gestrichen: mit</note> einannderen als eelüth<note type="critical">«als eelüth» über der Zeile</note>
+                                                  zů kilch unnd straßen<note type="critical">Folgt
+                                                  gestrichen: gangen</note> gefuͤrt unnd jr ee mitt
+                                                  dem<note type="critical">Folgt gestrichen:
+                                                  e</note> offentlichen kilchgang nach
+                                                  christenlichem bruch unnd ordnung bestetiget
+                                                  habint<note type="critical">Folgt gestrichen:
+                                                  daruß by</note>. Darab nun<note type="critical">«Darab nun» am Rand.</note> biderbe lüth<note type="critical">korrigiert, ursprünglich:
+                                                  lüthen</note> mercklich<note type="critical">«mercklich» über der Zeile, in der Zeile
+                                                  gestrichen: große treffenlich</note> geergeret
+                                                  werdent. An wellicher ungehorsamme und verachtung
+                                                  deß christenlichen kilchgangs unnd unnserer
+                                                  christenlichen mandaten unnd ordnungen wir ein
+                                                  treffenlichs<note type="editorial"> stark,
+                                                  besonders, Id. XIV, 393.</note> beduren unnd
+                                                  mißfallen tragend. Unnd diewyl dann wir söllichen
+                                                  widerspennigen lüthen jren halstarr unnd
+                                                  ungehorsamme kheinswegs nachzelaßen<note type="critical">Folgt gestrichen: gesinnet,
+                                                  sonnders von oberkeith wegen</note>, sonders
+                                                  hierjnnen mitt erntst zehandlen gesinnet sind, wie
+                                                  unns als einer christenlichen oberkeit von ampts
+                                                  wegen zethůnd gebürt, so laßent wir hiemit
+                                                  offentlich ver­khünden unnd mengklichen<note type="editorial"> jeden</note> vermannen:
+                                                  Wellicher fründ unnd verwandte oder nachpuren
+                                                  hatt, die der ­toüf­ferischen sect sind, das die
+                                                  fründ unnd nachpuren angents<note type="editorial"> unverzüglich, sofort, Id. II, 19.</note>
+                                                  denselben ­toüf­feren sagind unnd anzeigind,
+                                                  unnser erntstlicher will, meinung und gebot syge,
+                                                  das sy all wyb unnd mansperspnen uff nechst
+                                                  khünfftigen heiligen wienacht tag unnd alle
+                                                  anndere sontag ein jeder jnn syner pfarr zů
+                                                  kilchen gannge, der predig deß heiligen göttlichen
+                                                  worts zůhöre unnd das nachtmal unnsers herrn Jesu
+                                                  Christj begannge unnd thuͤyge wie anndere
+                                                  gehorsamme christenlüth, jnnsonders ouch
+                                                  diejhenigen, so jre wyber, die sy by jnen hand,
+                                                  bißhar noch nit zů kilch unnd straßen gefuͤrt,
+                                                  dasselbig angents unnd unverzogenlich thuͤygind
+                                                  unnd mit jnen offentlich ze kilchen gangind<note type="critical">«jnnsonders ouch … gangind» am
+                                                  Rand mit Verweiszeichen</note>. Wie wir unns
+                                                  dann<note type="critical">Folgt gestrichen:
+                                                  desselben</note> zů jnen versehen wellind, das sy
+                                                  von jrer<note type="critical">Folgt gestrichen:
+                                                  ungehorsamme wider</note> bißhar erzeigten
+                                                  widerspenigkeit abtsaan und sich jnn die ghorsamme
+                                                  ergeben werdint.</p>
+                                                  <p>Welliche aber das nit thůn, sonnders jnn jrer
+                                                  ungehorsamme und uff jren jrrigen meinungen<note type="critical">«und uff jren jrrigen meinungen»
+                                                  über der Zeile</note> beharren wurdint, die
+                                                  söllint unnserer<note type="critical">Folgt
+                                                  gestrichen: sehen</note> großen ungnad unnd
+                                                  schweren straff erwartend syn. Hieruf werdint
+                                                  wir<note type="critical">Folgt gestrichen: acht
+                                                  unnd</note> achtung unnd uffsehens haben laßen
+                                                  unnd gegen den ungehorsammen, sy sygen man als
+                                                  wybspersonen, mitt erntstlicher straff annderen zů
+                                                  einem byspil handlen, das sy welten<note type="critical">Folgt gestrichen: g</note>, sich
+                                                  unnsers willens gehalten unnd gehorsam gsyn
+                                                  werind. Darnach wüßint sy sich zerichten unnd ein
+                                                  jeder die synen zewarnnen, jnen selbs vor straff
+                                                  unnd schaden zesind.</p>
+                                                  <p rend="margin-top">Diß mandat jst dem vogt zů
+                                                  Knonouw zůgeschickt worden, dasselbig jnn allen
+                                                  kilchen ver­khünden zelaßen.<note type="critical">«Diß mandat … zelaßen.» am oberen Rand des
+                                                  Blattes 147r.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

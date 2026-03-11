@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_843</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_843</idno>
+          </msIdentifier>
+          <head>Magdalena Meister an die Eherichter
+                                                  (Scheidungsantrag)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 694</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr richter, ehrwürdig hoch-, wolgelehrdte
+                                                  edle, fromme ehrenveste, fürsichtige fürnemme,
+                                                  wyse, jnnsonnders ghönnstige, genedige, liebe
+                                                  herren.</p>
+                                                  <p rend="margin-top">Nachdem mich jünngst
+                                                  verwichner<note type="editorial">
+                                                  vergangener</note> zyt derr almechtig gott mit
+                                                  etwas lybs krangkheit heimbgesůcht, hatt Hanns
+                                                  <persName ref="Kolb, Hans Heinrich">Heinrich Kolb</persName>, myn eheman (mit dem jch mich vor fünffzechen
+                                                  jaren ehelichen verhürradtet, auch jnn wehrender
+                                                  ehe drü kinnder, derenn einns dißmahls noch jnn
+                                                  zytlichem lebenn bey jmme, erzüget, deßglychen
+                                                  jmme alle eheliche gepür bewißen unnd gethrüwlich
+                                                  hußgehalten), nit nun niemanden der mynen, sonnder
+                                                  auch offtmahls weder essen nach thrinngkhen zur
+                                                  nothurfft mir zůkhommen lasßen wellen, jnn summa,
+                                                  sich jnn einen unnd denn anderen weg so gar
+                                                  ungepürlichen gegen mir verhalten, das mir wyter
+                                                  by jmme zůblyben jnn kheinen weg muglich geweßen,
+                                                  sonder von jmme abzůtretten genodthrengt
+                                                  worden.</p>
+                                                  <p>Sidt dem jch nun (genedige herren) erzellter
+                                                  unnd annderer uff erhöüschende nothurfft
+                                                  fürzůwenndender ursachen von jmme gsyn unnd mich
+                                                  ann annderen orten enndthalten<note type="editorial"> sich aufhalten, wohnen, Id. II,
+                                                  1230.</note>, haben jch nit onne befrömmbdung jnn
+                                                  eigent- unnd grunndtliche erfarunng gebracht, das
+                                                  ernamdter myn eheman sich jnn <placeName ref="Mähren">Mehrerren</placeName> dermasßen jnn die widerthöüferyg
+                                                  begeben, das er sich ouch nach derselbigen
+                                                  üblichem bruch widerthauffen lasßen, weliches er
+                                                  dann gegen bewüßten ehrlichenn personen (durch die
+                                                  sömliches zůerwysen<note type="editorial">
+                                                  nachweisen, belegen</note>) selbs bekhenndt. Unnd
+                                                  jm fal err (das er aber mit keiner billigkeit wirt
+                                                  thůn khönnen, wiewol er vor eüch, einem ehrsammen
+                                                  ehegricht, gantz freffen<note type="editorial">
+                                                  dreist, unverschämt, Id. I, 1286.</note> unnd
+                                                  vermeßenlich der bewysung begären dörffen unnd
+                                                  dar­mit, das er nitt widergethaufft sige,
+                                                  zůverstaan geben wellen, by welichem syn
+                                                  lychtsinnigkeit auch jnn übrigen mehr dann gnůg
+                                                  zůgespüren unnd jch verhoffenlich dessen billichen
+                                                  zůgeniesßen) desßen jnn abred unnd nit gestenndig
+                                                  syn wolte, werind uff syn begeren unnd costen hin
+                                                  deßwegen gnůgsamme khunndtschafft<note type="editorial"> eingezogene Nachricht, vgl. <hl to="http://fwb-online.de/go/kundschaft.s.1f_1732230392"><Hyperlink>http://fwb-online.de/go/kundschaft.s.1f_1732230392</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> unnd
+                                                  zügkhnusen ußzůbrinngen. Mit fherners
+                                                  empiettender<note type="critical">Folgt
+                                                  gestrichen: behuf</note> bewysung, wie hoch er,
+                                                  Kolb, umb berürdtem widerthauff angehalten<note type="editorial"> inständig bitten, auf etwas
+                                                  dringen, Id. II, 1227.</note>, fürwenndende, wie
+                                                  übel er sonnst verkürtzt unnd versumbt werden
+                                                  möchte etc. Was, wievil hochs unnd groses aber
+                                                  einn söllicher widerthauff unnd abfal unsers
+                                                  wahren christenlichen evangelischen gloubens
+                                                  vermög<note type="editorial"> bedeuten, Id. IV,
+                                                  111.</note> unnd uff jm thrage, jst hierjnnen
+                                                  zůbeschryben unnothwendig, wyl dasselbig euch,
+                                                  mynen gnedigen herren, sammptlichen gnůgsamm ja
+                                                  baß<note type="editorial"> mehr</note>, weder jch
+                                                  aber erzellen khönndt, bekhanndt unnd jnn
+                                                  wüssen.</p>
+                                                  <p>Begeren derhalben (hochehrende herren), mit
+                                                  einem söllichen man (der, damit jch dißmahls
+                                                  annderer sachen nun nit gedenngkhen thuͤge, sich
+                                                  nit allein mit dem widerthauff vorstahnder maßen
+                                                  verganngen, sonnder auch jnn synem yngelegten
+                                                  schrifftlichen fürthrag<note type="editorial">
+                                                  Nr. 689.</note> mich mit allerlei schmechlichen,
+                                                  doch als jch zů gott thruw, jnn alle ewigkheit mit
+                                                  wahrheit unerfinndtlichen zůlagen<note type="editorial"> Vorwurf, ehrverletzende
+                                                  Behauptung, Id. III, 1166.</note> faltschlichen
+                                                  unnd aller billigkeit endtgegen an mynen ehren
+                                                  zůverkhleinneren unndertsannden) nit mehr
+                                                  verbunnden zesyn, noch zehusen, sonder lanngt an
+                                                  e. e. w. unnd e. w[yshei]t myn jnn
+                                                  unnderthennigkheit demüthig und
+                                                  hochtrunngenlichistes pitten, mich sammpt abthrag
+                                                  costens unnd erstattung mynes jmme zůgebrachten
+                                                  zytlichen gůtts ehelicher pflicht unnd bannden von
+                                                  offtbesagtem Hanns Heinnrich Kolben zůledigen und
+                                                  zůscheyden.</p>
+                                                  <p rend="margin-top">E. e. w. unnd e. wt.
+                                                  unnderthennige</p>
+                                                  <p>Magdalena Meisterin</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_727</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_727</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-05-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 578</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Daruff hat das <placeName ref="Wetzikon">Wetzikommer</placeName> capitel ouch anzeigt, dz den
+                                                  wider­toüf­feren in der herrschafft
+                                                  Gruͤ<placeName ref="Grüningen (Landvogtei)">ningen</placeName> äben nit mit rechtem ernst geweeret werden
+                                                  woͤlle. Sy, die predicanten, habint ire klagen und
+                                                  beschwerden der widerteufferen halber von nüwem
+                                                  dem obervogt inn gschrifft zůgestelt. Der zeigt
+                                                  an, er habe es minen herren, den rechenherren, als
+                                                  er syn rechnung geben, fürgebracht, darüber sige
+                                                  imme bißhero kein bscheid ervolget, wie er sich
+                                                  halten sölle.</p>
+                                                  <p rend="margin-top">Uß dem synodo jm meyen anno
+                                                  1602, jst für myn gnedig herren, ein ehrsammer
+                                                  rath, gewißen worden:</p>
+                                                  <p>Durch das capitel jm <placeName ref="Freiamt">Frygampt</placeName> jst fürgebracht worden, wiewol myn
+                                                  gnedig herren uff den erschrockenlichen
+                                                  erdbidem<note type="editorial"> Erdbeben</note>
+                                                  ein erntstlich christenlich mandat umb abstellung
+                                                  sünd unnd lasteren ußgahn laßen<note type="editorial"> Mandat vom 27. September 1601,
+                                                  vgl. Schott-Volm, Nr. 580.</note>, so werde doch
+                                                  demselben schlechtlich gehorsamet unnd die
+                                                  christenlichen mandat unnd satzungen von etlichen
+                                                  verachtet unnd geschmecht, jnmaßen das gmein volck
+                                                  sage, was man nur verbütten welle, wenn niemant
+                                                  gestrafft werde. Da dann sy, die predicanten jm
+                                                  ampt, umb die mengel, so jnen fürgefallen, ein
+                                                  schrifftliche verzeichnuß jrem obervogt
+                                                  fürgebracht unnd sich umb mehrenteils sachen mit
+                                                  jme wol verglychen<note type="editorial"> sich
+                                                  verständigen, einigen, Id. II, 601.</note> welten.
+                                                  Aber der töufferen halber syge noch jmmerdar große
+                                                  beschwerd verhanden. Dann dieselben gar trutzigen
+                                                  bscheidt gebind, nit ghor­sam syn wellind,
+                                                  verleidind ein oberkeit gegen jren nachburen,
+                                                  haltind den sontag nit, schendint den eestandt
+                                                  unnd erzeigind sich jnn allweg gar freffen<note type="editorial"> dreist, unverschämt, Id. I,
+                                                  1286.</note> und unghorsam. Wellichs nun bim
+                                                  gmeinen man gar große ergernuß bringe. Die sachen
+                                                  habint sich jrethalb jetzt ein wyl verzogen, es
+                                                  welle aber der erntst nit recht volgen.</p>
+                                                  <p>Das verbott der vaßnacht fhüren habint etliche
+                                                  ghalten, anndere nit. Daruß dann ein vexieren<note type="editorial"> aufziehen, sticheln, Id. I,
+                                                  1143.</note> gegeneinanderen ervolget. Etliche
+                                                  habents mit den jungen knaben verantwortet.
+                                                  Etliche sagind, wann es also ungstrafft blybe, so
+                                                  wellind sy über ein jar darmit auch wider
+                                                  fürfaren. Daher dann zůbesorgen, das die
+                                                  kilbinen<note type="editorial"> Kirchweih</note>,
+                                                  ob sy glych wol durch das mandat auch abgestrickt
+                                                  sind, wider jnryßen werdint. So werde auch
+                                                  jnnsonderheit mit dem schlemmen und überflüßigen
+                                                  zechen unnd zehren wider die mandat unnd satzungen
+                                                  gar grob und ohn alles schüchen gehandlet,
+                                                  wellichs man nit nach den satzungen<note type="critical">Folgt gestrichen: straffe
+                                                  und</note> leide unnd straffe, diewyl mehrenteils
+                                                  die amptlüt, so wyß und blaw tragend, darzů
+                                                  helfind unnd dem zächen ergeben sygind. Wie es
+                                                  dann auch kurtzlich, als man einen annderen
+                                                  vorfendrich<note type="editorial">
+                                                  Fahnenträger</note> by jnen nemmen söllen, etlich
+                                                  zyt darvor mit pratticieren<note type="editorial">
+                                                  durch unerlaubte Mittel bewerben, Id. V,
+                                                  575.</note>, zechen unnd ußgeben etlicher
+                                                  ehrsüchtigen lüten, die darnach gstelt und hend
+                                                  zekauffen understanden, gar unverschampt
+                                                  zůganngen, deßen man sich einest übel gschämpt
+                                                  hette. Da der obervogt sy gheißen, das sy disere
+                                                  sachen jm synodo fürbrinngen mögind unnd söllind,
+                                                  damit etwas erntstlicher bevelch darüber
+                                                  ußgange.</p>
+                                                  <p>Daruf hatt das Wetzikommer capitel auch
+                                                  angezeigt, das den wider­toüf­feren jnn der
+                                                  herrschafft Gruͤningen eben nit mit rechtem erntst
+                                                  geweert werden welle. Sy, die predicanten, habint
+                                                  jre klagen unnd beschwerden der widerthoüfferen
+                                                  halber von nüwem dem obervogt jnn gschrifft
+                                                  zůgestelt. Der zeige an, er habe es mynen herren,
+                                                  den rechenherren, als er syn rechnung geben,
+                                                  fürgebracht. Darüber syge jme bißhar khein bscheid
+                                                  ervolget, wie er sich halten sölle.</p>
+                                                  <p>Das <placeName ref="Wetzikon">Wetzikommer</placeName>
+                                                  capitel hat auch wyter angezogen<note type="editorial"> vorwerfen, Id. XVII,
+                                                  992.</note>, das by jnen wider die mandat so gar
+                                                  große hochzyt gehalten werdint, die ursach gebind,
+                                                  dem zůlouff der dirnen und landtstrycheren, die
+                                                  dann<note type="critical">Folgt gestrichen:
+                                                  dem</note> dem land ein große beschwerd und den
+                                                  lüthen lang uff dem hals ligind. Zůdem das auch
+                                                  etliche by jnen dem mandat der vaßnacht fhüren
+                                                  halber unghorsam gsyn sygind unnd auch jnn ander
+                                                  weg darwider gehandlet unnd die mandat nit
+                                                  gehalten werdint.</p>
+                                                  <p>Diewyl nun diß alles wichtige sachen sind,
+                                                  doran nit wenig gelegen, unnd glych wol über alle
+                                                  unnd jede stuck gar gůte christenliche mandat unnd
+                                                  ordnungen ußgangen, aber der nachtruck unnd die
+                                                  handthabung, nit wie sich gebürt und die nothurfft
+                                                  erforderet, verhanden jst, so laßt ein ehrsamer
+                                                  synodus die sachen für<note type="critical">Folgt
+                                                  gestrichen: üch</note> myn gnedig herren khommen.
+                                                  Mit erntstlicher bitt, sy wellind hierjnnen ein
+                                                  erntstlichs jnsehens thůn<note type="editorial">
+                                                  insehen tun: einschreiten, Id. VII, 562f.</note>
+                                                  unnd durch jr ansehen<note type="editorial">
+                                                  Anordnung, Id. VII, 560.</note> die obervögt zů
+                                                  mehrer handthabung der mandaten mit erntst
+                                                  vermannen unnd halten<note type="critical">«unnd
+                                                  halten» am Rand mit Verweiszeichen</note> unnd
+                                                  jnnsonderheit verschaffen, das doch dem
+                                                  verderplichen täglichen zächen, überflüßigen
+                                                  zehren unnd trunnckenheit, so mit großer ergernuß
+                                                  jnn statt und landt so gar jm schwanck gadt, recht
+                                                  gewehrt unnd dasselbig abgestelt werde.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

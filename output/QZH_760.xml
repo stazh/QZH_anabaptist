@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_760</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_760</idno>
+          </msIdentifier>
+          <head>Rat und Bürgermeister von Zürich an Hans Ulrich Wolf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1603-08-01"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 611</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, uns kompt für<note type="editorial"> fürkommen: zu Ohren kommen, kund
+                                                  werden, Id. III, 279.</note>, wie das kurtz
+                                                  verschinner tagen etliche widerthoüffer jnn den
+                                                  höltzeren by <placeName ref="Brüttisellen">Brüttißellen</placeName> unnd der ennden jnn dyner
+                                                  amptsverwaltung jre zesammenkommnußen gehalten und
+                                                  ein merckliche anzal volcks von vier biß jnn fünf
+                                                  hundert personen uß unnßer grafschafft
+                                                  <placeName ref="Kyburg">Kyburg</placeName> unnd anderschwo
+                                                  har jnen nach unnd jnn die ­toüf­ferischen
+                                                  predigen zůgeloffen syn sölle. Diewyl dann ein
+                                                  sölliches gestrax wider unnßere mandat und unnßer
+                                                  will gar nit jst, dißere freffenheit<note type="editorial"> Frechheit, Dreistigkeit. Id. I,
+                                                  1288.</note> den ­toüf­feren noch auch annderen
+                                                  den unnßeren, die jnen umb jrer lehr oder glych
+                                                  umb wundergebe<note type="editorial"> Neugier, Id.
+                                                  II, 64.</note> willen also nachlouffend, daßelbig
+                                                  nachzůlasßen. Und wir daby nit wüßen mögend, ob du
+                                                  vilicht deßen schon hievor ouch bericht empfangen
+                                                  oder nit, so habent wir dich deßelbigen
+                                                  verstendigen wöllen mit dem bevelch, das du der
+                                                  sach flyßig nachfragist unnd dann gegen den
+                                                  ­toüf­ferischen redlinfuͤreren unnd
+                                                  winckelpredigeren<note type="editorial"> Prediger
+                                                  ohne Amt</note>, jtem denen, so jnen herberig und
+                                                  unnderschlouff gebend, und allen denen, so jnen
+                                                  jnn jre predigen nachgeloffen sind, mit
+                                                  gfengklicher jnziechung unnd dann auch abnemmung
+                                                  der bůßen nach luth unßers, der wider­toüf­feren
+                                                  halber jm truck ußgangnen mandats, was daßelbig
+                                                  der einen und der annderen halber ußwyßt<note type="editorial"> besagen, Id. XVI, 1951.</note>,
+                                                  handlist unnd darjnnen niemandem verschonist. Als
+                                                  wir dann von wegen anderer der unnßeren, so ußert
+                                                  dyner verwaltung gesessen, glyche nachfrag unnd
+                                                  straff fürzůnemmen bevolchen, dann wir je sölliche
+                                                  halßstarrigen sectischen lüth jnn unnßeren landen
+                                                  schlecht nit dulden wöllend unnd unns zů dir
+                                                  versehend, du werdist nach dynem bißhar erzeigten
+                                                  erntst unnd yfer hierjnnen dynes theils auch wyter
+                                                  dyn pflicht zůerstatten unnd ob unseren
+                                                  mandaten<note type="editorial"> StAZH, B IV 61,
+                                                  fol. 152r: unnserm mandat</note> styff zehalten
+                                                  nit ermanglen, damit also söllichem gsind mit
+                                                  erntst, als die nothurfft erforderet, abgewehrt
+                                                  werde. Das wellend wir jnn gnaden unnd gůtem gegen
+                                                  dir erkhennen. Datum den ersten augustj anno
+                                                  1603.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich.</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unnserm
+                                                  besonnders getrüwen, lieben burger und vogt zů
+                                                  Kyburg Hans Ůlrich Wolffen.</p>
+                                                  <p rend="margin-top">[Notiz des Landvogtes]:
+                                                  Accepi den 3. augustj, dryfft deüffer ahn zů
+                                                  Brütissellen und der änden.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

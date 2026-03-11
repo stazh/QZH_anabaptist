@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_595</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_595</idno>
+          </msIdentifier>
+          <head>Hutterische Bescheinigung des Aufenthalts
+                                                  von Magdalena Müller und des Todes von fünf
+                                                  Kindern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1591-07-08"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 446</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wier, dj brüeder zum Altenmarckht<note type="editorial"> Stará Břeclav (dt.
+                                                  Altenmarkt)<placeName ref="Stará Břeclav"/>,
+                                                  <placeName ref="Lundenburg">Lundenburg</placeName> ist der
+                                                  deutsche Name der Stadt Břeclav.</note> wonhafft
+                                                  under der herrschafft von Lundnburg im landt zu
+                                                  <placeName ref="Mähren">Merhern</placeName>, bekhennen mit
+                                                  disem schreiben, dz zun uns kommen ist dj Madlena
+                                                  Müllerin mit sechs kinder dis verschinen 1590.
+                                                  jars. Nachdem sie aber ein zeit bein uns gewest,
+                                                  sein fünff mit todt abganngen, sie sich wider vonn
+                                                  uns gezogen und hat dz ain kindt lebendig bein uns
+                                                  verlassen, ist sie ietzt den 8. julj wider kommen
+                                                  mit irem man <persName ref="Widmaier, Jakob">Jacob Widmair</persName>. Derselbig begert
+                                                  kundtschafft<note type="editorial"> Zeugnis,
+                                                  Beweis, Id. III, 353.</note> der abgestorbnen
+                                                  kinder, weliches wir in disem schreiben vor
+                                                  menigclich bekhennen, dz dj gemelten 5 kinder mit
+                                                  todt abgangen und dz ain bein uns alhie noch bej
+                                                  leben ist. Begern<note type="critical">Folgt
+                                                  gestrichen: dz</note> sie dasselbig mitzunemmen,
+                                                  nun aber dz kindt nit mit inen wil, hab wirs
+                                                  gleich auf ir guet bewilligung auch nit begert
+                                                  auszutreibenn. Solch warhafftige kundtschafft sein
+                                                  wir von in erbetten, dz wirs inen nit abschlagen
+                                                  kundten, sonnder zu dienst verwilliget. Geben zum
+                                                  Altenmarckht den 8. julj dis 1591. jars.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

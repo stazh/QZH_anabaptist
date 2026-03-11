@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_778</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_778</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an ihre Landvögte (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1604-12-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 629</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, du weist dich<note type="critical">Folgt gestrichen: noch</note> wol
+                                                  zůerjnneren, was wir jnn nechstvergangnem monat
+                                                  meyen dir<note type="critical">Folgt gestrichen:
+                                                  von</note> (wie auch allen<note type="critical">«allen» am Rand</note> annderen unnseren
+                                                  obervögten) von wegen der widerthoüfferen zů
+                                                  handthabung unnsers wider sy ußgangnen mandats
+                                                  zůgeschriben unnd bevolchen habent.<note type="editorial"> Vom Mai 1604 ist kein Schreiben
+                                                  überliefert, nur vom 9. Mai 1603, vgl.
+                                                  Nr. 607.</note> Nun hetten wir unns versehen, das
+                                                  uff söllichen unnsern erntstlichen bevelch alle
+                                                  unnsere obervögt dem mandat mit flyß und yfer, wie
+                                                  ein jeder schuldig jst, nachgesetzt hetten. So
+                                                  kompt uns doch abermaln erntstliche klag für<note type="editorial"> fürkommen: zu Ohren kommen, kund
+                                                  werden, Id. III, 279.</note>, wie dasselbig an
+                                                  etlichen orten jnn unnseren herrschafften
+                                                  schlechtlich bescheche, also das noch jmmerdar
+                                                  frömbde lehrer und ufwigler jnns land kommind,
+                                                  jren frygen zug habint<note type="critical">«jren
+                                                  frygen zug habint» am Rand mit
+                                                  Verweiszeichen</note> und die lüth befleckind und
+                                                  hinweg fuͤrind. Auch gegen den ­toüf­feren, so jm
+                                                  land sind, nit ein sollicher erntst mit buͤßen
+                                                  unnd jnn andere weg, wie es<note type="critical">Folgt gestrichen: dienst</note> das mandat
+                                                  zůgibt<note type="editorial"> eine (gesetzliche)
+                                                  Bestimmung enthalten, Id. II, 95.</note> und<note type="critical">Folgt gestrichen: es</note> die
+                                                  nothurfft erfordert, gebrucht werde, da es vilmaln
+                                                  an den underamptlüten ermanglen welle, die jr ampt
+                                                  und was jnen jederzyt bevolchen wirt<note type="critical">«was jnen jederzyt bevolchen wirt»
+                                                  am Rand mit Lesezeichen, in der Zeile gestrichen:
+                                                  bevelch</note>, nit wie sy aber schuldig sind
+                                                  ußrichtind, an wellichem wir ein groß mißfallen
+                                                  tragend. Unnd diewyl dann hieran nit ein gerings
+                                                  gelegen syn will und wir von oberkeit wegen
+                                                  schuldig sind, mitt erntst zun sachen zethůnd unnd
+                                                  söllichem schedlichen volck zewehren, wie<note type="critical">Folgt gestrichen: da</note> wir
+                                                  dann auch sy jnn unnseren landen nit dulden
+                                                  khönnend noch wöllend, sonnders unnser
+                                                  meinung<note type="editorial"> Erwartung, Weisung,
+                                                  vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> jst, das
+                                                  die halßstarrigen, unghorsammen und widerspennigen
+                                                  nach lut deß mandats vertriben unnd fürnemblich
+                                                  auch gegen den frömbden ufwigleren und lehreren
+                                                  aller erntst angewendt werde, so wellend wir dich
+                                                  hiemit widerumb zum erntstlichisten ermannet
+                                                  haben, das du unnser der ­toüf­feren halber jm
+                                                  1585ten jar jm truck ußgangen mandat<note type="editorial"> Nr. 329.</note> für dich nemmist
+                                                  und demselbigen jnn allweg gestrax nachsetzist
+                                                  unnd jnnsonderheit die undervögt unnd weibel darzů
+                                                  haltist, das ein jeder<note type="critical">«ein
+                                                  jeder» am Rand mit Verweiszeichen</note> hierjnnen
+                                                  syn<note type="critical">«syn» über der Zeile, in
+                                                  der Zeile gestrichen: jr</note> ampt und was
+                                                  jme<note type="critical">«jme» über der Zeile, in
+                                                  der Zeile gestrichen: jnen</note> jeder zyt<note type="critical">Folgt gestrichen: d</note> gegen
+                                                  den ­toüf­feren ußzerichten bevolchen<note type="critical">Folgt gestrichen: js</note> wirt,
+                                                  dasselbig allwegen den nechsten gehorsamlich und
+                                                  ohn einich summen oder durch dfinger sehen<note type="critical">Folgt gestrichen:
+                                                  erstattind</note> erstatte by verlierung unnser
+                                                  gnad und entsatzung deß dientsts unnd wellend unns
+                                                  also zů dir versehen, du werdist hierjnnen an
+                                                  dynem flyß und erntst nützit erwinden<note type="editorial"> fehlen, Id. XVI, 580f.</note>
+                                                  laßen und<note type="critical">Folgt gestrichen:
+                                                  dich</note> dich also erzeigen, das wir dyn
+                                                  ernsthaffte gspürend unnd unns dynthalber khein
+                                                  klag deß mangels ald<note type="editorial">
+                                                  oder</note> sumnuß fürkomme, das nebent dem, das
+                                                  du darmit dyn pflicht erstattist, wellend wir
+                                                  gegen dir jnn gnaden erkhennen. Datum den 3ten
+                                                  decembris anno 1604.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An die ußeren obervögt
+                                                  (<placeName ref="Kyburg">Kyburg</placeName>,
+                                                  <placeName ref="Grüningen">Grüningen</placeName>,
+                                                  <placeName ref="Greifensee">Gryffensee</placeName>,
+                                                  <placeName ref="Andelfingen">Andelfingen</placeName>,
+                                                  <placeName ref="Eglisau">Eglisow</placeName>,
+                                                  <placeName ref="Regensberg">Regensperg</placeName>,
+                                                  <placeName ref="Konau">Knonow</placeName>,
+                                                  <placeName ref="Wädenswil">Wädeschwyl</placeName>)</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

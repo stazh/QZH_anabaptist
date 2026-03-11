@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_694</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_694</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Sambstags, den 7ten
+                                                  februarij p[raesentibus] herr Keller und beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-02-07"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 545</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt zu <note type="editorial"> Hans
+                                                  <persName ref="Clauser, Hans Heinrich">Heinrich Clauser</persName></note><placeName ref="Grüningen">Grüningen</placeName> soll <persName ref="Leutenegger, Jörg">Jörgen Luttenegger</persName>, den<note type="critical">«Lüttenegger den» am Rand, in der
+                                                  Zeile gestrichen: Otten</note> müller, den
+                                                  wider­toüf­fer ußem <placeName ref="Thurgau">Turgouw</placeName>, so sich jetzo uff <placeName ref="Hinwil, Orn">Orn</placeName> endthalten<note type="editorial"> sich aufhalten, wohnen, Id. II,
+                                                  1230.</note> soll, und <persName ref="Bertschinger, Hans">Heynne
+                                                  Bertschickern</persName>
+                                                  jm <placeName ref="Fischenthal">Vischenthal</placeName> als
+                                                  rechte ufrüerer gefengclichen jnnzüchen laßen unnd
+                                                  mynen h[erre]n zůschicken.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Sambstags, den 7ten
+                                                  februarij p[raesentibus] herr Keller und beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_304</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_304</idno>
+          </msIdentifier>
+          <head>Hans Wilpert Zoller an den Bürgermeister
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1568-08-09"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 155</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Innsonders günstiger lieber herr burgermeister.
+                                                  Uff üwer befelch hin schick ich üch disen
+                                                  gefanngnen touffer zů, wellicher bi <persName ref="Stocker, Melcher">Melcher
+                                                  Stockers</persName> sun,
+                                                  der ouch jn miner g[nedigen] herren gefennknus
+                                                  lit, gedient und jnn dahin bracht und andre dahin
+                                                  zu bringen nit fyrt<note type="editorial">
+                                                  fürchtet</note>
+                                                  <note type="critical">«und andere dahin zu bringen
+                                                  nit fyrt» am Rand mit Verweiszeichen</note>,
+                                                  wellicher, als ich von den heren predikanten
+                                                  bericht, die ettwan jn sinem hus mit jme geredt,
+                                                  gar ein hartneckiger böser lecker<note type="editorial"> durchtriebener Mensch, Id. III,
+                                                  1246f.</note> ist, kann weder schriben nach lesen,
+                                                  vil spitzlen redt gantz lichtfärtig von denen, die
+                                                  jn verschinem<note type="critical">«verschinem» am
+                                                  Rand mit Verweiszeichen, in der Zeile gestrichen:
+                                                  sinem</note> sterben todes verscheidens sind und
+                                                  nach täglich sterbend, sam<note type="editorial">
+                                                  als ob, Id. VII, 902f.</note> si all verloren und
+                                                  nit zů gnaden khomen werden etc. Es hatt auch
+                                                  gedachter Stocker offentlich geredt, er wüße wol,
+                                                  were er gestorben, ee und er die touffery
+                                                  angenomen, wüße er wol verdamt sin. Sömliche und
+                                                  andre böse gründ jn jnnen stecken, die dan bi
+                                                  einfaltigen lüthen, under di si sich vil thund,
+                                                  vil ergernuß bringennd. Das wellind min g[nedig]
+                                                  heren berychten und mit jnne üwers gefallenns
+                                                  hanndlen, üch gott befelchennde. Dattum uß
+                                                  Wedeschwil jn yl den 9. augst anno 68.</p>
+                                                  <p rend="margin-top">U[wer] diennstwilliger</p>
+                                                  <p>H. W. Zoller</p>
+                                                  <p rend="margin-top">Dem edlenn eerhennvestenn
+                                                  heren Bernharten <persName ref="Cham, Bernhard von">von Kham</persName>, burgermeister der
+                                                  statt <placeName ref="Zürich">Zürich</placeName>, minem
+                                                  günstigen herren und fründtlichen lieben
+                                                  schwagern.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

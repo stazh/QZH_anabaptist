@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_552</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_552</idno>
+          </msIdentifier>
+          <head>Verhöre und Urteile gegen die in
+                                                  Horgen verhafteten
+                                                  Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1589-10-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 403</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als herr statthalter Hirtzel<note type="editorial">  <persName ref="Hirzel, Salomon">Salomon Hirzel</persName></note>, herr landtvogt
+                                                  Tomman, herr landtvogt Escher, herr landtvogt
+                                                  Schmid<note type="editorial"> Vermutlich <persName ref="Schmid, Matthias">Matthias
+                                                  Schmid</persName></note>
+                                                  unnd herr Schultheiss Großman<note type="editorial"> <persName ref="Grossmann, Konrad">Konrad Grossmann</persName></note> zů den 15
+                                                  ­toüf­feren, so disser tagen von Horgen alhar jnn
+                                                  gfanngenschafft gefuͤrt worden, jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  kert unnd sy gmeinlich unnd jeden jnnsonders<note type="critical">«gmeinlich unnd jeden jnnsonders»
+                                                  am Rand mit Verweiszeichen</note> mit ernst
+                                                  befragt, was sy an dem ort, alda man sy funden,
+                                                  verhandlet unnd, ob sy sich fürterhin der jrrigen
+                                                  ­toüf­ferischen sect abthůn, deß kilchgangs<note type="critical">Folgt gestrichen: und</note>,
+                                                  hörung der predigen göttliches worts unnd<note type="critical">Folgt gestrichen: gehorme</note>
+                                                  der oberkeit gehorsame thůn und leisten, beflyßen
+                                                  wellind, hatt jr jeder unnd erstlich <persName ref="Sommerauer, Hans">Hanns
+                                                  Sumerouwer</persName>, der
+                                                  pfister alhie<note type="critical">«unnd erstlich
+                                                  … alhie» am Rand mit Verweiszeichen</note>,
+                                                  volgende antwort gegeben, namlich:</p>
+                                                  <p>Das verschinnen<note type="editorial">
+                                                  vergangenen</note> frytag syn vatter zu jme
+                                                  khommen unnd angezeigt, wie das er ein ků zů
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName> umb
+                                                  ancken<note type="editorial"> Butter</note>
+                                                  verstelt<note type="editorial"> vermieten, vgl.
+                                                  Grimm 25, 1735f.</note>, sölle jme die
+                                                  reichen<note type="editorial"> holen, Id. VI,
+                                                  140.</note>, welliches er<note type="critical">Folgt gestrichen: gethan</note> thun wellen. Wie
+                                                  er aber am sambstag<note type="critical">«am
+                                                  sambstag» am Rand mit Verweiszeichen</note> gen
+                                                  Wedeschwyl khommen, habe er den puren nit
+                                                  anheimbsch<note type="editorial"> anwesend, Id.
+                                                  II, 1286.</note> funden unnd also ein zyt lang uff
+                                                  jnn gwartet, hernach<note type="critical">«uff jnn
+                                                  gwartet, hernach» am Rand mit
+                                                  Verweiszeichen</note> spatzieren gangen. Inn dem
+                                                  er jnn ein huß khommen, weß aber das syge, möge er
+                                                  nit wüssen, da man jme angezeigt, wie das selbige
+                                                  nacht etliche ­toüf­fer zesammen khommen wellind.
+                                                  Unnd als es angefangen spaat unnd nacht werden,
+                                                  syge er glych ouch bedacht worden, dahin zegond
+                                                  unnd zelůgen, was sy thůn wellind. Inn dem als sy
+                                                  mit ein anderen gebetet, man zů jnen griffen unnd
+                                                  gfengklichen angenommen, unnd syge also er,
+                                                  Sumerouwer, nit von der ­toüf­feren wegen da
+                                                  gwesen, sonders von oberzelter ursachen
+                                                  ungeverdt<note type="editorial"> unversehens,
+                                                  zufällig, Id. I, 880.</note> dahin khommen, möchte
+                                                  wol lyden<note type="editorial"> ich möchte
+                                                  leiden: es wäre mir recht, Grimm 12, 663.</note>,
+                                                  das er die nie gsehen noch zů jnen khommen were,
+                                                  dann jme von hertzen leid, das er durch<note type="critical">«durch» über der Zeile, in der
+                                                  Zeile gestrichen: sich jnn</note> den fal<note type="critical">Folgt gestrichen: unnd</note> das
+                                                  geschworen urfechd übersehen mitt gantz
+                                                  underthenigem unnd demuͤtigem bitten, jme
+                                                  söllichen feler zuverzychen unnd der
+                                                  gfangenschafft gnedigklichen zuͦerlaßen, sich
+                                                  anerpietende, diser ­toüf­ferischen sect gentzlich
+                                                  unnd gar abzethůn unnd deren nüdt mehr zůbeladen,
+                                                  hingegen aber sich aller erbarkeit unnd gehorsamme
+                                                  gegen üch, mynen gnedigen herren, als ein anderer
+                                                  redlicher burger zubeflyßen unnd die predigen
+                                                  götliches worts mit yfer unnd ernst zubesůchen
+                                                  unnd zehören.</p>
+                                                  <p>[Urteil]: Uff syn (Summerouwers) ernstlichs
+                                                  anerpieten, sich der ­toüf­feryg abzethůn, wellend
+                                                  myn gnedig herren recht abermalen das besser
+                                                  glouben unnd jnne der gfangenschafft uff ein
+                                                  gwonlich urfechd erlassen. Diewyl er aber <note type="editorial"> vor einem Jahr, Id.
+                                                  I, 1019.</note> geschworen urfechd übersechen, jnn
+                                                  dem er sich wider syn gethanes versprechen der
+                                                  ­toüf­ferischen sect wyther anhengig gmacht, sölle
+                                                  er 15 pfund<note type="critical">In der Vorlage:
+                                                  lb</note> also bar mynen herrn zůbůß verfallen
+                                                  syn, darzů 5 pfund an costen<note type="editorial"> Gemeint sind die Gefängniskosten.</note> geben.
+                                                  Nebent dem mit jme eins unnd gnůg gredt werden,
+                                                  sich disser jrrigen meinung nützit mehr zebeladen,
+                                                  sonders sich synem anerpieten gmeß zehalten, dann
+                                                  wo er das übersechen, man mit jme (wie man dann
+                                                  jetzt dessen gůt fůg gehept hete) etwas fürnemmen,
+                                                  so jme zeschwer werden wurde. Actum mittwuchs den
+                                                  15. octobris anno etc. 89 pr[aesen]t[ibus] herr
+                                                  b[urgermeister] Tomman<persName ref="Thomann, Kaspar">das
+                                                  vernd</persName><bm id="179"/>, statthalter
+                                                  unnd beid reth.<note type="critical">«jme zeschwer
+                                                  … beid reth» am Rand mit
+                                                  Verweiszeichen.</note></p>
+                                                  <p rend="margin-top"><persName ref="Hofmann, Rudolf">Růdolff Hoffman</persName> von <placeName ref="Wädenswil">Wedeschwyl</placeName> gibt disern bscheid, das jr myn
+                                                  gnedig herren<note type="critical">«herren» über
+                                                  der Zeile</note> vor langen jaren jres gloubens
+                                                  grund wol gwüßt, unnd syge nit<note type="critical">«nit» über der Zeile, in der Zeile
+                                                  gestrichen: gentzlich nach</note> gesinnet, darvon
+                                                  abzestaan, noch die predigen zehören. Sontsten
+                                                  welle er gott unnd ouch der oberkeit, was billich
+                                                  syge, gehorsam syn.</p>
+                                                  <p rend="margin-top"><persName ref="Pfister, Walti">Wältj Pfister</persName> von Wedeschwyl seit, das sy
+                                                  allein vons herren wegen zesammen khommen, anders
+                                                  er nit mehr sagen<note type="critical">Folgt
+                                                  gestrichen: wellen</note> noch anzeigen
+                                                  wellen.</p>
+                                                  <p rend="margin-top"><persName ref="Wäber, Gorius">Gorius Wäber</persName> von Ebertschwyl<note type="critical">Folgt gestrichen:
+                                                  bri</note><placeName ref="Ebertswil"/> gibt den
+                                                  bericht, vermeine unnd syge gůter hofnung<note type="critical">Folgt gestrichen: habe</note>, das
+                                                  sy anders nützit, dann das gott gefellig unnd nit
+                                                  wider jnn syge, gethaan habind, welle ouch er gern
+                                                  alles, das mit gott syn möge, thůn. Doch welle er
+                                                  <nswk/> nit jnn unnser kirchen, diewyl man die
+                                                  ordnung<note type="critical">Folgt gestrichen:
+                                                  nit</note> darjnnen nit, wie die seligen apostel
+                                                  gebrucht, uͤbe unnd trybe, gaan.</p>
+                                                  <p rend="margin-top"><persName ref="Wälti, Jagli">Jaglj Wältj</persName> ußm <placeName ref="Suhrental">Surthal</placeName> Berner gepiets, synes
+                                                  handtwerchs ein schnyder<note type="critical">«synes handtwerchs ein schnyder» am Rand mit
+                                                  Verweiszeichen.</note>, zeigt an, das er gern thůn
+                                                  welte, das er möcht selig werden. Doch begere er,
+                                                  jnne also blyben zelaßen, unnd ob er schon gern
+                                                  hin unnd wider züchen welte unnd arbeiten, welle
+                                                  doch jm syn glouben nit zůlaßen, das so zur
+                                                  hoffart unnd pracht diente zemachen.</p>
+                                                  <p rend="margin-top"><persName ref="Suter, Uli">Ulj Suter</persName> von <placeName ref="Horgen">Horgen</placeName> seit, habind anders nützit
+                                                  than<note type="critical">«than» über der
+                                                  Zeile</note> dann bettet, weltind gern recht thůn,
+                                                  als sy dann<note type="critical">Folgt gestrichen:
+                                                  darmit</note> vermeinind, darmit gethaan haben.
+                                                  Wyl ouch darby blyben, so lang jm gott gnad
+                                                  gibt.</p>
+                                                  <p rend="margin-top"><persName ref="Landis, Heini">Heinj Landis</persName> von Horgen gibt den bscheid,
+                                                  das nachdem sy zesamen khommen, hab er nach
+                                                  gmeinem bruch ein ermanung an das volck gethaan
+                                                  unnd niemandts geprediget. Nach söllicher manung
+                                                  sy gmeinlichen miteinanderen gebetet, vermeinende,
+                                                  daran nit unrecht gethaan haben. Doch könne unnd
+                                                  welle er die kilchen unnd predigen noch nit hören,
+                                                  dann das wider syn gwüßne. Begere darby zeblyben
+                                                  unnd das zethůnd, so das nüw testament
+                                                  vermöge<note type="editorial"> besagen,
+                                                  beinhalten, Id. IV, 111.</note> unnd er darjnnen
+                                                  verstande.</p>
+                                                  <p rend="margin-top"><persName ref="Landis, Hans">Hanns Landiß</persName> von <placeName ref="Horgen">Horgen</placeName> gibt bericht, das jme allein umb
+                                                  syn seel zethůn unnd er alda anders nützit
+                                                  dann<note type="critical">Folgt eine
+                                                  Wortstreichung</note> syner seelen heil
+                                                  gesůcht<note type="critical">Folgt eine
+                                                  Wortstreichung</note>, will gentzlich darvon nit
+                                                  abstan, sonders darby belyben, dann anders an
+                                                  dhand zenemen, syge wider syn gwüßne unnd das
+                                                  zethun nit gsinnet.</p>
+                                                  <p rend="margin-top"><persName ref="Bruppach, Rutsch">Růtsch Bruppach</persName> von <placeName ref="Wädenswil">Wedeschwyl</placeName> seit, das sy allein bettet, unnd
+                                                  ob er schon nit jnn die kilchen gange, das er dann
+                                                  ouch noch nit zethůn gesinnet<note type="critical">«ob er schon … gesinnet» am Rand mit
+                                                  Verweiszeichen</note>, welle er doch<note type="critical">«doch» über der Zeile</note> das
+                                                  thůn, das er vermeine, vor gott zůverantworten.
+                                                  Doch welle er sich gern, wo jnne einer durch
+                                                  göttliche schrifft uff ein bessers wysen könne,
+                                                  wysen lasen unnd demselbigen volgen. Unnd ob er
+                                                  schon syn eefrouwen, die er jetzt etliche jar lang
+                                                  gehept unnd kinder by jro erzüget, nie zur kilchen
+                                                  gfuͤrt unnd die ee bestettigen laßen, syge er doch
+                                                  der hofnung, das vor gott gnůgsame bestedtigung
+                                                  beschechen.</p>
+                                                  <p rend="margin-top"><persName ref="Pfister, Hans">Hanns Pfister</persName> von Wedeschwyl zeigt an, sy
+                                                  habind nützit unrechts gethaan, unnd welle er von
+                                                  diserm synem fürnemmen, wie er dann recht dran
+                                                  syge, nit abstaan, noch sich wyßen laßen.</p>
+                                                  <p rend="margin-top"><persName ref="Hochstrasser, Jakob">Jacob Hochstrasser</persName> von <placeName ref="Wettswil">Wetzwyl</placeName> gibt bericht, das sy nützit
+                                                  anders thaan dann bettet, unnd verhoffind, ein gůt
+                                                  werch thaan haben. Sontsten er noch nit gsinnet,
+                                                  zur kilchen zgond, sonders by syner meinung
+                                                  gentzlich zůbelyben.</p>
+                                                  <p rend="margin-top"><persName ref="Erzinger, Uli">Uly Ertzinger</persName> ab <placeName ref="Guldenen">Guldinen</placeName> seit, welle gott ghorsam syn, wie
+                                                  er dann meine, das er<note type="critical">Folgt
+                                                  gestrichen: an dis</note> unnd syne mitgspannen an
+                                                  dem ort ein gůt werck than habind, unnd syge er
+                                                  gar nit gsinnet, zkilchen zgond. Unnd wiewol er
+                                                  befragt worden, wer die gwesen, so er by 4 wuchen
+                                                  ungfar alhar gfuͤrt, will er niendert<note type="editorial"> gar nicht</note> von wüssen.</p>
+                                                  <p rend="margin-top"><persName ref="Hön, Peter">Petter Hön</persName> von <placeName ref="Wädenswil">Wedeschwyl</placeName> jst gentzlich willens, by der
+                                                  ­toüf­ferischen leer zeblyben, anders er nit
+                                                  antworten wellen.</p>
+                                                  <p rend="margin-top"><persName ref="Bindschedler, Heinrich">Heinrich
+                                                  Bindschedler</persName> von Erlibach zeigt an, das er allein dahin
+                                                  gangen, etwas guts zůvernemmen unnd ußzurichten,
+                                                  will sich ouch nit ergeben, die predigen
+                                                  zubesuchen.</p>
+                                                  <p rend="margin-top"><persName ref="Hess, Wernli">Wernly Hess</persName> am Wedeschwyler
+                                                  <placeName ref="Wädenswiler Berg">berg</placeName> zeigt an,
+                                                  das sy etwas guts ußgericht, jnn dem sy anders
+                                                  nützit than dann bettet. Sontsten er nit willens,
+                                                  den kilchgang zůgebruchen.</p>
+                                                  <p rend="margin-top">[Hinweis auf die Urteile]:
+                                                  Welliche ­toüf­fer sich widerumb begeben, jtem
+                                                  deren, so uff jr anloben ußgelassen worden<note type="critical">Folgt gestrichen: unnd</note>,
+                                                  urteil unnd deren namen, so entrunen, findt man
+                                                  hierjnnen jnn einem rodel verzeichnet.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Aufschrift auf der Rückseite des
+                                                  Dokuments.</p>
+    </back>
+  </text>
+</TEI>

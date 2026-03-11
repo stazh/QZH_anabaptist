@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_491</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_491</idno>
+          </msIdentifier>
+          <head>Gutachten des Ehegerichts</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1586-11-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 342</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, vesten, frommen, fürsichtigen, eersamen
+                                                  unnd wyßen, jnnsonnders günnstigen gnnedigen
+                                                  lieben herren. Nach dem e[uer] e[rsam] wy[sheit]
+                                                  kurtzverrugkter tagen durch ein geschrifftliche
+                                                  wyßung, wie wir unns  <persName ref="Frei, Kilian">Cillian
+                                                  Frigen</persName> vonn Bůch an
+                                                  dem Irchell<note type="editorial"> Buch am
+                                                  Irchel</note><placeName ref="Buch am Irchel">enntzwüschenndt</placeName>
+                                                  unnd <persName ref="Frei, Kleinanne">Kleinanne Frigen</persName> synner eefrouwen, welliche
+                                                  nechstverschinne<note type="editorial">
+                                                  letztvergangene</note> pfinngsten jnne verlassenn,
+                                                  vonn lannd mit denn töüffern hinnweg - unnd (wie
+                                                  man jme annzeige unnd von jre ußgäbenn werde) sich
+                                                  scheint annderwärdt touffen lassenn habenn sölle -
+                                                  gefharen, der ee-scheidung wägenn halten söllinnd,
+                                                  berichtet wordenn, daruff wolgenannte e. e. wy.
+                                                  unns bevolhen, diewyl disere sach, was darinnen
+                                                  zůbewilligen thůnlich oder nit syn, wol
+                                                  zůbedänngken. Alls das (wie zůbesorgen) nit allein
+                                                  gägennwürdtigen, sonnders meer fhäl anträffen,
+                                                  alle hanndlunng wider für<note type="editorial">
+                                                  vor</note> unns gewißen, allso das wir die
+                                                  überigen nach drig<note type="editorial">
+                                                  drei</note> forderisten herren predicannten alls
+                                                  pfharherr alhie zů unns berüffen unnd mit
+                                                  einannderen harumb einen ratschlag thůn,
+                                                  dennsälben jnn schrifft stellenn, wie wir
+                                                  vermeinind, sich jnn diser sach zůverhalltenn
+                                                  sige, unnd dassälbig vollgenntz widerumb zů e. e.
+                                                  wy. wyterem gefallenn gelanngen lassen unnd synn,
+                                                  Frigen, begären bis dahyn yngestellt belybenn etc.
+                                                  Wellichem jetzterzellten bevelch wir (alls
+                                                  billich) nachkomen, die gemelten drig pfharherren
+                                                  für unns beruͤfft unnd uff hüt dato by einanndern
+                                                  erschinnen unnd unnß gemein ouch sonnderlich jnn
+                                                  diser sach, erstlich sovil die heillig göttlich
+                                                  schrifft, desglychenn die ee-scheidunng (so
+                                                  schwaarlich fürgenommen alld<note type="editorial"> oder</note> gethan werden soll), ouch die
+                                                  töufferisch sect beträffennde, mit allem ernnst
+                                                  erduret<note type="editorial"> prüfen, Id. XII,
+                                                  1297.</note> ouch unnderredt, unnd deßen harüber
+                                                  enntschlossenn. Diewyl unnd unnsere
+                                                  widerpardt<note type="editorial"> Gegner, Id. IV,
+                                                  1618.</note> der rellion<note type="editorial">
+                                                  Religion</note> halbenn vill unnd manncherley
+                                                  argumänndt unnd wort der ee-scheidunng halben
+                                                  uslassennd, deßglychenn das grad der unnsern (es
+                                                  siginnd wyb alld mans personnen) dehein<note type="editorial"> kein</note> ergernus unnder
+                                                  diser töüfferischenn sect, damit sy vonn jrenn
+                                                  eegemächlen<note type="editorial"> Ehepartner
+                                                  (Ehegemahl/in)</note> gelediget unnd etwas
+                                                  grunndts zůnämen vermeinen möchtind, so sölle
+                                                  hiemit jnn diserem alld derglychenn (wie
+                                                  zůbesorgenn) meerkomennden fhälenn uff dißmal
+                                                  einiche scheidunng nit fürgenan, sonnders jar ouch
+                                                  tag yngestelt heissen unnd belyben, ursachenn
+                                                  halbern: Sy, Frygin, alld anndere wyb und mans
+                                                  personnen, so sich jnn disere töüfferische säct
+                                                  begebinnd, möchtind villicht jnn rüwen unnd
+                                                  widerumb alhar zů jrenn eegemachlen jnn jre
+                                                  hußhalltunng ouch zů jren kinnden kommen. Dann
+                                                  unns zwyfelson, wover<note type="editorial"> wenn,
+                                                  Id. I, 914.</note> grad scheidunngen beschechennd
+                                                  unnd jnn einem jar zweig alld drigen das
+                                                  abträtennd, darnnach keme unnd das anheimsch<note type="editorial"> im Land anwesend, Id. II,
+                                                  1286.</note> us vergünnstigung sich widerumb
+                                                  vereelichet hete, große ergernus, schwere
+                                                  veranntwortunngen unnd vorab unnserer wahren
+                                                  christennlichen rellion gäben unnd verwysenns
+                                                  hören muͤßtinnd. Doch möchte e. e. wy. wol zů
+                                                  meererem grunnd, ja sover sy es für thůnlich
+                                                  ansächen thůt, zwüschenndt disem unnd annderen
+                                                  personnen wol erkunndigen lassen, wie unnd
+                                                  wellicher maassen sy sich jnn dem eestannd, jnn
+                                                  der hußhalltunng, ouch sonnderlich der rellion
+                                                  vereiniget, ob doch sy hunngers, übelhaltenns alld
+                                                  der töüfferig halbenn uß frigem, eignäm,
+                                                  angenommnem willen begäbenn ald nit, damit
+                                                  villgenannte e. e. wy. jnn disern unnd hernach
+                                                  komenden glychenn sachen desterbaß<note type="editorial"> desto besser</note> zůhanndlen
+                                                  wüssen möginnd. Doch wellennd wir e. e. wy.
+                                                  harinnen nützit fürgeschribenn alld ordnung gäbenn
+                                                  haben, dann diesälbig wirt sich harinnen wol
+                                                  zůwüssen halten unnd disere sachen woll minndern
+                                                  alld meeren<note type="editorial"> mindern oder
+                                                  mehren: abstimmen dürfen, Id. IV, 321.</note>
+                                                  können, jederzyt wie es dann an jm rächt ouch
+                                                  billich unnd unns gefellig ist. Actum dornnstags
+                                                  denn 3ten wintermonats a[nn]o 1586.</p>
+                                                  <p rend="margin-top">E. e. w. unnderthennige</p>
+                                                  <p>burger, ouch verordnnethe zů diserem ratschlag
+                                                  dienner am eegricht.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Überschrift
+                                                  auf der Rückseite des Dokuments.</p>
+    </back>
+  </text>
+</TEI>

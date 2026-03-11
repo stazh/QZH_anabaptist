@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_815</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_815</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss wegen der Täufer in
+                                                  Horgen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1608-10-05"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 666</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>J[unker] Hans Heinrichen <persName ref="Schönau, Hans Heinrich von">von Schönouw</persName>, obervogt zů
+                                                  <placeName ref="Horgen">Horgen</placeName>, jst jme bevelch
+                                                  geben, durch <persName ref="Nägeli, N. (Untervogt)">undervogt Nägelj</persName>, ald<note type="editorial"> oder</note> wen er meint am
+                                                  besten syn, anordnung zethůn, das <persName ref="Landis, Hans">Hanns
+                                                  Landiß</persName> der prediger
+                                                  und <persName ref="Isler, Jakob">Jacob Ißler</persName> jm
+                                                  <placeName ref="Hirzel, Boden">Boden</placeName> der
+                                                  seckelmeister gfengcklich alher jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  gfürt werdint.</p>
+                                                  <p>Actum mitwuchs den 5ten octobris anno 1608
+                                                  p[raese]nt[ibu]s herr <note type="editorial"> Konrad Grossmann</note><persName ref="Grossmann, Konrad">burgermeister Großmann</persName> unnd beide reth.</p>
+                                                  <p rend="margin-top">Underschryber s[cripsit]</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

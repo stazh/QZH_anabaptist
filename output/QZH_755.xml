@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_755</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_755</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1603-05-03"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 606</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Uß dem gehaltnen synodo zinstags den 3ten maij
+                                                  anno 1603, jst für<note type="editorial">
+                                                  vor</note> myn gnedig herren, einem ehrsammen
+                                                  rath, gewißen worden:<note type="critical">Hier
+                                                  wiedergegeben ist nur der die Täufer betreffende
+                                                  Abschnitt.</note></p>
+                                                  <p>Das capitel jm <placeName ref="Freiamt">Frygampt</placeName> unnd auch das Ober <placeName ref="Wetzikon">Wetzikommer</placeName> capitel habent angezogen, wie die
+                                                  schedlich sect der widerthoüfferen je lenger je
+                                                  mehr zů großem abbruch der kilchen überhand nemme.
+                                                  Also das hoch von nöten sye, mitt allem erntst
+                                                  darzů zethůnd, damit jnen geweert werde. Dann sy
+                                                  je<note type="critical">Folgt gestrichen:
+                                                  je</note> lenger je freffner<note type="editorial"> dreist, unverschämt, Id. I, 1286.</note>
+                                                  werdindt, wellind umb khein gebott noch geltbůßen
+                                                  nüdt mehr geben, redind verachtlich und
+                                                  schmechlich von der kilchen unnd von der oberkeit,
+                                                  gießind jr gifft hin und wider uß, hindergangind
+                                                  die einfaltigen unnd schüchind sich nüt, zethůnd
+                                                  und zereden, was sy wend unnd<note type="critical">«zethůnd und zereden, was sy wend unnd» am Rand
+                                                  mit Verweiszeichen</note> jnn jrem weßen
+                                                  freffenlich fürzůfaren, alles mit großer ergernuß
+                                                  und zů verachtung der oberkeit und kilchendiensts.
+                                                  Da vilmaln die nachgesetzten amptlüth als
+                                                  undervögt unnd weibel jrem bevelch gegen den
+                                                  ­toüf­feren nit nachgangind unnd also schier
+                                                  niemand sy recht angryffen welle, dardurch aber
+                                                  sy, die ­toüf­fer, jnn jrer freffenheit gesterckt
+                                                  unnd je lenger je<note type="critical">Folgt
+                                                  gestrichen: hals jr</note> halsstarriger werdint.
+                                                  Also das zů besorgen, wann man sy also
+                                                  fürfaren<note type="editorial"> fortfahren</note>
+                                                  laßt, die sach mitler zyt ein bößen ußbruch nemmen
+                                                  unnd sölliche lüth uns allen gmeinlich zeschaffen
+                                                  geben werdint.</p>
+                                                  <p>Unnd diewyl nun diß ein gmeine klag, darnebent
+                                                  auch angezeigt worden jst, das glych jnn der statt
+                                                  alhie etliche sectische burger und<note type="critical">Folgt: unnd
+                                                  (Wortwiederholung)</note> lüth verhanden syn
+                                                  söllint, die mit <persName ref="Schwenckfeld, Caspar">deß Schwenckfeldts</persName> meinungen und
+                                                  jrrthumb behafftet sygind, jre schwenckfeldischen
+                                                  buͤchlj hin und wider jnn statt und auch ußhin
+                                                  uffs landt heimlich<note type="critical">«heimlich» am Rand</note> schübind unnd jr gifft,
+                                                  wo sy khönnend, ußgießind, so laßt ein ehrsamer
+                                                  synodus das alles an myn gnedig herren gelangen,
+                                                  der sachen wyter nachzůfragen unnd dann sölichem
+                                                  verderplichen unheil mitt erntstlichem
+                                                  jnsehen<note type="editorial"> Vorkehrung, Id.
+                                                  VII, 563.</note> unnd abschaffung zewehren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

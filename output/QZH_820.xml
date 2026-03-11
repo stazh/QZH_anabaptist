@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_820</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_820</idno>
+          </msIdentifier>
+          <head>Zweites Verhör von Hans Landis Aufschrift auf der Rückseite des
+                                                  Dokuments: Hanßen Landiß deß wider­toüf­fers 2.
+                                                  andtwort</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 671</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als beide <note type="editorial"> Hans Heinrich <persName ref="Schönau, Hans Heinrich von">von Schönau</persName> und <persName ref="Füssli, Peter">Peter
+                                                  Füssli</persName></note> zů
+                                                  <placeName ref="Horgen">Horgen</placeName> sampt herren
+                                                  <persName ref="Murer, Johann Kaspar">Caspar Murer</persName>
+                                                  und herrn Jacoben Ůlrich<note type="critical">In
+                                                  der Vorlage: Ůrich</note><persName ref="Ulrich, Johann Jakob">herren obervögt</persName> widerumb zů Hanßen
+                                                  Landiß dem wider­toüf­fer jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kheert unnd jnne
+                                                  nachmaaln mit allem erntst befragt, ob er doch
+                                                  khein ander gemuͤt<note type="editorial">
+                                                  Gesinnung, Id. IV, 587.</note> an sich genommen
+                                                  unnd sich über die hievor gegen jmme jnn allenn
+                                                  thrüwen gethanen lehren und underwyßungen kheines
+                                                  andern bedacht habe unnd weßen nachmaln gesinet
+                                                  syge.</p>
+                                                  <p>Ist er über vilfaltigs anhalten und underwyßung
+                                                  uß heiliger göttlicher gschrifft nachmaaln by
+                                                  synem eigenrichtigen kopf und geistlichen hoffart
+                                                  verbliben mit anzeigung, wann man den kilchen ban
+                                                  ansäche<note type="editorial"> anordnen, Id. VII,
+                                                  555f.</note> unnd ein ander läben, weder aber
+                                                  bißhar beschächen, fuͤre, so welle er alsdann<note type="critical">«als» über der Zeile.</note> ouch
+                                                  jnn die kilchen gaan.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Aufschrift auf der Rückseite des
+                                                  Dokuments: Hanßen Landiß deß wider­toüf­fers 2.
+                                                  andtwort</p>
+    </back>
+  </text>
+</TEI>

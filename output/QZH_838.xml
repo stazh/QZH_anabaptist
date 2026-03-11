@@ -1,0 +1,856 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_838</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_838</idno>
+          </msIdentifier>
+          <head>Fürtrag Hans Heinrich Kolbs vor dem Ehegericht von
+                                                  Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1609-11-07"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 689</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>| [fol. 2r] Ehrwürdige, wolglerte, edel,
+                                                  fromme, veste, fürsichtige, ehrsamme und wyße,
+                                                  jnnsonnders günstige, gnedige, liebe herren.
+                                                  Nachdem jch die zyt und jar hero mit sonnderem
+                                                  beduren, ja höchster gedult (leider) gspürt, selbs
+                                                  gsächen und erfaren, was gstalt unnd maßen myn
+                                                  ehefrouw <persName ref="Meister, Magdalena">Magdalena Meisterin</persName> wider eheliche
+                                                  versprochne thrüw unnd schuldige pflicht auch über
+                                                  myn vilfaltige frünndt- unnd ernstliche warnung
+                                                  unnd vermanung sich nit nun jnn villen
+                                                  ungebürlichen stucken der hußhaltung, sonder auch
+                                                  jnn etlichen gantz verdechtigen und argwönischen
+                                                  sachen, wie die hernach spetzivicierlich
+                                                  beschriben stand, übersächen unnd verganngen unnd
+                                                  darby jmmer zůwarttende verhofft, sy wurde uff
+                                                  gemält<note type="editorial"> erwähntes</note> myn
+                                                  fründtlich zůsprächen jre fehler etlicher gstalt
+                                                  erkännen und sich der sälben uffs muglichiste
+                                                  enthalten. So befindt sich aber, das sy jnn
+                                                  söllichem jrem unhußlichen, betruglichen und
+                                                  ergerlichen läben nit nun je mehr und mehr
+                                                  fürzefaren und zeverharren, sonder auch unseren by
+                                                  einanderen erzügten son (so ungefahr zwölff jar
+                                                  alt) schon allbereit wider alle recht und
+                                                  ehrbarkeit uff ebenmesige unehrliche stuckh
+                                                  zewyßen und anzefuͤren und<note type="critical">Folgt gestrichen: auch</note> mich also sampt den
+                                                  mynigen umb ehr und gůth jnn ußeristes verderben
+                                                  můttwilligklich zebringen understanden. Unnd
+                                                  wiewol jch niemalen des willens gewäßen, jemanden
+                                                  (jch gschwygen myn ehefrouw) unrechtmeßiger wyß an
+                                                  synen ehren zeverletzen, sonder mencklichen<note type="editorial"> jeden</note> darby zeschirmmen,
+                                                  kan jch doch thringender noth und nachbemelter
+                                                  ursachen halben nit fürkommen<note type="editorial"> abwenden, Id. III, 278.</note>,
+                                                  eüwer ehwürd[ig] und ersamm wyßheit, wie und
+                                                  wellicher gsalt jetzt genannt myn eewyb jnn einer
+                                                  und der anderen sach (deren jch lieber von ehren
+                                                  wegen wo muglich gschwygen welte) jn wärender ee
+                                                  sich ghalten habe, hiemit jnn kürtze zuberichten,
+                                                  unnderthenig pittende, diß myn noth
+                                                  thrungenlichs<note type="editorial">
+                                                  dringliches</note> und<note type="critical">Wort
+                                                  (und) wiederholt</note> hochbeschwerlichs anliggen
+                                                  gnedigklichen zubedencken.</p>
+                                                  <p>[1.] Als uff ein zyth an einem sontag gedachte
+                                                  myn ehefrouw jnn myn gůth, jm <note type="editorial"> Letten</note><placeName ref="Wipkingen, Letten">Lätten</placeName> genannt, gangen, hatt sy
+                                                  sich uff den abendt mit wyn dermaßen überladen,
+                                                  das sy myn son jnn unsers lächenmans<note type="editorial"> Pächter (eines Bauerngutes), Id.
+                                                  IV, 266.</note> huß kümerlichen | [fol. 2v] jnn
+                                                  die kammer bringen mögen, darin sy sich nach
+                                                  voller lütten bruch zwo stund lanng unrüwig
+                                                  verhalten, das unnsere kranckne hußfrouw<note type="editorial"> Hausbewohnerin, Verwalterin
+                                                  eines Haushalts, Id. I, 1246. Hier die Frau des
+                                                  Pächters.</note> hungers halben sich hochlichen
+                                                  darab entsetzen muͤßen. Unnd als sy erwachet, ouch
+                                                  den hußman gezwungen, das er jro nachts nach
+                                                  schürbiren schütten<note type="editorial">
+                                                  schürbiren schütten: Birnen ernten, Id. IV, 1495,
+                                                  und VIII, 1540.</note> muͤßen, auch diesälben jnn
+                                                  bywäßen genandts unsers sons gehalten, hatt sy
+                                                  morn deßen uff erjnnerung kein wortt mehr darumb
+                                                  gwüßt, sonder fürgwendt<note type="editorial">
+                                                  vorgeben, als Vorwand brauchen, Id. XVI,
+                                                  429.</note>, sy habe sich weetagen halben des
+                                                  houpts niderlegen muͤßen etc. So hatt sy doch
+                                                  sampt jrer tochter<note type="editorial"> Barbara
+                                                  Bullinger, Tochter von Hans Heinrich Bullinger
+                                                  (1557-1587) und Magdalena Meister (1559-­?),
+                                                  Stieftochter von Hans Heinrich Kolb, heiratete
+                                                  1606 Alexander Bierbrauer.</note>, jetzt <persName ref="Bierbrauer, Alexander">Alexander
+                                                  Birbrüyers</persName>
+                                                  eefrouw, jnn mynem abweßen offtmallen also
+                                                  gfült<note type="editorial"> sich
+                                                  betrinken</note>, das sy beide vom
+                                                  <placeName ref="Wipkingen, Letten">Lätten</placeName>
+                                                  kümerlich widerumb heimb ghan können und gemelter
+                                                  myn hußman und syn efrouw sampt jren vier kleinen
+                                                  kinden, die großen hunger glitten, sich selbs
+                                                  darüber erbarmt. Item wann gedachte myn frouw wol
+                                                  thruncken gwäßen, hatt sy unseren son mit jro jnn
+                                                  unser gůtt gnommen, jnn zů jren jnn die kamer
+                                                  bschloßen unnd mit jmme zeschertzen angfangen,
+                                                  also das ergedachter hußman und syn frouw mehr
+                                                  malen zů einandern gsprochen, sy habe den knaben
+                                                  schon allbereit nach jrem willen zogen und gwändt
+                                                  und, wover<note type="editorial"> wenn, Id. I,
+                                                  914.</note> er jn die länge by jro (der můtter)
+                                                  blybe, so mache sy jnn (reverender zmälden) zů
+                                                  einem luteren schälmen. Inmassen das alles mit
+                                                  jme, hußman, und syner frouwen gnůgsamm
+                                                  zůbewyßen.</p>
+                                                  <p>2.<note type="critical">Die Paragraphen
+                                                  befinden sich in der Vorlage am Rand
+                                                  (Marginalien)</note> <persName ref="Burri, Jörg">Jörg Burj</persName> der schnyder, wellicher uff
+                                                  ein zyt by mir zhuß gwäßen, hatt mich kurtz
+                                                  verschiner<note type="editorial">
+                                                  vergangener</note> zyth berichtet, das myn frouw
+                                                  und stiefftochter jn mynem abwäßen mit knaben und
+                                                  töchteren ohne underlaß dermaßen panckhetiert<note type="editorial"> bankettieren: üppige Festmähler
+                                                  halten</note>, das er offtmallen zů syner frouwen
+                                                  gredt, der Kolb můß vil gwünen oder diß gsindlj
+                                                  bringt jnn umb sackh und band etc., wie dann er,
+                                                  Burrj, sich deßen noch zeerjnnern und hierüber uff
+                                                  befragen gnůgsammen bscheid geben wirtt.</p>
+                                                  <p>3. So <note type="critical">«sy» über
+                                                  der Zeile</note><persName ref="Meister, Magdalena">hatt sy</persName> sich<note type="critical">Folgt gestrichen:
+                                                  auch</note> durch das gantze jar abendts und
+                                                  morgens sonderlichen aber wintters zyt, so sy vol
+                                                  gsyn, unverschampter wyß vor beiden sönnen und der
+                                                  tochter nackend uß- und abzogen, das hämpt
+                                                  zetröchnen uff den offensitz | [fol. 3r] gleitt
+                                                  unnd dann also vor unnß allen uß der stuben jnn
+                                                  die kamer nidergangen und dergstalt widerumb
+                                                  uffgstanden, welliches jch jro weder mitt guͤtte
+                                                  nach böße niemalen erweeren nach abthröüwen<note type="editorial"> (durch Drohungen) untersagen,
+                                                  Id. XIV, 1583.</note> können.</p>
+                                                  <p>4. By dritthalb jaren ungefahr, als jch uß dem
+                                                  <placeName ref="Wipkingen, Letten">Lätten</placeName>
+                                                  widerumb heimb gahn wellen, jst sy mir underwegen
+                                                  so vol entgägen kommen, das jch sy jm heimbwäg
+                                                  mehr dann sächßtzig mal heben unnd ufflupfen
+                                                  muͤßen, wie sölliches mit <persName ref="Küng, Hans">Hanns Küngen</persName> und synem volckh, jtem mit <persName ref="Fürst, N.">dem
+                                                  Fürsten</persName> von
+                                                  <placeName ref="Wipkingen">Wipkingen</placeName> unnd <persName ref="Salenbach, Marx">Marx
+                                                  Salenbachen</persName> dem
+                                                  schnyder zůbewyßen. Wie sy sich wyter<note type="critical">«wyter» über der Zeile</note> by
+                                                  dem thor verhalten, darumb wirtt des Zollers
+                                                  meittlj bricht gäben.</p>
+                                                  <p>5. By etlichen jaren, alls wir beide 
+                                                  <persName ref="Sennhauser, Benedikt">Benedicten Sännhußer</persName>, dem schuldtbotten,
+                                                  mit einanderen gan Bülach ganngen unnd underwägen
+                                                  jnn der ­Kö­schen­rütj<note type="editorial">
+                                                  Köschenrüti, in der Gemeinde Seebach, nahe an der
+                                                  Grenze zu Rümlang</note><placeName ref="Seebach, Köschenrüti">sammpt</placeName> einen thrunckh
+                                                  gethan, hatt sy sich abermalen mit wyn dermaßen
+                                                  überladen, das als sy uff myn bevelch voranhin
+                                                  gangen, oberthalb den reben by dem bäncklj
+                                                  gelägen, händ unnd fuͤß von jro gstreckt unnd biß
+                                                  über den nabel ganntz nackend und entblößt
+                                                  gewäßen, darzů jch sampt mynem knaben und
+                                                  obgedachtem Sänhußer kommen und sy widerumb
+                                                  uffghept. Wie es nun zůgangen, jst mir
+                                                  unbewüßt.</p>
+                                                  <p>6. Item als sy diß jars <persName ref="Stapfer, Diethelm">Diethälmen
+                                                  Stapfer</persName> von
+                                                  <placeName ref="Horgen">Horgen</placeName> etliche
+                                                  wynthrußen<note type="editorial"> Weinhefe, XIV,
+                                                  1344.</note> zekouffen geben, hatt sy jnne jnn den
+                                                  keller gnommen und sich mit jme also gfült, das sy
+                                                  kümerlich mehr stahn können. Und als er sy
+                                                  gebätten, das sy jnn hinweg laße, dann es vor den
+                                                  lüten, so stetts jnn den käller abin sächind, ein
+                                                  schand syge, hatt er, Stapfer, an der stägen
+                                                  nützit anders vermeint, dann er habe hinder einem
+                                                  faß nach ein person ersächen, jnnmaßen er hierüber
+                                                  bricht zegeben wüßen wirtt.</p>
+                                                  <p>7. Verschines jars als <persName ref="Schwänd, Jaggli">Jaglj Schwänd</persName> zů <placeName ref="Seebach">Seebach</placeName> ein ganndt<note type="editorial">
+                                                  Gant, öffentliche Versteigerung</note> uffrichten
+                                                  laßen, jst genandte myn ehefrouw sampt | [fol. 3v]
+                                                  dem son, ouch jnn abwäßen mynen, dahin kert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note> unnd sich by des vogts frouwen
+                                                  abermallen also gfült, das sy uff dem heimweg jn
+                                                  ein bach gefallen unnd also nackend und entblößt
+                                                  vor jrem eignen kind glägen. Und alls
+                                                  jetztgedachter unser son sampt <persName ref="Etspüller, N.">dem
+                                                  Etzspüller</persName>, dem
+                                                  küffer, und syner frouwen, so darzů kommen, sy
+                                                  kümerlichen uß dem unradt bringen mögen, jst sy
+                                                  glych widerumb nidergfallen unnd sölliches biß jnn
+                                                  die statt gethriben, jnnmaßen dasselig mit jetzt
+                                                  genanntem küffer unnd syner ehefrouwen
+                                                  zebewyßen.</p>
+                                                  <p>8. Was gstalt und maßen jch jro vor mynem
+                                                  hinwegscheiden so wol fründtlich als ernstlich
+                                                  zůgesprochen mit vermäldung, wann sy thruncken,
+                                                  könne sy sich weder mit knächten, mägten nach mit
+                                                  mir vertragen, sonnder vergune unns ein suppen und
+                                                  hinderrucks halte sy mit jrem gsindlj also hof,
+                                                  das jch jm käller under den ligerigen<note type="editorial"> Unterlage, dicke Balken, worauf
+                                                  die Fässer im Keller gelegt werden, Id. III,
+                                                  1216.</note> und hinder den käsplinen<note type="editorial"> Kästchen, kleiner Schrank, Id.
+                                                  III, 533.</note> gsottes und brättes<note type="editorial"> Gesottenes und Gebratenes</note>
+                                                  (darin, reuereuter zmälden, maden wachsind) finde.
+                                                  Mit begären, sy von söllichem verthruncknen und
+                                                  verthüygen<note type="editorial">
+                                                  verschwenderisch, Id. XIII, 414.</note> läben
+                                                  abstahn, und als einem redlichen wyb gebüre, mit
+                                                  mir hußhalten wölle. Darumb wirt <persName ref="Fietz, Jörg">Jörg
+                                                  Fietz</persName> und syn frouw,
+                                                  jtem <persName ref="Vogel, Lienhard">Lienhardt Vogels</persName> unnd myn hußvolckh
+                                                  gnůgsammen bricht geben.</p>
+                                                  <p>9. Als uff ein zyth <persName ref="Ehrensperger, Othmar">Othmar
+                                                  Ehrensperger</persName>, der schnyder, jnn mynem huß gewerchet<note type="editorial"> gearbeitet</note> und jch Hanns
+                                                  <persName ref="Bullinger, Hans Jakob">Jacoben Bulinger</persName>, mynen stieffsohn,
+                                                  domalen noch by mir ghept, hatt sich myn frouw
+                                                  sälbigen mahls so ungebürlich verhalten, das jch
+                                                  jro noth halben mitt wortten unnd werchen<note type="editorial"> Taten</note> etlicher gstalt
+                                                  zůsprächen muͤßen, also das auch gemelter myn
+                                                  stieffson sich gegen jmme, Eerenspergeren
+                                                  ernstlichen erklagt, das genannte syn můtter nit
+                                                  nun das, sonnder vilmalen mehr unbillicher wyß
+                                                  sowol gägen mir als gegen jmme selbs fare und sich
+                                                  nit zůverwunderen, ob wir glych beid von jro
+                                                  zugind, jr hab und gůtt nemind und sy jnn | [fol.
+                                                  4r] jrer thrunnckenheit sitzen ließend, dann sy
+                                                  mich gwüßlich nach<note type="editorial">
+                                                  noch</note> umb alles das, so jch mit surer arbeit
+                                                  zůsammen gelegt, bringen werde, jnnmaßen söliches
+                                                  mit gestimptem schnyder und m[eister] Diettrichen
+                                                  Meyer byzůbringen syn wirtt.</p>
+                                                  <p>10. Unnd damitt jch desto <note type="editorial"> eher</note> umb hab und gůtt
+                                                  komme unnd jnns verderben grathe, jst myn
+                                                  stiefftochter, jetzt <persName ref="Bierbrauer, Alexander">Alexander Birbrüyers</persName> ehefrouw, gemelter
+                                                  jrer mutter jnn söllicher jrer verthrunncknen,
+                                                  lychtsinnigen und verschlagnen artt (leider)
+                                                  nachgfolgt. Dann uff ein zyth, als jch mit jnen
+                                                  und <persName ref="Manz, Michael">Michael Mantzen</persName>, mynem tischgänger, jnn dem Gyrenbad<note type="editorial"> Kurbad im gleichnamigen Weiler
+                                                  der Gemeinde Hinwil</note><placeName ref="Hinwil, Gyrenbad">ehe</placeName> badet, hatt er, Mantz,
+                                                  mir offtmalen anzeigt, dyn stiefftochter thůtt ob
+                                                  dem tisch nit derglychen, als ob sy wynn thruncke.
+                                                  Im käller aber fült sy sich so vol, das sy
+                                                  glostet<note type="editorial"> erhitzt aussehen
+                                                  (besonders von der Gesichtsfarbe nach dem
+                                                  Weingenuss), Id. II, 652.</note>, ja thrinckt mehr
+                                                  wyn dann unser einer und du wirst es am faß bald
+                                                  erfaren. Item er sammpt <persName ref="Huber, Ludwig">Ludwigen Hůber</persName> habend auch gsächen, das sy,
+                                                  myn frouw<note type="critical">«myn frouw» über
+                                                  der Zeile</note>, eins mals dem knächt zun
+                                                  <placeName ref="Zürich, Barfüsser">Barfůßeren</placeName> an
+                                                  heimliche ortt griffen und uff ein anndere zyth
+                                                  habe sy sich uff ein beth an ruggen gleyt und das
+                                                  ein bein uff einem anderen bedt ghapt. Domaln jro
+                                                  der gemelt knächt, reverendter zmälden, auch under
+                                                  das gwannd an die scham griffen und sy darby
+                                                  erschütt als ein hund ein haßenbalg<note type="editorial"> Apportel aus
+                                                  Hasenfell</note>.</p>
+                                                  <p>11. Unnd ob sy sich der thrunnckenheit halben
+                                                  bschönen und dero nit gstendig syn welte, so frage
+                                                  man wytter <persName ref="Ruoff, Anna">Anna Růffin</persName>, welliche rund anzeigt, sy syge äben alls
+                                                  verthrunncken als die můtter unnd habe langist
+                                                  gedacht, es werde diß hof halten auch entlichen
+                                                  ein end nemmen unnd nit alles wie bißhar
+                                                  kistenpfand<note type="editorial"> Sondervermögen
+                                                  der Ehefrau, vgl. DRW VII, 1022 u. 1024.</note>
+                                                  syn muͤßen.</p>
+                                                  <p>12. Uff ein zyth als <persName ref="Winterlin, Agneas">Agnesa Wintterlin</persName> by mir dienet und myn
+                                                  frouw etlichen lynninen züg und fatzenetlj<note type="editorial"> kleines Tuch (Taschen- oder
+                                                  Handtuch), Id. I, 1144.</note> verloren unnd
+                                                  sölliches uff gedachter dienst magt leggen<note type="editorial"> beschuldigen, vgl. <hl to="http://fwb-online.de/go/legen.s.3v_1732138252"><Hyperlink>http://fwb-online.de/go/legen.s.3v_1732138252</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> unnd die
+                                                  umb erstattung oder bezallung desselben
+                                                  fürnemmen<note type="editorial"> belangen, Id. IV,
+                                                  746.</note> wellen, hatt gedachte magt sich
+                                                  hierüber entschuldiget unnd das jre tochter
+                                                  (obgemelte Birbrüyerin) so jnn | [fol. 4v] mynem
+                                                  abwäßen täglichen jnn das huß wandle, sölliches
+                                                  villicht behalten oder genommen haben möchte
+                                                  anzeigt. Unnd nach dem sy, Wintterlin, demselben
+                                                  nachgeforscht, hatt sy es entlichen jnn jr (der
+                                                  tochter) kamer ußhin hangende ersächen, by den
+                                                  nachburen ein leitteren entlehnt und dasselbig ab
+                                                  der stanngen genommen unnd nach darzů jnn der
+                                                  kammer ein merckt keßi<note type="editorial">
+                                                  Kissen</note> mit wyn funden, welliches alles sy
+                                                  mir fräffner<note type="editorial"> dreist,
+                                                  unverschämt, Id. I, 1286.</note> wyß entwändt und
+                                                  dann die schuld uff die dienst [magd] glegt.</p>
+                                                  <p>13. Item jr eheman (<persName ref="Bierbrauer, Hans">obgesagter
+                                                  Bibrüyer</persName>) und
+                                                  deßelbigen lehrknab von <placeName ref="Bremgarten">Brämgartten</placeName> habend kurtz verruckter<note type="editorial"> vergangener</note> zyten mir uß
+                                                  mynem huß ein karen unnd spanbedt<note type="editorial"> Bettgestell samt Gitterwerk, Id.
+                                                  IV, 1815.</note> sammpt dem uffgerüsten
+                                                  bedtblunder, laubsack und zweyen fůßkästen,
+                                                  deßglychen uß mynem gůtt jmm <placeName ref="Wipkingen, Letten">Lätten</placeName> laden, stangen,
+                                                  tachlatten, hagstecken und jn suma, was sy funden,
+                                                  alles zersagt, jn körben und kären hinweg gefuͤrt.
+                                                  Unnd als myn hußman<note type="editorial">
+                                                  Pächter</note> sölliches beredt, hatt Birbrüyer
+                                                  geanthworttet, wyln er wol wüße, das jch nit mehr
+                                                  uß <placeName ref="Mähren">Mehrherren</placeName> komme,
+                                                  welle er sölliches nemmen und jm selbs heimmfuͤren
+                                                  laßen.</p>
+                                                  <p>14. Als jch verschiner zyth mitt gfatter
+                                                  schultheiß Kernen<note type="editorial"> <persName ref="Kern, Heinrich">Heinrich
+                                                  Kern</persName></note> zů
+                                                  <placeName ref="Bülach">Bülach</placeName> by dem Kopf<note type="editorial"> Gasthaus zum Kopf (heute
+                                                  Marktgasse 9)</note> daselbst einen thrunckh
+                                                  gethan, hatt er mir anzeigt, das obgennanter myn
+                                                  stiefftochterman, der Birbrüyer, jmm rund und
+                                                  heitter bekändt, jch hab jm uff ein zyth mit
+                                                  weinenden ougen geklagt, jch könne unnd wüße nit
+                                                  mehr mit myner frouwen als syner schwiger
+                                                  hußhalten. Dann wyl sy jmmer zů voll, so könne
+                                                  sich niemand jm huß mit jren vertragen, verfluͤche
+                                                  sich selbs mit jren kinden unnd bringe mich (wie
+                                                  leider zůbesorgen) umb ehr und gůtt. So hatt
+                                                  gedachter schuldtheiß mir für sich selbs eröffnet,
+                                                  das gestimpte myn frouw nun mehr vil jar mit wyn
+                                                  und derglychen früchten mit den Bülacheren
+                                                  ghandlet, es habe aber | [fol. 5r] keiner
+                                                  niemallen zů syner versprochne bezalung kommen
+                                                  mögen unnd hab sy allwegen erdacht, umb etwas mit
+                                                  jnnen zůzancken.</p>
+                                                  <p>15. Vor etlichen jaren, als jch jn der
+                                                  graffschafft <placeName ref="Kyburg">Kyburg</placeName> wyn
+                                                  koufft und <persName ref="Heinrich (vom Bülacherberg)">den Heinrichen</persName> ab dem
+                                                  Bülacherberg damitt heimbgschickt, hatt jnn myn
+                                                  frouw vermäßner wyß angredt und gezigen<note type="editorial"> angelastet, vorgeworfen, Id.
+                                                  XVII, 863.</note>, er habe ein soumm<note type="editorial"> Masseinheit für Wein</note>
+                                                  minder bracht, dann jch jm gladen unnd jn
+                                                  deßhalben zůerstattung deßselbigen nöthigen wellen
+                                                  etc. Als sich aber befunden, das er die uffgeladne
+                                                  fůr mit thrüwen überliffert und sy jnne umb
+                                                  obernennten soumm zeübernemenn begertt, hatt sy
+                                                  jnne jn fründtligkeit widerumb hinweg tädiget<note type="editorial"> (durch Unterhandlung)
+                                                  freilassen, aufgeben, Grimm 21, 234.</note>,
+                                                  weliches jch mit jmme bezügen wil.</p>
+                                                  <p>16. Wie sy bißhero mit allerlej
+                                                  handtwerchslüthen jnn bezallung jres verdienten
+                                                  lidlons<note type="editorial"> Arbeitslohn, Id.
+                                                  III, 1288.</note> und abbrechnung desselben
+                                                  umbgangen, darumb frage man <persName ref="Koch, Hans">Hannß Kochen</persName> von <placeName ref="Schwamendingen">Schwamendingen</placeName>, jtem den tischmacher zur
+                                                  Linden, <persName ref="Hofmann, Jakob">Jacoben Hofman</persName> den hafner unnd andere. Die
+                                                  werdent hierüber gnůgsammen bricht geben
+                                                  können.</p>
+                                                  <p>17. Von ebenmeßigem bschiß und bethrug und wie
+                                                  sy sich mit der stuben<note type="editorial">
+                                                  Zunftstube</note> frouwen zum <placeName ref="Zürich, Zunfthaus zum Kämbel">Kämbel</placeName> unnd jrer
+                                                  tochter, jtem mit den stuben mägten zur
+                                                  <placeName ref="Zürich, Zunfthaus zur Meisen">Meyßen</placeName> und zum<note type="critical">«zum» über der Zeile</note>
+                                                  <placeName ref="Zürich, Zum Schaf">Schaff</placeName>
+                                                  gehalten unnd mit gält dahin beredt, das sy
+                                                  underwylen etliche kopf<note type="editorial">
+                                                  Flüssigkeitsmass, Id. III, 411.</note> wyn mehr,
+                                                  dann sy aber empfangen und gereicht<note type="editorial"> geholt</note>, an die faß
+                                                  gschriben - mitt geding, das sy dieselben jnn der
+                                                  abrechnung widerumb durchthůn und abwüschen welle.
+                                                  Innmassen dasselbig nit nun ein mahl bschächen und
+                                                  gemelter mägt jnn der rechnung den ungereichten
+                                                  wyn, welichen myn frouw mir hinderrucks entwändt
+                                                  und sonst verthruncken, jederzyt widerumb
+                                                  abgewüscht und den, wie billich, nit zallen
+                                                  wellen. Item wie obgenannter mägten eine und myn
+                                                  frouw von diß faltsch angeschribnen wyns wegen uff
+                                                  ein zyt jm käller einannderen geschlagen, darumb
+                                                  werdent oberzelte personen gmeinlich zügknuß und
+                                                  bricht gäben.</p>
+                                                  <p>| [fol. 5v] 18. Mitt was bethrug sy wytter
+                                                  ummbgangen etc., unnd wie sy uff ein zyt, als wir
+                                                  zů <placeName ref="Urdorf">Urdorff</placeName> ein
+                                                  badenfartt<note type="editorial"> Reise zu einem
+                                                  Kurort; Urdorf hatte ein Bade- und Kurhaus (heute
+                                                  Wirtschaft zur Sonne).</note> ghept, wyn, brott,
+                                                  fleisch und anders derglychen jnn andere käller
+                                                  threitt und daselbst heimlich geäßen. Darumb syn
+                                                  byliggende zwen ußzüg<note type="editorial"> Nicht
+                                                  überliefert</note> und dann <persName ref="Gyger, Anthoni (alias Anthoni Stauffacher)">Anthonj
+                                                  Stauffacher</persName>
+                                                  und syn magt, jtem Hans <persName ref="Stoll, Hans Rudolf">Rudolff Stoll</persName> und syn tochter,
+                                                  deßglychen <persName ref="Locher, Jakob">Jacob Locher</persName> syn frouw und magt und <persName ref="Schmid, Jaggli">Jagli
+                                                  Schmid</persName>, domalen
+                                                  wirtt zů Urdorff, als zügen zeverhören.</p>
+                                                  <p>19. Im verschinen 1594. jar, als jch mit jren
+                                                  hochzyt ghalten und sy daruff dem <persName ref="Schmutz, N. (von Konstanz)">herren
+                                                  Schmutzen</persName> von
+                                                  <placeName ref="Konstanz">Costantz</placeName> etliche stuckh
+                                                  Nördlinger<note type="editorial"> Wollstoff, Id.
+                                                  IV, 787f.</note>, welliche sy jmme zůvor schuldig
+                                                  gweßen, bezallen söllen, hab jch jro domaln jn die
+                                                  sibentzig stuckh goldts, damit sy gesagten
+                                                  kouffman befriget<note type="critical">vielleicht
+                                                  ein Schreibfehler (statt ‘betriget’)</note>,
+                                                  fürgstreckt und glichen. Unnd wie wol sy söliches
+                                                  mit gůter gwüßne reden kan, jch auch dasselbig mit
+                                                  gedachtem kauffman bezügen wil, daruff sy doch
+                                                  fräffner wyß an ortt und enden fürgeben, sy habe
+                                                  mir ob den 200 gulden<note type="critical">In der
+                                                  Vorlage: fl</note> bar gelt, so jn dem
+                                                  hyradtsbrieff nit begriffen, zůgebracht und die an
+                                                  mynen nutz verwändt. Welliches aber nit wahr und
+                                                  obehörtter myner darlychung strax zůwider ist.</p>
+                                                  <p>20. Im vergangnen etc. 99. jar, als sy jnn
+                                                  mynem abwäßen umb 500 gulden wyn verkoufft und das
+                                                  gält jn <persName ref="Hottinger, N.">der Hottingeren</persName> tůchladen gleit, sind jro
+                                                  darfür zwo handtgschrifften<note type="editorial">
+                                                  Gemeint sind Schuldbriefe</note>, deren die ein
+                                                  100 gulden, die ander aber 400 gulden vermögen,
+                                                  zůgstelt worden. Als jch nun heimbkommen, dem wyn
+                                                  oder dem daruß erlößten gelt nachgefragt, hatt sy
+                                                  darumb kein wortt wüßen wellen etc., doch
+                                                  entlichen die 100 gulden wärttig<note type="editorial"> Geldwert besitzend</note> uß dem
+                                                  buffet genommen, die ander aber verlougnet,
+                                                  welliche jch jnn derselben nacht auch jnn gemeltem
+                                                  buffet (darüber ich brochen bin) ligende funden.
+                                                  Hatt also sölliches gelt selbst an sich zebringen
+                                                  und mich darumb fräfenlicher wyß zůbetriegen
+                                                  understanden.</p>
+                                                  <p>| [fol. 6r] 21. Item als ich vor etwas zyts <persName ref="Staub, N.">dem
+                                                  Stouben</persName> an der
+                                                  Mülljhalden<note type="editorial"> Vielleicht
+                                                  Mühlehalde in Höngg</note> wyn abkoufft und jmme
+                                                  by rechnung alein 14 gulden zethůnd schuldig
+                                                  bliben und daruff hin weg gezogen, hatt sy
+                                                  daruff<note type="critical">Folgt gestrichen:
+                                                  dar</note> vor etlichen verordneten herren fräfner
+                                                  wyß fürgeben dörffen, sy habe jmme, Stouben, an
+                                                  syn ansprach<note type="editorial">
+                                                  Anspruch</note> viertzig gulden gwärtt und jnn
+                                                  darzů nach uffgewißen<note type="editorial">
+                                                  anstiften, verleiten, Id. XVI, 1939.</note>, er
+                                                  sölle 200 gulden mehr forderen, dann jch jm
+                                                  schuldig, welliches jm aber der wirtt zur
+                                                  <placeName ref="Zürich, Zur Kronen">Cronen</placeName> und
+                                                  syn frouw, die darumb züg syn<note type="critical">In der Vorlage: sy</note> werdendent,
+                                                  widerrathen.</p>
+                                                  <p>22. By jrer schwöster Körneren<note type="editorial"> <persName ref="Meister, Elisabeth">Elisabeth Meister</persName>, Schwester von
+                                                  Magdalena Meister, seit 1585 mit Hans Rudolf
+                                                  Körner verheiratet.</note> versetzt sy hinderrucks
+                                                  mynen umb 80 gulden bar gelt einen 100 gulden
+                                                  werttigen schuldbrieff. Und als jch denselben
+                                                  widerumb zů mynen handen gforderet, nam sy an
+                                                  statt desselben drü stuck von mynem silbergschir,
+                                                  jtem 20 lynlachen und 72 elln tuch und gab das
+                                                  alles gemelter jrer schwöster, abermalen ohne myn
+                                                  vorwüßen, zů pfand etc. Als jch nun dem thůch nach
+                                                  gfraget, bracht sy mir ein faltsches bleicker
+                                                  zeichen mit vermeldung, habe es jnn des Hůbers
+                                                  bleickj tragen und welle es daselbst rüsten laßen,
+                                                  welliches aber nit war, sonder umb obbemälte 80
+                                                  gulden versetzt gsyn. Wohin sy nun mit dißerem
+                                                  gelt kommen, jst mir unbewüßt.<note type="critical">Marginalie (andere Tinte):
+                                                  Bulinger hats sälb gelt</note></p>
+                                                  <p>23. Wytter nam sy ohn myn vorwüßen abermallen
+                                                  von mynem silbergschir zwey stöüfflj<note type="editorial"> Humpen, Id. X, 1417.</note> und
+                                                  siben tischbächer, welliche sy gegen m[eister]
+                                                  Hanns <persName ref="Burkhart, Hans Jakob">Jacob Burckharten</persName>, jrem vogt, umb 50
+                                                  gulden verpfändt und das gelt auch an jren nutz
+                                                  verwendt, doch hatt gestimpter vogt dißere bächer,
+                                                  umb welliche jch jnn mit einer handtgschriftt
+                                                  versicheret, nach. Burckhart hat das<note type="critical">In der Vorlage: hatas</note>
+                                                  silbersgschir nach by sinen handen<note type="critical">«nach Burckhart hatas
+                                                  silbersgschir nach by sinen handen» über und unter
+                                                  der Zeile, in der Zeile gestrichen: […] widerumb
+                                                  hinus zegäben und mir zu mynen handen
+                                                  gestelt</note>.</p>
+                                                  <p>24. Unnd wiewol jch die zyt hero den besten
+                                                  theil mynes gůts als gelt, brieff, schulden,
+                                                  rechenbuͤcher, rödel<note type="editorial">
+                                                  Verzeichnisse</note> und anders derglychen an
+                                                  sonderbare ortt, | [fol. 6v] ja offt jnn die
+                                                  käller und uff die winden nothalben verborgen und
+                                                  damit allerley spänen<note type="editorial">
+                                                  Uneinigkeit, Streit</note> unnd verunthrüwungen
+                                                  vorzesyn<note type="editorial"> verhüten, Id. I,
+                                                  929.</note> verhofft, hab jch doch söllichem
+                                                  niemalen begägnen nach fürkommen<note type="editorial"> abwenden, Id. III, 278.</note>
+                                                  könen, dann uff ein zyth (damit jch anndere
+                                                  gschwyge) hatt sy mir etliche schuldenrödel
+                                                  hinderschlagen und zů dem etliche blatt uß einem
+                                                  langen rächenbuͤchlj gerißen. Unnd als jch jro die
+                                                  schlüßel nemmen unnd solche hinder jro sůchen
+                                                  wellen, hatt sy das buffet geöffnet, die bletter
+                                                  und anders haruß genommen und hoch zů gott züget,
+                                                  sy habe es nit gethan unnd wüße auch nit, von wem
+                                                  es beschächen oder jn das buffet geleit worden syn
+                                                  möchte, da doch niemand annders dann sy die
+                                                  schlüßel byhannden ghept und dasselbig dergstalt
+                                                  hinderhalten und verschlachen können.</p>
+                                                  <p>25. Damit sy aber dißere an mir geuͤbte unthrüw
+                                                  nach beßer zuwägen bringen und mich dest ehe jns
+                                                  verderben richten könne, hatt sy auch nit
+                                                  ermanglet, vorgedacht jr eigen kind, so ungfahr 12
+                                                  jar alt, uff sölliche unredlich stuckh und sachen
+                                                  anzewyßen<note type="editorial"> anstiften,
+                                                  verleiten, Id. XVI, 1942.</note> und wider alle
+                                                  recht und ehrbarkeit jnn syner jugent zůverfuͤren,
+                                                  jnn dem das sy verschines hirßmontags<note type="editorial"> Montag nach dem ersten
+                                                  Fastensonntag (Invocavit), 24. Februar 1609
+                                                  (a. st.).</note> diß jars, als jch zweyerley wyn
+                                                  gschenckt, jme, den knaben, dahin zwingen wellen,
+                                                  das er den 8 schilling<note type="critical">In der
+                                                  Vorlage: ß</note> wärttigen underwylen umb 8 und
+                                                  auch etwan umb 10 schilling und den 10 schilling
+                                                  wärttigen jederwylen umb 10 und dann etwan umb 12
+                                                  schilling und also zweyerlej wyn uß einem vaß
+                                                  ußschäncken und hinweg geben sölle. Als er aber
+                                                  deß gewideret, hatt sy jnn dermaßen mißhandlet,
+                                                  das jmm mund und naßen übergloffen und er noth
+                                                  halben jnn myner schwöster Holtzhalbinen<note type="editorial"> <persName ref="Kolb, Susanna">Susanna Kolb</persName>, Schwester von Hans Heinrich
+                                                  Kolb, seit 1599 mit Alexander Holzhalb (1572-1609)
+                                                  verheiratet.</note> huß entrünen muͤßen. Da jnn
+                                                  m[eister] Hannß <persName ref="Heidegger, Hans Kaspar">Caspar Heidegger</persName>, jtem <persName ref="Landolt, Heinrich">Heinrich
+                                                  Landolt</persName> und
+                                                  andere (by denen jch ein thrunck gethan) gfraget,
+                                                  wer jn so übel gschlagen, hatt er unns | [fol. 7r]
+                                                  mit weinenden ougen clagt, diewyl er arm luth
+                                                  syner můtter anwyßen nach nit bethriegen und wie
+                                                  gemelt zweyerlej wyn uß einem faß hinweg geben
+                                                  wellen, hab sy jn dergstalt (jedoch umb unschuld)
+                                                  mißhandlet, dörffe auch von dißer ursach wegen nit
+                                                  mehr heimkommen. So hatt sy jnn jn mynem abweßen,
+                                                  wyl er nach jünger gsyn, offtmalen dahin bredt,
+                                                  das er jro myn gelt jnn allen kisten und kästen,
+                                                  jtem under den bedt kären und an andern derglychen
+                                                  ortten hatt sůchen hälffen. Und als sy uff ein
+                                                  zyth ein seckel vol uff der offen gupfen<note type="editorial"> ein auf den Stubenofen gebauter,
+                                                  meist zugerundeter, hutartiger Aufsatz, Id. II,
+                                                  391.</note> unnd einen under der gutschen<note type="editorial"> Ruhebett in einer Wandnische
+                                                  oder Polsterbank beim Ofen, Id. II, 563.</note>
+                                                  liggende funden, hatt sy darvon nach jrem gfallen
+                                                  gnommen. Ob nun diß alles einem redlichen wyb, jr
+                                                  kind dergstalt anzefuͤren gebüre, giben jch einem
+                                                  jeden recht verständigen hiemitt zůerkänen.</p>
+                                                  <p>26. By 3 wochen ungefhar, als sy kranck gwäßen
+                                                  und mich gan <placeName ref="Marthalen">Marthalen</placeName>
+                                                  jnn den herpst<note type="editorial"> Gemeint ist
+                                                  vielleicht die Herbsternte.</note> ghan heißen mit
+                                                  vermälden, das sy diewyl ein vorgengerin<note type="editorial"> Pflegerin, Id. II, 359.</note>
+                                                  by jro haben welle, jst sy, als jch nach
+                                                  kümerlich<note type="editorial"> kaum</note> zwo
+                                                  stund lang ußgwäßen, ab dem bedt gesprungen,
+                                                  widerumb gsund gsyn, den knaben jnn die hinder
+                                                  kammer gnommen unnd jm thröuwt<note type="editorial"> gedroht</note>, wann er jro nit
+                                                  zeige, wohin jch das gelt, brieff, rechenbuͤcher
+                                                  und anders ghalten, so welle sy jn erwürgen oder
+                                                  zů stucken houwen. Als aber der knab uß mynem
+                                                  verpott sich desselben gewideret und glych
+                                                  zeschrygen angefangen, jst daruff m[eister] Hannß
+                                                  <persName ref="Bachofen, Hans Kaspar">Caspar Bachofen</persName> als syn vogt, jtem
+                                                  <persName ref="Muster, Jörg">Jeörg Must</persName> der
+                                                  schůmacher und myn hußman, <persName ref="Nötzli, N.">der Nötzli</persName>, hinzůgeloffen, die kamerthür
+                                                  mit einer achs ufbrächen und jme zů hilff kommen
+                                                  wellen. Als sy nun sölliches ghördt, hatt sy jnne
+                                                  widerumb ledig glaßen, welliches mit jetzt
+                                                  gedachten drygen personen als zügen zůbewyßen.</p>
+                                                  <p>| [fol. 7v] 27. By zweyen oder drygen tagen
+                                                  darnach, als jch jro zuvor jnn erst erzelter jrer
+                                                  angenommen kranckheit verbotten, das sy sich des
+                                                  wyn ußschenckens und verkouffens gentzlichen
+                                                  enthalte und diß ortts den knaben, als dem jch
+                                                  sölliches bevolchen und den wyn jnn denn faßen
+                                                  schon albereitt vorgmäßen, damit umb gan laßen
+                                                  sölle, uff das, wann jch von <placeName ref="Marthalen">Marthalen</placeName> komme, jch sächen könne, wievil
+                                                  er ußgeschänckt oder verkoufft habe, hatt sy
+                                                  hindangsetzt deßen auch über myner schwegeren
+                                                  angelegtes rechtlich hafftbott<note type="editorial"> Arrestverfügung, Id. IV,
+                                                  1902.</note> nit nun wyn und thrůßen<note type="editorial"> Weinhefe, XIV, 1344.</note> uß
+                                                  dem käller hinweg geben, das gelt jro selbsts
+                                                  bhalten und dem <persName ref="Hug, N. (Stadtknecht)">stattknächt Hugen</persName> anzeigt, was sy
+                                                  (reverenter zmälden) dem dieben volckh und den
+                                                  ehetüflen nachfrage, sonder auch gedachten knaben
+                                                  mit einem schlegel gschlagen und jm den stäcken,
+                                                  damit jch jme den wyn yngmäßen, abeinanderen
+                                                  brochen. Unnd als der knab sich übel ghept<note type="editorial"> sich geheben: sich beklagen, Id.
+                                                  II, 911.</note> und anzeigt, jch werd jnn starckh
+                                                  drumb handhaben<note type="editorial">
+                                                  zurechtweisen, strafen, Id. II. 913.</note>, hatt
+                                                  sy jm geantwortet, lauff dym vatter nach und
+                                                  thritt jm uff dschů, dann er ist abermallen mit
+                                                  gelt darvon und wirt jn nechsten acht tagen nit
+                                                  mehr widerkommen.</p>
+                                                  <p>28. Item als jnn derzyt myner schwöster
+                                                  Holtzhalbinen<note type="editorial"> <persName ref="Kolb, Susanna">Susanna
+                                                  Kolb</persName>, vgl.
+                                                  Anm. 65.</note> töchteren zů dem knaben jnn käller
+                                                  kommen und gfraget, ob jch nach nit von
+                                                  <placeName ref="Marthalen">Marthalen</placeName> heimb syge,
+                                                  kompt myn frouw die stägen nider, erwischt ein
+                                                  stäcken, mit dem sys zboden schlachen wellen unnd
+                                                  als myn hußman jro den strick uffghalten und damit
+                                                  frid gnommen, hatt sy myne schwegeren und jre
+                                                  wyber abermalen mit so schandtlichen
+                                                  eerverletzlichen wortten übergoßen und mit nammen
+                                                  gredt, die manen sygind (reverenter zmälden)
+                                                  dieben und die wyber diebinen, ja ußschnygt<note type="editorial"> verrucht (Schimpfausdruck), Id.
+                                                  9, 1212.</note> hůren, also das auch gemelter myn
+                                                  hußman sy kümerlichen darvon abmannen mögen und
+                                                  sölliches mit jme zůbewyßen.</p>
+                                                  <p>| [fol. 8r] 29. By 14 tagen ungefahr hatt sy
+                                                  mich an einem morgen gebätten, jch sölle uffstahn,
+                                                  jro ein bruͤyen<note type="editorial">
+                                                  Brühe</note> kochen und ein fhür jns kleiner
+                                                  stuben öfelj machen, dann sy wüße, das sy den
+                                                  morgen nit erläben werde. Als nun dasselbig
+                                                  bschechen, hatt sy mich zwungen, das jch zůvor die
+                                                  bruͤyen (wie andere mahl mehr) wider ehliche thrüw
+                                                  credentzen muͤßen. Und da jch jro anzeigt, jch
+                                                  welle jnn sant Petters <placeName ref="Zürich, St. Peter">kilchen</placeName>, hatt sy mir darüber
+                                                  kein antwortt geben wellen. Sobald jch aber uß dem
+                                                  huß kommen, jst sy gsund gsyn, springt ab dem
+                                                  bedt, legt einen nachtbeltz<note type="editorial">
+                                                  Nachtgewand</note> an und loufft jns obergmach,
+                                                  die můtter und tochter uffweckende, welliche jnn
+                                                  yl einen holtzschytter, den keller uffzůbrächen,
+                                                  sůchen muͤßen, darjnn sy sich mit ußhin trägen und
+                                                  verstälen abermalen also ghalten, das jch
+                                                  dasselbig an wyn und derglychen sachen lychtlich
+                                                  spüren unnd jnnen werden mögen, jnnmaßen es mit
+                                                  jetztgemeltem hußvolckh gnůgsam zůbezügen.</p>
+                                                  <p>30. Vor etlichen jaren, als jch zum <note type="editorial"> Vermutlich das Wirtshaus «Zum
+                                                  Weissen Rössli», Schifflände 30, vgl.
+                                                  Kunstdenkmäler des Kantons Zürich, Bd. 111, S. 54,
+                                                  und Salomon Vögelin: Das alte Zürich
+                                                  historisch-topographisch dargestellt, oder eine
+                                                  Wanderung durch dasselbe im Jahr 1504, S.
+                                                  21.</note><placeName ref="Zürich, Zum Weissen Rössli">Rößlj</placeName> gwirttet und
+                                                  uff ein zyth jnn beiden stuben gastung ghept, hab
+                                                  jch die under uff ein unvermeinte stund so wol
+                                                  verschloßen funden, das jch nach langem klopfen
+                                                  entlichen die thür mit gwalt uffränen muͤßen,
+                                                  darjnn jch sy und dmagt sampt etlichen gsellen
+                                                  hinder dem ofen, einanderen uff den schößen
+                                                  sitzende, erwüscht, unnd under jnnen den <persName ref="Zyser, Hans">Hanns
+                                                  Zyßer</persName> dermaßen
+                                                  empfangen, das er jnn etlichen wochen nit mehr von
+                                                  huß kommen dörffen etc. Diewyl jch nun gemelter
+                                                  myner hußfrouwen domalen nach nüt bößes throuwt,
+                                                  hab jch es darby bruwen laßen.</p>
+                                                  <p>31. Inn dem jch aber verhofft, es wurde jetzt
+                                                  genandte verdechtige sach jro ein warnung syn und
+                                                  sy sich desto ehe vor dißen und annderen der
+                                                  hievor erzelten <note type="editorial"> sich hüten, Id. II, 303.</note>,
+                                                  hab jch doch unlang darnach erfaren, das <persName ref="Sommerauer, Hans">Hannß
+                                                  Summerouwer</persName> der
+                                                  pfister | [fol. 8v] vor Heinrichen
+                                                  Ruͤtzestorffer<persName ref="Rützensdorfer, Heinrich">stucken vergoumen</persName> den glaßer und
+                                                  <persName ref="Maler, Balthasar">Balthasar Malern</persName>
+                                                  den habermälwer fryg rund und heiter bekänndt, das
+                                                  er uff ein zyt sich vor myner frouwen unnd myn
+                                                  frouw vor jm nachendig ußzogen und entblößt habe
+                                                  unangsächen, das jch sy uff syn fürgeben<note type="editorial"> fälschliches Angeben,
+                                                  Weismachen, Id, II, 90.</note> hin als ein
+                                                  eerlichs wyb schon zůvor zur ehe genommen unnd ein
+                                                  zyth lang mit jren gehußet, welliches auch
+                                                  nachgentz <persName ref="Kambli, Heinrich">Heinrich Kamblj</persName> und <persName ref="Häfeli, Jakob">Jacob Häfelj</persName> vonn anderen personen ghördt
+                                                  und mit jnen allersyths zůbewyßen.</p>
+                                                  <p>32. Item by drygen jaren ungefahr, als jch
+                                                  gschäfften halben jmm <placeName ref="Elsass">Elsas</placeName> war, hatt sy jnn söllichem ein stockmur<note type="editorial"> Hauptmauer eines Gebäudes, aus
+                                                  massivem Mauerwerk ausgeführt, Id. IV, 382.</note>
+                                                  hinder dem ofen abbrächen und dahin ein stüblj
+                                                  buwen laßen, darjnn m[eister] Hannß <persName ref="Wegmann, Hans Balthasar">Bernhardt
+                                                  Wägman</persName>,
+                                                  der schärer<note type="editorial"> Wundarzt</note>
+                                                  alhie, und <persName ref="Lang, Hans">Hanns Lang</persName>
+                                                  von <placeName ref="Bachs">Bachs</placeName> jro (reverenter
+                                                  zmälden) die frantzoßen<note type="editorial">
+                                                  Franzosenkrankheit, Syphilis, Id. I, 1312.</note>
+                                                  (weliche nach jr beider jetzigen ansag eines
+                                                  schillings breitt gsyn) beitzen<note type="editorial"> eine Wunde behandeln, mit einer
+                                                  Wunde zu schaffen haben, Id. IV, 1983.</note> und
+                                                  heylen muͤßen. Wie jch nun heimbkommen, hatt man
+                                                  mir fürgeben, sy syge kranck an einem schänckel.
+                                                  Und damit jch dißere sach nit bychtlich erfare und
+                                                  zů einer sönnderung<note type="editorial">
+                                                  Scheidung, Id. VII, 1159.</note> kein ursach habe,
+                                                  hatt sy dem hußvolckh jnn der oberen stuben holtz
+                                                  zůtragen laßen, das sy jederwylen dieselbig stuben
+                                                  heitzen und sich darin salben könne. Also das jch
+                                                  jm selben jar ob den 500 gulden jn das hauptgůtt
+                                                  verthan, darumb sy mich mit jetzt genanntem jrem
+                                                  verderbten wäßen muttwilliger wyß gebracht unnd
+                                                  jch mit gůter gwüßne bezügen darff, das mir nach
+                                                  dem knaben diß stuckhs halben (welliches sy an
+                                                  ortt unnd enden jren bewüßt uffgläßen) weder
+                                                  darvor nach darnach nie nützit anglägen gsyn,
+                                                  jnmmaßen jch sölliches mit gestimptem Wägman und
+                                                  Langen, jtem mit <persName ref="Bertschinger, N.">Herr Bertschingers</persName> ehefrouwen und <persName ref="Eberlin, N.">der
+                                                  Eberlinen</persName> als mynen
+                                                  hußlüthen<note type="editorial"> Mieter, Id. III,
+                                                  1521.</note> bewyßen wil.</p>
+                                                  <p>| [fol. 9r] 33. Wytter hatt sy jn gedachtem
+                                                  jrem nüwerbuwnen blatterstüblj<note type="editorial"> Krankenzimmer für Patienten, die
+                                                  an Blattern beziehungsweise Syphilis
+                                                  leiden.</note> auch ein loch jnn den stuben ofen
+                                                  brächen unnd dasselbig summer- und winters zyten,
+                                                  so sy vol gsyn, heitzen und das fhür dermaßen
+                                                  brünen laßen, das jro zum offtern mal die strümpf
+                                                  an ferßenen verbrunen und jch under wylen
+                                                  nothalben von myner růw widerumb uffstahn und
+                                                  löschen muͤßen. Also das jch jren jnn bywäßen jres
+                                                  sohns und der tochter vilmalen so ernstlich
+                                                  zůgredt, wann sy von disem jrem verthruncknen
+                                                  leben nit abstande, zůbesorgen syge, das sy mynig
+                                                  mit ander lüten nach anzünden und verbränen werde,
+                                                  wie dann diß vergangnen herpst (da sy ein loch jn
+                                                  ein schürlezin<note type="editorial"> leinen, Id.
+                                                  VIII, 1264f.</note> küßeli und ein ziechen<note type="editorial"> Überzug (für das Kissen), Id.
+                                                  XVII, 236.</note> verbränt, alßo das jch<note type="critical">Folgt gestrichen: das</note> die
+                                                  gůtschen<note type="editorial"> Polsterbank beim
+                                                  Ofen, Id. II, 563.</note> kümerlich erretten
+                                                  mögen) nit vil gfelt, daß huß und anders were mir
+                                                  mit myner nachburen schaden fhürs halben zů grund
+                                                  gangen.</p>
+                                                  <p>34. Endlichen kan ich nit fürkommen<note type="editorial"> verhüten, verhindern, Id. III,
+                                                  278.</note>, e[uer] e[hrenveste], w[olglerte] und
+                                                  e[hrsame] w[yßheit] jmm grund der warheit
+                                                  zůberichten, das sy, myn frouw, von anfang unserer
+                                                  hußhaltung kein ehliche pflicht nach thrüw der
+                                                  lyblichen werchen halben niemalen an mir ghalten,
+                                                  sonder mir solliches vil hundert mal abgschlagen
+                                                  und, an anderen ortten, dahin jch sonnst
+                                                  gschäfften halben gannge, dasselbig zůverrichten
+                                                  und sy daheimb ruͤwig zelaßen, erloubt und
+                                                  gheißen. Wie sy dann ouch etliche wochen vor jrem
+                                                  beitzen und ein gůtte zyt darnach (da jch nit
+                                                  gwüßt, was jro anglegen) diß stuckhs halben mich
+                                                  nienen dulden wellen, also das jch allein von
+                                                  deßwegen etliche mal kranckh worden und, wo mich
+                                                  gott nit jnsonderheit erhalten, jch zun zyten jrem
+                                                  ungebürlichen gheiß und erlouben gfolget. Dargegen
+                                                  aber, wann sy vol gsyn oder jch anheimbsch kommen,
+                                                  hatt sy es so wol tags als nachts nit nun ein,
+                                                  sonder etliche mahl begären und mir zůmůten
+                                                  dörffen. Und wänn jch sölliches nach jrem | [fol.
+                                                  9v] willen nit verricht, hatt sy mich zigen<note type="editorial"> vorgeworden, Id. XVII,
+                                                  863.</note>, jch habe (reverenter zmälden) ghůret.
+                                                  Unnd wyter gmäldet, wann jch ein reisch<note type="editorial"> geil, wollüstig, Id. VI,
+                                                  1462.</note> wyb hette, so wurde sy mir zů einer
+                                                  offne dirnen, darvon aber niemand anders dan jch
+                                                  allein ein ursach und schuld thruͤge. Ob nun
+                                                  sölliche unverschammpte und buͤbsche reden einem
+                                                  ehrlichen wyb mit jrem man dergstalt zetryben
+                                                  gebürind, das giben üch, mynen gnedigen herren,
+                                                  zůerkänen.</p>
+                                                  <p rend="margin-top">Inn ansächung jetzterzelter
+                                                  articlen und dyewyl gedachter myn eefrouw über myn
+                                                  und jres eignen brůders, herren buwherr
+                                                  Meisters<note type="editorial"> <persName ref="Meister, Jakob">Jakob
+                                                  Meister</persName>,
+                                                  (1555-1613), Bruder von Magdalena Meister, 1591
+                                                  Mitglied des Kleinen Rats, 1600 Bauherr.</note>,
+                                                  auch jrer schwöster Körneren<note type="editorial"> <persName ref="Meister, Elisabeth">Elisabeth Meister</persName></note> vilfaltige
+                                                  ernstliche warnung und vermanung nit nun jnn
+                                                  gemelter jrer thrunnckenheit, sonder auch jm
+                                                  ußtragen und versetzen mynes gůts můttwilliger und
+                                                  fräfner wyß fürgfaren und darnebent unnseren son,
+                                                  jr eigen kind, schon albereitt uff betrugliches
+                                                  wyn schencken und andere derglychen unredliche
+                                                  stuckh wider alle ehrbarkeit angfuͤrt und fehrner
+                                                  zewyßen understanden. Item das sy die jar hero
+                                                  abermaln uß mynem gůtt etliche 100 gulden an
+                                                  handtgschrifften und rödlen, so vor verzeichnet
+                                                  stand, hinderschlachen unnd mich darumb unbilicher
+                                                  wyß betriegen wellen. Deßglychen das sy sich uff
+                                                  ein zyt wider eheliche gebür vor <persName ref="Sommerauer, Hans">Hanßen
+                                                  Summerouwer</persName>
+                                                  nachendig ußzogen und entblößt unnd dann das
+                                                  <persName ref="Wegmann, Hans Balthasar">vorgemelter Wägman</persName> <persName ref="Lang, Hans">und Lang</persName> jro (mit urloub<note type="editorial"> Erlaubnis, Id. III, 959.</note>
+                                                  zeschryben) dfrantzoßen, die sy an orrt und enden,
+                                                  wie zů můttmaßen, uffgeleßen, beitzen und heylen
+                                                  muͤßen. By wellichem und vorerzeltem allem jr, myn
+                                                  gnedig herren, jr unverschammpte, lychtsinnige
+                                                  artt und geuͤbte trüwloße und sonderlichen das
+                                                  jrthalben weder jnn einer nach der andern sach
+                                                  kein beßerung nit mehr zeverhoffen, gnůgsamm
+                                                  abzenemmen habend. So langt an wolgenannt | [fol.
+                                                  10r] üwer e. w. und e. w. myn underthenigs und
+                                                  noth trungenliches<note type="editorial">
+                                                  eindringliches</note> pitten, mich umb genammpter
+                                                  ursachen willen, ehelicher banden von jro
+                                                  zeledigen, damit wytere gfahr, so sonster hieruß
+                                                  entstahn und (leider) jnns künfftig zůbesorgen,
+                                                  gentzlich vermitten unnd jch by dem mynigen
+                                                  (darumb sy mich mit ander lüthen jnn kurtzen
+                                                  stunden<note type="editorial"> Zeit, Id. XI,
+                                                  1049.</note> bringen möchte) ruͤwigklich blyben
+                                                  und wonen möge. Das begeren jch umb e. e. w. und
+                                                  e. w. jn undertheniger ghorsamme jederzyth
+                                                  dienstwillig zůbeschulden.</p>
+                                                  <p rend="margin-top">E. e. w. und e. w.
+                                                  undertheniger</p>
+                                                  <p>Hanns <persName ref="Kolb, Hans Heinrich">Heinrich Kolb</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_318</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_318</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich
+                                                  Binder
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1570-05-29"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 169</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[…]<note type="editorial"> Das Schreiben (fol.
+                                                  103r-104v) beginnt mit Anweisungen bezüglich
+                                                  Gottesdienstbesuch, Sonntagsheiligung,
+                                                  Getreidehandel, Verkündigung der Mandate und
+                                                  übermässigem Konsum in Wirtshäusern.</note> Witer,
+                                                  lieber vogt, tragend wir dheinen<note type="editorial"> keinen</note> zwyfel, dann dir
+                                                  sygen unsere schryben, so wir dir der unrüwigen
+                                                  ufrürischen<note type="critical">«unrüwigen
+                                                  ufrürischen» am Rand mit Verweiszeichen</note>
+                                                  wider­toüf­fern halber jnn diner amptsverwaltung
+                                                  etlich maal gethaan, unvergesßen. Und diewyl dann
+                                                  nochmalen klegt jst, das <persName ref="Ruman, Peter">Peter Ruma</persName> von Schöffelstorff<note type="editorial"> Schöfflisdorf</note><placeName ref="Schöfflisdorf"/>, <persName ref="Bräm, Hans">Hans Brem</persName> und syn frouw von Wattwyl,
+                                                  Jacob<note type="critical">Folgt gestrichen:
+                                                  h</note> Zöbelis<persName ref="Zöbeli, Jakob"/>
+                                                  frouw von Schöffelstorff und <persName ref="Stuber, Michel">Michel
+                                                  Stubers</persName> deß<note type="critical">Folgt gestrichen: eef</note>
+                                                  eegoumers<note type="editorial"> Vertreter der
+                                                  lokalen Sittenzucht, Id. II, 304.</note> zů
+                                                  <placeName ref="Oberweningen">Oberweningen</placeName> frouw
+                                                  und tochter<note type="critical">Folgt gestrichen:
+                                                  jr</note> jnn jrer ­toüf­ferischen sect beharind
+                                                  und sich nüdesterweniger jnn diner amptsverwaltung
+                                                  enthaltind<note type="editorial"> sich
+                                                  aufhalten</note>, so jst nochmalen unser
+                                                  erntstlich bevelch an dich, das du uff<note type="critical">Folgt gestrichen: sy</note>
+                                                  ernempte personnen din heimliche kundtschafft und
+                                                  spech<note type="editorial"> Nachforschung,
+                                                  Fahndung, Id. X, 76.</note> machist und die, so zů
+                                                  betretten<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note>, gefengklichen
+                                                  annemmen lasßist und uns zůschickist, damit gegen
+                                                  jnen der gebür nach gehandlet werden könne.
+                                                  Deßglychen denen, so sy beherberingent, die daruf
+                                                  gesetzt straff abnemist.<note type="critical">«Deßglychen denen … abnemist» am Rand mit
+                                                  Verweiszeichen</note></p>
+                                                  <p>Zůletst werden wir verstendiget, das ein
+                                                  schnider uß dem <placeName ref="Deutschland">Schwabenland</placeName>, so zů <placeName ref="Baden">Baden</placeName> ein dienstmagt ob
+                                                  <placeName ref="Regensberg">Regensperg</placeName> genommen
+                                                  und<note type="critical">Folgt gestrichen: da
+                                                  dennen</note> von Baden (alda man synen weder zů
+                                                  einem burger noch hindersesßen wellen) gen
+                                                  Regensperg zogen syge, sich daselbs nun meer jnn
+                                                  die fünff jar enthalten und aber, was joch<note type="editorial"> auch</note> mit jme gredt und
+                                                  gehandlet worden, noch nie zum tisch<note type="critical">Folgt gestrichen: deß
+                                                  herren</note> und nachtmal deß herren (wie es
+                                                  unserm christenlichen glouben nach brüchig) gangen
+                                                  syge. Laße sich ouch darnebent<note type="critical">Folgt gestrichen: mercken</note>
+                                                  jnn synen reden mercken, als ob er mit einer
+                                                  sondern sect behafft syge. Diewyl dann hieruß und
+                                                  uß söllicher syner sönnderung jm begaan deß herren
+                                                  nachtmals nützit gůts<note type="critical">Folgt
+                                                  gestrichen: so ders</note> erwachßen, sonders, so
+                                                  man es jms gstattne, andere sich deß ouch anmasßen
+                                                  welten, zůdem er frombdts landts und nit der
+                                                  unsern einer jst, gfalt uns und wellent, das du
+                                                  jnnbysin<note type="critical">«jnnbysin» über der
+                                                  Zeile, in der Zeile gestrichen: sambt</note> deß
+                                                  schultheißen und undervogts uff Regensperg
+                                                  denselbigen schnider für<note type="editorial">
+                                                  vor</note> dich bschickist, jme das, so uns
+                                                  synethalb fürkommen jst, fürhaltist unnd ein
+                                                  entliche antwort uff der stetd<note type="editorial"> sofort (zur Form vgl. Id. XI,
+                                                  1682)</note> vonn jm zehaben begerist, ob er<note type="critical">Folgt gestrichen: sich nit</note>
+                                                  hinfüro zum nachtmal deß herren unserer
+                                                  christenlichen ordnung und bruch nach gaan, ouch
+                                                  sich den andern unsern mandathen und satzungen
+                                                  gemesß halten welle. <note type="critical">Folgt
+                                                  gestrichen: und</note> Sover<note type="critical">Folgt gestrichen: d</note> er dann das zethůnd
+                                                  und zevolstrecken abschluͤge oder (ob er glych
+                                                  zůsagte) und aber die unsern uff Regensperg synen
+                                                  sonsten beschwert werind, alsdann solt du jme
+                                                  anzeigen<note type="critical">Folgt gestrichen:
+                                                  und</note> und gebieten, das er jnn monats frist
+                                                  da dannen ouch uß unsern grichten und gebieten
+                                                  züchen, uns und die unsern darjnne ungesumbt und
+                                                  ungejrrt lassen sölle.</p>
+                                                  <p>Sölliche obvermelte<note type="editorial"> oben
+                                                  erwähnte</note> artigkel all wellist mitt allen
+                                                  trüwen flysß und erntst versehen ußrichten unnd
+                                                  handthaben, als dir und einem jeden unserm vogt
+                                                  ampts halber<note type="critical">«ampts halber»
+                                                  am Rand mit Verweiszeichen</note> gebürt und
+                                                  zůstadt, ouch wir uns deß zů dir<note type="critical">Folgt gestrichen: versehend</note>
+                                                  zůgeschehen versehend<note type="editorial">
+                                                  erwarten</note>, das stadt uns umb dich jnn gnaden
+                                                  zůerkhennen. Datum mentags den 29ten may anno etc.
+                                                  70.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt <placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem fromen, wyßen, unnserm
+                                                  besonders getrüwen, lieben burger und vogt uff
+                                                  <placeName ref="Regensberg">Regensperg</placeName> Heinrichen
+                                                  Binder.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

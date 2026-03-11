@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_688</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_688</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Konrad Grebel (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1600-11-24"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 539</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, vester, besonnders gethrüwer,
+                                                  lieber burger und vogt, wir vernemmend, das jnn
+                                                  unnser herrschafft <note type="editorial"> Wädenswil</note><placeName ref="Wädenswil">Wedischwyl</placeName> dyner amptsverwaltung hin und
+                                                  har etliche personen sygind, welliche mit der
+                                                  widerthoüfferischen sect behafftet unnd nit wie
+                                                  anndere christenlüth zur kilchen jnn die predig
+                                                  gangind, sonders sich ungehorsam erzeigende, jr
+                                                  eigne wyß behaltind unnd under denen auch etliche
+                                                  jüngst verschinner<note type="editorial">
+                                                  vergangener</note> zyt, als man jnn harnasch und
+                                                  gwehr dir an unnser statt die gwonliche huldigung
+                                                  gethaan, gfahrlicher wyß ußbliben und<note type="critical">Folgt gestrichen: nit wie
+                                                  andere</note> dir nit<note type="critical">«nit»
+                                                  über der Zeile</note> geschworen haben söllint. An
+                                                  wellichem wir ein mißfallen tragend. Unnd diewyl
+                                                  dann wider die schedlich, jrrig und verfürische
+                                                  sect der wider­toüf­fery von unns erntstliche
+                                                  mandat ußgangen unnd wir wie auch andere
+                                                  christenlichen oberkeiten<note type="critical">«wie auch andere christenlichen oberkeiten» am
+                                                  Rand mit Verweiszeichen</note> sölliche lüth jnn
+                                                  unnseren landen nit dulden khönnend noch wöllend,
+                                                  so jst unnser erntstlicher bevelch an dich, du
+                                                  wellist söllichen widerthoüfferen jnn dyner
+                                                  verwaltung flyßig nachfragen unnd, welliche es
+                                                  sygen heimbsche oder frömbde, du befindst, das sy
+                                                  wider unnser jüngst jm truck ußgangen offen
+                                                  mandat<note type="editorial"> Nr. 329. </note>
+                                                  (deßen ein exemplar jnn unnserem huß Wädeschwyl
+                                                  verhanden syn wirt) handlend unnd demselben nit
+                                                  gemeß sich haltend, gegen denselben allen unnd
+                                                  jeden<note type="critical">«unnd jeden» am Rand
+                                                  mit Verweiszeichen</note>, wer sy auch sind, solt
+                                                  du vorgemeltem unnserm mandat mit buͤßen unnd jnn
+                                                  ander weg, was dz mandat zůgibt<note type="editorial"> enthalten, an die Hand geben,
+                                                  Id. II, 95.</note>
+                                                  <note type="critical">«was dz mandat zůgibt» am
+                                                  Rand mit Verweiszeichen</note>, gestrax<note type="critical">Folgt gestrichen: unnd ohne
+                                                  verschonen</note> mitt erntst nachsetzen unnd
+                                                  darjnnen niemanden verschonnen, dann diß jst
+                                                  unnser will und meinung, da wir unns
+                                                  versehend<note type="editorial"> erwarten,
+                                                  annehmen, Id. VII, 566f.</note>, du demselben
+                                                  geflißen nachgahn werdist. Was dann die jhenigen,
+                                                  so dir nit wie anndere die unnseren huldigung
+                                                  gethaan habent, belanget, jst unnser meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, das du
+                                                  dieselben zů nechster gelegenheit beschicken unnd
+                                                  an jnen loßen<note type="editorial">
+                                                  anhören</note> söllist, worumb sy sich geüßeret
+                                                  und ob sy dir noch schweeren wöllind oder nit.
+                                                  Unnd was du also by jnen jnn bscheidt findst, deß
+                                                  wirst du unns wol zůberrichten wüßen, dir darüber
+                                                  mit<note type="critical">Folgt gestrichen:
+                                                  vern</note> gebürendem<note type="critical">Folgt
+                                                  gestrichen: be</note> vernerm bevelch und bscheid
+                                                  zůbegegnen. Datum den 24ten novembris anno
+                                                  1600.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů Wädeschwyl
+                                                  Conradten Grebel.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

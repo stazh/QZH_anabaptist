@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_228</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_228</idno>
+          </msIdentifier>
+          <head>Matthias Schwerzenbach an Bürgermeister
+                                                  und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1556-01-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 79</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><note type="critical">In der Vorlage:
+                                                  stranng</note>, frum, edel, eren, vest,
+                                                  fuͤrsychdig, ersam und wyß, jnsunders günstig,
+                                                  gnedig jr myn heren, min underthenig, gehorsam,
+                                                  ganz gneigt und gůt wylliger dienst sig üwer
+                                                  er[sam] wyßheit mit aller underthenigkeyt alzit
+                                                  anbereit. Insunders günstig gnedig jr min heren,
+                                                  alß üwer er. wißheit mir hat zů schryben laßen,
+                                                  wie<note type="critical">«wie» über der
+                                                  Zeile</note> Falwhanns<persName ref="Falw Hans (von Schüpfen)"/> von Schypfen<note type="editorial"> Schüpfen
+                                                  (Schüpfheim)</note><placeName ref="Schüpfen">Strenng</placeName>
+                                                  sych für und für der töyfferschen sect beladen und
+                                                  sunst jnn andere wäg ouch ungepürlich hanndlen
+                                                  sölle. Deßhalben ich den undervogt uff angännde
+                                                  nacht verschines<note type="editorial">
+                                                  vergangenen</note> fryttag mit sampt anderen
+                                                  personnen, so fyl ich dan vermeyne nodturfftig zů
+                                                  syn, gan Schypfen vertigen<note type="editorial">
+                                                  herbei schaffen, holen, Id. I, 1003.</note> und
+                                                  jnnen mit allem ernst bevellen, das sy
+                                                  obvermalten<note type="editorial"> oben
+                                                  erwähnten</note> Falwhannßen gfangklychen
+                                                  anzenämen und üch den bewart über antwurten. Uff
+                                                  söllychs, günstig gnedig jr min heren, laß ich
+                                                  üwer er. wyßheyt wüßen, das ich den unndervogt mit
+                                                  sampt anderen eren lütten gan Schypffen geschickt,
+                                                  die sälbigen das huß umbstelt, demnach der
+                                                  undervogt sampt anderen personnen jn das hus
+                                                  gangen und gemaltden<note type="critical">korrigiert, ursprünglich: gemaltdem</note>
+                                                  Falwhannßen nach gefragt und jn allenthalben jn
+                                                  dem hus und bedter gpsůcht, aber jn nit können
+                                                  fynden nach erfragen. Demnach sige der undervogt
+                                                  mit sampt den annderen personnen jn des Hannß <persName ref="Hans von Raz">von
+                                                  Raz</persName> huß gangen und
+                                                  jnn daryn ouch nit funden. Deß halben jr, min
+                                                  heren, mögendt hanndlen nach üwerem gevallen.
+                                                  Datum samßtag den eynlyfften<note type="editorial"> elften, Id. I, 283.</note> tag janners dyß sechs
+                                                  und fünffzygisten jars.</p>
+                                                  <p rend="margin-top">U[wer] w[illiger] dienner</p>
+                                                  <p>Mathyß Schwerzenbach, vogt uff
+                                                  <placeName ref="Regensberg">Regennsperg</placeName></p>
+                                                  <p rend="margin-top">Den stränngen, frumen, edlen,
+                                                  eren, vesten, fursychtigen, ersamen unnd wyßenn
+                                                  heren burgermeyster und rath der statt
+                                                  <placeName ref="Zürich">Zürych</placeName>, mynen günstigen,
+                                                  gnedigen, lyeben herenn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

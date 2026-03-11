@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_704</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_704</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mittwuchs, den
+                                                  29ten julij p[raese]nt[ibu]s herr Großman und beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-07-29"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 555</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Arter, Klaus">Clous Arters</persName> von
+                                                  Ebertschwyl<note type="editorial">
+                                                  Ebertswil</note><placeName ref="Ebertswil"/>
+                                                  begeren, das man jme die 300 g[ulden] (so er synen
+                                                  beiden brůderen, die jnn <placeName ref="Mähren">Mehrherrn</placeName> sind, schuldig, bey dem
+                                                  ußkouff<note type="editorial"> Erbvertrag, Id.
+                                                  III, 165.</note> jres vätter- und muͤterlichen
+                                                  gůts und gedachte beide brůderen jme, Cloußen,
+                                                  disere 300 g. vermachet), bewilligen welle, jst
+                                                  jetzmaln biß uff deß vogts zů Kno[no]uw<note type="editorial"> Hans Heinrich <persName ref="Wellenberg, Hans Heinrich von">von
+                                                  Wellenberg</persName><bm id="267"/></note> wyteren bericht jngestelt, doch jme,
+                                                  Cloußen, anzeigt worden, das er umb diß gůt ein
+                                                  brief laße machen und dem vogt von
+                                                  <placeName ref="Knonau">Knonouw</placeName> zůstelle. Und
+                                                  wann dann myn herren der sachen ein rechten
+                                                  bericht haben, werden sy nach jrem gfallen
+                                                  handlen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mittwuchs, den
+                                                  29ten julij p[raese]nt[ibu]s herr Großman und beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

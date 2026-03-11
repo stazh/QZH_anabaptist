@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_635</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_635</idno>
+          </msIdentifier>
+          <head>Ratsbeschlüsse
+                                                  Ratsbeschlüsse unter dem Datum «Donstags, den
+                                                  16ten decembris p[raese]nt[ibus] herr Großman und
+                                                  beid reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1596-12-16"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 486</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt zů <placeName ref="Knonau">Knonouw</placeName><note type="editorial"> Andreas Bräm</note> schryben,
+                                                  khünftigen sontags jnn allen kilchen zů
+                                                  ver­khün­den, das die ­toüf­fer uff khünftigen
+                                                  heiligen tag<note type="editorial"> hier der
+                                                  Weihnachtstag</note> zur predig jnn kilchen
+                                                  gangind unnd, welliche das noch nit gethaan, jre
+                                                  wyber durch den kilchgang ehlichind by miner
+                                                  herren hohen straff unnd ungnad.</p>
+                                                  <p>Darnebent deß capitels dechan - nebent
+                                                  vermeldung, dz sy den bericht wol ehe geschickt
+                                                  hetten - deßselben auch berichten und bevelchen,
+                                                  das er und syne mitbrůder jr ufsehens hieruf
+                                                  habint und myn herren nach der heiligen zyt
+                                                  verstendigind, welliche gehorsam gweßen oder
+                                                  nit.</p>
+                                                  <p>Inn deß vogts schryben soll auch gemeldet
+                                                  werden, das der ­toüf­feren gfründte<note type="editorial"> Verwandte</note> jnen das
+                                                  anzeigen söllint.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschlüsse unter dem Datum «Donstags, den
+                                                  16ten decembris p[raese]nt[ibus] herr Großman und
+                                                  beid reth».</p>
+    </back>
+  </text>
+</TEI>

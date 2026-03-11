@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_533</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_533</idno>
+          </msIdentifier>
+          <head>Markus Wydler, Christliches Bedenken
+                                                  betreffs Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 384</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>| [fol. 1v: leer]</p>
+                                                  <p>| [fol. 2r] Ein kurtz unnd christenlich
+                                                  bedencken der widertaüffern halb, wohar dieselbig
+                                                  seckt sogar überhandt gnommen unnd wie deren
+                                                  zůwehren syge</p>
+                                                  <p rend="margin-top">Es ist hochlich zůbeduren,
+                                                  das in der kirchen Zürich, die bishar so ein
+                                                  herlichen nammen in der gantzen christenheit
+                                                  gehabt, uff welche auch alle andere kirchen
+                                                  gesehen und in glaubens sachen jres radts pflegt
+                                                  haben, jetz ein sölicher großer schwarm der
+                                                  widerthoüfferen in statt und land sich offentlich
+                                                  mercken laßen.</p>
+                                                  <p>Da wirdt nun vil gearguiert<note type="editorial"> argumentieren, disputieren, Id.
+                                                  I, 447.</note>, wer joch<note type="editorial">
+                                                  auch immer</note> an solichem übel schuld thrage.
+                                                  Aber hierin handlend wir, wie unnser menschen
+                                                  bruch ist, das je einer uff<note type="critical">Folgt Reklamant: den</note> | [fol. 2v] den
+                                                  anderen die schuld legt, niemand aber den rechten
+                                                  brunnen der ­toüf­ferej ergründt, nach<note type="editorial"> noch</note> den selben
+                                                  verstopfen will.</p>
+                                                  <p>Gmeincklich muͤßend die predikanten schuldig
+                                                  sin, die jnen doch ahm allermeisten widersprechend
+                                                  und ihrem vürnemmen werend.</p>
+                                                  <p>Sj aber die widerthaüffer, will sy wüssend, das
+                                                  die predikanten bi vilen, auch hochs stands
+                                                  personen, jn gringem ahnsehen sind und vil
+                                                  unwillens habend, da meerend si denselbigen mit
+                                                  ihrem vürgeben<note type="editorial"> fälschlich
+                                                  angeben, vorgeben, weis machen, Id. II,
+                                                  90.</note>, will die predigkanten (sprechend si)
+                                                  selbs nit thuͤgind, was si lehrind, so wöllind si
+                                                  nit in ihre predigen gan. Strichend inen ihr leben
+                                                  und wandel uß<note type="editorial"> usstrichen:
+                                                  ausmalen, ausschmücken, Id XI, 2004.</note>, der
+                                                  ein sy gittig<note type="editorial">
+                                                  geizig</note>, der annder verthrunken, der dritt
+                                                  sonst mitt einem laster bhafft. Keiner mag vor
+                                                  inen hinkommen, wie ehrbarlich er sich joch halt,
+                                                  dem sy<note type="critical">Folgt Reklamant:
+                                                  nit</note> | [fol. 3r] nit konnind ein
+                                                  schlötterlj<note type="editorial"> böser Leumund,
+                                                  Id. IX, 794.</note> ahnhenken, das si die
+                                                  aglen<note type="editorial"> Splitter, Id. I,
+                                                  127.</note> in ander lütten aug wol sehend, den
+                                                  wißbaum<note type="editorial"> Balken, Id. IV,
+                                                  1249f.</note> aber in ihren augen nit. Wen man nun
+                                                  das ghört, so schrigend ober- unnd underthonen
+                                                  wider die predigkanten, es sige niemand dran
+                                                  schuldig, das so vil taüffer sigind, dann unnsere
+                                                  pfaffen. Hiemitt werdend die taüffer in ihrem
+                                                  jrrsal nach weitter gesterckt.</p>
+                                                  <p>Aber wan man die sach grundtlich unnd ohne
+                                                  anfechtungen betrachten will, so erfindt sich ein
+                                                  annders. Dann si, die taüffer, den predigkanten
+                                                  nit so fast umb ihrens lebens als um der lehr
+                                                  willen, mitt deren si ihnen widersprechend, find
+                                                  unnd abhold sind. Dann wan es müglich were, das
+                                                  die apostel selbs sollten widerkommen und predigen
+                                                  und aber ihrem schwindelgeist widersprechind, da
+                                                  wurdend si allweg etwas finden ab<note type="critical">Folgt Reklamant: ihnen</note> |
+                                                  [fol 3v] ihnen zůklagen. Das erscheint sich bi
+                                                  dem, das da man vil herliche, gottselige kirchen
+                                                  diener in statt und land ghan und gott seige lob
+                                                  nach hatt. Da mögend weder die abgestorbnen nach
+                                                  die lebendigen vor inen hinkommen, das si nit das
+                                                  ergest uff si redind, und so si nüt weytters uff
+                                                  si wüßend, sprechendts: Sy sigind ihnen find,
+                                                  sigind nidig und heßig (dann was sy thůnd, zichend
+                                                  si ander lüt), habind güldtbrieff und weiß nit was
+                                                  alls, darumb wollend sy zů ihnen nit zur kirchen
+                                                  gahn.</p>
+                                                  <p>In summa, si wollten gern nit nun einen und den
+                                                  andern, sondern allgemeincklich mitt einandern
+                                                  hinwegbißen, das sy dann ungehinderet und ohn
+                                                  allen widerstand mitt ihrer faltschen lehr
+                                                  vürbrechen, alle gůtten ordnungen<note type="critical">Folgt gestrichen: und</note>,
+                                                  satzungen und policeyen umbkeren und alles in der
+                                                  kirchen und imm regi<note type="critical">Folgt
+                                                  Reklamant: ment</note>| [fol. 4r]ment nach ihrem
+                                                  gefallen ahnrichten köntind und möchtind.</p>
+                                                  <p>Nun begebend sich die vier fragen, die zů
+                                                  rechtem verstand der taüfferischen seckt zůwüßen
+                                                  von nötten sind.</p>
+                                                  <p>1. Erstlich, öb ettwan derglichen seckten mehr
+                                                  under dem<note type="critical">In der Vorlage:
+                                                  demm (dem mit Überstrich)</note> volck gotts und
+                                                  in der christenlichen kirchen gewesen sigind.</p>
+                                                  <p>2. Was die ursach sige, das sy jetziger zeit so
+                                                  gar vürbrech, und das erlöschen für<note type="editorial"> Feuer</note> sich widerumb
+                                                  ahnzünde.</p>
+                                                  <p>3. Vür dritt, was doch die lüt dahinden bringe,
+                                                  das si die taüfferisch leer so mitt großem jfer
+                                                  annemmend.</p>
+                                                  <p>4. Vür letst, wie ihnen zůwehren sige.<note type="editorial"> Die Nummerierung ist
+                                                  marginal.</note></p>
+                                                  <p>Erstlich jst die fraag, ob die taüfferisch lehr
+                                                  bi den rechtglaübigen oder bi den seckteren (das
+                                                  ist, by denen, so sich von der rechten kirchen
+                                                  trennt habend) je gewesen sige.</p>
+                                                  <p>Wer nun die h[eilig] gschrifft, die alten
+                                                  historien und lehrer flißig lißt, der<note type="critical">Folgt Reklamant: findt</note> |
+                                                  [fol. 4v] findt, das ihr lehr weder in der h.
+                                                  schrifft nach<note type="editorial"> noch</note>
+                                                  bj den alten lehreren platz habe, wie sy joch uff
+                                                  den rauen und bloßen bůchstaben ligend. Wol findt
+                                                  man, das under juden, heiden unnd christen solche
+                                                  angfochtne je und allweg gweßen sigind, die zůvil
+                                                  uff ihr verdienst gebuwen, frömmer dann ander lüt
+                                                  wöllen sin, die sy dann nebendt ihnen verachtet
+                                                  und der waren lehr in glich luttenden articklen
+                                                  widersprochen habind. Von heidnischen philosophen
+                                                  und ihrem eigenrichtigen weßen wend wir nit reden,
+                                                  alein, was under juden und christen für
+                                                  taufferische artten gweßen sind.</p>
+                                                  <p>Die pharseer sind unnseren ­toüf­feren in vilen
+                                                  stucken glich geweßen, wie solchs betzüget die
+                                                  glichnuß vom phariseer und dem<note type="critical">In der Vorlage: demm (dem mit
+                                                  Überstrich)</note> armen sünder jm tempel Lucæ
+                                                  18.</p>
+                                                  <p>Insonders  <note type="critical">Folgt Reklamant: über</note> |
+                                                  [fol. 5r] überein mitt den taüfferen die eßener
+                                                  (die auch ein judische seckt gweßen). Von denen
+                                                  <persName ref="Josephus, Flavius">schribt Josephus</persName> lib. 2. cap. De bello judaico<note type="editorial"> Flavius Josephus, De bello
+                                                  Judaico 2, 119–161.</note> und ahn anderen ortten
+                                                  Philo<note type="editorial"> Philon von
+                                                  Alexandrien, Quod omnis probus liber sit
+                                                  72-91.</note><persName ref="Philon von Alexandrien">vilen stucken</persName> de institut.
+                                                  Essenerum, die judischen gschicht schriber<note type="editorial"> Gemeint ist wohl Flavius
+                                                  Josephus, Antiquitates Judaica 13,171f.,
+                                                  15,371-379 und 18,11 u. 18-22.</note>, Eusebius
+                                                  der krystenlich scribent lib. 8 De præpar.
+                                                  euangel. cap. F<note type="editorial"> Eusebeius,
+                                                  Praeparatio evangelica 8,11.</note>,
+                                                  Plinius<persName ref="Plinius d.Ä.">stimmend in</persName> der heid
+                                                  lib. 5 cap. 17<note type="editorial"> C. Plinius
+                                                  Secundus d. Ä., Naturalis historia 5,73.</note>
+                                                  fast uff diße meinung. Sy fuͤrend ein fromm
+                                                  gerecht und abgsünderet leben, dan sy nebendt
+                                                  anderen mentschen in stetten nit wohnen wöllend,
+                                                  domitt sy durch ihr bywonung nit verunreiniget
+                                                  werdind. Sy lebend auch einheligklich by und mitt
+                                                  ein anderen, haltend gemeinschafft der guͤtteren.
+                                                  Keiner dörffte ettwas eigens besitzen, sonder was
+                                                  ein jettlicher mitt siner handarbeit gwündt, das
+                                                  můß er den<note type="critical">In der Vorlage:
+                                                  denn</note> vätteren oder eltisten zůstellen, die
+                                                  ein eintzigen gmeinen seckel habend und einen
+                                                  jettlichen, was er vür bkleidung oder<note type="critical">Folgt Reklamant: spyß</note> |
+                                                  [fol. 5v] spyß bedarff, zůstellend. In der
+                                                  kleidung sind sy schlecht<note type="editorial">
+                                                  schlicht</note> und einfalt, ohn allen pracht,
+                                                  hoffart und überfluß, jn eßen und thrincken maßig
+                                                  und bscheiden, den wollüsten nit ergeben,
+                                                  füllend<note type="editorial"> sich
+                                                  betrinken</note> sich nit, by dem<note type="critical">In der Vorlage: demm</note> tisch
+                                                  sind sy züchtig und still, erhaltend sich mitt
+                                                  ihrer hardten arbeit, tribend keine gwerb nach
+                                                  kauffmanschatz. Gegen gott sind sy ahndechtig,
+                                                  gegen den mentschen grecht. Mitt grechtigkeit
+                                                  übertreffen sy juden unnd heiden. So ettwan under
+                                                  ihnen sündet, den schlüßend sy von ihrer gmein uß,
+                                                  dem<note type="critical">In der Vorlage:
+                                                  demm</note> ußgeschloßnen darff niemand weder eßen
+                                                  nach thrincken geben, můß ihrenthalb hunger
+                                                  sterben. Den thodt und alle martter lidend sy mit
+                                                  höchster dultigkeit, wehrend sich nit gegen denen,
+                                                  die sy bleidigend, machend keine spieß,
+                                                  schwertter, weer oder waffen, laßend sich zum
+                                                  krieg nit bruchen, habend auch keine leibeigene
+                                                  knecht. Den eidtschwur haltend sy vür sünd, jhr
+                                                  red ist ja oder nein<note type="critical">Folgt
+                                                  Reklamant: das</note> | [fol. 6r]. Das haltend sy
+                                                  stiff, haltend vil ceremonien und im judischen
+                                                  gottsdienst wend sy vür ander uß stiff und
+                                                  uffrecht sin. Sy hand nit nu die phariseer und
+                                                  sadduceer veracht, sonnder auch der christen
+                                                  gröste find geweßen. Wen man jetz taüffer mitt
+                                                  denn eßeneren verglicht, so findt man ihren
+                                                  ursprung.</p>
+                                                  <p>Der münchen wesen ist demm taüfferischen nit
+                                                  unglich anfangs gewesen, wan man ihre reglen lißt.
+                                                  Dann sy halten auch gmeindtschafft der guͤttern,
+                                                  und ettwas eigens haben, hand sy bim höchsten ban
+                                                  verbotten. Eidschweren der weltlichen oberkeit
+                                                  ward ihnen auch verbotten, habend sich auch uß
+                                                  ihrem gewalt entzogen und ihnen vürgeben, wen si
+                                                  wöllend selig werden, muͤßend sy von ihrem stand
+                                                  und ampt abston und ihn ihren orden tretten, das
+                                                  den vil künig, priestern und herren vor ihrem end
+                                                  gethon.<note type="editorial"> Vgl. etwa Regula
+                                                  Benedicti 4,27 und 55,15-20.</note> Glichs lehren
+                                                  auch die taüffer, ein oberer mög wol ein
+                                                  christ<note type="critical">Folgt Reklamant:
+                                                  werden</note> | [fol. 6v] werden, wen er sin ampt
+                                                  uffgeb unnd in<note type="critical">In der
+                                                  Vorlage: inn</note> ihren trette und den annemme.
+                                                  Die geißelmünch (do größer glichsner<note type="editorial"> Heuchler</note> uff erden nit
+                                                  sind) lehrend auch, der eidschwur sige ein
+                                                  thodtsünd.</p>
+                                                  <p>Zun zytten deß h[eiligen] Augustinj<persName ref="Augustinus"/> sind jn <placeName ref="Afrika">Aphrica</placeName> die donatisten<note type="editorial"> Parteigänger des Donatus von
+                                                  Karthago</note> entstanden, den taüfferen in all
+                                                  weg glich, mitt denen der heilig man vil
+                                                  zůschaffen ghan. Sj trenntend sich von der
+                                                  kristenlichen kilchen umb zweyer ursachen.
+                                                  Einsteils das sy ab den lehreren vil zů klagen
+                                                  hattend, vüruß ab dem Ceciliano<note type="editorial"> Caecilianus, Bischof von
+                                                  Karthago</note>, der wider ihren willen bischoff
+                                                  worden, klagtend sy vil. Anders theils das die
+                                                  kirchen nit lutter syg, da wöllend sy sich von
+                                                  ihnen sünderen, domitt sy nit durch frömbde sünd
+                                                  verunreiniget wurdind. Sj gabend vür, by ihnen in
+                                                  Affrica, wie ietz in <placeName ref="Mähren">Merherren</placeName>, syg alein die kristenlich kirch,
+                                                  als die ohne mackel und maßen syge. Sy taufftend
+                                                  auch wider, welche von den<note type="critical">In
+                                                  der Vorlage: denn</note> rechtgloübigen zů ihnen
+                                                  thratten.<note type="critical">Folgt Reklamant:
+                                                  die</note> | [fol. 7r] Die oberkeit habe nit
+                                                  gwalt, deß glaubens halb ettwar<note type="editorial"> jemand</note> zestraffen. Wyl sy
+                                                  nun die oberkeit mitt gfangenschafft und jn ander
+                                                  weg strieff, do růmtend sy sich, sy werend rechte
+                                                  martterer, wyl sy verfolget werdind. Aber der h.
+                                                  Augustin<persName ref="Augustinus"/> gab jhnen
+                                                  antwort mitt deß herren wort, selig sind die, so
+                                                  verfolgt werdend umb der grechtigkeit wyllen, nit
+                                                  umb deßwillen, das sy die ainigkeit der
+                                                  kristenlichen kirchen zerthranntend. Sy warend
+                                                  auch wider den eidtschwur. Vil umb inen hieltend
+                                                  nitt recht von der h. dryfaltigkeit, wie auch
+                                                  ettlich der wyderthaüfferen in dem artcikel nit
+                                                  recht haltend. In summa, die donatistisch seckt,
+                                                  so in ettlichen synodis ordenlich verdampt, wirt
+                                                  durch diese lüt ernüweret.</p>
+                                                  <p>Die Eunomianer<note type="editorial"> Die
+                                                  Heterousianer lehnten die im Bekenntnis von Nicäa
+                                                  gelehrte Wesensgleichheit des Vaters und des
+                                                  Sohnes ab. Ihr führender Vetreter war Eunomius
+                                                  (gest. um 395)<persName ref="Eunomius"/>.</note>,
+                                                  so von der heiligen dryfaltigkeit nit recht
+                                                  ghalten, habend die, so von rechtgleübigen
+                                                  getaufft worden, wider taufft.</p>
+                                                  <p>So sind sy auch rechte Pelagianer<note type="editorial"> Benannt nach Pelagius (gest. um
+                                                  418/420)<persName ref="Pelagius"/>, der die
+                                                  Willensfreiheit betonte.</note> jmm artickil von
+                                                  der grechtmachung unnd<note type="critical">Folgt
+                                                  Reklamant: vom</note> | [fol. 7v] vom fryen willen
+                                                  deß mentschen.</p>
+                                                  <p>So sind sy auch Novatianer<note type="editorial"> Anhänger des römischen
+                                                  Gegenbischofs Novatian (gest. um 258)<persName ref="Novatian"/>.</note> in dem, das sy dem
+                                                  rüwenden sünder, so er zum anderen mal in dsünd
+                                                  falt, jtem denen, so sich im thodbeth erst
+                                                  bekehrend oder umb ihrer sünden willen gricht
+                                                  werdend, die gnad gottes unnd verzichung der
+                                                  sünden abschlachend.</p>
+                                                  <p>Uß disem kann ein jeder wol verstahn, dz der
+                                                  taüfferisch gloub by den rechtgloübigen nie
+                                                  gwesen, sonder von den seckteren und faltschen
+                                                  lehrer sige gehalten worden und sige deßhalb uß
+                                                  jüdischer apostützlerej<note type="editorial">
+                                                  Aberglauben, Heuchlerei, Id. I, 363.</note> uß den
+                                                  alten seckten, so ordenlich vor langest verdampt
+                                                  und verworffen sind, ein zůsamen gleßner
+                                                  glaub.</p>
+                                                  <p>II. Für das annder ist die Frag, was die ursach
+                                                  seige, das zů unnseren zeitten das vertrochen feür
+                                                  so gar wider ußbrech, das ist der taüfferisch
+                                                  gloub so gar überhand nemme? Wie das unkrut
+                                                  imm<note type="critical">Folgt Reklamamt:
+                                                  garten</note> | [fol. 8r] gartten, so man nit
+                                                  weert, glich überhand nimpt, also gaht es mit der
+                                                  faltschen lehr imm gartten deß herren auch. Dorumb
+                                                  kein wunder ist, das die taüffer überhand nemmen,
+                                                  dan man ihen bißhar mitt keinem rechten ernst
+                                                  gwert hat, wie offtermaalen man das inn synodis
+                                                  vürbracht hatt, so hat man doch wenig in das werck
+                                                  mögen bringen. Dann sy allwegen ihre fürmünder
+                                                  ghan, die ihnen bstanden sind und recht geben.
+                                                  Allen unglimpff<note type="editorial">
+                                                  Unangemessenheit, Mangel an Nachsicht, Id. II,
+                                                  625.</note> hat man uff die predigkanten gleit,
+                                                  als ob sy uß findschafft und angfochtner wyß sich
+                                                  ihnen widersetzind. Da man sy nit umb deß lebens,
+                                                  sonder umb der lehr wyllen die faltsch straafft
+                                                  und widerspricht, den underscheid wil in vil lüt,
+                                                  ja der mehrtheil (so im glauben nit recht gründt
+                                                  sind) nit verstand, so gebendts ihnen bstandt und
+                                                  fürschub<note type="editorial"> Beihilfe, Id.
+                                                  VIII, 84.</note>, sterckendts hiemit in ihren
+                                                  yr­thumnben, mitthin dan aber verachtend sy ihren
+                                                  großen unverstand, den sie<note type="critical">In
+                                                  der Vorlage: sin</note> in glaubens sachen
+                                                  habend.</p>
+                                                  <p>Das leben<note type="critical">Folgt Reklamant:
+                                                  inn</note> | [fol. 8v] inn glaubens sachen ist nit
+                                                  gnug. Die lehr můß auch uffrecht sin, sonst
+                                                  werdend die phariseer und zů unnseren zeitten die
+                                                  jesuiter und caputziner, die auch ein ußeren schin
+                                                  der frombkeit fuͤrend, weit den vortzug haben. Ahn
+                                                  deren schin der erbarkeit kehrend wir unnß nit,
+                                                  will ihr lehr faltsch ist. Es wurdend auch vil der
+                                                  heiden jmm himel den vortzug haben. Aber ihre
+                                                  thugenden sind nit uß wahrem glauben hergfloßen,
+                                                  will sy nützid von gott gwüßt.</p>
+                                                  <p>Warumb machen wir in disem faal nit auch gliche
+                                                  rechnung? Do man glichsfaals grůndtlich weißt, das
+                                                  sy nit in wenigen, sonnder in vilen, ja in denn
+                                                  hauptpunckten christenlicher religion (doch einer
+                                                  mehr den der ander, will sy in vil seckten
+                                                  getheilt sind) groblich und griffenlich jrend und
+                                                  (wie vor ghört) alte seckten wider uff dban
+                                                  bringend, ja das auch ihr lehr zů anderst<note type="critical">Folgt Reklammant: nit</note> |
+                                                  [fol. 9r] nit den zů zerrüttung gmeiner
+                                                  policej<note type="editorial"> öffentliche
+                                                  Ordnung, vgl. <hl to="http://fwb-online.de/go/policei.s.1f_1709446281"><Hyperlink>http://fwb-online.de/go/policei.s.1f_1709446281</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> reich
+                                                  und mittler zeit reichen werde, wie das unnsere
+                                                  fromme altvorderen mitt großem schaden erfahren
+                                                  und wir noch mitt größerem (zů besorgen) erfaren
+                                                  möchtend, wo nit ein großer ernst gebrucht wirt.
+                                                  Sy zwaar beschemend sich der alten taüfferen, wend
+                                                  sich auch keins wegs beston, das sy ihrer meinung
+                                                  sygend. Aber im grund fuͤrend sy gliche meinungen
+                                                  und lehren. So habend auch dieselben anfencklich
+                                                  nit minder ein geistlichen schin der frommkeit
+                                                  gefuͤrt, als wol als sy. Aber da ihnen lufft und
+                                                  platz worden, ist der taüfferisch geist ußbrochen,
+                                                  und was sy angricht, ist noch nit vergeßen. Was
+                                                  unsere, so sy fürbrechen wurdind, anfachen
+                                                  möchtind, kann ein jeder verstendiger wol
+                                                  urtheilen, jn ansechen, das sy gleiche meinungen
+                                                  mitt den alten taüfferen der oberkeit, eidtschwur,
+                                                  gmeinschafft<note type="critical">Folgt Reklamant:
+                                                  der</note> | [fol. 9v] der guͤtter, zins und
+                                                  zehenden halb haltend, welches alles zů uffrůr,
+                                                  zerrüttung der regiment fürderlich artickel sind.
+                                                  Insonderheit das sich ein großer huff verdorben
+                                                  volcks zu ihnen schlachen möchte, wie unnß dann
+                                                  gar thrülich meister <persName ref="Bullinger, Heinrich">Heinrich Bullinger</persName> selig (den sy nach
+                                                  seinem thodt schmechend) by sinem leben in letst
+                                                  ahn einem synodo gewarnet hatt und vermant,
+                                                  hierin<note type="critical">In der Vorlage:
+                                                  herin</note> wyßlich fürsechung zůtůn.</p>
+                                                  <p>Dwyl man nun uff diße ding kein achtung gibt,
+                                                  deß glaubens und was uß jrhsaal mittler zeit
+                                                  ervolgen möchte, kein rechnung hatt, auch nit
+                                                  betracht, wie hochlich man gott, mitt demm das man
+                                                  faltsche lehr gestattet, nach wytter nebendt
+                                                  unnserem sündtlichen leben zum zorn reitze, so ist
+                                                  kein wunder, dz die taüfferisch seckt ußbricht und
+                                                  überhand nimpt. Da sol man nun den brunnen
+                                                  verstopfen und mitt ernst wehren und nit mitt
+                                                  glimpffen<note type="editorial"> grosse Nachsicht
+                                                  üben, Id. II, 627.</note> den ­toüf­feren fürschub
+                                                  geben und hiemitt eins<note type="critical">Folgt
+                                                  Reklamant: theils</note> | [fol. 10r] theils
+                                                  unseren gegen gott, sin wortt und seinem lehreren
+                                                  und dieneren unwillen ertzeigen, ander theils
+                                                  unsern in glaubens sachen unverstand
+                                                  verrathen.</p>
+                                                  <p>III. Die dritt fraag ist, was doch allerlej lüt
+                                                  und beiwylen gůtthertzige hinder die taüfferische
+                                                  seckt bringe.<note type="editorial"> einen zu
+                                                  etwas bringen</note> Da ist sich nit unbillich zů
+                                                  verwundern und der sach nachzedencken, einstheils
+                                                  domitt kommliche mittel erfunden werdind,
+                                                  anderstheils wyl by unnsern eidt- und pundtsgnoßen
+                                                  von <placeName ref="Genf">Genff</placeName> wie auch in
+                                                  anderen frantzösischen kirchen, die doch von
+                                                  unseren kirchen den ursprung habend, keine
+                                                  taüffer, ja nun keine antzeigung nit der
+                                                  taüfferschafft sich befindt, bej unnß aber nichts
+                                                  gmeiners ist.</p>
+                                                  <p>1. Erstlich das verdorben weßen in statt und
+                                                  land, demm man nun zů lang zůgsechen, ist nit die
+                                                  wenigist ursach, das vil lüt taüfferisch werdend.
+                                                  Dan die erfarung betzüget, das sich mehrenteils
+                                                  der taüf<note type="critical">Folgt Reklamant:
+                                                  ferej</note>| [fol. 11r]ferej annemmend, die das
+                                                  ihren vorhin verthon oder zů verhofften ehren unnd
+                                                  empteren nit mögend kommen.</p>
+                                                  <p>2. Hiernebend kommend auch vil darhinder uß
+                                                  gůttem aber unwüßenden yfer, dan wil sy enge
+                                                  gewüßne habend unnd aber mehr uff ihre eigen
+                                                  verdienst dann uff den verdienst Christi setzend,
+                                                  da wend sy auch mehr thůn dan annder lüt, fachend
+                                                  ahn diesselbigen schüchen, erwellend ein nüwen und
+                                                  selbs erdachten gottsdienst. Deren lütten sind zů
+                                                  allen zytten vil geweßen, das wo sy imm glauben
+                                                  nit wol underrichtet worden, sind sy groß
+                                                  apostützler<note type="editorial"> abergläubischer
+                                                  Mensch, Heuchler, Id. I, 363.</note> worden. Also
+                                                  hatt dise engechse<note type="editorial">
+                                                  Ängstlichkeit, Engherzigkeit, Id. I, 75.</note>
+                                                  und verthruwen eigner verdienst und frombkeit vil
+                                                  einsidler und münchen zů allen zeitten gemacht und
+                                                  macht vil taüffer.</p>
+                                                  <p>3. Die hauptursach aber dises alles, wie vor
+                                                  zům theil gemeldet, ist, das die welt in glaubens
+                                                  sachen nit wol erbuwen<note type="critical">Folgt
+                                                  Reklaman: ist</note> | [fol. 11r] ist, dann sonnst
+                                                  wurdend sy sich weder die taüffer noch andere
+                                                  seckten verfuͤren laßen. Wen nun die taüffer an
+                                                  sömliche lüt kommend, die ein jfer, aber den grund
+                                                  deß glaubens nit habend, da werdend sy licht
+                                                  berredt, kumpt sy der schwindelgeist ahn, der
+                                                  macht sy verwirrt, fallend also uß einem jrrthumb
+                                                  in den annderen und wöllend ihren gfaßten wohn
+                                                  hartneckentlich beschirmen, beredend sich selbs,
+                                                  man wölle sy von der frombkeit thriben, da man sy
+                                                  nit umb der frombkeit, sonder umb faltscher lehr
+                                                  willen straaft und schilt. Und in solichem
+                                                  gefaßten wohn gefallen sy ihnen selbs sowohl, das
+                                                  sy auch allerlei gfaaren, gefangenschafft,
+                                                  verwysung in das ellend und den thodt byweilen
+                                                  willig ußstond.</p>
+                                                  <p>Dartzů hilfft in sonderheit, das man kein
+                                                  rechte kirchenzucht hatt, deren man mitt großem
+                                                  schaden manglet. Ein jetlichen laßt man glauben
+                                                  und thůn, was er will.<note type="critical">Folgt
+                                                  Reklamant: von</note> | [fol. 11v] Von keinem
+                                                  forderet man rechenschafft sins glaubens, ehe man
+                                                  in zum nachtmaal deß herren laßt, wie es aber in
+                                                  anderen kirchen ein loblicher nutzlicher bruch
+                                                  ist. Da mögend in sölcher unordnung die taüffer
+                                                  mitt huffen fürkommen.</p>
+                                                  <p>IIII. Uß disen ertzelten ursachen werdend alle
+                                                  verstendige lehrer und oberen wol können erkennen,
+                                                  mitt was mittlen der taüfferschafft nutzlich möge
+                                                  gweert werden und warumb alles wehren bishar nüt
+                                                  verfangen.</p>
+                                                  <p>Ich will aber hie, was anndere von gmeiner
+                                                  reformation und verbeßerung im leben geistlichs
+                                                  und weltlichs standts durch offne mandata und
+                                                  edickt wyßlich und wol laßen ußgon, berůwen laßen
+                                                  und mit fliß überschritten und alein die mittel
+                                                  ahnzeigen, mitt denen ihnen mag geweert und
+                                                  gholffen werden und vürkommen<note type="editorial"> verhüten, vorbeugen, Id. III,
+                                                  278.</note>, das dise schedliche seckt nit wytter
+                                                  ußbrech. Dan ein allgmeine verbeßerung deß lebens
+                                                  alein nit gnůg-<note type="critical">Folgt
+                                                  Reklamant: sam</note>| [fol. 12r]sam ist, die
+                                                  taüfferschafft abzůschaffen, wo nit auch der
+                                                  mangel ahn ihren verbeßeret wirt.</p>
+                                                  <p>1. Derhalben der taüfferej rechtgschaffen zů
+                                                  wehren wer anfengcklich gůtt, das man die
+                                                  satzungen wider das liederlich und verthuͤgig
+                                                  leben und wesen ernstlich handthabete.</p>
+                                                  <p>2. Demnach und vüruß das man den kinderbricht
+                                                  in statt und land fleißig halte und die welt in
+                                                  articklen deß glaubens wol underrichte, domitt die
+                                                  predig nit uff den schin, sonder uff die erbuwung
+                                                  gricht syge. Das man vom glauben nit als von einem
+                                                  jtelen wahn, der vil wüßen rede, sonnder den
+                                                  lebendig machenden glauben fleißig beschribe, die
+                                                  werck als wahre frücht und ahnzeigungen deß
+                                                  glaubens (ohn die er thod) mit ernst erfordere. So
+                                                  man wider die laster prediget, das nit alein uff
+                                                  philosophische wyß dorwider gredt wird, sonnder
+                                                  uff den brunnen gsech, die recht wider<note type="critical">Folgt Reklamant: geburt</note>-|
+                                                  [fol. 12v]geburt tribe, dordurch dann alle laster
+                                                  nach und nach hinfallen wurdend. Wen man die lehr
+                                                  mitt söllichem jfer fůrte, do möchte denen, so
+                                                  durch ihr enge und beschwerte gwüßne hinder die
+                                                  taüfferschafft kommend, geholffen und gewehrt
+                                                  werden.</p>
+                                                  <p>3. Danethin wer gar nutzlich, das ein rechte
+                                                  kirchen zucht, durch die die sünder zur bůß
+                                                  vermant und gestraafft werdend, angsehen<note type="editorial"> anordnen, festsetzen, Id. VII,
+                                                  555f.</note> und in das werck bracht wurde.</p>
+                                                  <p>4. Item das nach anderer kirchen bispil von eim
+                                                  jetlichen jerlich sins glaubens rechenschafft
+                                                  erforderet wurd, ehe man inn zum nachtmal deß
+                                                  herren ließ. Da wurde demm unverstand wißlich
+                                                  gweert. Dan durch sömlich mittel wurde menger mehr
+                                                  im glauben erbuwen werden, den so er vil predigen
+                                                  hört und aber denen nit nachsinnet. Man köndt auch
+                                                  also kummlich<note type="editorial"> bequem, vgl.
+                                                  <hl to="http://fwb-online.de/go/komlich.s.4adj_1709387746"><Hyperlink>http://fwb-online.de/go/komlich.s.4adj_1709387746</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> erfaren,
+                                                  wo faltsche oder jrrige meinungen jn lüten
+                                                  stecktind, denen man dann ohne wyttere ergernuß
+                                                  wehren und begegnen möchte.<note type="critical">Folgt Reklamant: und</note> | [fol. 13r]</p>
+                                                  <p>5. Unnd domitt sich niemandt zůklagen hett,
+                                                  möchte ein ersamme oberkeit ein allgemeine frye
+                                                  disputation (zů und von deren sicher gleit geben
+                                                  wurde) ahnsechen und ordnung geben, das do alles
+                                                  schmechen, schentzelen<note type="editorial">
+                                                  verspotten, Id. VIII, 986.</note> und schelten der
+                                                  personen beider partyen zum höchsten verbotten
+                                                  wurde, sonder das man alein von den streittigen
+                                                  articklen uß göttlichem wort mitt aller
+                                                  bscheidenheit handlete, wie dann allhie<note type="editorial"> In Zürich fanden 1525 drei
+                                                  Täufergespräche statt, das letzte vom 6. bis 8.
+                                                  November.</note> und zů <placeName ref="Zofingen">Zoffingen</placeName> glichs faals sind gehalten
+                                                  worden<note type="editorial"> Vgl. das gedruckte
+                                                  Protokoll (VD16 H 501) und die kritische Edition
+                                                  (QGTS 4, S. 67-256).</note> und verschinen 1571.
+                                                  jars <persName ref="Friedrich III. von der Pfalz">pfaltzgraaffen Fryderich</persName>, churfürst
+                                                  loblicher gedechtnuß, eine in aller besten und
+                                                  vollkommnesten form zů <placeName ref="Frankenthal">Franckenthaal</placeName> mit den wyder­toüf­feren
+                                                  gehalten hatt, wie dann die ackta inn offnem druck
+                                                  verhannden.<note type="editorial"> Protocoll. Das
+                                                  ist/ Alle handlung des Gesprechs zu Franckenthal
+                                                  inn der Churfürstlichen Pfaltz /mit denen so man
+                                                  Widertäuffer nennet/ Auff den 28. May angefangen/
+                                                  und den 19. Junij dises 1571. jars geendet.
+                                                  Heidelberg 1573 (VD16 P 5106).</note></p>
+                                                  <p>6. Nach gehaltner dispuation und erhaltner
+                                                  waarheit sol und mag dann ein christenliche
+                                                  oberkeit jren von gott gegebnen gwalt bruchen,
+                                                  fürnemmlich aber<note type="critical">Folgt
+                                                  Reklamant: wyder</note> | [fol. 13v] wyder die
+                                                  lehrer unnd redlifuͤrer, durch die fromm einfaltig
+                                                  lüt verfuͤrt werdend, sy mit gefangeschafft,
+                                                  verwysung uß statt und land oder in annderweg jrem
+                                                  verdienen nach straaffen. Insonders sol ein
+                                                  oberkeit ein großen ernst bruchen wider die
+                                                  uffwigler, so uß <placeName ref="Mähren">Merherren</placeName> heruff kommend, die alles unraats rechte
+                                                  hauptsecher<note type="editorial"> Haupttäter,
+                                                  Hauptschuldiger, Id. VII, 130.</note> sind,
+                                                  schedlche wölff, so üwer biderbe underthonen mitt
+                                                  faltscher lehr vergifften, die ehen zertrennen,
+                                                  die kind den elteren entfuͤrend, hergegen die
+                                                  elteren von kinden hinweg fuͤrend und ein
+                                                  ungehorsam volck machend und gmeines landts
+                                                  verderben nit die wenigist ursach sind. Denn sy
+                                                  nit fast die bettler hinweg fuͤrend; die laßend sy
+                                                  hie bliben, sonnder wo sy ettlich findend, die
+                                                  nach ettwas habend und gern werckend, die machend
+                                                  sy ufflüpfig und fuͤrend sy in geistliche und
+                                                  libliche knechtschafft, wie das alle die jenigen,
+                                                  so landts kündig, <note type="critical">Folgt
+                                                  Reklamant: mitt</note>| [fol. 14r] mitt der
+                                                  waarheit betzügen könnend. Dartzů sol und kann ein
+                                                  christenliche oberkeit nit zůsechen, sonder ihrer
+                                                  underthonen in demm faal ein beßere rechnung
+                                                  haben, füruß will die erfarnuß mitt bringt, das
+                                                  mitt ihrem hinweg fuͤren der bettel gemehrt und
+                                                  vil verdorbner lütten gmacht werdend. Dan von
+                                                  vilen offentlich ghört, gsicht und gspürt wirt, dz
+                                                  sy uff das Merherren land huß habend<note type="editorial"> haushalten, wirtschaften, vgl.
+                                                  <hl to="http://fwb-online.de/go/haushaben.s.3v_1647589496"><Hyperlink>http://fwb-online.de/go/haushaben.s.3v_1647589496</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, wen sy
+                                                  das ihren verthon, wöllend sy hinweg züchen, syg
+                                                  inen ein gůt lannd. Hilfft das nicht zů gmeinem
+                                                  verderben? Man gsicht auch teglich, das deren vil,
+                                                  so das ihren hie verkaufft und abhinzogen sind, do
+                                                  ihnen der orden<note type="editorial"> Die
+                                                  Gemeinschaft der Täufer wurde polemisch auch als
+                                                  Tauforden bezeichnet.</note> zů schweer wöllen
+                                                  werden, sigind wyder heruff kommen mitt lehren
+                                                  henden. Ettlich habend ire kind, ettlich ihre
+                                                  wyber doniden sitzen laßen, wüßend nit, wie es
+                                                  inen gang, gond den hie in statt und land umbhin
+                                                  gen bettlen, die sich vor deß bettels hie wol
+                                                  hettend mögen erweeren, wen sy<note type="critical">Folgt Reklamant: hettend</note> |
+                                                  [fol. 14v] hettend wellen wercken und den taüffern
+                                                  nit geloßet. Drumb billich ein oberkeit wider
+                                                  soliche lüt ein ernst bruchen sol.</p>
+                                                  <p>Da weiß ich wol, das vil sind, die inen in
+                                                  disem faal ein gwüßne machend, fürchtend sy
+                                                  möchtend sich versündigen, wen sy ettwas thatlichs
+                                                  wider die taüffer, die sy als fromme lüt achtend,
+                                                  wöltind vürnemmen. Warumb man nit als meer die
+                                                  eebrecher, spiler, suffer etc. straaft als dise
+                                                  fromme lüt? Daruff ist kůrtz die antwort:
+                                                  Zwüschent ußerlicher frombkeit und faltscher lehr
+                                                  ist ein großer underscheid. Wider schand und
+                                                  laster hatt man gůtte satzungen und ordnungen, die
+                                                  sol man auch billich wider faltsche lehr halten.
+                                                  Straafft nun die oberkeit sünd, schand und laster
+                                                  nit, so thůnd sy ihrem ampt nit gnůg. Volgt drumb
+                                                  glichsfals nit, das faltsche lehr sol ungestrafft
+                                                  bliben, weliche nit minder als offentliche laster
+                                                  schedlich und zů flüchen<note type="editorial">
+                                                  fliehen</note>
+                                                  <note type="critical">Folgt Reklamant: sind</note>
+                                                  | [fol. 15r] sind, all diewyl sy mitt ihrer
+                                                  gifftigen lehr vil seelen vergifftend und vom
+                                                  verdienst Christi uff ihr selbs verdienst wysend
+                                                  verfuͤren. Dan gott ahn faltscher lehr als wol als
+                                                  ahn ergerlichem leben mißfallen hatt, wie er
+                                                  Apcal. 2, do er alle laster an der kirchen
+                                                  gestraafft, sich jnsonders ab zweyen kirchen der
+                                                  faltschen leer halb klagt: ab der kirchen zů
+                                                  <placeName ref="Pergamon">Pergamen</placeName>, dz sy der
+                                                  Nicoälitter seckt platz geben<note type="editorial"> Offb 2,15</note>; ab der kirchen
+                                                  zů Thytirj, das sy nach jesabelischer gattung die
+                                                  recht glaubigen verfuͤren laßen.<note type="editorial"> Offb 2,20</note> So sind
+                                                  derhalben faltsche lehren (wyl sy der straff gotts
+                                                  zeichen und straaffen sind) abzůwenden und gar nit
+                                                  zů liden.</p>
+                                                  <p>Es söllend alle waare, der worheit und deß
+                                                  rechten yffers liebhanden christen die taüffer nit
+                                                  minder schüchen und flüchen, als die, so ein
+                                                  offentlich ergerlich leben fuͤrend, vor denen man
+                                                  sich lichtlich huͤtten und bewahren kann. Vor
+                                                  disen aber<note type="critical">Folgt Reklamant:
+                                                  ist</note> | [fol. 15v] ist sich nit so lichtlich
+                                                  zů vergaumen<note type="editorial"> sich vor etwas
+                                                  hüten, Id. II, 303.</note>, dan sy mitt demm
+                                                  ußeren schin gůtthertzig lüt verblendend,
+                                                  mitthinzů mitt ihrer faltschen lehr verwirrend und
+                                                  verfuͤrend sy die armen gwüßnen. Derhalben sy als
+                                                  seelen mörder under einer christenlichen oberkeit
+                                                  nit zůgestatten sind, sonder nach gebür zů
+                                                  straaffen. Es wölle dan ettwer<note type="editorial"> jemand</note> den glauben ein
+                                                  mittel ding achten, es gelte glich, was einer
+                                                  glaub, welches kein rechtglöubiger zůlaßen
+                                                  wirt.</p>
+                                                  <p>Und warumb solt man nit die rüche gegen ihnen
+                                                  bruchen, diewil guͤte unnd früntligkeit ahn ihnen
+                                                  nit verfacht? Da so man sy glich uß göttlichem
+                                                  wort brichten will, wöllend <note type="editorial"> trotzig, zänkisch, Id. III,
+                                                  105.</note> wyß uff ihrer meinung verharren und
+                                                  ihren verstand behalten. Der můß alein gelten,
+                                                  alle anderen jrrind, sy allein habind recht. Und
+                                                  diser ihrer kib<note type="editorial"> Zank,
+                                                  Streit, Id. III, 106.</note> sol ein jffer heißen.
+                                                  Der entschuldiget sy aber nit, dan sy habend wol
+                                                  ein yffer, aber nit nach der wüßenheit, wie auch
+                                                  Pauly<note type="critical">Folgt Reklamant:
+                                                  vor</note><persName ref="Paulus">sy kybiger</persName> | [fol. 16r]
+                                                  vor siner bekeerung ghan. Er nempt aber ein
+                                                  solichen yffer ein gottslesterung 1. Tim. 1.</p>
+                                                  <p>Wie kann man söliche lüt schirmen, die in
+                                                  geistlichem und weltlichen regiment unordnung
+                                                  anrichtend? Dann sy die einigkeit der
+                                                  christenlichen kirchen thrennend und zerrißend,
+                                                  drumb das man ihren kib und glichsnerj<note type="editorial"> Heuchelei</note> nit will gelten
+                                                  laßen. Umb der armen sünderen willen verdammend sy
+                                                  vermeßner wyß gantze kirchen, stond uff ohn allen
+                                                  ordenlichen brůff zůpredigen, und auch inn
+                                                  frömbder herschafft underwindend<note type="editorial"> wagen, sich erdreisten, XVI,
+                                                  574.</note> sy sich des gwalts, sind derhalb selbs
+                                                  gloffne prophetten. Zwaar in keinem weltlichen
+                                                  gricht und regiment oder recht, wie klein die
+                                                  werind, wurd man soliche unordnung, selbströstne
+                                                  vermeßenheit liden - worumb wolt mans dann von
+                                                  inen liden in der kirchen gotts, da es alles
+                                                  ordenlich sol zůgon?<note type="critical">Folgt
+                                                  Reklamant: was</note> | [fol. 16v] Was sy uff der
+                                                  oberkeit habind, ertzeigend sy mit dem, das sis
+                                                  nit vür christenlüt wöllend erkennen. Wie ghorsam
+                                                  sy ihnen sigind, erwysend sy mit dem, das sy den
+                                                  eid, das band der ghorsamme, uffhebend, ihre
+                                                  gebott und verbott verrachtend, und der oberkeit
+                                                  trutzlich dörffen fürschriben, wie sy sich gegen
+                                                  inen sollend halten. Sy wöllend, ein oberkeit söll
+                                                  sy schirmen. Hergegen nemmend sy der oberkeit das
+                                                  schwert uß der hand. Falt sy krieg ahn, so wöllend
+                                                  sy die oberkeit nit schirmen, schrygend, ein
+                                                  christ söl nit kriegen, verlaßend also nit nun vür
+                                                  ihr person die oberkeit in der noth, sonder
+                                                  machend mitt solicher faltscher meinung auch ander
+                                                  lüt unwillig. Warumb solt dann nit ein oberkeit
+                                                  gwalt haben, sy zů straaffen, so kein bricht ahn
+                                                  inen hilfft? Was wurde zů letst druß, wan man ein
+                                                  jeden solt glauben<note type="critical">Folgt
+                                                  Reklamant: laßen</note> | [fol. 17r] laßen, was er
+                                                  wolt? Hatt man nit ein allgmeine confession deß
+                                                  glaubens bj deren wir zůbliben versprochen und
+                                                  globt und hiemit bezüget, das wir mitt keinen
+                                                  seckten etwas gmeins habind? Worumb woltend wir
+                                                  dann unß gegen aller welt verdechtig machen, als
+                                                  wen by unnß alle seckten platz habind? Worumb
+                                                  woltend wir unß sölche lüt die confession laßen uß
+                                                  den henden rißen, ein nüwen glouben und
+                                                  gottsdienst fürschriben? Da sol man warlich ernst
+                                                  bruchen. Und das seige gredt, wie man sich gegen
+                                                  lehreren und redljfuͤreren halten sölle.</p>
+                                                  <p>Gegen denen aber, so verfuͤrt, sol man
+                                                  bscheidenlicher faren, doch inen ihren kib nit
+                                                  laßen, vil minder das man ire winckel predigen und
+                                                  zůsamenkommnußen gestatte, sonder so sy nit mitt
+                                                  willen zů der predig gon wend, das sy mit
+                                                  geltstraaff dartzů<note type="critical">Folgt
+                                                  Reklamant: triben</note> | [fol. 17v] triben
+                                                  werden. Dann wyl sy mehrteils all geittig<note type="editorial"> geizig</note>, fürchtend sy die
+                                                  geltstraff mers dann die gfangenschafft. Es
+                                                  wüßtend auch noch die alten heren dorvon bricht
+                                                  zůgeben, das do man bj unseren vetteren zeitten sy
+                                                  angfangen ahn seckel straaffen, mehr den mit der
+                                                  gfangeschafft zůr ghorsamme sigind bracht worden.
+                                                  Es betzüget s[anct] Augustin ahn mer ortten, das
+                                                  er an den donatisten vilfaltig erfahren, das
+                                                  zwingen zum gůtten nutzlich syge.<note type="editorial"> Vgl. u. a. Aurelius Augustinus,
+                                                  Epist. 185 (CSEL 57).</note> Dan do vil anfangs uß
+                                                  zwang zur kirchen gangen, hernoch gott so vil gnad
+                                                  geben, das sy ihren yrthumb erkendt und freiwillig
+                                                  zů der kirchen gangen sigind. Also hoffen ich, das
+                                                  durch sölich und derglichen mittel möge der sachen
+                                                  geholffen werden.</p>
+                                                  <p>End.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Dietikon</p>
+    </back>
+  </text>
+</TEI>

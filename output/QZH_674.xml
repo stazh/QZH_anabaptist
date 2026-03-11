@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_674</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_674</idno>
+          </msIdentifier>
+          <head>Zweites Verhör von Jörg Riedel und Heinrich Pfister</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 525</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p> <persName ref="Bäumler, Markus">Marx Böümler</persName> und herr <persName ref="Waser, Kaspar">Caspar
+                                                  Waser</persName> sampt
+                                                  m[eister] Hanns <persName ref="Wolf, Hans Ulrich">Ůlrich Wolffen</persName>, m[eister] Hans Jacoben
+                                                  Hottingern<note type="editorial"> Hans Jakob
+                                                  Hottinger (1552-1605), Ratsherr freier Wahl,
+                                                  folgte im Amt Gerold Escher, der am 5. Juli 1596
+                                                  gestorben war.</note><persName ref="Hottinger, Hans Jakob">Nachdem herr</persName> und den beiden
+                                                  herren nachgengeren widerumb zů<note type="critical">«zů» über der Zeile</note> <persName ref="Riedel, Jörg">Jörgen
+                                                  Riedel</persName> uß dem
+                                                  <placeName ref="Allgäu">Algöüw</placeName> jnn den
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  keert, und die heren gleerten mit jmme
+                                                  fürnemlichen von den vier articlen namlich,
+                                                  dz<note type="critical">«dz» über der Zeile, in
+                                                  der Zeile gestrichen: ob ein</note> die
+                                                  christenlich kilchen an andere frömde ort
+                                                  keine<note type="critical">«keine» über der
+                                                  Zeile</note> leerer noch<note type="critical">«noch» über der Zeile, in der Zeile gestrichen:
+                                                  und</note> prediger<note type="critical">Folgt
+                                                  gestrichen: ohne</note> ohne vorgangnen berůff
+                                                  schiken sölle<note type="critical">Folgt
+                                                  gestrichen: oder möge</note>, jtem dz ein frommer
+                                                  christ nebent anderen<note type="critical">Folgt
+                                                  gestrichen: gottloßen</note>, ob die glychwol ein
+                                                  ergerlichs läben fhürend, zů dem tisch des<note type="critical">In der Vorlage eine Ligatur (wie
+                                                  eine lange 8)</note> herren gan und dz ouch der
+                                                  fromm einem<note type="critical">Folgt gestrichen:
+                                                  unfrommen</note> prediger, so glychwol synes
+                                                  läbens halb sich ergerlich halte und aber
+                                                  darnebent<note type="critical">«so glychwol …
+                                                  darnebent» am Rand mit Verweiszeichen, in der
+                                                  Zeile gestrichen: so feer das er</note> dz wort
+                                                  gotts unverfeltscht leert, zůhören möge, zum
+                                                  driten dz allhie und nit jn Meerherrn die recht
+                                                  kilchen sye und letstlichen deß eydschwurs halber,
+                                                  sprech gehalten.</p>
+                                                  <p>Und obglychwol sölliches alles durch vorermelte
+                                                  beyde heren predicanten mit gnůgsammen exemplen
+                                                  und gründen uß heylliger schrifft erhalten<note type="editorial"> durch Gründe erweisen, Id. II,
+                                                  1232.</note> worden, jst er<note type="editorial">
+                                                  Jörg Riedel</note> doch uff syner letzen<note type="editorial"> verkehrt, Id. III, 1549.</note>
+                                                  meynung beharret.</p>
+                                                  <p>Und als vermelte herren hernach <persName ref="Pfister, Heinrich">Heinrichen
+                                                  Pfister</persName>
+                                                  glychfals fürhand genommen<note type="critical">Folgt gestrichen: h</note> und uß göttlicher
+                                                  schrifft deß gloubens halber sprech mit jmm
+                                                  zuhalten begert, hat er doch schlechten bscheyd
+                                                  geben, und wenig grunts göttlichen worts by jmme
+                                                  funden worden. Ist auch entlichen dz syn bscheid
+                                                  gsyn:</p>
+                                                  <p>Wann wir allhie ein rechte leer fůrtend, wer er
+                                                  nit<note type="critical">Folgt gestrichen: von
+                                                  s</note> von siner gmeind ußtretten, welle ouch
+                                                  grad fyn rund anzeigt haben, das er nützit von den
+                                                  predicanten allhie zů leeren begere noch lernen
+                                                  welle. Sy sigind auch die bößen, dan wann ein gůte
+                                                  pfrund ledig, habind sy ein nachin louffen und
+                                                  supliciern<note type="editorial"> ein Bittgesuch
+                                                  stellen</note> an die oberkeiyt, dz sy selbs
+                                                  weeren söltind. Item wir mögind touffen, so lang
+                                                  wir wöllind, er aber well kein teill an unserm
+                                                  touff haben<note type="critical">«wir wöllind …
+                                                  haben» am Rand</note>. Deß herr Zwinglis seliger
+                                                  halben jst er erstlich noch becantlich gwesen, dz
+                                                  er kein biblische leer gfürt, letstlich aber, wie
+                                                  er es nit erhalten könen, sagt er<note type="critical">Folgt gestrichen: glych</note>, ob
+                                                  er glych ein rechte leer gfürt, habe man doch
+                                                  deren nit gfolget.</p>
+                                                  <p>Was <note type="editorial">
+                                                  Rudolf Gwalther</note><persName ref="Gwalther, Rudolf">herr Walterten</persName> seliger belanget, zeigt
+                                                  er an, als<note type="critical">Folgt gestrichen:
+                                                  fr</note> er von wegen, dz sy<note type="critical">«sy» über der Zeile</note> sich also sonderind,
+                                                  sprech mit jm gehalten, habe<note type="critical">Folgt gestrichen: er</note> h[er]r Walthert so
+                                                  gret, er möchte wol lyden, das man durch uß
+                                                  volkomner were und ein beßer läben fhuͤrte.</p>
+                                                  <p>Sonsten wan jr, myn gn[edig] h[erre]n, sy der
+                                                  gefangenschafft erledigind, begerind sy fort
+                                                  zůzüchen etc.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

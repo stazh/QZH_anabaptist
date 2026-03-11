@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_260</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_260</idno>
+          </msIdentifier>
+          <head>Hans Wunderli an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1563-11-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 111</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Fromm, vest, fürsichtig, ersam, wyß, insonders
+                                                  gnedig, lieb herenn, üwer ersam wysheit sigend min
+                                                  unnderthenig willig dienst yeder zit zuvor. Gnedig
+                                                  lieb herenn, allß jr mir geschriben von wegen
+                                                  <persName ref="Glettli, Andres">Anndersen Glettly</persName>, das ich üwer ersam wysheit brichten sölly, wie
+                                                  es sines gůtz halben gestalltend sige, daruff ich
+                                                  ein nachfrag by ettlichen personnen gehept, die um
+                                                  deß Glettlyß thůn unnd laßen woll wüßend. Die
+                                                  brichtend üwer ersam wysheit der gestallt, das er
+                                                  habe huß unnd hoffstatt, zwey manwerch<note type="editorial"> Flächenmass für Wiesland, Id.
+                                                  XVI, 1226.</note> an heuwachs<note type="editorial"> Wiese, Grasland, Id. XV,
+                                                  269.</note>, ein bünten<note type="editorial">
+                                                  eingezäuntes Pflanzland, Id. IV, 1401f.</note>
+                                                  daran man ein vierttel hanffsamen seit<note type="critical">In der Vorlage: set</note> unnd zů
+                                                  allen zellgen<note type="editorial"> Felder</note>
+                                                  sibenthalbe juchert acher. Ob disem allem gat
+                                                  vorhin zwey vierttel kernenn boden zinß und drig
+                                                  guldin gellts, sunst alles ledig unnd eygenn,
+                                                  darnach ettwas armen huß Röttlins. Darumb wellind
+                                                  üwer ersam wyßheit sölliche verschribung zů gůtter
+                                                  meinung verstann unnd uffnemenn.</p>
+                                                  <p>Dargegen allß üwer ersam wysheit mir teglich
+                                                  schribind von wegen Andereßen Guͤthen<persName ref="Gut, Andres"/> dem teüffer zů
+                                                  <placeName ref="Lunnern">Luneren</placeName>, das ich den
+                                                  selben üwer ersam wysheit gfencklich zů schicken
+                                                  sötte, so hannd doch ich und der frygamptßman
+                                                  alltag unnser gspech<note type="editorial">
+                                                  Nachforschung, Id. X, 76.</note> uff gemelten
+                                                  teüffer. Aber wir ine nach nie betreten können,
+                                                  wie wol wir unnser fliß und ernst anwendind unnd
+                                                  wandlet fill für und für um <placeName ref="Bremgarten">Bremgarten</placeName> umhin, wiewol sich üwer ersam
+                                                  wysheit sol zů mir versehen, wie bald mir ine
+                                                  bettreten mögend, üch zů schicken laßenn. Deße
+                                                  sond üwer ersam wysheit zů mir versehen. Dattum
+                                                  denn xx. tag wintermonat anno etc. lxiij jar.</p>
+                                                  <p rend="margin-top">Üwer ersam wysheit
+                                                  undertheniger williger diener, <persName ref="Wunderli, Hans">Hannß
+                                                  Wunderlich</persName>,
+                                                  obervogt zů <placeName ref="Knonau">Knonouw</placeName>.</p>
+                                                  <p rend="margin-top">Dem frommen, vestenn,
+                                                  fürsichtigen, ersammen unnd wyssenn herenn hern
+                                                  burgermeyster unnd rhat der statt <placeName ref="Zürich">Zürich</placeName>, minen in sonders günstigenn lieben
+                                                  herenn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

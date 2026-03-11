@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_791</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_791</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Ulrich Wolf (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1605-05-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 642</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, vor unns jst erschinnen
+                                                  der unser <persName ref="Hindermeister, Felix">Felix Hindermeister</persName> von <placeName ref="Opfikon">Opfiken</placeName>, dyn amptsangehöriger, unnd
+                                                  uns<note type="critical">Folgt gestrichen: bitten
+                                                  (Lesung unsicher)</note> berichten<note type="critical">«berichten» am Rand</note> laßen,
+                                                  demnach der ouch unser <persName ref="Wüst, Melchior">Melchior Wüst</persName> zů […]<note type="critical">In der Vorlage ein Spatium</note> selig mit tod
+                                                  abgangen unnd zween söhn, <persName ref="Wüst, Caspar">namblich Caspar</persName> und Mathyß, <persName ref="Wüst, Mathis">die
+                                                  Wüsten</persName>, verlaßen,
+                                                  denen syn gůt zůgefallen<note type="critical">Folgt gestrichen: und</note>, welliche beide söhn
+                                                  aber sich jnn <placeName ref="Mähren">Mehrherrn</placeName>
+                                                  begeben<note type="critical">Folgt gestrichen: und
+                                                  derselbigen</note>. Und diewyl aber vermelter<note type="editorial"> erwähnter</note> Mathyß Wuͤst,
+                                                  (so uß Mehrherrn alher khommen)<note type="critical">«(so uß … khommen)» am Rand mit
+                                                  Verweiszeichen</note> jnne, Hindermeistern (als da
+                                                  er, Wüst, syn gegen schwager syge)<note type="critical">«(als da … syge)» am Rand mit
+                                                  Verweiszeichen</note>, angesprochen<note type="critical">Folgt eine Wortstreichung</note>,
+                                                  jme verholffen zesyn, das jme etwas von dißerm
+                                                  ererbten gůt verfolgen<note type="editorial">
+                                                  rechtlich zukommen, zuteilwerden, Id. I,
+                                                  812.</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  mag</note>, da möge syn (Hindermeisters)
+                                                  underthenigs pitten, jnne, Wüsten, als der anfangs
+                                                  nit von der ­toüf­ferischen sect<note type="critical">Folgt gestrichen: wegen</note>,
+                                                  sonder von wegen der gehepten hungers not mit
+                                                  sechs kinden (die jetzt alle gestorben)<note type="critical">«(die jetzt alle gestornen)» am
+                                                  Rand mit Verweiszeichen</note> jnn Mehrheren
+                                                  gezogen, mitt gnaden<note type="critical">«gnaden»
+                                                  über der Zeile, in der Zeile gestrichen:
+                                                  etwas</note> zů bedenckten und jme etwas werden
+                                                  zelaßen etc. Wann nun wir jnne, Hindermeistern,
+                                                  jnn synem begeren angehört unnd unns erjnneret,
+                                                  was wir unns diß ­toüf­fergůts halb hievor
+                                                  erkhendt<note type="editorial"> amtlich
+                                                  festsetzen, Id. III, 313.</note>, habent wir jnne,
+                                                  Hindermeister, diß synes begerens abgewißen und
+                                                  jme disen bescheid geben: Woveer<note type="editorial"> wenn, Id. I, 914.</note> er,
+                                                  Mathyß Wüst, sich wider gehorsamm erzeigen thete,
+                                                  das als dann wir jme das syn volgen laßen. Wo nit
+                                                  (als das er, Mathyß, nit thůn wirt)<note type="critical">«(las das … wirt)» am Rand mit
+                                                  Verweiszeichen</note>, solt<note type="critical">«solt» über der Zeile, in der Zeile gestrichen:
+                                                  söllist</note> du sechen, wie es umb diß Melcher
+                                                  Wüsten gůt stande, dasselbig zů unnseren handen
+                                                  nemmen und uns dann dasselbige zů anderm ­toüf­fer
+                                                  gůt überantworten, dann wir nit gesinnet, feerner
+                                                  diseren kybigen<note type="editorial">
+                                                  eigensinnig, boshaft, zänkisch, Id. III,
+                                                  108.</note> ­toüf­feren etwas volgen zelaßen.
+                                                  Deßen haben wir dich zů dyner beßern nachrichtung
+                                                  unberichtet nit laßen wellen. Datum sambßtags den
+                                                  11. maij anno 1605.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unnserm
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Kyburg">Kyburg</placeName> Hans Ůlrich
+                                                  Wolffen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_753</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_753</idno>
+          </msIdentifier>
+          <head>Viertes Verhör von Jaggli Rüegg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1603-04-27"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 604</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Demnach herr statthalter Ůlinger<note type="editorial">  <persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, herr statthalter
+                                                  Ziegler<note type="editorial"> 
+                                                  <persName ref="Ziegler, Hans">Hans Ziegler</persName></note> unnd herr
+                                                  zunfftmeister Widerkheer<note type="editorial">
+                                                   <persName ref="Wiederkehr, Heinrich">Heinrich Wiederkehr</persName></note> nachmaalen zů
+                                                  Jaglj Ruͤggen von Felmis uß der graffschafft
+                                                  Kyburg dem widerteüffer jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kheert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note> unnd jmme fürgehalten<note type="editorial"> vorwerfen, Id. II, 1235.</note>,
+                                                  wie das jr, myn g[nedig] h[erren], mehrmaalen
+                                                  etliche herren uß jren rethen unnd von denn
+                                                  gelehrten ann jmme zůerfaaren, was jmme anngelegen
+                                                  unnd ann unnßer kilchen unnd glauben mangle, zů
+                                                  jmme geschickt. Welliche jnne dan des einen
+                                                  ald<note type="editorial"> oder</note> annderen
+                                                  artigcels halb (darüber er aber kein grund geben
+                                                  unnd nützit andtworten khönnen) uß heiligem wort
+                                                  gottes gnůgsam unndericht unnd unnderwisen. Das
+                                                  aber alles ann jmme nit mehr verfangen, dann das
+                                                  er leider jnn syner hartneckig­kheit unnd
+                                                  verfuͤrischen bößen seckt nach jmerzů verharret,
+                                                  und<note type="critical">«und» über der
+                                                  Zeile</note> deßwägen<note type="critical">Folgt
+                                                  gestrichen: inne sy widerumb abgevertiget jm vhall
+                                                  er</note> nachmaalen<note type="critical">Folgt
+                                                  gestrichen: etwas erlüterung bedörffe, jnne jnn
+                                                  derselbigen zůverhören unnd zeberichten
+                                                  unnd</note> darüber syner andtwort begert.</p>
+                                                  <p>Daruf hatt er annzeigt, er bette üch, myn
+                                                  gnedig h[erren], (wie er vormaalß ouch gethan)
+                                                  ganntz trungenlich unnd unnderthenig, jnnansechen
+                                                  er vermeine, die hannd ann den rechten plůg<note type="editorial"> Pflug</note> gelegt zehaben,
+                                                  jnne by synem ann­genommnen ­teüf­ferischen
+                                                  glauben uß gnaden blyben zelaßen, da jmme nit
+                                                  müglich syge von demselbigen abzestaan, dann er
+                                                  des kindertouffs halben, wie Christus unnd syne
+                                                  jünger (die keine kinder nie toufft) denselbigen
+                                                  gebrucht, gloube unnd halte, jnne ouch jn synem
+                                                  vatterland zedulden. Dan er vor allen dingen das
+                                                  rych gots (allen mänschen onne schaden) sůche. Und
+                                                  wie er jemaalen jemanden<note type="editorial">
+                                                  niemand, vgl. <hl to="http://fwb-online.de/go/jeman.s.6pro_1646404203"><Hyperlink>http://fwb-online.de/go/jeman.s.6pro_1646404203</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> (wyl er
+                                                  kein lehrer sige) gelehrt noch unnderwißen habe,
+                                                  syge er dasälbige fürterhin zethůn auch nit
+                                                  gesinnet.</p>
+                                                  <p rend="margin-top">[Urteil]: Er sol by der hand
+                                                  anloben, das er eintweders minen herren ghorsamm
+                                                  und zkilchen gan oder <note type="editorial"> sofort, Id. II, 19.</note> das
+                                                  land rumen welle. Und so er dz thůt, sol er ledig
+                                                  glan. Wil ers aber nit thůn, sol er wyter bhalten
+                                                  werden. Und söllend die herren nachgenger den
+                                                  turnhuͤter by dem eyd fragen, wer jm wyn, broth
+                                                  oder anders schike, und dann für<note type="editorial"> vor</note> min herren bringen.
+                                                  Es sol auch syner můter und kinden uß dem allmoßen
+                                                  hilff beschechen. Actum mitwuchs den 27. dies
+                                                  april[is] a[nn]o 1603 pr[aesen]t[ibus] herr
+                                                  burgermeister Bräm<note type="editorial"> Heinrich
+                                                  Bräm</note><persName ref="Bräm, Heinrich">aber angentz</persName> unnd
+                                                  beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

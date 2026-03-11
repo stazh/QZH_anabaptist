@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_705</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_705</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Sambßtags, den
+                                                  15ten augustj p[raese]nt[ibus] m[eister] Ziegeler
+                                                  (statthalter) und beid reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-08-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 556</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Beid seckelmeister,  <placeName ref="Bonstetten"/> und
+                                                  m[eister] Schüchtzer<persName ref="Scheuchzer, N.">zů
+                                                  Bonstetten</persName> söllent gwalt haben, sich mit <persName ref="Toggwiler, Felix">den
+                                                  Toggwyleren</persName><persName ref="Toggwiler, Heini">beid obervögt</persName> von
+                                                  Bonstetten umb jres brůders Ruͤdiß<persName ref="Toggwiler, Ruedi"/> seligen frawen (der
+                                                  Bärinen)<persName ref="Bär, N."/> gůt, so by dem
+                                                  ­toüf­fer gůt ligt, zůverglychen und, wo das nit
+                                                  beschechen khan, die sach wider für<note type="editorial"> vor</note> rath khommen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Sambßtags, den
+                                                  15ten augustj p[raese]nt[ibus] m[eister] Ziegeler
+                                                  (statthalter) und beid reth».</p>
+    </back>
+  </text>
+</TEI>

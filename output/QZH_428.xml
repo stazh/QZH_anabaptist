@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_428</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_428</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Fridolin Hässi (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1582-10-17"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 279</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern frünndtlichen willen und alles gůts
+                                                  zůvor. Gestrenger und vester, besonnders getrüwer,
+                                                  lieber landtvogt.  <note type="critical">Folgt gestrichen:
+                                                  z</note><persName ref="Müller, Hans">Hanns Müller</persName>, schůmacher
+                                                  zů <placeName ref="Birmensdorf">Birmenstorff</placeName>,
+                                                  hatt unns zů erkhennen geben, nachdem er vor
+                                                  etwas<note type="critical">Folgt gestrichen:
+                                                  verkert</note> verruckter zyt synen vogt son Ulj
+                                                  Joßen<note type="critical">Folgt gestrichen:
+                                                  von</note><persName ref="Jos, Uli">Der unser</persName>, ouch von
+                                                  Birmenstorff, synem erlerneten küblerhandtwerchs
+                                                  an die frömbde wandels wyße ußgeschickt<note type="critical">Folgt gestrichen: unnd</note>,
+                                                  wellist du jetz<note type="critical">korrigiert,
+                                                  ursprünglich: jetzunder</note> dyn<note type="critical">In der Vorlage: dann (über der
+                                                  Zeile)</note> tragenden ampts halber<note type="critical">«tragenden ampts halber» am Rand
+                                                  mit Verweiszeichen</note> umb das derselbig Ůlj
+                                                  Joß gegen dir, sam<note type="editorial"> wie, Id.
+                                                  VII, 902.</note> er sich jnn die verfuͤrische
+                                                  ­toüf­ferische sect jnn das land
+                                                  <placeName ref="Mähren">Meerheren</placeName> ergeben,
+                                                  verleidet<note type="editorial"> verzeigen,
+                                                  angeben, Id. III, 1086f.</note>, die einhundert
+                                                  guldin<note type="critical">«guldin» unter der
+                                                  Zeile</note>, so er by<note type="critical">«by»
+                                                  über der Zeile, in der Zeile gestrichen:
+                                                  uff</note> <persName ref="Lips, N.">den Lippsen</persName>
+                                                  jm Rebstäl<note type="editorial">
+                                                  Reppischtal</note> umb zinß uff guͤtern daselbs
+                                                  und anderschwo<note type="critical">«uff guͤtern
+                                                  daselbs und anderschwo» am Rand mit
+                                                  Verweiszeichen, im Text über der Zeile gestrichen:
+                                                  houpt</note> staan habe<note type="critical">«umb
+                                                  zinß staan habe» über der Zeile, in der Zeile
+                                                  gestrichen: die er der landgraffschafft Baden
+                                                  hocher oberkeit hatt</note>, als verwürckt<note type="critical">Folgt gestrichen: zů dinen</note>
+                                                  zů<note type="critical">Folgt gestrichen:
+                                                  handen</note> der acht<note type="critical">Folgt
+                                                  gestrichen: ordten</note> landtgraffschafft
+                                                  <placeName ref="Baden (Grafschaft)">Baden</placeName>
+                                                  regierenden ordten handen zů bezüchen understaan
+                                                  etc., da er nun jnn vögtlicher wyß<note type="critical">Folgt gestrichen: […] (nicht
+                                                  lesbar)</note>, weß er sich halten sölle, unsers
+                                                  bscheids<note type="critical">Folgt gestrichen:
+                                                  und berichts</note> underthenigklich begere. Wann
+                                                  nun wir, wie disere sachen beschaffen, von jme,
+                                                  Müllern, als dem vogt<note type="critical">«Müllern als dem vogt» am Rand mit
+                                                  Verweiszeichen</note> eigentlichen bericht
+                                                  jngenommen unnd befunden, das bemelter Ulj Joß als
+                                                  ein jüngling<note type="critical">«als ein
+                                                  jüngling» am Rand mit Verweiszeichen</note> nit
+                                                  von und uß selbs eignem gwalt und<note type="critical">«gwalt und» am Rand</note> willen,
+                                                  sonders durch synen vogt gen Wanderen von
+                                                  Birmenstorff gschickt worden unnd jemandts nach
+                                                  grůnndtlichen wüßens<note type="critical">Folgt
+                                                  gestrichen: […] (nicht lesbar)</note> hatt, wo er
+                                                  jst ald<note type="editorial"> oder</note> was
+                                                  gstalt er sich anderschwo enthaltet<note type="editorial"> sich aufhalten, wohnen, Id. II,
+                                                  1230.</note> oder ob er nach wider zů land
+                                                  kommen<note type="critical">«oder ob er nach wder
+                                                  zů land kommen» am Rand mit Verweiszeichen</note>,
+                                                  unnd<note type="critical">Folgt gestrichen:
+                                                  ob</note> jm fal er glychwol<note type="critical">korrigiert, ursprünglich: glych</note> syn hab
+                                                  und gůte von angemaßeter toufferyg wegen verfallen
+                                                  hette<note type="critical">«hette» über der
+                                                  Zeile</note>, were das uns, wo es joch<note type="editorial"> auch</note> glegen, als syner
+                                                  ordenlichen oberkeit, dero er mit lyb und gůt
+                                                  gehörig<note type="critical">Folgt gestrichen:
+                                                  u</note> gweßen, ouch uß der selbigen
+                                                  juridißdiction den hinwegzug genommen, zůstendig.
+                                                  Gelangt hieruf unsers fründtlichs gesinnen, du
+                                                  wellist uß jetzerzelten gründen und ursachen dines
+                                                  anforderens der obangedüten 200 g[ulden] guͤtlich
+                                                  abstaan und<note type="critical">Folgt gestrichen:
+                                                  das</note> söllich guͤtlj jnn<note type="critical">Folgt gestrichen: nach</note> bemelts Ulj
+                                                  Joßen<note type="critical">Folgt gestrichen:
+                                                  g</note> vogts<note type="critical">Folgt
+                                                  gestrichen: jnn der</note> verwaltung<note type="critical">Folgt gestrichen: be</note>
+                                                  unverhindert und ungespert laßen. Daran thůst uns
+                                                  (wil uns uff disers verstendigung geschehen werde
+                                                  nit zwyfflen)<note type="critical">«(wil uns …
+                                                  zwyfflen) am Rand mit Verweiszeichen, in der Zeile
+                                                  gestrichen: nebent</note> ein gfallens, so uns jnn
+                                                  gunst umb dich zůbeschulden stadt, darby
+                                                  göttlichem schirm bevelchende. Datum dem 17ten
+                                                  octobris anno etc. 82.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem<note type="critical">Folgt gestrichen: fr</note> gestrenngen und<note type="critical">«und» über der Zeile</note>
+                                                  vesten, unserem besonders gethrüwenn, lieben
+                                                  landtvogt zů <placeName ref="Baden">Baden</placeName> jnn
+                                                  Ergöw, Fridlin Häßj, riter unnd deß raths zů
+                                                  Glaruß.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

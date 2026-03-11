@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_731</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_731</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-05-19"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 582</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt, demnach wir <persName ref="Gubelmann, Rudolf">Růdolfen
+                                                  Gubelman</persName>, den
+                                                  wagner von <placeName ref="Hadlikon">Hadlicken</placeName>
+                                                  dynen amptsangehörigen den halsstarrigen<note type="critical">«halsstarrigen» am Rand</note>
+                                                  widerthöuffer, den du unns verschinner<note type="editorial"> vergangener</note> zyt
+                                                  gfengklich zůgeschickt, ein zyt lang jnn unnser
+                                                  gfangenschafft enthalten<note type="editorial">
+                                                  festhalten, Id. II, 1228.</note>, volgents jnne
+                                                  von syner lybs blödigkeit<note type="editorial">
+                                                  Schwäche, Id. V, 28.</note> wegen jnn unnßern
+                                                  spital thůn laßen, alda er letstlich der banden
+                                                  gelediget<note type="critical">«geledigiet» am
+                                                  Rand mit Verweiszeichen, in der Zeile gestrichen:
+                                                  erlaßen</note> worden unnd unnserm spitalmeister
+                                                  versprochen hatt, ohn erlaubtnuß nit uß dem spital
+                                                  zewychen. Unangesehen aber deßen jst er, Gubelman,
+                                                  diser tagen synem glübdt zewider<note type="critical">«synem glübdt zewider» am
+                                                  Rand</note> uß dem spital entloffen. Unnd diewyl
+                                                  dann zůerachten, das er sich widerumb jnn syn
+                                                  heimet begeben haben werde, so bevelchend wir dir
+                                                  hiemit erntstlich, das du uff jnne, Gubelman, dyn
+                                                  heimliche spech unnd khundtschafft<note type="editorial"> spech und kundschaft:
+                                                  Nachforschung und Erkundigung, Id. X, 76.</note>
+                                                  machist und jetzt glych angents<note type="editorial"> unverzüglich, Id. II, 19.</note>
+                                                  nach dem heiligen pfingstag<note type="critical">Folgt gestrichen: ordnu</note> vertruwten lüten
+                                                  bevelch gebist, das wo er, Gubelman, jnn synem huß
+                                                  oder sontsten<note type="critical">«jnn synem huß
+                                                  oder sontsten» am Rand</note> jnn dyner verwaltung
+                                                  zůbetretten<note type="editorial"> antreffen, Id.
+                                                  XIV, 1486.</note>, er wo jennen müglich gfengklich
+                                                  angenommen werde. Da du jnne dann den nechsten
+                                                  unns widerumb gefangen zůschicken solt, wyter
+                                                  gegen jme die gebür fürzůnemmen. Deß wellend wir
+                                                  unns zů dir versehen, unnd das du hierjnnen unnd
+                                                  auch sontsten, was die erstattung unnser mandats
+                                                  der ­toüf­feren halber betrifft, an dynem flyß und
+                                                  erntst nützit erwinden<note type="editorial">
+                                                  fehlen, Id. XVI, 580f.</note> laßen werdist.<note type="critical">«unnd das du hierjnnen … werdist»
+                                                  am Rand mit Verweiszeichen</note> Datum mitwochs
+                                                  den 19. d. mey anno 1602.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
+                                                  Eich</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

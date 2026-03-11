@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_556</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_556</idno>
+          </msIdentifier>
+          <head>Urteil über Peter Hön</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 407</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als herr lanndtvogt Escher<note type="editorial"> Hans Konrad Escher (vom
+                                                  Glas)<persName ref="Escher vom Glas, Hans Konrad"/></note> myn gnedig herren berichtet, wellicher
+                                                  maaßen Petter Hön von <placeName ref="Wädenswil">Wedeschwyl</placeName>, der ­toüf­fer, sich ergäben,
+                                                  als namlich, das er von der ­toüf­ferischen seckt
+                                                  abstaan, die predigen heiligen göttlichen worts
+                                                  unnd christenlichen heiligen sacramenta mit unns
+                                                  üben unnd bruchen welle, zůdem mynen gnedigen
+                                                  herren jnn allen zimlichen billichen sachen
+                                                  gehorsam unnd gewertig zesyn etc. unnd, das alles
+                                                  zethůn unnd zehalten, an eydtsstatt<note type="critical">Folgt gestrichen: angelor.</note>
+                                                  anzeloben sich anerpietende. Also nach verhörung
+                                                  sölliches gegebnen berichts habent myn gnedig
+                                                  herren sich synenthalb darüber erkhendt<note type="editorial"> geurteilt</note>, das er mynen
+                                                  herren x pfund<note type="critical">In der Vorlage
+                                                  stets: lb</note> zů rechter straff unnd bůß syner
+                                                  bißhar gebruchten unghorsame wegen unnd v pfund an
+                                                  gmeinen kosten geben sölle, unnd demnach nach
+                                                  erlegung deß kostens, so über jnne jnn der
+                                                  gfencknus gegangen, uff ein gwonlich urfechd der
+                                                  gfangenschafft gelediget werden sölle. Hienebent
+                                                  aber mit jme mit allem ernst geredt worden, das wo
+                                                  er sich synem <nswk/> anerpieten noch nit gemeß
+                                                  unnd wider syn loben thůn<note type="critical">«thůn» über der Zeile, in der Zeile gestrichen:
+                                                  handlen</note>, wurde man<note type="critical">«man» über der Zeile</note> mit jme als einem
+                                                  meineiden man handlen etc.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

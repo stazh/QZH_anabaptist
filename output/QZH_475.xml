@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_475</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_475</idno>
+          </msIdentifier>
+          <head>Instruktion der Zürcher Gesandten
+                                                  (Entwurf) Die Tagsatzung
+                                                  der evangelischen Orte fand am 6. September 1585
+                                                  in Aarau statt, vgl. die Regesten in EA IV/2, S.
+                                                  886f.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-09-01"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 326</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>| [fol. 218r] Instruction unnd bevelch uff die
+                                                  frommen, vesten und wyßen hern <persName ref="Thomann, Heinrich">Heinrichen
+                                                  Tomman</persName> und
+                                                  jůngkherr <persName ref="Escher, Hans">Hannsen Escher</persName>, beid deß raths<note type="critical">Folgt gestrichen: der staat
+                                                  Zürich</note>, was sy jnnamen myner gnedigen
+                                                  herren, burgermeister und raths der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>, uff dem tag zů
+                                                  <placeName ref="Aarau">Arouw</placeName> sontags den 5ten
+                                                  septembris a[nn]o etc. 85<note type="critical">«sontags den … 85» am Rand mit Verweiszeichen, in
+                                                  der Zeile gestrichen: handlen sollen</note> by der
+                                                  überigen drygen evangelischen stetten gsandten
+                                                  botten<note type="critical">«gsandten botten» am
+                                                  Rand mit Verweiszeichen</note> handlen und
+                                                  ußrichten sollen.</p>
+                                                  <p>[…]<note type="editorial"> Der Instruktion zum
+                                                  Täufermandat gehen verschiedene andere
+                                                  Instruktionen entsprechend den Traktanden der
+                                                  geplanten Tagsatzung voraus, vgl. EA IV/2, S.
+                                                  886f.</note> | [fol. 221v] […] Über den arowischen
+                                                  abscheid der ­toüf­ferischen sect halb
+                                                  gehaltne<note type="critical">korrigiert,
+                                                  ursprünglich: gehaltner</note> tagsatzung<note type="critical">Folgt gestrichen: und
+                                                  verabscheidete meinung</note> habent unser herren
+                                                  ein mandath jnn gschrifft gestelt, was gestalt sy
+                                                  jnn jren grichten und gebieten selbigen
+                                                  schedlichen<note type="critical">«schedlichen» am
+                                                  Rand mit Verweiszeichen</note> jrrsal und ubel
+                                                  zůweeren understaan, das mögend jr vor<note type="critical">«vor» über der Zeile</note> den
+                                                  gsandten von <placeName ref="Bern">Bern</placeName>,
+                                                  <placeName ref="Basel">Basell</placeName> und
+                                                  Schaffhusen<note type="critical">Folgt gestrichen:
+                                                  vor al[…] hören</note><placeName ref="Schaffhausen"/> verläsen lassen, wover
+                                                  by<note type="critical">«by» über der Zeile</note>
+                                                  jren herren und oberen hierumb noch dhein satzung
+                                                  offentlich ußgangen syge<note type="critical">«syge» am Rand mit Verweiszeichen, in der Zeile
+                                                  gestrichen: laßen were</note>. Diß allein von üch
+                                                  darum anzogen, ob jnen uff ebenmeßige<note type="critical">«ebenmeßige» am Rand mit
+                                                  Verweiszeichen</note> form das zethůn gelieben,
+                                                  das man also jnn ufgesetzten straffen durchuß
+                                                  glych were, doch hiemit dheinem ordt nüdt
+                                                  fürgschryben syn, sonder zu jedeßen gfalen
+                                                  jnsehens und ordnung zehalten oder zemachen
+                                                  staan.<note type="editorial"> Die Zürcher
+                                                  Gesandten legten dieser Instruktion entsprechend
+                                                  das Zürcher Täufermandat vor und übergaben den
+                                                  anderen Städten eine Abschrift davon, vgl. EA
+                                                  IV/2, S. 887 d.</note> Actum mitwuchs den ersten
+                                                  septembris anno etc. 85 p[raese]nt[ibus] herr
+                                                  <persName ref="Kambli, Hans">burgermeister Kamblj</persName>
+                                                  und beid reth.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Die Tagsatzung
+                                                  der evangelischen Orte fand am 6. September 1585
+                                                  in Aarau statt, vgl. die Regesten in EA IV/2, S.
+                                                  886f.</p>
+    </back>
+  </text>
+</TEI>

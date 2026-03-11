@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_807</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_807</idno>
+          </msIdentifier>
+          <head>Conrad Kambli an [Pfarrer Johann Jakob Wagner?]</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1608-02-26"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 658</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ehrwürdiger, wollgelerter, eüch syge myn
+                                                  früntlicher grutz, ouch willige dienst zevor. Des
+                                                  <note type="editorial"> Nicht
+                                                  überliefert</note>, so den 8. february dadyert wol
+                                                  jnglifferett empfangen, ouch des inhalts<note type="critical">In der Vorlage: inhalt</note>
+                                                  ablessend verstanden. Und duret<note type="editorial"> betrüben, Id.</note> mich gantz
+                                                  übel<note type="critical">«übel» am Rand mit
+                                                  Verweiszeichen</note>, das die widerthöüffer mit
+                                                  jrer verkeehrten secten wider ales warnen und
+                                                  christenliche vermanung und früntlichs zůsprechen,
+                                                  so von den heren glerten gegen jnen zum überflus
+                                                  beschechen, so gantz hartneckiger wyß herfür
+                                                  brechen dörffind. Derhalben ich eüch m. Hans
+                                                  Heinrich Zur Eych<note type="editorial"> Gemeint
+                                                  ist wahrscheinlich Jakob <persName ref="Zur Eich, Jakob">Zur Eich</persName>, alter Landvogt von
+                                                  Grüningen</note><persName ref="Zur Eich, Jakob">heren schryben</persName>
+                                                  als ein vertruwter dem herren<note type="critical">«dem herren» am Rand mit Verweiszeichen</note> zu
+                                                  schicken und sich mit einanderen ersprachen, uff
+                                                  was glegne zyt man sy, die töüffer, byfangen und
+                                                  überkumen könt, als dan wil ich wol lüt uffen
+                                                  ordnen, damit sy<note type="critical">«sy» über
+                                                  der Zeile</note> ergriffen wurdind. Han wol
+                                                  vermeynt, man wurd sy nümerck<note type="editorial"> niemals, Id. IV, 369.</note>
+                                                  baß<note type="editorial"> besser</note>
+                                                  bethretten<note type="editorial"> antreffen,
+                                                  ergreifen, Id. XIV, 1486.</note>, dan wan man jn
+                                                  der kilchen werind by der predig, als ich<note type="critical">«ich» über der Zeile</note> meynt,
+                                                  dörfftind sy wol ouch ettwas zusamenkunfft haben
+                                                  darum. Das ich den undervogt nit zů gschickt,
+                                                  bschicht uß der ursach, man wurd glych darby
+                                                  abneme[n]<note type="critical">Textverlust</note>,
+                                                  das man mit den ­thöüf­feren etwas ernsthaffts
+                                                  fürneme[n]<note type="critical">Textverlust</note>
+                                                  möcht, hiemit die sachen so berathen möchtind
+                                                  werden, nit<note type="critical">«nit» über der
+                                                  Zeile</note> verhindrung bringen möchte<note type="critical">«möchte» über der Zeile</note>,
+                                                  warumb ich nit<note type="critical">«nit» über der
+                                                  Zeile</note> bishar, wie ich gern gwölt, der
+                                                  sachen mit alem ernst nochgesetzt und ich jn
+                                                  eüwerem schryben zum theil angedüt, sam ich
+                                                  etlicher masen varlesig jn diser sach fare, dan
+                                                  der herr<note type="critical">«herr» am Rand mit
+                                                  Verweiszeichen</note> wird sich zu erjnneren
+                                                  wüßen, das man jn dem grosen schne nützit hete
+                                                  könen ußrichten. Zudem<note type="critical">korrigiert, ursprünglich: zu</note> so het man sy
+                                                  jn der grimigen kelte in der gfencknus nit by
+                                                  leben erhalten mögen<note type="critical">«mögen»
+                                                  am Rand mit Verweiszeichen</note>. Der her sol mir
+                                                  verthruwen, wan ich selbs by üch oben, wölt ich,
+                                                  wo es die nothurfft erhöüschte, sy<note type="critical">«sy» über der Zeile</note> selbst
+                                                  fachen; het ouch vermeint<note type="critical">«vermeint» am Rand mit Verweiszeichen</note>, jr
+                                                  fundind wol ethwan erlich lüt by üch, die dise
+                                                  secthyrer hulffind fachen, dan ich eüch langist
+                                                  gwalt geben, wie ietz noch, das jr dem weibel wie
+                                                  ouch anderen lüten, die hiertzu dienstlich werind,
+                                                  bin ehren und eyd butind, das sy sölche lüt
+                                                  fiengind; was wyters zu ersprachen wird mit dem m.
+                                                  Thuchman bschechen, dan man uff ine nit achtung
+                                                  haben wird etc. Ich hete dem herren noch wol vil
+                                                  wyttlöüffiger zů zeschryben, so bin ich der masen
+                                                  mit gscheffte beladen. Zudem so muß, geliepts got,
+                                                  ich<note type="critical">«ich» über der
+                                                  Zeile</note> myne beid rechnungen jn 5 tagen den
+                                                  herren seckelmeisteren überschicken, nit anderst
+                                                  muglich ist, es wirt aber wie gemeldet eüch der m.
+                                                  Tuchman von mund verthruwlich myner meynung
+                                                  berichten. Hiemit thun ich<note type="critical">«ich» über der Zeile</note> eüch jn schirm
+                                                  götlicher almacht gantz wol befelchen. Datum jn
+                                                  yl, den 26. february an[no] 1608.</p>
+                                                  <p rend="margin-top">Eüwer dienst williger</p>
+                                                  <p>Cůnrat Kamblj, vogt der herrschafft
+                                                  <placeName ref="Grüningen">Grüningen</placeName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

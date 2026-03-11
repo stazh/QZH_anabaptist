@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_392</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_392</idno>
+          </msIdentifier>
+          <head>Kaspar Thomann an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1579-08-16"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 243</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, fromen, vesten, fursichtigen, erssamen
+                                                  und wissen herr burgermeister, gnedig lieben
+                                                  herren, uwer ersam wißheit sigen mit schuldiger
+                                                  pflicht, min underthennige ghorsame, willige
+                                                  dienst allyzit zůvoran bereit. Uff das schriben,
+                                                  so mir u[wer] e[rsam] wißheit uff hüt dato
+                                                  zůgschickt zweyer döüfferen halb, so u[wer]
+                                                  w[ißheit] gfencklich zů gfürt worden, uff solichs
+                                                  füg jch u. e. w. zůvernemen, das mir den 21. tag
+                                                  aperrellen zwen töüffer von <placeName ref="Neftenbach">Nefftenbach</placeName> des verschinen<note type="editorial"> vergangenen, Id. VIII,
+                                                  824.</note> 78. jar jn üwer (miner gnedigen
+                                                  herren) gfencknus gen Kiburg sind gfürt worden,
+                                                  namlich einer so <persName ref="Hedinger, Hans">Hans Hedinger</persName> von <placeName ref="Birmensdorf">Birmistorff</placeName>, der ander <persName ref="Hotz, Hans">Hans Hotzs</persName> von <placeName ref="Alstetten">Altsteten</placeName>, die der massen mit einer
+                                                  verfürischen lerr und seckt und unkristenlichen
+                                                  meinungen, so ich ie von einchen döüfferen ghört,
+                                                  alls namlich das nüt war sig, das unsser herr
+                                                  Cristus für ally sünd gnůg tan, sunder allein für
+                                                  die erbsünd, es möge ouch kein oberrer, waß stands
+                                                  er sige, weder durch den glouben nach jn kein weg
+                                                  selig werden, und ouch einem mentschen, so zum dod
+                                                  verurteilt, werdi, was er ie für rüwen hab und der
+                                                  gnaden gots beger, nüt zů gnaden von got angnomen
+                                                  werden, der bossen meinungen<note type="critical">In der Vorlage: meingen</note> gar fil. In suma
+                                                  waß mit jnen geret, sind sy alls halsstarck uff
+                                                  jr<note type="critical">«jr» über der Zeile</note>
+                                                  meinungen<note type="critical">In der Vorlage:
+                                                  meingen</note> bliben, ouch das sy nun nüt uff der
+                                                  landrichteren und min uß gnaden beschechne
+                                                  ufflegung<note type="editorial"> Verpflichtung,
+                                                  vgl. <hl to="http://fwb-online.de/go/auflegung.s.1f_1732723200"><Hyperlink>http://fwb-online.de/go/auflegung.s.1f_1732723200</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> nach lut
+                                                  u. e. w. ußgangnen mandaten anfangs wellen
+                                                  schwerren nach<note type="editorial"> noch</note>
+                                                  loben, uß üwer (miner gnedigen herren) biet zů
+                                                  züchen, biß ich si 10 tag jn der gfencknus<note type="critical">In der Vorlage: gfecknus</note>
+                                                  bhalten, hab jch den Hedinger, so Hotzs den
+                                                  brediger nampt, jn die underist gfenck­nus<note type="critical">In der Vorlage: gfecknus</note>
+                                                  von jm hinab glassen. Hat sich darnach der Hotzs
+                                                  begeben zů loben<note type="editorial">
+                                                  geloben</note>, und alls ich den Hans Hedinger den
+                                                  anderen tag wider uff hab lassen züchen und er
+                                                  verstanden, das sich Hans Hotzs des<note type="critical">Folgt gestrichen: gfenck</note>
+                                                  lobens begeben, ee er wider jn das loch hinab hat
+                                                  wellen, hat er sich ouch ergeben zů loben. Hand sy
+                                                  mir dess<note type="critical">Es folgt eine
+                                                  Wortstreichung</note> glüpt tan jn min hand<note type="critical">«jn min hand» am Rand mit
+                                                  Verweiszeichen</note>, das sy usß miner gnedigen
+                                                  herren grichten und<note type="critical">Folgt
+                                                  gestrichen: pet</note> bieten ziechen wellen und
+                                                  nüt mer darin, by dem got so gesprochen hab, das
+                                                  unsser red ja ja sol sin, das selb ja wellen sy
+                                                  halten, wo nüt, das dan got<note type="critical">Es folgt eine Wortstreichung</note> sin gnad und
+                                                  hillff von [ihnen] söly züchen. Solichs jch
+                                                  schuldig uwer ersam wißheit lut des selbigen
+                                                  schribens zů berichten. So fil aber <persName ref="Studer, Christian">Crista
+                                                  Studer</persName>
+                                                  betrifft, jst mir sinthalb nüt zu wüssen. Got der
+                                                  allmechtig wellj u. e. w. jn glucklicher wolfart
+                                                  erhalten. Geben den 16. tag augsten jm 79.
+                                                  jar.</p>
+                                                  <p rend="margin-top">Uwer undertheniger,
+                                                  williger</p>
+                                                  <p>Casper Thoman, vogt zů Kiburg</p>
+                                                  <p rend="margin-top">Den edlen, fromen, vesten,
+                                                  fürsichtigen, erssamen und wissen herr
+                                                  burgermeister und rath der stat Zürich, minen
+                                                  gnedigen und lieben herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

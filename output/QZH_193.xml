@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_193</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_193</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen den Schmied von
+                                                  Meilen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1550-01-22"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 44</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Schmid, N.">Der Schmid</persName> von
+                                                  <placeName ref="Meilen">Meylenn</placeName> beschwert sich
+                                                  der fürgehaltnen<note type="editorial">
+                                                  vorgeworfenen, Id. II, 1234.</note> articklen
+                                                  thräffennlich<note type="editorial"> eindringlich,
+                                                  Id. XIV, 392.</note>
+                                                  <note type="critical">Folgt gestrichen: unnd
+                                                  vermeynnt, sich dieselben keinswegs uff jne
+                                                  erfynndenn werdint</note> unnd seyt erstlich von
+                                                  der ufferstendtnüss dess menntschlichen
+                                                  cörpels<note type="editorial"> Körper</note>, wie
+                                                  ettliche vermeynind, das wir jnn dem lyb unnd mit
+                                                  dem lyb, darmit wir gesündet unnd gearbeytet,
+                                                  widerumb von thodten ufferstaan werdint. Halte er
+                                                  darvon die meynung, das er vest gloube, das wir
+                                                  widerumb ufferstaan werdint, aber<note type="critical">Folgt gestrichen: nit mit</note>
+                                                  mit dem lyb, wie der glept, nit, sonnder mit eynem
+                                                  clarificierten<note type="editorial">
+                                                  verherrlichten</note> lyb, unnd das jnn eynem
+                                                  ougenblick, also das wir den ennglen gottes glych
+                                                  unnd allen zytlichen unnd lyplichen dynngen
+                                                  emig<note type="editorial"> frei, ledig, Id. I,
+                                                  263.</note> unnd entpresten<note type="editorial">
+                                                  befreit sein, Id. V, 850.</note> werdint.</p>
+                                                  <p>Umb die ufferstendtnüss Cristj, das er gredt,
+                                                  das er mit eynem anndern lyb ufferstannden, unnd
+                                                  erlogen syge, das er nach der ufferstentnüss [nit]
+                                                  meer geeßsen unnd thruncken habe, seyt er darvon,
+                                                  das er waarlich gloube, das Cristus der herr von
+                                                  thodtenn ufferstannden syge<note type="critical">Folgt gestrichen: so nit</note> mit dem lyb, jnn
+                                                  dem er gelittenn<note type="critical">Folgt
+                                                  gestrichen: sonnder mit eynem anndern
+                                                  claarificierten lyb</note>, unnd wie er aber<note type="critical">«aber» über der Zeile</note> vor
+                                                  der ufferstenntnüss hungerig, thurstig unnd
+                                                  menntschlich gwesenn, er desselben nach der
+                                                  ufferstenntnüss fryg entladenn wordenn. Dise red
+                                                  er vor keyner jugendt gethriben, annders jme nit
+                                                  zewüsßen. Doch so er das gredt, were jm das
+                                                  leyd.</p>
+                                                  <p>Von deß kilchenngůts wegen seyt er, das sin
+                                                  meynung were, diewyl vornacher<note type="editorial"> vorher, Id. II, 1564.</note> jm
+                                                  vorigen glouben<note type="editorial"> Gemeint ist
+                                                  der vorreformatorische Glaube.</note> die
+                                                  menntschen von den priestern dahin gepraacht
+                                                  worden, das<note type="critical">Folgt gestrichen:
+                                                  sy</note> eyner eyn eymer wyn, eyn müt<note type="editorial"> Hohlmass für Getreide, das einer
+                                                  Mannslast entsprach, Id. IV, 574.</note> kernnen,
+                                                  eyn pfund gelts ald<note type="editorial">
+                                                  oder</note> sunst ettwas annders an die kilchen
+                                                  geben unnd darmit understanden habe, das rych
+                                                  gottes zekouffen, unnd aber<note type="critical">Folgt gestrichen: das</note> yetz durch die
+                                                  gschrifft heyter funden, das darmit gejrrt syge,
+                                                  werde doch nüt destmynder söllich angeleyte<note type="editorial"> berechnete, Id. II, 1564.</note>
+                                                  gaab für unnd für jngezogen. Sittenmaal<note type="editorial"> da, weil, Id. IV, 147.</note>
+                                                  aber (wie verstaat) darmit gejrett syge, achtete
+                                                  er, das nun hinfür dise gaaben nit meer genommen
+                                                  werden sölltind. Umb dise dreyg artigkel, ob er
+                                                  nit recht daran were, begerte er mit der heyligen
+                                                  gschrifft unnderwyßt unnd annders bericht
+                                                  zewerden.</p>
+                                                  <p>Von dem tisch gotts gaan gebe er die anntwurt,
+                                                  hür<note type="editorial"> heuer, dieses
+                                                  Jahr</note> jm sumer were er unnd annder an eynem
+                                                  wurstmaal<note type="critical">Folgt gestrichen:
+                                                  unnd der her predicannt ouch daselbs</note>. Da
+                                                  redte man nun von dem glouben<note type="critical">Folgt gestrichen: unnd sonderlich der predicannt,
+                                                  das eyn yeder alleyn jnn Cristum glouben unnd
+                                                  sunst nit selig werden könne</note>. Da redte
+                                                  eyner ob dem tisch, war<note type="editorial">
+                                                  wohin, Id. XVI, 899.</note> denn unnsere
+                                                  fordern<note type="editorial"> Vorfahren</note>
+                                                  hinkommen unnd ob sy nit ouch selig worden werind.
+                                                  Seyte er, Schmid, das sy nüt destmynnder selig
+                                                  worden allermaaß unnd gstalt, wie sy gloupt, dann
+                                                  jnen das göttlich wort damaaln nit kuntbar
+                                                  ald<note type="editorial"> oder</note> wüsßend
+                                                  gweßenn<note type="critical">Folgt gestrichen:
+                                                  sunst</note> wie aber unns. Dann er achte, so
+                                                  dasselb gschechenn, sy demselben wolalsbald
+                                                  anhenngig worden als wir. Unnd diewyl sich nun
+                                                  derselb gsell eben wyt ingelasßen unnd noch
+                                                  meerere reden gethriben, ouch volgends zum tisch
+                                                  gotts ganngenn unnd aber deß gloubens halb jrrig
+                                                  gweßen, hette sich er alleyn uß der ursach vom
+                                                  nachtmaal deß herren gesöndert, dann er vermeynnt,
+                                                  derselb nit<note type="critical">Folgt gestrichen:
+                                                  zů g</note> darzů gangen sin noch des entpfangen
+                                                  haben sölte. Das er aber das verachte, das thüge
+                                                  er nit, sonnder gloube vest aller der dynngen, die
+                                                  durch das naachtmaal deß herren angebildet unnd
+                                                  bedütet werdint. So er nun mit dem das er gsechen,
+                                                  das die jungen ald eebrecher zum tisch deß herren
+                                                  gangen, unnd er, das von derselben wegen
+                                                  unnderlasßen, gefelt, begerte er ouch uß der
+                                                  geschrifft berichtet zewerden.</p>
+                                                  <p>Umb das täglich kilchengaan seyt er, das sich
+                                                  vyl begebe, das ettwa sine kunden am sonntag jnn
+                                                  unnd vor der predig zů jme zerechnen kommen, das
+                                                  er jnen nit abgeschlagen. Unnd so bald er
+                                                  grech<note type="editorial"> fertig, Id. II,
+                                                  699.</note> gwesen, er denne gangen. Das aber nit
+                                                  meer beschechenn, sonnder so man jn heysße, erst
+                                                  nach der predig rechnen, er dasselb thůn welle.
+                                                  Unnd bitte hieruff frünntlich unnd unnderthenig,
+                                                  jme hierjnn das best ze thůn, dann er fürer<note type="editorial"> weiter, Id. I, 967.</note> zum
+                                                  kilchen<note type="critical">Folgt gestrichen:
+                                                  gaan</note> unnd tisch gotts gaan, ouch<note type="critical">Folgt gestrichen: sich</note> jnn
+                                                  allweg alles des thůn welle, so üch, minen herren,
+                                                  gefellig syge.</p>
+                                                  <p rend="margin-top">[Urteil:] Er soll siner
+                                                  widerwertthen wyß abstaan unnd sich deren nit meer
+                                                  unnderziechen, als er sich dann deß, nachdem er
+                                                  von den gleerten brichtet worden, selbs erbotten.
+                                                  Dann sölte er darüber wyter ungehorsamm
+                                                  erschynnen, wůrde<note type="critical">Folgt
+                                                  gestrichen: die</note> er gewüsßlich die straaff
+                                                  entpfachen, deren er yetz werdt gwesen, wo jm nüt
+                                                  jnn hoffnung der besßerung uß gnaden verschonet
+                                                  were; darnach möge er sich wüsßen zeschicken.
+                                                  Actum mittwuchs deß 22. tag jenners 1550
+                                                  p[raese]nt[ibus] herr Hab<note type="editorial">
+                                                  Johannes Haab</note><persName ref="Haab, Johannes"/> (statthalter) unnd beyd räth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

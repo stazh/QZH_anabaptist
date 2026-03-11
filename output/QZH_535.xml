@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_535</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_535</idno>
+          </msIdentifier>
+          <head>Kommentare von Ulrich Zwingli III. zum Einfachen
+                                                  Bekenntnis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 386</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>S. 121 («zum vierten»)</p>
+                                                  <p>Zwingli<persName ref="Zwingli, Huldrych"/> im
+                                                  bůch von der oberkeytt schribt<note type="editorial"> «Zwingli im bůch … schribt»
+                                                  unterstrichen</note>: Ich bin vil einer anderen
+                                                  meinung dan die uffrůrer, die da sprechend, es
+                                                  möge kein christ ein oberherr sin. Ja ich halten
+                                                  es darfür, es möge keiner kein frommer und
+                                                  gerechter richter sin, er seye dan ein christ. Wo
+                                                  der obergwalt nitt ist, so ist es anders nütt dan
+                                                  ein wuͤtterey.<note type="editorial"> Z III, 868,
+                                                  bzw. die deutsche Übersetztung: Huldrych Zwingli,
+                                                  Von warem und valschem Glouben, Zürich: Christoph
+                                                  Froschauer, 1526 (VD16 Z 915), fol.
+                                                  246r.</note></p>
+                                                  <p rend="margin-top">S. 158</p>
+                                                  <p>Wen ein oberkeit einen zur mess wölte zwingen,
+                                                  da ist er nitt schuldig zu ghorsamen nach dem
+                                                  <persName ref="Petrus">spruch Petri</persName> Act. 4: Man
+                                                  ist gott mer schuldig zu ghorsamen weder den
+                                                  mentschen. Unsere frome oberkeit ist, gott sige
+                                                  lob, <persName ref="Paulus">wie Paulus</persName> Rom. 13
+                                                  lehrt, ein dienerin gottes zů gůttem. Wen si aber
+                                                  der gstaltt über unsere conscienzen wölti
+                                                  herschen, das si unß wöltte halten zur meß,
+                                                  welches - gott sye lob - nitt beschicht, oder wen
+                                                  si etwas gebütte, dz wider gott und sin wortt
+                                                  were, da ist man inen nitt ghorsame schuldig.
+                                                  Sunst im übrigen, da sönd geistlich und weltlich
+                                                  inen underworffen sin.</p>
+                                                  <p rend="margin-top">S. 161</p>
+                                                  <p>Er setzt darzu: Es werdend alle regiment dester
+                                                  glückhafftiger sin, wen si die geistlichen nitt
+                                                  lönd regieren, sonder alle gerichtshendel für si
+                                                  zühend. Dan die conventsherren (wiede[r]­toüf­fer)
+                                                  sind der oberckeit widerwerdig, welches wider gott
+                                                  ist.<note type="editorial"> Vgl. Z II,
+                                                  310.</note></p>
+                                                  <p>Zwingli<persName ref="Zwingli, Huldrych"/> redt
+                                                  hie von bäpstleren, die ire sachen mitt fhür und
+                                                  schwert wend verthädigen und iederman wend dem
+                                                  bapstumb underwerffen. Der antichristischen
+                                                  tyrannei sol sich ein oberkeit, so es recht thůtt,
+                                                  mit dem schwert erwehren. Sunst im übrigen werdend
+                                                  die lütht nit durch waffen, sonder durch den geist
+                                                  gottes und durch sin h. wort beckert.</p>
+                                                  <p rend="margin-top">S. 168</p>
+                                                  <p>Diser ist ein käzer gsin, wider welichen der
+                                                  h[eilig] Augustinus<persName ref="Augustinus"/>
+                                                  gschryben, besich Augustinum im bůch wider die
+                                                  hareticos cap. 69 und in sinen buͤcheren wider die
+                                                  Donatisten<note type="editorial"> Aurelius
+                                                  Augustinus, De haeresibus 69 (CChr.SL 46, S.
+                                                  331-333).</note>, weliche auch Arianer gwesen und
+                                                  glertt, Christus sige nitt ein wahrer und ewiger
+                                                  gott. Die Arianer und Donatisten hand den
+                                                  widertauff gebrucht, Philaster jn catalogo
+                                                  haretic[orum]<note type="editorial"> Filastrius
+                                                  Brixiensis, Diversarum hereseon liber LV (CSEL 38,
+                                                  S. 45).</note> et Sozomenus lib. 6<note type="editorial"> Sozomenus, Kirchengeschichte
+                                                  26,8-9 (GCS, NF 4, 273f.).</note>.</p>
+                                                  <p rend="margin-top">Donatisten und ­toüf­fer ist
+                                                  ein sect.</p>
+                                                  <p rend="margin-top">S. 169</p>
+                                                  <p>Origenes<persName ref="Origenes"/> über das V.
+                                                  cap. zun Römeren lehrt<note type="critical">«Origenes über … lehrt» unterstrichen</note>, es
+                                                  habe die christenlich kilch den kindertauff von h.
+                                                  apostlen nahen empfangen.<note type="editorial">
+                                                  Origenes, Commentariorum in epistolam ad Romanos
+                                                  lib. 5, 565 (PG 14, Sp. 1047).</note></p>
+                                                  <p rend="margin-top">Er redt hie nitt von den
+                                                  christen kinderen, welche er hat gheissen tauffen,
+                                                  sonder von den catechumenis, dz ist von den
+                                                  erwachsen, die da glert warend und darnach taufft,
+                                                  damit si christen wurdind.</p>
+                                                  <p rend="margin-top">S. 174</p>
+                                                  <p>Er setzt aber darzu: Welchen sitten der lehr
+                                                  (nitt des tauffens) ich beger angenomen zu werden,
+                                                  dz man die getaufften kinder fürneme zu leren, so
+                                                  si zu sölichem verstand kömend, dz si dz wortt
+                                                  Gotts vernemen mögend.</p>
+                                                  <p rend="margin-top">| [S. 171]<note type="critical">separates Blatt, das später am
+                                                  falschen Ort gebunden und entsprechend paginiert
+                                                  wurde</note> Dise wort oder sententz des H.
+                                                  Zwinglij<persName ref="Zwingli, Huldrych"/> selig
+                                                  hat doctor <persName ref="Hubmaier, Balthasar">Balthasar Hůbmeyer</persName>, der touͤffer von
+                                                  <placeName ref="Waldshut">Waldshůtt</placeName>, si Zwinglio
+                                                  in einem schryben fürgehaltten. Dises widerlegt er
+                                                  aber über doctor Balthasars tauffbuͤchli also<note type="editorial"> Vgl. Z IV, 605f.</note>: Du
+                                                  schrybst, wie es ein spott und schand seye, das
+                                                  ich schrybe wider mine vorusgangnen buͤcher, in
+                                                  denen ich den kindertauff verworffen habe. Thůst
+                                                  mir gwalt und unrecht, dan ich in alle mine tag
+                                                  nie verworffen im herzen, als ir. Wie köndten dan
+                                                  ich in mit geschrifft verworffen han? Und aber das
+                                                  kompt der mangel, dieweyl ich in minen articklen
+                                                  geschryben han, welchen sitten der lehr ich beger
+                                                  nach hütt by tag angenomen werden. Dise wortt wilt
+                                                  du mir dahin ziehen, ich wöltte dz man den
+                                                  kindertauff danen thette und red aber ich von der
+                                                  lehr der jungen, dz ich wölte, das man die kinder
+                                                  allenthalben offenttlich anhube wider zelehren
+                                                  (welches im papstumb beschaͤhen), als dan die
+                                                  nachkomenden wortt das gnůgsam erklerend etc.</p>
+                                                  <p>Dise nachvolgende wortt in  <persName ref="Zwingli, Huldrych">spruchs
+                                                  Zwinglij</persName> lönd
+                                                  die widertouͤffer hie dückischer wyß uß. Dan in
+                                                  disem 18. artickel von der firmung redt er von den
+                                                  katechumenis<note type="editorial"> Vgl. Z II,
+                                                  123.</note> (wie dan dises tütsch wortt in sinem
+                                                  bůch am rand ussen stadtt), das ist, wie man die
+                                                  kinder in der religion sölle ufferziehen,
+                                                  lehren<note type="critical">«lehren» über der
+                                                  Zeile</note>. Dan so vil dise catechumenos
+                                                  antrifft, dz ist, die welche man solt lehren, da
+                                                  warend vil deren, die vom heidenthumb sich zum
+                                                  christenthumb beckert hattend, dise hat man zum
+                                                  ersten muͤssen lehren, darnach tauffen. Es hand
+                                                  aber nütt dester minder die altten vätter die
+                                                  kinder der christen oder glouͤbigen getaufft, und
+                                                  ist der tauff weder von concilijs noch päpsten
+                                                  nitt ingesetzt worden, sonder der kindertouff hat
+                                                  von zitten der h. apostlen nahen gwaͤrett, wie dan
+                                                  Act. 16 gschryben stadt, das si ganze hußgesind
+                                                  taufft habind, da zworen die jungen kinder nitt
+                                                  ußgnomen werdend. Der h. Origenes<persName ref="Origenes">anzühung des</persName>, ein gelertter man und pfharrherr
+                                                  zu Alexandria in Egypten, hat über das 5. cap. der
+                                                  epistel zun Römeren in griechischer spraach also
+                                                  gschryben<note type="critical">Marginalie: Lehr
+                                                  der uraltten vättern, das die kinder söllend
+                                                  taufft werden</note>, es heige die h. christenlich
+                                                  kilch den kindertauff von h. apostlen nahen
+                                                  empfangen.<note type="editorial"> Vgl. oben
+                                                  Anmerkung 7.</note></p>
+                                                  <p>| [S. 172] Der <persName ref="Hieronymus">heilig Hieronymus</persName> gedenckt ouch des kindertauffs
+                                                  im 3. bůch wider die Pelagianer und im sendbrieff
+                                                  an Laetana, die gottselig frauw.<note type="editorial"> Hieronymus, Epistula ad Laetam
+                                                  CVII,6 (CSEL 54, S. 297f.).</note></p>
+                                                  <p>Der <persName ref="Augustinus">heilig Augustinus</persName> im 4. bůch wider die Donatisten am 24. cap.
+                                                  schript, das der kindertauff nitt uß mentschlichem
+                                                  oder der concilien ansaͤhen und gůttduncken
+                                                  genomen und entsprungen seye, sonder us der
+                                                  angaͤbung oder lehr der apostlen.<note type="editorial"> Aurelius Augustinus, De baptismo
+                                                  contra Donatistas IV,24 (CSEL 51, S.
+                                                  259).</note></p>
+                                                  <p>Der h. Cyrillus<persName ref="Kyrill"/> im 8.
+                                                  bůch uber das dritt bůch Mosis bestetiget den
+                                                  kindertauff auch und verdampt den widertauff.<note type="editorial"> Gemeint ist vermutlich Origines,
+                                                  In Leviticum Homilia VIII,3 (GCS 29, S. 398). In
+                                                  Basel erschien der Text 1524 als Kommentar des
+                                                  Kyrill von Alexandrien (VD16 C 6579).</note></p>
+                                                  <p>Also hat auch der h. Cyprianus<persName ref="Cyprianus"/> im santbrieff ad Fidum gelehrt,
+                                                  das die jungen kinder söllind getaufft
+                                                  werden.<note type="editorial"> Cyprianus, Epist.
+                                                  64,2 (CChr.SL 3C, S. 419).</note></p>
+                                                  <p>Uo[l]<persName ref="Zwingli III., Ulrich">rich Zwingli</persName> der jünger
+                                                  s[ripsit].</p>
+                                                  <p rend="margin-top">| [S. 175f.] Hie ist
+                                                  anziehung diser 2 <persName ref="Zwingli, Huldrych">sprüchlenen Zwinglij</persName>, bruchend si iren
+                                                  gwonlichen faltsch und beschiß, dan si nitt die
+                                                  gantzen sprüch, sonder nur zwo linien in unglichen
+                                                  ortt ußgeklaupt hand mitt verschwigung deße, das
+                                                  vorgeht, was in der mitte ist und was nachvolgt.
+                                                  Derhalben nothwendig ist, das man den anloß der
+                                                  wortten Zwingij wüße und wie er si gesetzt und
+                                                  anzogen habe. Dan also schrypt Huldrych Zwingli
+                                                  vom kindertauff [bogen] p, iiij. Blatt.: Aber hie
+                                                  hand wir nach den grösten gegenwurff der
+                                                  tauffloügnern, da Christus spricht Marc. am 16.
+                                                  cap.: Welcher nitt glaubt, der wirt nit verdampt.
+                                                  Nun glaubend die kind nitt, so müssend si auch
+                                                  verdampt werden. Verneme hie […]<note type="critical">Es folgt ein längeres
+                                                  Zwinglizitat, vgl. die Anmerkung im
+                                                  sachkritischien Apparat.</note> also, das si us
+                                                  deße offnung heil oder verdampt werdind, da es
+                                                  reicht allein uff die hörrenden etc.<note type="editorial"> Vgl. Z IV, S. 315f.</note></p>
+                                                  <p rend="margin-top">S. 185</p>
+                                                  <p>Ein pflichtzeichen verstadt er also, das einer
+                                                  sines ampts erineret sin sol, namlich dz sittenmal
+                                                  er Christo ingelibet, er der sünd darnach
+                                                  absterbe.</p>
+                                                  <p rend="margin-top">Zwingli<persName ref="Zwingli, Huldrych"/> lehrt auch, dz der tauff
+                                                  das erst und anfengklich sacrament oder zeichen
+                                                  seye, der uffnemmung in die christenlich
+                                                  kilch.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_185</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_185</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die
+                                                  Landvögte (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1545-03-12"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 36</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[…].<note type="editorial"> Das Schreiben
+                                                  betrifft den Unterhalt der Pfrundhäuser.</note> Us
+                                                  Zürich donnstags nach oculj 1545.</p>
+                                                  <p rend="margin-top">Burgermeyster unnd rath der
+                                                  stat <placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">An all vögt uffs land.</p>
+                                                  <p rend="margin-top">Unnd wenn man gan
+                                                  Gruͤ<placeName ref="Grüningen">ningen</placeName> schribt, so
+                                                  mus man glych nach dem datum, doch an einen andern
+                                                  artikel, e man die underschrifft schribt<note type="critical">«e man die underschrifft schribt»
+                                                  am Rand mit Verweiszeichen</note>, dise
+                                                  meynung<note type="editorial"> Beschluss, Weisung,
+                                                  vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>
+                                                  schryben:</p>
+                                                  <p>Wyter, lieber vogt, langet<note type="editorial"> gelangen</note> sovil clegt<note type="editorial"> Klage</note> an uns von <persName ref="Girenbader, N.">deß
+                                                  Gyrenbaders</persName> wegen,
+                                                  da er nit zu kilchen gange, das wir nit neben für
+                                                  meer komen mögend, dann das unser meynung ist, das
+                                                  du fängcklich zu jm gryffen und jnn zu Grieningen
+                                                  ennthalten<note type="editorial"> festhalten, Id.
+                                                  II, 1228.</note> wöllist, untz<note type="editorial"> bis</note> er villicht gehorsam
+                                                  würt. Datum ut supra.</p>
+                                                  <p rend="margin-top">Inn die
+                                                  <placeName ref="Regensberg">Regensperger</placeName>
+                                                  missive<note type="editorial">
+                                                  Sendschreiben</note> wirt man diß nach dem datum
+                                                  setzen:</p>
+                                                  <p>Wyter, lieber vogt, langet sovil clegt an uns
+                                                  von Verenen Sůrberin wegen von <note type="editorial"> Niederweningen</note><placeName ref="Niederweningen">Niderwäningen</placeName>, das die jnn dryen jaren
+                                                  nie ze kilchen gangen syge, das wir nit neben für
+                                                  meer komen mögend, dan das unser meynung jst, das
+                                                  du zu jr gryffen und uns die fengcklich zufüeren
+                                                  lassen wöllist. Datum ut supra.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

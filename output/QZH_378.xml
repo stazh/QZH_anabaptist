@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_378</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_378</idno>
+          </msIdentifier>
+          <head>Auszug aus dem Abschied der eidgenössischen
+                                                  Tagsatzung in Baden</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1578-08-17"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 229</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnd als dann uff nechstem tag herr
+                                                  schulltheisß <persName ref="Müllinen, Beat Ludwig von">von Müllinen</persName> jnnamen syner
+                                                  herren vor unns anzogenn<note type="editorial">
+                                                  erwähnen, anführen, Grimm 1, 528.</note> von
+                                                  wegenn <persName ref="Müller, Ruedi">eines Müllers</persName>, so ettwas gůtts jnn der graffschafft
+                                                  <placeName ref="Baden, Grafschaft">Baden</placeName>,
+                                                  welliches jme durch unnseren lanndtvogt zů Baden
+                                                  verbotten<note type="editorial"> mit Beschlag
+                                                  belegen, Id. IV, 1873f.</note> wordenn mit begär,
+                                                  wir wellten gedachts Müllers erbenn söllichs
+                                                  gefollgenn lasßenn unnd darnebent unns erklären
+                                                  unnd erlütheren, wenn sich personnen der
+                                                  thöüfferischen sect anhenngig machen unnd usß dem
+                                                  lannd ziechenn, ob wir sölliche für
+                                                  malefitzisch<note type="editorial"> dem
+                                                  Hochgericht verfallen, Id. IV, 167.</note> achten
+                                                  unnd hallten. Unnd so sich jeder bott<note type="editorial"> Gesandter, Abgeordneter</note>
+                                                  haruf jnn syner herren jnnstruction ersehenn<note type="editorial"> sich orientieren, Einsicht
+                                                  nehmen, Id. VII, 564.</note>, so habennt wir unns
+                                                  darüber erlütheret, wann hinfür sich einer der
+                                                  thöüfferischenn sect begipt unnd hinnwäg zücht
+                                                  oder sonnst nit widerumb abstadt, das dann
+                                                  sölliches ein malefitzische sach heisßen unnd syn
+                                                  gůtt unnseren herren unnd oberen heimgefallen syn
+                                                  sölle. Unnd diewyl dann gedachter Müller für unnd
+                                                  für jm lannd umbher zücht, ouch anndere ufwigklet
+                                                  unnd hinwäg fuͤrt, so sölle unnser lanndtvogt syn
+                                                  gůtt, was nach jnn der grafschafft Baden
+                                                  verhannden, zů unnserer herren hannden beziechenn
+                                                  unnd dann das verrechnen. Es habennd die gsannten
+                                                  unnserer lieben eydtgnosßen von Zürich haryn nit
+                                                  wellen verwilligen.</p> z <p>Wir habennd ouch
+                                                  unnseren beiden lanndtvögten zů Badenn unnd jnn
+                                                  Frygenn <note type="editorial"> Freie
+                                                  Ämter</note><placeName ref="Freie Ämter">Empteren</placeName>
+                                                  deßglychen denen von <placeName ref="Baden">Baden</placeName>, <placeName ref="Bremgarten">Bremgarten</placeName> unnd
+                                                  <placeName ref="Mellingern">Mellinngen</placeName> ganntz
+                                                  erntstlich bevolchenn, das sy gůtt acht habenn
+                                                  unnd, wo sy sölliche thöüfferische ufwigler
+                                                  bethrättenn<note type="editorial"> antreffen, Id.
+                                                  XIV, 1486.</note>, die gfenncklich annemen unnd
+                                                  jrem wol verdienen nach straaffen söllen.</p>
+                                                  <p>Unnd alsdann uff nechstem tag unnder unns, den
+                                                  botten, beredt wordenn, wie das die thöüffer uff
+                                                  den grenntzen unnd lanndtmarchen zůsamen kommen
+                                                  unnd ob glych ein oberkeyt nachjage, sygend sy
+                                                  glych jnn der annderen oberkeyt unnd möge man also
+                                                  jnnen keins wägs nachkommen etc. Da habennt wir
+                                                  unns verglychnet<note type="editorial"> sich
+                                                  verständigen, einigen, Id. II, 601.</note>, das
+                                                  man söllichen thoüfferen von einer oberkeyt jnn
+                                                  die annder nachjagen, doch unnder wellicher
+                                                  oberkheyt dieselbigen betretten, derselbigen
+                                                  oberkheyt söllen die gfenncklich überannthwort
+                                                  werdenn. Doch söllennd die ober­kheiten oder
+                                                  unnsere lanndtvögt, darhinnder sölliche thoüffer
+                                                  gesesßen, jr hab unnd gůtt, so desßen ettwas
+                                                  verhannden, zů unnser herren unnd oberen hannden
+                                                  zeziechenn gwallt habenn.</p>
+                                                  <p>Unnd diewyl dann sölliche thoüffer, so also
+                                                  hinwäg ziechen wellennd, jre höff unnd guͤtter
+                                                  verkouffen unnd zů bar gellt machen, da haben wir
+                                                  jnn gmeinen<note type="editorial">
+                                                  gemeinschaftlich regiert</note> unnseren vogtygen
+                                                  ein růff ußgaan lasßen, das niemand hinfür den
+                                                  thoüfferen kein hoff nach guͤtter nit abkouffenn
+                                                  sölle, ob man doch mittel unnd wäg finnden möchte,
+                                                  damit nit für unnd für sovil volcks hinwäg hinab
+                                                  jnn das lannd zuge. Sölliches soll jeder bott an
+                                                  syne herren unnd oberen gelanngen lasßen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

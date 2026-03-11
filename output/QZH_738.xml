@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_738</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_738</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-09-18"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 589</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt. Uff dyn schryben und
+                                                  bericht anthreffendt den halßstarren 
+                                                  <persName ref="Bertschinger, Heini">Heinj Bertschinger</persName>, den Schmid jm
+                                                  Vischental<note type="critical">Folgt gestrichen:
+                                                  de[…] mit der to</note><placeName ref="Fischenthal">widerthoüffer</placeName>, und darmit überschickte
+                                                  abschrifft synes vaters seligen gmechts<note type="editorial"> Vermächtnis, Vertrag, Id. IV,
+                                                  69.</note> und syn (deß ­toüf­fers) an dich
+                                                  ußgangnen schrybens gebend wir dir den bevelch,
+                                                  namlich <nswk/> das du zum vordristen syne
+                                                  brůderen bschicken und jnen anzeigen söllist, wann
+                                                  sy jnn den beschechnen verkauff syn (deß Heiniß)
+                                                  guͤtlins<note type="editorial"> Grundstück, Id.
+                                                  II, 546f.</note> und hab zestaan bergerind, das
+                                                  wir jnen dasselbig zůlaßen wellind. Dergestalt das
+                                                  sy die bezalung der schulden über sich nemmen,
+                                                  demnach dich umb den ufgangnen costen und die
+                                                  durch den Heinj verwürckte<note type="critical">«durch den Heinj verwürckte» am Rand</note> bůß
+                                                  (darfür du etwas und aber nit vil nemmen magst)
+                                                  abfertigen, söllind unnd was dann fürschüßt, das
+                                                  wellend wir uff jnen, den brůderen, doch das sy es
+                                                  versicherind, biß uff witern bscheid stahn laßen.
+                                                  Welten aber die brůderen dergstalt nit jnn kauff
+                                                  stahn, so magst du mit dem verkauff, wie der
+                                                  beschechen, wyter fürfaren unnd was bim
+                                                  kaufschilling nach abzalung der schulden, jtem deß
+                                                  costens und bůß fürschüßt, dasselbig jnn unnserm
+                                                  nammen zů dinen hannden nemmen<note type="critical">Folgt gestrichen: und biß uff
+                                                  wytern bscheidt also behalten</note>. Doch solt du
+                                                  söllichen fürschutz<note type="editorial">
+                                                  Überschuss, Gewinn, Id. VIII, 1717.</note> dyner
+                                                  amptsrechnung noch nit jnlyben, sonders also biß
+                                                  uff wytern bscheidt behalten, dann unns jnn disern
+                                                  fälen nit umbs gelt (wie etliche vermeinen
+                                                  möchten), sonnders mehr umb die gehorsame zethůnd
+                                                  jst unnd das diser schedlichen sect gewehrt
+                                                  werde.</p>
+                                                  <p>Darnebent so jst auch nochmaln unnser bevelch
+                                                  unnd will, das wo  <persName ref="Schmid, Heini">Heini Schmid</persName> oder der uß unnserm spital
+                                                  entloffne ­toüf­fer von Hadlicken<note type="editorial"> Rudolf Gubelmann von Hadlikon
+                                                  (Hinwil).</note><placeName ref="Hadlikon">diser</placeName> unnd
+                                                  anndere jrs glychen jnn diner amptsverwaltung
+                                                  zůbetretten<note type="editorial"> antreffen, Id.
+                                                  XIV, 1486.</note> weren (daruf du dann flyßige
+                                                  spech<note type="editorial"> Nachforschung,
+                                                  Fahndung, Id. X, 76.</note> machen), du sy
+                                                  gfengklich jnzüchen laßen unnd unns zůschicken
+                                                  söllist, gegen jnen nach gebür zehandlen. Wie wir
+                                                  dir verthruwend, du hierjnnen an dynem flyß und
+                                                  erntst nützit erwinden<note type="editorial">
+                                                  fehlen, Id. XVI, 580f.</note> laßen werdist, so
+                                                  werdent wir unnser bedencken haben, wie wir von
+                                                  wegen deß gůts der widerthöufferen und
+                                                  ungehorsammen, so uß unnseren landen zezüchen
+                                                  begerend, halten wellind, deßen wir dich und
+                                                  andere unnsere vögt hernach zur gelegenheit wol
+                                                  berichten werdent. Datum den 18. d. septembris
+                                                  anno 1602.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Jacoben Zur
+                                                  Eich.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

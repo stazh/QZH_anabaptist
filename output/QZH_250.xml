@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_250</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_250</idno>
+          </msIdentifier>
+          <head>Tagsatzung der Dreizehn Orte in Baden Dieser Text fehlt in QGTS
+                                                  3.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1560-06-24"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 101</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>26.</p>
+                                                  <p><persName ref="Ab Yberg, Caspar">Unnser Lanndtvogt</persName> zu Baden<note type="editorial"> Caspar Ab Yberg</note><placeName ref="Baden"/> hatt unns anzeigt, wie er
+                                                  verganngner zit ein widertöufferin by dry oder
+                                                  vier wochen jnn gefencknus gehept. Demnach hab sy
+                                                  geschworen, von jrer sect und glauben abzestan und
+                                                  fürthin sich christenlicher gehorsame erzeigen.
+                                                  Dem sy aber gantz nit statt gethan und, wie er
+                                                  bericht werde, jnn xxx jaren nie jnn kein kilchen
+                                                  kommen. Nun wyse unserer herren der viij ordten
+                                                  satzungen, dz welcher wider­toüf­fer oder
+                                                  töüfferin schwert, von jrem glouben abzestan, unnd
+                                                  denn widerumb darzu stat, die selbig person solle
+                                                  dann one alle wythere gerichtliche hanndlung dem
+                                                  nachrichter bevolhen werden, zeertrenncken etc. So
+                                                  sigend dann etliche, die vermeinen, man solte
+                                                  solche als verstockte lüth nit jm land dulden,
+                                                  sonder mit jrem hab unnd gut usß dem land
+                                                  verreisen. Do er unsers raths begert, wie er sich
+                                                  gegen solchen lüten halten solle, unnd so wir, die
+                                                  botten<note type="editorial"> eidgenössische
+                                                  Gesandte</note>, harumb kein bevelch, so soll
+                                                  jeder bott das an sine herrn pringen und uff
+                                                  nechstem tag<note type="editorial"> eidgenössische
+                                                  Tagsatzung, Id. XII, 796.</note> harumb bevelh und
+                                                  gwalt haben.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Dieser Text fehlt in QGTS
+                                                  3.</p>
+    </back>
+  </text>
+</TEI>

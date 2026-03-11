@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_717</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_717</idno>
+          </msIdentifier>
+          <head>Gelöbnis von Jörg Leutenegger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1601-12-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 568</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Er hatt disere urteil<note type="editorial">
+                                                  Nr. 566.</note>, jnmaßen die deß anlobens
+                                                  halber<note type="critical">«lobens halber» am
+                                                  Rand</note> hierjnn stadt, erstattet<note type="editorial"> etwas ordnungsgemäss erfüllen,
+                                                  Id. XI, 1784.</note> und darby angezeigt, das er
+                                                  jnnert dem bestimpten monat alher khommen und
+                                                  anzeigen, ob er zkilchen gan und ghorsamm syn
+                                                  welle. Wann es aber nit bescheche, welle er nach
+                                                  lut diser urteil und synes anlobens das land
+                                                  myden. Actum den 10. dies decembris<note type="critical">In der Vorlage: 10bris</note>
+                                                  a[nn]o 1601 vor herrn statthalter Zieglern<note type="editorial"> Hans Ziegler
+                                                  (1533-1609)<persName ref="Ziegler, Hans"/></note>
+                                                  und j[unker] h[err] Heinrich von Schönow<note type="editorial"> Hans Heinrich von Schönau (gest.
+                                                  1614)<persName ref="Schönau, Hans Heinrich von"/></note> als zů jme verordneten.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

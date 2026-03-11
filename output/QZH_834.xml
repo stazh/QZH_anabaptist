@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_834</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_834</idno>
+          </msIdentifier>
+          <head>Verhör von Jakob Isler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 685</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Alß beide herren obervögt zů <placeName ref="Horgen">Horgen</placeName> zů Jacoben Isler, dem
+                                                  wider­toüf­fer ab dem Horgerberg uff dem
+                                                  Bodenhoff, uf daß rathuß kheert, jnne volgender
+                                                  artigclen wegen der lenge nach befragt, jmme eins
+                                                  unnd annders gnůgsam unndersagt unnd syner
+                                                  anndtwort begert, hatt er diseren kůrtzen bscheid
+                                                  gäben: Daß er jm alten unnd nüwen testamänt
+                                                  dheinen<note type="editorial"> keinen</note>
+                                                  annderen glauben finde dann er habe.<note type="critical">In der Vorlage ist die Reihenfolge
+                                                  der Wörter anders und mit den Ziffern 1 bis 4
+                                                  korrigiert.</note> By demselben begere er zů
+                                                  belyben unnd durch den selben<note type="critical">«selben» über der Zeile</note> glauben selig
+                                                  zůwerden. Da er aber nit bedacht, sich wyt uf die
+                                                  äst ushin (darmit er daß disputieren verstadt)
+                                                  zelasen, da er hiemit jnn üwer (myner gnedigen
+                                                  h[erren]) gwalt syge.</p>
+                                                  <p>Item er syge nach nit gesinnet, volgende sachen
+                                                  anzůgäben unnd zůbekhännen:</p>
+                                                  <p>Welliche am Horgerberg der thöufferischen
+                                                  yrigen sect unnderworffen unnd wievil der
+                                                  personen.</p>
+                                                  <p>Ouch<note type="critical">«ouch» am Rand</note>
+                                                  wer jr prediger syge.</p>
+                                                  <p>Daß sy dhein bestimpt ort zů predigen, sonnder
+                                                  uß forcht einst da, annderst dört predigen
+                                                  laßint.</p>
+                                                  <p>Wie houptman Müllers <note type="editorial">
+                                                  <persName ref="Müller, Jos">Jos Müller</persName></note> mit
+                                                  <persName ref="Sträuli, Hans">Hannsen Strüwlis</persName>
+                                                  von <placeName ref="Wädenswil">Wädischwyl</placeName> tochter
+                                                  hochzyt gehalten, syge er nit daheim, sonnder uf
+                                                  Bůchenegg<note type="critical">Folgt gestrichen:
+                                                  gewäsen</note><placeName ref="Buchenegg">son</placeName>. Unnd
+                                                  wyl er nit darby gwäsen, vermeine er nit
+                                                  annzůzeigen, ann wellichem ort die hochzyt
+                                                  gehalten worden.</p>
+                                                  <p>Glychergstalt, wer mit <persName ref="Gut, Junghans">Junghannß Gůten</persName> von <placeName ref="Lunneren">Lunneren</placeName>, synem dienstknächt<note type="critical">«ynem dienstknächt» am Rand mit
+                                                  Verweiszeichen</note>, hochzyt gehalten, hat er
+                                                  ouch nit nambhafft machen wellen.</p>
+                                                  <p>Denn seckelmeister jres gmeinen gůts unnd
+                                                  wievil deselben, wüße er nit. Unnd ob wol darvon
+                                                  geret worden, das er, Ysler<persName ref="Isler, Jakob"/>, derselbig syn sölte, syge
+                                                  doch daßelbig nit waar, unnd verneine er, daß jr
+                                                  seckelmeister nit jnn <placeName ref="Horgen">Horger</placeName> vogtyg wonhafft. Ouch wüße er nit,
+                                                  alß der allein 4 jar lanng sich der predig
+                                                  geüßert, wer jnn daß thöuffer gůt gestuͤrt.</p>
+                                                  <p>Unnd ob wol er geholfen, etwaß kernens kauffen,
+                                                  syge doch daßelbig nit uff fürkauf<note type="editorial"> Aufkauf zum Zweck der
+                                                  Spekulation, Id. III, 166.</note> beschächen,
+                                                  sonnder darvon dem armmen gäben worden, da
+                                                  auch<note type="critical">Folgt gestrichen:
+                                                  g</note> etliche denselben wie er kaufft worden
+                                                  unnd höcher nit bezält. Unnd wiewol er anzeigt,
+                                                  daß ein ober­kheit von gott jnngesetzt unnd er nie
+                                                  geret, daß jr, myn g[nedig] h[erren], nit ein
+                                                  christenliche ober­kheit, hatt er doch uf befragen
+                                                  nit bekhännen wellen, daß jr, myn gnedig herren,
+                                                  ein christenliche ober­kheit sygen, unnd allein
+                                                  annzeigt, er begere jnn der frombkheit zleben.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

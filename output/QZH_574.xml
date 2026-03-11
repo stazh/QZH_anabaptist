@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_574</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_574</idno>
+          </msIdentifier>
+          <head>Beschluss des Rechenrates</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1590-03-19"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 425</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als junngkherr Hanns Heinrich Meyer <persName ref="Meyer von Knonau, Hans Heinrich">von
+                                                  Knonouw</persName>, vogt zů
+                                                  Knonouw, nebend syner gegebnen rechnung von mynen
+                                                  herren, den rechenherren, berichts begärrtt, wie
+                                                  er sich des costenns halber, so vonn wegen
+                                                  ettlicher ­toüf­feren jm ampt ufganngen, verhalten
+                                                  unnd wo er selbigen sůchen sölle, habennd sy, myn
+                                                  herren, jmme daruff bevolchen, das er derjhenigen
+                                                  töüfferen, deren wegen er söllichen costen gehept,
+                                                  hab unnd gůtte, wo er das betretten<note type="editorial"> antreffen, Id. XIV, 1486.</note>
+                                                  möge, anlanngen unnd sich uß demselbigen umb
+                                                  gemelten<note type="editorial"> angeführten</note>
+                                                  costen wie ouch umb die bůßen, so die nach nitt
+                                                  abgericht unangesechen einiches beschechenden
+                                                  yntrags, vernügen<note type="editorial"> sich
+                                                  begnügen, Id. IV, 701.</note> unnd bezallen sölle
+                                                  etc.</p>
+                                                  <p>Hieby jst jmme, herren vogt, ouch uferlegt,
+                                                  fürbaß<note type="editorial"> weiterhin, Id. IV,
+                                                  1654.</note> vonn den jehnigen töüfferen jnn
+                                                  synner verwaltennden vogtyg, die sich des
+                                                  kilchganngs unghorsamer wyß üsseren, sovil unnd
+                                                  dick<note type="editorial"> oft</note> das
+                                                  beschicht, die daruff gesetzte bůsß unabläßlich
+                                                  ­zů­vorderen unnd jnzůziechen. Als durch selbig
+                                                  mittel sy, die ­toüf­fer, wie myn herren erachten
+                                                  unnd zum theil ougenschynnlich jst, am
+                                                  allermeisten zur gehorsamme zebrinngen sind.
+                                                  Versechen also myn herren sich zů jme, hern vogt,
+                                                  er werde zůverrichtung sölliches alles ann synem
+                                                  flyß unnd ernnst, wie bißhar beschechen, nützit
+                                                  ermannglen laßenn. Actum donnstags denn 19ten
+                                                  martij anno etc. 90 pr[aese]nt[ibus] herr
+                                                  <persName ref="Kambli, Hans">burgermeister Kamblj</persName>
+                                                  unnd die verordneten rechenherren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

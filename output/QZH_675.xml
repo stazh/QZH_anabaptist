@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_675</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_675</idno>
+          </msIdentifier>
+          <head>Drittes Verhör und Urteile gegen Jörg
+                                                  Riedel und Heinrich
+                                                  Pfister</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 526</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem herr <persName ref="Bäumler, Markus">Marx Böümler</persName>, herr <persName ref="Egli, Raphael">Raphael
+                                                  Eglj</persName> und herr
+                                                  <persName ref="Waser, Kaspar">Caspar Waser</persName>,
+                                                  deßglychen m[eister] Hanns <persName ref="Wolf, Hans Ulrich">Ulrich Wolff</persName> und beyd herrn
+                                                  nachgengere widerumb zů Jörgen Riedel uß dem
+                                                  <placeName ref="Allgäu">Algöüw</placeName> und Heinrichen
+                                                  Pfister von <placeName ref="Wädenswil">Wedischwyl</placeName>, den widerthöufferen, jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> keert und jnen
+                                                  fürgehalten, wyl myn g[nedig] h[erren] berichtet,
+                                                  dz Jörg Riedel sich erclagt, man habe jnne nit
+                                                  gnůgsam ghört und zůr verantwortung kommen laßen,
+                                                  und damit man sy von üch, minen gn. hn., uß gnaden
+                                                  ledig gelaßen wurdint, dz sy sich deßen nit
+                                                  zuerclagen habind<note type="critical">Folgt
+                                                  gestrichen: wird</note>, sigind sy nachmaln
+                                                  abgeordnet, sy gnugsam zůverhören und jrs
+                                                  bscheidts zůerwarten.</p>
+                                                  <p>Darüber <persName ref="Riedel, Jörg">Jörg Riedel</persName> die anttwort geben, es sige vormals anzug<note type="editorial"> Erwähnung, Id. XVII, 517.</note>
+                                                  bschechen von der menschwerdung Christj<note type="critical">Folgt gestrichen: und</note> und
+                                                  der uferstentnuß, darüber sy nit zu verandtwortung
+                                                  kömen<note type="critical">Folgt gestrichen:
+                                                  mögen</note>, sonsten er sich nüt beschwerdt.</p>
+                                                  <p>Und<note type="critical">Über der Zeile
+                                                  gestrichen: Haruf</note> als daruf erstlich deß
+                                                  eydts halber<note type="critical">Folgt
+                                                  gestrichen: red</note> gefraget worden, ob sy nit
+                                                  haltind, dz ein glöübiger jn zwyffelhafftigen
+                                                  sachen ohn verletzung syner gwüßnj by dem eyd
+                                                  zügen mögen, sind sy nach langem dahin komen, dz
+                                                  sy zügen nit so für unrecht haltind, doch haltind
+                                                  sy für beßer, man laße es by ja und nein blyben.
+                                                  Darvon man ouch sy nit bringen werde, blybind
+                                                  allein by jrem bevelch.</p>
+                                                  <p>Glychergstalt habend sy ouch letstlichen die
+                                                  christenlichen oberkeyten betreffende bekhendt,
+                                                  das ein oberkeith von gott geordnet, tröstind sich
+                                                  ouch jrer oberkeith, sonster sy nienen platz
+                                                  hettind. Sy verdamind auch kein oberkeit<note type="critical">«sy verdamind auch kein oberkeit»
+                                                  am Rand mit Verweiszeichen</note>, es gepür aber
+                                                  jren jn die fůßstapfen Christj zetretten. Item es
+                                                  sölle auch kein glöbiger dz weltlich schwert
+                                                  förchten. Sonst sige jr (der töüfferen) ordnung
+                                                  und bevelch nit wyter, dan ein unrechten uß der
+                                                  gmeind zuschlüßen, darbj sy ouch belybind.</p>
+                                                  <p>Und dan fürs drit von üßerungen<note type="editorial"> Fernbleiben, Absonderung, Grimm
+                                                  1, 1037.</note>
+                                                  <note type="critical">«üßerungen» über der Zeile,
+                                                  in der Zeile gestrichen: der sünderung</note> der
+                                                  predigen als gfraget worden, ob sy einich bispil
+                                                  oder exempel uß göttlicher schrifft geben könnind,
+                                                  dz man sich, ob glich ein prediger als ein mensch
+                                                  zů zyten fele und doch dz rein wort gottes
+                                                  verkünde, darumb von syner predig üßeren sölle,
+                                                  habend sy kein anderen bscheid geben, dan welicher
+                                                  nit ein wandel und leer wie die apostel fhüre, der
+                                                  köne kein leerer syn. Item es möge jemand von
+                                                  unreinen gereiniget werden etc.</p>
+                                                  <p rend="margin-top">[Urteil]: Wyl sy nach der
+                                                  ­toüf­fern gwonheit keynne eyd schwerent, söllent
+                                                  sy nüdtesterminder<note type="critical">Folgt
+                                                  gestrichen: so vill als wan</note> von myner
+                                                  herren statt unnd land verwisen syn dergstalt,
+                                                  woveer<note type="editorial"> wenn, Id. I,
+                                                  914.</note> sy beid ald<note type="editorial">
+                                                  oder</note> eyner under jnen herüber
+                                                  betretten<note type="editorial"> ergreifen, Id.
+                                                  XIV, 1486.</note>, sol gegen jnen anderst nit
+                                                  gehandlet werden, als wan jeder den eyd gethon und
+                                                  denn überfaren hete. Sonst wellent myn g[nedig]
+                                                  herren recht uß gnaden an jr langerlitnen
+                                                  gfangenschafft eyn vernüegen haben und sy<note type="critical">«sy» über der Zeile</note>
+                                                  arbetselig<note type="editorial"> elend,
+                                                  verdorben, Id I, 424.</note>
+                                                  <note type="critical">Folgt gestrichen: lüt</note>
+                                                  und hartneckig lüt belyben lassen; und sol der
+                                                  costen uß der ­toüf­fern gůt ze
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName><note type="editorial"> Wädenswil</note> gnomen
+                                                  werden.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

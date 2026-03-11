@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_536</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_536</idno>
+          </msIdentifier>
+          <head>Supplikation von Andres Gut</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 387</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Üch, vester junker, wünschen<note type="critical">In der Vorlage: wüschen</note> wir
+                                                  unseren fründlichen grůtz und gůt wiliger dienst
+                                                  jn alem dem, das wir durch das göttlich wortt
+                                                  ergrifen mögen. Witter, vester junker, diewil ir
+                                                  uns habend lasen uhenpieten<note type="editorial">
+                                                  aufbieten</note>, gan Knonouw zů erschinen, diewil
+                                                  uns aber wäder frid noch geleid verheisen ist,
+                                                  dörfen wir es nitt beston, diewil ir ein mandatt
+                                                  wider<note type="critical">Folgt gestrichen:
+                                                  us</note> uns als die unghorsamen lasen usgan und
+                                                  uns jn die gfänknus zefuͤren. Diewyl wir aber
+                                                  verschrüwen werden als die verachter des
+                                                  kristlichen kirchgangs und des kristlichen<note type="critical">In der Vorlage: kristlchen</note>
+                                                  thouffs, ouch als die unghorsamen der oberkeitt,
+                                                  vester junker, so ist das unser fründlich pitt, jr
+                                                  welen die sach bas<note type="editorial">
+                                                  besser</note> erfaren und jm grund beschouwen, wer
+                                                  gehorsam sig oder nitt.</p>
+                                                  <p>So vil aber die ghorsame der oberkeitt
+                                                  andriftt, so bekenen wir, das söle sin ein ersame
+                                                  ordenliche oberkeitt, wie si dan gott verordnet
+                                                  hatt. Des hand wir zügnus der gschrift alts und
+                                                  nüws thestenmentts, wie dan stat jm 5. bůch Mose
+                                                  jm 17. cap.: Richter und amptlüt sold du saezen jn
+                                                  alen dinen thoren, die der her, din gott, dir
+                                                  gäben wirtt under dinen sämen, das si das volk
+                                                  richten mitt gerachttem gricht; du sold das rächt
+                                                  nitt biegen und sold ouch kein person känen, nach
+                                                  gaben nämen, dan die gaben bländen die ougen der
+                                                  wisen und verkeren die wortt der vromen; was rächt
+                                                  ist, dem sold du nachyagen, uf das du läben und
+                                                  ynämen mögist das land, das dir der her, din gott,
+                                                  gäben wirtt.<note type="editorial"> 5Mo
+                                                  16,18-20</note> Item zun<note type="critical">Folgt gestrichen: k</note> römeren am 13. cap.:
+                                                  Yederman sy underthan der oberkeitt und gwalt, dan
+                                                  es kein gwald ist dan von gott; der gwald aber,
+                                                  der alenthalben ist, der ist von gott verordnett,
+                                                  also das wer sich wider den gwald sezt, der
+                                                  widersträbtt gotts ordnung; die aber widerstraben,
+                                                  werden über sich ein urttel empfahen, dann die
+                                                  gwaldigen sind nitt denen, die gůtts dund, sunder
+                                                  dem bösen zeförchten; wild du dich aber nitt
+                                                  förchten vor dem gwaltt, so du<note type="editorial"> tue</note> gůz, so wirst du lob
+                                                  von dem sälben habenn, dan er ist ein diener gots,
+                                                  dir zů gůttem. Důst du aber böses, so forcht dir,
+                                                  dan der gwaldig | [S. 150] dreid das schwärt nitt
+                                                  vorgäblich, dan er ist gotts diner, ein rächer zů
+                                                  straf über den, der böses důd. So sind nun us nod
+                                                  under<note type="editorial"> untertan</note> dan
+                                                  nitt alein um des zorns, sonder ouch umb des
+                                                  gewüsens wilen, deshalben muͤsend ir euch
+                                                  fürgäben, dan sie sind gottes diener, die solichen
+                                                  schuz sölend hanthaben.<note type="editorial"> Rö
+                                                  13,1-5</note></p>
+                                                  <p>Nitt schriben wir üch das, als ob ir vorhin
+                                                  nitt wüsten, sunder das jr üch wol bedrachten, was
+                                                  üwer amptt jnn heig, diewil wir und jr und ale
+                                                  menschen muͤsen füren<note type="editorial"> vor
+                                                  den</note> richter stůl Kristy dargsteltt werden,
+                                                  da wirtt ein yetlichen apfachen<note type="editorial"> empfangen</note> nach dem, das
+                                                  er gehandlett hatt. Witter spricht Poulus: So
+                                                  gäbend nun yeder man, was ir schuldig sind; die
+                                                  stür dem die stir gebürtt, die zol dem dem denn
+                                                  zol gebürt, die forcht dem dir forcht gebürtt, die
+                                                  eer dem die eer gebürtt; sind niements nichts
+                                                  schuldig, dan das ir ein anderen liebend, dan wer
+                                                  den anderen liebet, der hatt das gesazt erfültt;
+                                                  ia äben das gsaz, du sold nitt ee brächen, du sold
+                                                  nit döden, du sold nitt stälen, du sold nitt
+                                                  valtsche zügnus gäben, du sold nit begären, so ein
+                                                  anders gebott mer ist dann ds, das wirtt jn
+                                                  disem<note type="critical">Folgt gestrichen:
+                                                  bůch</note> vorfasatt, namlich ‘du sold dem
+                                                  nachsten lieben als dich sälbs’; die liebe důd dem
+                                                  nechsten nüt bös; so ist die liebe des gsazts<note type="critical">Folgt gestrichen: erh</note>
+                                                  erfülung.<note type="editorial"> Rö
+                                                  13,5-10</note></p>
+                                                  <p>So bekänen wir nun, das wir einer oberkeit
+                                                  schuldig sind stür und brüch<note type="editorial"> Steuern und Abgaben, Id. II, 347.</note>
+                                                  <note type="critical">In der Vorlage: büch</note>,
+                                                  zol und gleidt und ale userliche pflicht. Was aber
+                                                  den glouben andrift, so bekännen wir, das wir
+                                                  alein sölen unseren lermeister Kristum sölend
+                                                  anschouwen und von jm lernen, da er sine jünger
+                                                  lertt Matte. am x: Und wo üch yemets nitt
+                                                  anaämen<note type="critical">In der Vorlage:
+                                                  annaämenit (Lesung unsicher)</note> wurde,
+                                                  nach<note type="editorial"> noch</note> üwere red
+                                                  hören, so gand herus von dem sälben hus oder statt
+                                                  und schüderend den stoub von üweren fůsen; warlich
+                                                  sag ich üch, dem land, der sodolamen und gamaren
+                                                  wirt es lidenlicher gan dan sölicher statt.<note type="editorial"> Mt 15,14f.</note> Darum so
+                                                  merkend eigenlich uf den underscheid, uf das wortt
+                                                  Criste und der bredekanten, wie si mitt ein
+                                                  anderen stimen. Diewil Christus den sinen befolen,
+                                                  so si jn einer statt verfolget werden, sölend sy |
+                                                  [S. 151] jnn ein andere flie, so begären wir nun
+                                                  by<note type="critical">Folgt gestrichen: d</note>
+                                                  dem einnvalten wortt Christi zů beliben, so vil
+                                                  uns gott gnad gibtt, wie dann Christus den sinen
+                                                  die ordnung angibt Matte am 18. cap. und spricht:
+                                                  Sündiget din brůder an dir, so gang hin und straf
+                                                  in zwüschen dir und jm alein; hortt er dich, so
+                                                  hast du din brůder gewunen; hort er dich nitt, so
+                                                  nim einen oder zwee zů dir, uf das ale sachen
+                                                  bestandind uf zweyer oder dryen<note type="critical">«oder dryen» über der Zeile</note>
+                                                  zügen mund; hörtt er die ouch nitt, so sag es der
+                                                  gmeind; hörtt er die gmeind ouch nitt, so halten
+                                                  yn als ein heiden und zoler.<note type="editorial"> Mt 18,15-17</note> Item Luces am 17., aer sprach
+                                                  aber zů sinen jüngeren: Es ist<note type="critical">Folgt in der Vorlage: und</note>
+                                                  unmüglich, das nitt ergernus köme; wee aber dem
+                                                  menschen, durch welich si kumpt; es were jme
+                                                  weger, das man jm ein<note type="critical">In der
+                                                  Vorlage: eim</note> müly stein an sin hals hankte
+                                                  und wurfe yn jns mer, da es am thiefsten ist, dan
+                                                  das er der kleinen einen ergerte<note type="critical">In der Vorlage: ergergete</note>;
+                                                  huͤten üch, sündiget din brůder an dir, so straf
+                                                  in; so er sich bekertt, so vergib jm; so er<note type="critical">Die Wörter «so er» sind in der
+                                                  Vorlage wiederholt</note> sich siben mal des dags
+                                                  sündigen<note type="critical">In der Vorlage:
+                                                  sündiget</note> wiltt und siben mal des das wider
+                                                  keme und sprech, es rüwett mich, so sold du es jm
+                                                  vergäben<note type="critical">In der Vorlage:
+                                                  vorgäbem</note>.<note type="editorial"> Lk
+                                                  17,1-4</note> Ouch über das, so stat gschriben jnn
+                                                  dem zeiger, der über die biblen<note type="critical">In der Vorlage: bibben</note>
+                                                  gemacht ist<note type="editorial"> Zitiert aus
+                                                  einer der täuferischen Begriffskonkordanzen, die
+                                                  unter dem Titel «Concordantz und Zeiger» im Druck
+                                                  erschienen sind. Vgl. Biblical Concordance of the
+                                                  Swiss Brethren, 1540, hg. von C. Arnold Snyder und
+                                                  Joe Springer, Kitchener (Ont.) 2001.</note>: Banen
+                                                  und usschliesen sölend die gleubigen ale, so
+                                                  ergerlich lerend oder läbend. Item läsend ouch jn
+                                                  <persName ref="Zwingli, Huldrych">Ůlrich Zwinglis</persName>
+                                                  ardikel buoch<note type="critical">In der Vorlage:
+                                                  bouch</note>, was er von dem ban schrybpt<note type="critical">korrigiert, ursprünglich:
+                                                  schribptt</note>.<note type="editorial"> Vgl. Z II
+                                                  (Auslegen und Gründe der Schlußreden), S. 276-286
+                                                  (über den Bann).</note> Poulus zun römeren 16.
+                                                  cap.: Sächend uf die, die da zerüdung und
+                                                  ergernusen anrichten näbet der ler, das ir
+                                                  gelernet habend und wichend von den sälben, dan
+                                                  söliche dienend nitt dem heren Yesus Christi,
+                                                  sunder irem eignen buch, und durch suͤskosen und
+                                                  schmeichelworten verfuͤrend si die unschuldigen
+                                                  hertzen.<note type="editorial"> Rö 16,17f.</note>
+                                                  Item Poulus zů den thaesalonichern am 3. cap.: Wir
+                                                  empfälend üch aber, lieben bruͤderen, jn dem namen
+                                                  Yesus Christe, das ir üch entziechenn von einem
+                                                  iedlichen brůder, der da unordenlich wandlet und
+                                                  nitt nach der angäbung.<note type="editorial">
+                                                  2Thess 3,6</note> Ouch an eim anderen ortt spricht
+                                                  Poulus: Wider<note type="critical">Folgt in der
+                                                  Vorlage. d (nicht gestrichen)</note> einen
+                                                  eltisten | [S. 152] nim kein klag uf usert zweyen
+                                                  oder dryen zügen mund; so si abær sündend, so
+                                                  straf si vor<note type="critical">Folgt
+                                                  gestrichen: ales</note> alen, uf das die anderen
+                                                  vorcht habend.<note type="editorial"> 1Tim
+                                                  5,19f.</note> Merkend, er seit vor allen, nitt jn
+                                                  der eignen hüseren. Im profeten Jsajus am 29. cap,
+                                                  da merkend, was der her thruwt<note type="critical">Folgt gestrichen: das nitt
+                                                  ettwan</note>, deshalben rett der her also:
+                                                  Diewil<note type="critical">korrigiert,
+                                                  ursprünglich: die</note> das volk mir mitt sinem
+                                                  mund nachet und mich mitt sinen läfzen<note type="editorial"> Lippen</note> hoch lobet, da
+                                                  doch sin herz ver von mir ist und die vorcht, die
+                                                  si mir schuldig sind, us menschen satzungen
+                                                  gelernet ist, so wil ich ouch über die mas dem
+                                                  volk ein erschrokenlich und gros ding bewisen,
+                                                  namlich das ich verderben wil die wisheitt iren
+                                                  wisen und der verstand iren verständigen wirtt
+                                                  sich verbergen.<note type="editorial"> Jes
+                                                  29,13</note> Item läsend jm efageliom Matte am 15.
+                                                  cap. Was der her witter von den mänschen sazungen
+                                                  rett, uf den vorgemälten und anderen gründen,
+                                                  könden wir nitt ergrifen, das das iren ding glich
+                                                  sig, bidend üch aber, vester junker, ir welend die
+                                                  sach jm grund<note type="critical">In der Vorlage:
+                                                  grud</note> ermäsen und üch unser erbarmen<note type="critical">Folgt gestrichen: welend üch unser
+                                                  erbarmen</note>, welend üch uns erzeigen als
+                                                  glider der barmherzikeitt.</p>
+                                                  <p>So bekänen wir, das söle sinn ein christelichen
+                                                  thůff nach der angäbung Christy (Marcy am 16.,
+                                                  Matte am 28.) und bruch der apostlen
+                                                  (apostelgschicht am 2. und anderst mee). So
+                                                  bekenen wir, das nachtmal Christe mitt brod und
+                                                  win zů bezügen. Das brod zur gedechtnus des
+                                                  brochnen lips Christe, der win zur gedechtnus
+                                                  sines vergosnen blůts Christe. Ouch bekenen wir,
+                                                  das sole si<note type="editorial"> sein</note> ein
+                                                  christeliche ee, die<note type="critical">Wort
+                                                  (die) in der Vorlage wiederholt</note> sol beschen
+                                                  us beder bewiligung.</p>
+                                                  <p>Witter, vester junker, welend üch fründlich
+                                                  batten han, das jr üwers ampts<note type="critical">«ampts» über der Zeile</note>
+                                                  warnämend und eiglich sähend uf den underscheid
+                                                  unserthalb und ouch üwer underdanen halb, die jn
+                                                  die kirchen gand, wäderen<note type="editorial">
+                                                  welcher, Id. XV, 470.</note> deil doch die
+                                                  ungehorsameren sigen. | [S. 153] Üwerer mandatt,
+                                                  diewil mine heren mandatten us gan lasen<note type="critical">«lasen» über der Zeile</note>, das
+                                                  man den namen gotes<note type="critical">«gotes»
+                                                  über der Zeile</note> nitt söle lesteren wäder mit
+                                                  flůchen nach mitt schweren, ouch mitt umæsigen
+                                                  äsen und drincken, ouch mitt gitt<note type="editorial"> Geiz</note> und wůcher und über
+                                                  nutz liegen und driegen<note type="editorial">
+                                                  betrügen</note>, wie es leider jm schwank
+                                                  gatt.</p>
+                                                  <p>Darumb welend wir üch mit ernst vermanat han,
+                                                  das ir alein den ungrächten strafend, den fromen
+                                                  schützend und schirmend, wie üwerem ampt zůstatt.
+                                                  Dan wir sind urbüdung<note type="editorial">
+                                                  bereit, ergeben, Id. IV. 1881.</note>, so wir
+                                                  mögen eines jrdums bwisen werden. Us grund<note type="critical">In der Vorlage: grudnd</note> der
+                                                  gschrift sind wir wilig, üch jnn zucht zergän,
+                                                  glich wie die kinder schuldig sind den vätteren,
+                                                  jn die zucht zegän, so si sünden. So wir aber nitt
+                                                  mögen widerwisen werden nach lutt des evangeliums,
+                                                  sind wir gesinet, jn unser einvalde zů verharen,
+                                                  so witt uns gott gnad gibtt. Diewil der her sæit,
+                                                  wer nit alem abseit, das er hatt, der mag min
+                                                  jünger nitt sin.<note type="editorial"> Lk
+                                                  14,33</note> Welend<note type="critical">«welend»
+                                                  über der Zeile</note> uns darmitt unserem
+                                                  lermeister Christy<note type="critical">«Christy»
+                                                  über der Zeile</note> pfolen han, sind ouch
+                                                  gesinett, gott zů bitten vür üch und ale
+                                                  oberkeitt, das üch gott wele bewaren, das ir üch
+                                                  nitt vergangend, das wir under üch mögend vuͤren
+                                                  ein stils, froms, gottsäligs läben in aler zuchtt.
+                                                  Bidend üch, welend unser einfaltt schlächt<note type="editorial"> schlicht</note> schribend
+                                                  zgůttem haltten und nüd an<note type="critical">Wort (an) in der Vorlage wiederholt</note> uns
+                                                  zürnen, ist es schlecht, so hofen wir es sy grund,
+                                                  hiemitt sind gott befolen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Hans Heinrich
+                                                  Meyer von Knonau<persName ref="Meyer von Knonau, Hans Heinrich"/></p>
+    </back>
+  </text>
+</TEI>

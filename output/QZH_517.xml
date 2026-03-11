@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_517</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_517</idno>
+          </msIdentifier>
+          <head>Hans Kleger
+                                                  und Joseph Peter
+                                                  verweigern den Eid und das Gelöbnis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-09-18"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 368</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Her burgermeister, gnedig jr min herren, als
+                                                  die zwen gfangnj thoüffer sich begeben hand,
+                                                  anzuloben an eidtsstatt, hab jch sy bschickt und
+                                                  jnen fürghalten<note type="editorial"> mündlich
+                                                  vortragen, vor Augen stellen, Id., II
+                                                  1234.</note>, was daruf zu erwarten were, so sy
+                                                  diserm loben nit statt thůnd, kan ich sy nüt
+                                                  wyters bringen, dan das sy loben wend, sölichs zu
+                                                  halten, aber nit an eids statt mit vermeldung, sy
+                                                  versechend sich wol, so fehr<note type="editorial"> weit, Id. I, 912.</note> sy es nit hieltind, man
+                                                  mit allem ernst gegen jnen fahren deche<note type="editorial"> tue</note>. Was hierüber üch,
+                                                  mynen gnedigen herren, gfellig<note type="critical">Folgt gestrichen: was</note>,
+                                                  gegen jnen wyters fürzůnemen, wil ich
+                                                  underthenigst verichten.</p>
+                                                  <p rend="margin-top">Uwer wyßheit undertheniger
+                                                  diener</p>
+                                                  <p><persName ref="Lavater, Hans">Hans Lavater</persName>,
+                                                  oberstknecht.</p>
+                                                  <p rend="margin-top">Wenn sy lobend by<note type="critical">Folgt gestrichen: dem</note> gott,
+                                                  der jnn synem wortt gredt, üwere reden söllend ja
+                                                  ja, nein nein syn, söllent sy ledig gelaßen
+                                                  werden, doch jnen heiter anzeigt werden,
+                                                  wover<note type="editorial"> wenn, Id. I,
+                                                  914.</note> sy söllich loben übertretten, das man
+                                                  zů jnen als gottverloügneten lüthen richten werde
+                                                  etc.</p>
+                                                  <p rend="margin-top">Sy hand söllich loben ouch
+                                                  nit thůn wellen, derhalben söllent sy wyter jm
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  blyben liggen. Actum 18. sept[embris] a[nn]o etc.
+                                                  88</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

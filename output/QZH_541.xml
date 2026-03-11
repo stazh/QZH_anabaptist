@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_541</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_541</idno>
+          </msIdentifier>
+          <head>Begnadigung von Hans Kleger und Joseph Peter</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1589-02-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 392</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Kleger der ­toüf­fer soll <persName ref="Ryser, Poley">Poleyg
+                                                  Ryßern</persName> uff der
+                                                  <placeName ref="Strahlegg">Stralegg</placeName>, so
+                                                  anderthalb sentj<note type="editorial"> Zent, hier
+                                                  vemutlich im Sinn einer wirtschaftlichen Einheit,
+                                                  vgl. Grimm 31, 635.</note> hatt, verheißen haben,
+                                                  so er mit jm hinwegzüche, welle er jm daunden jm
+                                                  land umb ein meygerhoff<note type="editorial">
+                                                  Bauerngehöft, das jemand bewirtschaftet und
+                                                  verwaltet, ohne es zu besitzen.</note>
+                                                  verhelfen.</p>
+                                                  <p>Item <persName ref="Bleich, Hans">Hans Bleichen</persName> soll er jnn einem acher ouch angredt haben, mit
+                                                  jm hinweg zefaren.</p>
+                                                  <p>Unnd dann <persName ref="Egli, Hans">Hans Eglis</persName> ald<note type="editorial"> oder</note> Poleygen
+                                                  seligen witwe sambt jren zweygen töchtern mit
+                                                  synem reden sowyt verfuͤrt haben, das die můter
+                                                  schier jrer sinnen abkommen.</p>
+                                                  <p rend="margin-top">[Urteil]: Wiewol myn gnedig
+                                                  herren disere zwen ­toüf­fer von deßwegen, dz sy
+                                                  jnen jr volck ufgwiglet und hinweg zefuͤren
+                                                  understanden, fůg und ursach gehept hetten, sy an
+                                                  jrem lyb und läben zestraffen, diewyl sy aber
+                                                  jetzt 29 wuchen lang jnn schwerer gfängknuß
+                                                  gelegen, sind myn gnedig herren jnn ansehung
+                                                  desselben gegen jnen zů gnaden bewegtt worden und
+                                                  deßen jetztmalen die gefangenschafft jr bůß syn
+                                                  laßen, also das sy der gfangenschafft nun mehr
+                                                  entlediget werden. Darnebent söllent sy uß myner
+                                                  herren gricht und gebiet beleitet<note type="editorial"> begleitet, Id. III, 1493.</note>
+                                                  und jnen durch den obersten knecht mitt erntst
+                                                  heiter angezeigt werden, sy mögind wol ußerthalb
+                                                  blyben und sich nit widerumb jnns landt laßen.
+                                                  Dann wover<note type="editorial"> wenn, Id. I,
+                                                  914.</note> dasselbig bescheche, werde man zů jnen
+                                                  gryffen<note type="critical">Folgt gestrichen:
+                                                  und</note>, es achten, als wann sy jnen eyd
+                                                  geschworen, und jnen jren lohn, den sy jetzt
+                                                  verdienet hetten, als dann widerfaren laßen.
+                                                  Darnach mögind sy sich zehalten wüßen.</p>
+                                                  <p>Darnebent soll uß jrem gůt der kosten, so uff
+                                                  sy gegangen, abgefertiget unnd was überig als
+                                                  verwürckt zů myner herren handen genommen werden.
+                                                  Actum mentags den 4./24ten februarij anno etc. 89
+                                                  p[raese]nt[ibu]s herr <persName ref="Thomann, Kaspar">burgermeister
+                                                  Tomman</persName> und beid
+                                                  reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

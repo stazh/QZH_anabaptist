@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_788</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_788</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Ulrich Wolf (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1605-05-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 639</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles
+                                                  gůts zůvor. Frommer, wyßer, besonders gethrüwer,
+                                                  lieber burger und vogt. Wir habent uß dynem
+                                                  schryben verstanden, was dir der jhenigen
+                                                  personnen halber, so jnn den jnn dynem schryben
+                                                  vermeldeten orten verschinner<note type="editorial"> vergangener</note> wuchen
+                                                  gehaltnen ­toüf­fer predigen gweßen, der
+                                                  straff<note type="critical">Folgt gestrichen:
+                                                  halber begegnet</note> und jr, der ­toüf­feren,
+                                                  halber begegnet. Gebend dir daruf den bevelch, das
+                                                  du uff die redlifürer und diser ­toüf­feren
+                                                  prediger dyn flyßige spech<note type="editorial">
+                                                  Nachforschung, Fahndung, Id. X, 76.</note> machen
+                                                  und nit allein dieselben, sonder auch alle die, so
+                                                  jnen, den ­toüf­feren, jnngmein herberig und
+                                                  underschlouff gebend, gfengklich jnzüchen laßen,
+                                                  jnen diß alles und was jrethalb unser meinung syge
+                                                  fürhalten und dann mit allem erntst straffist
+                                                  jnnsonderheit auch allen<note type="critical">«allen» über der Zeile</note> den jhenigen,
+                                                  die<note type="critical">«die» über der Zeile, in
+                                                  der Zeile gestrichen: so jnn; über der Zeile
+                                                  gestrichen: und</note> disere<note type="critical">korrigiert, ursprünglich: dieseren</note>
+                                                  ­toüf­ferpredigen<note type="critical">Folgt
+                                                  gestrichen: gsyn</note> besůcht, so<note type="critical">«so» am Rand, in der Zeile
+                                                  gestrichen: und</note> du jnn erfarung bringen
+                                                  magst<note type="critical">Folgt gestrichen: ouch
+                                                  erntstlich büßist und</note>, ein größere und
+                                                  mehrere straff wieder aber unser deßhalb ußgangen
+                                                  mandat vermag<note type="editorial"> besagen,
+                                                  beinhalten, Id. IV, 111.</note>, abnemmist, also
+                                                  dz es nit grad by dem 1 g[ulden] daruf gesetzter
+                                                  bůß blyben, sonder ein jeder durch dich
+                                                  dermaßen<note type="critical">«durch dich
+                                                  dermaßen» über der Zeile, in der Zeile gestrichen:
+                                                  nach gsalt der sachen</note> gestrafft werden
+                                                  sölle, das sy welten daheimen blyben syn<note type="critical">«das sy welten daheimen blyben
+                                                  syn» am Rand mit Verweiszeichen</note>.
+                                                  Woveer<note type="editorial"> wenn, Id. I,
+                                                  914.</note> dann einer ald<note type="editorial">
+                                                  oder</note> mehr diser personen<note type="critical">Folgt gestrichen: umb schirm und
+                                                  handthabung unsers mandats kh[…], das man sy nach
+                                                  luth dersleben allein straffen sölte v</note> unns
+                                                  nachlauffen und begären wurde, sy by<note type="critical">Folgt gestrichen: dem</note>
+                                                  unserm mandat der bůß halb zeschirmen und nach
+                                                  luth desselben allein zestraffen<note type="critical">«sy by … zestraffen» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen:
+                                                  werdend</note>, wellend wir dieselben nit nun
+                                                  abwyßen, sonder auch, wo wir von nöten syn
+                                                  erachtend, gfengklich jnzüchen laßen und der gebür
+                                                  nach auch straffen und büßen<note type="critical">Folgt gestrichen: werdent</note> unnd dir
+                                                  jederzyt diser ­toüf­feren halber gůten rugken
+                                                  halten werdent, da wir unns gegen dir
+                                                  versehend<note type="editorial"> erwarten, Id.
+                                                  VII, 567.</note>, du werdist wyter wie bißhar an
+                                                  dynem flyß und erntst auch nützit ermanglen laßen,
+                                                  das stadt unns gegen dir jnn gnaden
+                                                  zůerkhennen.</p>
+                                                  <p>Demnach hat unns unser geliebter burgermeister
+                                                  herr <persName ref="Bräm, Heinrich">Heinrich Bräm</persName>
+                                                  dyn begären deß jnsatz<note type="editorial">
+                                                  Einsatz eines neugewählten Pfarrers, Id. VII,
+                                                  1541.</note> briefs von wegen der pfarr
+                                                  Tägerlen<note type="editorial"> <placeName ref="Dägerlen">Dägerlen</placeName></note> angezeigt, darüber gebend
+                                                  wir dir zůvernemmen<note type="critical">«wir die
+                                                  zůvernemmen» am Rand, in der Zeile gestrichen: jst
+                                                  unser meinung, das du disemaln umb wenigisten
+                                                  costens willen anheimbsch blybest</note>, das wir
+                                                  uff unserer eidtgnoßen von <placeName ref="Schaffhausen">Schaffhußen</placeName> schriftlichs begären
+                                                  bewilliget, das umb wenigisten costens willen<note type="critical">«umb wenigisten costens willen» am
+                                                  Rand mit Verweiszeichen</note> diser jnsatz allein
+                                                  durch<note type="critical">Folgt gestrichen:
+                                                  den</note> herrn Wonlichen<note type="editorial">
+                                                  <persName ref="Wonlich, Diethelm">Diethelm Wonlich</persName></note> zů <placeName ref="Winterthur">Winterthur</placeName> als dechan deß Winterthurer capitels jnnbysyn
+                                                  deß pfarrers zů <placeName ref="Andelfingen">Andelfingen</placeName> beschechen sölle.<note type="editorial"> Das Kollaturrecht lag bis zur
+                                                  Reformation beim Kloster Allerheiligen in
+                                                  Schaffhausen. Seit der Reformation wählte der
+                                                  Schaffhauser Rat den Pfarrer von
+                                                  Andelfingen.</note> Deß habent wir dich berichten
+                                                  wöllen, du dich darnach zehalten<note type="critical">Folgt gestrichen: und anheimbsch
+                                                  zeblyben</note> wüßist. Datum den 2. maij anno
+                                                  1605.</p>
+                                                  <p rend="margin-top">Burgermeister und rhat der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unserm
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  <placeName ref="Kyburg">Kyburg</placeName> Hans Ůlrich
+                                                  Wolfen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

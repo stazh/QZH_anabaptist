@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_331</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_331</idno>
+          </msIdentifier>
+          <head>Felix Brunner an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1573-05-22"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 182</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, frommen, erennvesten, fürsichtigen,
+                                                  fürnemen, ersamen unnd wyßen, gnedig min herren,
+                                                  eüwer wyßheit sigen min unnderthenig willig dienst
+                                                  altzyt jn schuldiger pflicht zůvor bereit. Gnedig
+                                                  min herren, nachdem mich  <persName ref="Farner, Marti">Marti
+                                                  Farner</persName>, predicant
+                                                  zů <placeName ref="Wald">Wald</placeName>, bericht, das jr,
+                                                  min gnedig herren, jm gerathen, <persName ref="Walder, Heini">Heinj
+                                                  Waldern</persName> den
+                                                  töüffer, jnn siner pfarr gesäßen, umb das er jm
+                                                  zůgeredt, alhie vor den zwölffen<note type="editorial"> Das Gericht der Zwölf,
+                                                  Herrschaftsgericht in der Landvogtei
+                                                  Grüningen</note> und mir, als an dem ännd sich
+                                                  sine reden verlouffen, zů berächtigen, hab ich jnn
+                                                  uff sin ansůchen billich recht gehalten. Unnd
+                                                  diewyl aber der herr erschinen, und der Walder zum
+                                                  annderen mal ungehorsamm gewesen, hann ich nit nun
+                                                  allein zů jm von siner ungehorsame, sunders von
+                                                  siner töüfferischen leer und seckt wegen, die
+                                                  unnder kristen lüten deheins wägs<note type="editorial"> keineswegs</note> zůlyden noch
+                                                  zegedulden ist, gryffen unnd alhie har jn
+                                                  gefengknus füren lassen, unnd darine allerleye
+                                                  reden, jnne von siner seckt zů unnserem glouben zů
+                                                  bringen, mit jm fürgenommen, aber annderst nütz
+                                                  geschafft<note type="editorial"> ausgerichtet,
+                                                  bewirkt, Id. VIII, 312.</note>, dan das er sin böß
+                                                  eigenrichtig gemüt nach jrer gewonheit beharrt,
+                                                  unnd jetz dises verschinen<note type="editorial">
+                                                  vergangenen</note> dornstags jnn uffs dritt gricht
+                                                  füren. Und als jetzgenannter herr Martj jn bystand
+                                                  herr dächens<note type="editorial"> Dekan</note>
+                                                  zů Dürnten<note type="editorial"> <persName ref="Hamberger, Hartmann">Hartmann
+                                                  Hamberger</persName></note><placeName ref="Dürnten">herr</placeName> unnd herr
+                                                  Johannsen <persName ref="Ulm, Johannes von">von Ulms</persName>, pfarrers zů
+                                                  <placeName ref="Egg">Egg</placeName>, dise meinung zů jm
+                                                  clagt, das er verschiner zyt uff ein sambstag zů
+                                                  Hünwyl<note type="editorial"> Hinwil</note> jn
+                                                  offner bedstuben<note type="editorial"> häusliche
+                                                  Gebetsversammlung</note> ouch jn bysin gemelts
+                                                  herr dächens unnd mengclichs geredt, pfaff Martj
+                                                  ist ein faltscher proffeet unnd bringt artickel
+                                                  für, daran er gar nit kommen<note type="editorial"> denken, einfallen, Grimm 11, Sp. 1625ff. (§ 28,
+                                                  b, α)</note> möge etc. Deßhalben sidmal er sinen
+                                                  underthonen nütz anders, dann was er mit
+                                                  göttlicher heliger gschrifft zůbewysen, geprediget
+                                                  unnd gleert, unnd er die unwarheit ouch von jm
+                                                  ußgäb, das sich niemerme befinden<note type="editorial"> sich zeigen, erweisen, vgl. <hl to="http://fwb-online.de/go/befinden.s.3vu_1709376838"><Hyperlink>http://fwb-online.de/go/befinden.s.3vu_1709376838</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, darumb
+                                                  er getruwt, das er jm billich wandel und ein
+                                                  offnen widerrůff thůn oder jn bezügen, das er ein
+                                                  faltscher proffeet unnd sin leer nit warhafftig,
+                                                  wie dann sin erpieten, den Walder vil mer uß altem
+                                                  unnd nüwem testament als göttlicher geschrifft zů
+                                                  berichten, das sin töüfferische säckt nichtig, ja
+                                                  ouch by dürggen und heiden als den unglöübigen nit
+                                                  gelitten, noch vil minder jn der maß geduldet
+                                                  wurdint etc. Ist daruff Heinj Walders antwurt, das
+                                                  er die zwen rechtztag nit besůcht, sige die
+                                                  ursach, das er wol gewüsst, das er by unns kein
+                                                  gwünnens. Unnd so man jnn nit gereicht<note type="editorial"> herbeiholen, Id. VI,
+                                                  145.</note>, welt er noch nit kommen sin. So er
+                                                  aber jetz da, bedörff er keins fürsprächen unnd
+                                                  hab sin mul, selbs zůreden unnd sich zů
+                                                  veranntwurten, by jm unnd sage nach<note type="editorial"> noch</note>, das er grad zum
+                                                  dächen gredt, was solt oder welt ich zum pfaff
+                                                  Martj zů kilchen zegon, er ist doch ein faltscher
+                                                  proffeet; er leert unnd prediget faltsch unnd
+                                                  treit ouch ettlich artickel dem volch unwarhafftig
+                                                  unnd die unwarheit für, daran ich nun gar nit
+                                                  kommen mag, als nammlich der kinder touff, die
+                                                  beschnydung, der eydschwůr unnds kriegen.</p>
+                                                  <p>Unnd nach dem wir den töüffer jn sinem anliggen
+                                                  unnd den cappittlen, darmit er sin töüfferische
+                                                  unnd nichtige seckt und des herren ußgossne zůred
+                                                  zůerhalten<note type="editorial"> verteidigen,
+                                                  beweisen</note> understanden und dargegen die
+                                                  herren, die er dann grad under ougen, nit minder
+                                                  dann wie herrn Martin faltsch proffeeten unnd
+                                                  leerer genämpt unnd geseit, grad jr sind die
+                                                  verfürer des folchs, jn jren wolgegründten
+                                                  cappittlen, argumenten unnd vorab uß göttlichem
+                                                  wort unnd heiliger göttlicher gschrifft, darmit sy
+                                                  jnn jn allweg gnůgsam widerwysen, aller notturfft
+                                                  unnd länngj gehört, unnd nach lanngem vilfaltigem
+                                                  bericht unnd kyben<note type="editorial"> Zank,
+                                                  Streit, Id. III, 106.</note> sy ußgestelt unnd
+                                                  sich des entschloßen, sidmal diser hanndel die
+                                                  eer<note type="editorial"> In der Vorlage:
+                                                  Eeer</note> gotts, ouch das göttlich und heilig
+                                                  wort als der höchst und grössist, türrist schatz
+                                                  uff ärtrich antroffen und dann gemelter Walder nit
+                                                  nun allein wie gmäldet herren Martin, sunder grad
+                                                  alle vorstender und prediger heligs göttlichs
+                                                  worts genammset unnd meint, so gepüre jnen nit
+                                                  harinne ützit<note type="editorial"> etwas, Id. I,
+                                                  83f.</note> rechtlichs zů urteilen. Deßhalben jr
+                                                  meinung sige, bedtheil für<note type="editorial">
+                                                  vor</note> üch, unnser gnedig herren, als die
+                                                  hochverstendigen harinne zehanndlen, was üch recht
+                                                  sin beduncken, kommen zelaßen. Des alles unnd was
+                                                  gemelter parthygen halb fürgenommen, ich üch mit
+                                                  zůschickung des Walders unnd töüffers jm besten
+                                                  unbericht nit lassen söllen und bin üch darnebent
+                                                  altzyt unnderthänigen willen zůbewysen schuldig
+                                                  unnd ganntz geneigt.</p>
+                                                  <p>Beschließlich vorgenannt, gnedig min herren,
+                                                  diewyl sich <persName ref="Walder, Heini">diser Walder</persName> nun mer ein langj zyt siner
+                                                  töüfferischen leer unnd seckt unangesächen, das er
+                                                  zůvor, wie ich verstan, von eüweren vorfaren<note type="editorial"> Vorgänger</note> vögten ouch
+                                                  darumb gestrafft, geprucht, hab ich jm umb bůß
+                                                  unnd den uncosten, so hiemit uffgath, zwo kü nämen
+                                                  unnd alher tryben lassen. Des sich der alt Walder,
+                                                  sin vatter, mit bystannd <persName ref="Pfeninger, N.">vogt Pfäningers</persName> beschwerdt unnd redt, das er
+                                                  jn enterpt, ouch sin gůt unnd kinder bevogtet lut
+                                                  brief unnd sigel, so er by hannden unnd die kü
+                                                  sin. Da ich vermein, das er üch darumb kein
+                                                  töüffer unnd widerwertigen, der sun selbs vil
+                                                  anhangs unnd abtrünniger lüten macht unnd drü
+                                                  wyber nimpt, aber mit keiner den eestand nach
+                                                  kristenlicher ordnung bestett<note type="critical">«unnd drü wyber … bestett» am Rand mit
+                                                  Verweiszeichen.</note>, jn Hofwald jme das sin
+                                                  zůbewerben setzen, sunder es mit lüten nutzen, die
+                                                  üwer religion<note type="critical">In der Vorlage:
+                                                  religon</note> und gloubens. Unnd sidmal er mir
+                                                  umb die bůß unnd den costen nit vertrösten, hab
+                                                  ich jm die kü nit sonder bescheid gäben, üch (min
+                                                  gnedig herren) des zůvor zeverständigen unnd will
+                                                  also hierüber eüwers gefallens, wie ich mich gegen
+                                                  jm halten, ouch erwarten unnd dem selben mit allem
+                                                  vlyß nachkommen. Datum frytags den 22. may anno
+                                                  etc. 73.</p>
+                                                  <p rend="margin-top">Eüwer wyßheit altzyt
+                                                  unnderthäniger diener</p>
+                                                  <p>Felix Brunner, vogt zů <placeName ref="Grüningen">Grüningen</placeName></p>
+                                                  <p rend="margin-top">Den edlen, frommen,
+                                                  erenvesten, fürsichtigen, fürnemen, ersamen unnd
+                                                  wysen herren burgermeister unnd rath der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>, minen gnedigen
+                                                  herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_442</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_442</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Holzhalb (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1584-02-24"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 293</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern gunstigen, geneigten willen unnd alles
+                                                  guts zuvor. Ersammer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, nachdem wir die 
+                                                  <persName ref="Egli, Uli">Ulj Eglj</persName> uss dem
+                                                  <placeName ref="Fischenthal">Fischenthal</placeName>,
+                                                  <persName ref="Gubelmann, Rudolf">Rudolffen Gugelman</persName> von Haldicken<note type="editorial"> Hadlikon</note><placeName ref="Hadlikon">unnseren</placeName> uss dem <placeName ref="Hinwil, Girenbad">Gyrenbad</placeName> unnd <persName ref="Peter, Hans">Hannsen
+                                                  Peter</persName> ouch uss dem
+                                                  Fischenthal, dyne amptßangehorigen,
+                                                  ­toüf­ferischer secten wegen jnn unnser<note type="critical">Folgt gestrichen:
+                                                  gefanngknus</note> gefangenschafft gehept, habennd
+                                                  dieselbigen verzert, wie<note type="critical">Folgt gestrichen: jr us</note> du uss bjliggendem
+                                                  rodelj<note type="editorial"> Verzeichniss der
+                                                  Ausgaben, Id. VI, 603.</note> zufinnden. Damit
+                                                  dann unnser thurrnhütter umb solliche summa werde
+                                                  bezalt, jst unnser bevelch an dich, du wellist
+                                                  ordnung geben und verschaffen daß obgemelte
+                                                  personenn jme nun mer umb sollichen synenn
+                                                  usstannd ußrichtinnd unnd bezalinnd oder du sy mit
+                                                  dem schnellistenn ynzug<note type="editorial">
+                                                  Einnehmen des Geldbetrags</note> darzu haltenn.
+                                                  Des stadt unns umb dich jnn gnaden haben
+                                                  zuerkhennen. Datum den 24ten februarij a[nn]o etc.
+                                                  84</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem ersammen, wysen, unnserem
+                                                  besonnders gethrüwen, lieben burger unnd vogt zu
+                                                  <placeName ref="Grüningen">Gruningen</placeName> Heinrich
+                                                  Holzhalb.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

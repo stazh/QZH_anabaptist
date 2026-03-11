@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_162</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_162</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans
+                                                  Rudolf Lavater</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1535-10-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 13</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeister und rät der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>. Unnsern
+                                                  früntlichen sunders geneigten willen und alles
+                                                  gůtz zůvor. Fromer und wyser, insonders lieber,
+                                                  gethrüwer burger und vogt. Wir haben
+                                                  verrugckter<note type="editorial">
+                                                  vergangener</note> jaren wider die jrrige,
+                                                  schädliche und verfuerische sect der töüffery<note type="critical">StAZH, B IV 6, fol. 109r:
+                                                  ­toüf­feren</note>, so stat und land in groß
+                                                  unwiderbringlich<note type="critical">gemäss
+                                                  StAZH, B IV 6, fol. 109r, in der Vorlage:
+                                                  unleiderbringlich</note> jrsall, zerrütung und
+                                                  verderbnus zepringen gedengkend, jn offenen
+                                                  trugkenn<note type="editorial">
+                                                  Druckschriften</note> und sunnst herte schwäre
+                                                  mandat, daß man sy nienan<note type="editorial">
+                                                  nirgends</note> enthalten<note type="editorial">
+                                                  Aufenthalt/Unterkunft gewähren, beherbergen, Id.
+                                                  II, 1229.</note> noch getulden, sunder sy
+                                                  deßglichen ire gönner und anhänger und die sich
+                                                  iren underziechend, jnen fürschub<note type="editorial"> Beihilfe, Id. VIII, 84.</note>
+                                                  und underschlouff gäbend, zů unseren handen
+                                                  uberantwurten sölte, nach irem verschulden an lyb
+                                                  und läben zestraffen, ußgan und allenthalben
+                                                  verkünden lassen.</p>
+                                                  <p>Da wir uns gäntzlich versächen<note type="editorial"> erwarten, Id. VII, 566f.</note>,
+                                                  solichen mandaten wie billich gehorsamet worden
+                                                  wäre. So wir aber mit grosser beschwärligkeit
+                                                  vernemend, das söliche ­töuffer und töuffische
+                                                  gönner allenthalben wider fürbrächend und das from
+                                                  biderb volgk mit jrer jrsäligen, selbs erdichten,
+                                                  unwarhafften lere zů verfüren understandint, und
+                                                  wir aber sölichen verderplichen schaden von
+                                                  oberkeits wägen vorzesin<note type="editorial">
+                                                  verhüten, Id. I, 929.</note> schuldig, so ist an
+                                                  dich unser ernstlich und träffenlich gebott, will
+                                                  und geheiß, das du gemeltem<note type="editorial">
+                                                  genanntem</note> unserem mandat sines jnhalts
+                                                  handtlich, getrüwlich und mit allem ernst
+                                                  nachkomen und benantlich die töuffer, ire gönner
+                                                  und anhänger und die sy behusen und beherbergend,
+                                                  ätzend<note type="editorial"> zu essen geben, Id.
+                                                  I, 626.</note>, trengkend oder inen sunst
+                                                  fürschub, uffenthalt oder underschloüff gebend und
+                                                  hilff thůnd heimlich oder offenlich, es sigind
+                                                  vatter, můtter oder andere fründ, wer die oder wie
+                                                  nache sy jnen yemar<note type="editorial">
+                                                  immer</note> verwandt ald<note type="editorial">
+                                                  oder</note> gefrünt sind, niemand ußgenomen.
+                                                  Deßglichen die, so sich der töüffery usßerlich
+                                                  verlöügnend und aber wider die cristenlichen
+                                                  erbaren predicanten on eerlich ald notwendige
+                                                  ursachen fräffenlich setzend, deß gmeinen
+                                                  klichgang verdächtlich entziehend und der
+                                                  heimlichen wingckelpredigen in holtz ald wäld
+                                                  beflysßent ald mit den töüffern gemeinschafft,
+                                                  verwandtschafft und zůgang zů inen habent, ald an
+                                                  jre predigen gand, jn wellichen wäg das gespürt
+                                                  und du jren inen werden, und wo du sy und ir yeden
+                                                  jn unsern oberkeiten ergriffen magst, unangesechen
+                                                  und ungeschücht ob sy dir schon jn ein ander unser
+                                                  ampt entrünind, als bald fängklich annemen und mit
+                                                  schrifftlichem bericht, warjn sy schüldig verdacht
+                                                  oder argwönig erfünden, uns wol verwaaret zů
+                                                  unseren handen uberschicken lasßen.</p>
+                                                  <p>Deßglichenn den abgewichenen jre hüser
+                                                  beschlüsen und zů irer hab und gůt angends<note type="editorial"> unverzüglich, Id. II, 19.</note>
+                                                  griffen und das zů gmeiner unser stat handen als
+                                                  malefitzischer<note type="editorial"> dem
+                                                  Hochgericht verfallen, Id. IV, 167.</note> lüthen
+                                                  verwürgckt und verfallen gůt ungehindert aller
+                                                  ammpts rächtenn, so hiewider sin möchte<note type="critical">StAZH, B IV 6, fol. 109r:
+                                                  möchten</note>, beziechen und nemen und kein flyß,
+                                                  ernst, müg<note type="editorial"> Mühe</note> noch
+                                                  arbeitt hierin sparen, ob du ouch yemand sölichs
+                                                  jn unserem namen bevelchen und der selb ouch sümig
+                                                  hierin sin und durch die finger sächen würd,
+                                                  undervogt ald andere uns den oder die selben ouch
+                                                  uberantwurten und dich so geflysßen hierin
+                                                  erzeigen welest, als diser ernsthafft handel und
+                                                  din pflicht, damit du statt unnd lands gebresten
+                                                  zů fürkomen schüldig bist, erfordertt, wir uns
+                                                  ouch aller trüw gäntzlich zů dir versächend. Dan
+                                                  soltestu hierin sümig erschinen, wurden wir dich
+                                                  gewisßlich selbs reichen<note type="editorial">
+                                                  holen</note> lasßen und gegen dir mit straff
+                                                  handlen, als obe du selbs sächer<note type="editorial"> Gegner, Angeklagter, Id. VII,
+                                                  126-130.</note> werest, wolten wir dir nit bärgen,
+                                                  dich und andere wüsßen mögen, vor schad und unser
+                                                  herrtten straaff zůvergoumen<note type="editorial"> bewahren, verhüten, Id. II, 302.</note>. Uß
+                                                  Zürich, mitwüchs nach sant Gallen tag anno etc.
+                                                  1535.</p>
+                                                  <p rend="margin-top">Dem fromen und wysen, unserem
+                                                  jnsunders lieben und getrüwen burger und  <placeName ref="Kyburg">vogt</placeName>, Johans Růdolff
+                                                  Laffatern.<persName ref="Lavater, Hans Rudolf">zů
+                                                  Kyburg</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_309</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_309</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Derselbe Ratsbeschluss im Manual des
+                                                  Unterschreibers (StAZH, B II 145, S. 36): «Steffan
+                                                  Im Tall ußem Nüwen ampt, der ­toüf­fer, jst uff
+                                                  synen kinden underthenigs und trůngenlichs bitten
+                                                  der gfangenschafft dergstalt und mit dem heitern
+                                                  anhang erlassen, das er jm huß bin kinden syn und
+                                                  sy jnn darjnne behalten und gar nitt dann allein
+                                                  jnn die kilchen zůr predig ußhin gaan lasßind,
+                                                  noch dheine ­toüf­fer zů jm jnhin wandlen,
+                                                  sonnders er sich dero gentzlichen muͤsßige. Und so
+                                                  sy, myn herren, vernemmend, das er uß dem huß (on
+                                                  die kilchen) gadt oder sy, die kind, ­toüf­fer zů
+                                                  jm jnns hůß wandlen laßend, wellent sy, myn
+                                                  herren, das an jnen, den kinden, zůkommen und sy
+                                                  dermasßen straffen, das sy weltend, diser urteil
+                                                  statt gethaan hetten. Unnd was costens uff jnn,
+                                                  den vater, gangen, den söllent die sün allen
+                                                  erleggen.»</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1568-11-29"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 160</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Actum mentags den 19ten novembris
+                                                  p[raese]nt[ibus] herr burgermeister von <note type="editorial"> Benrnhard <persName ref="Cham, Bernhard von">von Cham</persName></note> unnd beid reth.
+                                                  Wiewol Stefan <persName ref="Im Tal, Stefan">Im Thall</persName>, der ­toüf­fer jm Nüwen
+                                                  ampt<note type="editorial"> Obervogtei
+                                                  Neuamt</note><placeName ref="Neuamt">Chaam</placeName>, von
+                                                  derselben syner jrrigen sect wegen ein zyt lang
+                                                  jnn myner herren gefengknuß gelegen, so hatt er
+                                                  sich doch unangesehen, was durch geistliche und
+                                                  weltliche personen mit jme jnn darvon zůbekeeren
+                                                  gredt worden, nitt dahin begeben wellen, das er
+                                                  jnn die kilchen, die predigen zůhören, gaan. Als
+                                                  aber syne sün vermelt<note type="editorial">
+                                                  erwähnte</note> myn gnedig herren gantz
+                                                  underthenigklichen gebeten, jnen den vater (als
+                                                  einen alten man) der gfangenschafft zůerlasßen,
+                                                  wellind sy jnne daheim by jnen behalten, das
+                                                  niemandts von jme syner sect halber verfuͤrt
+                                                  werden sölle, habent sy, myn herren, jnen, den
+                                                  sünen, deß gewilfaret. Doch mitt dem heitern
+                                                  anhang, das er, der vatter, by den sünen jm huß
+                                                  blyben und sy jnne darjnn behalten und ussert das
+                                                  huß gar nienardthin gaan lasßen. Zůdem ouch
+                                                  versehen, das dheine<note type="editorial">
+                                                  keine</note> ­toüf­fer zů jme jnns huß oder er zů
+                                                  jnen ußhin wandle, sonnders er, der vatter,
+                                                  derselben gmeindschafft sich gentzlichen
+                                                  muͤßig[en]<note type="critical">Aufgrund der
+                                                  Bindung nicht lesbar</note> und abthůn. Dann so
+                                                  vermelt myn herren vernemmind, das er usserthalb
+                                                  dem huß anderschwo hin dann jnn die kilchen zur
+                                                  gwonlichen und gmeinen predig gienge, oder das sy,
+                                                  die sün, zů jme jnns huß ­toüf­fer gaan und
+                                                  wandlen ließind, wellent sy, myn herren, das an
+                                                  den sünen und kinden zůkommen und sy an jrem gůt
+                                                  dermasßen straffen, das sy welten, diser urteil
+                                                  nachgangen werind. Hienebent söllend sy, die sün,
+                                                  allen costen, so uff den vater jnn gfangenschafft
+                                                  jst gangen, abtragen<note type="critical">korrigiert, ursprünglich: abtragend</note> unnd
+                                                  ee er ußkompt erleggen<note type="critical">korrigiert, ursprünglich: erleggend</note>.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Derselbe Ratsbeschluss im Manual des
+                                                  Unterschreibers (StAZH, B II 145, S. 36): «Steffan
+                                                  Im Tall ußem Nüwen ampt, der ­toüf­fer, jst uff
+                                                  synen kinden underthenigs und trůngenlichs bitten
+                                                  der gfangenschafft dergstalt und mit dem heitern
+                                                  anhang erlassen, das er jm huß bin kinden syn und
+                                                  sy jnn darjnne behalten und gar nitt dann allein
+                                                  jnn die kilchen zůr predig ußhin gaan lasßind,
+                                                  noch dheine ­toüf­fer zů jm jnhin wandlen,
+                                                  sonnders er sich dero gentzlichen muͤsßige. Und so
+                                                  sy, myn herren, vernemmend, das er uß dem huß (on
+                                                  die kilchen) gadt oder sy, die kind, ­toüf­fer zů
+                                                  jm jnns hůß wandlen laßend, wellent sy, myn
+                                                  herren, das an jnen, den kinden, zůkommen und sy
+                                                  dermasßen straffen, das sy weltend, diser urteil
+                                                  statt gethaan hetten. Unnd was costens uff jnn,
+                                                  den vater, gangen, den söllent die sün allen
+                                                  erleggen.»</p>
+    </back>
+  </text>
+</TEI>

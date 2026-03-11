@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_743</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_743</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-11-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 594</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, eernvesten, frommen, fürsichtigen,
+                                                  eersammen und wyßen, e. u. unnd e[rsam] w[yßheit]
+                                                  seyen myn underthenig unnd geflissen dienst jnn
+                                                  aller schuldigen pflicht und ghorsamme jederzyth
+                                                  zůvor. Herr burgermeister, jnsonders gnedig,
+                                                  günstig unnd gebiettendt herren, was herr pfarrer
+                                                   <note type="editorial"> Johann
+                                                  Jakob Wagner</note><placeName ref="Bäretswil">Bärentschwyl</placeName>
+                                                  mir von wegen <persName ref="Störchli, Ůli">Ůly Störchlins</persName> von Welhusen<note type="editorial"> Wellhausen</note><placeName ref="Wellhausen">zů</placeName> by <placeName ref="Frauenfeld">Frawenfeld</placeName>, so ein küeffer knecht und der
+                                                  ­toüf­ferischen sect anhenngig, zůgeschryben, das
+                                                  haben jr, myn gnedig herren, uß synem hieby
+                                                  gelegtem schryben<note type="editorial">
+                                                  Nr. 592.</note> zůvernemmen. Daruf dann ich (als
+                                                  uff söllich ernstlich schryben und damit nützit
+                                                  durch mich versumpt werde) dem weibel zů
+                                                  Bärentschwyl und den gschwornen daselbst bevelch
+                                                  geben und by jren eiden vermanet, vermelten<note type="editorial"> erwähnten</note> ­toüf­fer wie
+                                                  auch <persName ref="Spöri, Peter">Petern Spörj</persName>
+                                                  uff <placeName ref="Bäretswil. Dunkewis">Dunckelwiß</placeName> (by dem er sich enthalten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note>
+                                                  unnd uff den ich ietzt lang gesetzt) gfengklichen
+                                                  anzunemmen und alhar jnn eüwer (myner gnedigen
+                                                  herren) schlosß zefüeren. Wöllichem bevelch sy
+                                                  statt gethan unnd verschinnen sonntags znacht
+                                                  jmme, Spörj, syn huß geöffnet. Als aber sy beid,
+                                                  so byeinanderen jnn einer kammer an der růw gsyn,
+                                                  das vermeckt, habend sy sich zur beygen<note type="editorial"> Beige (Stapel von
+                                                  Holzscheiten)</note> ußgelassen. Da gesagter
+                                                  Spörj, als der alle künde gwüßt<note type="editorial"> künde wissen: darüber Bescheid
+                                                  wissen, Id. III, 360.</note> unnd söllichs zůvor
+                                                  mehr gebrucht, jnen entwichen, der ander aber als
+                                                  frömbd sy ergriffen und mir gfengklich alhar
+                                                  gebracht. Den ich bishar jnn der gfanngenschafft
+                                                  enthalten<note type="editorial"> festhalten, Id.
+                                                  II, 1228.</note> unnd uff allerley befragen nützit
+                                                  anders an jmm finden kan, denn das er ein
+                                                  einfaltiger gsell. Zeigt an, er sey ungvar by
+                                                  einem halben jar zů einem meister gan
+                                                  <placeName ref="Räterschen">Rätterschen</placeName>, so ein
+                                                  töüffer seye, kommen unnd by jmme zů einem töuffer
+                                                  worden. Als man aber den meister daselbst
+                                                  vertriben, were er ferners synem handtwerch
+                                                  nachgezogen etc. Hat jmmerzů ernstlich gebätten,
+                                                  jch jnne der gfangenschafft entledigen. Als er mir
+                                                  aber nit versprechen wöllen, die predigen deß
+                                                  göttlichen worts jnn den kilchen zesůchen oder
+                                                  aber ein eidt uß eüwer (myner gnedigen herren)
+                                                  gricht und gebietten zeschweeren, hab ich kein
+                                                  andern weg mehr gwüßt, dann eüch, mynen gnedigen
+                                                  herren, denselben hiemit verwarth
+                                                  zůüberschicken.</p>
+                                                  <p>Hienebent kan ich ouch nit umbgan, dieselben
+                                                  zůberichten von wegen der weiblen alhie jmm ampt,
+                                                  denn als ich die ietzt mehrmaln wie auch die
+                                                  gschwornen (nach dem ich das mandath widerumb
+                                                  verläßen lassen) schrifftlich unnd mundtlich by
+                                                  jren eiden ermannet, das jehnnige, was eüwer
+                                                  (myner gnedigen herren) ußgangne mandath der
+                                                  unghorsammen wider­toüf­feren halb zůgebend<note type="editorial"> (gesetzliche) Bestimmungen
+                                                  enthalten, Id. II, 95.</note>, jnns werckh
+                                                  zebringen, so wirt doch nützit durch sy ußgericht,
+                                                  sonder habend mir zů bscheid geben, es wölle jnen
+                                                  niemants verhulffen syn. Ouch vemeinend sy, die
+                                                  burger allhier jmm stettly<note type="editorial">
+                                                  Grüningen</note> seyen das zethůn schuldig. Da
+                                                  aber die burger sich dessen bschwerind und
+                                                  verhoffind, das nit pflichtig zesyn. Zeigend ouch
+                                                  an, jmm fahl das ­toüf­fer jmm stettlj oder jnn
+                                                  jrer pfarr (darvor gott seye) jnryssen wurden, als
+                                                  dann sy dieselben ghorsamm machen helffen wölten
+                                                  etc. Hierdurch wirt also nützit ußgericht und die
+                                                  ­toüf­fer ye lenger ye halßstarriger. Derhalben
+                                                  langt an eüch, myn gnedig herren, myn underthenig
+                                                  bitt, die wöllen mir mit jrem rath verholffen syn
+                                                  und anordnung geben, wie ich mich ferner hierinn
+                                                  verhalten sölle. Da ich dann demselben mit allem
+                                                  flysß und ernst nachzekommen schuldig unnd
+                                                  gůttwillig. Eüch, mynen gnedigen herrn, hiemit
+                                                  mich, unns alle aber gottes allmacht zů gnaden
+                                                  bevelhende. Datum den 4ten novembris anno
+                                                  1602.</p>
+                                                  <p rend="margin-top">E. u. unnd e. w.
+                                                  undertheniger ghorsammer burger unnd diener</p>
+                                                  <p>Jacob zur Eich, vogt der herrschafft
+                                                  <placeName ref="Grüningen">Grüeningen</placeName></p>
+                                                  <p rend="margin-top">Den edlen, eernvesten,
+                                                  frommen, fürsichtigen, eersammen und wyßen herren
+                                                  burgermeister und rath der statt Zürich, mynen
+                                                  jnsonders günstigen und gebiettenden herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

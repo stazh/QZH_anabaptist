@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_381</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_381</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Cramer (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1578-10-29"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 232</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Ersammer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, wiewol wir verschinners
+                                                  sechs unnd sibenntzigisten jars gerinngerer<note type="editorial"> Gezählt sind nur Zehner und
+                                                  Einer des Kalenderjahres.</note> zall alle die
+                                                  unnsern<note type="critical">Folgt gestrichen:
+                                                  offennlich ver warnnen unnd jnen</note>, so
+                                                  sich<note type="critical">Folgt gestrichen:
+                                                  v</note> der<note type="critical">Folgt
+                                                  gestrichen: verfürischen</note> ufrürischen unnd
+                                                  verfürischen sect der ­toüf­feryg annemmend unnd
+                                                  gebruchennd, warnnen<note type="critical">korrigiert, ursprünglich: verwarnnen</note> unnd
+                                                  jnen anzeigen lassenn<note type="editorial"> Vgl.
+                                                  Nr. 211.</note>, das sy sich derselbigen
+                                                  genntzlich müssigen unnd abthun<note type="critical">Folgt gestrichen: söllen</note>
+                                                  oder aber unser schweren straff unnd ungnad darob
+                                                  erwatet synn söllenn, so kumpt unns doch gloublich
+                                                  für<note type="editorial"> fürkommen: zu Ohren
+                                                  kommen, kund werden, Id. III, 279.</note>, das jnn
+                                                  diner amptsverwaltung söllicher schedlicher
+                                                  fasel<note type="editorial"> Gesindel, Id. I,
+                                                  1055f.</note> widerumb ynwurtzenn unnd sonnderlich
+                                                  das Steffan <persName ref="Im Tal, Stefan">jm Thal</persName>, <persName ref="Ruman, Peter">Petter Romma</persName>
+                                                  zů<note type="critical">Folgt gestrichen:
+                                                  Sch</note> <placeName ref="Schöfflisdorf">Schöfflistorff</placeName> unnd <persName ref="Foss, Jakob">Jacob Foß</persName> zů <placeName ref="Niederweningen">Niderweningen</placeName> sich söllicher
+                                                  verfürischenn unnd faltschenn leer unangesechen
+                                                  jres gethanes versprechens<note type="critical">«unangesechen jres gethanes versprechens» am Rand
+                                                  mit Verweiszeichen</note> nit abgethan<note type="critical">Folgt gestrichen: sc</note>,
+                                                  sonnder verkhündint und schrygind dieselbig one
+                                                  unnderlaß jnn wälden hin unnd wider<note type="critical">Folgt gestrichen: in</note> jnn
+                                                  bysin vile des volcks uß unnd beherberigend ouch
+                                                  frömbde, die mit söllicher faltschen leer behafft,
+                                                  unnd machennd vil der unnsern von unns abwennig
+                                                  unnd dz sy jnen anhennigig werdint. Derhalben
+                                                  nachmaln unnser bevelch unnd meinung an dich, das
+                                                  du obgemelte dryg personnen fürderlich unnd one
+                                                  verzug für dich bescheidist unnd sy dahin
+                                                  vermanist, von jrer verfürischen sect der
+                                                  toufferyg abzestan unnd jren vormaln gethannenm
+                                                  versprechenn<note type="critical">Folgt
+                                                  gestrichen: zug</note> unnd aller gehorsamme
+                                                  zugeleben unnd nachzekommenn unnd sich hinfüro
+                                                  söllicher verwirigen leer abzethun unnd unnserer
+                                                  christenlichen waaren relligion geleben unnd
+                                                  obliggen<note type="critical">Folgt gestrichen:
+                                                  sölle</note>, ouch dheine<note type="editorial">
+                                                  keine</note> personnen, so mit diser sect
+                                                  behafft<note type="critical">Folgt gestrichen:
+                                                  nun</note>, by hocher unnser straff unnd ungand
+                                                  nit meer beherbergen nach unnderschlouff gebenn
+                                                  söllenn. Dann wo sy hierwider hanndlen, als dann
+                                                  du sy luth unnd jnnhalt unnsers deßwegen
+                                                  ußganngnen mandats straffenn unnd büssen.</p>
+                                                  <p>[…]<note type="editorial"> Es folgt die
+                                                  Anweisung an den Vogt, Massnahmen gegen die
+                                                  Zügellosigkeit an den Festtagen der Kirchweihe zu
+                                                  ergreifen.</note> Datum mitwuchs den 29ten
+                                                  octorbis anno etc. 78.</p>
+                                                  <p rend="margin-top">B[urgermeister] u[nd] r[at]
+                                                  d[er] st[att] Zürich.</p>
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Regensberg">Regennsperg</placeName>
+                                                  Heinrichen Krammer.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

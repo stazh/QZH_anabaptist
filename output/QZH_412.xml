@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_412</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_412</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-11-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 263</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Rechenherren. Die so usß <placeName ref="Bremgarten">Bremgarter</placeName> nideren grichten der
+                                                  thoüfferischcn sect halb hinwäg züchend, unnd aber
+                                                  hab unnd gůtt jnn myner herren hocher oberkeyt
+                                                  habend belangende.<note type="editorial">
+                                                  Aufschrift auf der Rückseite des
+                                                  Dokuments.</note></p>
+                                                  <p rend="margin-top">Wiewol myn gnedig herren uff
+                                                  herren vogts zů <placeName ref="Knonau">Knonouw</placeName>
+                                                  fürbrinngen vermeindt, die personnen, so usß dero
+                                                  von Bremgarten niderenn grichten der
+                                                  thöüfferischen sect halber jnn das lannd
+                                                  <placeName ref="Mähren">Meerherren</placeName> zogen, sygennd
+                                                  jnn zyth jres abträttenns<note type="editorial">
+                                                  wegziehen, das Land verlassen, Id. XIV,
+                                                  1466.</note> unnd hinwägzüchenns jm
+                                                  <placeName ref="Kelleramt">Kellerammpt</placeName> an orth
+                                                  unnd ennden<note type="editorial"> Ortschaft,
+                                                  Gegend</note>, alda jnnen mynen herren die hoch
+                                                  oberkeyt zůstenndig unnd gehörig, hußhablich
+                                                  gesessenn, wirt doch von herren lanndtvogt zů
+                                                  <placeName ref="Baden">Badenn</placeName> ein annders (vermög
+                                                  hieby liggennder misßif<note type="editorial">
+                                                  Sendschreiben, <hl to="http://fwb-online.de/go/missiv.s.2n_1646380796"><Hyperlink>http://fwb-online.de/go/missiv.s.2n_1646380796</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>)
+                                                  geschriben<note type="editorial"> Vgl.
+                                                  Nr. 261.</note>. Unnd diewyl aber sölliche
+                                                  personnen nütdester minder jnn myner herren hocher
+                                                  oberkeyt hab unnd gůtt hannd, ist dem vogt zů
+                                                  Knonouw widerumb bevolchen, was dasselbig syge,
+                                                  eigenntlichen zuerkunndigen unnd mynen herren (den
+                                                  verordneten rechennherren) darumbe muntlichen
+                                                  ald<note type="editorial"> oder</note>
+                                                  schrifftlichen bericht zegebenn. Wann nun
+                                                  dasselbig beschächen, söllend alsdann gedachte myn
+                                                  herren (die rächennherren) uff gfallen myner
+                                                  herren berathschlagen, sidtmaalen<note type="editorial"> da, weil, Id. IV, 147.</note>
+                                                  der lanndtvogt zů Badenn dasselbig gůtt als den
+                                                  acht orthen heimgefallen ouch jnn ansprach<note type="editorial"> rechtlicher Anspruch, Id. X,
+                                                  722.</note>, ob jme das zůgestattnen unnd
+                                                  zůzelassenn syge oder nit, dann by mynen herren
+                                                  das bedenncken, ob glych unnder jnnen ein personn
+                                                  für mallefitzisch<note type="editorial">
+                                                  verbrecherisch in dem Mass, dass es unter die
+                                                  Hochgerichtsbarkeit fällt, Id. IV, 167.</note>
+                                                  erkhennt unnd geachtet, unnd aber dieselbig hette
+                                                  jnn einer annderen oberkeyt hab unnd gůtt, worde
+                                                  man jnnen darvon wennig ja gar nüdt zůkommen unnd
+                                                  volgen lasßen, jnmaasßen jnn jetzigem fal die sach
+                                                  ouch zůerhalltung myner herren grechtsame wol
+                                                  zůerdurenn<note type="editorial"> prüfen, Id.
+                                                  XIII, 1297.</note> jst. Actum sampstags den 4ten
+                                                  novembris anno etc. 81 p[raese]nt[ibus] herr
+                                                  <persName ref="Kambli, Hans">burgermeister Kamblj</persName>
+                                                  unnd beid reth.</p>
+                                                  <p rend="margin-top">Stattschryber</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

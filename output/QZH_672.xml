@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_672</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_672</idno>
+          </msIdentifier>
+          <head>Erstes Verhör von Jörg Riedel und Heinrich Pfister</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 523</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem m[eister]  <note type="editorial"> Hans Ulrich Wolf
+                                                  (1559-1624)</note><persName ref="Wolf, Hans Ulrich">Ůlrich Wolff</persName> sampt beyden herren
+                                                  nachgengeren zů Heynrichen Pfister von
+                                                  Wedischwyl<note type="editorial">
+                                                  Wädenswil</note><placeName ref="Wädenswil">Hanns</placeName>,
+                                                  deßglychen Jörgen Riedel, unwyt von
+                                                  <placeName ref="Kempten (Allgäu)">Kempten</placeName> uß dem
+                                                  <placeName ref="Allgäu">Algöüw</placeName>, so beid mit dem
+                                                  töüfferischen secten behafft und nüwlich uß dem
+                                                  landt zu <placeName ref="Mähren">Meerherren</placeName>
+                                                  allhie ankommen, jn den Wellenberg keert unnd
+                                                  sy<note type="critical">Folgt gestrichen:
+                                                  befr</note> jeden jnnsonderheyt<note type="editorial"> für sich</note> befragt, wer
+                                                  jnnen den gwalt geben, jn üwer (myner<note type="critical">Folgt gestrichen: gebiet</note>
+                                                  h[er]rn) gebiet by nechtlicher wyl offenlich
+                                                  zuͦpredigen und die biderben landtlüth also
+                                                  unrüwig<note type="editorial"> aufrührerisch,
+                                                  abtrünnig</note>
+                                                  <note type="critical">Folgt gestrichen:
+                                                  zemachen</note> und unghorsam zmachen und
+                                                  sonderlichen, ob er, Pfister, noch bekantlich, dz
+                                                  er he[rr] Walterthen<note type="editorial"> Rudolf
+                                                  Gwalther, vgl. die Beteiligung Rudolf Gwalthers an
+                                                  einem früheren Verhör Pfisters, Nr. 294.</note>
+                                                  seligen geschweygt<note type="editorial"> zum
+                                                  Schweigen gebracht</note> und dz Zwinglis<note type="critical">Genitiv-S über der Zeile, in der
+                                                  Zeile gestrichen: zwinglisch</note> leer faltsch,
+                                                  und hierüber jrs bscheidts begert, hat erstlich
+                                                  gedachter Pfister die antwort geben:</p>
+                                                  <p>Dz sy es<note type="critical">Folgt gestrichen:
+                                                  jnn</note> uß dem heiligen evangelio und der
+                                                  christenlichen gmeind<note type="critical">Folgt
+                                                  gestrichen: jn bev</note>, dz zethůnd, jn bevelch
+                                                  heigind und sölchs nit allein allhie, sonder auch
+                                                  anderen orthen und wo sy vermeinend, von nöten
+                                                  syn, dz thügind. Und als er befragt ward, wen er
+                                                  für die christenliche gmeind halte, ob allhie nit
+                                                  ouch ein christenliche gmeind syge<note type="critical">«ob allhie … syge» am Rand mit
+                                                  Verweiszeichen</note>, er anzeigt, halte die
+                                                  gmeind jn Meerherren darfür und könne die gmeind
+                                                  allhier nit darfür erkennen, wyl sy die ußsendung
+                                                  und den touff der apostlen, auch jre ordnungen und
+                                                  brüch nit habind. Ist auch nachmalen becandtlich,
+                                                  herr Walterth selig und andere predicanten
+                                                  sigind<note type="critical">Folgt gestrichen:
+                                                  geg</note> becantlich gewesen, sy<note type="critical">Folgt gestrichen: habind</note>,
+                                                  die töüffer, habind mehr gnad von gott dan andere,
+                                                  und habe des Zwingliß lers kein grund jn der
+                                                  bibel.</p>
+                                                  <p>Demnach zeigt <persName ref="Riedel, Jörg">Jörg Riedel</persName> also, dz syne brüder jm bruch
+                                                  habind, wan einer under jnen verwantte jn synem
+                                                  heimet habe, der sy besuchen welle, gebend sy jm
+                                                  einen zů. Und wo sy sonst lüth wüßind, die jrer
+                                                  leer ein grund und wüßenschafft<note type="editorial"> Kenntnis, Id. XVI, 2068.</note>
+                                                  begerind, denen verhaltind<note type="editorial">
+                                                  vorenthalten</note> sy dieselbig nit. Item es
+                                                  kömind ettliche zů jnen, die es dann widerum
+                                                  grüwe. Da aber die oberkeiten zů deren hab und gůt
+                                                  gryffind, die also hinweg züchind, und<note type="critical">Folgt gestrichen: da</note> also
+                                                  umb dz jren komind, derhalben begerind sy die lüth
+                                                  zuvor jres gloubens zu underrichten. Item sy
+                                                  zeigind jnnen auch an, welliche schon syn hab und
+                                                  gůt zů jnen bringe, dz er dasselbig der gmeind
+                                                  überantworten müße. Und ob es jm glych gruwe,
+                                                  wurde jme dennocht nützit wider, dann jnn dem
+                                                  touff verbinde sich einer mit lyb und gůt zu der
+                                                  christenlichen gmeind. Dz sige die ein ursach, dz
+                                                  sy hinweg geschikt werdind.</p>
+                                                  <p>Für dz ander fragind sy nachen, wer einer oder
+                                                  der ander sye, der also zů jnnen komme, ob er der
+                                                  oberkeyt den tod verfallen<note type="editorial">
+                                                  des Todes schuldig</note> oder von schulden<note type="critical">Folgt gestrichen: wegen</note>
+                                                  ald<note type="editorial"> oder</note> anderer
+                                                  ursachen wegen hinweg müße, damit es jrer gmeind
+                                                  nit zů nachteil gredt werde, dz sy derglichen<note type="critical">«derglichen» über der Zeile, in
+                                                  der Zeile gestrichen: alß</note> lüth
+                                                  uffhaltind<note type="editorial"> beherbergen, Id.
+                                                  II, 1227.</note>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

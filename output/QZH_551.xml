@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_551</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_551</idno>
+          </msIdentifier>
+          <head>Namen der verhafteten Täufer in
+                                                  Horgen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1589-10-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 402</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Sommerauer, Hans">Hanns Summerouwer</persName>, pfister<note type="editorial"> Bäcker</note> alhie<note type="editorial"> gemeint ist die Stadt
+                                                  Zürich</note>, jst umb 15 pfund<note type="critical">In der Vorlage: lb</note> gstrafft
+                                                  unnd sol 5 pfund an kosten geben.</p>
+                                                  <p rend="margin-top"> <note type="editorial"> Wädenswil</note><placeName ref="Wädenswil">Wedeschwyl</placeName>: [im] W[ellenberg]<placeName ref="Zürich, Wellenberg">Von</placeName><note type="critical">«w» über der Zeile</note> leerer <persName ref="Hofmann, Rudolf">Růdolff
+                                                  Hofman</persName>, w. <persName ref="Pfister, Walti">Wältj
+                                                  Pfister</persName>, leerer
+                                                  <persName ref="Bruppach, Rutsch">Růtsch Brupach</persName>,
+                                                  [im] n[üwen turm]<placeName ref="Zürich, Neuenturm"/><note type="critical">«n»
+                                                  über der Zeile</note> leerer <persName ref="Pfister, Hans">Hanns
+                                                  Pfister</persName>, <persName ref="Hön, Peter">Petter
+                                                  Hön</persName>, n. <persName ref="Hess, Walti">Wältj
+                                                  Hesß</persName>, w. <persName ref="Suter, Uli">Ulj
+                                                  Sutter</persName>.</p>
+                                                  <p rend="margin-top">Von <placeName ref="Horgen">Horgen</placeName>: w.<note type="critical">«w» über
+                                                  der Zeile</note> leerer <persName ref="Landis, Heini">Heinj Landiß</persName>, leerer <persName ref="Landis, Hans">Hanns
+                                                  Landiß</persName>.</p>
+                                                  <p rend="margin-top">W. <persName ref="Wäber, Gorius">Gorius Wäber</persName> von Ebertschwyl<note type="editorial"> Ebertswil</note><placeName ref="Ebertswil"/>, w. <persName ref="Hochstrasser, Jakob">Jacob Hochstraßer</persName> von Wetzwyl<note type="editorial"> Wettswil am
+                                                  Albis</note><placeName ref="Wettswil"/>, w. <persName ref="Erzinger, Uli">Ulj
+                                                  Ertzinger</persName> ab
+                                                  Guldinen<note type="editorial">
+                                                  Guldenen</note><placeName ref="Guldenen"/>, n.
+                                                  <persName ref="Bindschedler, Heinrich">Heinrich Bindschedler</persName> von Erlibach<note type="editorial"> Erlenbach
+                                                  (Zürich)</note><placeName ref="Erlenbach"/>, w.
+                                                  <persName ref="Wälti, Jagli">Jaglj Wältj</persName> uß
+                                                  Bernpiet jm Surthal<note type="editorial">
+                                                  Suhrental</note><placeName ref="Suhrental"/>, w.
+                                                  <persName ref="Bruppach, Jos">Joß Brugpach</persName> von
+                                                  <placeName ref="Wädenswil">Wedeschwyl</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

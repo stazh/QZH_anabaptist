@@ -1,0 +1,558 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_853</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_853</idno>
+          </msIdentifier>
+          <head>Auszüge aus Josua Malers
+                                                  Familienchronik Das 1593
+                                                  von Josua Maler (1529-1599) begonnene Autograph
+                                                  mit Nachträgen seiner Söhne befand sich im Besitz
+                                                  von Hans Kaspar Wyss (1717-1789) und ist seit dem
+                                                  19. Jahrhundert nicht mehr auffindbar (vgl. die
+                                                  Notiz auf S. 223 der hier verwendeten Vorlage,
+                                                  Gottlieb Emanuel von Hallers Bibliothek der
+                                                  Schweizer Geschichte und aller Theile, so dahin
+                                                  Bezug haben, Zweyter Theil, Bern 1785, S. 292 und
+                                                  Zürcher Taschenbuch 8 [1885], S. 123). Die Edition
+                                                  beruht auf einer Abschrift aus dem Jahr 1784, die
+                                                  in einem handschriftlichen Sammelband aus dem
+                                                  Besitz von Salomon Hess (1763-1837) enthalten ist
+                                                  (ZBZ, Ms E 48). Hier wiedergegeben sind nur die
+                                                  Abschnitte, die Balthasar Maler in der Zeit von
+                                                  1588 bis 1615 betreffen; die zahlreichen
+                                                  Unterstreichungen in der Vorlage sind nicht
+                                                  berücksichtigt. Auf die sehr lückenhafte und im
+                                                  Wortlaut oft abweichende Abschrift von Erhard
+                                                  Dürsteler (Ms E 126) wird im textkritischen
+                                                  Apparat in der Regel nicht verwiesen; angegeben
+                                                  sind nur Lesarten, die einen etwas anderen Sinn
+                                                  ergeben.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 704</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p first="0" align="left">Zu yngendem julio 1588
+                                                  ist Balthaßar, min l[ieber] sun, in aller stille
+                                                  zu mir gen Winterthur kommen uß forcht der
+                                                  gfangenschaft wegen argwons der teufferey.<note type="critical">Am Rand: conf. a[cta]
+                                                  eccl[esiastica], t[omus] 4: 36,37</note> Jmme ward
+                                                  aber gemittlet durch sinen zunftmeister zum
+                                                  Kämbel, h[errn] Heinrich Holzhalben, so volgender
+                                                  jaaren regierender obervogt zu Kyburg was,
+                                                  daselbst ouch in gott syn läben beschloßen hat
+                                                  a[nn]o 1595, wyter durch Hansen Rüttlinger<note type="editorial"> Hans Reutlinger (1551-1610),
+                                                  seit 1571 mit Küngold Maler (1555-1615)
+                                                  verheiratet.</note>, minen l. tochtermann, wie
+                                                  auch sunst durch andere gut fründ. Diß gute
+                                                  bottschaft kam jm zu durch sin l. stieftochter
+                                                  Catharina Oberkan; deßthalb er am mittwuch zu
+                                                  abent widerum heimb gieng und sich still ouch
+                                                  ynzogen hielt. Aber hernach uff donnstag den 1.
+                                                  äugst kam mir ein eigner bott zu, der manet mich
+                                                  in yl uffzusyn<note type="editorial"> aufbrechen,
+                                                  Id. I, 1042.</note> und gen Zürich zu kommen, dann
+                                                  er, Balthaßar, im Wellenberg von wägen der
+                                                  teüfferey gefangen lige. Es was meer dann müylich
+                                                  zu wandlen, vile des rägnens und der waßern halb.
+                                                  Mornderigs am frytag, als ich nach der predig die
+                                                  glerten und kilchendiencr besucht, by denen ich
+                                                  wolt rath und trost suchen<note type="critical">«by denen ich wolt rath und trost suchen» fehlt
+                                                  in der Vorlage, ergänzt gemäss Ms E 126</note>,
+                                                  ouch sunst mit hin- und widerloufen bemüyet was,
+                                                  deßthalb für m. gn. h[errn] den herrn
+                                                  bürgermeister Kamblj<note type="editorial"> Hans
+                                                  Kambli (1507-1590)</note> selbert kam und gar
+                                                  früntlichen bescheid gefunden, ward mir von jmme
+                                                  geraaten und gnedigklich erloupt, das ich on
+                                                  wyteren uffzug mit unserm l. h[errn] schwaager
+                                                  h[errn] Heinrich Brämen<note type="editorial">
+                                                  Heinrich Bräm (gest. 1610)</note>, gewäßnen
+                                                  amptmann zu Töß, zum Balthaßar in Wellenberg
+                                                  überfaren wölte. Dann er, h[err] schwaager Bräm,
+                                                  so dißer zyt<note type="editorial"> zum Zeitpunkt
+                                                  des Schreibens (1593 oder später)</note> hußherr
+                                                  im salzhuß und eines burgermeisters statthalter
+                                                  ist, mit mir uß sunderer trüw und liebe zu h[errn]
+                                                  Kamble ganngen was. So begabend wir uns mit dank
+                                                  und willen, disem raadt und befelch naachzukommen;
+                                                  und ward uns vom herren zugäben zu meerer
+                                                  versicherung ein redlicher stattknecht, der Waser
+                                                  genannt, und auch der thurnhüter m[eister] Hans
+                                                  Grebel.<note type="critical">Ms E 126: So ließen
+                                                  wir uns durch m[eiste]r Hanß Grebel den
+                                                  thurnhüeter in den Wellenberg führen (statt «So
+                                                  begabend wir uns mit dank … Hans Grebel»)</note>
+                                                  Die hattend mit Balthaßar beed ein großes
+                                                  mitliden, wie ouch mit mir. Naach kläglichem
+                                                  begrüßen in sömlichem ort und stand und
+                                                  vilfaltigem anhalten und gespräch, begab er sich,
+                                                  unsern gn[ädigen] h[er]r[e]n alle ghorsame zethun,
+                                                  doch mit geding, daß jmme wider sin gwüßne nüts
+                                                  zugemutet würde.</p>
+                                                  <p first="0" align="left">Diß schiffart in
+                                                  Wellenberg Zürich hat mir als dem vater meer angst
+                                                  und sorg gemacht, als da ich in minen wandeljaaren
+                                                  1551 von Dieppen<note type="editorial">
+                                                  Dieppe</note> in Normandie über das hoch meer in
+                                                  Engelland, volgents von Lunden<note type="editorial"> London</note> gen Vlüßingen<note type="editorial"> Vlissingen in der Grafschaft
+                                                  Zeeland</note> in Seeland, ouch wyter gen
+                                                  Antorf<note type="editorial"> Antwerpen</note>
+                                                  geschiffet bin. Doch ließ mich gott nit on troost
+                                                  und ward mir von vilen gutherzigen burgeren
+                                                  früntlich in diser sach zugesprochen. Naachdem ich
+                                                  nun im thurn minen Balthaßar in großer trurigkeit
+                                                  abgnaadet<note type="editorial"> Abschied nehmen,
+                                                  Id. II, 663.</note> und jn dem schirm und troost
+                                                  gottes befolhen hat (dan der thurnhüter sich wyter
+                                                  zu sumen nit wol platz hat), mußt ich doch
+                                                  mornderigs des staten rägnens halber zu Zürich
+                                                  bliben by minem l. schwager Jörgen Schwytzer<note type="editorial"> Jörg Schweizer (1533-1613),
+                                                  Sigrist am Grossmünster Zürich und Buchbinder, war
+                                                  mit Josuas Schwester Anna verheiratet.</note>, dem
+                                                  sigristen zum großen münster. Am volgenden suntag
+                                                  Justini kam ich heimb gen Winterthur mit großer
+                                                  arbeit von wägen der übergeloffnen Glatt und den
+                                                  bächen an der Steyg, aber darby von gott sowol
+                                                  beleitet, das ich kein unsicheren tritt nit gethon
+                                                  und naach vil weniger gefallen bin. Und waarend by
+                                                  mir min l. tochter Küngolt<note type="editorial">
+                                                  Küngold Reutlinger, geb. Maler (1555-1615)</note>
+                                                  und min sun Josue<note type="editorial"> Josua
+                                                  Maler (1577-1610)</note>, derzyt naach schüler by
+                                                  uns zu Winterthur. Eben des sunntags war es
+                                                  all<note type="critical">Reklamant:
+                                                  hier</note>|[S. 175]hier kilwe<note type="editorial"> Die Weihe der Stadtkirche St.
+                                                  Laurentius fällt auf den Laurentiustag (10.
+                                                  August).</note>, hat mich herr gfatter d. Conrad
+                                                  Forrer<note type="editorial"> Konrad Forrer (um
+                                                  1530-94), Arzt in Winterthur und ab 1562 zugleich
+                                                  zweiter Stadtpfarrer.</note>, diewyl ich nach
+                                                  morgens anheimbsch was, im kilchendienst wol,
+                                                  willig und brüderlich versähen. Balthaßar aber
+                                                  ward ledig siner gefangenschaft nach vilfaltiger
+                                                  handlung und gethaanem jurament zinstag hypolitj
+                                                  d. 13. äugst. Gott sye lob in die ewigkeit. Er
+                                                  sucht mich heim sampt siner l. husfrouwen Susanna
+                                                  Brämin und tochter Catharina Oberkan d. 17. aug.
+                                                  und in volgendem monat ylet er widerumb zu siner
+                                                  hußhaltung. Er erzeigte sich manlich<note type="editorial"> tapfer</note> und wol zu můt,
+                                                  ouch ruwigen gwüßne. Es ward jm auch von u. gn.
+                                                  hrn. Zürich kein einziger haller zur bůß
+                                                  ufferlegt. So hat ouch die zeerung, sampt der
+                                                  thurnlösung nit wyter bracht als fünfthalben
+                                                  gulden. So früntlich und bescheidenlich ist er vom
+                                                  thurnhüter, dem Grebel, gehalten worden und hat
+                                                  sich doch die gefangenschaft nit minder als in die
+                                                  vierzehn tag verzogen.</p>
+                                                  <p first="0" align="left">So oft sich aber in
+                                                  volgender zyt und jaaren etwas nüwes ungewitters
+                                                  erheben<note type="critical">Ms E 126:
+                                                  erregen</note> wollen, hat es doch nie gemanglet
+                                                  an guten fründen, die in vorgewarnt; er deßthalben
+                                                  durch fürgenommne reysen in Wittenberg<note type="editorial"> Württemberg</note><note type="critical">Ms E 126: Wirtenberg</note> gen
+                                                  Durlach, Basel, Straaßburg, wie auch
+                                                  anderschwohin, siner geschäften halben, beßerer
+                                                  und fridsamer zyt ußwarten können. Es hat in
+                                                  sydhar nun in die acht jaar<note type="critical">korrigiert, ursprünglich: tag</note> der
+                                                  allmächtig und gnedig gott wunderbarlich erhalten
+                                                  und jm sinen sägen dermaßen gunnen, daß jm syn gůt
+                                                  zu Stadelhofen (räben, gärten, wisen) järliche
+                                                  große nutzung ertragen, wenn es glich andern in
+                                                  der nachpurschaft gefält hat. Als er dann von ort
+                                                  gegen mengklichen dienstbar, syn huß und scheür
+                                                  bywylen armen wandleden bättleren nachtherberg
+                                                  gsin, er ouch mit arzney, wachen und pflägen
+                                                  kranken nachburen und fründen gern zugesprungen
+                                                  und in vilerlej wys und wäg sinem nechsten zu
+                                                  dienen willig und bereit erfunden worden. Hatt er
+                                                  auch hiemit vil heimlich fründ und günner bekommen
+                                                  und hat sich auch e. e. oberkeit diß fürer zu
+                                                  gnaden und früntlichkeit jm begäben. Hiezwüschend
+                                                  sind ouch anderlej sachen den glerten fürgefallen,
+                                                  daß sy sinethalb und anderer sines glichen ouch
+                                                  dester milter und ruwiger wurdind. Der gütig gott
+                                                  wolle jn und ander sines glichen yngründe<note type="editorial"> ernst, stark im Glauben,
+                                                  eingebildet, Id. II, 778f.</note> lüt vor allem
+                                                  leid bewaren und uff gwüße, unfälbare erkanntnuß
+                                                  der waarheit und des heyls durch sinen hl. geist
+                                                  in J. Chr. gnediglich ynfüren.</p>
+                                                  <p first="0" align="left">Er kam unversächenlich
+                                                  zu mir am morgen früy den 10. julij zu angender
+                                                  morgenpredig vast<note type="editorial">
+                                                  sehr</note> angsthaft und bekümbert siner einzigen
+                                                  tochter halber von siner eersten hußfrouwen, der
+                                                  Barbel Suterin<note type="editorial"> Barbara
+                                                  Suter, von Bischofszell, seit 1572 mit Balthasar
+                                                  Maler verheiratet, 1582 verstorben.</note> selig.
+                                                  Diß, Madalena genannt, was hinweggeloffen von jrer
+                                                  stüffmutter, die hat er mit kumber gesucht und by
+                                                  uns zu Winterthur funden, sy uff unser mittlen
+                                                  widerumb vätterlich uffgenommen und glich
+                                                  mornderigs heimbgefůrt. Aber hernach uff freytag
+                                                  d[en] 20. heuwmonats<note type="editorial">
+                                                  Juli</note> ist zu jmbißzyt unversächenlich zu mir
+                                                  gen Winterthur in pfaarhof kommen der erenthaft
+                                                  und vormals by der wält gar wol geacht Conrad
+                                                  Tettling<note type="editorial"> Über ihn vgl.
+                                                  Historisch-biographisches Lexikon der Schweiz, hg.
+                                                  von Heinrich Türler et al., Bd. 2, Neuenburg 1924,
+                                                  S. 700, Nr. 6.</note>, pandit<note type="editorial"> Verbannter, Id. IV, 1282.</note>
+                                                  von Schwytz der religion und des h[ei]l[igen]
+                                                  evangeliums halber. Hat mich gheimer und
+                                                  früntlicher wyß berichtet, wie min sun abermaals
+                                                  in grooßer gfaar stande schwärer gefengnuß halber
+                                                  und mit nammen<note type="critical">Der Abschnitt
+                                                  «Aber hernach uff freytag d[en] 20. heuwmonats …
+                                                  mit nammen» lautet in Ms E 126 ganz anders, ist
+                                                  aber vom Sinn identisch.</note>, das er sölte in
+                                                  den abscheuchlichen Kätzerthurn verschloßen
+                                                  werden; darum er gewarnet, sich wölle widerum zu
+                                                  unseren basen gen Wirtenberg begäben; werde
+                                                  derhalben uff morn d. 31.<note type="critical">recte 21.</note> diß monats by mir syn und
+                                                  vollends uff Pfullendorf zu verreisen, daselbst sy
+                                                  beed gethooner jrer abred zusamen kommen werdind
+                                                  ungefaarlich umb jakobi<note type="editorial"> 25.
+                                                  Juli</note>. Ich fuͤrt den Thättling siner
+                                                  geschäften halber gen Elgouw<note type="editorial"> Elgg</note> und gen Hegy<note type="editorial">
+                                                  Hegi, Dorf östlich von Winterthur; die
+                                                  Herrschaftrechte gelangten damals an die Stadt
+                                                  Zürich.</note>, daselbst er uff den vogt
+                                                  Schüchzer<note type="critical">In der Vorlage:
+                                                  Schützer</note><note type="editorial"> Hans
+                                                  Heinrich Scheuchzer (1540-1604), seit 1588 Vogt
+                                                  von Hegi.</note>, so jmme von langen jaaren har
+                                                  als ein metzger bekannt gsin, gewartet und mich
+                                                  widerumb heimb gelaßen, dan es vast spaat was. So
+                                                  ist nun er volgends syn straaß zogen und hat sich
+                                                  by dem fryherren von Justingen<note type="editorial"> Georg Ludwig von Freyberg der
+                                                  Jüngere (1574-1631)</note> nidergelaßen. Balthaßar
+                                                  aber kam der zyt nit zu mir, sonder ward abermals
+                                                  und naach witer von gott gnediklich beschirmpt und
+                                                  bewaret.</p>
+                                                  <p first="0" align="left">Am zynstag<note type="editorial"> 30. Oktober (a.st.)</note> naach
+                                                  simonis judae kam Balthaßar min sun zu uns gen
+                                                  Winterthur mit unserm l. schwager Heinrichen am
+                                                  Stain von Bischofzäll und Hs. Heinrichen Pfyster
+                                                  ab dem Seefeld sinem nachpuren, so zwar allhie zu
+                                                  Winterthur by Jac. Wydenmann des ferber-handwerks
+                                                  zum teyl gelernet, zum teyl ouch in dienstswyß
+                                                  versähen hat; und berichtet mich min Balthaßar
+                                                  beschächnen antrags<note type="critical">korrigiert, ursprünglich: ußtrags</note> siner e.
+                                                  l. tochter halber, die mit gemeldtem Pfyster uf
+                                                  früntlich anhalten und begären siner l. mutter und
+                                                  fründen zu verelichen. Als ich mir nun diß jr
+                                                  fürnemmen nit konnt mißfallen laßen, sy ouch, die
+                                                  Madlena, viler ursachen halber lieber ußerthalb
+                                                  als in der statt Zürich begärt zu wonen, ward die
+                                                  heyratsabredung verhandlet zu Stadelhofen und sy
+                                                  gemeldtem Pfyster am Seefeld sinem nachpuren,
+                                                  einem eerlichen, starken und übelzytigen<note type="editorial"> arbeitsam, geschäftig, Grimm 23,
+                                                  55.</note> gsellen, eelichen versprochen. Also uff
+                                                  sampstag<note type="editorial"> 17. November
+                                                  (a.st.)</note> nach Otmari kam zu uns von
+                                                  Bischofzäll unser l. schwaager Stoffel am Stain;
+                                                  mit dem bin ich und min l. hußfrouw, die Madlena,
+                                                  mornderigs am sonntag hinyn gen Zürich gangen als
+                                                  gladne uff die hochzyt Hans Heinrichen Pfysters
+                                                  und der Madlena Maa­lerin, mines l. suns tochter.
+                                                  Die ward ghalten uf montag d. 19. nov. und am
+                                                  volgenden donstag kamend<note type="critical">Reklamant: wir</note> | [S. 194] wir wol und
+                                                  glüklich, darby vast müd, wiederumb heim gen
+                                                  Winterthur. Der kilchgang was zum grooßen münster,
+                                                  das hochzytmaal zum Hecht, dem mann umb xviij
+                                                  schilling<note type="critical">In der Vorlage:
+                                                  ß</note>, der frauwen xvj schilling, einer tochter
+                                                  xiiij schilling, der abenttrunck x schilling, by
+                                                  dißem blibend allein die mannspersonen. Die
+                                                  jüngling aber sampt den töchtern und etlichen
+                                                  frauwen wurdind glich angends nach ghaltnem ymbiß
+                                                  in einem grooßen nauwen<note type="editorial">
+                                                  Lastschiff mit breitem Boden, Id. IV, 880.</note>
+                                                  den see hinuff ans Seefeld gefůrt; dann des
+                                                  preutgamms l. mutter ir bhusung gar naach am see
+                                                  hat, richtig gegen über s[anct] Niclausen sul oder
+                                                  stud<note type="editorial"> Klausstud, eine nach
+                                                  dem Heiligen Nikolaus von Myra benannte Säule, die
+                                                  als Grenzstein des Stadtbanns im Zürichsee
+                                                  diente.</note> genannt.<note type="critical">Der
+                                                  Abschnitt «Am zynstag naach simonis judae kam
+                                                  Balthaßar … gegen über s[anct] Niclausen sul oder
+                                                  stud genannt.» ist in Ms E 126 mit einem kurzen
+                                                  Satz zusammengefasst.</note> Balthaßar, der
+                                                  hochzyterin liblicher vatter, min sun, dem sunst
+                                                  sin tochtermann, deß mutter und fründ vast angnäm
+                                                  waarend, er sich ouch gar gern und willig zu disem
+                                                  heyrat hat begäben (dan er sonst zuvor grooßen
+                                                  anlaas ghept, sy in der statt höcher
+                                                  underzubringen), hat doch nit mögen mit einzigen
+                                                  argumenten und gründen, ouch nit durch anderer
+                                                  e[hren] lüt bitt und manung von wägen siner
+                                                  angenommnen, eigensinnigen<note type="critical">«eigensinnigen» über der Zeile</note>
+                                                  ­teüf­ferischen wyß beredt oder bewegt werden, by
+                                                  dem kilchgang noch by der predig im münster, wie
+                                                  ouch nit by der hochzyt in der statt zu erschinen;
+                                                  deß ich mich als syn vatter und der hochzyterin
+                                                  grooßvatter und das ich auch hieby nach minem
+                                                  eerlichen bruf das predigampt nit minder als in
+                                                  die 40 jaaren in g. g. versähen hat, vast übel
+                                                  mußt bekümmern und vor mengklichen an der hochzyt
+                                                  schämen. Deß ouch die eerenlüt am tisch<note type="critical">Ms E 126: die hochzeitgest (statt
+                                                  «die eerenlüt am tisch»)</note> wol waargenommen,
+                                                  mich sinethalb nie mit keinem wort anzogen<note type="editorial"> beleidigen, beschimpfen, Id.
+                                                  XVII, 992.</note>, sunder immer etwas anderes und
+                                                  früntliches yngefürt, damit ich etlicher maaßen
+                                                  mines unmuths gelediget wurde. Das hat mir wol
+                                                  vordütet die ungewonliche müde und
+                                                  schwärmutigkeit, so mir im ynhergon<note type="critical">korrigiert, ursprünglich:
+                                                  herbergen</note> zugestanden. Dan ye näher ich der
+                                                  stadt zukommen, ye schwächer ich ward und
+                                                  angsthafter. Zu jaar umb ward die Madlena mit
+                                                  einem jungen Pfyster von gott begaabet; der hat
+                                                  mich zu einem äny<note type="editorial">
+                                                  Urgrossvater, Id. I, 247.</note> gmachet. Das wirt
+                                                  wären, sol lang es gott gefallt.</p>
+                                                  <p first="0" align="left">Uff zinstag den 6.
+                                                  augstenn habend uß erkanntnuß<note type="editorial"> Beschluss</note> und befelch
+                                                  h[errn] burgermeisters und e[ines] e[rsamen] raats
+                                                  h. statthalter Holzhalb, h. statthalter Bräm, h.
+                                                  landvogt Raan, h. landvogt Kamble<note type="editorial"> Konrad Kambli
+                                                  (1560-1630)?</note>, h. zunftm[ei]ster Köchle<note type="editorial"> Jakob Köchli (gest. 1602), seit
+                                                  1593 als Zunftmeister zum Kämbel im Kleinen Rat
+                                                  von Zürich.</note>, Hs. Rüttlinger als schwaager
+                                                  und der schryber Heginer<note type="editorial">
+                                                  Die Familie Hegner von Winterthur stellte viele
+                                                  Stadt- und Landschreiber.</note> sampt dem
+                                                  undervogt am Riespach die anspraach und span<note type="editorial"> Uneinigkeit, Streit</note>
+                                                  zwüschend Balthaßar und sinem tochterman durch
+                                                  einen ußspruch lut brief und siglen zu ruwen
+                                                  bracht und beden parteyen annehmlich gemacht.
+                                                  Volgender zyt hat Balthaßar umb meerer ruwen
+                                                  willen den größern teyl sines guts zu Stadelhofen
+                                                  sampt der schür und trotten sinem tochtermann
+                                                  ubergäben und sin selbs allein die bhusung sampt
+                                                  bygelägnem boum- und krutgarten behalten. Habens
+                                                  sydhar in zimlicher früntlichkeit näbent einandern
+                                                  gewonet. Gott verliche wyter sinen friden.
+                                                  Heinrich der Pfyster begab sich auch zů komlicher
+                                                  und glägner herberg um järlichen zins zu
+                                                  Stadelhofen.</p>
+                                                  <p first="0" align="left">min eltister sun (als
+                                                  der diß 96. jaars<note type="editorial"> Die
+                                                  Jahresangabe bezieht sich nicht auf das berichtete
+                                                  Ereignis, sondern auf die Arbeit an der
+                                                  Familienchronik.</note>, in wölichem ich mit diser
+                                                  schribens arbeit by ruwigen stunden etwas kurzwyl
+                                                  gesucht, sines alters ingieng in das 44. jaar) hat
+                                                  mir uff montag<note type="editorial"> 23.
+                                                  Mai</note> nach trinitatis [1595]<note type="critical">Die Jahreszahl befindet sich am
+                                                  Rand des vorausgehenden Textabschnitts.</note> von
+                                                  Zurzach zugeschriben, wie er durch warnung guter
+                                                  fründen sich uf die reyß gen Straßburg begeben,
+                                                  daselbst ein zytlang zu verharren, untz<note type="editorial"> bis</note> das nüw ungwitter der
+                                                  genannten teufferen halber fürüber gange. Ist
+                                                  mittler zyt widerum frisch und gsund heimb
+                                                  kommen.</p>
+                                                  <p first="0" align="left">Als in dißem monat
+                                                  januario min l. sun Balthaßar Maaler sich siner
+                                                  geschäften halben, ouch etlicher maaßen die sorg
+                                                  und forcht der gefangenschaft, belangend syn
+                                                  eygensinnige wyß der teufferey halber, zu
+                                                  fürkommen<note type="editorial"> verhüten,
+                                                  abwenden, Id. III, 278.</note>, uff die straaß und
+                                                  wandelfart gen Straaßburg begäben, ward von jmme
+                                                  zu Zürich und ouch alhie zu Winterthur ouch
+                                                  anderschwo beständigklich ußgäben, wie das er
+                                                  underwägen ermürdt und jämerlich umbkommen wäre.
+                                                  Dargegen aber er in der andern wuchen
+                                                  hornungs<note type="editorial"> Februar</note>
+                                                  frisch und gsund und auch von gott wol bewaaret
+                                                  widerumb heimkommen und mich fürderlich durch sine
+                                                  brief widerumb erfröuwet hat mit bekanntnuß, das
+                                                  jmme kein einzig leid noch ungemach uff diser
+                                                  straaß ye begegnet sye. So hat mich ouch in der
+                                                  letzten wuchen diß monat min l. tochter Küngolt
+                                                  Rüttlingerin heimbgesucht.</p>
+                                                  <p first="0" align="left">Das mertzen nüw dis
+                                                  lauffenden jars empfieng mich nit bym besten. Dan
+                                                  ich erst uff frytag d. 5. merz widerumb durch g.
+                                                  g. uff die cantzel kam. Die diaconj, ouch under
+                                                  dißen der nüw schulmeister J. Cellarius<note type="editorial"> Jakob Keller (1562-1627),
+                                                  Subdiakon zu St. Georgen in Winterthur.</note> und
+                                                  min sun Josue, sprungend mir manlich zu in der
+                                                  kilchen. Es besuchtend mich ouch von Zürich min l.
+                                                  schwöster Anna Schwytzer sampt jrer stüftochter
+                                                  Barbel und min l. tochter Küngolt Rüttlingerin mit
+                                                  jrem pfysterknecht Alexander Holzhalben. Fandind
+                                                  mich in g. g. by zimmlicher verbeßerung mir
+                                                  zugefallner schwachheit. So kam auch zu uns glich
+                                                  als unverhofft min eltister l. sun Balthaßar sampt
+                                                  sinem eltern töchterle, dem Susannele. Hat uns
+                                                  alle erfreuwet und gnůgsam berichtet siner
+                                                  vollbrachten straßburger reyß halber.</p>
+                                                  <p first="0" align="left">A[nn]o 1615 zu ußgähndem
+                                                  merzen kam mir bottschafft, wie daß min l. u.
+                                                  eltester brůder Balthasar Maaler zu Girspurg<note type="editorial"> Der Gutshof Girsberg befand sich
+                                                  im Gebiet der Gemeinde Wihr-au-Val.</note> uff dem
+                                                  meyerhof in Elsiß unwyt von Collmar von der
+                                                  vätterlichen hand gottes wäre angegriffen
+                                                  worden<note type="critical">Ms E 126: auß dieser
+                                                  trübseligkeit abgescheiden (statt «von der
+                                                  vätterlichen hand gottes wäre angegriffen
+                                                  worden»)</note>. Disen meyerhof hat er uff etliche
+                                                  jahr empfangen umb ein gebührenden zins, hat gar
+                                                  kömliche gelegenheit gehan mit sich u. anderen, so
+                                                  ihm wol hätte dienen mögen; hat denselben ungefehr
+                                                  1 jahr bewohnet.<note type="critical">Reklamant:
+                                                  er</note> | [S. 222] Er war sines alters ungefehr
+                                                  etwas zu dem 63. jahr, hat in sinem leben vil
+                                                  kumber u. widerwärtigkeit<note type="critical">Folgt in der Vorlage: u. widerwärtigkeit
+                                                  (Wiederholung)</note><note type="critical">Ms E
+                                                  126: herzenleid</note> daheim u. an der frömbde
+                                                  ußgestanden vonwegen siner eigensinniger wys u.
+                                                  meinung des glaubens halber, so zwüschend unß u.
+                                                  jhme war, ohne zwyfel aber uß ynbrünstigem yfer u.
+                                                  liebe gottes sines erschöpfers, wie auch u[nsers]
+                                                  h[erren] J[esu] C[hristi] sines heilands u. auch
+                                                  uß sonderbarem trib des heil. geists. Derhalben er
+                                                  in sinem geliebten vaterland kein blybens mehr
+                                                  hette vonwegen u. aus gefahr der gefangenschaft er
+                                                  derhalben sich an die frömbde begeben. Hat also
+                                                  sin bilgerschaft dises zeytlichen lebens mit
+                                                  großer trübsal vollführt und auch mit sonderm
+                                                  bystand gottes sines erlösers also ußgestanden u.
+                                                  biß an sin ende verharret. Er war ungefehr 10 oder
+                                                  12 tag krank<note type="critical">«krank» gemäss
+                                                  Ms E 126</note> gelegen, so ich von meiner lieben
+                                                  bas Ursula Rütlinger<note type="editorial"> Ursula
+                                                  Reutlinger (geb. 1593), Tochter von Küngold
+                                                  Reutlinger, geb. Maler (1555-1615).</note>
+                                                  mundlich bin berichtet worden, so der zeyt by<note type="critical">«by» über der Zeile</note> jhme
+                                                  war. Ward gar sanft und noch mit gutem verstand
+                                                  wie auch mit großer begird u. verlangen uß disem
+                                                  jammerthal in das ewige, waare u. himmlische
+                                                  paradys u. vatterland in u. h. J. C. ganz
+                                                  christenlich u. sanft entschlaffen. Er war mit 6
+                                                  oder 7 personen zu siner begräbnuß begleitet by
+                                                  einem alten capellj bestattet, so nützig dann vil
+                                                  gehürst<note type="editorial"> Gesträuch,
+                                                  Gestrüpp, Id. II, 1641.</note> u. gestüd darum
+                                                  stahnde anstatt eines stattlichen epitaphium oder
+                                                  grabsteins sines uß gottes lieben gnaden noch uff
+                                                  dise stund ehelichen stammens halber. Er hat sich
+                                                  je u. allwegen beflyßen kundsame<note type="editorial"> Bekanntschaft, Id. III,
+                                                  353.</note> zu machen mit schlächten<note type="editorial"> schlichten, einfachen</note>,
+                                                  frommen und einfaltigen lüthen, welches mir zum
+                                                  theil auch anhangt; hat es auch an mir gar gern
+                                                  gesehen u. mich oft darum gelobt, daß er dieselbig
+                                                  art auch an mir, sinem jüngsten bruder, gespürt
+                                                  hat. Also hat es auch dem l. gott gefallen, jhne
+                                                  an einem sömlichen unachtsamen ort sin gut
+                                                  ruwbettlin zurüsten zulaßen, von dannen er ihn zu
+                                                  siner zyt auch ohne zwyfel an dem großen u. lezten
+                                                  tag mit dem schall siner posaunen wirdt
+                                                  auferweken. Das welle uns der gnädig gott u.
+                                                  vatter zu syner zyt unß allensamen, die sömliches
+                                                  mit mund u. herz bekennend u. begehrend, verlyhen
+                                                  und mittheilen durch unsern h. Jesum Christum,
+                                                  amen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Das 1593
+                                                  von Josua Maler (1529-1599) begonnene Autograph
+                                                  mit Nachträgen seiner Söhne befand sich im Besitz
+                                                  von Hans Kaspar Wyss (1717-1789) und ist seit dem
+                                                  19. Jahrhundert nicht mehr auffindbar (vgl. die
+                                                  Notiz auf S. 223 der hier verwendeten Vorlage,
+                                                  Gottlieb Emanuel von Hallers Bibliothek der
+                                                  Schweizer Geschichte und aller Theile, so dahin
+                                                  Bezug haben, Zweyter Theil, Bern 1785, S. 292 und
+                                                  Zürcher Taschenbuch 8 [1885], S. 123). Die Edition
+                                                  beruht auf einer Abschrift aus dem Jahr 1784, die
+                                                  in einem handschriftlichen Sammelband aus dem
+                                                  Besitz von Salomon Hess (1763-1837) enthalten ist
+                                                  (ZBZ, Ms E 48). Hier wiedergegeben sind nur die
+                                                  Abschnitte, die Balthasar Maler in der Zeit von
+                                                  1588 bis 1615 betreffen; die zahlreichen
+                                                  Unterstreichungen in der Vorlage sind nicht
+                                                  berücksichtigt. Auf die sehr lückenhafte und im
+                                                  Wortlaut oft abweichende Abschrift von Erhard
+                                                  Dürsteler (Ms E 126) wird im textkritischen
+                                                  Apparat in der Regel nicht verwiesen; angegeben
+                                                  sind nur Lesarten, die einen etwas anderen Sinn
+                                                  ergeben.</p>
+      <p> hinterlassenes Erbe</p>
+      <p> Dieser Nachtrag in der
+                                                  Familienchronik stammt von Abraham Maler
+                                                  (1585-1626).</p>
+    </back>
+  </text>
+</TEI>

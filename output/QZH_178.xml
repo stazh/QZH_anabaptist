@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_178</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_178</idno>
+          </msIdentifier>
+          <head>[Der Rat von Zürich] an Jakob An der Rüti,
+                                                  Bernhard Segesser von Brunegg und Johann Ludwig
+                                                  von Sulz (Entwurf)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1543-08-18"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 29</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unsern frundtlichen willen und alles gutz
+                                                  zůvor. Fromer, wyser, jnsonders gůter frundt und
+                                                  getruwer, lieber landtvogt, von unserm lieben
+                                                  burgermeister her <note type="editorial"> Johannes Haab</note> sind wir verstendiget, wz
+                                                  du uff jungsten tag<note type="editorial">
+                                                  Tagsatzung, Versammlung der eidgenössischen
+                                                  Gesandten</note> zu <placeName ref="Baden">Baden</placeName>
+                                                  der widertoufern<note type="critical">Korrigiert,
+                                                  ursprünglich: toufern</note> halb mit jm<note type="critical">«mit jm» über der Zeile</note>
+                                                  gerett hast. Und diewil uff das sůchen, wie necher
+                                                  maln von dir und den unsern beschehen, groser
+                                                  costen ufgadt unnd sy nit allweg zebetretten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+                                                  1486.</note> sind, so lasend wir uns wie du zum
+                                                  teyl mit bemeltem<note type="editorial">
+                                                  genanntem</note> unserm burgermeister<note type="critical">Folgt gestrichen: gerett
+                                                  hast</note> verabscheidet hast, gfallenn, was der
+                                                  selben<note type="critical">«selben» über der
+                                                  Zeile</note> teuferen uß unser landtschafft jnn
+                                                  die grafschafft Baden wandlent, das du dieselben,
+                                                  es sige uf strasen oder sonst megist gefenklich
+                                                  annemen und mit straf gegen jnen handlen, als sich
+                                                  wirt geburen. Dargegen wellen wir uff die uß der
+                                                  grafschafft, wo die<note type="critical">Folgt
+                                                  gestrichen: uff</note> jnn unser gericht und
+                                                  gebiet<note type="critical">Folgt gestrichen:
+                                                  hat</note> komen, ouch stellen und sy anemen, dero
+                                                  namen aber<note type="critical">Folgt gestrichen:
+                                                  us</note> uns unbekant. Deßhalb unser beger ist,
+                                                  das du uns dieselben jnn geschrifft zůschiken
+                                                  wellist, umb dz wir die sach dest furer<note type="editorial"> eher, Id. I, 968.</note>
+                                                  zuversehen wussind. Wir habent och hieneben dem
+                                                  vogt von <placeName ref="Kaiserstuhl">Keyserstůl</placeName>,
+                                                  deßglich unserem getruwen lieben burger her Hans
+                                                  Ludwigen, grafen zue Sultz<note type="editorial">
+                                                  Johann Ludwig I. von Sulz</note><persName ref="Johann Ludwig I. von Sulz">Hans Haben</persName>, geschryben, an
+                                                  den pessen und durchzugen ouch uffsehen zehaben
+                                                  und die ungezogen und verlumbten teufer zestrafen.
+                                                  Datum sambstag den 18. augustj anno d[omini]
+                                                  43.</p>
+                                                  <p rend="margin-top">An landvogt <persName ref="An der Rüti, Jakob">ze Baden</persName>.</p>
+                                                  <p rend="margin-top">Gliche meynung vogt <persName ref="Segesser von Brunegg, Bernhard">von
+                                                  Keyserstul</persName>, den
+                                                  durchzug der toufern ze versechen<note type="editorial"> besorgen, sorgen für, Id. VII.
+                                                  571.</note>.</p>
+                                                  <p>Item dem grafen ein gmeyne misiff der sach
+                                                  halb, ufsehen zuhaben.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

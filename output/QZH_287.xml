@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_287</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_287</idno>
+          </msIdentifier>
+          <head>Herbstsynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1566-10-22"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 138</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><placeName ref="Knonau">Knonower</placeName> oder
+                                                  <placeName ref="Freiamt">Fryampt</placeName> capittel aͤnnet
+                                                  Albis</p>
+                                                  <p>[…] Zů <placeName ref="Affoltern am Albis">Affholtern</placeName> ist ein toͤuffer, der
+                                                  macht grosse unrůw, das sy sich parthend<note type="editorial"> sich parteien, Id. IV,
+                                                  1618.</note> und einandren schlahend. Saͤhend
+                                                  wëder den vogt noch yemants an. Sagend, man soͤlte
+                                                  yeden glouben lassen, was er woͤlle etc.</p>
+                                                  <p rend="margin-top">[Bericht an den Rat von
+                                                  Zürich]<note type="editorial"> Die Überschrift
+                                                  lautet: «Anbrinngen jnn gehaltnem sinodo den 22ten
+                                                  actobris anno 1566 für myne herren die beid reth
+                                                  gewyßt». Die Censura sind ebenfalls überliefert
+                                                  und enthalten teilweise dieselben Traktanden. Hier
+                                                  und in der nachfolgenden Nr. mit den
+                                                  Ratsbeschlüssen sind nur die Abschnitte, welche
+                                                  Täufer betreffen, ediert.</note></p>
+                                                  <p><placeName ref="Wülflingen">Wülflingen</placeName>: Wiewol
+                                                  der predicant daselbs jm predigen und andern
+                                                  pflychten synes ampts<note type="critical">«daselbs jm predigen … ampts» fehlt in den
+                                                  Censura</note> gern syn bests thette, jst doch
+                                                  niemandts, der jm ruggen halte, angsehen, das sy
+                                                  dhein<note type="editorial"> kein</note>
+                                                  grichtsherren<note type="editorial"> Andreas
+                                                  Steiner</note> jetzmalen<note type="critical">Wort
+                                                  (jetzmalen) fehlt in den Censura</note> by jnen
+                                                  sesßhafft hannd. Dardruch das volck da umb
+                                                  der<note type="critical">«da umb der» fehlt in den
+                                                  Censura</note> ein teyl gar ­toüf­ferisch
+                                                  worden<note type="critical">«worden» fehlt in den
+                                                  Censura</note>, der ander dem wůcher ergeben und
+                                                  der drytt teyl das syn gar verthůt unnd zů armůt
+                                                  richtet. Söllichem eehafften<note type="editorial"> gewichtig, Id. I, 7f.</note> mangel unnd
+                                                  bresten<note type="editorial"> Gebresten,
+                                                  Krankheit, Id. V, 838.</note> underm volck
+                                                  jngerißen, erforderet die notturfft by den
+                                                  jhennigen, so sich der verwaltung diser
+                                                  herrschafft beladent<note type="critical">«jngerißen … beladent» fehlt in den
+                                                  Censura</note>, abzůschaffen. Dem jr, myn herren,
+                                                  wol stattlichen zethůnd wüssen werden etc.<note type="critical">Dieser Satz fehlt in den Censura,
+                                                  wo es stattdessen heisst: Ist für myn herren
+                                                  zebringen gwißen.</note></p>
+                                                  <p><note type="critical">Laut Censura; im
+                                                  Text zuhanden der politischen Obrigkeit:
+                                                  «Wetzikoner cappitel». Affoltern gehört nicht zum
+                                                  Kapitel Wetzikon, sondern Freiamt. Die Censura
+                                                  geben den Fall wie folgt wieder: «Affholtern, ein
+                                                  ­toüf­fer sich habe lassen mercken, jnn einem jar
+                                                  vast die predig nie besůcht, dem bstande der vater
+                                                  by, ouch die můter, gebend jm underschlouff. Soll
+                                                  an myn herren komen.»</note><placeName ref="Freiamt">Frygampt</placeName>: […]<note type="editorial"> Das
+                                                  erste Traktandum betrifft die
+                                                  Almosenordnung.</note> Als <persName ref="Schnewli, Heini">Heinj Schnewlj</persName> zů <placeName ref="Affoltern am Albis">Aoffholteren</placeName> jnn der herrschafft
+                                                  <placeName ref="Knonau">Knonouw</placeName><bm id="94"/>, deß
+                                                  sun ein ­toüf­fer jst, und jr, myn herren, üwerm
+                                                  vogt zů Knonouw<note type="editorial"> Hans
+                                                  Rahn</note> synethalber zůgschriben und bevolhen,
+                                                  wo er<note type="critical">Folgt gestrichen:
+                                                  bett</note> betretten<note type="editorial">
+                                                  antreffen, ergreifen, Id. XIV, 1486.</note> werden
+                                                  möge, sölle er üch gfengklichen zůgschickt werden,
+                                                  wirt klagt, das er, der vater, den selben synen
+                                                  ungehorsamen, widerspenigen sun über alle warnung
+                                                  ufenthalte, by jm underschlouff gebe, und wüsse
+                                                  man schier nitt, ob der vater und das gantz
+                                                  hußgsind ouch ­toüf­ferisch sygen<note type="critical">Folgt gestrichen: jst
+                                                  darumb</note>. Diewyl dann hierdurch ander<note type="critical">Folgt gestrichen: (ander)s
+                                                  ergernuß empfachend</note> ein handthaben<note type="editorial"> Anhaltspunkt, Vorwand, Id. II,
+                                                  868.</note> nehmen und sich derselben jrrigen sect
+                                                  ouch anhengig machen<note type="critical">Folgt
+                                                  gestrichen: erforderet</note>, jst diß syn (deß
+                                                  alten<note type="critical">Folgt gestrichen:
+                                                  Schwelis</note> Schnewlis) thůn für üch, myn
+                                                  herren, gwißen, dasselbig abzůschaffen etc.<note type="critical">Wortlaut in den Censura (unter
+                                                  «Frygampt»): Affoltern: ein ­toüf­fer sich habe
+                                                  lassen mercken, jnn einem jar vast die predig nie
+                                                  besůcht, dem bstande der vater by, ouch die můter,
+                                                  gebent jm underschlouff. Soll an myn herren
+                                                  kommen.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

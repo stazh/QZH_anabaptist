@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_682</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_682</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mittwochs, den
+                                                  16ten aprilis pr[aesentibus] herr Keller unnd beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1600-04-16"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 533</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wann der  <placeName ref="Grüningen">vogt</placeName> von schulmeyster Wysen<note type="editorial"> Heinrich Wyss. Über ihn, der
+                                                  sich 1589 wegen seines täuferischen
+                                                  beziehungsweise schwenckfeldischen Glaubens vor
+                                                  Gericht verantworten musste, sind noch weitere
+                                                  Akten überliefert, etwa im Ratsmanual des
+                                                  Unterschreibers (StAZH, B II 286, S. 24: Am 17.
+                                                  August 1603 klagen der alte Schulmeister Wyss und
+                                                  seine Tochter über Schmähungen durch Verena
+                                                  Streulin, während letztere über Schmähungen durch
+                                                  Wyss’ Tochter klagt. Der Rat hebt die Schmähungen
+                                                  auf; Schulmeister Wyss hat sich wegen des
+                                                  Vorwurfs, dass er Verena Streulin 200 Gulden
+                                                  gestohlen haben soll, wohl verantwortet, seine
+                                                  Ehre ist demzufolge unbeschadet. Ebenso sollen die
+                                                  Töchter bei ihrer Ehre bleiben. Weil die beiden
+                                                  aber zu viel geredet haben, werden sie mit 20
+                                                  Batzen gebüsst).</note><persName ref="Wyss, Heinrich">zu Grüningen</persName> oder anndern <persName ref="Peter, Bartli">Bartlj
+                                                  Petters</persName> seligen
+                                                  wegen wider <persName ref="Rüegg, Ludwig">Ludwig Rüeggen</persName>, so jne mit strychen
+                                                  mißhandlet, umb recht angeruefft wirt, sol er
+                                                  jnnen desselben vor denn zwolff richtern
+                                                  ampts<note type="editorial"> Das Gericht der
+                                                  Zwölf, Herrschaftsgericht von Grüningen</note>
+                                                  ergon lasßen. Im vhal sich aber syn Petters s.
+                                                  niemandts welte beladen, als dan er, vogt, jme,
+                                                  Rüeggen, selbs vor den 12 beclagen unnd jrer
+                                                  rechtlichen ercandtnus darüber <nswk/> erwarten
+                                                  und alsdan<note type="critical">Lesung
+                                                  unsicher</note> nach gestalt der sachen gegen
+                                                  jnne, Rüeggen, mit straff handlen, deßen sol er
+                                                  nebst überschickung der konndtschafft verstendiget
+                                                  werden.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mittwochs, den
+                                                  16ten aprilis pr[aesentibus] herr Keller unnd beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

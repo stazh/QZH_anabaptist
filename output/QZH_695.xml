@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_695</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_695</idno>
+          </msIdentifier>
+          <head>16 Artikel mit Vorwürfen der Täufer und des
+                                                  gemeinen Mannes</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 546</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>1. Der töufferen anhenger uff der landtschafft
+                                                  wohnhafft klagend, man wölle allein ob inen zů
+                                                  ritter werden<note type="editorial"> An jemandem
+                                                  zum Ritter werden: jmd. drangsalieren, Grimm 14,
+                                                  1054f.</note>, da man aber in der statt ires
+                                                  gleichen<note type="critical">Original 2 (: aber
+                                                  in der statt man sie (statt «da man aber in der
+                                                  statt ires gleichen»)</note> und andere sectierer
+                                                  ruͤwig sitzen lasse.</p>
+                                                  <p>2. Einer der fürnemmen touffbruͤderen<note type="critical">Original 2 (: in der pfarr Wald
+                                                  (statt «der fürnemmen touffbruͤderen»)</note> hat
+                                                  geredt, da man nach angestelter reformation die
+                                                  widertöuffery habe understanden abzůschaffen, habe
+                                                  gott von deße wegen statt und landtschafft mit dem
+                                                  schweren capelerkrieg<note type="editorial">
+                                                  Zweiter Kappelerkrieg 1531</note> gestrafft,
+                                                  darumb möge gott ietziger zeit inen<note type="critical">Original 2: abermals (statt
+                                                  «ietziger zeit inen»)</note> glicher gstalt oder
+                                                  in ander weg lufft schaffen.</p>
+                                                  <p>3. Etlich der töufferen pflegen zůbätten, das
+                                                  gott pestilentz, krieg und andere plaagen senden
+                                                  wölle, damit man iren, der töufferen, vergesse und
+                                                  sie ruͤwig lasse.</p>
+                                                  <p>4. In<note type="critical">Original 2: So sol
+                                                  alhie, in</note> unser gnädigen herren statt sol
+                                                  ein edels weib sein, wellichen<note type="critical">Original 2: welliche</note> den
+                                                  gefangnen töufferen fürschub<note type="editorial"> Beihilfe, Id. VIII, 84.</note> thůn sol und sie
+                                                  bey irem gefaßten wahn nur dapffer<note type="critical">«nur dapffer» fehlt in
+                                                  Original 2</note> zůverharren stercken.</p>
+                                                  <p>5. Ein <persName ref="Kägi, N.">junger Kägi</persName> im
+                                                  <placeName ref="Fischenthal">Fischenthal</placeName> hat
+                                                  geredt, er wölte lieber an den galgen den in die
+                                                  kirchen gefuͤrt werden, ouch lieber under den
+                                                  galgen dan in den kirchhoff begraben ligen<note type="critical">«ouch lieber … ligen» fehlt in
+                                                  Original 2</note>.</p>
+                                                  <p>6. So<note type="critical">Original 2: Die
+                                                  widertöuffer, so</note> man die ufferlegten
+                                                  geltbůßen nach vermög<note type="editorial">
+                                                  Inhalt, Aussage, Id. IV, 107.</note> des
+                                                  mandaths<note type="critical">Folgt in Original 2:
+                                                  ußgangnen</note> von den widertöüfferen<note type="critical">Original 2: inen (statt «den
+                                                  widertöüfferen»)</note> forderet, sagen sie, die
+                                                  mandath sigind nur schreckböttlj<note type="editorial"> Mittel der Abschreckung, Id. IV,
+                                                  1903.</note>, wöllind ouch nützit geben. Man sehe
+                                                  ouch darby, das es unseren gnedigen herren nur umb
+                                                  gelt zethůn, so habind ouch uns[er] g[nedige]
+                                                  herren umb dißer irer sönderung willen zů irem
+                                                  haab und gůt kein gwalt.</p>
+                                                  <p>7. Das gemein volck eergeret sich mechtig
+                                                  sonderlichen darab, das man mit geltbůßen,
+                                                  gfangenschafft und mit weltlichem gwalt sie zů
+                                                  unserem kirchgang nöttigen wölle. Klagen, man
+                                                  lasse sie nit zůr verhör<note type="editorial">
+                                                  Anhörung</note> kommen, überzüge sie nit durch ein
+                                                  offen gspräch. Daruß man gspüren und erleernen
+                                                  möchte, ob wir wider die töufferische jrrthumb
+                                                  unsere gloubens bekandtnus erhalten<note type="editorial"> verteidigen, beweisen, vgl. <hl to="http://fwb-online.de/go/erhalten.s.3vu_1709290020"><Hyperlink>http://fwb-online.de/go/erhalten.s.3vu_1709290020</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>
+                                                  köntind.</p>
+                                                  <p>8. Andere, die gleich nochmalen zů uns zur
+                                                  kirchen gond, lassen inen ir (der töufferen)
+                                                  meinung fast<note type="editorial"> sehr</note>
+                                                  gefallen<note type="critical">Original 2: gefallen
+                                                  und belieben</note>, geben für<note type="editorial"> vor</note>, diße lüth sigind mit
+                                                  einem sondern heil[igen] geist begaabet, als die
+                                                  in irer religion und glouben dapffer und
+                                                  standthafft ouch bereit, leib und leben zů irem |
+                                                  [fol. 1v] glouben zůsetzen. Daruß wol abzenemmen,
+                                                  das der gemein mann zum abfahl geneigt und wenig
+                                                  uff unser confeßion und religion habe, ouch sich
+                                                  zur zeit der nott deren wenig zůvertrösten.</p>
+                                                  <p>9. So pflegen etlich der töufferen fromme
+                                                  redliche kirchendiener so wol in statt als uff der
+                                                  landtschafft zůschmähen und zůlesteren und
+                                                  sonderlich die in dem herren entschlaffen, als den
+                                                  <note type="critical">Original 2:
+                                                  fürnemlich (statt «sonderlich»)</note> houptman
+                                                  Müllers zů Eticken<note type="editorial">
+                                                  Edikon</note><placeName ref="Edikon">sonderlich</placeName> <persName ref="Müller, N. (Sohn des Hauptmann)">eelicher
+                                                  sohn</persName> gethon,
+                                                  wellicher von m[eister] <persName ref="Bullinger, Heinrich (1504-1575)">Heinrichen
+                                                  Bullingern</persName> seeliger
+                                                  gedechtnus<note type="critical">Original 2:
+                                                  seeligen (statt «selliger gedechtnus»)</note>
+                                                  offentlich ußgeben, er sige ein weltmann geweßen
+                                                  und<note type="editorial"> «ein weltmann geweßen
+                                                  und» fehlt in Original 2</note> eben ein gsell wie
+                                                  alle predicanten ietziger zeit, habe sich zů einem
+                                                  bystand vor gricht und rächt brauchen lassen.
+                                                  Nennen ouch redlicher predicanten eekinder<note type="critical">Original 2: kinder</note> nur
+                                                  pfaffenschlingck; dieselbigen sigen ouch zů
+                                                  hürathen nit so gůt als der paurslüthen
+                                                  kinder.</p>
+                                                  <p>10. Mit irer listigen und verschlagnen
+                                                  schwetzery fuͤren sie vill einfaltige von der
+                                                  evangelischen wahreit und gehorsamme der frommen
+                                                  christlichen oberkeit ab, machen dieselbigen
+                                                  zwiffel glöubig, unrichtig, das sy nit wüssen,
+                                                  woran sie sind.</p>
+                                                  <p>11. <persName ref="Corrodi, Kleinjörg">Cleinjörg Corradj</persName> zů Letenmaaß<note type="editorial"> Lettenmoos</note><placeName ref="Dürnten, Lettenmoos"/> hat geredt<note type="critical">Original 2: gesagt</note>, wan man
+                                                  in der pfarr Türnten<note type="editorial">
+                                                  Dürnten</note> meeren<note type="editorial">
+                                                  abstimmen, Id. IV, 371f.</note> sölte, wurde
+                                                  houptman Müller zů <placeName ref="Edikon">Eticken</placeName> sohn, der ein widertöuffer ist, mer byfals
+                                                  haben dan herr dechan Hamberger<note type="editorial"> Hartmann Hamberger</note>, der
+                                                  dan<note type="critical">Original 2: doch</note>
+                                                  siner leer und lebens halb bißhar uff sin höchst
+                                                  alter unklagbar wol sich gehalten.</p>
+                                                  <p>12. Sie machen uns[ern] g[nedigen] herren
+                                                  underthonen ungehorsam, als dan <persName ref="Streler, Kleinuli">Cleinůlj
+                                                  Sträler</persName> im
+                                                  <placeName ref="Wald, Aatal">Aathal</placeName> gethon,
+                                                  wellicher in einem eehandel ein weibsperson
+                                                  uffgewißen<note type="editorial"> zu etwas
+                                                  anstiften, verleiten, Id. XVI, 1939.</note>, sie
+                                                  sölle uff begeren ires ordenlichen pfarrers vor im
+                                                  nit erschynen und bscheid geben. Hat sie ouch
+                                                  dahin gebracht, das sie ein andere straaß zů irer
+                                                  behaußung muͤssen wandlen, die gemein landtstraaß
+                                                  vermiden, damit sie von dem predicanten nit
+                                                  befraget werde.</p>
+                                                  <p>13. <note type="critical">Folgt in
+                                                  Original 2: Cleinůly</note> Sträler hat zů <persName ref="Glatthaar, Samuel">Samuel
+                                                  Glathaaren</persName>
+                                                  seeligen zů Wald<note type="critical">Original 2:
+                                                  zů Wald hat zů Samuel Glathaaren seeligen zů Wald
+                                                  (statt «hat zů Samuel Glathaaren seeligen zů
+                                                  Wald»)</note><placeName ref="Wald">Obgedachter</placeName> sohn<note type="editorial"> Vielleicht Samuel Glatthar, der
+                                                  am 5. Februar 1598 Küngolt Müller, Tochter des
+                                                  Fischenthaler Pfarrers Beat Felix Müller heiratete
+                                                  (vgl. StAZH, E III 133.1, EDB 351).</note> geredt,
+                                                  was er sich der pfaffen sovil beladen und annemmen
+                                                  wölle. Worumb er jemerdar mit inen umbher wandle?
+                                                  Ob er inen muͤsse helffen strecken<note type="editorial"> auf die Folter spannen (im
+                                                  wörtlichen Sinn)</note>, samm die predicanten
+                                                  scharpffrichter und henncker werind?</p>
+                                                  <p>14. <persName ref="Streler, Grosshans">Großhanns Strälers</persName> des wider­toüf­fers
+                                                  sohn zů<note type="critical">Original 2: in der
+                                                  pfarr (statt «zů»)</note> Wald | [fol. 2r] hat im
+                                                  brauch, den pfarrer daselbst, wan er mit gottes
+                                                  wortt die töufferischen artickel verfechten<note type="critical">vermutlich irrtümlich anstelle von
+                                                  widerfechten (=angreifen)</note> wil, zůverlachen.
+                                                  Wie dan ouch derglichen an anderen<note type="critical">Folgt in Original 2:
+                                                  gleichs</note> orthen beschicht von etlichen, die
+                                                  den töufferen<note type="critical">Original 2:
+                                                  widertöufferen</note> gönstig, als die lieber
+                                                  sehind, das man an der cantzlen allderings iren
+                                                  geschwige.</p>
+                                                  <p>15. Was  <persName ref="Leutenegger, Jörg">Georgen Lautenegcker</persName> ab Horn<note type="editorial"> Orn</note><placeName ref="Hinwil, Orn">anlangt</placeName> uß der pfarr Hünwyl, thůt er
+                                                  wider sin gegeben urfech, da die bestimbte
+                                                  monatszeit fürüber, er aber nit weichen wil und
+                                                  kompt teglich vill volck, der töuffery anhengig,
+                                                  zů im, welliches er zur ungehorsamme zereitzen nit
+                                                  scheücht.</p>
+                                                  <p>16. So hat des gefangnen wagners<note type="critical">«wagners» fehlt in der Vorlage,
+                                                  ergänzt nach Original 2</note> von
+                                                  <placeName ref="Hadlikon">Hatlicken</placeName> sohn geredt,
+                                                  ee er wölte sinen vatter von sinem gefaßten wohn
+                                                  abmannen, er wölt in ee taussend mal darin
+                                                  stercken, dan er wüsse, das er recht daran sige
+                                                  etc.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Die Gemeinden Wald,
+                                                  Fischenthal, Bäretswil, Hinwil, Dürnten, und Egg
+                                                  gehörten kirchlich zum Kapitel Oberwetzikon und
+                                                  politisch zur Vogtei Grüningen.</p>
+    </back>
+  </text>
+</TEI>

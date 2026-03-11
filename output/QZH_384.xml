@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_384</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_384</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Wilpert Zoller (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1579-05-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 235</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren günstigen, geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, unns <note type="editorial"> anlangen: zugetragen werden, als
+                                                  Kunde zukommen, Id. III, 1330.</note>, das über
+                                                  hievor meermaalen unnsere ußganngne mandath unnd
+                                                  warnungen jnn dyner amptsverwaltunng die
+                                                  thöüfferig jemerdar nach ynrißenn unnd statt
+                                                  habenn sölle unnd sonnderlichen erst kurtzer tagen
+                                                  jren zwen uß <placeName ref="Mähren">Merhern</placeName>
+                                                  ufhin kommen, da der ein usß dem gricht dyner
+                                                  amptsverwalltung bürtig, genannt Hanns oder
+                                                  <persName ref="Stocker, Melchior">Melchior Stocker</persName><persName ref="Stocker, Hans">lanngt an</persName>, der annder aber
+                                                  uß Merheren syge. Diße beid, so sonnst jm land hin
+                                                  und wider umbhin schweyfind, fachind und halltind
+                                                  an, wo sy komind, das volck ob unnd uff jren
+                                                  reigen<note type="editorial"> reigen füren:
+                                                  anführen, Grimm 14, 648</note> zefuͤren. Diewyl
+                                                  dann sölliches dheins<note type="editorial">
+                                                  keines</note> wegs zůgedulden ald<note type="editorial"> oder</note> zůzelasßenn, sonders
+                                                  diser schädlichen sect der thöüfferig mit ernst
+                                                  zuweeren, so jst<note type="critical">Folgt
+                                                  gestrichen: unnser</note> deßhalb unnser bevelch
+                                                  an dich, du wellist dyn khundtschafft<note type="editorial"> Fahndung</note> uff ernemtste
+                                                  beid, ouch anndere jre anhanngende personen haben
+                                                  und, wo sy anzekommen<note type="critical">Der
+                                                  Text bricht hier, am Seitenende, ab. Die
+                                                  Fortsetzung befindet sich auf fol. 201r.</note>
+                                                  unnd zůbethrättenn<note type="editorial">
+                                                  antreffen, ergreifen, Id. XIV, 1486.</note>, zů
+                                                  jnnen gryfen und sy<note type="critical">Folgt
+                                                  gestrichen: gfennklich annemmen</note> demnach jnn
+                                                  gfanngenschafft mit můß, wasser unnd brott so
+                                                  lanng ennthallten<note type="editorial">
+                                                  festhalten, Id. II, 1228.</note>, biß sy jres
+                                                  vorhabenns abstaan unnd aller gehorsame ergeben
+                                                  wellennt. Der achtung, so söllicher ernst
+                                                  angewendt, sy hiemit ußem lanndt verthriben<note type="critical">Folgt gestrichen: werden</note>
+                                                  unnd man jren entladen werde unnd du als an dynem
+                                                  flyss unnd erntst nützit erwinden<note type="editorial"> fehlen, mangeln, Id. XVI,
+                                                  580f.</note> lasßen, wie wir dir sonnsten vil
+                                                  verthruwend und jnn gnaden zů erkhennen gneigt
+                                                  sind. Datum den 20ten maij anno etc. 79.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů
+                                                  Wädischwyl.<placeName ref="Wädenswil"/></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

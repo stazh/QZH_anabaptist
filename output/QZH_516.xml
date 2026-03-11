@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_516</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_516</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Meiss (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-09-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 367</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, vester, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, wiewol wir unns hievor
+                                                  erkhendt, wann <persName ref="Kleger, Hans">Hanns Kleger</persName> unnd <persName ref="Peter, Joseph">Joseph Peter</persName>, beid uß dem
+                                                  <placeName ref="Fischenthal">Vischental</placeName>, so mitt
+                                                  der ­toüf­ferischen sect behafftet sind, einen
+                                                  eydt schweeren ald<note type="editorial">
+                                                  oder</note> sontsten an eydes statt anloben
+                                                  wellind, angents uß unnseren grichten unnd
+                                                  gebieten zezüchen unnd nit mehr darjn zekhommen,
+                                                  sy habint dann von unns ein gleit etc., das<note type="critical">Folgt eine Wortstreichung</note>
+                                                  wir sy der gfangenschafft ledigen unnd hinzüchen
+                                                  laßen<note type="critical">«das wir … hinzüchen
+                                                  laßen» am Rand mit Verweiszeichen</note>, so
+                                                  habent sy doch uff fürhalten<note type="editorial"> mündlich vortragen, vor Augen stellen, Id., II
+                                                  1234.</note> deweders<note type="editorial">
+                                                  keines von beiden, Id. XV, 489.</note> thůn
+                                                  wellen, biß erst diser tagen, da sy sich begeben
+                                                  anzeloben. Unnd diewyl dann sy beid jnn dyner
+                                                  amptsverwaltung etwas hab unnd gůts liggen haben,
+                                                  so du von oberkeits wegen jnn verbott<note type="editorial"> in verbot legen: sequestrieren,
+                                                  in Beschlag nehmen, Grimm 25, 152.</note> gelegt,
+                                                  ist unnser bevelch, du wellist über söllich jr
+                                                  gůte die hand schlahen<note type="editorial">
+                                                  beschlagnahmen, Grimm 15, 376.</note>,
+                                                  dasselbig<note type="critical">«die hand schlahen,
+                                                  dasselbig» am Rand mit Verweiszeichen</note>
+                                                  beschryben laßen, demnach, was unnd wievil
+                                                  desselben syge, unns berichten, underzwüschen
+                                                  nochmalen alles<note type="critical">Folgt
+                                                  gestrichen: jnn hafft l</note> biß uff wytern
+                                                  unnseren bscheid jnn hafft<note type="critical">«jnn hafft» am Rand mit Verweiszeichen</note>
+                                                  liggen laßen<note type="critical">«laßen» über der
+                                                  Zeile</note>, damitt wir deß mitt jnen ufgangnen
+                                                  kostens zalung halber unnd ouch deß übrigen gůts
+                                                  wyter gebürende ordnung unnd bevelch zegeben
+                                                  wüßint. Datum, sambßtags den 14. dies septembris
+                                                  anno etc.<?gl?>88.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">An vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Hannß
+                                                  Meyßen</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

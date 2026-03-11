@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_410</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_410</idno>
+          </msIdentifier>
+          <head>Fridolin Hässi an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-11-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 261</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, gestrenngen, fromenn, erenvesten,
+                                                  fürsichtigenn, ersamen unnd wysen, jnnsonders
+                                                  gnädigen unnd günstigen herren, uwer g[naden] unnd
+                                                  g[unst] sigen min ganntz underthenig willig
+                                                  dienntst mit erpiettung aller eren, liebs und guts
+                                                  bevor. Gnadigen und günstigen herren, jch hab uwer
+                                                  (miner gnädigen herren) schrybenn  <note type="editorial"> Bote, Überbringer und Vorzeiger
+                                                  eines Briefs, Id. XVII, 393.</note>, disem uwerm
+                                                  gesanndten loüfferbootten, empfanngen unnd
+                                                  desselbigen jnnhallts, wie das jch mich glych wie
+                                                  ouch die uweren (mine gutten unnd lieben
+                                                  nachpuren, schultheis unnd rath zu
+                                                  <placeName ref="Bremgarteb">Brembgartenn</placeName><bm id="144"/>) von wegen ettlicher personnen uß uwer
+                                                  (miner gnädigen herren) <placeName ref="Kelleramt">Kellerampt</placeName>, so jnn das lannd
+                                                  <placeName ref="Mähren">Merhern</placeName> der töüfferischen
+                                                  sect halber die zytthar getzogenn, wellicher
+                                                  zyttlich hinderlassen hab unnd gutt zu miner
+                                                  gnädigenn herren der acht allten ordten handen
+                                                  betziechen<note type="editorial"> einziehen, an
+                                                  sich nehmen, Id. XVII, 1070f.</note> wellen, unnd
+                                                  das jch nach<note type="editorial"> weder (-
+                                                  noch), Id. IV, 642.</note> ouch die von
+                                                  Brembgarttenn mith desselbigenn nit angemast
+                                                  nach<note type="editorial"> noch</note> beladenn,
+                                                  sonnders uwer (miner gnädigen herrenn) vogt zu
+                                                  <placeName ref="Knonau">Konouw</placeName> alls der ennden
+                                                  jrer zudiennender hocher herrlich- und oberkeit
+                                                  damit verfaren lassen haben sollten, der lennge
+                                                  nach verstanden unnd vernomen. Füegen u[wer]
+                                                  g[naden] und [wysheit] daruff gantz undertheniger
+                                                  unnd dienntstlicher meinung zu wideranntwurt
+                                                  zuvernemen, das jch durch mine amptlüt bericht
+                                                  unnd jnn erfarung komen, das kurtzverruckhter<note type="editorial"> kürzlich vergangener</note> zyt
+                                                  <persName ref="Brunner, Hans">Hanns Brunners</persName> son
+                                                  von Niderbergkhen<note type="editorial">
+                                                  Berikon</note><placeName ref="Berikon">zeigern</placeName> (wie woll
+                                                  sin vatter von Niderbergkhen hinweg uff den hoff
+                                                  Yslisperg<note type="editorial">
+                                                  Islisberg</note><placeName ref="Islisberg">by</placeName>
+                                                  getzogen unnd daselbst hußhablich gwonnt, aber
+                                                  doch nach sinem absterben jst söllicher hoff durch
+                                                  sine vogt unnd kinder widerumb verkoufft, unnd
+                                                  sind die kindderen fünffe, wiederumb gen
+                                                  Niderbergkhen getzogen, allda sy nach hußhablichen
+                                                  sitzen, eigen huß unnd güetter haben) jnn das
+                                                  lannd Merhern getzogen. Welliches dorff minen
+                                                  gnädigen herren den acht allten ortten, alls der
+                                                  ennden one alles mitell hocher herrlich- unnd
+                                                  oberkeit zustenndig unnd zugehörig, hab jch mines
+                                                  thragennden unnd ufferlegtenn bevelchs halben nit
+                                                  fürkomenn<note type="editorial"> verhüten,
+                                                  abwenden, vorbeugen, Id. III, 278f.</note> konnen,
+                                                  dann jnn uwer (miner gnädigen herren) unnd ouch
+                                                  der überigen ordten, so dann die gravschafft
+                                                  <placeName ref="Baden (Grafschaft)">Baden</placeName>
+                                                  beherschenn, die hannd über ir hab und gut
+                                                  zeschlachen, da dann ouch sin dess
+                                                  abthrättnen<note type="editorial"> fortgezogenen,
+                                                  Id. XIV, 1465.</note> gschwüstergit<note type="editorial"> Geschwister, Id. IX,
+                                                  2235.</note> unnd verwandten sich gegen mir ganntz
+                                                  willig annerpotten zuverglychen<note type="editorial"> sich einigen, Id. II,
+                                                  601.</note> unnd zuverthragenn, wie jch mich dann
+                                                  gegen jnnen frünndtlichen anerpoten, mich finden
+                                                  zelassen.</p>
+                                                  <p>Zum anderen, so ist kurtzverruckhter tagenn
+                                                  <persName ref="Gering, Jakob">Jacob Gering</persName> unnd
+                                                  sin husfrouw sampt andernn ouch von
+                                                  <placeName ref="Berikon">Niderbergkhen</placeName>, jnn miner
+                                                  gnädigen herren unnd obren hocher herrlich- unnd
+                                                  oberkeit gelegenn, hinweg getzogen. Wie jch nun
+                                                  desselbigenn ouch durch den herren stattschryber
+                                                  zu Brembgarttenn jnnamen siner herren jnn erfarung
+                                                  komenn, hab jch angendts<note type="editorial">
+                                                  sofort, Id. II, 19.</note> minen undervogt mit
+                                                  bevelch zu herrenn schultheis unnd rath gen
+                                                  Bermbgarten abgeverttiget, der sachenn ordenlich
+                                                  nachfrag zehabenn, die dann uff min zuschryben
+                                                  jme, jrenn stattschryber, zugeordnet, die dann
+                                                  jrer hinnderlassen hab unnd gut alles (wiewoll
+                                                  ettlichs jnn uwer miner gnädigen herren
+                                                  herrschafft Knonouw, glych wie ouch obgenants
+                                                  knabenn, gelegen) jnvenntieren unnd volgendts jnn
+                                                  arrest unnd verpott<note type="editorial">
+                                                  Sequester, Beschlag, Grimm 25, 152.</note> legenn
+                                                  lassen, und diewyl dann sölliche personnen jnn
+                                                  miner gnädigenn herren der acht allten ordten
+                                                  loblicher eidtgnosschafft hocher herrlich- und
+                                                  ober­kheit unnd nit hinder uwer (miner gnädigen
+                                                  herren) hocher herrlich- unnd ober­kheit der
+                                                  vogthey <placeName ref="Knonau">Knonow</placeName> seßhafft
+                                                  jnwonner unnd wonnhafft gwesen, daselbs
+                                                  hußgehallten, so vermeinen jch, jn namen uwer unnd
+                                                  miner gnädigen herren mich derohalbenn keiner
+                                                  unrechtmässigen sach angemast, sonnder jch, diewyl
+                                                  Niderbergkhenn keinswegs jnn Kellerampt, dessen
+                                                  befüegt unnd vermög ußganngens abscheidts zethun
+                                                  schuldig gwesenn sin. Ob aber jr (min gnädig
+                                                  herren) vermeinen möchten, dass das hab unnd gut,
+                                                  so hinder der hochen herrlich- unnd oberkeit
+                                                  Knonouw gelegen, daa dann ettlich schulden unnd
+                                                  zinßverschrybungen derselbigen zůdiennen unnd
+                                                  gehörenn sollte, jst sölliches, wie jch vonn minen
+                                                  amptlüten bericht, jnn söllichen
+                                                  malefitzischen<note type="editorial">
+                                                  verbrecherisch in dem Mass, dass es unter die
+                                                  Hochgerichtsbarkeit fällt, Id. IV, 167.</note>
+                                                  sachen nach bißhar nit geprucht, sonnder das jr
+                                                  (min g[nädige] herren) jedertzyt, was minen
+                                                  gändigen herren (den acht allten ordten)
+                                                  zugehörig, sy damit gnädig unnd günstigklich
+                                                  verfaren lassenn. Sölliches hab jch üch (minen
+                                                  gnädigen herren) uff jr begerren gantz
+                                                  dienntstlich unnd underthenig nit sollen
+                                                  vorhallten, dann jch keinswegs nit gsynnet nach
+                                                  bedacht, denselbigen jnn jr herrlich- unnd
+                                                  oberkeit einichen jnngriff zethun unnd bin dero
+                                                  jederzyt underthenigen unnd dienntstlichen willen
+                                                  zuertzeigen gneigt. Den allmechtigen gott
+                                                  pittennde, er sich jnn langwiriger gsundheit und
+                                                  glücklicher regierung erhalltenn welle. Datum den
+                                                  2ten novembris anno etc.1581.</p>
+                                                  <p rend="margin-top">U[wer] gnaden unnd g[unst]
+                                                  dienntstwilliger</p>
+                                                  <p>Fridli Hässi, ritter des raths zu Glarus und
+                                                  derzyt landtvogt zu <placeName ref="Baden">Baden</placeName>
+                                                  jnn Ergöüw</p>
+                                                  <p rend="margin-top">Den edlen, gestrengen,
+                                                  fromen, eren, vesten, fürsichtigen, ersamen unnd
+                                                  wysen herren, hern burgermeister unnd rath der
+                                                  statt Zürich, minen jnnsonders gnädigen und
+                                                  günstigen herren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

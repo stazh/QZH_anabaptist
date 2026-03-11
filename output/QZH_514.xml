@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_514</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_514</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Kleger und Joseph Peter</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-09-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 365</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[Verhör:] Als myn herren, die verordneten,
+                                                  widerumb zů Hannsen Kleger unnd Josephen
+                                                  <note type="critical">Folgt gestrichen:
+                                                  jn</note>, den ­toüf­fern, jnn gfangenschafft kert
+                                                  unnd<note type="critical">Folgt gestrichen:
+                                                  sy</note>, ob sy nachmaln ein eyd schweren oder an
+                                                  eydts statt loben, uß myner gnedigen herren gricht
+                                                  unnd gebieth zezüchen unnd ohne ein gleit niemer
+                                                  mehr darjn zekommen<note type="critical">Folgt
+                                                  gestrichen: wellint</note>, deßglychen, wellicher
+                                                  gstalt Hanns Kleger <persName ref="Ryser, Poley">Poleygen Ryßer</persName>, <persName ref="Ulrich, Hans">Hanns Ulrichen</persName> unnd <persName ref="Egli, Hans">Hannsen Eglis</persName> seligen wittwe, alle uß dem
+                                                  Vischenthal<note type="critical">«alle uß dem
+                                                  Vischenthal» am Rand mit
+                                                  Verweiszeichen</note><placeName ref="Fischenthal">Petter</placeName>, der ­toüf­feryg halb underricht unnd
+                                                  ufgewiglet habe, befragt, habent sy volgende
+                                                  antwort gegeben. Unnd namlich Hanns Kleger, der
+                                                  gemelten drygen personen halber zeigt er an, das
+                                                  er zů Poleyen Ryßer nie anderst gredt, dann wann
+                                                  ein man jnn jrem landt unden were, der so wol mit
+                                                  dem veech wie er, Ryßer, köndte, möchte jm bald
+                                                  ein hüpschen meyerhof<note type="editorial">
+                                                  Bauerngehöft, das jemand bewirtschaftet und
+                                                  verwaltet, ohne es zu besitzen.</note> geben<note type="critical">«geben» am Rand mit
+                                                  Verweiszeichen</note> werden. Was aber Hanns
+                                                  Bleichen betreffe, da wüsse er gar niemer von
+                                                  nützit. Aber Hannsen Eglis seligen wittwe, die sy
+                                                  mehr als zwey jar vor jme ein ­toüf­ferj gweßen.
+                                                  Deßhalb weder er noch syn gsell niemanden
+                                                  ufgewiglet.</p>
+                                                  <p>Was aber das eyd schweren betrifft, diewyl
+                                                  solliches von gott verbotten, könind unnd wellind
+                                                  sy beid, Kleger unnd Petter, keinswegs nitt thůn
+                                                  unnd sonderlichen, das sy von jrem vatterlandt
+                                                  schweren söltten, welliches von jnnen aber
+                                                  keinswegs verwürckt worden.</p>
+                                                  <p>Unnd wiewol myn herren, die glerten, mit allem
+                                                  erntst mit jnnen jnn allerley articklen jres
+                                                  gloubens gehandlet, habent sy doch nützit an jnen
+                                                  verfachen<note type="editorial"> ausrichten, Id.
+                                                  I, 722.</note> mögen, sonder sind gentzlichen uff
+                                                  jren meinungen beharret unnd endtlichen uff dem
+                                                  berůwet, das sy nit von disputierens wegen alher
+                                                  kommen.</p>
+                                                  <p rend="margin-top">[Urteil:] Nota: Sy hand sich
+                                                  letstlich ergeben, wellent anloben, wo sy es aber
+                                                  übersehen, wirts mans jnen rechnen, als wann sy
+                                                  den eyd geschworen hetten. Hienebent soll dem vogt
+                                                  zů Gruͤningen geschriben werden, jr hab unnd gůt
+                                                  nachmalen jnn hafft liggen zelaßen, dasselbig
+                                                  zůbeschryben unnd dann myn herren deßen
+                                                  zůberichten. Actum sambstags den 14. septembris
+                                                  a[nn]o etc. 88 p[raese]nt[ibus] <persName ref="Kambli, Hans">herr
+                                                  Kamblj</persName> unnd beid
+                                                  reth.</p>
+                                                  <p>Nota: dem obersten knecht stadt syn kosten noch
+                                                  usß.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

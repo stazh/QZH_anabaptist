@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_712</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_712</idno>
+          </msIdentifier>
+          <head>Erstes Verhör von Rudolf Gubelmann und Jörg
+                                                  Leutenegger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 563</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als myn herren, die verordneten (ußgenommen
+                                                  j[unker]  <note type="editorial"> Hans Heinrich von Schönau (gest.
+                                                  1614)</note><persName ref="Schönau, Hans Heinrich von">von Schönow</persName> nit), sambt
+                                                  herrn Eglj<note type="editorial"> Raphael
+                                                  Egli</note><persName ref="Egli, Raphael">Hans Heinrich</persName> und
+                                                  herrn Boümlern<note type="editorial"> Markus
+                                                  Bäumler</note><persName ref="Bäumler, Markus"/> zů
+                                                  Růdolffen Gubelman von Hadtlicken<note type="editorial"> Hadlikon</note> und Geörgen
+                                                  Lütenegger ab Orn jnn der herrschafft
+                                                  Gruͤ<placeName ref="Grüningen">ningen</placeName>, so
+                                                  vergangner tagen jrer ­toüf­ferischen sect halber
+                                                  gfengklichen alher gefuͤrt worden, jnn
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  kheert und sy erstlichen befraget, uß was grund
+                                                  und ursachen sy nit ouch wie ander christen lüth
+                                                  jnn die kilchen, das heilig götlich wort zehören,
+                                                  jtem die heiligen sacrament zůzedienen und das
+                                                  allgemein gebätt zethůnd, gangind<note type="critical">Folgt gestrichen: vol</note> und
+                                                  sich anderen christentlichen mandaten und
+                                                  satzungen glych wie andere underthonen gmeß
+                                                  haltind und<note type="critical">Folgt gestrichen:
+                                                  sich</note> derselben gehorsammlich underwerffind.
+                                                  Volgents mit jnen diser zweyer articlen halber, ob
+                                                  ein christ ein oberer syn möge und ob ein christ
+                                                  die lehr, so recht, wahr, luter und rein<note type="critical">Folgt gestrichen: die</note> durch
+                                                  einen predicanten nach dem wort gottes geprediget
+                                                  hören<note type="critical">Folgt gestrichen:
+                                                  möge</note> oder sich darvon absönderen möge,
+                                                  gehandlet und jres bscheidts begert.</p>
+                                                  <p>Habend sy beid erstlichen, warumb sy nit
+                                                  zkilchen gangind, zů bscheid geben: Sidtmaln<note type="editorial"> da, weil, Id. IV, 147.</note> sy
+                                                  gsehen, das die welt jnn alle weg so böß und
+                                                  verrůcht, jtem das die lehrer und prediger nit
+                                                  nach jrer lehr läbind, habind sy ein ander völcklj
+                                                  gesůcht, das sölliche ding under jnen nit also
+                                                  fürgahn laßind, sonder jnn aller gottseligkeit und
+                                                  frombkeit läbind, mit denselben sy ouch baß<note type="editorial"> besser, eher</note> nahin
+                                                  khommen<note type="editorial"> nahin kommen: zu
+                                                  erreichen versuchen, Grimm 13, 81.</note>
+                                                  khönnind<note type="critical">«mit denselben …
+                                                  khönnind» am Rand mit Verweiszeichen</note>. Und
+                                                  woveer<note type="editorial"> wenn, Id. I,
+                                                  914.</note> sy nach<note type="editorial">
+                                                  noch</note> ein anders völcklj, das näher zum
+                                                  zwäck<note type="editorial"> Ziel, Grimm 32,
+                                                  955f.</note> trete, fundind, sy diß verlaßen und
+                                                  zů denselben gan<note type="critical">In der
+                                                  Vorlage: gân</note> weltind.</p>
+                                                  <p>Über die andern beid obgemelten artickel habend
+                                                  sy über alles widerwyßen<note type="editorial">
+                                                  widerlegen, Id. XVI, 1969.</note> und berichten
+                                                  dheinen<note type="editorial"> keinen</note>
+                                                  andern bscheid geben khönnen, dann dz ein christen
+                                                  wol ein oberer syn khönne, ja wann derselb sich
+                                                  nach dem wort gotes halte, und möginds jnen wol
+                                                  gunnen, und also über dheinen articel nie recht
+                                                  weder ja nach<note type="critical">Folgt eine
+                                                  Wortstreichung</note> nein sagen wöllen.</p>
+                                                  <p>Als nun sy nach langer ersprachung gefraget
+                                                  worden, ob sy zkilchen gaan, das gmein gebätt
+                                                  zehören und<note type="critical">Folgt gestrichen:
+                                                  sich</note> wie andere den christenlichen kilchen
+                                                  brüchen und den mandaten jnn allen billichen
+                                                  sachen gehorsammen oder ob sy uff und jnn jrer
+                                                  kybigen<note type="editorial"> eigensinnig,
+                                                  boshaft, zänkisch, Id. III, 108.</note>,
+                                                  hartneckigen, verstockten art fürer<note type="editorial"> weiter, Id. I, 957f.</note> also
+                                                  zeblyben<note type="critical">Folgt gestrichen:
+                                                  wellend</note> gesinnet, hat <persName ref="Gubelmann, Rudolf">daruf
+                                                  Gubelman</persName>
+                                                  anzeigt, das er by syner meinung und grund einmaln
+                                                  blyben und nit zekilchen gan<note type="critical">In der Vorlage: gân</note> wölle, es koste glych
+                                                  galleen<note type="editorial"> Galeeren, Id. II,
+                                                  202; gemeint ist die Galeerenstrafe.</note>
+                                                  ald<note type="editorial"> oder</note> dz läben,
+                                                  es syge dann sach das gott jme ein ander gmuͤt
+                                                  gebe.</p>
+                                                  <p>Demnach <persName ref="Leutenegger, Jörg">hatt Lütenegger</persName> anzeigt, das er wyb und
+                                                  kind habe, die nit synes glaubens sygind, laße
+                                                  aber dieselben und ouch ander lüth
+                                                  unufgewißen<note type="editorial"> unaufgewiegelt,
+                                                  unverführt, Id. XVI, 1939.</note> und jeder by
+                                                  dem, so er gloube, blyben. Woveer<note type="editorial"> wenn, Id. I, 914.</note> nun syn
+                                                  frouw mit jme hinweg zuge, wölte er ouch hinweg.
+                                                  Da er aber die ee nit trännen khönne, begär
+                                                  deßhalben by syner frouwen und kinden und synem
+                                                  gefaßten grund zeblyben, gange glych daruf, wz es
+                                                  wölle. Bitet ouch hienebent, jr myn gnedig herren
+                                                  wöllind jme gnedig syn, dann wann er ohn
+                                                  dieselben, als die sich ohn syn arbeiten und hilf
+                                                  nit ußbringen<note type="editorial"> ernähren,
+                                                  erhalten, <hl to="http://fwb-online.de/go/ausbringen.s.3v_1668650049"><Hyperlink>http://fwb-online.de/go/ausbringen.s.3v_1668650049</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> möchten,
+                                                  syn muͤßte, es syn tod syn wurde.</p>
+                                                  <p>So <persName ref="Leutenegger, Jörg">hatt Lütenegger</persName> anzeigt, das syn gantz
+                                                  underthenig flehenlich begären an üch, myn gnedig
+                                                  herren, nochmaln syge, jnne als ouch einen alten
+                                                  und eines bruchs halber an synem lyb
+                                                  presthafften<note type="editorial"> gebrechlich,
+                                                  kränklich, Id. V, 853.</note>
+                                                  <note type="critical">«und eines bruchs halber an
+                                                  synem lyb presthafften» am Rand mit
+                                                  Verweiszeichen</note> man, der bald sterben thede,
+                                                  by synem glauben belyben zelaßen, dann er darby
+                                                  syn läbenlang mit gotes hilf zeverharren gsinnet.
+                                                  Woveer nun syn frouw und kinder, da die frouw, so
+                                                  <persName ref="Mantz, N.">ein Mantzin</persName>, noch ein
+                                                  große fründtschafft<note type="editorial">
+                                                  Verwandschaft, Sippe, Id. I, 1307.</note> und den
+                                                  besten theil jres gůts jnn denen landen habe, mit
+                                                  jme hinweg zuginnd, wölte er ouch gern hinweg. Er
+                                                  förchte aber, sy wurde es uß obgemelten ursachen
+                                                  nit thůn wellen. Wann es aber je by üch, mynen
+                                                  gnedigen herren, nit zeerheben<note type="editorial"> erlangen, erhalten, Id. II,
+                                                  905.</note> were, jnne by synem wyb und kinden
+                                                  wyter jm land blyben zelaßen, welte er etwan
+                                                  ußerthalb (wie er dann schon sich mit dem
+                                                  tischmacher von Gruͤ<placeName ref="Grüningen">ningen</placeName> veranlaßet, uff khünfftigen
+                                                  fruͤling jm <placeName ref="Engadin">Engadin</placeName>
+                                                  demselben<note type="critical">«demselben» am
+                                                  Rand</note> ein müllj machen zehelffen)
+                                                  werchen<note type="critical">korrigiert,
+                                                  ursprünglich: zewerchen</note> und den kinden das
+                                                  brot und anders, so er gwunne, heim schicken<note type="critical">korrigiert, ursprünglich:
+                                                  zeschicken</note> und dieselben ouch etwan heim
+                                                  sůchen<note type="critical">korrigiert,
+                                                  ursprünglich: zesůchen</note>. Dann ohn syn hilff
+                                                  sich weder wyb noch kind wyter erhalten nach
+                                                  ußbringen<note type="critical">Folgt gestrichen:
+                                                  möchten</note>, er ouch ohn dieselben nit syn
+                                                  möchte.</p>
+                                                  <p>Bitend also sy beid gantz trungenlich<note type="editorial"> eindringlich</note> und
+                                                  underthenig, jr (myn gnedig herren) wöllind sy
+                                                  beid recht also wyter by jrem glauben, wyb und
+                                                  kinden blyben laßen. Wellind sy niemandem dhein
+                                                  bschwerd syn und niemandem diseren jren glauben
+                                                  anzenemmen ursach geben, noch verfuͤren und sich
+                                                  dermaßen so still und ruͤwig verhalten<note type="critical">korrigiert, ursprünglich:
+                                                  zeverhalten</note>, das jr, myn gnedig herren, und
+                                                  mengklich khein billiche klag mehr ab jnen haben
+                                                  werdind.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

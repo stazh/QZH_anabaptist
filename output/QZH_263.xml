@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_263</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_263</idno>
+          </msIdentifier>
+          <head>Jakob Bindschedler an Matthias
+                                                  Schwerzenbach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1564-07-16"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 114</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min früntlicher grůtz mit erbietung willigen
+                                                  diensts allzit bevor. Innsunnders fromm,
+                                                  fürsichtig, eersamer, wisser, günstiger, lieber
+                                                  herr. Mines fürtragens an üch, <persName ref="Nespler, Michel">Michel
+                                                  Nespler</persName> von
+                                                  <placeName ref="Höri">Höri</placeName> antreffende, kurtz
+                                                  verschiner<note type="editorial">
+                                                  vergangene</note> tagen gethan, bin ich wol
+                                                  bedacht, auch uff üwer begär der handlung
+                                                  zwüschend jme und mir vor den egomeren<note type="editorial"> Vertreter der Sittenzucht, Id.
+                                                  II, 304.</note> verlouffen, üch gschrifftlicher
+                                                  wis zeberichten, gantz willig, wiewol mir vil
+                                                  lieber sömlichs erspart und vermitten. Von <persName ref="Frölich, Jakob">Jacob
+                                                  Frölich</persName>, einem
+                                                  eegomer zů <placeName ref="Hochfelden">Hochfelden</placeName>, bin ich berichtet worden, das sich diß
+                                                  gegenwirtig jar ungfarlich vor der erndt ein
+                                                  schaar toͤüfferen an den anstössen […]<note type="critical">Lesung unklar</note> holtz von den
+                                                  roßhirten sehen lassen, daßelbst sich
+                                                  niderglassen, einer anghept zů predgen, die knaben
+                                                  ouch niderzeknüleen und zebetten vermant. Under
+                                                  welichen auch Michel Nespler offentlich gsehen
+                                                  worden. Sömlichs, als ich vernommen, hab ich jm
+                                                  für<note type="editorial"> vor</note> die eegömer,
+                                                  weliche ich anderer sachen halb lassen zůsamen
+                                                  beruͤffen, verkundt und jme wie nachvolgt
+                                                  fürghalten<note type="editorial"> vorwerfen, Id.
+                                                  II, 1234.</note>:</p>
+                                                  <p rend="margin-top">Ob jm nit zewüssen, von
+                                                  m[inen] gnedigen] h[erren] angsehen<note type="editorial"> angeordnet, Id. VII,
+                                                  555f.</note>, das ein ieder das gotzwort zů hören
+                                                  in der pfarr, da er seßhafft, schuldig und
+                                                  ghorsamm sin sölle, sich der toͤüfferen und
+                                                  winckelpredgeren<note type="editorial"> im
+                                                  Verborgenen und ohne Amt tätige Prediger</note>
+                                                  entschlachen<note type="editorial"> verzichten,
+                                                  vgl. <hl to="http://fwb-online.de/go/entschlagen.s.3vu_1709502330"><Hyperlink>http://fwb-online.de/go/entschlagen.s.3vu_1709502330</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>. Dan wo
+                                                  das übersaͤchen, wellind sy denselbigen nit
+                                                  ungestrafft lassen, auch jm wun<note type="editorial"> Futter-, Weideland, bzw. das
+                                                  entsprechende Nutzungsrecht, Id. XVI, 333.</note>
+                                                  und weid in siner gmeindt verhafften<note type="editorial"> entziehen, Id. II,
+                                                  1062.</note>.</p>
+                                                  <p rend="margin-top">Michel antwortet:</p>
+                                                  <p>Es hatt mich meer, den wun und weidt antrifft,
+                                                  kostet. Es habennd mine herren mir min veterlich
+                                                  erb gnomen.</p>
+                                                  <p rend="margin-top">Pfarrer:</p>
+                                                  <p>So dan dir an wun unnd weidt nüt glegen, so
+                                                  hand m[ine] g[nedige] h[erren] nach den
+                                                  Wellenberg<note type="editorial"> Gefängnisturm in
+                                                  der Limmat.</note> verhannden, dich ghorsam ze
+                                                  machen. Du wirst nit herr im landt sin, das man
+                                                  dir werde ein eignen oder bsunderbaren kilchgang
+                                                  gstatten. Was leerend doch toͤüffer?</p>
+                                                  <p rend="margin-top">Michel:</p>
+                                                  <p>Ich begär nit herr zewerden, aber zů den
+                                                  toͤüfferen will ich gan. Dan sy leerend mich, wie
+                                                  ich möge selig werden. Unnd wo man das leert, will
+                                                  ich hingan.</p>
+                                                  <p rend="margin-top">Pfarrer:</p>
+                                                  <p>Hast den etwas mangels an minem predgen? Leer
+                                                  ich nit auch, wie man möge selig werden? Ist der
+                                                  toͤüffer gloub grechter dan unnser?</p>
+                                                  <p rend="margin-top">Michel:</p>
+                                                  <p>Ich schilten den glouben unnd die leer nit,
+                                                  aber die toͦüffer gand mit den wercken nachen zum
+                                                  glouben, dan wir lidend auch etwas umb des
+                                                  selbigen willen.</p>
+                                                  <p rend="margin-top">Pfarrer:</p>
+                                                  <p>Was sind doch ire werck oder frombkeit? Wenn sy
+                                                  so grecht werind, dörfftend sy nit in die winckel
+                                                  zeschlüffen. Habennd nit auch die apostel unnd vil
+                                                  gloͤübigen glitten?</p>
+                                                  <p rend="margin-top">Michel<persName ref="Nespler, Michel"/>:</p>
+                                                  <p>Die toͤüffer hannd ein richere kilchen, weder
+                                                  die zBülach ist. So eim ein kind wirt geboren, mag
+                                                  die kilch den sigerist nit anderst erhalten, den
+                                                  das jm einer ein brott můs gen, so er das kindt
+                                                  laßt touffen, weliches by den toͤüfferen nit im
+                                                  bruch. Darumb sy den glouben meer dan wir jn das
+                                                  werckt bringend, wie sant Jacob jn siner
+                                                  epistel<note type="editorial"> Jk 2,26</note>
+                                                  heiter darvon redt.</p>
+                                                  <p rend="margin-top">Pfarrer:</p>
+                                                  <p>Jr, die toͤüffer, handt der gschrifft gradt als
+                                                  vil verstandts als ein ků uff muschcat nus,
+                                                  mißbruchennd die selbig unnd sind ein fuler
+                                                  fasel<note type="editorial"> Gesindel, Id. I,
+                                                  1055f.</note>.</p>
+                                                  <p rend="margin-top">Michel:</p>
+                                                  <p>Redst dan du mir an min eer.</p>
+                                                  <p rend="margin-top"><persName ref="Meyer, Heini">Heini Meyer</persName>, ein eegomer:</p>
+                                                  <p>Michel, du gebest dem pfarrer wol anderst
+                                                  antwort und werist bescheidenlicher.</p>
+                                                  <p rend="margin-top">Pfarrer:</p>
+                                                  <p>Michel, an dinen eeren schilten ich dich nit,
+                                                  reden sömlichs von diner seckt und gantzen anhang.
+                                                  Witers will ich mit dir nüt handlen, sonders dich
+                                                  m[inen] g[nedigen] h[erren] anzeigen.</p>
+                                                  <p rend="margin-top">Michel<persName ref="Nespler, Michel"/>:</p>
+                                                  <p>Ich binn als gůt als du.</p>
+                                                  <p rend="margin-top">Pfarrer:</p>
+                                                  <p>M[ine] g[nedige] h[erren] werdennd somlichs, ob
+                                                  Got will, im kurtzen ußsprechen.</p>
+                                                  <p rend="margin-top">Unnd hiemit ist man
+                                                  uffgstannden unnd iederman heimgangen. Actum uff
+                                                  den 16. tag houwmonats jnn 64. jar.</p>
+                                                  <p rend="margin-top">Üwer dienstwilliger <persName ref="Bindschedler, Jakob">Jacob
+                                                  Bindtschedler</persName></p>
+                                                  <p rend="margin-top">Dem frommen, fürnenemen,
+                                                  eersamen unnd wissen herren <persName ref="Schwerzenbach, Matthias">Matis
+                                                  Schwerzenbach</persName>, sinem günstigen,
+                                                  gnedigen herren zehanden.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

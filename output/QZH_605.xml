@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_605</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_605</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mitwuchs, den 24ten
+                                                  maij p[raese]nt[ibu]s herr Tomman unnd beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1592-05-24"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 456</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Die 3 rind,  <persName ref="Frey, Georg">dem Frygen</persName> ab Baregg<note type="editorial"> Baaregg</note><placeName ref="Knonau, Baaregg">so</placeName> jnn der herrschafft
+                                                  Knonouw (der 3 söhn hatt, die ­toüf­fer sind)
+                                                  genommen unnd alher gfuͤrt worden, söllent
+                                                  verkoufft unnd der alt vogt von Knonouw daruß umb
+                                                  synen costen und verfalne bůßen bezalt werden.</p>
+                                                  <p>Hienebent dem vogt zů <placeName ref="Knonau">Knonouw</placeName> geschriben werden, gegen annderen
+                                                  ­toüf­fern jnn syner verwaltung nach ußwyßung<note type="editorial"> Wortlaut, Inhalt, Aussage, Id.
+                                                  XVI, 953.</note> deß mandaths mitt abnemmen der
+                                                  bůßen zehandlen unnd dem alten vogt beholfen
+                                                  zesind, das er umb den übrigen costen von den
+                                                  annderen ­toüf­feren auch bezalt werden möge. Dem
+                                                  Frygen mag er anzeigen, syne söhn, die ­toüf­fer
+                                                  sind, nit by jme zůbehalten, sonnders hinweg
+                                                  zewyßen, so muͤßte er nüt für sy zalen. Die
+                                                  predicanten sölle er wyßen, jrem bevelch gegen
+                                                  ­toüf­feren, so jnen jnn allen synodis vorgeläßen
+                                                  wirt, flyßig nachzegaan.</p>
+                                                  <p>Sonst khondten myn herren uß allerley ursachen
+                                                  nit thůnlich finden<note type="critical">Folgt
+                                                  gestrichen: d</note>, mitt den ­toüf­feren uß dem
+                                                  ampt alhie disputieren zelaßen oder jnen darzů ein
+                                                  gleit alher und widerumb an jr gwarsame zegeben,
+                                                  sonnders so jnen etwas angelegen, mögint sy alher
+                                                  kommen, wirt man sy deß jrrthumbs wol
+                                                  überwyßen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mitwuchs, den 24ten
+                                                  maij p[raese]nt[ibu]s herr Tomman unnd beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

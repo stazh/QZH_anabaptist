@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_506</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_506</idno>
+          </msIdentifier>
+          <head>Erstes Verhör und Urteil gegen Balthasar
+                                                  Maler Zu Balthasar Malers Haft und zu
+                                                  späteren Fahndungen nach ihm vgl. Nr. 704
+                                                  (Familienchronik von Josua Maler).</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-08-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 357</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als myn herren, die verordneten nachgenger,
+                                                  sampt herrn landvogt Schmiden<note type="editorial"> <persName ref="Schmid, Matthias">Matthias Schmid</persName></note> zů Balthasar
+                                                  Malern jnn gfangenschafft keert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note> unnd jnne, worumb er sich also jnn die
+                                                  verfhuͤrisch sect der ­toüf­feryg jnglassen,
+                                                  hiemitt die predigen deß heiligen wort gotts
+                                                  entzogen und die<note type="critical">Folgt
+                                                  gestrichen: predigen</note> versamlungen<note type="critical">Folgt gestrichen: der</note>, jnn
+                                                  unnseren kilchen beschechen, verachtet, deßglychen
+                                                  den eyd, so er die jar har zů allen halben jaren
+                                                  jnn den zünfften unnd jnn der kilchen gschworen,
+                                                  nit baß<note type="editorial"> besser</note>
+                                                  gehalten, denselben fürterhin nit mehr zeschweren
+                                                  understanden, deßglychen, was er von dem heiligen
+                                                  touff halte, befragt unnd hierüber synes bscheids
+                                                  begert, hatt er volgende antwort gegeben, als
+                                                  namlich:</p>
+                                                  <p>Nachdem gott der allmechtig die welt jetzt
+                                                  etliche jar har mitt einer leidigen schweren
+                                                  thüren zytt unnd ouch mitt kriegen hertigklichen
+                                                  gestrafft unnd vätterlichen heimbgesůcht, habe er
+                                                  nit anderst gedencken könen, dann das sölliche
+                                                  straffen allein von unnseren vilfaltigen sünden
+                                                  unnd unbůßfertigem leben harkhomind, deßhalb er
+                                                  jnn sich selbs gangen, syne sünd bekhent, gott den
+                                                  allmechtigen gebetten, jme dieselben gnedigklichen
+                                                  zůverzychen unnd jnne uff den rechten weg der
+                                                  seligkeit, unnd das er ein nüw bůsfertig leben
+                                                  annemmen köne, zewyßen. Unnd als er sich nun
+                                                  etwellicher gstalt zů der besserung bekert, doch
+                                                  nüdtdesterweniger die predigen jnn den kilchen
+                                                  alhie gehört, syge<note type="critical">Folgt
+                                                  gestrichen: v</note> er, als der sich syner vorhin
+                                                  geübten sünden abgethan, von jedermengklichem
+                                                  einen ­toüf­fer genennt worden. Da er also jnn
+                                                  betrachtung desselben nachfrag gehalten, was doch
+                                                  die ­toüf­fer für ein lehr unnd leben fuͤrind,
+                                                  dessen er dann vorhin kein wüssens nie gehept han
+                                                  angezeigt. Unnd als er sölliches jnn erfharung
+                                                  gebracht<note type="critical">Folgt gestrichen:
+                                                  Item durch</note>, syge er zů jnen selbs gewandlet
+                                                  unnd jnn jrem thůn unnd lassen, leben unnd wandel
+                                                  anders nützit dann ein fromm gottsförchtig leben
+                                                  by unnd under jnen funden. Wann dann er jnn die
+                                                  predigen alhie kommen, habe er von den predicanten
+                                                  sölliche frome lüth uff das höchst schelten unnd
+                                                  gegen jederman verkleineren gehört. Da aber sy,
+                                                  die predicanten, selbs mitt allen sünden<note type="critical">Folgt gestrichen: b</note> unnd
+                                                  ergernussen beladen nebent dem, das sy ouch keinen
+                                                  bann umb einicherley sünd unnd laster willen noch
+                                                  dem wort Christj nit haltind noch uͤbind, wie aber
+                                                  jnn der christenlichen kirchen gebrucht werden
+                                                  söltte, zů dem syge man jnn den kilchen hin und
+                                                  wider<note type="critical">«hin und wider» am Rand
+                                                  mit Verweiszeichen</note> selbs nit eins, sonder
+                                                  werde<note type="critical">«werde» über der
+                                                  Zeile</note> alle zwytracht unnd uneinigkeit
+                                                  gebrucht. Jedoch diewyl jr, myn gnedig herren, ab
+                                                  dem üsseren deß kilchgangs ein söllich groß
+                                                  mißfallen habind, welle er sich, als das er synem
+                                                  vatter<note type="editorial"> Josua Maler</note>
+                                                  ouch versprochen, desselbigen flyssig unnd
+                                                  erntstlich besůchen, den allmechtigen
+                                                  bittende<note type="critical">Folgt gestrichen:
+                                                  j</note>, das er jnn uff den rechten weg wyßen
+                                                  welle.</p>
+                                                  <p>Und diewyl er<note type="critical">Folgt
+                                                  gestrichen: sich</note> durch syne
+                                                  mitthafften<note type="editorial"> Parteigänger,
+                                                  Id. II, 1057.</note> nie anderst getoufft worden,
+                                                  noch ouch sölliches zethůn nie jm sinn gehept noch
+                                                  thůn welle, lasse er es gentzlichen belyben. Mit
+                                                  underthenigem bitten, jr, myn gnedig herren,
+                                                  wellint an disser syner verantwortung ein
+                                                  vernuͤgen haben unnd nun mehr der gfangenschafft
+                                                  erlassen, welle er sich gegen üch, mynen gnedigen
+                                                  herren, alles gehorsame beflyßen, jnn dem er ouch
+                                                  jnn allen zůtragenden notfhälen sich mitt synem
+                                                  lyb, gůt unnd blůt zebruchen anerbütet.</p>
+                                                  <p rend="margin-top">[Erstes Urteil:]<note type="editorial"> Das erste und zweite Urteil
+                                                  stehen nacheinander auf der Rückseite. In der
+                                                  Edition sind sie chronoligisch
+                                                  wiedergegeben.</note> Diewyl er sich der besserung
+                                                  unnd zum kilchgang, deßglychen jnn zünfften unnd
+                                                  sonderlichen, mynen herren zehulden unnd
+                                                  zeschweren, sich anerbüttet, so soll er uff ein
+                                                  gwonlich urfechd der gfangenschafft erlassen
+                                                  werden. Unnd so er dasselbig übersicht, soll zů
+                                                  jme nit als einem ­toüf­fer, sonder als einem
+                                                  meineiden man gericht werden. Actum sambßtags den
+                                                  10ten augustj anno etc. 88 pr[aesen]t[ibus] <persName ref="Kambli, Hans">herr
+                                                  Kamblj</persName> unnd beid
+                                                  reth.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Zu Balthasar Malers Haft und zu
+                                                  späteren Fahndungen nach ihm vgl. Nr. 704
+                                                  (Familienchronik von Josua Maler).</p>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_528</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_528</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Ulrich Zümer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-11-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 379</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als die beid herrn nachgennger zů Ůlrichen
+                                                  Zümer von Näfftenbach jnn gfanngenschafft kheert
+                                                  unnd jmme fürgehallten<note type="editorial">
+                                                  mündlich vortragen, vorwerfen, Id. II,
+                                                  1235.</note>, uß was ursch er zum annderen mal jnn
+                                                  das lannd <placeName ref="Mähren">Meerheren</placeName>
+                                                  zogen, ouch was sonnst syn beganngenschafft<note type="editorial"> Vergehen, Id. II, 355.</note>
+                                                  syge, hatt er darüber volgennden bscheidt
+                                                  geben.</p>
+                                                  <p>Inn verganngner großen <note type="editorial"> Teuerung</note>, als er unnd
+                                                  synne wyb unnd kind vermeindt, sy muͤsßtind
+                                                  hunnger sterben, sygind sy mitt einanndern
+                                                  rädtig<note type="editorial"> schlüssig</note>
+                                                  worden, ettwan hinzezüchen unnd arbeitt zesůchen
+                                                  unnd also mitteinanndern hinab jnn
+                                                  <placeName ref="Österreich">Österrych</placeName> zogen, doch
+                                                  gar nitt von der ­toüf­fery wegen, volgentz glych
+                                                  darüff widerumb ufhin gereyßet. Unnd als er
+                                                  widerumb jnn syn heimatt hinuff konn<note type="editorial"> gekommen</note>, syge syn frouw
+                                                  gstorben. Als er nun domaln aber nützit weder
+                                                  gwüsßt noch ghan, syge er widerumb (als syne
+                                                  fründt die kinder zů jnnen gnommen) durch die
+                                                  lannd hin und har der arbeitt unnd zum theil dem
+                                                  bättel nachzogenn, nach langem abermaln hinuff jnn
+                                                  syn heimatt kommenn, da jmme syn son synnen
+                                                  wyngarten, den er ereerpt, zebuwen verdinget und
+                                                  der son diwyl gediennet, es habe ouch gmeine
+                                                  pursamme<note type="editorial"> Gesamtheit der
+                                                  grundbesitzenden Bauern in einem Dorf, Id. IV,
+                                                  1526.</note> zů Hennckhart<note type="editorial">
+                                                  Henggart</note><placeName ref="Henggart">thürj</placeName>
+                                                  jnn<note type="critical">Folgt gestrichen:
+                                                  zů</note> (mitt gunst) zů einem kuͤhirtten
+                                                  angenommen. Unnd als er nitt grad glych die ringe
+                                                  belonung, so sy jmm gschöpft, annenn<note type="editorial"> annehmen</note> wellenn, habind
+                                                  sy jnne uß großem nyd unnd hasß mitt verklagen,
+                                                  unnd diewyl sy gwüßt, dz er den costen nitt
+                                                  vermöge, zů verthryben unnderstannden. Daruß jmme
+                                                  dan dißer hanndel entsprungen, er wüße ouch
+                                                  dhein<note type="editorial"> kein</note> args
+                                                  ald<note type="editorial"> oder</note> bößes uff
+                                                  sich selbs.</p>
+                                                  <p>Sonnsten als er vor jaren jnn der großen thürj
+                                                  <persName ref="Rütimann, Hans">Hannßen Rütiman</persName>,
+                                                  dem pfister, für einhundert guldin brott schuldig
+                                                  gweßen, habe er jmme einen wyngarten umb 1000
+                                                  pfund<note type="critical">In der Vorlage:
+                                                  lb</note> zů kouffen geben, dorab Rütiman
+                                                  glychsfals widerumb sovil erlößt, das welte er
+                                                  mitt ettlichen Näfftenbachern selbs bezügen und
+                                                  erwyßen können.</p>
+                                                  <p>Unnd bitt darnebent üch, min g[nedig] herren,
+                                                  höchlich umb gnad unnd erledig der
+                                                  gfanngenschafft.</p>
+                                                  <p rend="margin-top">[Urteil]: Die gfengknuß soll
+                                                  der rebstöcken halb syn bůß syn, wie ouch deß
+                                                  hinwegzugs. Actum sambstags den 2ten novembris
+                                                  anno etc. 88 p[raese]nt[ibus <persName ref="Kambli, Hans">herr Kamblj</persName> und beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

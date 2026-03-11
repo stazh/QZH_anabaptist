@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_522</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_522</idno>
+          </msIdentifier>
+          <head>Notizen von Burkhard Leemann zum zweiten Verhör von
+                                                  Hans Hedinger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 373</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>F[rage]: Ob die jm alten testament durch das
+                                                  gesatz oder durch dz lyden Christj glych wie
+                                                  wir<note type="critical">Folgt gestrichen:
+                                                  das</note> die seligkeit erlanget?</p>
+                                                  <p rend="margin-top">A[ntwortet] H[edinger]:
+                                                  Wann<note type="critical">Folgt gestrichen:
+                                                  die</note> sy dz gsatz<note type="critical">Folgt
+                                                  gestrichen: oder</note> unnd die gebott gottes
+                                                  recht<note type="critical">«recht» über der
+                                                  Zeile</note> gehalten, hoffe er, sy sygend selig
+                                                  worden.</p>
+                                                  <p rend="margin-top">F[rage]: Ob ouch ein christ
+                                                  möge das gsatz recht halten?</p>
+                                                  <p rend="margin-top">A[ntwortet] H[edinger]:
+                                                  Gloubt, das<note type="critical">Folgt gestrichen:
+                                                  man</note> unnser herrgott einem gnad gebe, so er
+                                                  syn flyß und erntst anwende, halten möge.<note type="critical">Folgt gestrichen: Wann</note> Im
+                                                  alten testament man uff die verheissung deß herren
+                                                  Christj<note type="critical">Folgt gestrichen:
+                                                  unn</note> gewartet, deßhalb keiner vor dem lyden
+                                                  Christj möge selig worden.</p>
+                                                  <p rend="margin-top">F[rage]: Ob gott das gsatz
+                                                  dem mentschen zů einem spiegel<note type="critical">Folgt gestrichen: zů</note> syner
+                                                  sünden unnd wir als dann zů unns mitt dem lyden
+                                                  Christj derselbigen abwüschen mögind?</p>
+                                                  <p rend="margin-top">Bitt myn herren jnn ansehung
+                                                  synes alters unnd schweche deß lybs<note type="critical">«jnn ansehung … lybs» unterhalb
+                                                  des Absatzes mit Verweiszeichen</note> umb
+                                                  erlassung der gfangenschafft, welle er
+                                                  angentz<note type="editorial"> sofort, Id. II,
+                                                  19.</note> das landt rumen unnd niemer wider daryn
+                                                  zekomen<note type="critical">Folgt gestrichen:
+                                                  ver</note> geloben unnd versprechen.</p>
+                                                  <p rend="margin-top"><persName ref="Seng, Jakob">Jacobs Seng</persName> [und] <persName ref="Hochstrasser, Hans">Hans
+                                                  Hochstraßer</persName>,
+                                                  gestorben.</p>
+                                                  <p>Schnyder<persName ref="Schnyder, N,"/> von
+                                                  <placeName ref="Rorbas">Rorbiß</placeName>.</p>
+                                                  <p>Etlich uß dem <placeName ref="Bern">Bernpiet</placeName>.</p>
+                                                  <p>Arbogast<persName ref="Arbogast (vom Emmental)"/> [und] Petter<persName ref="Peter (vom Emmental)"/> uß dem
+                                                  <placeName ref="Emmental">Ementhal</placeName>.</p>
+                                                  <p>Michel<persName ref="Michel (Bubikon)"/>, alter
+                                                  senn zu <placeName ref="Bubikon">Bůbicken</placeName>.</p>
+                                                  <p><persName ref="Bruppach, Jos">Joß Bruppach</persName> am
+                                                  <placeName ref="Wädenswiler Berg">Wedeschwyler</placeName>
+                                                  [berg].</p>
+                                                  <p rend="margin-top">Uff befragung, ob er sich
+                                                  welle wyßen lassen. Antwort: das er sich bißhar
+                                                  nit vil anderst besunnen. Warumb? Darumb das der
+                                                  ban luth dem wort gotts Math. 18. cap. nit jnn der
+                                                  kilchen halte.</p>
+                                                  <p>Ob ein christ ein oberer unnd ein oberer ein
+                                                  christ syn möge? Ant[wort]: Wer sich wol halte,
+                                                  werde sich genüßen<note type="editorial">
+                                                  Nutzniessung haben, Vorteil haben, den Lohn
+                                                  bekommen, Id. I, 817.</note>.</p>
+                                                  <p>Du solt nit töden, wil drumb nit jnn kilchen.
+                                                  Alls er nun befragt,<note type="critical">Folgt
+                                                  gestrichen: ob</note> wer solche todschleger jnn
+                                                  der kilchen sygen, ob es ein oberkeit, als die von
+                                                  bevelch gots wegen einen verurtheilind, oder ob
+                                                  sonst<note type="critical">Folgt gestrichen:
+                                                  ein</note> todschleger under der gmeind ald<note type="editorial"> oder</note> kilch sygen? Kein
+                                                  antwort.</p>
+                                                  <p>Wer jn ufgstelt zum predigen, den gwalt, ehen
+                                                  jnzesegnen [und] kinder zetouffen, geben?
+                                                  Ant[wort]: Das er nit vermeint, das es sünd, wann
+                                                  2 oder 3 by einanderen wol ein spruch uß dem
+                                                  evangelio leßen und dan miteinanderen betten
+                                                  mögind.</p>
+                                                  <p>Ob er zur kilch gan welle als nit? Ant[wort]:
+                                                  Syge jm zeschwer, syge wol etwan jnn kilche
+                                                  gangen, aber wider druß wie dryn etc.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

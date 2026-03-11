@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_749</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_749</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Ulrich Wolf (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-11-20"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 600</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyser, besonders gethrüwer,
+                                                  lieber burger und vogt, wir habend jetzt ein zyt
+                                                   <persName ref="Störchli, Ulrich">Ůlrichen Störchlj</persName> von Wellhußen<note type="critical">Folgt gestrichen: uß dem
+                                                  Fro</note><placeName ref="Wellhausen">lang</placeName> by
+                                                  Frouwenveld uß dem <placeName ref="Thurgau">Thurgöüw</placeName>, so sich synem anzeigen nach etwan
+                                                  zu Sechen und zů Altiken jnn unserer graffschafft
+                                                  <placeName ref="Kyburg">Kyburg</placeName>, dyner verwaltung,
+                                                  dientstswyse enthalten und jetz letstlichen
+                                                  unns<note type="critical">Folgt gestrichen:
+                                                  uf</note> von unserm vogt zů Grüningen von wegen
+                                                  der schedlichen töüfferischen sect gfengklichen
+                                                  überschikt worden, jn unserer gefangenschafft
+                                                  gehalten. Und als er, Störchlj, sich begeben,
+                                                  von<note type="critical">Folgt gestrichen:
+                                                  diser</note> der töüfferig abzestan, die predigen
+                                                  zů besůchen und uff den früling uß dem land
+                                                  zezüchen, habend wir jne, nachdem er angelobt,
+                                                  söllichem versprechen<note type="critical">Folgt
+                                                  gestrichen: z</note> stath zethun, der
+                                                  gefangenschafft erlaßen. Und jst daruf unser
+                                                  bevelch<note type="critical">korrigiert,
+                                                  ursprünglich: bevelchen</note> an dich, du wellist
+                                                  mit gelegenheit uff jnne, Störchlj, achtung geben
+                                                  laßen. Wann<note type="critical">«wann» am Rand,
+                                                  in der Zeile gestrichen: on</note> er sich feerner
+                                                  jnn dyner verwaltung enthalten<note type="editorial"> sich aufhalten, wohnen, Id. II,
+                                                  1230.</note> und aber<note type="critical">«aber»
+                                                  am Rand mit Verweiszeichen</note> disem synem
+                                                  anloben nit stath thůn, sich den christenlichen
+                                                  predigen üßeren und der töüfferischen sect wyter
+                                                  anhangen wurde, das du als dann zů jmme gryffen
+                                                  und unns jnne widerumb gefengklichen<note type="critical">Folgt gestrichen:
+                                                  überschickist</note> zůfüren laßist, damit<note type="critical">Folgt gestrichen: dann</note> er
+                                                  dannethin synem verdienen nach gebüßt werden möge,
+                                                  wie wir dann<note type="critical">Folgt
+                                                  gestrichen: wüßent, du dich hierin wol
+                                                  zeverhalten</note> dich hierzu und dz es an dynem
+                                                  flyß nützit erwinden<note type="editorial">
+                                                  fehlen, Id. XVI, 580f.</note> werde<note type="critical">«und dz es … werde» am Rand mit
+                                                  Verweiszeichen</note>, geneigt syn wüßent und
+                                                  sigend dir mit gůtem willen jederzyth wol gewogen.
+                                                  Datum sambstags den 20ten novembris anno 1602.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wysen, unnserm
+                                                  besonders gethrüwen, lieben burger und vogt zů
+                                                  Kyburg Hans Ůlrich Wolffen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

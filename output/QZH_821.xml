@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_821</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_821</idno>
+          </msIdentifier>
+          <head>Urteil gegen Hans Landis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1608-12-22"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 672</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[Urteil:] Diewyl er, Landiß, syner gefasten
+                                                  jrrigen leer nit abstahn will, soll er wegen der
+                                                  keltj ußem <placeName ref="Zürich, Wellenberg">Welenberg</placeName> gnommen und jn spittal
+                                                  jn ein warme stuben an yßen gleit und alda, biß
+                                                  syn und anderer widertöüfferen ungehorsamme wegen
+                                                  ein radtschlag beschicht, verwart werden<note type="critical">«verwart werden» am unteren Rand
+                                                  mit Verweiszeichen</note>. Und söll er die synen
+                                                  den costen, so mit <nswk/> jmme jnn Wellenberg und
+                                                  als man jn gfangen uferlouffen wie ouch das, so
+                                                  jetzt mit jmme im<note type="critical">Lesung
+                                                  unsicher</note> spittal ergohn möchte,
+                                                  abferggen<note type="editorial"> bezahlen, Id. I,
+                                                  1008.</note>. Actum donstags den 22ten decembris
+                                                  anno 1608 p[raese]nt[ibus] herr <persName ref="Grossmann, Konrad">burgermeister
+                                                  Großmann</persName> und
+                                                  beid reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_833</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_833</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mentags, den 14. d.
+                                                  augustj p[raese]nt[ibus] herr Holtzhalb unnd beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1609-08-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 684</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Hans <persName ref="Kolb, Hans Heinrich">Heinrich Kolb</persName> soll synem
+                                                  stieftochter<note type="editorial"> Barbara
+                                                  Bullinger, Tochter von Hans Heinrich Bullinger
+                                                  (1557-1587) und Magdalena Meister (1559-?),
+                                                  Stieftochter von Hans Heinrich Kolb, heiratete
+                                                  1606 Alexander Bierbrauer</note> man Alexandern
+                                                  Bierbruͤyer<persName ref="Bierbrauer, Alexander"/>, dem kupferschmid, umb allerley ursachen willen
+                                                  synen diß rechtstags halb erlitnen<note type="critical">ursprünglich: erlitnen diß
+                                                  rechtstags halb</note> costen abfertigen und von
+                                                  deß an syner stieftochter deß Bierbruͤyers frow
+                                                  begangnen frefels unnd mißhandlens wegen zwo march
+                                                  silbers zů bůß erleggen. Darnebent soll er, Kolb,
+                                                  uffm rathuß behalten und synes hab und gůts halber
+                                                  befraget und verschaffet werden, das er synen
+                                                  stiefkinden jr muͤterlich gůt zeige unnd
+                                                  versichere.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mentags, den 14. d.
+                                                  augustj p[raese]nt[ibus] herr Holtzhalb unnd beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

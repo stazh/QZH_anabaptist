@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_511</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_511</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Kleger und Joseph Peter</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-08-28"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 362</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als herr lanndtvogt Schmid<note type="editorial"> <persName ref="Schmid, Matthias">Matthias Schmid</persName></note> sampt mynen
+                                                  herren, den nachgengeren, zů Hannsen Kleger unnd
+                                                  Josephen Petter uß dem Vischenthal, so kurtz
+                                                  verschinner zytt uß dem <placeName ref="Mähren">Mehrerren</placeName> landt kommen unnd etliche mitt jnen
+                                                  hinwegnemmen wellen, jnn <placeName ref="Zürich, Wellenberg">Wellenberg</placeName> kert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note> unnd warumb sy das volck also
+                                                  ufwiglind unnd hinweg fuͤrind befragt, habent sy
+                                                  volgende antwort geben, namblich:</p>
+                                                  <p>Nachdem sy vor zweyen jaren jnn das Merherren
+                                                  landt gezogen unnd domals jr hab unnd gůt
+                                                  verkoufft, von wellichem kouffschilling jnnen uff
+                                                  jetzige zytt ein zallung gefallen, sygind sy nit
+                                                  von<note type="critical">Folgt gestrichen:
+                                                  wenig</note> wegen, das sy volck hinweg fuͤren
+                                                  sölten oder welten, sonder die verfalnen zalungen
+                                                  reichen<note type="editorial"> holen</note>, die
+                                                  aber der vogt der herrschafft <placeName ref="Grüningen">Grüningen</placeName> jnen nit volgen lassen wellen.
+                                                  Inn dem nun sy also daheimen gwessen, sygen etlich
+                                                  arm volck zů jnen kommen, sy jres thůn unnd
+                                                  lassens halb befragt, wellechse sy bericht.
+                                                  Dieselbigen<note type="critical">«dieselbigen» am
+                                                  Rand, in der Zeile gestrichen: daruff
+                                                  etlich</note> sy gefragt, ob sy wellind mit jnen
+                                                  nemmen. Daruf sy beid jnen die antwort geben, sy
+                                                  habind dessen kein bevelch, sonder mögind thůn,
+                                                  was sy wöllind, unnd also niemand ufgwiglet noch
+                                                  mit jnen zezüchen gepetten. Bittend deßhalb umb
+                                                  erledigung der gfangenschafft, wellind sy den weg,
+                                                  so sy harkommen, züchen unnd niemannds
+                                                  ufwiglen.</p>
+                                                  <p rend="margin-top">[Urteil:] Wann dise beid
+                                                  ­toüf­fer eintweders ein eyd schweeren oder an
+                                                  eydtsstatt anloben wellend, angents<note type="editorial"> unverzüglich, nächstens, Id. II,
+                                                  19.</note> uß myner herren gricht unnd gebiet
+                                                  zezüchen und nit mehr darjn zekhommen, sy habint
+                                                  dann von mynen herren ein gleit, so will man sy
+                                                  recht der gfanngenschafft erlaßen unnd hinweg
+                                                  züchen laßen. Wover<note type="editorial"> wenn,
+                                                  Id. I, 914.</note> sy aber schwuͤren oder gelobten
+                                                  unnd demnach das nit hielten, sonnders sich wider
+                                                  harjn ließen, soll zů jnen als meineyden lüthen
+                                                  gerichtet werden. Actum mittwochs den 28ten
+                                                  augustj anno etc. 88. p[raese]nt[ibus] <persName ref="Kambli, Hans">herr
+                                                  Kamblj</persName> unnd beid
+                                                  reth.</p>
+                                                  <p rend="margin-top">Sy hand uff fürhalten
+                                                  deweders<note type="editorial"> keines von beiden,
+                                                  Id. XV, 489.</note> thůn wellen. Derhalben söllen
+                                                  sy uff jren costen wyters belyben ligen, biß es
+                                                  jnen baß ryff<note type="editorial"> baß ryff
+                                                  (werden): besser willfahren, klein beigeben, Id.
+                                                  II, 662.</note> wirt.<note type="critical">Dieser
+                                                  Satz befindet sich auf der Rückseite zwischen dem
+                                                  ersten Urteil vom 28 August und dem zweiten Urteil
+                                                  vom 14. September.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

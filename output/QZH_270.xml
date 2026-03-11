@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_270</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_270</idno>
+          </msIdentifier>
+          <head>Heinrich Binder an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1565-05-26"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 121</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Sträng, frum, edel, erenvest, fürsychtig,
+                                                  ersam, wys, jnsunders günstig, gnedig jr myn
+                                                  heren, myn underthenig, gehorsam, ganz gney[g]t
+                                                  und gůt wylliger dienst sig üwer er[sam] wyßheyt
+                                                  myt aller underthenykeyt alzyt bereyt. Insunders
+                                                  günstig, gnedig jr myn heren, üwer er. wyßheyt hat
+                                                  <note type="editorial"> noch</note>
+                                                  unvergäßen, wie jr myr handt zůschryben laßen, das
+                                                  ich den <persName ref="Ruman, Peter">Petter Rumen</persName>
+                                                  von <placeName ref="Schöfflisdorf">Schöfflystörff</placeName>, <persName ref="Bräm, Fridli">Frydly Brem</persName> von
+                                                  Sünyken<note type="editorial"> Sünikon, Ortschaft
+                                                  der Landvogtei Regensberg</note><placeName ref="Sünikon">nach</placeName> und <persName ref="Kuhn, Hans">Hannß Kůn</persName> jm <placeName ref="Pflasterbach">Pflasterbach</placeName> von wägen der doͤyffery
+                                                  gfängklych annamen und üch, mynen heren,
+                                                  zůschyken. Uff das laß ich üch, myne gnedigen
+                                                  heren, wißen, das ich lüth nach jnnen gschykt,
+                                                  doch so ist jnen Frydli Bräm und <persName ref="Kuhn, Hans">Hanns
+                                                  Cůn</persName> nyt worten<note type="editorial"> in die Hände gefallen, habhaft
+                                                  geworden, Id. XVI, 1339f.</note>, aber Petter
+                                                  Rumen. Den sälbigen sy myr bracht, den schyk ich
+                                                  üch, myn heren. Deßhalben jr myt jm mögent handlen
+                                                  nach üwerem gfallen. Uß <placeName ref="Regensberg">Ragensperg</placeName>, am 26. tag meyen dys 65.
+                                                  jars.</p>
+                                                  <p rend="margin-top">U[wer] w[illiger] dyener</p>
+                                                  <p>Heynrych Bynder, vogt uff Regensperg.</p>
+                                                  <p rend="margin-top">Dem strengen, frumen, edlen,
+                                                  erenvesten, fürsichtigen. ersamen und wyßen heren
+                                                  burgermeyster und rath der stat <placeName ref="Zürich">Zurych</placeName> mynen günstigen gnedigen lyeben
+                                                  heren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

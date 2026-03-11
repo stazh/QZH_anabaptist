@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_619</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_619</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Kippenhan</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1594-09-25"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 470</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles
+                                                  gůts zůvor. Frommer, wyßer, besonnders gethrüwer,
+                                                  lieber burger unnd vogt. Von dem unnsern <persName ref="Aner, Hans">Hannßen
+                                                  Aner</persName> uß dem Nüwen
+                                                  <placeName ref="Neuamt">ampt</placeName> werdent wir
+                                                  berichtet, wie <persName ref="Gartner, Margretha">Margretha Gartnerin</persName>, Hanns <persName ref="Gertenhofer, Hans Heinrich">Heinrich
+                                                  Gertenhofers</persName> deß zimbermans
+                                                  eefrauw, von jrem brůder jnn der herrschafft
+                                                  Gruͤ<placeName ref="Grüningen (Landvogtei)">ningen</placeName> jnn die 70 g[ulden] ereerpt habe, da du jnen
+                                                  söllich erb, von deßwegen das sy beide der
+                                                  taüfferischen<note type="critical">Folgt
+                                                  gestrichen: seckt</note> sect anhengig sind,
+                                                  bißhar nit gevolgen<note type="editorial">
+                                                  rechtlich zukommen, Id. I, 812.</note> laßen
+                                                  wellen. Mitt bitt, diewyl er, Gertenhofer, zů
+                                                  <placeName ref="Weiach">Wyach</placeName> zwey unerzogne
+                                                  brůderskind, die er zů erhalten schuldig habe, wir
+                                                  welten bewilligen, das söllich erb an die erzühung
+                                                  ermelter<note type="editorial"> erwähnter</note>
+                                                  kinden verwendt werden möge etc. Wann nun wir nit
+                                                  wüßen mögend, wie es umb diß erb unnd gůt
+                                                  gestaltet, so begerend wir hiemit an dich, du
+                                                  wellist unns berichten, was und wie vil gedachte
+                                                  Gartnerin jnn dyner amptsverwaltung ereerbt, ouch
+                                                  woran söllich gůt syge, jtem wie es darmit ein
+                                                  gstalt habe, unnd ob nit jemandts anderer auch
+                                                  doran ansprechig<note type="editorial"> einen
+                                                  rechtlichen Anspruch geltend machend, vgl. <hl to="http://fwb-online.de/go/anspr%C3%A4chig.s.4adj_1709439031"><Hyperlink>http://fwb-online.de/go/anspr%C3%A4chig.s.4adj_1709439031</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>, damitt
+                                                  wir uff söllichen bericht unns wyter <nswk/> der
+                                                  gebür nach deßhalb zůentschließen wüßint. Datum
+                                                  den 25ten septembris anno et. 94.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Dem frommen, wyßen, unnserm
+                                                  besonnders gethrüwen, lieben burger unnd vogt zů
+                                                  Gruͤ<placeName ref="Grüningen">ningen</placeName> Hannßen
+                                                  Kipenhan.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

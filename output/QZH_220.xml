@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_220</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_220</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Rudolf
+                                                  Breitinger
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1554-06-06"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 71</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern früntlichen, geneigten willenn unnd
+                                                  alles guts zůvor. Frommer, wyser, besonnders
+                                                  gethrüwer, lieber burger unnd vogt, wir haben dise
+                                                  tagen einen, der sich der jrrigen  
+                                                  <note type="critical">Es folgt eine
+                                                  Wortstreichung.</note> zu gebruchen<note type="critical">«zu gebruchen» am Rand</note>
+                                                  unnderwunden<note type="critical">Folgt
+                                                  gestrichen: jnn unnser gefanng</note> unnd aber
+                                                  sich darvon widerumb abnemmen lassen, jnn unnser
+                                                  gefanngenschafft gehept, wellicher angetzeigt, das
+                                                  sich <persName ref="Streler, Klaus">Claus Sträler</persName>
+                                                  uff dem <placeName ref="Wald, Haltberg">Haltberg</placeName>
+                                                  unnd <persName ref="Schöneneberg, Hans">Hanns Schönenberg</persName> von Adeltzhußen<note type="editorial"> Adletshusen</note><placeName ref="Adletshusen">thoüferj</placeName>, darumb wir dir dann kurzer
+                                                  tagen auch geschryben<note type="editorial"> Vgl.
+                                                  Nr. 69</note>, deßglychen <persName ref="Streler, Hans">Hanns Sträler</persName> gemelts Claußen brůder <persName ref="Kleinůli">unnd
+                                                  Kleinůlj</persName> von
+                                                  Bossigckens<note type="editorial">
+                                                  Bossikon</note><placeName ref="Bossikon">der</placeName> frow,
+                                                  alles jnn diner amptsverwaltung gelegen,
+                                                  obvermelter verfürischen säct annemind unnd
+                                                  mitnammen sampt ettlichen uss dem
+                                                  <placeName ref="Thurgau">Thurgöw</placeName> jr versamlung
+                                                  jnn des schaffner von <placeName ref="Bubikon">Bůbigkens</placeName> sennweyd jm Herliberg<note type="editorial"> Hellberg</note><placeName ref="Hellberg">säct</placeName> habind. Deßhalb bevelchen wir dir
+                                                  abermaln<note type="critical">Folgt gestrichen:
+                                                  wie</note> wie vorhar<note type="critical">«wir
+                                                  vorhar» am Rand, in der Zeile gestrichen: wie denn
+                                                  vorhar (Lesung unsicher)</note>, du wellest uff
+                                                  sölliche personnen din kůntschafft machen unnd,
+                                                  so<note type="editorial"> wenn</note> du sy<note type="critical">Es folgt eine
+                                                  Wortstreichung.</note> sampt oder sonnders
+                                                  ankommen magst, fenngklichen annemen lassen<note type="critical">«annemen lassen» über der
+                                                  Zeile</note> unnd nach vermog unnsers<note type="critical">Es folgt eine
+                                                  Wortstreichung.</note> vorgethanen schrybens gegen
+                                                  jnen hanndlen, damit söllicher jrthumb abgestelt
+                                                  unnd von jnen nit noch<note type="critical">Folgt
+                                                  gestrichen: lüten</note> mer lüten verfürt
+                                                  werdint. Daran thust unnser gefallen unnd meinung.
+                                                  Datum den vj. junij anno d[omini] liiij.</p>
+                                                  <p rend="margin-top">B[urgermeister] u[nd] r[at]
+                                                  d[er] st[att] Z[ürich].</p>
+                                                  <p rend="margin-top">An vogt Breyttinger zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName>.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

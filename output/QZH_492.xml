@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_492</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_492</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1586-11-09"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 343</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wiewol diser radtschlag an jm selbs gebürlich
+                                                  were, diewyl aber ouch hoch beschwerlich, wenn
+                                                  einer ald eine also one bestimpte zitt<note type="critical">«zitt» über der Zeile, in der
+                                                  Zeile gestrichen: stund</note> synem abtrünnigen
+                                                  eegemecht<note type="editorial"> Ehepartner, Id.
+                                                  IV, 69.</note> ußwarten sölte, da so habent myn
+                                                  gnedig herren sich deß erlütheret, das jnn jedem
+                                                  zůtragenden fal die sach nach dem hinwegzůg je deß
+                                                  andern miteementschen uff ein halb jar lang sölle
+                                                  blyben anstaan und dannenthin über das
+                                                  hingelouffen und widerspennig eegemecht die
+                                                  kilchenruͤff<note type="editorial"> öffentliche
+                                                  Bekanntmachung in der Kirche, Id. VI, 686.</note>
+                                                  ußgebracht werden und geschehen, darnach aber nach
+                                                  den eegrichts satzungen gehandlet werden. Fůgte
+                                                  sich aber, das das hingezogen eementsch, wenn es
+                                                  synes gfallens syn, erst wider heimkemme und das
+                                                  gehorsam anheimbsch<note type="editorial"> im Land
+                                                  anwesend, Id. II, 1286.</note> beliben eemenschen,
+                                                  das ander […]<note type="critical">Lesung
+                                                  unklar</note> frygs gůts willens, wider zů jm
+                                                  nemmen welle, soll dann dieselbig handlung
+                                                  für<note type="editorial"> vor</note> myn gnedig
+                                                  herren, einen ersammen rath, zů entscheid und
+                                                  erlütherung kommen, da dann je nach dem man findt
+                                                  und erfart, die hingelouffen person sich gehalten
+                                                  und gethragen, ze­thůnd<note type="critical">Folgt
+                                                  gestrichen: syn wirt</note> wol wüßen wirt. Actum
+                                                  mitwuchs den 9ten novembris anno etc. 86,
+                                                  p[raese]nt[ibus] herr <persName ref="Kambli, Hans">burgermeister
+                                                  Kamblj</persName> unnd beid
+                                                  reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

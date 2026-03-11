@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_789</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_789</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode In
+                                                  dieser Nummer sind nur die die Täufer betreffenden
+                                                  Abschnitte wiedergegeben.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1605-05-07"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 640</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Considerationes:</p>
+                                                  <p>Es ist von den decanis etlicher
+                                                  underschidenlichen capitlen schwer anzogen der
+                                                  widertoͤufferen halben, und was unradts sy
+                                                  anrichtind etc.</p>
+                                                  <p>Ist für unser g[nedig] herren gewisen.</p>
+                                                  <p rend="margin-top">[Bericht an den Rat]<note type="critical">Die Überschrift lautet: «Uß dem
+                                                  synodo, so gehalten worden zinstags den 7. d. maij
+                                                  anno 1605, jst für myn gnedig heren, einen
+                                                  ehrsammen rath, gewißen».</note>:</p>
+                                                  <p>Fürs anderen jst von dem decanis etlicher
+                                                  underschidenlicher capittlen mit sonnderer
+                                                  beschwer fürbracht worden, wiewol man jetzt ein
+                                                  zyt har etliche mittel fürgenommen, die
+                                                  ­toüf­ferische sect zů vertryben unnd dieselbige
+                                                  (als billich) ußzerotten. Inn ansechen dise
+                                                  kybige<note type="editorial"> eigensinnig,
+                                                  boshaft, zänkisch, Id. III, 108.</note> ­toüf­fer
+                                                  und glychßner<note type="editorial">
+                                                  Heuchler</note> manchen eeman syn wyb, dem wyb syn
+                                                  eeman, den elteren jre kind, den kinden jre
+                                                  elteren unnd dann üch, mynen gnedigen herren als
+                                                  der oberkeit<note type="critical">Folgt
+                                                  gestrichen: jre</note>, üwere verthruwte
+                                                  underthanen entfuͤrend und aber (reverenter
+                                                  zmelden) jeder dieb, so einem ein veech stilt,
+                                                  nach gebür gestrafft wirt, so syge von nöten, das
+                                                  mit mehrerm ernst hierjnne gehandlet werde. Dann
+                                                  so sy wyter also wie bißhar fürbrechen theten,
+                                                  wurde große zerüttung daruß volgen, dann sy so
+                                                  unverschampte sind, das sy dörffen khommen und jre
+                                                  eerbtheil forderen und zeigind an, das jr, myn
+                                                  gnedig herren, deß vogts zů <placeName ref="Greifensee">Gryffensee</placeName> brůder<note type="editorial">
+                                                  Erhart Meyer</note> ouch ein hüpsches von synem
+                                                  gůt volgen laßen unnd so es einem recht, syge es
+                                                  dem andern billich. Zů dem vermeinind sy, das man
+                                                  luth deß ußgangnen mandaths nit befügt syge, sy
+                                                  uff fryger<note type="editorial"> freier</note>
+                                                  straß jnn üwer (myner gnedigen herren) gebiet
+                                                  anzegryffen, sonnder allein jnn hüßeren, wann sy
+                                                  etwarn<note type="editorial"> irgendjemand</note>
+                                                  hinweg füren welten. Da sy dann zů
+                                                  <placeName ref="Niederglatt">Niderglatt</placeName> jm
+                                                  <placeName ref="Neuamt">Nüwenampt</placeName> allen platz und
+                                                  underschlouff habint. Unnd wann sy etwas jnn
+                                                  <placeName ref="Mähren">Mehrherren</placeName> enbieten<note type="editorial"> (durch einen Boten) sagen
+                                                  lassen, Id. IV, 1869.</note> wellen, finde man
+                                                  alda botschafft unnd werde an disem ort üwer
+                                                  (myner g[nedigen] herren) mandath der ­toüf­feren
+                                                  halb gar nützit geachtet. Item sy bringind büchli
+                                                  und offne patenten<note type="editorial">
+                                                  grossformatiges Blatt (Folio), das nur auf einer
+                                                  Seite beschrieben oder bedruckt ist, Grimm 13,
+                                                  1501.</note> mit jnen, darjnne sy die predicanten
+                                                  unser waaren evangelischen religion seelenmörder
+                                                  heißind, da jnen dann mit hin zů auch schmechliche
+                                                  wort der oberkeit halb entrünnind, also das, wo sy
+                                                  die gfangenschafften unnd die straff nit fürchten
+                                                  theten, wurden sy mehr ungůts anstifften, dann sy
+                                                  bißharo gethon, da sy die straff noch immer zů
+                                                  hinderhalten. Deßhalben jst abermaaln wie hievor
+                                                  mehr eines ehrsammen synodi hochstes pitten, jr
+                                                  myn g[nedig] herren wellind doch zum ersten jnn
+                                                  üwer statt unnd hernach uff uwer landtschafft
+                                                  durch uwer oberkeitlich ansechen by üwern
+                                                  nachgesetzten amptlüthen als den ober- und
+                                                  undertvögten, weiblen, geschwornen und
+                                                  eegoumeren<note type="editorial"> Vertreter der
+                                                  Sittenzucht, Id. II, 304.</note> versechen<note type="editorial"> vorkehren, Id. VII, 572.</note>
+                                                  und alles ernsts verschaffen, das die faßnacht
+                                                  fhür abgethon, die ­toüf­ferische sect ußgerottet
+                                                  unnd die zinstag<note type="editorial">
+                                                  Dienstag</note> predig oder bättag wie ouch die
+                                                  kinder predigen flyßiger, dann bißhar beschechen,
+                                                  besůcht werdint. So sygen sy all deß erbietens,
+                                                  jrem ampt mit allen thrüwen (sover sy ouch hilff
+                                                  von üch, mynen g. herren, als der weltlich
+                                                  oberkeit habint) nachzekhommen, das jren thůn
+                                                  unnd, wo sy ouch gfelt haben möchten, dieselbigen
+                                                  feler (sovil müglich) zůverbeßeren.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> In
+                                                  dieser Nummer sind nur die die Täufer betreffenden
+                                                  Abschnitte wiedergegeben.</p>
+    </back>
+  </text>
+</TEI>

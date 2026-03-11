@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_488</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_488</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von
+                                                  Diessenhofen
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1586-06-13"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 339</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern<note type="critical">Folgt gestrichen:
+                                                  günstigen gneigten willen</note> fründtlichen
+                                                  willen unnd alles gůts zůvor. Ersammen, wyßen,
+                                                  besonders lieben gethrüwen. Uß üwerm schryben
+                                                  haben wir verstanden, wie diser tagen ein antzal
+                                                  volcks uß unnser landtschafft durch üwer statt und
+                                                  päsß<note type="critical">«und päsß» am
+                                                  Rand</note> gereißet, vorhabens, jnn dz land
+                                                  Merrhern zezüchen und sich der widerthoüfferyg
+                                                  zůergeben; da jr jren redlifuͤrer, <persName ref="Freitag, Christoph">Christoff
+                                                  Frytagen</persName>, so
+                                                  sich uß unnser statt nennt, gfencklich jngetzogen
+                                                  und<note type="critical">Folgt gestrichen:
+                                                  si</note> enthaltind<note type="editorial">
+                                                  festhalten, Id. II, 1228.</note>. Darüber fuͤgend
+                                                  wir üch zů vernemmen, unns zwahren unverborgen
+                                                  syn, das jetzt ein zyt har etliche der unnseren
+                                                  unnd derselben mehrteils (unnsers erachtens) von
+                                                  der leidigen thürung unnd großen mangels wegen
+                                                  glych wol<note type="critical">«glych wol» über
+                                                  der Zeile, in der Zeile gestrichen: doch</note>
+                                                  ohne unnser erlouben ald<note type="editorial">
+                                                  oder</note> bewilligen uß dem landt hinwegzogen
+                                                  syn möchten. Sovil aber angetzognen Christoff
+                                                  Frytagen belanget, möchten jr denselben
+                                                  eigentlichen erkhundigen laßen, wannenhar er syge
+                                                  unnd khomme, ouch was syn meinung unnd
+                                                  fürnemmen<note type="editorial"> Vorhaben,
+                                                  Absicht, Id. IV, 746.</note> gweßen und wz wyter
+                                                  syn verhandlen<note type="editorial"> Treiben,
+                                                  Tun, Id. II, 1403.</note>
+                                                  <note type="critical">«und wz wyter syn
+                                                  verhandlen» am Rand mit Verweiszeichen</note>, und
+                                                  unns desselben nach üwer glegenheit berichten<note type="critical">«und unns desselben nach üwer
+                                                  glegenheit berichten» ebenso am Rand mit
+                                                  Verweiszeichen</note>, dann unns synthalb nützit
+                                                  anders angelangt<note type="editorial"> zugetragen
+                                                  werden, Id. III, 1330.</note>, wir unns ouch nit
+                                                  erjnneren noch wüßen<note type="critical">«noch
+                                                  wüssen» am Rand mit Verweiszeichen</note>
+                                                  khönnend, das er uß unnser statt ald woher er
+                                                  bürtig oder wer er syge<note type="critical">Folgt
+                                                  gestrichen: sontsten was die ufwigler und leerer
+                                                  der ­toüf­feren be</note>. So wellent wir als dann
+                                                  nach vernemmung synes bscheidts uff üwer
+                                                  erforderen ferneren<note type="critical">«uff üwer
+                                                  erforderen ferneren» am Rand, in der Zeile:
+                                                  wytern</note> gebürenden bericht geben. Sontsten
+                                                  was die ufwigler unnd leerer der ­toüf­feren
+                                                  betrifft, wo derselben einer oder mehr jnn
+                                                  unnseren grichten unnd gebieten betretten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+                                                  1486.</note> wurdent, wie gegen dem ald denen nach
+                                                  ußwyßung<note type="editorial"> Inhalt, Aussage,
+                                                  Id. XVI, 1953.</note> unnsers jüngst deßwegen
+                                                  ußganngnen mandaths handlen, deß wir üch hiemitt
+                                                  uff üwer schryben zů begertem bericht verstendigen
+                                                  wellen unnd sind üch zů gunst jederzyt wol
+                                                  gewägen<note type="critical">«gewägen» über der
+                                                  Zeile, in der Zeile gestrichen: geneigt</note>.
+                                                  Datum den 13. d. junij a[nn]o etc. 86.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Den ersamen, wyßen, unnseren
+                                                  besonders lieben gethrüwen Schultheiß unnd rath zů
+                                                  Dießenhofen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

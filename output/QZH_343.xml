@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_343</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_343</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Ammann und Rat von Zug (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1575-02-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 194</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnser frünndtlich, willig dienst, sambt was
+                                                  wir eeren, liebs und gůts vermögend, zůvor. From,
+                                                  fürsichtig, ersam, wyß, jnnsonders gůt fründ und
+                                                  getrüwen lieben eydtgnosßen, der ersam unser
+                                                  lieber burger, herr <note type="editorial"> Johannes Frey</note><persName ref="Frey, Johannes">Hans Fryg</persName>, pfarrer zů
+                                                  <placeName ref="Meilen">Meylen</placeName> hatt uns<note type="critical">Folgt gestrichen: fürgebracht und
+                                                  zů e ab üwerm burger Ůlrich Gygern, syner
+                                                  abgeträttnen eefrowen brůder volgenden zwo klagen
+                                                  fürgebracht. Erstlich das gesagter syn schwager,
+                                                  der Gyger, jme zehen müntz guldin zů hurden von
+                                                  gerürter syner eewürtinen ererptem gůtt</note> mit
+                                                  schwerhen fürgebracht, demnach (leider) syn
+                                                  eewürtin <persName ref="Gyger, Verena">Verena Gygerin</persName> von der ­toüf­ferischen
+                                                  beflechten sect jnne als jren eeman und jr beiden
+                                                  by ein andern eeliche<note type="critical">Folgt
+                                                  gestrichen: sibne</note> erzügete kinder<note type="critical">Folgt gestrichen: verlaßen</note>
+                                                  durch abweyssung jrer person verlaßen, understunde
+                                                  jetzdann jr brůder <persName ref="Gyger, Ulrich">Ůlrich Gyger</persName>, üwer burger, jme<note type="critical">Folgt gestrichen: die</note> zehen
+                                                  müntz guldin<note type="critical">Folgt
+                                                  gestrichen: zinß</note> zů <placeName ref="Hurden">Hurden</placeName> von zweygen jaren har gefallnen
+                                                  zinß von jre zůgebracht ald<note type="editorial">
+                                                  oder</note> ererpten gůt harlangende<note type="critical">«von zweygen … harlangende» am
+                                                  Rand mit Verweiszeichen, in der Zeile gestrichen:
+                                                  jres zůgebrachten gůts</note> nit volgen
+                                                  zelassen<note type="critical">Folgt gestrichen:
+                                                  zůdem gebe die jme aber (synes verhoffens</note>.
+                                                  Zůdem gebe er von jme uß, das sy, die frow, durch
+                                                  syn als jres eemans schnöd halten geursachet
+                                                  worden, sich von jme zeüsseren. Diewyl und aber
+                                                  jme mit söllichem gezig<note type="editorial">
+                                                  Verdacht, Anschuldigung, Id. XVII, 401.</note>
+                                                  höchlich<note type="critical">«höchlich» am Rand
+                                                  mit Verweiszeichen</note> unguͤtlich bescheche,
+                                                  sonders<note type="critical">«sonders» über der
+                                                  Zeile, in der Zeile gestrichen: und</note> enempte
+                                                  syn eewürtin wider göttlichs und mentschlichs
+                                                  gsatz allein von obangeregter angenommen
+                                                  ­toüf­ferischer jrigen meinung wegen von jme und
+                                                  jr beider ee<note type="critical">«ee» über der
+                                                  Zeile</note> lyblichen kinden abgeträtten,
+                                                  verhoffe er, das jme als der unschuldigen person
+                                                  billich die gedachten zehen guldin usstendigen
+                                                  zinsen zů sin und der kinden handen<note type="critical">korrigiert, ursprünglich:
+                                                  hab</note> diennen söllind und weder sy, die frow,
+                                                  ald jr brůder jnen deß endts einichen witern
+                                                  jntrag zethůnd befuͤgt<note type="critical">Folgt
+                                                  gestrichen: syn</note>, sonders den darüber
+                                                  angelegte hafft<note type="editorial"> Arrest,
+                                                  Beschlagnahmung, Id. II, 1055.</note> widerumb zů
+                                                  entschlachen und jnne darmit verfarren
+                                                  zelasßen<note type="critical">«und jnne darmit
+                                                  verfarren zelasßen» am Rand</note>, schuldig syn,
+                                                  sodann er, Gyger, oder jemandts anderer an
+                                                  jnne<note type="critical">Folgt gestrichen:
+                                                  her</note>, Frygen, diß zinses oder anderer sachen
+                                                  halber etwas ansprach<note type="editorial">
+                                                  Anspruch</note>, der möge jnne wol vor uns als
+                                                  syner ordenlichen oberkeit, under dero er
+                                                  sesßhafft, besůchen, welle er jederzyt jm rechten
+                                                  gebürenden bscheid geben. Mit vlysßigem bitten,
+                                                  wir jme mit unserm fürbittlichen schryben gegen
+                                                  üch verhulfen und beradten syn, das er wider und
+                                                  über söllich syn erbieten am jnzug usstender
+                                                  zinsen nit witers verhindert werde<note type="critical">«werde» über der Zeile</note> etc.
+                                                  Wann nun uns gloubhafft angezeigt<note type="critical">«gloubhafft angezeigt» am Rand mit
+                                                  Verweiszeichen, in der Zeile gestrichen: wol
+                                                  bewüßt</note>, das<note type="critical">Folgt
+                                                  gestrichen: sy</note> ernempte Gygerin gesagten
+                                                  herr Frygen, jren eeman, und jr beiden kinder,
+                                                  dero sibne (wie wir bericht) jnn leben<note type="critical">Folgt gestrichen: uß</note>,
+                                                  allein von angemasßeter ­toüf­ferischer jrrigen
+                                                  seckt<note type="critical">Folgt gestrichen:
+                                                  verlaßen</note> über vilfaltigs underhandlen
+                                                  verlaßen und nach hartnegkiger wyß darjnne<note type="critical">Folgt gestrichen: ver</note>
+                                                  beharret, habent wir jme, hern Frygen, syn
+                                                  bittlichs begeren nit abschlachen können und
+                                                  gelangt hieruf an üch, unser lieb eydtgnosßen,
+                                                  unsers fründtlichs bitt und gesinnen, jr wellind
+                                                  mit üwerm burger Ůlrich Gygern verschaffen, das er
+                                                  jme, herr Frygen, obangeregte<note type="critical">Folgt gestrichen: zwo</note> zehen müntz guldin
+                                                  verfalles zinses und ouch fürter<note type="editorial"> weiterhin, Id. I, 1000.</note>
+                                                  die andern one witeren jntrag zůhanden volgen und
+                                                  werden lasße. Dartzů synes schmützens<note type="editorial"> beschimpfen, tadeln, Id. IX,
+                                                  1040.</note>, das er an jr (der frouen) abträtten
+                                                  ursächen abstande solend<note type="critical">«solend» (Lesung unsicher) über der Zeile, in der
+                                                  Zeile gestrichen: so unnd</note>. Wenn aber
+                                                  gedachter <persName ref="Gyger, Ulrich">Ulrich Gyger</persName> je vermeindte, es syge
+                                                  zinses oder sonsten anderer sachen halben an jnne,
+                                                  herren Frygen<note type="critical">Folgt
+                                                  gestrichen: ansprach</note>, ansprächig<note type="editorial"> eine Forderung erhebend, Id. X,
+                                                  734.</note> zesind<note type="critical">Folgt
+                                                  gestrichen: mag er</note>, das er jnne darumbe der
+                                                  enden er gsesßen<note type="critical">Folgt
+                                                  gestrichen: jnnhalt der pündten besůche</note>,
+                                                  soll jme ald den jhenigen gůt gebürlich recht
+                                                  widerfaren wellind von uns uff<note type="critical">Folgt gestrichen: ge</note>
+                                                  vilangezeigts unsers burgers herr Frygen<note type="critical">Folgt gestrichen:
+                                                  erntstl</note><persName ref="Frey, Johannes"/>
+                                                  trungenlichs<note type="editorial"> eindringlich,
+                                                  inständig, Id. XIV, 1111f.</note> und erntstlichs
+                                                  fürbringen und anruͤffen jm besten vermercken und
+                                                  sind üch und den üwern darnäbent<note type="critical">«darnebent» am Rand</note>
+                                                  jederzyt alle gůts fründtschafft und liebe
+                                                  zůbewyßen gantz geneigt, willig, darby üch und
+                                                  uns<note type="critical">«üch und uns» am
+                                                  Rand</note> jnn schirm gottes bevelchende. Datum
+                                                  mitwuchs den 2ten februarij anno etc. 75.</p>
+                                                  <p rend="margin-top">Burgermeister und rath der
+                                                  statt Zürich</p>
+                                                  <p rend="margin-top">Den frommen, fürsichtigen,
+                                                  ersamen, wyßen amman und rath der statt Zug,
+                                                  unsern jnsonders gůten, fründt und getrüwen lieben
+                                                  eydtgnosßen.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

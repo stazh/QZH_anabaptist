@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_218</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_218</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Rudolf
+                                                  Breitinger
+                                                  (Kopie)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1554-05-10"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 69</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern früntlichen willen unnd alles gůts
+                                                  zůvor. Frommer, wyser, besonnders gethrüwer,
+                                                  lieber burger unnd vogt, wir werdent bericht, das
+                                                  sich die personnen, so du jnn hiebyligenndem
+                                                  zedel<note type="editorial"> Die Namenliste ist
+                                                  nicht überliefert, zu den Personen vgl.
+                                                  Nr. 71.</note> verschriben finst, sich der jrrigen
+                                                  sect der thoüffery annemind unnd beladint, unnd
+                                                  uns<note type="critical">«uns» über der
+                                                  Zeile</note> als zů besorgen<note type="critical">Folgt gestrichen: unns</note>, noch mer der
+                                                  unnsern söllicher gestalt zů ungehorsame bringind.
+                                                  Welliches unns, wie du wol zu gedenncken hast, ein
+                                                  grosse beschwärd unnd<note type="critical">Folgt
+                                                  gestrichen: ein</note> harjnne ein jnsechen
+                                                  zethůn<note type="editorial"> jnsechen zethůn:
+                                                  einschreiten, Id. VII, 562f.</note> von nöten jst.
+                                                  Deßhalben bevelchen wir dir, du wellest gemelter
+                                                  personen halb jnn geheimbd nachfrag haben unnd
+                                                  welliche du gemelter sect anhenngig sin befinst,
+                                                  dieselbigen fengklichen annemmen unnd sy darvon
+                                                  abzewysen underston. So aber ettlich daruf
+                                                  verharren unnd sich nit wysen lassen, unns
+                                                  desselbigen unnd wie jre sachen gestaltet
+                                                  verstenndigen, damit wir<note type="critical">Folgt gestrichen: der</note> volgenndts
+                                                  fürer<note type="editorial"> weiter</note> nach
+                                                  der gepür zehanndlen wüssint, des wellen wir unns
+                                                  zu dir versechen<note type="editorial"> erwarten,
+                                                  Id. VII, 566f.</note> unnd jnn gnaden erkennen.
+                                                  Datum donnstags den x. maij anno etc. liiij.</p>
+                                                  <p rend="margin-top">Burgermeyster unnd rath der
+                                                  statt Zürich.</p>
+                                                  <p rend="margin-top">Dem frommen, wysenn, unnserm
+                                                  besonnders gethrüwen, lieben burger unnd vogt zů
+                                                  <placeName ref="Grüningen">Grüningen</placeName> Rudolffen
+                                                  Breyttinger.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

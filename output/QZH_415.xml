@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_415</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_415</idno>
+          </msIdentifier>
+          <head>Verhör von Michel Ruman und Haftbefehl</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 266</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Alß myn herren, die verordneten nachgenger,
+                                                  Michel Romanen von <placeName ref="Schöfflisdorf">Schöfflistorff</placeName> mit vilfalltigen gründen uß
+                                                  heiliger gottlicher geschrifft nüws unnd allts
+                                                  testaments ob der thoüfferischen sect (mit dero er
+                                                  zwaren starck behafftet<note type="editorial">
+                                                  verstrickt sein, Id. II, 1063.</note>) widerumb
+                                                  uff unnßeren urallten waaren christenlichen
+                                                  glouben zefüren unnd zebringen unnderstanden<note type="editorial"> unternehmen, versuchen, Id. XI,
+                                                  619.</note>, hatt er (hindann solliches alles)
+                                                  jnnen hieruf, glych wie vormaln anndere thoüffer
+                                                  unnd benantlichen ouch einfaltig, volgenden
+                                                  bescheid geben. Es gange jm recht, wie gott welle,
+                                                  so syge er willens unnd endtlich vorhabens, uff
+                                                  dem thoüfferischen glouben zůbeharren unnd mit
+                                                  bystand gott des allmechtigen nit darvon
+                                                  abzefallen. Hienebend lasße er gůt syn unnd
+                                                  blyben, das ein ober­kheit syge unnd syn sölle.
+                                                  Allein trage er von wegen des unbůßfertigen läbens
+                                                  des kilchgangs halber ergernuß, also dz er nit
+                                                  meer jnn die kilchen zegaan bedacht, es syge dann
+                                                  sach, das die christenlich gmeind umb etwas
+                                                  verbannet<note type="editorial"> Mit dem
+                                                  Kirchenbann belegen, Id. IV, 1279.</note> unnd die
+                                                  bůssfertigen von den unbůßfertigen abgesönderet
+                                                  werdind mit unndertheniger pitt, jr, m[in]
+                                                  g[nedig] h[erren], wellind jnne, diewyl er
+                                                  jemanndts<note type="editorial"> niemand, vgl. <hl to="http://fwb-online.de/go/jeman.s.6pro_1646404203"><Hyperlink>http://fwb-online.de/go/jeman.s.6pro_1646404203</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note>
+                                                  beleidige, als anndere unnderthaanen jnn gnaaden
+                                                  bevolchen syn lassen.</p>
+                                                  <p rend="margin-top">[Flucht und Haftbefehl:] Es
+                                                  jst gemellter Michel Roman mit hilf syner brüdern,
+                                                  so die thüren ufgebrochen, <note type="critical">In der Vorlage: «uß» mit
+                                                  Abkürzungszeichen</note> <placeName ref="Zürich, Ketzerturm">kätzerthurn</placeName> komen, doch dem herrn
+                                                  vogt zůgschriben worden, wo er jnn betretten<note type="editorial"> antreffen, Id. XIV, 1486.</note>
+                                                  könne, das er jnn wider gefengklichen alhar
+                                                  schicke. Actum mitwuchs den […]ten<note type="critical">Zahl fehlt, d.h. in der Vorlage
+                                                  ist eine Lücke.</note> novembris anno etc. 81
+                                                  p[raese]nt[ibus] herr b[urgermeister]
+                                                  Kamblj<persName ref="Kambli, Hans">uß dem</persName> unnd beid
+                                                  reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

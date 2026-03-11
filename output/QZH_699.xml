@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_699</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_699</idno>
+          </msIdentifier>
+          <head>Bericht von Johann Jakob Wagner für den Dekan
+                                                  Hartmann Hamberger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 550</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als vor jaren <persName ref="Spöri, Jakob">Jacob Spörj</persName>, hinder Gryffenberg<note type="editorial"> Greifenberg</note> whonhafft,
+                                                  einen schwären rächtshandel under herren vogt
+                                                  Kippenhannen<note type="editorial"> Hans
+                                                  Kippenhan</note> mit sinem vetteren <persName ref="Spöri, Ůli">Ůlj
+                                                  Spörin</persName> seeligen gehept
+                                                  unnd er sich ungebürlich gehalten, das er nach
+                                                  sinem beschulden gethürnt<note type="editorial">
+                                                  ins Gefängnis legen, Id. XIII, 1668.</note> und
+                                                  gebuͤßt worden, hat derselbig uß
+                                                  figendtschafft<note type="editorial">
+                                                  Feindschaft</note> unnd haß gegen sinem vetteren
+                                                  (weil er in der kirch nebend im sitzen muͤssen)
+                                                  anheben im kilchgang lauw werden und sich zů den
+                                                  widertöufferen, die er in der pfarr Wald gewüßt,
+                                                  geschlagen. Unnd als ich deßen verstendiget, hab
+                                                  ich uß schuld und pflicht mines ampts in
+                                                  gegenwirtigkeit des ordenlichen eegoumers<note type="editorial"> Vertreter der Sittenzucht, Id.
+                                                  II, 304.</note> in siner wacht<note type="editorial"> Gemeindeteil, Dorfbezirk, vgl.
+                                                  Id. XV, 369.</note> in offtmals zum christlichen
+                                                  kirchgang und bruch der h[eiligen]
+                                                  sacramenten<note type="critical">Folgt gestrichen:
+                                                  sacramenten</note> vermanet und sines vorhabens
+                                                  abzeston durch villerlej gespräch gebätten.
+                                                  Welliches aber je lenger je eerger worden und doch
+                                                  etlich jar mithin etwan zů monaten (uß forcht
+                                                  zeitlicher bůß und straaff, dan im offtmalen darzů
+                                                  gebotten worden) zur kilchen komen, hieneben aber
+                                                  streng zů sinen töufferen gelouffen, biß in
+                                                  letstlich der schwindelgeist zůvoll beseßen, das
+                                                  er sich allerdings unseren christl[ichen] gmeind
+                                                  und kilchgangs entschlagen<note type="editorial">
+                                                  entäussern, meiden, Grimm 3, 602.</note>.</p>
+                                                  <p> <persName ref="Spöri, Jakob">Jacob Spörj</persName>, dißer tragedj anfenger und
+                                                  actor, hat einen brůder, Herman Spörj, ouch hinder
+                                                  <placeName ref="Greifenberg">Gryffenberg</placeName>,
+                                                  wellicher in den ersten jaren herren vogt
+                                                  Claußers<note type="editorial"> Hans  <persName ref="Clauser, Hans Heinrich">Heinrich
+                                                  Clauser</persName></note> von unser gmeind zů einem eegoumer in
+                                                  siner wacht erwelt worden, wellicher gleich
+                                                  anfangs etwas<note type="critical">Folgt
+                                                  gestrichen: uns</note> unweßen, so by der
+                                                  Thannen<note type="editorial"> Tannen, Hof in der
+                                                  Gemeinde Bäretswil.</note><placeName ref="Bäretswil, Tannen">Gemelter</placeName> nachts von etlichen
+                                                  gsellen fürgangen, mir erklagt, da wir nit können
+                                                  underlassen (das böß abzestellen), sölliches
+                                                  herren vogt Claußern fürzebringen, der one verzug
+                                                  dißere personen beschickt und umb ir mißhandlen
+                                                  gebuͤßt hat. Under dißen ist einer geweßen <persName ref="Spöri, Ůli">Ůlj
+                                                  Spöris</persName> seligen lediger
+                                                  son, hat uff den eegoumer <persName ref="Spöri, Hermann">Herman Spörin</persName> vor herren vogt Claußern
+                                                  klagt, wie er (als er im 4 schilling<note type="critical">In der Vorlage: ß</note> schuldig
+                                                  geweßen) ine, den knaben, uffgewißen<note type="editorial"> zu etwas anstiften, verleiten,
+                                                  Id. XVI, 1939.</note>, sölle diß gelt dem vatter
+                                                  uß dem seckel nemmen und ine darmit bezallen. Und
+                                                  nach dem er vill und lang das gelöugnet,
+                                                  letstlich<note type="critical">«letstlich» über
+                                                  der Zeile, in der Zeile gestrichen:
+                                                  schlechtlich</note> den ernst gesehen, worzů es im
+                                                  kommen wöllen, uff vilfaltige ermanung die warheit
+                                                  bekennet, daruff ouch […]<note type="critical">Wort unlesbar</note> gethürnt und gebuͤßt worden,
+                                                  ouch sines eegoumer ampts entsetzt<note type="editorial"> (aus einem Amt)
+                                                  entfernen</note>. Derselbig hat sich gleich druff
+                                                  deßen sovil zů verdruß angenommen, das er mit
+                                                  sinem brůder Jacoben gleichfals den touffbruͤderen
+                                                  nachgelouffen und angehengt und nach und nach in
+                                                  christl[ichem] glouben und liebe zum kirchgang
+                                                  erkaltet, das er selten mer by uns zur kirchen und
+                                                  hören des göttlichen wortts erschynen. Derowegen
+                                                  ich ine und sinen brůder mengsmals bsonderbar und
+                                                  in bysin der geschwornen und eegoumeren (die mir
+                                                  des kundtschafft<note type="editorial"> Zeugen,
+                                                  Id. III, 353.</note> sind) zur widerkeer<note type="editorial"> Rückkehr, Umkehr</note> angeredt
+                                                  und vermanet. Als die diser irer abtrünnige und
+                                                  sünderung von christl[icher] gmeind nit befuͤgt,
+                                                  deße kein rächtmässige und billiche ursach habind
+                                                  und ob ich gleich jemerdar verhofft, sie in
+                                                  berüwung diß ires abfals letstlich wurdind kommen,
+                                                  sich der | [fol. 1v] töuffery widerumb entschlahen
+                                                  und zur rechten härd widerkeeren, habend sie doch
+                                                  nit underlassen, den widertöufferen in die berg,
+                                                  wo sie ire nächtliche winckel versamlungen gehept,
+                                                  nachzestrychen. Und nach dem sie das schädlich
+                                                  gifft von denselbigen gesogen, ouch in andere
+                                                  einfaltige unberichte<note type="editorial">
+                                                  unerfahren, unkundig, Id. VI, 442.</note> lüth
+                                                  (denen der töufferen meinung gefallen, wie deren
+                                                  noch onzalbar vill sind), die under dißem
+                                                  pretextn<note type="editorial"> Ausrede, Id. V,
+                                                  890.</note> verhofftind, sich von zinß und
+                                                  zächenden und allen burgerlichen beschwärden frey
+                                                  zemachen und zeledigen, inzegießen und
+                                                  zepflantzen.</p>
+                                                  <p>So nun der besserung und  <note type="editorial"> eigensinnig,
+                                                  boshaft, zänkisch, Id. III, 108.</note> und
+                                                  widerspenigen<note type="editorial">
+                                                  widerspenstigen</note> bruͤderen kein hoffnung
+                                                  geweßen und ich vermerckt, was mit der zeit hieruß
+                                                  möchte erwachsen, dan der ­toüf­fergeist in inen
+                                                  nit feyret<note type="editorial"> ruhen, Id. I,
+                                                  922.</note> und rastet, hab ich allen dißen handel
+                                                  so muͤndtlich so schrifftlich nit nun einmal
+                                                  persönlich selber, anderstheils ouch durch die
+                                                  eegoumer herren vogt Claußern als der enden
+                                                  rechten oberhand fürgebracht, in uffgemanet, das
+                                                  er mit sinem ansehen und gwalt dem unradt und übel
+                                                  wölle vorkommen<note type="editorial"> vorbeugen,
+                                                  Id.</note>. Und ob er gleich durch den weibel by
+                                                  hoher bůß zur ghorsamme sie lassen vermannen, ist
+                                                  es doch by inen vergeblich geweßen. Deßhalb herr
+                                                  <persName ref="Clauser, Hans Heinrich">vogt Claußer</persName> bewegt und verursachet worden, den Gerber mit
+                                                  etlichen anderen zeschicken und, <persName ref="Spöri, Hermann">weil
+                                                  Herman</persName> im kyb<note type="editorial"> Zank, Streit, Trotz, Id. III,
+                                                  106.</note> beharret, im ein houpt veech zůr bůß
+                                                  lassen hinweg tryben. Der ander, Jacob<persName ref="Spöri, Jakob">disen
+                                                  kybigen</persName>, hat sich zur ghorsamme
+                                                  erbotten, von deßen wegen im domalen verschonet
+                                                  worden. Zů dißen hat sich ir jüngster brůder <persName ref="Spöri, Peter">Peter
+                                                  Spörj</persName>, uff
+                                                  <placeName ref="Bäretswil, Dunkelwis">Dunckelwyß</placeName>
+                                                  seßhafft, an einem unwägsammen einöden ortt
+                                                  geschlagen, wellicher das sin alles unnützlich
+                                                  verschwempt<note type="editorial"> unnütz
+                                                  durchbringen, Id. IX, 1861f.</note> und hindurch
+                                                  gericht, vorhin in allem lůder gelegen, ist ietz
+                                                  der bößt, dan er in siner herberig in der
+                                                  Tuncklenwyß allem töuffischem anhang underschlouff
+                                                  und herberig gibt, da predigen laßt und das
+                                                  töuffisch unweßen fuͤren. Und diße all drey lassen
+                                                  sich nimmermer abwenden, louffen in der gantzen
+                                                  gmeind, understond, mengklichen uff ir parth<note type="editorial"> Partei, Id. IV, 1617.</note>
+                                                  zebringen. Und hat herr vogt Claußer abermals
+                                                  wenig zeit von sinem abzug (als ich dißer
+                                                  bruͤderen ungehorsamme und widerspenigkeit
+                                                  fürgebracht), Herman<persName ref="Spöri, Hermann">widerkeer by</persName> <persName ref="Spöri, Peter">und Petern</persName> jedem
+                                                  ein houpt veech zur bůß lassen hinweg fuͤren.</p>
+                                                  <p>Als aber wir capitels bruͤder des abgelouffnen
+                                                  monats januarij bey euch, herr dechan, zů
+                                                  <note type="editorial">
+                                                  Dürnten</note><placeName ref="Dürnten">Türnten</placeName> uns
+                                                  besamlet, söllicher unnd anderer sachen uns
+                                                  zeberadtschlagen, hat es sich begeben, das ich
+                                                  nach miner ankunfft von gloubwürdigen lüthen
+                                                  berichtet worden, wie angedüte Spörinen gebruͤder
+                                                  einen argwhönigen touffbrůder by inen
+                                                  uffenthaltind<note type="editorial"> Unterkunft
+                                                  geben, beherbergen, Id. II, 1231.</note>,
+                                                  wellicher sie understande in irer angefengten
+                                                  widerspenigkeit zestercken, ouch in schriben und
+                                                  läßen anzefuͤren, bin ich verursachet worden, mit
+                                                  <persName ref="Hess, Benedikt">Bendict Hessen</persName>,
+                                                  dem eegoumer, dahin zekeeren und dißen handel im
+                                                  grund zuvernemmen. Derowegen anfangs <persName ref="Spöri, Jakob">zů
+                                                  Jacoben</persName> | [fol. 2r]
+                                                  (wellicher bißhar glychsnerischer<note type="editorial"> heuchlerischer</note> wyß als
+                                                  ein ambidexter<note type="editorial">
+                                                  Beidhänder</note> uff beiden achslen getragen und
+                                                  etwan ouch zů uns zur kirchen kommen) gangen, der
+                                                  gemelten töufferischen schůlmeister beherberget,
+                                                  umb angeregten handel fründtlich in ersůcht mit
+                                                  hohem vermannen, er nochmalen von dißer
+                                                  schädlichen sect sölle abston, hab ich erst disen
+                                                  fuchs recht leernen erkennen und sovil befunden,
+                                                  das er des endtlichen fürsatzes, by sinem bößen
+                                                  gefaßten töuffischen whon<note type="editorial">
+                                                  Wahn</note> und fantasy zeverharren, deßhalb ouch
+                                                  aller warnen und straaffen by im (wie by sinen
+                                                  bruͤderen) verloren und umb sonst. Dan als ich uff
+                                                  gegebnen anlaß mit im gůter meinung in ein
+                                                  gespräch ingelassen und ich im vor jaren ein kind
+                                                  uß dem h[eiligen] touff gehaben, anfangs in
+                                                  fründtlicher wolmeinung einen gfatter genennt, ist
+                                                  er gleich hönischer wyß gar ungerymbt<note type="editorial"> uneghobelt, Id. VI, 903.</note>
+                                                  mir begegnet und von mir nit wöllen lyden, in ein
+                                                  gfatter zenennen, heiter und one alles schühen
+                                                  heruß gesagt, er wölte, das er niemals kein kind
+                                                  hette touffen lassen, ouch er selber nit getoufft
+                                                  were, wölt sonst wol können seelig werden. Es sige
+                                                  ouch nützit mit dem h[eiligen] kindertouff, möge
+                                                  ouch nimmermer bybracht und erhalten<note type="editorial"> durch Gründe erweisen, Id. II,
+                                                  1232.</note> werden, das man die kinder touffen
+                                                  sölle. Und ob ich gleich ine hieruff hoch und thür
+                                                  ermannet, er sölle siner ehren schonen, dan es zur
+                                                  schmaach und schmälerung des h. touffs geredt,
+                                                  werde ouch weder von<note type="critical">«von»
+                                                  über der Zeile</note> ime noch sines gleichen
+                                                  lästermüleren von einer frommen oberkeit geduldet
+                                                  werden, daruff des h. touffs halb mich beflissen
+                                                  ine zeberichten, hat er es nit wöllen annemmen,
+                                                  sonder uff siner eigenrichtigen wyß beharret.
+                                                  Darby geredt, wölle daruff stärben, das dem also
+                                                  sige, was er geredt, wölle sich gern uns gfangen
+                                                  geben, nit ein tritt wychen. Mit feerer
+                                                  vermeldung, es sigind uff erden kein frömer und
+                                                  besser lüth, die im lieber, als die
+                                                  töufferbruͤder; wölle ouch sich von inen nimmermer
+                                                  lassen abwenden und werde im niemants verbieten,
+                                                  das er under sinem tach nit dörffe töuffer, juden,
+                                                  türcken oder wer im gefalle zůbeherbergen<note type="critical">In der Vorlage: zůbehergen</note>.
+                                                  Daruff über uns evangelische (die er und
+                                                  sinesgleichen nur pflegt heiden zenennen) ein hohe
+                                                  schwäre klag gfuͤrt, wie ein verrůcht läben under
+                                                  uns gfuͤrt werde, kein laster nit werde abgestelt
+                                                  und man zum tisch des herren lasse hůrer, sauffer
+                                                  (mit urloub<note type="editorial"> Erlaubnis, Id.
+                                                  III, 959.</note>), eebrecher, geythünd<note type="editorial"> Geizhals, Id. II, 1431.</note>
+                                                  etc., das nümermer recht sige, wölle er mit uns
+                                                  nützit mer zethůn haben. Hat also beide unsere
+                                                  h[eiligen] sacrament geschmächt und sich nur
+                                                  lätz<note type="editorial"> falsch,
+                                                  unpassend</note> angelassen<note type="editorial">
+                                                  sich einlassen</note> (als des vermelter eegoumer,
+                                                  der by und mit geweßen, alles gehört, weißt
+                                                  kundtschafft<note type="editorial"> Zeugnis, Id.
+                                                  III, 353.</note> zegeben), one nott alle sine
+                                                  inwürff und ungerymbte hässische thädung<note type="editorial"> Geschwätz, Id. XII, 439.</note>
+                                                  zeverzeichnen.</p>
+                                                  <p>Hab also one verzug herren <persName ref="Clauser, Hans Heinrich">vogt
+                                                  Claußern</persName>
+                                                  diß alles schrifftlich thůn berichten, wellicher
+                                                  zestund <persName ref="Gerber, N. (von Grüningen)">den Gerber</persName> <persName ref="Schmit, N. (von Grüningen)">und
+                                                  Schmid</persName>
+                                                  von Gruͤ<placeName ref="Grüningen">ningen</placeName> alhar
+                                                  geschickt, die ouch andere zů inen genommen, in
+                                                  gesůcht, aber nit funden; hieruff ein roß zum
+                                                  rächten<note type="editorial"> hier i.S. von ‘für
+                                                  das Rechtsverfahren’ oder ‘als Pfand’</note>
+                                                  hinweg gefuͤrt mit dem bescheid, wan er sich könne
+                                                  verantwortten, werde im | [fol. 2v] das roß wider
+                                                  werden, er aber sich niemals erzeigen wöllen. Und
+                                                  weil grad druff hin herr vogt Claußer abzogen und
+                                                  nützit weiters erfolget, ich ouch bißhar den nüwen
+                                                  herren vogt Zur Eich<note type="editorial"> Jakob
+                                                   <persName ref="Zur Eich, Jakob">Zur Eich</persName></note>
+                                                  dißer sach halb nit dörffen anstrengen<note type="critical">Lesung unsicher</note>, weil wir
+                                                  jemerdar uff uns[er] g. herren bescheid uff
+                                                  unser<note type="critical">«unser» über der Zeile,
+                                                  in der Zeile gestrichen: uwer (Lesung
+                                                  unsicher)</note> gethon schriben hin gewartet<note type="critical">Folgt gestrichen: und</note>, sind
+                                                  diße Spörinen all wie ouch andere töuffer des
+                                                  frächer und truziger<note type="editorial">
+                                                  feindselig, frech, überheblich, Id. XIV,
+                                                  1678.</note> worden, vermeinend, es werde sie
+                                                  niemandts mer beunruͤwigen. Sagend offentlich, sie
+                                                  habind den pfaffen und eegoumer geschwigt, und
+                                                  sind ire hüßer täglich voll des töufferischen
+                                                  geschwerms, louffen hin und wider, haben kein růw,
+                                                  giessen das töuffisch gifft allenthalb uß, wie sie
+                                                  dan schon albereit etlich uff ir sydten gebracht,
+                                                  die zů iren predigen strychen. Das alles zů
+                                                  abbruch der predigen des göttlichen wortts,
+                                                  christl[ichen] kirchgangs und rechten gebrauch der
+                                                  h. sacramenten, ouch verfuͤrung viller armen
+                                                  gwüßninen reichen thůt. Darby man sicht, was in
+                                                  söllichen lüthen steckt, wohin dise<note type="critical">Folgt gestrichen: let</note> sach
+                                                  letstlich wurde langen. Darumb man söllichem
+                                                  unradt wol sol by zeiten weeren und evangelische
+                                                  warheit, die h[eiligen] hochwürdigen sacrament
+                                                  wider sölliche lästergeister schirmen.<note type="critical">Folgt unten die Aufschrift:
+                                                  Pfarrers von Berotschwyl bericht</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

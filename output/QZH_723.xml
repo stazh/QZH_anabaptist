@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_723</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_723</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1602-01-11"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 574</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edlen, eerenvesten, frommen, fürsichtigen,
+                                                  eersammen unnd wyßen, e. v. unnd e. w[yßheit]
+                                                  seyen myn unnderthenig unnd geflißen diennst jnn
+                                                  aller schuldigen pflicht unnd gehorsamme ieder
+                                                  zyth zůvor. Herr burgermeister, jnnsonders gnedig,
+                                                  günstig unnd gebiettent herren, als ich unlanng
+                                                  hievor gschäfften halb zů <placeName ref="Rüti">Rüttj</placeName> gweßen, hab ich die herren pfarrer
+                                                  von <placeName ref="Bäretswil">Bärentschwyl</placeName>,
+                                                  <placeName ref="Fischenthal">Vischenthal</placeName> und
+                                                  <placeName ref="Wald">Wald</placeName> sampt dem diacon (die
+                                                  ouch alda zethůn ghept) daselbst angetroffen. Die
+                                                  haben mir anzeigt, wiewol sy eüwer (myner gnedigen
+                                                  herren) jmm truck unnd sonst ußganngen ­toüf­fer
+                                                  mandath<note type="editorial"> Nr. 561.</note> uff
+                                                  den cantzlen verläßen, so habe doch von den
+                                                  ­toüf­fern kein ghorsamme ervolgen wöllen, sonnder
+                                                  farrind jemmerzů jnn jrer halßstarrige unnd
+                                                  kyb<note type="editorial"> Zank, Streit, Id. III,
+                                                  106.</note> hartneckiger wyß für<note type="editorial"> fort</note>, allso das
+                                                  zůbesorgen, die böß schädlich sect (leider) mehr
+                                                  zů- dann abnemmen wurde etc. Unnd ob glych wol
+                                                  daruf jnnen die bestimpt bůß von den weiblen
+                                                  ervorderet worden, habind sy joch<note type="editorial"> doch</note> jnnen darüber gar
+                                                  schlechten bscheid geben, unnd mancherlej
+                                                  spitzlj<note type="editorial"> höhnische
+                                                  Äusserung, Id. X, 687f.</note> gschoßen, ouch
+                                                  unnder annderm gemeldet, jr (myn gnedig herrn)
+                                                  manglind aber<note type="editorial"> Interjektion,
+                                                  Verwunderung oder Missfallen ausdrückend, Id. I,
+                                                  41.</note> gelt. Doch so die jnnen predicanten
+                                                  gebind, wie die heilligen apostel gweßen seyend,
+                                                  als dann wölten sy gern auch zuͦ jren predigen
+                                                  gan. Sonnst werde man sy ganntz unnd gar nit jnn
+                                                  die kilchen bringen, ouch wöllind sy keins wegs
+                                                  nit uß dem lannd. So man fůg unnd recht zů jrem
+                                                  lyb und gůt habe, sölle man es jnnen nemmen. Unnd
+                                                  vil annders mehr derglychen, wie mir dann der
+                                                  pfarrer zů Berentschwyl sidhero jrenthalb
+                                                  zůgschriben unnd jr, myn gnedig herrn, jnn synem
+                                                  schryben<note type="editorial"> Nr. 571.</note>
+                                                  hiebyligende zůvernemmen haben. So denne hab ich
+                                                  den unndervogt alhie jnn das <placeName ref="Fischenthal">Vischenthal</placeName> geschickt, das er luth eüwer
+                                                  (myner gnedigen herrn) bevelch erkunndige, wie
+                                                  <persName ref="Schmid, Heini">Heinj Schmiden</persName> deß
+                                                  ­toüf­fers daselbst sachen beschaffen. Da ist jmm
+                                                  anzeigt worden, wie das er sampt synem eewyb, so
+                                                  ouch ­toüf­ferischer sect, hinweg uß dem lanndt
+                                                  gezogen und keine kinnder habe unnd louffe sich
+                                                  syn hab unnd gůt (wölche ich hievor alles
+                                                  rechtlich verbietten<note type="editorial">
+                                                  beschlagnahmen, sequestrieren, Id. IV,
+                                                  1874.</note> laßen) ungevar jnn die ein tußent
+                                                  guldin an. Ouch seyen syn (Heinj Schmidts) brůdern
+                                                  der meinung, daß söllich gůt jnnen zůvolgen sölle,
+                                                  denn jr vatter sellig geordnet, so einer oder mehr
+                                                  unnder jnnen unghorsamm, daß alsdann desselben
+                                                  theil den anndern brůdern zůdiennen<note type="editorial"> zukommen, zufallen, Id. XIII,
+                                                  190f.</note> sölle etc. Haruf so gelanngt an
+                                                  eüwer, u. und e. w., myn unnder­thennig hochflyßig
+                                                  pitt, die wöllen mich verstenndigen unnd anordnung
+                                                  geben, wie ich mich jnn söllichen sachen fehrners
+                                                  unnd ouch gegen den ­toüf­fern jmm hof
+                                                  <placeName ref="Wald">Wald</placeName> (wyl dieselben
+                                                  mehrtheils wybspersonen unnd jre eemenner sampt
+                                                  den kinnden zum theil gehorsamm unnd die predigen
+                                                  besůchend) verhalten unnd gegen jnnen fürnemmen
+                                                  sölle, da dann demselbigen mit bestem flyß
+                                                  nachkommen werden sol. Eüch, mynen gnedigen herrn,
+                                                  hiemit mich, unns alle aber dem gnedigen gott jnn
+                                                  synen schirmm bevelhende. Dattum den 11. jenner
+                                                  anno 1602.</p>
+                                                  <p rend="margin-top">E.v. und e. w. undertheniger
+                                                  ghorsammer burger und dienner</p>
+                                                  <p>Jacob Zur Eich, vogt der herrschafft
+                                                  <placeName ref="Grüningen">Grüeningen</placeName></p>
+                                                  <p rend="margin-top">Den edlen, eerenvesten,
+                                                  frommen, fürsichtigen, eersammen unnd wyßen herrn
+                                                  burgermeister unnd rath der statt Zürich, mynen
+                                                  gnedigen, günstigen unnd gebiettenden lieben
+                                                  herren</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

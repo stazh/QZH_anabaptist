@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_353</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_353</idno>
+          </msIdentifier>
+          <head>Matthias Schmid an Bürgermeister und Rat
+                                                  von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1575-11-13"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 204</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Edel, stränng, from, vest, fürsichtig, ersam,
+                                                  wyß, jnnsonnders gnedig, günstig jr, min herrenn,
+                                                  min unnderthenig, gehorsam, ganntz geneigt unnd
+                                                  guttwyliger diennst sig eüch, minen gnedigen
+                                                  herren, mit aller unndertheigkeit alzit bereidt.
+                                                  Innsonnders gnedig, günstig jr, min herren,
+                                                  fuͤgenn eüwer eersam wyßheyt myt aller
+                                                  unnderthenigkeidt hiemit zuvernämen: Nachdem jr
+                                                  (min gnedig herrenn) mir zůschrybenn laßen uff
+                                                  denn nünten tag meyen jnn dißem 75. <note type="editorial"> Dieses Schreiben ist nicht
+                                                  überliefert.</note>, wie das <persName ref="Ruman, Peter">Petter Ramen</persName> vonn Schöfflystorff<note type="editorial"> Schöfflisdorf</note><placeName ref="Schöfflisdorf">jar</placeName> sich der thöüfferischen
+                                                  sägkt unnderwundenn unnd dersälbenn thäglichenn
+                                                  nachgangen denn lüthenn jnn die hüßer unnd sonnst
+                                                  jnn annder ort unnd änndt unnd daß folgk vonn dem
+                                                  gemeynen kylchganng füre, das sy etwann zů
+                                                  Weningen<note type="editorial">
+                                                  Oberweningen</note><placeName ref="Oberweningen"/>
+                                                  uß der bredig uß der kylchenn zu denn döüffernn
+                                                  ganngenndt, uff dennsälbenn jch min heymlich
+                                                  späch<note type="editorial"> Nachforschung,
+                                                  Fahndung, Id. X, 76.</note> machen, dennsälbenn
+                                                  eüch (minen gnedigenn herrenn) verwart zu
+                                                  schigkenn. Welichem eüwerm (miner gnedigen
+                                                  herrenn) schrybenn jch<note type="critical">«jch»
+                                                  über der Zeile</note> nachganngenn unnd min
+                                                  späch<note type="editorial"> Fahndung</note> uff
+                                                  ernämptenn Ramen gmacht, dersälbig abermallenn
+                                                  synner döüfferischenn sägkt nachzogenn, dessälbig
+                                                  mir anngezeigt unnd mine bottenn jm nachgschigkt
+                                                  unnd jnn gefanngklichenn annämen laßenn. Dersälbig
+                                                  gar eynn<note type="critical">Folgt: eynn
+                                                  (Wortwiederholung)</note> schädlichenn man unnd
+                                                  das folgk vonn der chrystenlichenn leer unnd vonn
+                                                  dem gotts wort gar abwändig macht. Dersälbig sich
+                                                  gägenn eüch (minen gnedigenn herren) der maßen
+                                                  halt unnd eüch verkleynnert, das jr (min gnedig
+                                                  herrenn) laßendt jm thrugk thestenmendt<note type="editorial"> Bibeldrucke</note> ußgann,
+                                                  diesälbenn sigendt falsch unnd nit gmacht nach dem
+                                                  wort deß herrenn. Zudem sälbenn jst mir annzeygt,
+                                                  das Petter Ramen wie obstatt hin unnd wider louffe
+                                                  synner segkt nach unnd die lüth abwändig mach unnd
+                                                  kurtz verschiner<note type="editorial">
+                                                  vergangener</note> zit jnn Zurtzicher wald<note type="editorial"> Wald bei Zurzach</note> ganngenn
+                                                  unnd abermallen eynn bredig anngsähenn<note type="editorial"> festlegen, festsetzen, Id. VII,
+                                                  555f.</note>. Domallen unnder jnnen eynner, der
+                                                  jrenn fürstennder unnd lerer gsynn, jst jm wald
+                                                  mit todt abganngenn, dennsälbenn sy hin unnd wider
+                                                  threydt jnn der Bader graffschafft<note type="editorial"> Landgrafschaft Baden</note> unnd
+                                                  annderstwo und jnn nienen wellenn begraben laßenn.
+                                                  Letstlichenn mit jme gann <placeName ref="Niederweningen">Niderweningenn</placeName> komen unnd dennsälben
+                                                  daßälpst begrabenn, unnd Petter Ramen das grab
+                                                  gmacht und aber jnn die kylchenn nit wellen. Daß
+                                                  gschir zu dem grab, darmit man es macht, gantz nyt
+                                                  reychen<note type="editorial"> holen, Id. VI,
+                                                  140.</note> wellen, sonnder des sigersten<note type="editorial"> Sigrist, Küster</note> frouw
+                                                  jnnen daßalbig uß der kylchenn thragenn unnd
+                                                  zůstellenn müßenn, das jrenn dheynner<note type="editorial"> keiner</note> jnn die kylchenn
+                                                  wellen, also eüch (min gnedig herren) verkleineret
+                                                  unnd umb eüwer, miner gnedigen herren gepot gar
+                                                  nüt gäbenn wellendt. Söliches schrybenn jch eüch
+                                                  (minen gnedigenn herren), [denen] zůstatt, nach
+                                                  eüwerm gefalenn mit jnnen zů hanndlenn. Datum denn
+                                                  13. tag november anno 75. Jar.</p>
+                                                  <p rend="margin-top">U[wer] w[illiger] dienner</p>
+                                                  <p>Mathias Schmidt, burger der statt
+                                                  <placeName ref="Zürich">Zürich</placeName>, obervogt uff
+                                                  <placeName ref="Regensberg">Rägensperg</placeName></p>
+                                                  <p rend="margin-top">Dem edlenn, stränngen,
+                                                  frommen, vesten, fürsichtigen, ersamen unnd wyßenn
+                                                  herrenn burgermeyster unnd ratht der statt Zürich,
+                                                  minen gnedigenn, gunstigenn, lieben herrenn.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

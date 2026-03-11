@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_689</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_689</idno>
+          </msIdentifier>
+          <head>Schwenckfeldische Kritik</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 540</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>In der offenbahrung Johannis, da von den siben
+                                                  schalen des zorns gots ghandlet wirdt<note type="editorial"> Offb 15-16</note>, das sind die
+                                                  unglerten lehrer und plagen uf erden, aber wan die
+                                                  7 posaunen<note type="editorial"> Vgl. Offb
+                                                  8-9</note> kommend, das sind die glerten von gott
+                                                  […]<note type="critical">Lesung unklar</note>, die
+                                                  nit mit menschen kunst und philosophie, sonders in
+                                                  der schůl Christj glerdt sind. Die geb gott
+                                                  bald.</p>
+                                                  <p rend="margin-top">Das sind die 8 artickel,
+                                                  denen man widerspricht<note type="editorial"> Die
+                                                  nachfolgenden Artikel stammen aus der
+                                                  Konkordienformel von 1577, vgl. Die symbolischen
+                                                  Bücher der evangelisch-lutherischen Kirche:
+                                                  deutsch und lateinisch, hg. von Johann Tobias
+                                                  Müller, 10. Auflage, Gütersloh 1907, S.
+                                                  560f.</note>:</p>
+                                                  <p>Der 1., das alle, die kein rechte erkanntnus
+                                                  des regierenden himelkönigs Christi heigind, die
+                                                  jn nach dem fleisch für ein creatur haltend.</p>
+                                                  <p>Der 2., der dz fleisch Christi durch die
+                                                  erhöhung also alle göttlichen eigenschafften
+                                                  angenommen heige, das er auch als ein mensch an
+                                                  macht, crafft, majestet und herligkeyth dem vatter
+                                                  und dem wortt allmechtigigkeyth<note type="critical">Abschreibfehler, in der
+                                                  Konkordienformel: allenthalben</note> an grad und
+                                                  stell des wäsens glich, das nůmehr einerlej wäsen,
+                                                  eigenschafft, will und<note type="critical">In der
+                                                  Vorlage: ung</note> glori beider naturen in
+                                                  Chr[isto] sin und das das fleisch zum wäsen in h.
+                                                  dryfeltigkeyt ghöre.</p>
+                                                  <p>Im 3. das der kilchendienst, das gepredigt und
+                                                  ghördt wortt nit syge ein mittel, dadurch gott den
+                                                  menschen lehre die seligmachedt erkandtnus
+                                                  Christi, bekerung, bůß, glauben und newe
+                                                  gehorsamme in imme würke.</p>
+                                                  <p>Den 4., das das tauffwasser nit sige ein
+                                                  mittel, dadurch gott der herr die kindtschafft
+                                                  versigle und die widergeburtt würcke.</p>
+                                                  <p>Der 5., das das brott und wyn im heiligen
+                                                  nachdtmahl nit mittel sind, dadurch und darmit
+                                                  Christus sinen lyben und blutt ußtheile.</p>
+                                                  <p>Der 6., das ein rechter christenmensch, der
+                                                  warhafftig durch den geist gottes widergeboren,
+                                                  das gsatz gottes volkommenlich in disem leben
+                                                  halten und erfüllen könne.</p>
+                                                  <p>Der 7., das kein rechte christenliche gmeind
+                                                  sige, da kein rechter offedtlicher usschluß oder
+                                                  kein ordenlicher proceß des bahns<note type="editorial"> Kirchenbann</note> sige.</p>
+                                                  <p>Der 8., das die diener der kilchen ander lütt
+                                                  nit nutzlich lehre, auch rechte wahrhaffte
+                                                  sacr[ament] nüt ußtheilen könne, welcher nit auch
+                                                  für sin person wahrhafft, ernüweret, widergeboren,
+                                                  grecht und frum sige.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

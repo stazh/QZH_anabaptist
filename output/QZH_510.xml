@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_510</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_510</idno>
+          </msIdentifier>
+          <head>Hans Meiss an
+                                                  Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1588-08-22"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 361</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr burgermeister, eedlen fromen, vesten,
+                                                  fürsichtigen, eersamen und wysen, gnedige, hoch
+                                                  eerend jrr min heren. Üwer gnaden schriben<note type="editorial"> Nicht überliefert.</note> deß
+                                                  dathummb den nüntzächend dis monatß hab ich
+                                                  eenpfangen bethreffende die zwen thöuffer, namlich
+                                                  <persName ref="Kleger, Hans">Hanßen Kleger</persName> und
+                                                  <persName ref="Peter, Joseph">Josephen Petter</persName> uß
+                                                  dem <placeName ref="Fischenthal">Fyschenthall</placeName> uß
+                                                  myner amptzverwalltung, weliche biß jn die fünff
+                                                  und zwäntzig personen hinwäg gefuͤrt, darunder nün
+                                                  kinder und eetliche alte personen, mit namen <persName ref="Brändli, Konrad">Kůret
+                                                  Brendli</persName>, <persName ref="Kleger, Uli">Ůly
+                                                  Kleger</persName>, <persName ref="Huser, Brosi">Brosy
+                                                  Hüser</persName> und <persName ref="Furer, Uli">Ůly
+                                                  Furer</persName>. Weliche fier
+                                                  personen ich sy glich uf der steth für<note type="editorial"> vor</note> mich beschickt, sy
+                                                  angesprochen und mitt höchstem eernst befraget,
+                                                  waß ursach sy also hinweg züchend und sich derr
+                                                  thöufferischen sect underwürfig machind oder wer
+                                                  sy also uffgewiglet habe.</p>
+                                                  <p>Eerschlich zeüget Brosy Hüser an, wie eer nün
+                                                  eeliche und zum theil unerzogen kinder hab und
+                                                  sich siner hand arbeitt nitt <note type="editorial"> weiter, Id. I, 967.</note> im
+                                                  Fischenthall one hilf üwerr miner gnedigen herren
+                                                  und biderben<note type="editorial"> ehrenwert, Id.
+                                                  XIII, 1412.</note> lüten sich gewüstt zů eren
+                                                  bhalten, wie woll eer wuchenlich fünff bröttli
+                                                  oder mütschli<note type="editorial"> Brötchen, Id.
+                                                  IV, 599.</note> von Rütty<note type="editorial">
+                                                  Klosteramt in Rüti</note><placeName ref="Rüti">ferer</placeName>
+                                                  habe, und habe hiemitt nach thrachtung<note type="editorial"> Überlegung, Erwägung, Id. XIV,
+                                                  316.</note> geheptt, wie eer dersälbigen sine kind
+                                                  one fernere beschwerd ander lütten hindurch
+                                                  bringen wele. Zů<note type="critical">In der
+                                                  Vorlage: zům («m» mit drei Punkten
+                                                  gelöscht)</note> deme habe eer vor denen
+                                                  zweyen<note type="critical">In der Vorlage:
+                                                  zwyeen</note> obgedachten thöuferen gehörtt, daß
+                                                  im <placeName ref="Mähren">Mercheren</placeName>, so eein
+                                                  threffendlich<note type="editorial"> sehr,
+                                                  überaus, Id. XIV, 395.</note>
+                                                  <note type="critical">In der Vorlage:
+                                                  thrffendlich</note> gůtt land syge, das welicher
+                                                  gern werche, dersälbig mög sich sin wyb und kind
+                                                  woll hindurch bringen, also hab eerr sin
+                                                  armuͤtli<note type="editorial"> kleiner,
+                                                  beweglicher Besitz, Id. I, 457.</note> hußrattli,
+                                                  wie woll eer kein huß nitt hab, ferkoufft und sich
+                                                  hiemitt uf die fartt mitt innen begäben.</p>
+                                                  <p>Kůratt Brändli zeügtt an, das eer ouch ein
+                                                  armer gesell, habe nütt anders dan drü kleiny
+                                                  kind, und eein hüßli darzů geheptt, und hab so
+                                                  fyll gůtz von denen zweien thöufferen und von dem
+                                                  Mercheren land gehörtt sagen und wie ees alleß
+                                                  gemeind<note type="editorial"> gemeinsam,
+                                                  gemeinschaftlich</note> sige, habe eer sich ouch
+                                                  uff die reiß begäben und gehofft, sin sach beser
+                                                  zů machen.</p>
+                                                  <p>Ůly Kägy ist nitt anheimsch<note type="editorial"> anwesend, Id. II, 1286.</note>,
+                                                  jst jn die eernd gezogen, hatt ouch nütt dan fierr
+                                                  kleine kind und soll ouch nun<note type="critical">In der Vorlage: nune («e» mit drei Punkten
+                                                  gelöscht)</note> von armůtt wägen hinwägzogen syn.
+                                                  So dane Ůly Furer belangt, demsälbigen habend sy
+                                                  sich verdinget, biß gen Ullm zefuͤren, da danen
+                                                  hatt eer weder zerug heim gewellen.</p>
+                                                  <p>Sunst ist ferer<note type="critical">Folgt (mit
+                                                  drei Punkten) gelöscht: ferer</note> keiner kein
+                                                  thöuffer, sunder habend die bredigen altzitt
+                                                  besůcht. Sölicheß hab ich üwer eersam wißheitt
+                                                  gantz underthenig zů eeinem bricht uff üwer gnaden
+                                                  begeren zůkumen laßen mitt gantz höchster
+                                                  undertheniger pytt, üwer eersam wyßheitt welle
+                                                  mich wie ouch nach bißharr inn gnedigisten befelch
+                                                  haben und thůn hiermitt diesälbigen dem lieben
+                                                  gott gnedencklich befelchende. Dathum Gruͤnigen,
+                                                  donstag den zwen und zwäntzigisten ougsten diß
+                                                  acht und achtzigisten jarr.</p>
+                                                  <p rend="margin-top">Üwer eersam wysheitt und
+                                                  gnaden gantz undertheniger</p>
+                                                  <p>Hanß Meyß, vogt zů Gruͤnigen</p>
+                                                  <p rend="margin-top">Den eedlen, gestrengen,
+                                                  fromen, fürsichtigen, eersamen und wißen herren
+                                                  burgermeisterr<note type="critical">In der
+                                                  Vorlage: burgen meisterr</note> und rath der statt
+                                                  Zürich, minen gnedigen hoch eerenden heren.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

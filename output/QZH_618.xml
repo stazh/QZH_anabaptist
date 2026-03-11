@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_618</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_618</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Ratsbeschluss unter dem Datum «Mitwuchs, den 14ten
+                                                  augustj p[raese]nt[ibus] herr Großman und beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1594-08-14"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 469</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Myn herren  <persName ref="Wäber, Hans">Hannßen Wäbers</persName> von Duͤ<placeName ref="Dübendorf">bendorff</placeName>, wellicher von der taüfferischen
+                                                  sect wegen jnn <placeName ref="Mähren">Merrhern</placeName>
+                                                  gezogen, gůte für jr ansprach<note type="editorial"> Anspruch, Forderung, Id. X,
+                                                  722.</note> der verwürckung 10 pfund<note type="critical">In der Vorlage: lb</note> zů
+                                                  gmeiner statt handen nemmen unnd das überig, deß
+                                                  noch 300 pfunde jst, synem brůder und schwager
+                                                  Niclaußen Waͤber<persName ref="Wäber, Niklaus">wellent von</persName>
+                                                  von Duͤbendorf und <persName ref="Meyer, Felix">Felix Meyern</persName> von <placeName ref="Uster">Uster</placeName> als nechsten verwandten und erben uß
+                                                  gnaden gevolgen laßen. Doch wyl man noch
+                                                  dhein<note type="editorial"> kein</note> gwüßen
+                                                  bericht hatt, ob Hanß Wäber gstorben sye, söllent
+                                                  genannte beid jrem anerbieten nach trostung<note type="editorial"> Bürgschaft</note> ald<note type="editorial"> oder</note> versicherung geben,
+                                                  das wo er noch jnn läben unnd das von nöten were,
+                                                  man das gůt, so sy empfangen, widerumb zefinden
+                                                  wüße.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Ratsbeschluss unter dem Datum «Mitwuchs, den 14ten
+                                                  augustj p[raese]nt[ibus] herr Großman und beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

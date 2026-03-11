@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_235</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_235</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss
+                                                  Beschluss unter dem Datum «Mentags den 4. aprilis
+                                                  a[nn]o 58 p[raese]nt[ibus] her Muller und beid
+                                                  reth».</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1558-04-04"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 86</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p> <persName ref="Röuchli, Johannes">her vogt</persName>
+                                                  von Wedischwil<note type="editorial"> Johannes
+                                                  Röuchli</note><placeName ref="Wädenswil">Als</placeName> myn
+                                                  herren bericht, wie er einen ­toüf­fer jnn
+                                                  gefengknus und die gerichts lüth begerint, jnen
+                                                  den abzenemen, doch jren frigheiten<note type="editorial"> Freiheiten</note> one schaden,
+                                                  hieruf jst jm diser behendt<note type="editorial">
+                                                  zustellen, Id. II, 1401.</note> worden, das er
+                                                  dies gricht mit früntlichen worten berichten.
+                                                  Diewyl an disem handel vil gelegen, und man mit
+                                                  disen lüthen durch die glerten handlen müße, das
+                                                  sy dann, als vormaln ouch beschehen, den gesagten
+                                                  töüffer mynen herren zuschicken. Welchs jnen
+                                                  onschedlich an jren frigheiten syn solle. Darneben
+                                                  aber solle er, der vogt, angends<note type="editorial"> unverzüglich, Id. II, 19.</note>
+                                                  den puren zu <placeName ref="Wädenswil, Gisenrüti">Gisenrüti</placeName>, so ein rechter
+                                                  redlifürer jst, nachstellen und understan, jnn zu
+                                                  synen handen zebringen, ob er <persName ref="Clotter, N.">den Cloter</persName> jnhin schicke. Und diewyl
+                                                  dieselben sich treffenlich<note type="editorial">
+                                                  in starkem Mass, Id. XIV, 395.</note> da obnen
+                                                  merent, das dann er uff sy acht<note type="critical">Folgt gestrichen: ab</note> haben,
+                                                  und wo die betretten<note type="editorial">
+                                                  antreffen, ergreifen, Id. XIV, 1486.</note>
+                                                  werden, jnnen jnn das Frigampt<note type="editorial"> Freiamt, ein in die Landvogtei
+                                                  Knonau integriertes
+                                                  Herrschaftsgebiet</note><placeName ref="Freiamt"/>
+                                                  auch <placeName ref="Horgen">Horgen</placeName>
+                                                  nachiagen<note type="critical">Folgt gestrichen:
+                                                  sollen</note>. Das soll ouch <persName ref="Meyer, Ludwig">dem vogt</persName> zu Knonow<note type="editorial"> Ludwig
+                                                  (Rosen-)Meyer</note><placeName ref="Knonau"/>
+                                                  zugeschriben werden, item gen Grüningen<note type="editorial"> <persName ref="Breitinger, Rudolf">Rudolf Breitinger</persName>, Landvogt von
+                                                  Grüningen</note><placeName ref="Grüningen"/>,
+                                                  gedenck m. Bertschinger ouch anzuzeigen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p>
+                                                  Beschluss unter dem Datum «Mentags den 4. aprilis
+                                                  a[nn]o 58 p[raese]nt[ibus] her Muller und beid
+                                                  reth».</p>
+    </back>
+  </text>
+</TEI>

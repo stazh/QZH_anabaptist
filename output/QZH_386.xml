@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_386</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_386</idno>
+          </msIdentifier>
+          <head>Instruktion der Zürcher Gesandten Hans
+                                                  Kambli und Junker
+                                                  Hans Keller Die Namen der
+                                                  Gesandten sind in der Abschrift StAZH E I 7.2, Nr.
+                                                  139 genannt.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1579-06-28"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 237</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wie<note type="critical">Folgt gestrichen:
+                                                  das</note> jr hievor nit jnn der uberigen orthen
+                                                  entschlusß bewilliget<note type="editorial"> Vgl.
+                                                  Nr. 229.</note>, jnn dem<note type="critical">«jn
+                                                  dem» am Rand, in der Zeile gestrichen: dieweil der
+                                                  meerteil ordten sich deß entschlosßen, das</note>
+                                                  das welliche sich jnn die ­toüf­ferische<note type="critical">Folgt gestrichen: seckt</note>
+                                                  sect begeben unnd hinweg züchend oder sonst nit
+                                                  widerumb abstand, das dann solliches ein
+                                                  malefitzische sach heißen und jr gůt der oberkeyt
+                                                  heim gefallen syn sölle, diser<note type="critical">«diser» am Rand, in der Zeile
+                                                  gestrichen: habent jr söllicher</note> meynung
+                                                  sind unnser herren, wo sy allein zů herrschen
+                                                  haben, nach<note type="editorial"> noch</note>.
+                                                  Nammlich das sy jnen selbs vorbehallten<note type="critical">Folgt gestrichen: s</note>, gägen
+                                                  sollichen personen<note type="critical">Folgt
+                                                  gestrichen: jederzyt</note> je nach
+                                                  gstaltsame<note type="editorial"> Beschaffenheit,
+                                                  Id. XI, 368.</note> der sachen zehanndlen. Was
+                                                  aber die gmeinen<note type="editorial">
+                                                  gemeinschaftlich regierten</note> herrschafften
+                                                  beruͤrt, kann man<note type="critical">Folgt
+                                                  gestrichen: wider</note> das, so als obstaadt<note type="critical">Folgt gestrichen: das meer</note>
+                                                  mit dem meeren erkhent, nit<note type="critical">Folgt gestrichen: darwider syn</note>
+                                                  weygeren.</p>
+                                                  <p>Sonst wie man sich mit den ­toüf­fern, so<note type="critical">Folgt gestrichen: sich</note> an
+                                                  grentzen und landtmarchen zůsammen kommend, mit
+                                                  dem nachjagen nach jnnhalt deß abscheids<note type="critical">«nach jnnhalt deß abscheids» am
+                                                  Rand mit Verweiszeichen</note> verglichen<note type="editorial"> sich einigen, Id. II,
+                                                  601.</note> hatt, das laßend unnser herren jnen
+                                                  gfallen. Wellicher aber mit synem hab unnd gůt
+                                                  hinweg zezüchen begert, dem wellend sy<note type="critical">Folgt gestrichen: nit da</note>
+                                                  jres teils nit darwider syn, dann das man
+                                                  jnne<note type="critical">Folgt gestrichen:
+                                                  das</note> mit hab und gůt verfaren lasße, doch
+                                                  das sy dannenthin<note type="critical">Folgt
+                                                  gestrichen: nit wider</note> daußen blybint und
+                                                  nit widerumb mit dem jnsitz<note type="editorial">
+                                                  Einzug in die Gemeinde, Niederlassung, Id. VII,
+                                                  1729.</note> angenommen werdint, also unser herren
+                                                  ein gmein manndath<note type="editorial"> Vgl.
+                                                  Nr. 211.</note> jnn jren grichten unnd gebietenn
+                                                  ußgaan laßen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Die Namen der
+                                                  Gesandten sind in der Abschrift StAZH E I 7.2, Nr.
+                                                  139 genannt.</p>
+    </back>
+  </text>
+</TEI>

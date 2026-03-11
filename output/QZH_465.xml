@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_465</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_465</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Gorius Frey und Rudolf Fehr</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1585-03-13"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 316</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Nachdem herr <persName ref="Leemann, Burkhard">Burgckhart Leeman</persName> sampt beiden herren, den
+                                                  verordneten nachgängeren, zů Gorius Frygen von
+                                                  <placeName ref="Knonau">Knonouw</placeName> jnn den
+                                                  <placeName ref="Zürich, Wellenberg">Wellenberg</placeName>
+                                                  volgents zů Rudolff Feeren von Affholteren jnn den
+                                                  spittal keert<note type="editorial"> sich begeben,
+                                                  gehen, Id. III, 435.</note>, sy mit allem flyß
+                                                  unnd ernntst usß der heiligen göttlichen gschrifft
+                                                  nüws unnd alts testaments von der jrrigen,
+                                                  verfuͤrischen, thoufferischen seckt abzestaan
+                                                  vermanet, ouch darüber uff jeden articul<note type="critical">«uff jeden articul» am Rand mit
+                                                  Verweiszeichen</note> jres bescheidts begärt, hat
+                                                  sich erstlichen Gorius Fryg des kilchgangs halber
+                                                  uff die maaß erclert, das er hinfüro die predigen
+                                                  wie ein anderer kilchgnosß besůchen, gott den
+                                                  allmechtigen, das er jnne mit synem gnadrychen
+                                                  sägen inmaaßen benedygen<note type="editorial">
+                                                  segnen, Id. IV, 1288.</note> unnd begaben welle,
+                                                  damit er noch synem himelischen unnd göttlichen
+                                                  willen wanndlen unnd läben möge, anruͤffen unnd
+                                                  pitten.</p>
+                                                  <p>Sodänne sovil die oberkeit antreffen thuͤge,
+                                                  lasse er es by synner vorgegäbnen gägenantwort
+                                                  berůwen. Ob aber ein christ ein oberer syn möge,
+                                                  khönne er nit wüsßen. Sovil dann den eydt
+                                                  belanngt, syge er noch nit bedacht<note type="editorial"> Absicht haben, Id. XIII,
+                                                  676.</note> usß der ursach, einichen eydt
+                                                  zeschweren, diewyl gott, unnser himelischer
+                                                  vatter, heiter unnd clar verbotten, das man ganntz
+                                                  unnd gar nit schweren, sonnder unnßere reden ja
+                                                  unnd nein synn söllind.<note type="editorial">
+                                                  Vgl. Mt 5,33-37.</note> Darby verhoffe er, soveer
+                                                  jm gott gnad verlyche, zuverharren.</p>
+                                                  <p>Unnd diewyl dann der glaub ein schänncke<note type="editorial"> Geschenk</note> unnd fryge gaab
+                                                  gottes unnd gott der herr villichter jnne unnd
+                                                  synnes glychen ouch uff erderich haben welle<note type="editorial"> Vgl. Ps 24,1.</note>, bette er
+                                                  üch, myn gnedig herren, ganntz trungenlichen<note type="editorial"> eindringlich</note> unnd zum
+                                                  aller höchsten, jr wellind jnne der
+                                                  gefanngenschafft entledigen unnd jnne widerumb
+                                                  heim jn synn vatterlannd zů synem wyb ouch kleinen
+                                                  unnd noch unerzognen kinderen lasßenn.</p>
+                                                  <p>Unnd hat dann Rudolff Feer synn antwort uff die
+                                                  maaß volgen lasßen, das er ü[wer] e[rsam]
+                                                  w[ysheit] nit nun jnn dem, das er wie ein anderer
+                                                  kilchgnosß zů hörung göttlichs worts jnn die
+                                                  kilchen gaan, gehorsam synn welle, sonnder ouch jm
+                                                  fal der nott lyb, läben, eer und gůt zu üch, mynen
+                                                  gnedigen herren, setzen. Welle ouch unbeschwerdt
+                                                  synn, disere synn zůsag unnd verheißung mit dem
+                                                  eydt zůbestedtigen unnd zeconfirmieren. Bitt
+                                                  derhalben üch, myn gnedig herren, umb gnad,
+                                                  verzychung unnd entledigung der
+                                                  gefanngenschafft.</p>
+                                                  <p rend="margin-top">[Urteil:] Diewyl sich
+                                                  gemellter Fryg nach <note type="editorial"> vollständig</note> ergeben,
+                                                  wellend myn herren jnne beßer ryf werden lasßen.
+                                                  Hienebend aber sovil Růdolf Feeren belangt unnd
+                                                  antrifft, sidtmalen<note type="editorial"> da,
+                                                  weil, Id. IV, 147.</note> er sich aller gehorsame
+                                                  anerbotten, sölle er dißmalen der banden uff ein
+                                                  gwonlich urfecht ledig syn. Actum sambßtags den
+                                                  13ten mertzen anno 1585 pr[aese]nt[ibu]s herr
+                                                  b[urgermeister] Tomman<persName ref="Thomann, Kaspar">nit allengcklichen</persName> und beid reth.</p>
+                                                  <p rend="margin-top">Uff herren Burgkhardt Leemans
+                                                  vilfaltigs unnd ernstlichs unnderrichten uß
+                                                  heiliger biblischer gschrifft jst gemellter Fryg
+                                                  von der thoüfferischen sect abgfallen. Deßhalb myn
+                                                  g[nädig] herren jnne uff ein gwonlich urfecht nach
+                                                  abrichtung costens der gfangenschafft ledig
+                                                  bkentt<note type="editorial"> urteilen, Id. III,
+                                                  315.</note>. Actum mentags den 15ten mertzen anno
+                                                  1585 pr[aese]nt[ibu]s herr <persName ref="Kambli, Hans">burgermeister
+                                                  Kamblj</persName> unnd beid
+                                                  reth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

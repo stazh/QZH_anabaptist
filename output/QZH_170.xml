@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_170</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_170</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Andreas
+                                                  Schmid (Entwurf)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1538-04-02"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 21</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern frundtlichen, sunders geneygten willen
+                                                  unnd alles gůts zůvor. Frommer, vester,
+                                                  jnnsunders<note type="critical">Folgt gestrichen:
+                                                  lie</note> getrüwer, lieber burger unnd
+                                                  lanndtvogt. Es wirt unnser getruwer lieber burger
+                                                  unnd vogt zů Regensperg <persName ref="Steinbrüchel, Erhard">Erhardt
+                                                  Steynbrüchhel</persName> jnn unnserem nammen zů dir komenn unnd unnsern
+                                                  bevälch der ­toüf­fern halb, so sich alle sampßtag
+                                                  zenacht uff der undermarch ob Schneysingen jm
+                                                  holtz versamlen sollen, anzeygen.<note type="editorial"> Vgl. die vorausgehende Nummer
+                                                  (Schreiben an Erhard Steinbrüchel).</note> Dem
+                                                  wellist jnn allen trüwen nach dinem besten
+                                                  vermögen<note type="critical">«nach dinem besten
+                                                  vermögen» am Rand mit Verweiszeichen</note>
+                                                  beraadten unnd beholffen sin unnd dich mit jm,
+                                                  deßglychnn unnserem burger Cornell Schultheyßn,
+                                                  vogt zu Keyerstůl, underreden unnd eyn anschläg
+                                                  mitteynander machen, damit sy beträtten unnd zů
+                                                  der oberkeyt (darunder sy<note type="critical">Folgt gestrichen: b</note> gefangen werdent)
+                                                  handen fängklich<note type="critical">«fängklich»
+                                                  am Rand mit Verweiszeichen</note> bracht<note type="critical">Wort (bracht) am Rand wiederholt
+                                                  und gestrichen</note>, ouch sollich schädlich rott
+                                                  unnd secte getämpt<note type="editorial">
+                                                  eindämmen</note> unnd nach jrem verschulden lut
+                                                  deßhalb<note type="critical">«deßhalb» am
+                                                  Rand</note> ußgangener mandaten unnd schwären
+                                                  verpotten ­ge­straafft werden mögind. Daran
+                                                  thůstu, unnserer eydt­gnosßen ouch<note type="critical">«unnserer eydt­gnosßnn ouch» am
+                                                  Rand mit Verweiszeichen</note>, unnser
+                                                  ge­fhal­len, umb dich allzyt jnn gneygtem willen
+                                                  zůerkennen. Uß Zurich, zynß­tags nach mittvasten
+                                                  anno etc. 1538.</p>
+                                                  <p rend="margin-top">Burgermeister unnd rhat der
+                                                  statt <placeName ref="Zürich">Zürich</placeName></p>
+                                                  <p rend="margin-top">Dem frommen, vesten, unnserem
+                                                  jnnsunders getrüwen lieben <note type="critical">Folgt gestrichen: v</note>
+                                                  lanndtvogt zů <placeName ref="Baden">Baden</placeName>
+                                                  Andresen Schmid.<persName ref="Schmid, Andreas">burger unnd</persName></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

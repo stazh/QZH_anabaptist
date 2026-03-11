@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_278</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_278</idno>
+          </msIdentifier>
+          <head>Frühjahrssynode</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1566-05-07"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 129</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der dechan imm <placeName ref="Winterthur">Wintherdurer</placeName> capittel h[err] <persName ref="Wirth, Christian">Christan
+                                                  Wirt</persName> zeigt an,
+                                                  […]<note type="critical">Es folgt eine Klage über
+                                                  den Vogt von Andelfingen.</note>. So lige der
+                                                  toͤ<persName ref="Hedinger, Hans">uffer Hedinger</persName>
+                                                  immerdar zů <placeName ref="Wülflingen">Wüllfflingen</placeName> und mache vil unradt, und
+                                                  werr<note type="editorial"> wehre</note> imm
+                                                  niemandts, wie vil es anzeigt.</p>
+                                                  <p>Sol an unser herren langen.</p>
+                                                  <p rend="margin-top">Censura<note type="editorial"> Ediert sind nur Abschnitte, welche Täufer
+                                                  betreffen.</note></p>
+                                                  <p><note type="editorial">
+                                                  Rorbas</note><placeName ref="Rorbas">Rorbis</placeName>: […]
+                                                  schaffner<note type="editorial"> Verwalter der
+                                                  Johanniterkommende in Bubikon.</note> zů
+                                                  <placeName ref="Bubiko">Bubicken</placeName> hat ein senner,
+                                                  so ein großer ­toüf­fer jst, laßt sich jnn mit
+                                                  disputieren, hat jm ouch ein gar gůten knecht
+                                                  verfürt, soll dem herren von Chaam<note type="editorial"> Bernhard <persName ref="Cham, Bernhard von">von Cham</persName></note> anzeigt werden,
+                                                  jnn dannen zethůn<note type="editorial">
+                                                  entfernen, Id. XIII, 434.</note>.</p>
+                                                  <p rend="margin-top"><placeName ref="Winterthur">Winterthur</placeName>: zwen artigkel. Der erst wider
+                                                  den wůcher […]<note type="editorial"> Folgt eine
+                                                  Klage über die Missachtung des Wuchervebots,
+                                                  insbesondere über Preissteigerungen beim Getreide
+                                                  («früchten»).</note> 2.<note type="critical">«2.»
+                                                  am Rand</note> Hedinger<note type="editorial">
+                                                  Hans Hedinger</note><persName ref="Hedinger, Hans"/> der ­toüf­fer sich jemerdar zů
+                                                  <placeName ref="Wülflingen">Wülflingen</placeName>, wo
+                                                  er<note type="critical">Folgt gestrichen:
+                                                  jed</note> jemerdar die lüth vom kilchgang khaan
+                                                  abfüren, underlaßt ers nit.</p>
+                                                  <p rend="margin-top"><placeName ref="Regensberg">Regensperger</placeName> cappittel: <persName ref="Ruman, Peter">Peter Ruma</persName> von <placeName ref="Schöfflisdorf">Schöfflistorff</placeName>, Fridlj Brem
+                                                  <placeName ref="Steinmaur">Steinmur</placeName> und <persName ref="Kuhn, Jakob">Jacob
+                                                  Kůn</persName> jm
+                                                  Pflasterbach<note type="critical">In der Vorlage:
+                                                  Pfasterbach</note><placeName ref="Pflasterbach"/>
+                                                  sind ­toüf­fer. Wiewol dem vogt zů
+                                                  <placeName ref="Regensberg">Regensperg</placeName>
+                                                  [geschrieben worden], sy gfenglichen anzenemen,
+                                                  jst doch das bishar nit erstatt, sonders gand den
+                                                  lüthen an<note type="editorial"> ohne</note> angst
+                                                  umbhin. Begerend, das sy gehorsam gemacht
+                                                  werdint.<note type="critical">Folgt als weiteres
+                                                  Traktandum die Berichterstattung des Stillstandes
+                                                  in Regensberg ans Ehegericht.</note></p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_604</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_604</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Augustin
+                                                  Gasser</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1592-03-08"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 455</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als m[eister] Hanns Ruͦ<persName ref="Wegmann, Hans Rudolf">dolf Wägman</persName> unnd herr lanndtvogt
+                                                  Raan<note type="editorial"> Vielleicht Hans  <persName ref="Rahn, Hans Rudolf">Rudolf
+                                                  Rahn</persName></note>
+                                                  <note type="critical">Folgt gestrichen: mit sampt
+                                                  herrn Felix Truͤben</note> zů Augustyn Gaßer, dem
+                                                  schnyder<note type="critical">«dem schnyder» am
+                                                  Rand mit Verweiszeichen</note> von Niderstamheim,
+                                                  so herr <persName ref="Lavater, Bernhard">vogt Lafater</persName> zů Steinegg fängklich
+                                                  alhar geschickt hatt, uff das rathhuß keert<note type="editorial"> sich begeben, gehen, Id. III,
+                                                  435.</note>, jmme den argwon der ­toüf­feryg
+                                                  ald<note type="editorial"> oder</note> ob er<note type="critical">Folgt gestrichen: mit</note>
+                                                  derselbigen sect<note type="critical">Folgt
+                                                  gestrichen: behaft</note> anhängig unnd was diß
+                                                  lanndts syn fürnämmen<note type="editorial">
+                                                  Vorhaben, Absicht, Id. IV, 746.</note> syge,
+                                                  fürghalten<note type="critical">«fürghalten» über
+                                                  der Zeile</note>, gibt er einfaltig dißeren
+                                                  bscheid: Das er ungfar vor 24 jaren, als er nach
+                                                  jung gsyn<note type="critical">«als er nach jung
+                                                  gsyn» am Rand mit Verweiszeichen</note>, von
+                                                  <placeName ref="Stammheim">Stamheim</placeName> hinwäg unnd
+                                                  synem hanndtwärch nach<note type="critical">«nach»
+                                                  über der Zeile</note> jnn die 6 jar lanng<note type="critical">Folgt gestrichen: nach</note> hin
+                                                  und wider zogen, volgends gen Stäfisburg<note type="editorial"> Steffisburg</note><placeName ref="Steffisburg"/> jnn der herrschafft
+                                                  <placeName ref="Thun">Thun</placeName> gelägen, alda er jetzt
+                                                  jnn die 12 jar hußhablich gseßen, sich begäben
+                                                  unnd vor 12 jaren<note type="critical">Folgt
+                                                  gestrichen: sich</note> vom apt zů S.
+                                                  <placeName ref="St. Gallen">Gallen</placeName> der
+                                                  lybeigenschafft abkoufft unnd ouch sich vor 2
+                                                  jaren mit herren vogt zů <placeName ref="Steinegg-Stammheim (Vogtei)">Stainegg</placeName> umb den abzug
+                                                  verglichen, dem er 17 g[ulden] geben müßen von
+                                                  wägen synes erbtheils, von deßwägen er ouch<note type="critical">«ouch» über der Zeile</note>
+                                                  jetzund zů Stamheim gsyn, etwas<note type="critical">Folgt gestrichen: deßwägen</note>
+                                                  ynzenemmen unnd dheiner<note type="editorial">
+                                                  keiner</note> anndern gstalt nit. Dann ob er glych
+                                                  ein touffbrůder, syge er doch darumb<note type="critical">«darumb» über der Zeile, in der
+                                                  Zeile gestrichen: desselben wägen</note> gar nit
+                                                  gan Stamheim ganngen, das er jemandts ufzwiglen
+                                                  understanden, sonder habe syne gfründte<note type="editorial"> Verwandte, Id. I, 1303.</note>
+                                                  vil meer zum kilchgang weder darvon<note type="critical">Folgt gestrichen: gemanet</note>
+                                                  und, so sy daßelbs etwas gůts hörind, zefolgen
+                                                  gemanet<note type="critical">«gemanet» unter der
+                                                  Zeile</note>. Anders werde sich nit erfinden. Er
+                                                  vermeint aber, wan er synen gfrüntten gält
+                                                  bringen, wie er hollen wellen<note type="critical">Folgt gestrichen: heten</note>, were er nit dahin
+                                                  kommen, da er jetzt syge.<note type="critical">«Er
+                                                  vermeint … syge» am Rand mit
+                                                  Verweiszeichen</note></p>
+                                                  <p>Bittet daruf üch, myn g[nedig] herren, gantz
+                                                  deemütig umb gnad, jnne der gfangenschafft
+                                                  zeledigen, unnd mit synem erbgůt verfaren<note type="editorial"> fortziehn, abreisen, Id. I,
+                                                  898.</note> zelaßen, dann<note type="critical">«dann» über der Zeile, in der Zeile gestrichen:
+                                                  diewyl</note> er<note type="critical">Folgt
+                                                  gestrichen: doch</note> für das<note type="critical">korrigiert, ursprünglich
+                                                  dasselbig</note> hin, wan er söllichs empfacht,
+                                                  anerbietig, üwer myner g[nedigen] herren statt und
+                                                  landtschafft zemyden und ouch sölliches zůvor
+                                                  ufgeben habe.</p>
+                                                  <p rend="margin-top">[Urteil:] Diewyl er vor etwas
+                                                  jaren von Stamheim hinwäg zogen unnd domals syn
+                                                  landtrecht ufgäben, syn erbgůt verabzuget<note type="editorial"> der Wegzugsteuer unterwerfen,
+                                                  Id. XVII, 496.</note>, so doch nach zum theil jnn
+                                                  myner gnedigen herren gebiet ligt, unnd er dheiner
+                                                  anderen gstalt dan sölliches zevorderen gan
+                                                  <placeName ref="Stammheim">Stamheim</placeName> keert, so
+                                                  sölle er der gfangenschafft erlaßen unnd uß myner
+                                                  herren statt unnd landtschafft verwißen werden
+                                                  unnd nachwärts zů fhals<note type="editorial">
+                                                  Anfall eines Erbes, Id. I, 734.</note> zyten an
+                                                  syn statt ein andere person syn erbtheil, so jmme
+                                                  gevolgen sol<note type="critical">«so jme gevolgen
+                                                  sol» am Rand mit Verweiszeichen</note>, zeholen
+                                                  schicken. Den costen, so diß orths uff jnne
+                                                  gangen, söllen syne verwante, so das gůt
+                                                  underhanden<note type="editorial"> im Besitz, Id.
+                                                  II, 1390.</note> habend, bezalen, unnd nachwärts
+                                                  yn synem theil jnnbehalten. Actum mittwuchs den
+                                                  8ten martij anno etc. 92 pr[aesen]t[ibus] herr
+                                                  <persName ref="Thomann, Kaspar">burgermeister Tomman</persName><bm id="191"/> unnd beid
+                                                  räth.</p>
+                                                  </div>
+    </body>
+  </text>
+</TEI>

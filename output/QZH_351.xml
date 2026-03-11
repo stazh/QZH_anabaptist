@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_351</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_351</idno>
+          </msIdentifier>
+          <head>Verhöre und Urteile gegen Stefan
+                                                  Zehnder, Jakob
+                                                  Engel, Melchior
+                                                  Rosenberger
+                                                  und Hans Balthasar Mutzhasen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1575-09-15"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 202</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als myn herren, die verordneten, zu Steffan
+                                                  Zendern, unndervogt zů Äsch, deßglychen Jacoben
+                                                  Engel ouch von Esch, ouch Melchern Rosenbergern
+                                                  von Landttricken unnd Hanns Balthassarn Mutzhasen,
+                                                  burgern alhie, jnn gefangenschafft kert unnd sy
+                                                  der kundschafft<note type="editorial">
+                                                  Bekanntschaft, Id. III, 353.</note> unnd
+                                                  gmeinschafft, so sy zů den beiden frömbden
+                                                  töüffern gehept, erkondiget unnd befraget, hat
+                                                  daruf erstlichen undervogt Zender geantwurtet. Er
+                                                  syge gichtig<note type="editorial"> geständig, Id.
+                                                  II, 110.</note>, das er gedachte töüffern einmal
+                                                  aber nit mer zůgeloset, welliches also zůgangen:
+                                                  Es sigint gedachte töüffer on alles geferd<note type="editorial"> lautes Treiben, Id. I,
+                                                  1039.</note> gen Äsch jnn ein huß, alda niemandts
+                                                  wone, kommen unnd daselbs geprediget. Wie nun er
+                                                  dasselbig vernommen, hette er jnen ouch aber nit
+                                                  der meinung, das jme jr leer gefallen,
+                                                  zůgeloset<note type="editorial"> zuhören</note>,
+                                                  sonder allein das jnn gwunderet, was sy joch<note type="editorial"> auch, Id. III, 6.</note> sagint.
+                                                  Unnd hette er gar nützit<note type="editorial">
+                                                  nichts</note> gehört, das sy weder wider ein
+                                                  oberkeit noch sonst wider unsern gloubenn gar
+                                                  nützit geprediget, sonnder allein die laster
+                                                  gestrafft. Unnd sige er gar nit darby gsyn, als sy
+                                                  zů Altstetten gewesen, hette sich ouch deß gegen
+                                                  jrem predicanten, das jme jrenthalb weder sy
+                                                  fencklichen antzenemmen, noch sonst zůverwysen
+                                                  bevolchen worden, verantwurtet. Diewyl nun er,
+                                                  syns vermeinens, unschuldiger wyß jnn sölliche
+                                                  handlung kommen, ouch gedachten töüffern weder
+                                                  underschlouff, herberg noch platz gegeben und sich
+                                                  jren gar nützit, dann allein das er jnen uff ein
+                                                  mal ettwas zyts zůgloset, angenommen noch
+                                                  beladen<note type="critical">über der Zeile
+                                                  gestrichen: beladen, bitte er üch myn
+                                                  h[erren]</note>, bitte er üch, myn herren, ganntz
+                                                  underthenig umb gnad unnd verzychung, dann
+                                                  söllichs von jme gwüßlichen nit böser meinung
+                                                  beschechen.</p>
+                                                  <p rend="margin-top">[Urteil:]<note type="critical">Am Rand</note> Inn soll man uff
+                                                  ein urphecht ledig laßen.</p>
+                                                  <p rend="margin-top">Demnach hat Jacob Engel von
+                                                  Äsch geantwurtet, das er bekantlich, das er
+                                                  ettliche maal by vermelten töüffern gsyn ouch jrer
+                                                  leer zůgeloset unnd syn hab unnd gůt umb 400
+                                                  g[u]l[den] verkhoufft<note type="critical">Folgt
+                                                  gestrichen: ouch</note>, deßglychen zům theil, mit
+                                                  jnen zetzüchen, bewilliget unnd j[unker] <persName ref="Keller, Hans">Hansen
+                                                  Keller</persName>, als man jme
+                                                  geschworen, nit gehorsame gethon. Er were aber
+                                                  willens gsyn, mencklichen<note type="editorial">
+                                                  jedermann, Grimm 12, Sp. 1592f.</note>, umb das er
+                                                  jme schuldig gsyn eerlichen ußzerichtenn un
+                                                  zůbetzalen unnd vor und ee nützit hinwegzetzüchen.
+                                                  Deßglychen hette er ouch nit uß verachtung sonder
+                                                  uß unmuß<note type="editorial"> Fehlende
+                                                  Zeit/Musse (infolge Arbeitsüberlastung), Id. IV,
+                                                  497.</note>, wie dann vil andere mer gethon, nit
+                                                  geschworen und sich derhalben üch, mynen herren,
+                                                  gar<note type="critical">Folgt gestrichen:
+                                                  nit</note> widerspennig ertzeigt, sige ouch nit,
+                                                  wie man die töüffer gefangen, zů Altstetten gsyn
+                                                  und jme derhalben gar nit zwüssen, das er gredt,
+                                                  er<note type="critical">Folgt gestrichen:
+                                                  frg</note> frage üch, mynen herren, nüt nach, er
+                                                  welle mit jnen züchen, sy habint jnn wol glert
+                                                  etc., sonder alweg deß sinns gsyn, so man üch,
+                                                  mynen herren, übel gredt, das er dasslbig
+                                                  versprochen. Mit pitt, jr myn herren wellind jnne
+                                                  das, das<note type="critical">«das» über der
+                                                  Zeile</note> er jnen gloset, vertzychen, dann er
+                                                  nie nützit ungepürlichs von jnen gehördt, dann
+                                                  allein das sy alleding (allein die wyber
+                                                  ußgenommen) gemein habint.</p>
+                                                  <p rend="margin-top">[Urteil:]<note type="critical">Am Rand</note> Er soll buß geben,
+                                                  umb das er unnderschlouff geben, 10 pfund unnd, so
+                                                  er hinlang zücht, sol er nit mer widerkhomen.</p>
+                                                  <p rend="margin-top">Melcher Rosenberger von
+                                                  Landtricken zeigt an, das er verschiner<note type="editorial"> vergangener</note> zyt syn huß
+                                                  unnd heim <persName ref="Zipperli, Mathys">Mathysen Zipperli</persName>, vor und ee die töüffer
+                                                  kommen, zůkouffen gegeben. Doch könne er nit
+                                                  verlougnen, dann das sy<note type="critical">Folgt
+                                                  gestrichen: jnen</note> ettwas zyts platz und
+                                                  underschlouff jnn synem huß geheptt. Zipperli
+                                                  hette aber jnen denselbigen zůgesagt, wiewol nun
+                                                  er weder huß noch heim mer gehept unnd syn volck
+                                                  jnne vilmalen angelost, das er grad mit den
+                                                  töüffern züchen, hette er doch nie daryn
+                                                  bewilligen wollen, sonder sich deß alwegen
+                                                  gewideret unnd nie nützit uff der töüffery leer
+                                                  gehept, dann sy einmal grad vor dem huß
+                                                  geprediget, da er mer dann ein halbe stund dajnnen
+                                                  beliben, vor und ee er ußhin gangen und jnen
+                                                  zůgloset. Unnd bittet derhalben üch, myn herren,
+                                                  ouch umb gnad unnd erledigung der
+                                                  gefangenschafft.</p>
+                                                  <p rend="margin-top">Unnd fürs letst hat Hanns
+                                                  Balthassar <note type="critical">Folgt
+                                                  gestrichen: da</note>, umb das er die töüffer
+                                                  gewarnet haben sölle, geantwurtet, er bekenne, so
+                                                  er sy, die töüffer, warnen können, das er
+                                                  dasselbig gethon haben welte, damit jr, myn
+                                                  herren, der großen müy und arbeit, ouch
+                                                  costens<note type="critical">Folgt gestrichen:
+                                                  und</note> und unrůw, so jr mit jnen erlitten,
+                                                  überhept<note type="editorial"> bewahren,
+                                                  verschonen, Id. II, 892.</note> beliben weren. Er
+                                                  hette aber sy dheins<note type="editorial">
+                                                  keins</note> wegs nit gewarnet, und so syn frow
+                                                  dasselbig gethon, sige jme darvon gar nützit
+                                                  zewüßen. So mer were verschines sontags <persName ref="Wetzel, Hans">Hans
+                                                  Vetzel</persName> von
+                                                  Wiedicken<note type="editorial"> Wiedikon, bildete
+                                                  eine eigene Obervogtei.</note><placeName ref="Wiedikon">Mutzhaß</placeName> zů jm kommen und jnne gepetten,
+                                                  das er jme ein büchs mit einem fhürschloß lychen,
+                                                  das er jme verheißen unnd vermeint, das er ettwas
+                                                  gwildts damit<note type="critical">Folgt
+                                                  gestrichen: zeschies</note> zeschießen bedacht
+                                                  were, ouch derhalben mit der büchs verschines
+                                                  sontags zů jm und syn frow ettwan wyt mit jm
+                                                  gangen und er jme die büchs gebracht. Als er nun
+                                                  jnn <persName ref="Wetzel, Ruedi">Rüdi Wetzels</persName>
+                                                  huß kommen und derselbig angfangen von der sach
+                                                  sagen, ouch synen sünen gheißen, die
+                                                  beggelhuben<note type="editorial"> Helm,
+                                                  beckenförmige Kopfbedeckung, vgl. <hl to="http://fwb-online.de/go/beckelhaube.s.1f_1709546676"><Hyperlink>http://fwb-online.de/go/beckelhaube.s.1f_1709546676</Hyperlink></hl>
+                                                  (Frühneuhochdeutsches Wörterbuch).</note> fürhin
+                                                  bringen, unnd er verstanden, warumb es zethůnd
+                                                  gewesen, hette er gesagt, deß jme dann Wezel syns
+                                                  verthruwens kundschafft geben<note type="critical">Folgt gestrichen: müßte</note>, das er heim unnd
+                                                  zum thor acht haben müßte, were ouch den nechsten
+                                                  heimbgangen, umb die achte daheim gewesen unnd
+                                                  hette weder durch sich selbs noch syn frowen gar
+                                                  niemands gewarnet. Das er dann verargwonet unnd
+                                                  verlümbdet, das er nu alle zyt gůt sorg zum thor
+                                                  gehept, sonder töüffer unnd ander lüth zu
+                                                  ungwonlichen und jme verpottnen zyten uß und
+                                                  jnglaßen, damit beschehe jm ungütlich, dann er das
+                                                  gar nie gethon, sonder allein j[unker] <persName ref="Schneeberger, Felix">Felixen
+                                                  Schneberger</persName>
+                                                  etwan<note type="critical">«etwan» über der
+                                                  Zeile</note>, wann er jnn der statt znacht geßen,
+                                                  ußgelaßen und sonst mit synem wüssen gar niemands.
+                                                  So er aber hiemit gefelt, bitte er üch, myn
+                                                  herren, ganz trungenlichen<note type="editorial">
+                                                  inständig, nachdrücklich, Id. XIV, 1111.</note>
+                                                  umb gnad und verzychung, so müsse söllichs nit mer
+                                                  bschechen, dann von jme gwüßlichen die warheit
+                                                  angezeiget sige.<note type="critical">Folgt auf
+                                                  der nächsten Seite eine Überschrift des
+                                                  Archivars</note></p>
+                                                  <p rend="margin-top">[Urteile:] Myne herren
+                                                  habennt an jrer gefanngenschafft ein
+                                                  vernuͤgen<note type="editorial"> Genugtuung</note>
+                                                  gehept unnd sy all vier uff ein urphecht nach
+                                                  abrichtung des costenns erlaßen doch mit dem
+                                                  gedinng, das Enngel zwey unnd Roßenberger ein
+                                                  march silbers zebuß geben, umb das sy den frombden
+                                                  töüffer blatz, unnderschlouff unnd herberg geben,
+                                                  unnd das m[eister] Schwytzer mit jnen allen reden,
+                                                  was die nothurfft ervorderet. Actum den 15. d[ies]
+                                                  septembriß anno etc. 74, pr[aesen]t[ibus] herr
+                                                  Kamblj<note type="editorial"> Hans
+                                                  Kambli</note><persName ref="Kambli, Hans"/> unnd
+                                                  beid reth.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Landikon</p>
+      <p> Gemeint ist die Stadt
+                                                  Zürich.</p>
+    </back>
+  </text>
+</TEI>

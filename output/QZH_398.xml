@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Zürcher Geschichte</title>
+        <respStmt>
+          <persName>Christian Scheidegger, Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_398</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>QZH_398</idno>
+          </msIdentifier>
+          <head>Fridolin Hässi an Heinrich
+                                                  Thomann und
+                                                  Gerold Escher Gerold Escher
+                                                  vom Luchs (1538-1596)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung, Heft (9 Blätter)</filiation>
+              <filiation type="original">
+                <origDate when="1581-01-16"/>
+              </filiation>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material>Papier</material>
+                </support>
+                <extent></extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin></origin>
+            <additional>
+              <listBibl>
+                <head>Edition</head>
+                <bibl>
+                  <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 249</bibl>
+                </bibl>
+              </listBibl>
+            </additional>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>
+          <ref target="https://www.ssrq-sds-fds.ch/wiki/Transkriptionsrichtlinien"/>
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false"/>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min frünndlich, ganntz guͤtwillig dienntst mit
+                                                  erpiettung aller eren unnd guts zuvor, edle,
+                                                  erenveste, fürneme unnd wyse, sonnders erende,
+                                                  günstige, liebe herren unnd frünnd. Uff nechster
+                                                  allhie  <placeName ref="Baden">Badenn</placeName>
+                                                  gepflogner<note type="critical">In der Vorlage:
+                                                  gepfleger</note> underred wegenn der hingelouffnen
+                                                  töüffern hab unnd guts hab ich biß hiehar
+                                                  obligender miner gnädigenn herren gschäfften
+                                                  halben üch deheinenn<note type="editorial">
+                                                  keinen</note> tag<note type="editorial">
+                                                  Gerichtstag, Id. XII, 797.</note> (wiewoll jch
+                                                  sölliches langerß zethun, so müglich gwesen,
+                                                  vorhabens) nit bestimen konnen. Unnd damit aber
+                                                  die sachenn zu ußfuerlicher enndtschafft gebracht,
+                                                  will jch üch, minen günstigen herren,
+                                                  fürderlichen<note type="editorial"> alsbald, ohne
+                                                  Verzug, Id. I, 1000.</note> einen tag gen
+                                                  Diettigkhonn<note type="editorial">
+                                                  Dietikon</note><placeName ref="Dietikon">zu</placeName>
+                                                  bestimen und ansetzen. Sodann üch derselbig
+                                                  annemlich, mögenn ir mich des berichten, wellent
+                                                  wir beidersydts (geliebts gott) erschinen unnd
+                                                  unns aller sachenn, wie jch mich versich,
+                                                  frünndtlich vereinen<note type="editorial"> sich
+                                                  verständigen, Id. I, 276.</note>. Das wollt jch
+                                                  üch frünndtlich berichten, thun mich darunder
+                                                  aller willigenn dientstenn anerpieten, gott hiemit
+                                                  bevelchend. Datum den 16ten jenner anno etc.
+                                                  1581.</p>
+                                                  <p rend="margin-top">U[wer] williger</p>
+                                                  <p>Fridli Hässi, ritter, des raths zu Glarus unnd
+                                                  der zyt landtvogt zu <placeName ref="Baden">Badenn</placeName> jnn Ergöw</p>
+                                                  <p rend="margin-top">Den edlen, erenvesten,
+                                                  fürnemen und wysen herren Heinrich Tomman,
+                                                  seckellmeister unnd des raths, unnd herrn Gerold
+                                                  Escher, stattschryber der statt <placeName ref="Zürich">Zürich</placeName>, minen erenden günstigen herren
+                                                  unnd guten fründen.</p>
+                                                  </div>
+    </body>
+    <back>
+      <p> Gerold Escher
+                                                  vom Luchs (1538-1596)</p>
+    </back>
+  </text>
+</TEI>
