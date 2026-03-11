@@ -4,7 +4,9 @@
 """
 Segmentiert eine lange XML mit <div type="document"> in viele TEI-Dateien.
 
-Verbesserungen in dieser Version (v6):
+Verbesserungen in dieser Version (v6 mit Diakritika-Fix):
+- FIX: Sonderzeichen und kombinierende Diakritika (z.B. uͦ, eͣ in "Ruͦdolff", "Beͣchi") 
+  zerschneiden die Wörter nicht mehr, sondern werden korrekt in den Namen integriert.
 - FIX: Wenn <persName/> direkt nach einer <note> steht, schaut das Skript nun ZUERST 
   in die Note. Ist der Name dort, wandert der Tag IN die Note.
 - FIX: <placeName> nutzt nun dieselbe intelligente Backtracking-Logik wie <persName>.
@@ -161,7 +163,10 @@ def extract_first_text(el) -> Optional[str]:
     return "".join(el.itertext()).strip()
 
 def fix_inline_persnames(p_el: etree._Element):
-    WORD = r'[^\W\d_]+(?:-[^\W\d_]+)?'
+    # Erweiterung um kombinierende diakritische Zeichen (Unicode Block U+0300 - U+036F)
+    # So werden "Ruͦdolff" (mit U+0366) oder "Beͣchi" (mit U+0363) nicht mehr in zwei Wörter geschnitten.
+    LETTER = r'(?:[^\W\d_]|[\u0300-\u036f])'
+    WORD = rf'{LETTER}+(?:-{LETTER}+)?'
     NAME_FLEX_RE = re.compile(rf'(?:({WORD})(\s+))?({WORD})(\s*)$', flags=re.UNICODE)
 
     def analyze_container_text(text: str) -> Optional[Tuple[str, int, str]]:
@@ -256,7 +261,10 @@ def fix_inline_persnames(p_el: etree._Element):
 
 
 def fix_inline_placenames(p_el: etree._Element) -> None:
-    WORD_RE = re.compile(r'([^\W\d_]+(?:-[^\W\d_]+)?)(\s*)$', flags=re.UNICODE)
+    # Auch hier: Diakritika als reguläre Namensbestandteile zulassen
+    LETTER = r'(?:[^\W\d_]|[\u0300-\u036f])'
+    WORD = rf'{LETTER}+(?:-{LETTER}+)?'
+    WORD_RE = re.compile(rf'({WORD})(\s*)$', flags=re.UNICODE)
 
     def analyze_container_text_place(text: str) -> Optional[Tuple[str, int, str]]:
         if not text: return None
