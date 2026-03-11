@@ -4,18 +4,17 @@
 """
 Segmentiert eine lange XML mit <div type="document"> in viele TEI-Dateien.
 
-Verbesserungen in dieser Version:
-- Standard-Präfix auf "QZH" gesetzt (Dateinamen: QZH_XXX.xml).
-- <head type="Originalsprache"> wird im Body mit exportiert.
-- Korrekte Übernahme von <pb/> auch wenn sie Geschwister von <p> sind.
-- Robustes Handling von Mixed Content in editoriale Notizen.
-- Korrekte Einbindung der Processing Instruction (Stylesheet).
+Verbesserungen in dieser Version (v5):
+- FIX: ECHTE VERSCHIEBUNG. Wenn ein Name vor einer <note> gefunden wird, 
+  wird der <persName>-Tag physisch vor die Note verschoben.
+  (Vorher blieb der Tag hinter der Note und zog den Text mit sich).
+- FIX: Stopword-Logik und Backtracking (aus v3/v4 übernommen).
 """
 
 from pathlib import Path
 import re
 import argparse
-from typing import Optional
+from typing import Optional, Tuple
 from copy import deepcopy
 from lxml import etree
 
@@ -37,8 +36,18 @@ MONTHS = {
     "dezember": "12", "december": "12", "dez": "12", "dec": "12",
 }
 
+# Wörter, die signalisieren, dass das Wort davor KEIN Teil des Namens ist.
+STOPWORDS = {
+    "und", "oder", "aber", "sondern", "denn", "doch",
+    "vnnd", "oder", "aber", # Historisch
+    "der", "die", "das", "dem", "den", "des", "ein", "eine", "einer", "eines",
+    "von", "zu", "in", "im", "am", "auf", "bei", "mit", "nach", "für", "über",
+    "dass", "da", "weil", "wenn", "als", "wie",
+    "herr", "frau", "meister", "meyster", "doktor", "doctor" 
+}
+
 def to_iso_date(date_str: str) -> Optional[str]:
-    """Erwartet z.B. '1542 Oktober 25'. Liefert '1542-10-25' oder None."""
+    """Erwartet z.B. '1542 Oktober 25'."""
     if not date_str:
         return None
     s_norm = re.sub(r"\s+", " ", date_str.strip())
@@ -64,7 +73,6 @@ def to_iso_date(date_str: str) -> Optional[str]:
     return None
 
 def clean_vorlage(text: str) -> str:
-    """Bereinigt Vorlage-Texte."""
     if not text:
         return ""
     t = text.strip()
@@ -87,7 +95,6 @@ def build_header(head_text: Optional[str],
                  ms_idno: Optional[str],
                  iso_date: Optional[str],
                  qgts_nr: Optional[str] = None) -> etree._Element:
-    """Baut den TEI-Header."""
     teiHeader = tei_el("teiHeader")
     fileDesc = tei_sub(teiHeader, "fileDesc")
     titleStmt = tei_sub(fileDesc, "titleStmt")
@@ -129,7 +136,10 @@ def build_header(head_text: Optional[str],
         tei_sub(listBibl, "head", "Edition")
         bibl_outer = tei_sub(listBibl, "bibl")
         bibl_inner = tei_sub(bibl_outer, "bibl")
-        ref_el = tei_sub(bibl_inner, "ref", "QGTS", **{"target": "https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"})
+        ref_el = tei_sub(
+            bibl_inner, "ref", "QGTS",
+            **{"target": "https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"}
+        )
         if ref_el is not None:
             ref_el.tail = f", Bd. 5, Nr. {qgts_nr}"
 
@@ -148,42 +158,115 @@ def extract_first_text(el) -> Optional[str]:
     return "".join(el.itertext()).strip()
 
 def fix_inline_persnames(p_el: etree._Element):
+    """
+    Sucht vor <persName/> nach Wörtern.
+    Strategie:
+    1. Container suchen (Note überspringen).
+    2. Wenn gefunden: 
+       - Neuen <persName> Tag erstellen.
+       - Diesen Tag AN DER STELLE des Textes einfügen (also vor die Note!).
+       - Alten Tag löschen.
+    """
     WORD = r'[^\W\d_]+(?:-[^\W\d_]+)?'
-    NAME_RE = re.compile(rf'({WORD})(\s+)({WORD})(\s*)$', flags=re.UNICODE)
+    NAME_FLEX_RE = re.compile(rf'(?:({WORD})(\s+))?({WORD})(\s*)$', flags=re.UNICODE)
 
-    def extract_last_two_words_preserve_space(container, use_tail: bool) -> Optional[str]:
-        txt = (container.tail if use_tail else container.text) or ''
-        m = NAME_RE.search(txt)
-        if not m:
-            return None
-        g1, ws_between, g2, ws_after = m.groups()
-        name_text = f"{g1}{ws_between}{g2}"
-        new_txt = txt[: m.start(1)] + ws_after 
-        if use_tail:
-            container.tail = new_txt
+    # Hilfsfunktion, die jetzt Analyse-Daten zurückgibt statt nur Text
+    def analyze_container_text(text: str) -> Optional[Tuple[str, int, str]]:
+        if not text: return None
+        m = NAME_FLEX_RE.search(text)
+        if not m: return None
+        
+        w1, ws1, w2, ws_end = m.groups()
+        take_two = False
+        if w1 and w1.lower() not in STOPWORDS:
+            take_two = True
+        
+        if take_two:
+            name_text = f"{w1}{ws1}{w2}"
+            cut_pos = m.start(0)
         else:
-            container.text = new_txt
-        return name_text
+            if w2.lower() in STOPWORDS: return None
+            name_text = w2
+            cut_pos = m.start(3)
+            
+        return (name_text, cut_pos, ws_end)
 
-    for pers in p_el.xpath('.//*[local-name()="persName"]'):
+    # Durch alle leeren persNames iterieren
+    # Wir machen eine Liste, da wir den Tree verändern werden
+    for pers in list(p_el.xpath('.//*[local-name()="persName"]')):
         if pers.text and pers.text.strip():
             continue
+        
         parent = pers.getparent()
-        if parent is None:
-            continue
-        children = list(parent)
-        try:
-            pos = children.index(pers)
-        except ValueError:
-            pos = -1
-        prev = children[pos - 1] if pos > 0 else None
-        name_text = extract_last_two_words_preserve_space(prev, True) if prev is not None else None
-        if not name_text:
-            name_text = extract_last_two_words_preserve_space(parent, False)
-        if name_text:
-            pers.text = name_text
+        if parent is None: continue
+        
+        # --- Container Suche ---
+        container = None
+        use_tail = False
+        curr = pers.getprevious()
+        
+        while True:
+            if curr is None:
+                container = parent
+                use_tail = False
+                break
+            
+            # Hat das Element Text im Tail?
+            if curr.tail and curr.tail.strip():
+                container = curr
+                use_tail = True
+                break
+            
+            # Überspringen
+            tag_local = etree.QName(curr).localname
+            if tag_local in ['note', 'pb', 'lb', 'cb', 'gap']:
+                curr = curr.getprevious()
+                continue
+            
+            # Sonstiges Element: nehmen wir dessen Tail
+            container = curr
+            use_tail = True
+            break
+            
+        # Wenn wir nichts gefunden haben
+        if container is None: continue
+
+        # --- Analyse ---
+        text_to_check = container.tail if use_tail else container.text
+        result = analyze_container_text(text_to_check)
+        
+        if result:
+            name_text, cut_pos, ws_end = result
+            
+            # --- DOM OPERATION: MOVE AND REPLACE ---
+            
+            # 1. Neuen Tag erstellen (Kopie der Attribute)
+            new_pers = deepcopy(pers)
+            new_pers.text = name_text
+            # Der Whitespace, der NACH dem Namen kam, wird zum Tail des neuen Tags
+            new_pers.tail = ws_end 
+            
+            # 2. Text im Container abschneiden
+            remaining_text = text_to_check[:cut_pos]
+            
+            if use_tail:
+                container.tail = remaining_text
+                # Einfügen: NACH dem Container
+                parent_of_container = container.getparent()
+                # Index finden
+                idx = parent_of_container.index(container)
+                parent_of_container.insert(idx + 1, new_pers)
+            else:
+                container.text = remaining_text
+                # Einfügen: Als ERSTES Kind des Containers (der Parent ist)
+                container.insert(0, new_pers)
+                
+            # 3. Alten Tag löschen
+            parent.remove(pers)
 
 def fix_inline_placenames(p_el: etree._Element) -> None:
+    # Hier lassen wir die einfache Logik, da Ortsnamen selten von Notes getrennt sind.
+    # Falls doch, müsste man die Logik von oben spiegeln.
     WORD_RE = re.compile(r'([^\W\d_]+(?:-[^\W\d_]+)?)(\s*)$', flags=re.UNICODE)
 
     def extract_last_word_preserve_space(container, use_tail: bool) -> Optional[str]:
@@ -201,8 +284,7 @@ def fix_inline_placenames(p_el: etree._Element) -> None:
 
     for pn in list(p_el.xpath('.//*[local-name()="placeName" and not(normalize-space())]')):
         parent = pn.getparent()
-        if parent is None:
-            continue
+        if parent is None: continue
         prev = pn.getprevious()
         token = extract_last_word_preserve_space(prev, True) if prev is not None else None
         if not token:
@@ -267,7 +349,6 @@ def process(input_xml: Path, outdir: Path, prefix: str = "QZH"):
         elif original_el:
             ms_idno = clean_vorlage(extract_first_text(original_el[0]) or "")
 
-        # --- FIX: Inkludiert nun <head type="Originalsprache"> ---
         content_xpath = './/*[(local-name()="p" or local-name()="pb" or (local-name()="head" and @type="Originalsprache")) and not(ancestor::*[local-name()="p"])]'
         content_nodes = d.xpath(content_xpath)
 
