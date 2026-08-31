@@ -106,11 +106,11 @@ def build_header(head_text: Optional[str],
     tei_sub(titleStmt, "title", "Quellen zur Zürcher Geschichte")
     
     respStmt1 = tei_sub(titleStmt, "respStmt")
-    tei_sub(respStmt1, "persName", "Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler")
+    tei_sub(respStmt1, "persName", "Urs B. Leu. Unter Mitarbeit von Daniela Dettwiler")
     tei_sub(respStmt1, "resp", None, **{"key": "transcript"})
     
     respStmt2 = tei_sub(titleStmt, "respStmt")
-    tei_sub(respStmt2, "persName", "Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler")
+    tei_sub(respStmt2, "persName", "Urs B. Leu. Unter Mitarbeit von Daniela Dettwiler")
     tei_sub(respStmt2, "resp", None, **{"key": "tagging"})
 
     publicationStmt = tei_sub(fileDesc, "publicationStmt")
@@ -372,7 +372,7 @@ def process(input_xml: Path, outdir: Path, prefix: str = "QZH"):
     tree = etree.parse(str(input_xml), parser)
     divs = tree.xpath('//*[local-name()="div" and @type="document"]')
 
-    for idx, d in enumerate(divs, start=115):
+    for idx, d in enumerate(divs, start=821):
         head_el = d.xpath('.//*[local-name()="head"]')
         if head_el:
             head_copy = deepcopy(head_el[0])
