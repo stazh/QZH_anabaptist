@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_226</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354863">StAZH B II 126, S. 6 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend den Täufer Andres Gut in der Landvogtei Knonau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1564-01-24"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1564-01-24"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 112</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Gut, Andres">Andreß Gůt</persName> von <placeName ref="LOC_47.26217_8.41262">Lůnneren</placeName>, der ­toüf­fer, hatt sich erbotten, jnn den nechsten viertzehen tagen zů besinnen, ob er sich myner herren satzungen gehorsam erzeigen und zekilchen gan welle. Wo nit, sige er urbietig<note type="editorial"> bereit, Id. IV. 1881.</note>, angentz<note type="editorial"> unverzüglich, Id. II, 19.</note> uß myner herren gricht und gebieten zezühen und sy ungesumpt zelasßen; thette ers nitt, sölle man jnn gfengklich annemen. Uff disers erbieten soll der vogt zů Knonouw acht haben, das dem statt bescheche, wie jm solliches zůgeschriben jst.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Actum mentags, 24ten jänners p[raese]nt[ibus] herr Müller unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

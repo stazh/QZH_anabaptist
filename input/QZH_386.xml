@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_386</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354898">StAZH B II 198, S. 17 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Umgang mit den Besitztümern zweier Täufer in Jonen und Arni</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1582-03-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1582-03-12"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 272</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p> J[unker] <persName ref="GND_1074070550">Felix Engelhart</persName> soll gwalt haben, mit der zweygen ­toüf­feren von <placeName ref="LOC_47.29968_8.40219">Jonnen</placeName> und <placeName ref="LOC_47.23613_8.61814">Arne</placeName> gfründten<note type="editorial"> Verwandte</note> jres gůts halber abzekommen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mentags, den 12ten marcij p[raese]nt[ibus] herr Bräm und beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

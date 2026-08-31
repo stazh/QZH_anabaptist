@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_297</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4646200">StAZH A 27.16.8, Nr. 14</idno>
+          </msIdentifier>
+          <head>Kundschaft über Hans Früber</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1573-07-23">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1573-07-23">ca.</origDate>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 183</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Ingenomne kundtschafft uber einen lanndtfarer, so sich Johannis uß dem Etschland<placeName ref="Südtirol"/><note type="editorial"> Südtirol</note> nempt</head> <p><persName ref="Andares d.Ä., Hans">Hanns Andaress</persName> der alt von <placeName ref="LOC_47.28854_8.65275">Toggwyl</placeName><note type="editorial"> Toggwil, Weiler in der Gemeinde Meilen</note> seit<note type="editorial"> sagt</note>, das jetz gemelter lanndtfarer umb nechstverschinen nüwen jars abent zum ersten mal zu jm khommen, jnne umb herberig angesprochen, ouch sovil schwatzen und reden khonnen, das er jnne uß erbermbd dryg tag lanng jnn synem huß gehept unnd demnach geheißen widerumb wanndlen. Glych dannach kheme er wider unnd begerte, das er jnne jemerdar<note type="critical">Lesung unsicher</note> haben welte. Das er aber jme abgeschlagen unnd jme alwegen, wann er zu jm khomen, nit lennger dan vier ald<note type="editorial"> oder</note> fünff tag platz unnd underschlouff geben unnd jnne darvor nit uß dem huß bringen khonnen. Inn selbiger zyth tribe er gegen jnne ouch syner frowen, zweygen tochtern unnd einen son vil seltzamer wunderlicher reden, als namlich das er von gott ußgesanndt und der Noe<note type="editorial"> Noah</note> syge. Deßglychen das sy nit recht gloubind, noch das vatter unnßer unnd den glouben recht batten khonind, dann wellicher jme jm batten nachvolge, der keme jnn himel. Giennge<note type="editorial"> Lesung unsicher</note> demnach abents unnd morgens für das huß ußhin, fiennge daselbs an schrygen wie ein wild thier unnd wenn sy jnn dann fragtind, was er damit meinte, spreche er, das die welt verdampt were und das er acht mentschen suche und so lang schrygen welle, biß das ers finnden khöne, unnd hette syn frouwen, deßglychen syne zwej meitlj und ein jungern knaben, wie sy jme angetzeigt, ouch ungehorsam und uß dem lannd füren wellen. Dann er jnen fürgeben<note type="editorial"> fälschlich angeben, vorgeben, weis machen, Id. II, 90.</note>, so sy nit mit jme wanndlen, das sy niemer mer zu gnaden noch jnn den himel khomen werdint. Wie nun er solliches gehort, hette er jnne uff den hüttigen morgen gefengklich angenommen unnd uch, myn herren, solliches brichten wellen.</p>
+<p><persName ref="Tolder, Blasi">Blaßj Tolder</persName> von Toggwyl seit, das er allein von horsagen gehort, das der landtfarer solle geredt haben, das unnßere predicanten uns nit ein rechten glouben noch das vatter unß[er] und den glouben recht baten leerind. Deßglychen das er bin muren und zünen offt und dick<note type="editorial"> immer wieder</note> ein wild weßen mit einem jamerlichen geschreig gefürt unnd vorgemel[ter] Andareß <persName ref="Andares, Berbel">tochter Berbel</persName> beredt haben solle, das sy uff gestrigen zinnstag mit jm uß dem land züchen wellen, dann er sy jme umb sovil günstig unnd anhenngig gemacht, das sy jme allwegen zu essen gebracht und uff gestrigen<note type="critical">korrigiert, ursprünglich: hüttig</note> morgens jnn ein wildj ouch zu jm ganngen und zu essen gebracht, das sy jne gefengklich angenommen mit pitt, jr (myn herren) wellind jnen dißen landtfarer abnemmen.</p>
+<p><persName ref="Andares d.J., Hans">Hanns Andaress</persName> der jung von Toggwyl seit, ds vil gedachter landtfarer die zyth unnd wyl er zu Toggwyl gweßen, vil uff die muren gestanden unnd alwegen ein grewen luth geschreyg gefürt und jnen antzeigt, das er acht mentschen suche und so er die habe, welle er lugen, wellicher den rechten glouben habe. Und<note type="critical">Folgt gestrichen: uff</note> verschinens zinstags morgens hette Berbel Andareß jme jnn einem tobel zu morgen gebracht und sy jne hieruf gefenglich angenomen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Es gibt keinen Hinweis auf die konfessionelle Zugehörigkeit von Hans Früber.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

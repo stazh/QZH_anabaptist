@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_590</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355264">StAZH E I 7.3, Nr. 74;  Abschrift des 17. Jh.: ZBZ, Ms A 72, S. 440</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Heinrich Rüzensdorfer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (2 Doppelblätter)</filiation>
+              <filiation type="original"><origDate when="1595-05-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1595-05-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 476</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Antreffend Heinrichen Rützenstorfer, der sich unnder jnen setzten wolte</p>
+<pb n="8" facs="E_I_7_3__Nr__74__S__8_.tif"/>
+<p rend="margin-top">Dem Rützenstorffer soll uß bevelch myner herren anzeigt werden, das er sambt synem wyb wie anndere christenlüth auch jnn die kilchen zur predig gangind. Wo sy das<note type="critical">Folgt gestrichen: nit</note> thůnd, jst mynen herren nit zwider, dann das sy der enden<note type="editorial"> Ort, Id. I, 314.</note> belyben und hußen mögind. Woveer<note type="editorial"> wenn, Id. I, 914.</note> sy aber dz nit thůn welten, söllent sy gfengklich alher gefuͤrt unnd wyter nach gebür mit jnen gehandlet werden. Actum den 26ten maij anno etc. 95, p[raese]nt[ibus] herr burgermeister Keller<note type="editorial"> <persName ref="GND_143657062">Hans Keller</persName> <bm id="207"/></note> unnd beid reth.</p>
+<pb n="3" facs="E_I_7_3__Nr__75__S__3_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

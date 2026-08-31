@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_254</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355033">StAZH B IV 26, fol. 56r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Joachim Huser</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1566-10-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1566-10-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 140</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern fründtlichen geneigten willen und alles gůts zůvor. Frommer, wyßer, jnnsonnders lieber, getrüwer, wir verständ, das du diser zyt verwalter der herrschafft <placeName ref="LOC_47.51036_8.68333">Wülflingen</placeName> sygist. Unnd wiewol unns nitt zwyflet, du deß endts, gůte zucht handthaben<note type="critical"><q>handthaben</q> am Rand mit Verweiszeichen</note> und dheine unbrüch, es syge jnn der religion ald<note type="editorial"> oder</note> anderen schädlichen dingen, jnryßen lassen werdist, so kompt uns doch für, das das volck jnn gedachter herrschafft der ein teyl gar ­toüf­ferisch worden, der ander dem wůcher ergeben und der dritteyl das syn gar verthůt und sich zů armůt richtet. Wann nun sölliche laster under dem volck überhand nemmend, weißt du (als ein verstendiger) selbs zůermäsßen, was<note type="critical">Folgt gestrichen: letstlich</note> mitler zyt und letstlich für gfarn, unrůwen<note type="critical">Folgt gestrichen: und</note>, ungehorsame und anders daruß ervolget<note type="critical">korrigiert, ursprünglich: volget</note>. Dem vorzůsyn wellist disen mänglen und lastern nachfrag haben und die, so darmitt behafft sind, mit straff und jnn ander weg dermasßen abschaffen, wie wir dir sonders wol vertruwen und dich als einen liebhaber der erbarkeit und ufrechter dingen und sachen syn woll wüßent und erkhennend, wo dann wir dir ouch der gůten eeren witfrouwen und jren kinden jnn abstellung aberzelter lasteren und sonst<note type="editorial"> <q>und sonst</q> am Rand</note> rädtig und hilflich syn könnend, deß sind wir, was sich gebürt, geneigt. Datum mitwuchs den 30ten octobris anno d[omini] lxvj.</p>
+<p rend="margin-top">Burgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
+<p rend="margin-top">Dem frrommen, wyßen, unserm jnsonders lieben, getrüwen Jeachim Huseren, schultheiß zů <placeName ref="LOC_47.49675_8.73417">Winterthur</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

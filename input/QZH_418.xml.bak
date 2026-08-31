@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_418</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355069">StAZH B IV 44, S. 73</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von Bülach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1584-09-19"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1584-09-19"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 304</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeister und rath der statt Zürich, unnßeren grůß zůvor. Ersamen, lieben gethrüwen, uff hüt dato jst vor unns erschinnen der unnßer Hanns <persName ref="Hinn, Hans Konrad">Cůnrath Hinn</persName> von Büllach unnd hatt unns eroffnet unnd angezeigt: Nachdem jmme verschinner<note type="editorial"> vergangener</note> zyth<note type="critical"><q>verschinner zyth</q> am Rand mit Verweiszeichen</note> einer syner verwandten usß dem land <placeName ref="LOC_49.5_17">Meerheren</placeName> zůgeschriben, das er sampt wyb unnd kind zů jme abhin züchen söllte, dann sie sich alda mit wenig gůt erhallten unnd ußbringen mögen. Hieruf er dahin zekeeren unnderstanden, da aber jnne unnderwägen söllichs gruwen, syge er widerumbhin uff Büllach zů als synem heimant<note type="editorial"> Zur Form vgl. Id. II, 1284.</note> unnd vatterland gangen. Da nun jr one unnßer bewilligung jnne<note type="critical"><q>jnne</q> über der Zeile</note> nit annemmen wellen, bethe er unns gantz underthenig, wir wellend so gnedig syn unnd vergünstigen, das<note type="critical">Folgt gestrichen: nit</note> jr jnne widerumb by üch wie von allterhar wonnen lasßind. Wann nun wir gemellten Hinnen synes begerens gehördt<note type="critical"><q>gehördt</q> über der Zeile</note> unnd daruß anderst nit verstanden, dann das jnne die armůt darzů getriben, so jst unnßer will unnd meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> an üch, dz jr<note type="critical"><q>dz jr</q> über der Zeile, in der Zeile gestrichen: jr wellind</note> jnne (diewyl er üch zůvor umb den gebürlichen abzug abgefergget<note type="editorial"> entlassen, ziehen lassen, Id. I, 1008.</note> unnd nit mit der thoüfferischen sect behafftet) widerumb uf- und annemmen söllind. Hienäbend aber uff jnne spech unnd khondtschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> hallten, wie er syn wyb unnd kind fürhin jm<note type="critical">Folgt gestrichen: ar</note> läben thůn unnd lasßen erzeigen, unnd so sy sich deß kilchgangs unnd der predig üsßertind unnd<note type="critical">Folgt gestrichen: nit</note> sonndertind, alßdann jr unns dasßelbig verstendigen, damit wir unns gegen jnen ferner gebürlich zůerhallten wüßind, stadt unns umb üch jedertzyt jnn gnaden zůerkennen. Datum sambßtags den<note type="critical">Folgt gestrichen: 19. s</note> xviiijten herbstmonats anno etc. lxxxiiij.</p>
+<p rend="margin-top">Den ersamen, unnßeren lieben unnd gethrüwen schultheiß<note type="critical">Folgt gestrichen: burgermeister</note> unnd rath zů Büllach.</p>
+</div>
+    </body>
+  </text>
+</TEI>

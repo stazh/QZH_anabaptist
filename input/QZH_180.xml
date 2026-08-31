@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_180</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355021">StAZH B IV 19, fol. 100v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Heinrich Spross</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1554-04-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1554-04-12"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 66</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willenn unnd alles gůts zůvor. Frommer, wyser, besonnders gethrüwer, lieber burger unnd lanndtvogt, wir werdennt von unnserm lieben mitrath unnd vogt jm <placeName ref="LOC_47.502561593977106_8.499244491889575">Nüwenampt</placeName> <persName ref="Bachofen, Beat">Beathen Bachoffen</persName> verstenndiget, das Ůlj<note type="critical">Folgt gestrichen: Zimberman von</note> <persName ref="Zimmermann, Ůli">Zimberman</persName> von <placeName ref="LOC_47.55831_8.40474">Nidervisibach</placeName><note type="editorial"> Fisibach</note> diner amptsverwaltung ein rechter redlefürer unnd prediger der jrrigen sect der thoüffery sin unnd unns die unnsern daselbs umb threffenlich<note type="editorial"> in starkem Mass, Id. XIV, 395.</note> damit verfüren unnd ungehorsam machen sölle, welliches unns, wie du wol zu gedenncken hast, ein grosse beschwerd, unnd harjnne ein insechen zethůnd<note type="editorial"> insechen zethůnd: einschreiten, Id. VII, 562f.</note> von<note type="critical">Folgt gestrichen: erst (Lesung unsicher)</note> nöten jst. Deßhalben haben wir dir söllichs nit wellen verhalten<note type="editorial"> vorenthalten, unterschlagen</note>, damit du uff jnne, den Zimermann, din<note type="critical">Folgt gestrichen: spech</note> spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> machen unnd [je] nachdem du die sachen findst<note type="critical">Folgt gestrichen: de</note>, daruf nach der<note type="critical"><q>der</q> über der Zeile</note> gepür unnd dinem guten beduncken ze schicken wüssest. Dich damit dem allmechtigen jnn sinen schirm thrüwlich bevelchende. Datum donnstags den xij. aprillis anno etc. liiij.</p>
+<p rend="margin-top">Burgermeyster unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zurich</placeName>.</p>
+<p rend="margin-top">Dem frommen, wysen, unnserm besonnders gethrüwen, lieben burger unnd lanndtvogt zu <placeName ref="LOC_47.46513_8.28964">Baden</placeName> jnn Ergöw Hanns Heinrich Sprosß.<persName ref="Spross, Hans Heinrich"/></p>
+</div>
+    </body>
+  </text>
+</TEI>

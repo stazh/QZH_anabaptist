@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_383</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696649">StAZH E I 7.2, Nr. 159</idno>
+          </msIdentifier>
+          <head>Werner Schodoler an Jungans Thumysen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-12-24"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-12-24"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 269</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__159__S__1_.tif"/>
+<head type="Originalsprache">Hernach volget<note type="critical">In der Vorlage: volgelt</note> der armen frouwen Elsa Gugerlin von Jonen verlassen gůtte</head> <p>Item ein matten genannt die Lamatten<note type="editorial"> Laamatt, Letten und Bäretschachen sind die auch heute noch gebräuchlichen Flurbezeichnungen in der Gemeinde <placeName ref="LOC_47.29968_8.40219">Jonen</placeName> im Kelleramt.</note>, ist anderhalb manwerch groß, stost an <persName ref="Haas, Stoffel">Stoffel Hasen</persName> weydlj und an <persName ref="Schärer, Jakob">Jacob Schärers</persName> matten, jst erkoufft worden umb 82½ müntz g[ulden]. Daran hatt das arm wyb gwärt 60 g., das überig sol si zalen also. Item uff martinj deß 82. jars 20 g. unnd die überigen 2½ g. ze jar umb uff martinj deß 83. jars on zinß.</p>
+        <p>Item drey jucharten ackers. Die ein heißt der Lätten unnd jst gesäyet mit korn jnn der zellg gegen <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName>, stost an Stoffel Hasen und an <persName ref="Hartmann, Hans">Hanßen Harttmans</persName> acher. Die annder jucharten lyt jnn der Ouw und jst gesäyet mit roggen, stost ouch an Stoffel Hasen unnd an <persName ref="Guggerli, Kleinhans">Clinhansen Gugerlis</persName> acher. Die dritt jucharten lyt jm Bäredtschachen gegen <placeName ref="LOC_47.3125_8.39765">Lungkoffen</placeName><note type="editorial"> Lunkhofen, im Kelleramt</note> und jst nit gesäyet, zwüschent Clinhanß Gugerlis acheren jnnen. Kostendt all drey jucharten 95 müntz g. Die sindt zallt biß an 7 g. und soltz zallt haben uff martinj nechstverschinnen 81. jars.</p>
+<p>Volgent jetz louffende schullden, die der armen frouwen ufrecht schulldig sind und gellten söllent. <pb n="2" facs="E_I_7_2__Nr__159__S__2_.tif"/> Item <persName ref="Guggerli, Hans">Hans Gugerli</persName> von Jonen, jr brůder, sol<note type="editorial"> ist schuldig, Id. VII, 771.</note> jren 10 müntz g. und sind verfallen uff meyen nechstverschinnen 81. jars. Er sagt aber, si habs jm geschännckt. Item <persName ref="Meyer, Wolfgang">Wolffganng Meyer</persName> zů Jonen sol by eigen und erb 70 müntz g., zalltz also uff martinj deß 82. jars<note type="critical">Gestrichen: 81. jars</note> 50 g. unnd uff martinj deß 83. jars 20 g. on zinß. Item der <persName ref="Schnyder, Bernhard">Bernhart Schnyder</persName> zů Jonen sol 13 müntz g. unnd zalltz mitsampt dem zinß uff martinj 82. jars. Item <persName ref="Müller, Ůli">Ůli Müller</persName> zů <placeName ref="LOC_47.29968_8.40219">Jonen</placeName> sol gelichen gellt 40 müntz g., sol die jerlichen verzinssen und uff faßnacht deß 83. jars wider ablösen. Doch zeygt Ůlj Müller an, die arm frow hab jm sölliche 40 g. uff faßnacht diß 81. jars nit allenklich<note type="editorial"> vollständig, Id. I, 170.</note> geben, sonder plybe jm noch daby schuldig haruß zelegen 15 g.</p>
+<p>Volget der armen frouwen hußrath: 2 eerni häffen, 3 pfannen, 3 kessi<note type="editorial"> Kessel</note>, ouch ettlich höltzin schüsßlen und däller, jst wenig wärt. Item me ein ufgerüste bettstatt und ettliche küsse, jst ungefar 10 müntz g. wärt. Item ein wybermantel, ein gruͤnen underrock, 2 gruͤn juppen, 1 blawe jüppen, 2 schürlatz<note type="editorial"> Kleidungsstück, Id. VIII, 1264.</note>, 2 allt kästen und sunst schlächten züg, unnodt zeschryben.</p>
+<pb n="3" facs="E_I_7_2__Nr__159__S__3_.tif"/>
+<p>Volget jetz, was das arm wyb dargegen ouch schuldig jst unnd gellten<note type="editorial"> schuldige Leistung verrichten, Grimm 5, 3067f.</note> sol. Item jr eeman hatt by gůten thrüwen gsagt, er habe jren fürgesetzt usß sinem eignen gůtt, so er mit dyenen und jnn ander wege überkomen habe, wie nachstad. Item jm ersten rechtzhandel, wie der ufgehept worden und si den <persName ref="Gůman, Christian">Cristan Gůman</persName> so übel geschlagen, da sige an wirtt und schärer<note type="editorial"> Barbier und Wundarzt, Id. VIII, 1129.</note> daruff gelouffen 17 müntz g. Item jm rechtzhandel gan Zürich mit dem gricht costen und sunst daruf gelouffen usgeben und er am vech und schynen mit übel zyten uferzogen, diewyl er mit jr huß gehallten, 9 müntz g. Darzů zeigt er, der man, an, es sige noch ein ků verhanden, die sige ouch sin, dann er die mit dyenen by dem vogt Gůman und <persName ref="Huber, Heinrich">Heinrich Hůber</persName> erdyenet habe, vor und ee er mit jren husgehallten habe. Wyter hoüscht der schärer zů Jonen 5 pfund<note type="critical">In der Vorlage: lib[rum]</note>, der wirtt zu Jonen noch 1 gůten g. Item<note type="critical">Lesung unsicher</note> jst man schulldig zegeben 3 müntz g., hatt si von färthen, das man jren usrichten sölle, verheissen und mans nit necher verdingen köne. Sodann hoüscht jr brůder <persName ref="Guggerli, Jakob">Jacob Gugerlj</persName> und jr vogt Heinrich Hůber, was sich das an erbarer rechnung erfinden mag etc.</p>
+<p>Sollichs hab jch üch, minem eerenden lieben herren, uff üwer beger nit bergen<note type="editorial"> verbergen, verhehlen, Id. II, 1571.</note> wellen und bin jederzyt üch gehorsame dienst zůerzeigen gantz geneygt unnd urpütig<note type="editorial"> bereit, Id. IV, 1881.</note>, damitt gott dem herren bevolen. Datum sontags am cristabit diß usgenden 1581. jars.</p>
+<p rend="margin-top">U[wer] g[uotwilliger] d[iener]</p>
+<p>Stattschriber Schodoler zů Bremgartten</p>
+<pb n="4" facs="E_I_7_2__Nr__159__S__4_.tif"/>
+<p rend="margin-top">Ann herren obervogten Thumysen zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>, minen eerliebenden und günstig herren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

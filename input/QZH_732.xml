@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_732</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355310">StAZH E II 1a, S. 993; StAZH E I 2.3, Nr. 7</idno>
+          </msIdentifier>
+          <head>Klagen über die Aktivitäten der Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1604-05-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1604-05-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 618</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Considerationes:</p>
+<p>Es was by nach ein gmeine klag der teufferen halber, hindergangind eerlicher lüten kinder, machind große unordnungen im kilchgang etc.</p>
+        <p rend="margin-top">[Bericht an den Rat]<note type="editorial">Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3736973">StAZH E I 2.3, Nr. 7</ref></bibl>. Hier wiedergegeben ist nur der die Täufer betreffende Abschnitt. Die Überschrift lautet: Uß dem synodo, so gehalten worden zinstags den 8ten maij anno 1604, jst für myn gnedig herren, ein ehrsammen rath, gewißen.</note>:</p>
+<p>Die herren predicanten deß capitels am Zürichsee habent fürgebracht, wie am <placeName ref="LOC_47.21667_8.6">Hirtzel</placeName> und der enden vil volcks mit der toüferischen sect befleckt. Da vast jnn die zechen hußgsind mitt jren kinden nit zkilchen gangind. Unnd wiewol vernd<note type="editorial"> letztes Jahr</note> bevolchen worden, sölliche unghorsammen lüth zefachen unnd ghorsam zemachen, unnd man jnen ein tag zwen nachgangen unnd sy gsůcht, so syge doch nüt ußgerichtet, unnd die sach also wider erseßen. Dardurch die ­toüf­fer je lenger je halßstarrer worden unnd werdint by jrem byspil andere underthanen auch dest unghorsammer. Der Rützistorfer<note type="editorial"> <persName ref="Rützisdorfer, Heinrich">Heinrich Rützensdorfer</persName></note> schweiffe der enden<note type="editorial"> Gegenden</note> umbhin. Item so syge einer am Horgerberg, <persName ref="GND_130035173">Hans Landiß</persName> jm Formoß<note type="editorial"> <placeName ref="LOC_47.22783_8.6056">Forenmoos</placeName></note> genant, der sich deß predigens underwinde und ein zůlauff habe.</p>
+<p>Glyche klag der ­toüf­feren halber habent auch dz <placeName ref="LOC_47.47812_8.42878">Regensperger</placeName> capitel und das jm <placeName ref="LOC_47.2820935_8.3312904">Fryenampt</placeName><note type="critical">Folgt gestrichen: fürgebrac unnd wi</note>, jtem <placeName ref="LOC_47.32434_8.80465">Wetzikommer</placeName> unnd <placeName ref="LOC_47.49675_8.73417">Winterthurer</placeName> capitel fürgebracht, das namlich die ­toüf­fery jmmerdar mehr zů- dann abnemme. Innsonderheit so sygind die ufwigler abermaln jm land verhanden, welliche fryg offentlich ohn schüchen unnd ohn einiche hinderung hin unnd wider<note type="critical">Folgt gestrichen: wandlint</note> durch die grafschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> über den <placeName ref="LOC_47.54039_8.60676">Irchel</placeName> unnd anndere herrschafften jren gang und frygen paß<note type="critical"><q>jren gang und frygen paß</q> am Rand mit Verweiszeichen</note> habint, die lüt ufwiglind und hinweg fürind. Unnd mit nammen so habint sy vil wandels gen Niderglat unnd daselbs jm wirtshuß platz und underschlouff unangesehen, das es der wirtinen underseit worden, sy nit also jnzůzüchen<note type="editorial"> aufnehmen, beherbergen, bewirten, Id. XVII, 1002.</note>. So werde auch gredt, das jnn 8 tagen den nechsten umb Niderglat ein zesammenkhunfft und predig von den Merrherischen ­toüf­feren gehalten werden sölle. Unnd diewyl nun die hohe nothurfft erforderet, das hierjnnen ein ernstlichs jnsehens<note type="editorial"> Vorkehrung, Id. VII, 563.</note> bescheche, sonderlichen diewyl glych znechst umb die statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName> sich ouch ­toüf­fer enthaltend<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note> unnd, wie man sagt, jnn der statt schwenckfelder verhanden syn söllint, so laßt ein ersamer synodus sölliche handlung und klag jnn gmein an<note type="critical"><q>an</q> über der Zeile, in der Zeile gestrichen: für</note> myn gnedig herren langen. Mit bitt, sy wellind  mit erntst zun sachen thůn, damit söllichem freffnen<note type="editorial"> dreist, unverschämt, Id. I, 1286.</note> bößen volck mit widerstandt begegnet unnd dem unrath, so daruß ervolgen wurde, wann man jnen also zůsehen unnd sy nach jrem willen fürfaren und machen laßen sölte, mitt mehrerem erntst dann bißhar beschechen fürkhommen unnd gewehrt werde.</p>
+</div>
+    </body>
+  </text>
+</TEI>

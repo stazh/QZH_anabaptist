@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_237</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695085">StAZH E I 7.2, Nr. 114</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Binder</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1565-05-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1565-05-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 123</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_2__Nr__114__S__4_.tif"/>
+<head type="Originalsprache">Schrybens copyg an vogt zů Regensperg, Peter Rumen<persName ref="Ruman, Peter"/> den ­toüf­fer von Schöfflistorff, gemelts Michels vatter, betreffende. Actum den 30ten meygen anno etc. 65.<note type="critical">Aufschrift auf der Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__114__S__1_.tif"/>
+<p>Unsern günstigen, geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonnders gethrüwer, lieber burger unnd vogt, nachdem du unns diser tagen Peter Rumen von <placeName ref="LOC_47.50369_8.41911">Schöfflistorff</placeName>, so mit der ­toüf­ferischen sect behafft, gefenngklichen h[ast] zůgeschickt, hatt er<note type="critical">Folgt gestrichen: sich</note> uff anhallten unnserer verordneten, miner h[erren], angezeigt: Sover er<note type="critical">Folgt eine Wortstreichung</note> uff synem fürnemen der ­toüf­feryg beharret, wolle er angentz<note type="editorial"> sofort, Id. II, 19.</note> <note type="critical">Folgt gestrichen: hin</note> sich uß unnsere gricht unnd gebieten hinweg machen oder aber sich unnserer religion unnd christenlichen gebrüchen glychformig hallten unnd erzeigen etc. Daruf wir jnn der gefengknuß uff ein urfeht erlaßen.<note type="critical"><q>Daruf wir … erlaßen</q> am Rand mit Verweiszeichen.</note> Derhalb jst unnser bevelch an dich, du wellist uff genanten Rumen dyn spech unnd kuntschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> syners halltens halb<note type="critical"><q>syners halltens halb</q> am Rand mit Verweiszeichen.</note> machen. Unnd sover er<note type="critical">Folgt gestrichen: sich</note> jnn acht tagen den nechsten sich nit jnn die kilchen zegaan erzeigen wurde<note type="critical">Folgt gestrichen: als dann jm so uss diner amptsverwalltung ouch ganntz</note>, als dann du verschaff[ist], das er<note type="critical">Folgt gestrichen: sich</note> angentz<note type="editorial"> sofort, Id. II, 19.</note> uß unnsern gricht und gebiten luth syner verheißung, als obstad, hin wegzit<note type="critical"><q>hin wegzit</q> über der Zeile, in der Zeile gestrichen: machet</note> und anderschwo syner gelegenheit nach versehe<note type="editorial"> fürsorgen, versorgen, Id. VII, 568.</note>. Hienebent soltu ouch ufsehen haben, das er nüzit von syner kinden gůt etc., welliches wir jnen vergangner jaren heimlekhend<note type="critical">Lesung unsicher</note>, verkouffe ald<note type="editorial"> oder</note> mit jm hinwegzüche, sonders jnen dasselbig alles unverhindert synen eigenthum bilich belybe.<note type="critical">Folgt gestrichen: unnd</note> Damit aber<note type="critical">Folgt gestrichen: die underthonen sölliche diner amptsverwesung</note> ein jeder<note type="critical"><q>ein jeder</q> am Rand eingefügt</note> sich vor dem beherbergen<note type="critical">In der Vorlage: beh’ b’gen</note> sollicher jrrigen unnd falschen seelen zuvergoumen<note type="editorial"> verhüten, Id. 2, 302.</note> wüßind, wellent wir, das du <pb n="2" facs="E_I_7_2__Nr__114__S__2_.tif"/> mengklichen<note type="editorial"> jedermann, Grimm 12, Sp. 1592f.</note> der unnßeren jnn dyner amptswalltung, bj der vor jaren bestimpten bůß sich desse abzůthund unnd zů müßigen<note type="critical">Folgt gestrichen: v</note>, hochlich vermanist inn bethrachtung, was selenschedicken und verderbnuß<note type="critical">Folgt gestrichen: unns unnd den unnsern</note> von sollichen ­toüf­ferischen unnd verfürischen lüthen<note type="critical">Folgt gestrichen: v</note> begegnen unnd widerfaren möge. Deß wolten wir dich, damit du hierjnne u[nser] gebür unnd unnserm gůt verthruwen nach zehandlen wüßist, unbericht nit laßen.<note type="critical">Folgt gestrichen: Dann</note> Dann dir jeder zyt lieb unnd dienst zebwysen werend wir gůtwillig. Datum sambstag den 30. d. maij anno etc. 65.</p>
+<p rend="margin-top">B[urgermeister] u[nd] r[ath] d[er] St[adt] <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
+<p rend="margin-top">Dem frommen, wysen, unnserem besonders gethrüwen, lieben burger unnd vogt zů <placeName ref="LOC_47.47812_8.42878">Regennsperg</placeName> <persName ref="Binder, Heinrich">Heinrichen Binder</persName></p>
+<pb n="3" facs="E_I_7_2__Nr__114__S__3_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

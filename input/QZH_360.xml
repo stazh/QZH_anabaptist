@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_360</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696628">StAZH E I 7.2, Nr. 144</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Adam Muntwyler von Spreitenbach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1579-09-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1579-09-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 246</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Adam Muntwyler von Spreitenbach deß widerthoüffers antwort<note type="critical">Die Überschrift befindet sich vor dem Urteil auf der Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__144__S__1_.tif"/>
+<p>Adam Muntwyler von Spreitenbach<note type="editorial"> Spreitenbach gehörte zur eidgenössisch regierten Landgrafschaft Baden.</note> hatt uff gethonnen fürhalt<note type="editorial"> Vorhaltung, Vorwurf, vgl. Id. II, 1235.</note>, jnn was fürsatz er sich uß dem Merhern <placeName ref="LOC_49.5_17">land</placeName> widerumb jnn disere landtsart<note type="editorial"> Gegend, Id. I, 475.</note> gelasßen, den bscheid geben, das er von synem vatter <persName ref="Muntwyler, Felx">Felixen Muntwyler</persName>, mitt dem er vergangner zyt jnn vermellt<note type="editorial"> erwähntes</note> land abhin getzogen, dem guten nachzekommen, jetztdann widerumb ufgeschickt syge, jr hab und gůt, so sy noch hie oben gehebt,<note type="critical">Folgt gestrichen: zeh</note> zereichen<note type="editorial"> holen, Id. VI, 140.</note> und mitt jm hinab zetzüchen. Diewyl aber dasselbig von dem landvogt zů Baden zů synen handen genommen und jnen entzogen syge, muͤße er das beschechen laßen und ohne dasselbig wol widerumb hinab züchen. Diß syge die ursach syner ankunfft, und habe er sontst nie niemmanden ufzeweiblen<note type="editorial"> anwerben, Id. XV, 135f.</note> ald<note type="editorial"> oder</note> zeverfuͤren understanden. Adam Muntwyler hatt uff fürhallten den bscheid geben, das er kheinen eydt schweeren noch auch sontst anloben khönne, uß üwer miner herren biet<note type="editorial"> Gebiet</note> zetzüchen und nit wider darjn zekommen.</p>
+<p>Als mine herren die nachgenger zů Adammen Muntwylern jnn gfencknuß keert, hatt er uff allerlej fürhallten, sich endtlichen dahin begeben<note type="editorial"> sich entscheiden, sich verpflichten, Id. II, 91f.</note>, das er glichergstallt wie der Hotz, als er bericht gethon habe<note type="critical"><q>gleichergstallt wie … habe</q> am Rand mit Verweiszeichen</note>, anloben welle, uß üwer (miner herren) gricht und gebiet zetzüchen unnd niemmermehr darjn zekommen. Wover<note type="editorial"> wenn, Id. I, 914.</note> er aber söllich glübdt übersehen wurde, söllind alsdann jr, min herren, befuͤgt syn, zů synem lyb und leben zerichten glycherwyß, als wann er einen geleerten<note type="editorial"> vorgesprochener oder vorgelesener</note> eydt geschworen hette. Sovil dann den costen, so<note type="critical">Folgt gestrichen: jnn</note> über jnn jnn zyt syner gefangenschafft gegangen, antrifft, versehe<note type="editorial"> vermuten, annehmen, Id. VII, 567.</note> er sich, der Hotz werde denselben abzefertigen unbeschwert syn, bitt hieruf üch, myn g[nedig] herren, umb erlasßung der gfangenschafft.</p>
+<pb n="2" facs="E_I_7_2__Nr__144__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__144__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__144__S__4_.tif"/>
+<p rend="margin-top">[Urteil:] <persName ref="Muntwyler, Adam">Diser Muntwyler</persName> jst uff hierjnn verzeichnet syn erbietenn<note type="editorial"> Anerbieten, Id. IV, 1868f.</note> unnd gethones glüpt der gfanngenschafft uff erleggung deß costenns ledig gelaßenn. Und woveer er darwider hanndlet, soll jm syn verdiennter lon verlanngen<note type="editorial"> zukommen, Id. III, 1331.</note> unnd werdenn. Actum mittwuchs den 9ten septembris anno etc. 79 p[raese]nt[ibus] herr <persName ref="GND_143680544">burgermeister Kamblj</persName> unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

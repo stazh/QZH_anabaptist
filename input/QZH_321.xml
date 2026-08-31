@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_321</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695129">StAZH E I 7.2, Nr. 130</idno>
+          </msIdentifier>
+          <head>Matthias Schmid an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1575-11-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1575-11-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 207</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__130__S__1_.tif"/>
+<p>Edel, stränng, fromm, vest, fürsichtig, ersam, wys, jnnsonnders gnedig, günstig jr min herrenn, mynn unnderthenig gehorsam, ganntz gneigt unnd guttwylliger diennst sig eüch, minen günstigenn gnedigenn herrenn, mit aller unnderthenigkeidt alzit bereidt. Innsonders gnedig günstig jr myn herrenn, fügenn euwer ersam wyßheytt mit aller unnderthenigkeytt<note type="critical">In der Vorlage: unnderhenigkeytt</note> hiemit zuvernemen: Nachdem jch eüwer ersam wyßheytt zůschryben laßen unnd darby euch Petter Ramen<note type="editorial"> Zu Peter Ruman, vgl. die Nrn. 121-123, 204, 250 und 266.</note> vonn <placeName ref="LOC_47.50369_8.41911">Schöfflystorff</placeName> gefanngklichen zůgeschhigkt, demnach mir widerumb zůgeschrybenn, jch solle uber jnn myn khundtschafft<note type="editorial"> Erkundigung</note> jnnammen. Dassälbig beschähenn unnd für daß erst, so hab jch herr <persName ref="Haldenstein, Rudolf">Rudolff Haldennsteynn</persName> beschigkt, bredickant zů <placeName ref="LOC_47.5029_8.37505">Niderwenigen</placeName>, der da annzeigt, wie euch (minen gnedigen herren) vormallenn zůgeschribenn, sige vonn denn thestenmanden unnd anndernn stugkenn, dassalbig habe er mir angezeigt unnd sige also erganngenn.</p>
+<p rend="margin-top"><persName ref="Kleissli, Langhans">Lannghannß Kleyßly</persName> vonn Nyderweningen hatt gseidt, daß uff verschinen<note type="editorial"> vergangenen</note> osternn daß folgk am sonntag nach der bredig zu denn thoüffernn jnn die <placeName ref="LOC_47.29762_8.69432">Eeg</placeName><note type="editorial"> Egg, Höhenzug</note> ganngen, glich ob sy zů einnem danntz welendt, unnd sige <persName ref="Ruman, Peter">Petter Ramen</persName> darby gsynn.</p>
+<p rend="margin-top"><persName ref="Wirth, Klaus">Clouß Wyrt</persName> von Nyderweningen hatt gseidt, das er jnn der bredig jm <placeName ref="LOC_47.58764_8.29365">Zurtzicher</placeName> wald unnd jnn der Eeg<note type="critical">In der Vorlage: Eeeg</note> by Petter Ramen gsynn, aber von denn thestennmenden<note type="editorial"> Testamenten (Bibeldrucke)</note> habe er nüt ghort, daß er diesälbenn verwerffe ald<note type="editorial"> oder</note> diesalben schelte.</p>
+<p rend="margin-top"><persName ref="Bucher, Michel">Michel Bucher</persName> vonn Nyderweningen hatt gseidt, das er eynn thestenmendt ghept, dassälbig der Jachly Wagner unnd der schulmeyster, beidt zů Niderweningenn, jme eelendet unnd gredt, es sige nit recht, es stannde nüt wie die anndernn.</p>
+<pb n="2" facs="E_I_7_2__Nr__130__S__2_.tif"/>
+<p rend="margin-top"><persName ref="Meyer, Heinrich">Heynnrich Meyer</persName> von <placeName ref="LOC_47.49815_8.3921">Schlynnyken</placeName><note type="editorial"> Schleinikon, gehörte wie Niederweningen zur Landvogtei Regensberg.</note> sagt, das er denn Petter Ramen gsehenn hin unnd wider gan, das er wol vermeyne, er gannge zu synnen mitgsellenn unnd gannge nüt jnn die kylchen. Ob er von verwerffen euwer (miner gnedigen herren) thrugk und thestenmenden wuße er nüt, das Petter Ramen diesalben gschulten.</p>
+<p rend="margin-top"><persName ref="Wagner, Jakob">Jacob Wagner</persName> vonn <placeName ref="LOC_47.5029_8.37505">Niderweningen</placeName> hatt gseidt, das er by dem Petter Ramen zů <placeName ref="LOC_47.50885_8.40591">Weningen</placeName><note type="editorial"> Oberweningen</note> jnn <persName ref="Spöri, Uli">Ully Spöris</persName> huß gsynn, jnn der Eeg unnd jm Zurtzicher<note type="editorial"> Zurzacher</note> wald, dasälpst Petter Ramen geprediget. Aber von denn wortten wüße er nüt, das er gredt haben solle, die thestenmändt sigenndt nit racht.</p>
+<p rend="margin-top">Soliches schryben jch eüch, minen gnedigen herrenn, [denen] zůstatt, nach euwernn gefallen mit jme zů hanndlenn. Datum denn 25. tag wynndermonendt anno 1575. jar.</p>
+<p rend="margin-top">E[uwer] w[illiger] dienner</p>
+<p>Mathias Schmidt, burger der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, obervogt der herrschafft <placeName ref="LOC_47.47812_8.42878">Rägennspärg</placeName></p>
+<pb n="3" facs="E_I_7_2__Nr__130__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__130__S__4_.tif"/>
+<p rend="margin-top">Denn edlenn, stränngenn, fromen, vesten, fürsichtigen, ersamen und wyßen herenn burgermeyster unnd ratht der statt Zürich, minen gnedigen, günstigen, lieben herren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_562</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355086">StAZH B IV 49, fol. 30v-31r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Heinrich Meyer von Knonau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1591-10-16"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1591-10-16"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 448</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, vester, besonnders gethrüwer, lieber burger unnd vogt, unns hatt unnser geliebter burgermeister beide<note type="critical"><q>beide</q> am Rand mit Verweiszeichen</note> (dyn unnd deß herrn dechans zů Ottenbach[s]<note type="critical">Wort aufgrund der Bindung nicht vollständig lesbar</note><placeName ref="Ottenbach"/> <note type="editorial"> Dekan <persName ref="Bluntschli, Johannes">Johannes Bluntschli</persName></note> jnnammen deß gantzen capitels) gethanne schryben<note type="editorial"> Beide Schreiben sind nicht überliefert.</note> unnd klag der wider­toüf­feren halber jnn dyner amptsverwaltung verhören laßen. Ab wellichem wir unns zwahrn umb etwas verwunderet, sidtmalen unnsere der widerthoüfferen halber ußgangne satzungen unnd jnnsonders das jüngst wider sy jm 85ten jare hievor gemachet und getruckt mandat unnd ordnung<note type="editorial"> Vgl. Nr. 329.</note> dermaßen gestelt, das, wann demselben einfaltig<note type="critical"><q>einfaltig</q> über der Zeile, in der Zeile gestrichen: mitt</note> flyßig nachgeganggen<note type="critical">Folgt gestrichen: wirt</note>, den sachen wol geholfen unnd diser schädlichen sect geweert werden mag, zů wellichem wir dann<note type="critical">Folgt gestrichen: nochmalen dhe</note> noch dißmaln dhein<note type="editorial"> kein</note> beßere mittel unnd wäg wüßent. Deßhalb so wellent wir dich hiemit erntstlich ermannet haben, du wellist das vorangeregt unnser<note type="critical"><q>unnser</q> am Rand mit Verweiszeichen</note> getruckt ­toüf­fer mandat nochmalen für<note type="editorial"> vor</note> dich nemmen, dich darjnnen eigentlich ersehen unnd dann nach ußwyßung<note type="editorial"> Inhalt, Aussage, Id. XVI, 1953.</note> deßselbigen gegen diseren sectischen personen, jtem denen so jnen underschlouff gebent unnd ouch den redlifuͤreren und leereren (deren aller halber du jnn angezognem mandat gnůgsamen bericht finden wirst) mitt<note type="critical">Folgt gestrichen: str</note> abnemmung der bestimpten<note type="critical"><q>bestimpten</q> am Rand mit Verweiszeichen</note> gelt bůßen<note type="critical"><q>bůßen</q> über der Zeile, in der Zeile gestrichen: straffen</note> (dorab sy dann mehrteils nit wenig thůnd), gfangenschafft unnd annderen straffen mitt allem ernst faren und die sachen mitt yfer fürnemmen, damit dem unrath by zyten, ee das er wyter zůnemme, begegnet werde.</p>
+<p>Unnd so dann vorgemelt deß dechans und capitels schryben (dz wir dir hieby widerumb zůschickend) fürnemlichen<note type="critical"><q>(dz wir … fürnemlichen</q> am Rand mit Verweiszeichen</note> vier articel jnn sich haltet, da bevelchend wir dir, du wellist jnne, herrn dechan, und die annderen predicanten deß capitels mitt allem erntst ja auch (da es von nöten) bim eyd ermannen, dir die jhenigen personen, so jnn denselbigen articklen behafftet sind, nammbhafft zemachen unnd du dann gegen denselben ungehorsamen<note type="critical">Folgt gestrichen: nach widerspenigen</note> jnnsonders denen, die den ­toüf­feren underschlouff gebend<note type="critical"><q>jnnsonders denen … gebend</q> am Rand</note>, nach jnnhalt deß mandats handlen. Ob dann einer oder mehr umb die straffen nützit geben, sonders jnn widerspenigkeit fürfaren wurde, dieselben wirst du wol gfengklich<note type="critical">Folgt gestrichen: anzenemmen</note> annemmen zelaßen unnd unns zeüberschicken wüßen, gegen jnen wyter nach gebür mitt erntst zehanndlen. Dann wir je söllichem schedlichen jrrthumb zeweeren und desselben anhengere erntstlich zestraffen gesinnet, als wir dann von oberkeits wegen schuldig sind, wellent<note type="critical"><q>wellent</q> am Rand, in der Zeile gestrichen: unnd versehend</note> unns hierumbe zů dir alles flyßes und erntstes versehen und das gegen dir jnn gnaden erkhennen. Datum den 16. d. octobris anno etc. 91.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> Hanß Heinrichen Meyer von Knonouw.</p>
+</div>
+    </body>
+  </text>
+</TEI>

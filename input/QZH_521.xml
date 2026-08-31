@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_521</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355236">StAZH E I 7.3, Nr. 48</idno>
+          </msIdentifier>
+          <head>Urteil über Peter Hön</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1589-11"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1589-11">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 407</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__48__S__1_.tif"/>
+<p>Als herr lanndtvogt Escher<note type="editorial"> Hans Konrad Escher (vom Glas)<persName ref="Escher vom Glas, Hans Konrad"/></note> myn gnedig herren berichtet, wellicher maaßen Petter Hön von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName>, der ­toüf­fer, sich ergäben, als namlich, das er von der ­toüf­ferischen seckt abstaan, die predigen heiligen göttlichen worts unnd christenlichen heiligen sacramenta mit unns üben unnd bruchen welle, zůdem mynen gnedigen herren jnn allen zimlichen billichen sachen gehorsam unnd gewertig zesyn etc. unnd, das alles zethůn unnd zehalten, an eydtsstatt<note type="critical">Folgt gestrichen: angelor.</note> anzeloben sich anerpietende. Also nach verhörung sölliches gegebnen berichts habent myn gnedig herren sich synenthalb darüber erkhendt<note type="editorial"> geurteilt</note>, das er mynen herren x pfund<note type="critical">In der Vorlage stets: lb</note> zů rechter straff unnd bůß syner bißhar gebruchten unghorsame wegen unnd v pfund an gmeinen kosten geben sölle, unnd demnach nach erlegung deß kostens, so über jnne jnn der gfencknus gegangen, uff ein gwonlich urfechd der gfangenschafft gelediget werden sölle. Hienebent aber mit jme mit allem ernst geredt worden, das wo er sich synem <nswk/> anerpieten noch nit gemeß unnd wider syn loben thůn<note type="critical"><q>thůn</q> über der Zeile, in der Zeile gestrichen: handlen</note>, wurde man<note type="critical"><q>man</q> über der Zeile</note> mit jme als einem meineiden man handlen etc.</p>
+<pb n="2" facs="E_I_7_3__Nr__48__S__2_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

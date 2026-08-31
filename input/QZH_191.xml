@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_191</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355325">StAZH E II 1, S. 439 (Handschrift von Heinrich Bullinger)</idno>
+          </msIdentifier>
+          <head>Anzeige des Dekans am Zürichsee und weiterer betreffend Zunahme des Täufertums</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1555-10-22"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1555-10-22"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 77</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der <persName ref="GND_11854392X">dechan</persName> an dem Zürich see Kapitel<note type="editorial"> Rudolf Gwalther</note>, und hiemitt fast alle andere decani, zeygt an, es were ettlich jar har vil klegten<note type="editorial"> Klagen</note> fürgebracht der widertoͤuffern halb irer unrůwen und traͤnnes, das sy anrichtetend hin und har in den kylchen. Da doch nach notturfft noch nie gehandlet. Dorumb sy zů naͤmind, also das ein wyb habe gedoͤren (die sye uß dem hoff<note type="editorial"> Besitzung, Herrschaftsgebiet, Id. II, 1021.</note> Staͤfa) den pfarrer von <placeName ref="LOC_47.25965_8.69981">Maͤnendorff</placeName><note type="editorial"> Jos Oesenbry</note><persName ref="Oesenbry, Jos"/> anfallen, worumb er die toͤuffer schaͤlte, es syend biderb lüt und unser herren duldent sy zů <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, da vil sind, und anderschwo. Wenn sy boͤß waͤrend, litte man sy nitt. Aber sy, die herren, sind in iren gmuͤten überwunden etc. Imm <placeName ref="LOC_47.293891_8.804698">Herrliberg</placeName><note type="editorial"> Hellberg</note> in Gruͤningen kummend sy zamen ze huffen in hundert und mee, an der <placeName ref="LOC_47.21566_8.57354">Sylbrugg</placeName> und anderschwo etc.</p>
+<p>Diewyl nun alle pfarrer geschworen, iren herren allerley schanden zů weeren, und aber das ein grosser schand sye, dann man wol wüsse was unrůw man vor iaren gehept und was die toͤüffer boͤses angericht etc., woͤllend sy das mitt ernst anzeygen und bitten, das min herren inen vor wyterm leyd, schand und schaden sin<note type="editorial"> vor sein: verwehren, verhüten, Id. I, 929.</note> woͤllind etc.</p>
+</div>
+    </body>
+  </text>
+</TEI>

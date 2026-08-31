@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_788</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355187">StAZH E I 7.3, Nr. 136</idno>
+          </msIdentifier>
+          <head>Hutterer in Baltenswil und Niederglatt</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1608"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1608">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 674</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__136__S__1_.tif"/>
+<p><persName ref="Wyss, Konrad">Cunradt Wyß</persName>, <persName ref="Wyss, Ruedi">Ruͤdj Wyßen</persName> sun, zu Baltischwylen jn der kilchhörj<note type="editorial"> Pfarrei</note> <placeName ref="LOC_47.44037_8.63043">Baßerstorff</placeName> wohnhafft, teufferischer seckt anhengig und ein abgesandter uffwigler uß <placeName ref="LOC_49.5_17">Meerherren</placeName>, sol abermalen glych wie vorige jar verhanden sin und sich by den synen an gedachtem ort enthalten<note type="editorial"> sich aufhalten, Id. II, 1230.</note>.</p>
+<p>Darneben wird ich glaubwirdigen brichtet, das der frömden teufferischen uffwigleren uß <placeName ref="LOC_49.5_17">Meerherren</placeName> by 16 hie im land<note type="critical">Folgt gestrichen: verhanden</note> und mit nammen zů <placeName ref="LOC_47.4931_8.49879">Niderglatt</placeName> in irem alten wolgewonten nest seyend und ein große barschafft an gelt, unser volck mit innen mit fryer zeerung hinweg zelöcken, by handen habind.</p>
+<p rend="margin-top">H. U.</p>
+<pb n="2" facs="E_I_7_3__Nr__136__S__2_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

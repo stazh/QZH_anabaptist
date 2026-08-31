@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_149</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=742243">StAZH A 6.1, Nr. 11</idno>
+          </msIdentifier>
+          <head>Ehegericht an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1544-09-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1544-09-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 35</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[…]<note type="editorial"> Die ersten zwei Abschnitte betreffen die Besoldung des Ehegerichtsweibels und die Ausschaffung einer aus Ravensburg stammenden geschwängerten Dirne. Die Aufschrift auf der Rückseite des Dokuments lautet: II. Wysung deß eegrichts: a. wegen erlüterung umb deß pedellen oder grichtsweibels belohnung für die pott, so er zu verrichten, b. abstraffung einer gemeinen mätzen, c. wider­toüf­fer jnn der herrschafft Egljsouw 1544.</note> Zů letst, günstig g[nedig] heren, alls der herr predicant<note type="editorial"> Heinrich Strübi</note> von <placeName ref="LOC_47.57335_8.52607">Eglisow</placeName> unnß fürgethragen, wie jnn der herrschafft Eglisow vier personen, namlich die<note type="critical">Folgt gestrichen: selig</note> Schnyderin <persName ref="Müller, Frau">unnd Müllerin</persName> von <placeName ref="LOC_47.56064_8.49635">Glattfällden</placeName>, deß vogts tochter von <placeName ref="LOC_47.61313_8.5435">Rafftz</placeName>, so zů <placeName ref="LOC_47.59598_8.47196">Wasterkingen</placeName> ein man hatt, unnd deß müllers zů Rafftz eefrow, ein lannge zyt dem glauben der wider­toüf­fery anhänngig gwesen, nit zkilchen ganngen, ouch nit darzů zehallten, nach<note type="editorial"> noch</note> von jrem glouben zebringen gsyn unnd namlich, das die ein wybs person von Glattfällden, so nach unvereelicht, jnn sechß- oder sibenzechen jaren nie zkilchen ganngen syge, welichs er jnn nechst<note type="editorial"> kürzlich</note> gehaltnem synodo angezeigt, aber von den bysitzenden herren (das es fürs egricht gehörte) bericht enpfanngen habe, sind wir daruff dem vogt von Eglisow<note type="editorial"> Beat Bachofen</note> (das er jnen ernnstlich hargebiette) zeschryben verursacht. Welichs von dem vogt ußgericht worden. Aber der personen keine vor uns erschinen, wie wol sich die ein von Glattfällden eins tod krancken kinds beclagt unnd der müller von Rafftz unns angezeigt hat, wie er sin frow nit harbringen nach zkilchen zgaan bereden möge. Unnd wie der graaff von <persName ref="Johann Ludwig I. von Sulz">Sultz</persName><note type="editorial"> Vermutlich Johann Ludwig I. von Sulz (gest. 1547)</note> vorhin ouch darinn gehanndelt unnd doch zuletst dsach allso beruwen habe lasßen. Unnd so nun sy uff gemelt<note type="editorial"> erwähnten</note> pott<note type="editorial"> Vorladung, Id. IV, 1891f.</note> nit erschinen unnd sy nit allein der unghorsamkeit deß predig hörens, sonnder ouch der widerthoüffery beschuldigt werdennd, unnd besonnder so die hochen gricht zu Rafftz unnd Wasterkingen gedachtem grafen von Sultz gehörend, wil unns nit beduncken, mitt gfäncknus ald<note type="editorial"> oder</note> anndrem gwallt wyter darinnen zehandlen, uns gepüren welle, deßhalb u[nd] vor wir söllichs bericht unnd angezeigt haben, darinnen fürter<note type="editorial"> weiter, fürderhin</note> zehanndlen nach deren bester gefallen unnd billichem bedunncken. Actum donstags 4. septembris anno etc. 1544.</p>
+<p rend="margin-top">U[wer] e[rsam] w[yßhei]t unnderthännige burger und diener am  eegricht.</p>
+</div>
+    </body>
+  </text>
+</TEI>

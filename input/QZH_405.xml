@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_405</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355065">StAZH B IV 43, fol. 32v-33r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Kaspar Thomann</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1583-10-07"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1583-10-07"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 291</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren günstigen, geneigten willen unnd alles guts zůvor. Frommer, wyser, besonnders gethrüweer, lieber burger unnd vogt, wiewol unnser<note type="critical">Folgt gestrichen: burger und</note> vogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName><note type="editorial"> Heinrich Holzhalb</note> den unnseren <persName ref="Schnyder, Hans">Hannsen Schnyder</persName>, der schůmacher von <placeName ref="LOC_47.53414_8.56841">Rorbis</placeName>, von wegen der wider­toüf­feryg gfencklichen jnziechen und uff unnser begeren nebent anderen<note type="critical">Folgt gestrichen: gfencklich</note> allher geschickt, jst doch er, Schynder, uff der straaß ußgerißen unnd denen, so jnn allher fuͤren söllen, enthrunnen. Diewyl wir dann sovil berichts, das vermällter Schnyder jnn synem töüfferischen wessen jmmerdar verharre, und wol zugedencken, das er wie jr bruch, villichter andere inn söllicher sect ouch ethwan verfuͤren möchte. Wann dann<note type="critical">Folgt gestrichen: j[…]</note> jnnhallt<note type="critical">Folgt gestrichen: us</note> unnserer ußganngner satzungen und mandathen<note type="critical">Folgt gestrichen: j[…]</note> diserem Schnyder<note type="critical"><q>Schnyder</q> am Rand</note> syn<note type="critical">korrigiert, ursprünglich: synem</note> fürgenommen weßen<note type="critical">Folgt gestrichen: jnsonders dhein gestand geben</note> dheins wägs<note type="editorial"> keineswegs</note> zůgestattnen, so jst derhalben unnser bevelch<note type="critical">Folgt gestrichen: will</note> und meynung<note type="editorial"> Erwartung, Weisung, vgl. <bibl><ref target="http://fwb-online.de/go/meinung.h2.1f_1709288851">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> an dich<note type="critical"><q>an dich</q> über der Zeile</note>, du wellist mit erntst<note type="critical"><q>mit erntst</q> am Rand mit Verweiszeichen</note> dyn khundtschafft unnd sprech<note type="editorial"> kundschaft und spech: Erkundigung und Fahndung, Id. X, 76.</note> uff jnne machen und, wo er zů beträtten<note type="editorial"> antreffen, Id. XIV, 1486.</note>, jnn gfenncklichen annemmen und unns wol verwart zufuͤren lasßen, feerner die gebür gägen jm fürzunemmen wüssen mögen, daran geschicht unnser meynung. Datum den 7. d. octobris anno etc. 83</p>
+<p rend="margin-top">Bürgermeister unnd rath der statt Zürich.</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName></p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_322</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695140">StAZH E I 7.2, Nr. 131</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Peter Ruman</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1575-12-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1575-12-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 208</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Peter Rumen<persName ref="Ruman, Peter"/> von Schöfflistorff<placeName ref="Schöfflisdorf"/> deß wider­toüf­fers antwort<note type="critical">Später korrigiert: verantworthung. Die Überschrift steht auf der Rückseite vor dem Urteil.</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__131__S__1_.tif"/>
+<p>Peter Rumen von Schöfflistorf gitt uff fürhalten<note type="editorial"> Erklärung, Vorwurf, Grimm 26, 1139.</note>, das er die testament, so allhie jm truck<note type="critical"><q>jm truck</q> über der Zeile</note> ußgangind, für<note type="critical">Folgt gestrichen: t (oder ein anderes Zeichen)</note> verfeltscht unnd nit nach dem waaren verstand ußgelegt<note type="editorial"> übersetzt</note> hallte, unnd warumb er nit zur kilchen gannge, disern bscheid. Das es sich uff jnne synes verhoffens nitt erfinnden, das er einiches wegs<note type="editorial"> einigen weg: auf irgend eine Weise, Id. II, 280.</note> die allhie jnn truck ußgende testament geschullten ald<note type="editorial"> oder</note> für böß erkhendt, sonders habe dieselbigen allwegen jnn frömbdenn landen für grecht unnd unverfeltscht ghören hallten und ruͤmen. Doch habe er wol etwa gesagt, wies köme, das man zů jetziger zyt nit so suber wie aber zů den alten zyten trucke, ob es villicht deß papyrs schuld syge.<note type="critical"><q>doch habe er wol … syge</q> am Rand mit Verweiszeichen.</note> Das er aber zur kilchen goon, könne er jnn syner gwüssne nit finnden, unnd syge er disere landtsart<note type="editorial"> Gegend, Id. I, 475.</note> zemyden unnd sich dero zeüsseren vorhabents. Darnebent syge er nit ab<note type="editorial"> absyn: in Abrede stellen, leugnen, Id. I, 30.</note>, dann das er jnn der <placeName ref="LOC_47.29762_8.69432">Egg</placeName> und daumb etwa<note type="critical"><q>etwa</q> über der Zeile</note> geprediget unnd synes vermeinens der waarheit zügknuß gäben. Unnd bitt üch, myn herren, hieruf umb gnad.</p>
+<pb n="2" facs="E_I_7_2__Nr__131__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__131__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__131__S__4_.tif"/>
+<p rend="margin-top">[Urteil:] Diewyl er gar allt, wellennt myne herren jnne der gfanngenschafft erlaßen, doch das er m[eister] Hanns <persName ref="Schwyzer, Hans Rudolf">Rudollfen Schwytzer</persName> als an eydts statt an die hannd globben, sich niemeer meer jnn myner herr gricht unnd pieth finnden zlaßen. Dann so er darüber jnn myner herren gricht unnd gepieth beträten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, werde man gägen jme nüt annders fürnemmen, dann was sich gägen einem meyneiden man zehanndlen gepürt. Darnach möge er sich zerichten wüssen. Actum sampstags den <nswk/> 3ten decembris anno etc. 75 p[raese]nt[ibus] herr burgermeister Kamblj<note type="editorial"> <persName ref="GND_143680544">Hans Kambli</persName></note> unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

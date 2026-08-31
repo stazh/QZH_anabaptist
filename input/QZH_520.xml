@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_520</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355233">StAZH E I 7.3, Nr. 45</idno>
+          </msIdentifier>
+          <head>Weitere Verhöre und Urteile gegen die in Horgen verhafteten Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1589-10"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1589-10">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 406</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__45__S__4_.tif"/>
+<head type="Originalsprache">Der ­toüf­ferem von Horgen drite antwort<note type="editorial"> Die Überschrift befindet sich auf der Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__45__S__1_.tif"/>
+<p>Als herr lanndtvogt Escher, herr schultheiß Grossman, herr obman<note type="critical">Folgt gestrichen: widerumb</note> Widerkeer<note type="editorial"> <persName ref="Wiederkehr, Bernhard">Bernhard Wiederkehr</persName></note> unnd m[eister] Hanns <persName ref="GND_143647792">Růdolff Raan</persName> sampt herrn <persName ref="GND_102534357">Burckharten Leeman</persName> unnd herrn Hanns <persName ref="Koller, Hans Jakob">Jacoben Kollern</persName> abermalen jnn die dryg gfengknussen, darjnnen die ­toüf­fer von Horgen<note type="critical"><q>von Horgen</q> am Rand mit Verweiszeichen</note> abgeteilt worden, unnd erstlichen jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName>, darjnnen noch acht, keert, sy gmeinlich unnd sonderlichen<note type="editorial"> gemeinsam und einzeln</note> mit allem erntst zum kilchgang, empfachung der heiligen sacramenten, deß touffs unnd abendtmals unnsers herren Christj, unnd anderer christenlicher ceremonien unnd brüchen unnd aller gehorsame üwer myner gnedigen herren vermanet, volgendts jrer antwort darüber erforderet, hatt daruf <persName ref="Bruppach, Jos">Joß Brugpach</persName> von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName>, als den myn herren, die verordneten<note type="critical"><q>die verordneten</q> am Rand mit Verweiszeichen</note>, alleinig für sich genommen, volgende antwort geben.<note type="editorial"> Diese Einvernahmen fanden sehr wahrscheinlich am 30. Oktober statt, vgl. das datierte Urteil der Nachgänger gegen Jos Bruppach in Nr. 408.</note></p>
+<p>Namlich unnd fürs erst könne er wol erkhennen unnd wüsse<note type="critical">Folgt gestrichen: er</note> wol, das er gfelt, jnn dem er sich<note type="critical"><q>gfelt jnn dem er sich</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: wider</note> üch, mynen gnedigen herren, unghorsam erzeigt unnd nit wie die anderen, als man sy gfangen, gehorsam gwessen mitt demuͤtiger pitt, jme sölliches zůverzychen, sich anerpietende, üch, mynen gnedigen herren, fürterhin jnn allen zimlichen, billichen sachen<note type="critical">Folgt gestrichen: gehorsam u</note> unnd allem dem, so einem redlichen biderman zůstande, gehorsamlich unnd, so vil jm müglich, zůerzeigen unnd vorab die predigen göttliches worts<note type="critical">Folgt gestrichen: unnd</note> zůbesůchen unnd die heiligen sacramenta zůgebruchen unnd uͤben. Sölliches alles zethůn unnd zehalten, er, Brugpach, an herrn landtvogt Eschers handt an eydtsstatt<note type="critical">Folgt gestrichen: an</note> gelopt unnd versprochen, unnd daruf ganntz <pb n="2" facs="E_I_7_3__Nr__45__S__2_.tif"/> underthenigklich der gnaden unnd jnn ansechung, er ein schwere hußhaltung, darzů ein krancker frouwen, erledigung der gfangenschafft begert. Habent daruf genannt myn herren, die verordeten, uff syn erntstlich pitten unnd anerpieten der besserung, jnne recht derselbigen erlassen, doch jme zů straff unnd bůß uferleit, das er üch, mynen gnedigen herren, zechen pfund zebůß unnd fünff pfund an gmeinen kosten geben unnd, was über jnne gangen, er für sich selbs bezalen sölle. Darby ouch jme heiter angezeigt worden, wo er hierobstend loben übersechen, man mit jme als einem meineyden man handlen wurde.</p>
+<p rend="margin-top">[Urteil]: Als myn herren, die verordneten, sambßtags den ersten novembris anno etc. 89 diß Brugpachen anerpieten unnd demnach was mit jme verhandlet worden, mynen gnedigen herren angezeigt, hand sy es gentzlich darby belyben laßen. Actum ut supra vor herren <persName ref="GND_143680544">burgermeister Kamblj</persName> unnd beid rethen.</p>
+<p rend="margin-top">Unnd wiewol demnach die anderen siben<note type="critical">Folgt gestrichen: von</note> aller<note type="critical">Folgt gestrichen: jri</note> jrer jrrigen unnd spennigen articklen von herrn Leeman überwissen unnd bezüget worden, also das ouch dewederer<note type="editorial"> keiner, Id. XV, 489.</note> under jnen, den ­toüf­feren, die<note type="critical">Folgt gestrichen: jnen</note> usß heiliger göttlicher gschrifft hargenommnen unnd jnen fürgelegten gründ unnd argumenta bim wenigisten uflößen mögen, habend sy doch unangesechen deß alleß<note type="critical">In der Vorlage: alleßen</note> nit abstaan wellen, sonders begert, sy also jnn der einfalt<note type="editorial"> Einfachheit, Aufrichtigkeit</note> <note type="critical">Folgt gestrichen: unn</note> dem bůchstaben nach unnd, wie sy die gschrifft verstandind, belyben zelaßen, so wellind sy üch, mynen gnedigen herren, jnn allem dem, so nit wider jr gwüßne, gehorsam, jm fal aber<note type="critical"><q>aber</q> über der Zeile, in der Zeile gestrichen: man ouch</note> die ordnung deß banns, wie der von gott jngsetzt, jnn der kilchen <pb n="3" facs="E_I_7_3__Nr__45__S__3_.tif"/> geprucht werde, wellind sy dhein<note type="editorial"> kein</note> sönderung nit machen, sonders dieselbigen besůchen.</p>
+<p rend="margin-top">Glycher antwort sind ouch die dryg jm Nüwen-<note type="critical">Korrigiert, ursprünglich: Nüwenthurn</note><placeName ref="Zürich, Neuentumr"/> unnd die vier jm <placeName ref="Zürich, Ketzerturm">Kätzerthurn</placeName> unangesechen, das sy jres gloubens dheinen grund anzeigen khönend. Unnd ob schon vil mit jnen gredt wirt, begerend sy nüdtdesterminder, by jrem fürgenommnen wesen zebelyben; dann <persName ref="Pfister, Hans">Hanns Pfister</persName> von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName>, so jm Nüwenthurn ligt, selbs angezeigt<note type="critical">Folgt gestrichen: da</note>, vermeine nit, das jemandts syge, der jnne uff<note type="critical">Folgt gestrichen: den</note> ein bessers wyßen khönne.</p>
+<p rend="margin-top">Unnd so dann myn herren, die verordneten, abermalen an <persName ref="Wälti, Jagli">Jaglj Wältj</persName> ußm Bernpiet<note type="critical">Folgt gestrichen: angeha</note>, uß üwer myner gnedigen herren gricht unnd gepieten zezüchen unnd ohne ein gleit<note type="critical"><q>ohne ein gleit</q> am Rand</note> nit mehr darjn zekhomen, zeloben angehalten, hat er doch das nit thun wellen mit anzeigung, welle wol jetztmalen den nechsten hin unnd weg unnd jnn syn heimat züchen, aber vermeine nützit gehandlet haben, damit er üwer landt verwürckt solte haben, wil also das zemyden nit versprechen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Die Überschrift befindet sich auf der Rückseite des Dokuments.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

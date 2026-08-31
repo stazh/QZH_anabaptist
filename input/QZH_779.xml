@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_779</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355180">StAZH E I
+              7.3, Nr. 127; Abschrift: ZBZ, Ms A 72, S. 559</idno>
+          </msIdentifier>
+          <head>Täufer in Horgen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1608-10"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1608-10">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 665</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" facs="E_I_7_3__Nr__127__S__1_.tif"/>
+        <head type="Originalsprache">Ingenommner bericht der töüfferen halb jnn der vogty
+            Horgen</head>
+        <p>Von <persName ref="Staub, Jakob">Jacob Stouben</persName> unnd <persName ref="Schäppi, Hans">Hannsen Schäppj</persName>, so beid am <placeName ref="LOC_47.24847_8.5877">Horgerberg</placeName> wonnend, hatt man sovil erfaren, das der thöüfferen wyb unnd
+          manspersonen am Horgerberg treffenlich<note type="editorial"> sehr, überaus, Id. XIV,
+            395.</note> vil sygind, das man jnn die 40 personen oder nach<note type="editorial">
+            noch</note> meer da finnde, die sich der predig üsserend unnd jnn der thöüfferen
+          versamlung ganngind. Ir leerer unnd vorstennder syge Hanns Lanndis, jnn deße huß vil
+          versamlungen be­sche­chind, ein bößer listiger unnd schädlicher wolff, der vil einfallter
+          lüthen verfuͤre.</p>
+        <p>Obermällte<note type="editorial"> oben genannte</note> beid zeigind ouch an, das vor der
+          zyth jnn jrer (der töüfferischen) versamlung zwoo eehen zůsamen geben worden unnd hochzyth
+          ghallten, namlich <persName ref="Müller, Jos">Joß Müller</persName>, houptman Müllers von
+            <placeName ref="LOC_47.28584_8.84249">Edigken</placeName><note type="editorial"> Edikon (Gemeinde
+            Dürnten)</note> son, unnd <persName ref="Sträuli, Annli">Anndlj Ströüwlj</persName>,
+          jtem <persName ref="Hitz, Hans">Hanns Hitzen</persName> dochter unnd <persName ref="Isler, Jakob">Jacob Ißlers</persName> knecht.</p>
+        <p>Zudem jst gwüsß, das die töüffer gmein gůtt habend, so sy zůsammen stürend unnd daruß jre
+          noturfftigen erhalltend. So sy absterbend, vermachend sy ettwas jrer guͤteren dahin.
+            <persName ref="Staub, Felix">Felix Stoub</persName> hatt jm todtbeth 100 g[ulden],
+            <persName ref="Staub, zuHans">Hanns Stouben</persName> frouw 100 pfund<note type="critical">In der Vorlage: lb</note> jnn das gemällt gůtt vermachet. Ir
+          seckelmeister oder pfläger jst jetztmaaleen Jacob Ißler jm <placeName ref="LOC_47.210708_8.600892">Boden</placeName>, der vorhin ein recht waͤllt kinnd gsyn, jetzt zum töüffer worden. Sy
+          habennd vor lanngem ethwan kernen ynkoufft <pb n="2" facs="E_I_7_3__Nr__127__S__2_.tif"/>
+          unnd jnn <persName ref="Staub, Rudolf">Růdolf Stouben</persName> huß am <placeName ref="LOC_47.211272_8.614302">Müllibuͤl</placeName> yngleit, ouch jm anschlag<note type="editorial"> Angebot, Id. IX, 215.</note> ghan, wyn zekouffen. Mitt jrem gmeinen
+          gůtt hülffennd sy jren armen unnd könnend hiemit annderen zů jnen locken. Sonnsten soll
+          vil by jnnen fürgaan, das man aber nit jnn erfarung brinngen mag.</p>
+        <pb n="3" facs="E_I_7_3__Nr__127__S__3_.tif"/>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p> Geschrieben vom Unterschreiber der Stadt Zürich, vgl. die nachfolgende Nummer.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

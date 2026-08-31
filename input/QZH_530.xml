@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_530</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355237">StAZH E I 7.3, Nr. 49</idno>
+          </msIdentifier>
+          <head>Brief von Heinrich Wyss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1589"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1589">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 416</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__49__S__1_.tif"/>
+<p>Dyn trüwe<note type="critical"><q>trüwe</q> über der Zeile, in der Zeile gestrichen: schryben</note> und hefftige erynerung aller myner mittlen<note type="editorial"> mittlere Zeit, vgl. <hl to="http://fwb-online.de/go/mitte.s.1f_1709289376"><Hyperlink>http://fwb-online.de/go/mitte.s.1f_1709289376</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, anfengen und enden hab ich als jnn ein spiegel dynes schrybens halben verstandenn leider mer, weder mir lieb ist, und wol hett mögen emperen. Diewyl aber die sach schon so wytt prodecidiert<note type="editorial"> gegangen, verfahren (verdorbene Form von procedieren)</note> und gelangen ist, dz ich dich kumerlich mag geweren diener pitt und ermanung Cristj willen, dann mich der bösße find fast gantz und gar überrungen hatt und ein verherttnetts hertz gäben, dz schier weder brössman noch brodt<note type="critical">Folgt gestrichen: kein</note>, von Cristo här gelangen, kein lust zů ässen gewünen wil, diewyl ich manglen des reinen und ungefleckten mundt deß gloubens und liebe etc. Zum anderen kan ich nit meer bätten mit keim wortt, dann ich weiß, dz ein greuwel ist vor gott: Stan uff, gan nider, bätten nütt. Allein myn hertz ist nütt dan süfßgen<note type="editorial"> seufzen</note> und grämmen und gnagen<note type="editorial"> nagen</note>, das mich der wüste wurn<note type="editorial"> Wurm, Schlange, hier euphemistisch für Teufel, Id. XVI, 1520.</note> also zů sündigen verursachet hatt und dahin dur syn vilfeltige bösse tück und lügen gebracht<note type="critical"><q>gebracht</q> über der Zeile</note>, so gar um eins gringen willen gägen jedermman usßgossen hatt, dz ein grewel wider alle grewel ist und hatt gwärt fast zůhin 12 tag, das ich jmerdar gschwygen, gschwygen han, zu seiner frouwen gangen bin, sy bätten, dz sy jn abnemme, jnn fründtlichen gschryben, o Isack, o Isack<note type="editorial"> <persName ref="Hartmann, Isaak">Isaak Hartmann</persName></note>, es ist nit war, kum gschouws, doch ich hans dir klagt, dem Sumerouwer Hans, Christen silberkremmer und anderen mer klagt, wie er mir so unrecht thüge. Hatt als nütt wellen by jm helffen, je mehr ich jnn bätten und gnött, jr fründtlichkeit hatt jn nütt bewegt. Über dz alß sammen hatt er verschynes sambstags ebich<note type="editorial"> verkehrt, Grimm 3, 18.</note> jm den brieff de: [sic] glässen hast gschickt han, hatt er so tüffelisch possen grissen, dz ein schuchen drab ghan hand ettliche zuͤhörer, dann zum teil hatts anderen ouch wol gfallen, die mir dottlich find sind. Do hatt er von sachen grett, wieß zu Strasßburg gangen seig, wie ich ghusset, redt aber nit d’warheit, wie ich mich hieoben ghalten heige und wie ich jetz ein töuffer seig, bschyß d’lütt, wo ich kum und mög, dz mir jn myn sin und danck nie kommen ist. Zů dem gatt er hin und bschick dz taffelj suma sumarum aller hendel etc.<note type="editorial"> Vermutlich den Einblattdruck <q>Summarium der Bibel und aller Händel Gottes</q> (CS XV, S. 14, Doc. 987 C).</note>, gitts dem Strübj, er söls gschouwen und lässen und zeiget darnach mynß, dz ich den selben<note type="critical">Folgt gestrichen: h</note> noch hab trucken lassen, ouch red myn nammen, wie ich so ehrfressigs thier seige, heigs dem abgstollen und schryb darnach mir die ehr und anders mehr zů, dz kön syn schůllmeister, wz er synen knaben mahe<note type="critical">Lesung unsicher</note>, ist der pfaff Wäber darby gsin, sunst […]<note type="critical">Wort unlesbar (beschnitten)</note> wols man ouch, hand gseidt, dz seig ein recht schelmen sthuck, sind allernechsten glouffen zum Steiner, Leman und hand jnen d’sach erklert, do ist man mir affen uff kilwy komen<note type="editorial"> uff kilwy komen: auf die Schliche gekommen (kilwi in der Bedeutung von Ungelegenheit, Schererei, vgl. Id. XV, 1073).</note>, wz ich gmacht heig, der tüffel werd mich bschisßen, glertten louffen zum, ich heig dem Schwenckfelter ding truck, die sy jn handen habind, der ougenschyn sig verhanden. <pb n="2" facs="E_I_7_3__Nr__49__S__2_.tif"/> Bringt also mich und die armen trucker jn nott und angst, deß er kein nutz hatt. Hett er mir mynß, dz ich von Strasßburg bracht hab, gelassen und nit uffgwissen<note type="editorial"> anstiften, verleiten, Id. XVI, 1939.</note>, ich solle trucken lan, het ich nie dran gedacht, kum also umbs synet, ja umbs tüffels willen jn crütz, lyden, jamer und nott, hatt er mich dermasßen jn 12 tagen verursachet, dz ich wytters ratts gesůcht hab und ouch von jm gseidt, wz ich gwüst, doch mit verheisung aller ehren, dz es uß der selben person mund gägen andere nit gedacht sölle werden, dz ich weiß, dz ouch dem man zetruwen ist, ist mir gratten, ich solle uff mentag, alß gestert ist gsy<note type="editorial"> gewesen</note>, jm sein spiegel ouch fürmallen, uff dz er säche, dz er besser seig dan ich. Dz han ich nun than mit hertzlicher zůfersicht, er wurd ein schräcken darab gwünen, dz er jn sich selbs gieng und schwyge, dallen<note type="editorial"> schwatzen, klatschen, Id. XII, 1349, 1406 u. 1742.</note> me. Da s’hatt nütt ghulffen, dz ungrecht für hatt nit wöllen löschen, sunder erst angangen, den buben gschickt, ich lüge wie ein schandtlosßer dieb uber alles recht fürschlachen. Do ich dem buben gsagt, ich red die warheit ich […]<note type="critical">Wort unlesbar</note> erwyssen und warmahen (dz ich dan ouch kan mit eren lüthen thůn). Hatts der bub usßgricht, kumpt der unflättig hund selbst, lütt mir an, seidst<note type="critical">Folgt gestrichen: ich s</note> zu myner frouwen: Wo ist der schälm, der dieb, heissend jn abhin komen über alles angebotten recht. Seidt myn frouw: Er hatt recht fürgschlagen<note type="editorial"> Rechtsklage erheben, Grimm 4, 798.</note>, Isach, gönd uwer strasß. Es wil alß nütt helfen, ich selbs můß ußhin reden, ich stand jm rechten, er sölle so lang toben, dz er wel, ich blyb darby, alßo ist er zletst sein strasß zogen, ist also zůgangen, wz urtheil ob ich nit gnůg heig than, 12 tag an ein anderen han ich glitten, zletst ists für ouch angangen jn mir, dz ich jnn den spiegel gschick han, ich weiß, dz mich der man gert<note type="editorial"> begehrt</note> umb lyb, ehr und gůtt, ouch von wyb und kind gert zebringen, weist er waß uff mich, so statts jm erwyssen, ich wil uff jn darbringen und erwyssen, wz ich kan, ehr sott<note type="editorial"> sollte</note> sich wol bsindt han, ich han jm kein ursach gen die vorgende t[ag] biß gester, die löffel und anders sindt jm nit uffzwungen gsin, dz er mirß zalt heige, ich hanß zalt, sindt nit für jn gsin, so han ichs behalten. Laß dz schryben by dir allein bliben, wo ich anderst wüsste, wett ich nit gschriben han.</p>
+<p rend="margin-top">H[einrich] Wyß</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_502</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355226">E I 7.3, Nr. 39; Abschrift: ZBZ, Ms A 72, S. 425</idno>
+          </msIdentifier>
+          <head>Urkunde und Ausstellung einer Quittung</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1589-01-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-01-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 388</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__39__S__1_.tif"/>
+<p>Wir, burgermeister unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, thůnd kundt mengklichem<note type="editorial"> jedem</note> mit diserm brief, demnach unns uß krafft unnserer hochen oberkeit jm <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName> rechtsame<note type="editorial"> rechtliche Stellung, Rechtsverhältnis, Id. VI, 318.</note> der daruß hin gezognen wider­toüf­feren hab unnd gůte verfallen, das unnsere verordeten mit dem unnsern, <persName ref="Baumann, Heini">Heini Bůman</persName> von <placeName ref="LOC_47.22983_8.83884">Jonen</placeName>, von wegen synes brůders <persName ref="Baumann, Jakob">Jacoben Bumans</persName> (so ouch jnn das Merherrn <placeName ref="LOC_49.5_17">land</placeName> hinweg gezogen) dergstalt überkommen sind, das derselbig zů zweyen bestimpten zilen<note type="editorial"> Zeitpunkt, Grimm 31, 1064.</note> achtzig müntz guldin geben unnd bezalen sölle. Welliche achtzig müntz guldin dann gesagter Heinj Bůman von bemelts<note type="editorial"> erwähntem</note> <note type="critical">Folgt gestrichen: unnsers</note> synes brůders wegen unnserm vogte zů <placeName ref="LOC_47.22446_8.46262">Konouw</placeName> wylandt<note type="editorial"> vormals, Id. XV, 1254f.</note> <persName ref="Paur, Rudolf">Růdolff Puren</persName><note type="editorial"> Rudolf Paur ist 1586 gestorben.</note> seligen jnn unnserm nammen zů den gesetzten zweyen zilen also bar erlegt unnd bezalt hat. Daß zů urkhundt habent wir unnser statt Zürich secret insigel offentlich harjn laßen trucken, den 3ten jenners anno 1589.</p>
+<p rend="margin-top">Nota:</p>
+<p>Als uff anzug<note type="editorial"> Äusserung, Mitteilung, Id. XVII, 517f.</note> hern vogt Thumyßens<note type="editorial"> <persName ref="Thumysen, Junghans">Junghans Thumysen</persName> </note> von mynen g[nädigen] herren, einem ersammen rath<note type="critical">Folgt gestrichen: ein quitta</note>, gesagtem Heini Bůman ein quittanz<note type="editorial"> Quittung, Id. V, 1314.</note> erkhendt<note type="editorial"> zuerkennen, vgl. <hl to="http://fwb-online.de/go/erkennen.s.3v_1709314705"><Hyperlink>http://fwb-online.de/go/erkennen.s.3v_1709314705</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> worden, unnd aber jch dhein<note type="editorial"> kein</note> eigentlichen bericht finden khönnen, wenn und wem disere 80 müntz guldin erlegt worden dann allein, das vogt Thumyßen angezeigt, das vogt Pur selig gegen jme jichtig<note type="editorial"> geständig, Id. II, 110.</note> und bekandtlich gweßen syge, von gesagtem Bůman söllich gelt jngenommen haben, und dz also er, vogt Thumyßen, wol wüße, dz diser Bůman bezalt habe, so hab jch uß erlauptnuß myns herrn burgermeister Tommans<note type="editorial"> <persName ref="GND_143659413">Kaspar Thomann</persName><bm id="176"/></note> und uß bevelch und geheiß vogt Thumyßens mitt wüßen und willen vogt Puren seligen sohns (der deßwegen by mir gweßen) genanntem Heinj Bůman ein quittantz jnn obgeschribner form zůgestelt. Actum den letsten januarij anno etc. 89.</p>
+<p rend="margin-top"><persName ref="Grebel, N. (Unterschreiber)">Underschryber Grebel</persName></p>
+<pb n="2" facs="E_I_7_3__Nr__39__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__39__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__39__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

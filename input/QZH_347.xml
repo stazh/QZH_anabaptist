@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_347</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355293">StAZH E II 1a, S. 703f.</idno>
+          </msIdentifier>
+          <head>Berichte über Täufer aus Mähren in Wädenswil sowie Frage des Pfarrers von Bülach betreffend das Taufen von Kindern täuferischer Eltern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1579-05-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1579-05-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 233</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Considerationes:</p>
+<p>Der dechan am Zürichsee<note type="editorial"> Heinrich Bullinger (1534-1583)<persName ref="Bullinger, Heinrich (1534-1583)"/></note> zeigt an, daß im gricht <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName><note type="editorial"> Wädenswil</note> zwen frömde teüffer uß <placeName ref="LOC_49.5_17">Mehrern</placeName> werind, die große unrůw anrichtind.</p>
+<p>Glichs ward gemeldet von <persName ref="Schnider, Hans">Hansen Schnider</persName>, so sins handwerks ein schůmacher ist.</p>
+<p>Diß ist für<note type="editorial"> vor</note> ein ersamen rhat gewisen.</p>
+<p>Der pfarrer von <placeName ref="LOC_47.52804_8.54071">Bülach</placeName><note type="editorial"> <persName ref="Bindschedler, Jakob">Jakob Bindschedler</persName></note> bracht ein frag für: Diewyl ettliche teuffer uff mannung der fürgesezten ire kind zum tauff schikind und aber sy überal kein gmeinschafft mitt uns haben wellind, ob man innen ire kind tauffen sölle? Daruff geantwortet ward, man sölte sy tauffen, diewyl sy sich deß nammens Christi noch nitt entschlagen und mitt dem, daß sy ire kind uns zůbringend, sich selber<note type="critical">Folgt gestrichen: in</note> verrhatend, daß sy one rechtmeßige und gnůgsamme ursachen sich von unseren gmeinden absünderind. Es ward auch darüber anzogen<note type="editorial"> anführen, erwähnen, Id. XVII, 990.</note>, daß der h[eilig] <persName ref="GND_118505114">Augustinus</persName> wider die Donatisten schribt, man sölle die kindli tauffen umb deren glaubens willen, die sy zum tauff bringend etc.</p>
+</div>
+    </body>
+  </text>
+</TEI>

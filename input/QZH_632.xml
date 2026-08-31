@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_632</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno/>
+          </msIdentifier>
+          <head>Hinrichtung von Wernli Hess in Schwyz</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1599-02-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1599-02-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 518</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><hi rend="italic">Wernli Hess (vgl. Nr. 403 u. a.) stand in Schwyz als Täufer vom Wädenswiler <placeName ref="LOC_47.22493_8.65207">Berg</placeName> vor Gericht. Weil er angeblich das Altarsakrament als Lumpenwerk bezeichnet hatte, wurde er zum Tod durchs Schwert verurteilt. Bürgermeister und Rat von Zürich beschwerten sich zwei Wochen später in einem Schreiben (StAZH, B IV 57, fol. 130v-131v) beim Landammann und Rat von Schwyz über das vollstreckte Todesurteil und widersprachen der behaupteten konfessionellen Zugehörigkeit des Verurteilten, <q>[…] obglych er, Hess, mit der wider­toüf­ferischen sect etwas behafftet gwesen</q>. Ein Lied deutete den Tod von Hess als Martyrium (<q>Mit fröwden wöllend wir singen, wol hie zu dieser frist</q>, ZBZ Ms U 84, Nr. 205). Vgl. auch Emil Stauber, Die zürcherischen Märtyrer der Reformationszeit, in: Zürcher Taschenbuch 39 (1918), S. 74f.</hi></p>
+</div>
+    </body>
+  </text>
+</TEI>

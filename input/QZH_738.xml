@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_738</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355173">StAZH E I 7.3, Nr. 119; Abschrift: ZBZ, Ms A 72, S. 556f.</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Wolf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1604-07-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1604-07-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 624</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Hanß Wolfen von Bülach des thöüffers andtwort<note type="critical">Aufschrift auf der Rückseite vor dem Urteil.</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__119__S__1_.tif"/>
+<p>Als m[eister] <persName ref="Hafner, Kaspar">Caspar Hafner</persName> und h[err] zunftmeister Wirtz<note type="editorial"> Hans <persName ref="Wirz, Hans Konrad">Conrad Wirz</persName> </note> zů Hans Wolfen von Bülach, dem thöüffer, jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kheert und jmme angetzeigt, demnach jr, myn gnedig herren, verschiner<note type="editorial"> vergangener</note> tagen berichtet worden, das er sich anerboten, das glübt zethůn, wofeer<note type="editorial"> wenn, Id. I, 914.</note> er der gfangenschaft dißmaln erlaßen, das er den nechsten uß dem land hinweg züchen und weder jetzt noch jn könftigem ü[wer] (m[iner] g[nedigen] h[erren]) volckh zů der thöüfferischen sect ufwiglen und hinweg fuͤren welle. Also haben jr, m. g. h., jmme die gnad bewißen, jm fhal er söllich anloben uff vorgeschribne meinung luth synes erbietens thůn welle, das er hiemit der gfangenschaft erlaßen werden möchte. Und darüber sy, beide herren, dißers thöüffers andtwort empfangen, welliche er nebent vilfaltiger verandtwortung syner unschuldigen gefangenschaft, so jm erstlich zů <placeName ref="LOC_47.59284_8.67544">Andelfingen</placeName>, demnach zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> und jetzt letstlich alhie unverschulter wyß (wie er meint) bewißen, verweigeret und nit thůn wellen von deßwegen, diewyl vorertzelt anloben jr (der thöüfferen) ordnung und vorab der leer Christj zewider. Darumb dann er als ein junger mit dißeren beiden als alten<note type="critical"><q>als alten</q> am Rand mit Verweiszeichen</note> herren zedisputieren nit begere noch platz habe, so achte er, das das wort ja, als darby er uß dem land (dahin er dann von wegen besůchung siner gůten fründen kommen) zetzüchen versprechen welle, gnůgsam syn sölte. Was aber antreffe, jemanden wythers zů syner sect uftzestiften<note type="editorial"> aufwiegeln, anstiften, Id. X, 1474.</note> und hinweg zefuͤren, das könne und welle er nit versprechen, noch syn gwüßne darmit beschweren, dann er von syner seligkeit wegen schuldig und begirig syge, alle die uff den rechten weg jrer seelen seligkeit zewyßen, so desselben nit beßeren bericht haben und jrr gangen, vermeinende, wann er by dem wort ja verspreche, das er uß dem land züchen welle, so solten jr, m. g. h., sich desselben benuͤgen. Als nun obgemelte<note type="editorial"> oben erwähnte</note> beide herren jmme alles das, so nothwendig geweßen, widerlegt und von dißerm jmme fürgeschribnen anloben nit<note type="critical">Folgt gestrichen: absthon welle</note> abgelaßen, so jst er doch (was man joch<note type="editorial"> auch, Id. III, 6.</note> mit jmme geredt) uff synem intent<note type="editorial"> metonymisch für fürnemen (i.S. von Meinung, vgl. <hl to="http://fwb-online.de/go/intention.s.1f_1646275913"><Hyperlink>http://fwb-online.de/go/intention.s.1f_1646275913</Hyperlink></hl>).</note> bliben. Daruf genante beide herren jnne noch wither jn gfangenschaft gelaßen und üch, m. g. h., deßen (als hiemit beschicht) bericht haben wellen, gegen jmme wyther noch jrem wolwyßen gfallen zehandlen.</p>
+<pb n="2" facs="E_I_7_3__Nr__119__S__2_.tif"/>
+<p rend="margin-top">[Urteil]: Wann uff khünfftigen donstag jnn<note type="critical"><q>jnn</q> über der Zeile</note> deß scherers sach ghandelt wirt, soll als dann jme anzeigt werden: Wyl er nit anloben welle, sonder by synem ja versprechen wil, niemandts hinweg zefuͤren, wellen recht myn herren jnne der gfangenschafft ledig laßen. Doch sölle jme anzeigt werden, das myn herren jme syn ja darfür halten, als wann er ein ufgehepten eydt geschworen hette. Und so er wider jnn das land kheme oder etwarn<note type="editorial"> irgendjemand</note> ufwiglete, das als dann myn herren jnne wider jnziechen laßen und gegen jme handlen wellen, als wann er ein eydt gebrochen und meineid worden were. Und so er etwas an costen zegeben hatt, soll er dz thůn. Actum mentags den 30ten julij 1604 pr[aese]nt[ibus] herr statthalter Brenwald<note type="editorial"> <persName ref="Brennwald, Hermann">Hermann Brennwald</persName></note> und beide reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

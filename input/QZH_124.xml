@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_124</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=685159">StAZH E I 7.2, Nr. 85</idno>
+          </msIdentifier>
+          <head>Leonhard Holzhalb an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1534-08-16"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1534-08-16"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 10</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__85__S__1_.tif"/>
+<p>Fromen, festen, fürsichtigenn, ersamen, wysenn, jnnsonders gnedigenn, liebenn herrenn, min gantz willig dienst sigend üch alzitt bereitt zůvor. Gnedigen lieben heren, es hatt sich gebenn, wie etschlich<note type="editorial"> etliche, einige, Id. I, 590.</note> der thoͤufferenn sechtten anhengist sind gwesenn, die also nit zumm gottes wortt hand wellen gan. Uff soemlichs hab ich dem undervogt mit sampt den egoumeren<note type="editorial"> Vertreter der lokalen Sittenzucht, Id. II, 304.</note> in pfelch<note type="editorial"> Befehl, Auftrag</note> geben, sy zepschichenn<note type="editorial"> kommen lassen, Id. VIII, 523.</note> und zeermannen. Uff sömlichs habend sy <persName ref="Näf, Jakob">Jacob Neffenn</persName> von <placeName ref="LOC_47.25967_8.51064">Vollenweid</placeName> wellen pschichen, der sich des gottes wortt sünderett des kilchgangs halb und der thoͤufferen sechtten anhengist machett. Hatt er inen anbotten dem bredikantten<note type="editorial"> Johannes Frey (gest. 1569)<persName ref="Frey, Johannes (gest. 1596)"/></note> von <placeName ref="LOC_47.24435_8.53664">Hussen</placeName> und den egaumeren, er welle nit zunn der bredig, der bredikant heigy dann vor mit jm ein gesprech vor einer gantzen gemeind. Und wan dan der bredikant den gedachtten Jacob Neffen etschlicher arthichlen könne underwysen, so welle er dan zumm gottes wortt gann. Und darumb, lieben herren, so schriben ich uch somlichs, das<note type="critical"><q>uch somlichs, das</q> Lesung unsicher</note> ir, min herren, mir wellind ratten, wie ich mich soͤlle haltten, wan die ding wend nun für brechen, wo man nit wertt, und machett die üweren ungehorsam. Nit mer dan gott behuͤtt üch jn sinen gnaden. Dat[um] uff sontag nach unser frowentag mit dem ougsten, 1534 jar.</p>
+<p rend="margin-top">Üwer williger diener <persName ref="Holzhalb, Leonhard">Lienhartt Holtzhalb</persName>, vogt zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName>.</p>
+<pb n="2" facs="E_I_7_2__Nr__85__S__2_.tif"/>
+<p rend="margin-top">Den […]<note type="critical">Lesung unklar</note> festen, fürsichtigen, ersamen und wisen burgermeister unnd rat der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen gnedigen lieben herrenn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_414</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696707">StAZH E I
+              7.2, Nr. 174</idno>
+          </msIdentifier>
+          <head>Verzeichnis der Auswanderer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1584-08-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1584-08-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 300</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__174__S__1_.tif"/>
+<head type="Originalsprache">Vertzaichnus dern, so in das landt Merrer ziehen wollen und ein obligation<note type="editorial"> Verpflichtung</note> geben.</head> <p><persName ref="Wittmeier, Heinrich">Hainrich Wittmaier</persName> von <placeName ref="LOC_47.40198_8.39824">Deitigkhaim</placeName><note type="editorial"> Dietikon</note></p>
+<p><persName ref="Reitlinger, Anna">Anna Reittlingerin</persName> sein hausfraw</p>
+<p><persName ref="Meier, Michel">Michel Maier</persName> von <placeName ref="LOC_47.38946_8.48533">Aldtsteten</placeName><note type="editorial"> Altstetten</note></p>
+<p><persName ref="Meier, Margeth">Margretha Maieri</persName>n sein hausfraw</p>
+<p><persName ref="Reiss, Heinrich">Heinrich Reiß</persName> von Deittigkhaim</p>
+<p><persName ref="Reiter, Jakob">Jacob Reitter</persName> von <placeName ref="LOC_47.3539_8.43463">Permeßdorff</placeName><note type="editorial"> Birmensdorf</note></p>
+<p><persName ref="Hotz, Hans">Hanß Hotz</persName> von <placeName ref="LOC_47.22493_8.65207">Wedenschweil</placeName><note type="editorial"> Wädenswil</note></p>
+<p><persName ref="Stocker, Elisabeth">Elisabeth Stockerin</persName> sein hausfraw</p>
+<p><persName ref="Huber, Ruedi">Ruede Hueber</persName> von <placeName ref="LOC_47.31665_8.46625">Bonstetten</placeName><note type="critical">In der Vorlage: B(in)stetten (Lesung unsicher)</note></p>
+<p><persName ref="Meier, Michael">Michael Maier</persName> von <placeName ref="LOC_47.33727_8.46993">Wetteschweil</placeName><note type="editorial"> Wettswil</note></p>
+<p><persName ref="Paur, Ulrich">Ulrich Paur</persName> deselbst</p>
+<p><persName ref="Höck, Veronika">Veronica Höckhin</persName> sein hausfraw</p>
+<p><persName ref="Ers, Margreth">Margreth Ersin</persName>, Heinrich Renckher von <placeName ref="LOC_47.35346_8.32984">Brangartten</placeName><note type="editorial"> Bremgarten</note> hausfraw</p>
+<p><persName ref="Trechtler, Thomas">Thomas Trechtler</persName> von Permenßdorff</p>
+<p><persName ref="Kaufmann, Elisabeth">Elisabeth Kauffmennin</persName> sein hausfraw</p>
+<p><persName ref="Höck, Agnes">Agnes Hockhin</persName>, <persName ref="Huser, Johannes">Hansen Hausers</persName> von Permenßdorff hausfraw</p>
+<p><persName ref="Wittmeier, Hans">Hanß Wittmaier</persName> von Deittighaim</p>
+<p><persName ref="Ryser, Agnes">Agnes Rayserin</persName> sein hausfraw</p>
+<p><persName ref="Hedinger, Ulrich">Ulrich Hedinger</persName> von Permenßdorff</p>
+<p><persName ref="Schneider, Veronika">Veronica Schneiderin</persName> sein hausfraw</p>
+<p><persName ref="Müller, Anna">Anna Millerin</persName> daselbst</p>
+<p><persName ref="Müller, Elisabeth">Elisabeth Millerin</persName> von Tissa</p>
+<pb n="2" facs="E_I_7_2__Nr__174__S__2_.tif"/>
+<p><persName ref="Paur, Sara">Sara Peurin</persName> von <placeName ref="LOC_47.36667_8.55">Zürch</placeName></p>
+<p><persName ref="Lips, Margreth">Margeth Lipsse</persName> von <placeName ref="LOC_47.37984_8.42242">Uhdroff</placeName><note type="editorial"> Urdorf</note></p>
+<p><persName ref="Mest, Margreth">Margreth Mehstin</persName> </p>
+<p><persName ref="Schneider, Anna">Anna Scheiderin</persName> &gt; ^#.} von Permenßdorff</p>
+<p><persName ref="Wölin, Elisabeth">Elisabeth Wöllin</persName> </p>
+<p><persName ref="Dehin, Barbara">Barbara Dehin</persName> von <placeName ref="LOC_47.33544_8.43302">Aasch</placeName><note type="editorial"> Aesch</note></p>
+<p rend="margin-top">Und dan die vier Gaisell:</p>
+<p><persName ref="Hofmann, Heinrich">Hainrich Hoffman</persName> von Wettenschweil</p>
+<p><persName ref="Huser, Johannes">Hanß Hauser</persName> von Permenßdorff</p>
+<p><persName ref="Rank, Heinrich">Heinrich Renckher</persName> von Premgarten</p>
+<p><persName ref="Peyer, Marx">Marx Bayer</persName> von <placeName ref="LOC_47.40198_8.39824">Deuttighaim</placeName></p>
+<pb n="3" facs="E_I_7_2__Nr__174__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__174__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

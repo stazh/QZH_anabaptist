@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_209</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354858">StAZH B II 109, S. 32 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschlüsse betreffend Verfolgung von Täufern in Grüningen und Wädenswil</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1559-11-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1559-11-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 95</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Als her vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> uff den <persName ref="Streler">Strelern</persName> gůt, so der töüfferischen sect anhengig, ein pot<note type="editorial"> Arrest der Sache, Id. IV, 1897.</note> angleit und aber die gehorsamen
+          derselben brüdern sich des beschwert und ein gmecht<note type="editorial"> Vermächtnis,
+            letzwillige Verfügung, Id. IV, 69.</note> jngleit<note type="editorial"> vorbringen,
+            einreichen, Id. III, 1184.</note>
+          <note type="critical">In der Vorlage: jngliet</note>, jnn wellichem jr vatter selig die
+          ungehorsamen sün und tochteren enterbt und daruf begert, sy by dem gemecht plyben zlaßen
+          nach der frigheit<note type="editorial"> Freiheit</note> jres hofs recht. Ist erkennt, das
+          sy mit guten worten abgewiesen werden und lasst man das pot jn synem werd bestan<note type="critical"><q>und lasst man das pot jn synem werd bestan</q> am Rand mit
+            Verweiszeichen</note>. Hiezwüschen werde man das gmecht und jre frigheit ersächen und
+          dan dem vogt bescheidt zuschriben und solle jn hiemit anzeigen, das sy jre brüder nit
+          behusen noch beherbergen oder man werde sy darumb straffen. Ouch soll er erkundigen<note type="critical">Lesung unsicher</note>, wie sy sich gehalten. Deßglychen auch mit dem
+            schafner<note type="editorial"> Hans Oberkan</note> zu Rüti uff die ­toüf­fer, so jm
+          Rütj waldt zusamen sollen, jr spech<note type="editorial"> Nachforschung, Fahndung, Id. X,
+            76.</note> und kundtschaft machen und sy fengklichen anemen.</p>
+        <p>Deßglychen er, vogt, einen ordnen, der <persName ref="Bürgi, Jakob">Jacoben</persName> ob
+          Stralegs keß<note type="editorial"> Käse</note> verkouffe und das<note type="critical">Korrigiert, das ursprüngliche Wort ist nicht lesbar.</note> gelt hinder jm plybe, ouch
+          er hiezwüschen erkundige, ob er wyter schuldig und was der costen sige. Er soll ouch
+          erkundigen, wellicher gstalt der <persName ref="Müller, N.">Müller</persName> jm
+            <placeName ref="LOC_47.30605_8.92233">Radt</placeName><note type="editorial"> Raad, Hof in der
+            Gemeinde Wald</note> und der Streler ob dem <placeName ref="LOC_47.28405_8.91997">Haltperg</placeName> mit dem gfangnen toufer ob <placeName ref="LOC_47.32242_8.96122">Stralegg</placeName> gehandlet.</p>
+        <p>Diser Jacob ob Stralegg, sonst Bürgj geheisen, schwur einen eydt von stett und land, biß
+          er synes jrtumbs obstunde, nit wider daryn zekomen. Deshalb ward jm zugelaßen, syne keß
+          wie obstat selbs jn monats frist zeverkoufen, ouch syne schulden zebezalen und syne
+          gescheft zuverrichten. Den costen, der uf jnn gangen, ward bezalt, und<note type="critical">Lesung unsicher</note> den uberigen gegen hern vogt zu <placeName ref="LOC_47.28333_8.75">Grüningen</placeName><note type="editorial"><persName>Rudolf Escher (vom Glas)</persName></note> ward Hans
+          Schufelberg troster<note type="editorial"> Bürge, Id. XIV, 1435.</note>. Ouch das ales
+            bemeltj<note type="editorial"> Erwähnte</note> hern vogt zugeschriben, uf das er uf jn
+          acht hete, wo er ungehorsam wider synen eydt ald<note type="editorial"> oder</note>
+          hiezwüschen des monats stedigte<note type="critical">Lesung unsicher</note>, jn anzenemen
+          und synen<note type="critical"><q>synen</q> über der Zeile, in der Zeile gestrichen: den</note>
+          costen zeervordern wüßte.<note type="critical"><q>Er soll auch erkundigen, wellicher …
+            zeervordern wüßte</q> auf S. 33 mit Verweiszeichen.</note></p>
+        <p>Her vogt von <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName><note type="editorial">
+            <persName>Johannes Röuchli</persName></note> schryben, das er des puren von <placeName ref="LOC_47.21425_8.6469">Gisenrütj</placeName> sun, den sennen und andere theüffer
+          achtheben und annemen.</p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter unter dem Datum <q>Mentags den 27. novembris p[raese]nt[ibus] her
+          Müller statthalter unnd beyd reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

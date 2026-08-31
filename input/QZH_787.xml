@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_787</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355363">StAZH F III 36 a</idno>
+          </msIdentifier>
+          <head>Rechnung des Täuferamtes</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1608"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1608"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 673</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">| [fol. 1r] Rechnung umb gmeyner statt Zürich zůgefallen ­toüf­fergůtt vom 1608ten jar
+<abstand/> <br/>Hanns Waßer<persName ref="Waser, Hans"/>, verwalter desselben, die 9.<note type="editorial"> Das neunte Jahr von Wasers Buchführung</note></head> <p>| [fol. 2r] Ingenommen von alter restanntz, solch by myner achtenden rechnung vom 1607ten jar by yngenomnem ­toüf­fergůtt schuldig bliben, an gelt 9127 pfund<note type="critical">In der Vorlage: lb.</note> 19 schilling<note type="critical">In der Vorlage: ß</note> 6 heller<note type="critical">In der Vorlage: hr.</note>.</p>
+<p rend="margin-top">Inngenomen an zinnßen von vorstendem ­toüf­fer gůtt uff das 1608ten jar an gelt 350 pfund 14 schilling 6 heller.</p>
+<p rend="margin-top">Dißere jerrlichen zinß meerent sich gegen der verndrigen rechnung umb 56 pfund 17 schilling uff <persName ref="Klöti, Adam">Adamen Klöttj</persName> hinderleggtem ­toüf­fer gůt. Demnach so sindt volgende zinß denn zinßlüthen uß ercandtnuß<note type="editorial"> Beschluss</note> myner herren der rechenherren nachgelaßen<note type="critical">Folgt gestrichen: so aber</note>, da aber dz houbtgůt noch hinder mir liggt unnd jnn obvermelten houptguͤtern jm ynnemen vonn alter restantz vergriffen jst, namlichen 6 pfund 18 schilling uff <persName ref="Bücheler, Hans">Hannßen Bücheler</persName> zů <placeName ref="LOC_47.24779_8.46399">Mettmenstetten</placeName> 40 pfund unnd 10 schilling uff Oßwalden Bumann zů Arnne, unnd dan stand jnn die 500 pfund ann usstende zinsen uß, so auch dhein<note type="editorial"> kein</note> zinß thragt unnd aber jnn obvermelten 9127 pfund ynnemmen von alter restantz vergriffen sindt.</p>
+<p>Sumarum alles ynnemens ann gelt 9478 pfund 14 schilling</p>
+<p rend="margin-top">| [fol. 2v] Dargägen thůtt das ußgäben:</p>
+<p>8 pfund 14 schilling uß bevelch myner g[nedigen] herren zalt jch <persName ref="Waser, Konrad">Cunraten Waßer</persName>, dem thurnhütter, weliches <persName ref="Tamperli, Jaggli">Jagglj Tamperlj</persName> von Gůttenschwyl<note type="editorial"> <placeName ref="LOC_47.38387_8.71763">Gutenswil</placeName></note>, so der ­toüf­fery halb jn gefangenschafft gelegen, by jme verbrucht und diewyl syn hab unnd <nswk/> gůtt by anderm ­toüf­fergůtt hinder mir liggt, hab jch dißere zeerung daruß bezalt jm september anno 1608.</p>
+<p>18 pfund 10 schilling sind abermalen wie ferndt <persName ref="Hindermann, Ulrich">Ůlrichen Hindermann</persName>, genant Künj von <placeName ref="LOC_47.42008_8.43033">Wynigen</placeName>, als den zinß, so jnn dißerm jar von synes schwagers <persName ref="Müller, Hans">Hannßen Müllers</persName> hinder mir lygendem ­toüf­fer gůtt verfallen, wegen syner großen armůtt unnd das syn husfraw desselbigen nechste erbin verwandt und zů gestelt.</p>
+<p>2 pfund 16 schilling herren hußschryber Greblen<note type="editorial"> Konrad Grebel (1561-1626)</note>, herren vogt Lemann, herren amptmann Keller unnd mir blonung, als wir <persName ref="Wecker, Barbara">Barbara Wegkern</persName> von <placeName ref="LOC_47.45801_8.58528">Clotten</placeName> ­toüf­fergůtts halber zethůnd hattend.</p>
+<p>16 pfund habent myn g. herren, die rechenherren, abermalen <persName ref="Grüter, Felix">Felixen Grütters</persName> zů <placeName ref="LOC_47.39259_8.68949">Volcketschwyl</placeName> armmen můtter von den 60 pfund zinß, so diß jars von jres suns hinder mir liggenden ­toüf­fergůtt verfallen, wegen jrer groß armůdt vereerdt und geschenkt.</p>
+<p rend="margin-top">Summa 46 pfund.</p>
+<p rend="margin-top">| [fol. 3r] Ußgäben:</p>
+<p>25 pfund jst myn geordnete jars besoldung, diß gůtt anno 1608 zů verwalten.</p>
+<p>3 pfund 15 schilling dennen, so zinß bracht zum tringkgelt.</p>
+<p>3 pfund mynen g. herren von verndriger rechnung rechenschiling.</p>
+<p>Summa 31 pfund 15 schilling.</p>
+<p rend="margin-top">Suma sumarum alles ußgäbens ann gelt 77 pfund 15 schilling.</p>
+<p rend="margin-top">| [fol 3v] Nach abzug jnnemens unnd ußgebens blyben jch by dißer rechnung vom 1608ten jar luther schuldig ann gelt 9400 pfund 19 schilling.</p>
+<p rend="margin-top">Die sindt ann gült- unnd schuldbrieffen ouch usstennden zinßen bar verhannden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Das neunte Jahr von Wasers Buchführung</p>
+      </div>
+    </back>
+  </text>
+</TEI>

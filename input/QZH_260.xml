@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_260</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355336">StAZH E II
+              1, S. 577; StAZH E I 2.1, Nr. 20</idno>
+          </msIdentifier>
+          <head>Berichte betreffend die Täufer und Überweisung an die Verordneten</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1567-05-06"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1567-05-06"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 146</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Der toͤüffern halb ward vil anzeigt, das alles ward gewisen an die herren darzů
+            verordneten<note type="critical">korrigiert, ursprünglich: verordneten</note>.</p>
+        <p rend="margin-top">[Bericht an den Rat von Zürich]<note type="critical">Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606942">StAZH  E I 2.1, Nr. 20</ref></bibl>, <q>was uß gehaltnem
+            sinodo für myn herren gwißen</q></note></p>
+        <p>Zů <placeName ref="LOC_47.26648_8.80812">Bůbicken</placeName> jst der senn ein ­toüf­fer.
+          Hat schon ein andern knecht ouch jm anhengig<note type="critical">In der Vorlage:
+            anhenig</note> gemachet und noch jst einer under wegen. Wo nun das nitt by zyten mit
+          ernst abgestelt, sind andere ­toüf­fer schon jnn bergen und thalen<note type="critical"
+            ><q>jnn bergen und thalen</q> am Rand</note> allenthalben jnn der herrschafft Gruͤningen
+            vil<note type="critical"><q>vil</q> über der Zeile</note>, das zů besorgen, es möchte mynen
+          herren bald daruß große unrůw und unheil<note type="critical">Folgt gestrichen:
+            daruß</note> volgen. Dann jr leer, das das gůt gmein syn sölle, jst, welliches bald ein
+          volg bim verdorbnen volck<note type="critical">Folgt gestrichen; js</note> haben wurde.
+          Diewyl dann sölliches ein gmeine sach. Ist für<note type="editorial"> vor</note> üch<note
+            type="critical"><q>üch</q> über der Zeile</note>, myn herren, gwißen, mit erntst ein
+            jnsehen<note type="editorial"> Vorsorge (treffen), Id. VII, 562f.</note> zethůnd.<note
+            type="critical">Folgt gestrichen: und die vögt allenthalben erkhundigen zelasßen, wo
+            sölliche personnen sygen, myn herren deß zůberichten.</note></p>
+        <p>Die dryg ­toüf­fer<note type="editorial">
+            <persName ref="Ruman, Peter">Peter Ruman</persName> , <persName ref="Bräm, Fridli"
+              >Fridli Bräm</persName> und <persName ref="Kuhn, Jakob">Jakob Kuhn</persName></note>,
+          so vor jm sinodo anzogen und jnn der herrschafft <placeName ref="LOC_47.47812_8.42878"
+            >Regensperg</placeName> sitzend, farend unangsehen, was man mit jnen gehandlet und
+          gredt, jemerdar für.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

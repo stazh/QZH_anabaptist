@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_564</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355137">StAZH B VI 264, fol. 134 (Rats- und Richtbuch).</idno>
+          </msIdentifier>
+          <head>Urteil gegen Heini Schmid</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1591-11-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1591-11-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 450</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Actum mittwuchs den 17ten novembris anno etc. 91 p[raese]nt[ibu]s herr <persName ref="GND_143658468">burgermeister Großman</persName> unnd beid reth.</p>
+<p rend="margin-top">Als Heinj Schmid zů <placeName ref="LOC_47.03577_7.37466">Schipffen</placeName> vor einem jar über die herren predicanten etliche schmechliche lesterliche rede ußgoßen, und daruf die herren predicanten jnn statt unnd landtschafft gmeinlich (als sy deßen erst jetz jnnen worden) durch jren ußschutz<note type="editorial"> Abordnung, Kommission, Id. VIII, 1711.</note> vermelten<note type="editorial"> erwähnten</note> Schmiden vor mynen gnedigen herren darumbe rechtlich beklagt, hatt sich jnn der rechtshandlung durch verhörte khundtschafft<note type="editorial"> Zeugenaussage, Id. III, 353.</note> gnůgsam befunden, das er, Schmid, jm wirtshuß zů <placeName ref="LOC_47.53797_8.47014">Stadel</placeName> jm <placeName ref="LOC_47.502561593977106_8.499244491889575">Nüwenampt</placeName> unnder ehrlichen lüthen (nachdem er zevor denselben erzelt, wie er jm wirtshuß zum Storchen jnn der statt alhie mitt zweygen predicanten disputiert habe) unnder anderm fryg offentlich gredt, die predicanten sygen all schölmen und bůben unnd sy wüßint die wahrheit wol, lehrind aber die nit etc. Wiewol nun myn gnedig herren fůg unnd ursach gnůg gehept, genannten Schmiden von söllicher lesterlichen gar ze groben reden wegen an synem lyb unnd läben zestraffen oder jme ein offne schand anzethůnd, diewyl unnd aber er, Schmid, jnn der gfangenschafft (daryn myn gnedig herren jnne leggen laßen) unnd ouch zevor vor jnen, mynen herren, einem ehrsamen rath die herren predicanten diser reden halber entschlagen unnd angezeigt, das er sy für fromme ehrliche lüth, welliche die warheit luther unnd heiter verkhündint, halte, gantz demütig umb gnad unnd verzychung bittende, so habent wolgenannt myn gnedig herren uff sölliche syn bekhandthnuß ouch jnnansechen syner söhnen unnd fründtschafft<note type="editorial"> Verwandtschaft</note> (die myn gnedig herren für jnne bitten laßen) und jnn betrachtung gstaltsame der sachen unnd deß anlaßes, dardurch er jnn disere reden unnd handlung gerathen jst, das milter an die hand genommen unnd habent uß sonderen hochen gnaden jnne zů straaff uferlegt, namblich das er, Heinj Schmid, biß uff jr (myner herren) gnad und nachlaßen ehr- unnd wehrloß syn, darzů zweyghundert guldin zů gmeiner statt handen zebůß erleggen unnd allen kosten, so uff die sach ganngen, abtragen sölle. Darnebent er für<note type="editorial"> vor</note> myn gnedig herren einen ehrsammen rath gestelt werden, alda er nachmaalen bekhennen, das unnsere christenliche religion jme gfalle, unnsere predicanten die warheit lehrind unnd er sy für erliche lüth halte. Dannenthin durch mynen herrn burgermeister mit jme nach aller nothurfft gredt, syn feler unnd was er verdienet hette, jme fürgehalten unnd darby ouch jme (als einem, so der ­toüf­ferischen sect nur zevil byfals unnd gunst erzeigen will) angezeigt werden, das er alle sontag unnd zinstag, so es jme lybs halber müglich, ze kilchen gange, die predigen höre unnd sich aller gehorsamme beflyßen thüyge, dann man uff jnne deßhalb ein ufsechen haben werde.</p>
+</div>
+    </body>
+  </text>
+</TEI>

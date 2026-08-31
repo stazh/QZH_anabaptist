@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_624</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355274">StAZH E I 7.3, Nr. 83</idno>
+          </msIdentifier>
+          <head>Johannes Bluntschli an das Ehegericht von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1598-06-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1598-06-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 510</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__83__S__1_.tif"/>
+<p>Min fründtlicher grůß mitt sampt erbiettung aller eeren, trüw, liebe und gebürlicher ghorsamme zevor. Fromm, eerenvest, fürsichtig und wiß, auch fromm, eerwirdig, hoch- und wolgelert, insonders fürgeliebte ir mine g[nedigen] h[erren], die presidenten deß eegrichts, üwer an mich gethon schriben hab ich sines innhalts verstanden, das nammlich die wider­toüf­fer, die in schand und ergernuß on alles schüchen sizend und ir ee nitt nach christenlicher ordnung wie andere kilchgnoßen bestetten lassen, mitt nammen söllind benamset werden<note type="critical"><q>mitt nammen söllind benamset werden</q> am Rand mit Verweiszeichen</note>. Doruff ich unsere g. h. widerumb früntdlichen deßhalb thůn verständigen volgender gstaltt: Wir, die diener der kilchen, habend uß bevälch unsers junckheren obervogts<note type="editorial"> Alexander Rubli</note> aller gattung der wider­toüf­feren handlungen und auch ire nammen ordenlich uß düttet, das er sömmliche gschrifft u[nsern] g. h. uff gemeltds juncker vogts rächnung köntde presentieren, wöllichs dan wie anzeigt beschächen soll sin, darinn sömmliche unverschampten ­toüf­feren wäsen und nammen benammset gsin. Da hatt man nitt anders gachtet, dann das sömmlicher personen nammen üch, u. g. h. den eerichteren, nitt wurde verborgen sin, dorumb dan imm letsten fürtrag die nammen ieder person<note type="critical"><q>person</q> über der Zeile</note> nit ußgedüttet sind. Diewil und aber notdwendig die nammen sömmlicher personen zewüßen, so hab ich die sälbigen üch, u. g. h. den eerichteren, mitt diser geschrifft wöllen verzeichnen.</p>
+<p rend="margin-top">1. <placeName ref="LOC_47.22639_8.54962">Äberschwil</placeName><note type="editorial"> Ebertswil</note> in der pfarr Husen<note type="critical">Die Aufzählung (Nummern mit Parochien) befindet sich in der Vorlage am Rand.</note></p>
+<p><persName ref="Wäber, Gorius">Gorgys Wäber</persName> von Äbertschwil und Ysli Laubachen<note type="critical"><q>und Ysli Laubacher</q> über der Zeile</note> in der pfarr Husen sind nun fürhin ob 9 jaren über alle warnung und manung in sömmlicher ergernuß by e[in] a[ander] gsäßen und ir eer nie wöllen bestetten laßen.</p>
+<p>2. <placeName ref="LOC_47.21639_8.47594">Baregk</placeName><note type="editorial"> Baaregg</note> in der pfarr Knonow</p>
+<p><persName ref="Frey, Georg">Gorges Fry</persName> in der Baregk in der pfarr Knonow hatt vormals eine ghan, die er nie nach christentlicher ordnung zekilchen gfürtt, und ist imm dise sin frow in der ergernuß abgestorben. Hernach hatt er ein <persName ref="Hochstrasser, N.">Hochstraßere</persName> wider genommen und 2 kind bin iren ghan, die hatt er noch nie zekilchen und straß nach gmeiner ordnung gfürtt ghan<note type="critical"><q>ghan</q> über der Zeile</note>. So er gemanet und gwarnet, ist sin anttwort gsin, man sölle andere sünd und laster abstellen, die meer ergernuß gäbind und derglichen. Nochdem nun dise Hochstraßerin auch gstorben, hatt er noch öttwas verruckter zitt sich an eine amm Horger <placeName ref="LOC_47.24847_8.5877">berg</placeName> ghänckt, deren nammen mir verborgen<note type="critical"><q>deren nammen mir verborgen</q> am Rand mit Verweiszeichen</note>. Und als er dasälbs zur bestettigung der ee und kilchgang gmanet, ist er wider heim in die Baregg Knonower kilchgangs zogen, da er noch also in einem hüßli mitt iren wonet und in sömmliche ergernuß und schand noch unverschampter wiß sizet und niemands ansicht.</p>
+<p>3. <placeName ref="LOC_47.28833_8.43124">Zwillicken</placeName><note type="editorial"> Zwillikon</note> in der pfarr Affoltheren</p>
+<p>Zů Zwillicken in der pfarr Affoltheren sizt einer mitt nammen <persName ref="Gut, Melchior">Mölcher Gůtt</persName>. Der hatt nun ein wibs person ongefar bin zächen jaren bin imm ghan, kinder bin iren züget, aber mitt iren den christenlichen kilchgang, wie eelüthen zů stůnde, nitt thon oder verricht.</p>
+<p>4. <placeName ref="LOC_47.26426_8.409">Niderluneren</placeName><note type="editorial"> Unterlunnern</note> in der pfarr Ottenbach</p>
+<p>In der pfarr <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> imm dörffli Niderluneren ist einer mitt nammen <persName ref="Kreyer, Jakob">Jacob Kräyer</persName>. Der hatt bin eimm buren, Mölcher Gůtt, lang gedienet und deßälbigen dochter genommen und aber sich von der ghorsamme deß predig gons harttnäckig abzogen, sobald er mitt iren den kilchgang thon. Als aber imm diß sin wib abgstorben, hatt er ein andere ab demm Horger <placeName ref="LOC_47.24847_8.5877">berg</placeName> (deren nammen ich nitt weiß) an sich ghänckt und diesälbig, <pb n="2" facs="E_I_7_3__Nr__83__S__2_.tif"/> als er si nit zekilchen wöllen fuͤren unnd von den gschwornen der pfarr vermanet zur ghorsamme wie andere, aber er geanttwortet, man sölle nun gedult haben, biß uff verschinen liechtmeß<note type="editorial"> 2. Februar</note>, so wölle er dann hinweg. Als nun die zitt verschinnen<note type="editorial"> abgelaufen</note>, ist nüt uß der sach worden, und hatt also sin ee, nitt wie gebrüchig, bestettet unnd hatt es auch nitt imm sinn zethůn.</p>
+<p rend="margin-top">Dise iez genempte personen all sizend in sömmlicher verwuͤstung deß heiligen eestands mitt großer ergernuß und schand, und gibtt all anlaß zů reden. Wenn nun einer glichsfals also handlet und sizt, so säge er nun, er sig ein ­toüf­fer. So kombtt es dardurch, dorumb der nammen der wider­toüf­fery zů schirmm der sünden und lasteren gebrucht wirt. Was aller anderer und auch diser wider­toüf­feren handel und wäsen, ist in einer besonderen gschrifft u. g. h., den glerten, fürgebracht und sonst auch u. g. h. besonders durch junckher obervogt Rubly<note type="editorial"> <persName ref="Rubli, Alexander">Alexander Rubli</persName> </note>. Diß hab ich üch, minen gnedigen lieben herren den eerichteren, wöllen getrüwer wolmeinung uff u[wer] w[ißheit] bevälch eroffnen. Hiemitt bevilch ich üch, mine g. h., in trüwen schirmm gottes, mich erbiettende aller eeren, trüw, liebe und gebürlicher ghorsamme zů ieder zitt. Gäben zů Ottenbach den junij 27 anno 1598.</p>
+<p rend="margin-top">Ü[wer] e[rsam] w[ißheit] und eerwirde getrüwer und ghorsammer d[iener]</p>
+<p>Joannes Bluntschlj, diener der kilchen zů <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName></p>
+<pb n="3" facs="E_I_7_3__Nr__83__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__83__S__4_.tif"/>
+<p rend="margin-top">Den frommen, eerenvesten, fürsichtigen und wisen, auch frommen, eerwirdigen, hoch- und wolgelerten herren verordnete richter der eesachen der loblichen statt Zürich, minen insonders eerenden, früntdlichen, geliebten herren und vätteren zů handen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

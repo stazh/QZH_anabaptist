@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_791</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354994">StAZH B II 307, S. 32 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend das Gut einer in Mähren verstorbenen Täuferin</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1609-04-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1609-04-12"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 677</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr seckelmeister Escher<note type="editorial"> Hans Escher <persName ref="Escher vom Luchs, Hans">vom Luchs</persName></note>, vogt Kipenhan<note type="editorial"> <persName ref="Kippenhan, Hans">Hans Kippenhan</persName></note> und vogt Leman<note type="editorial"> Hans <persName ref="Leemann, Hans Rduolf">Rudolf Leemann</persName></note> söllent gwalt haben, mit dem Blickenstorfer ab Bůchenegg und syner frawen uff das fürgezeigt schryben zeüberkommen<note type="editorial"> übereinkommen, Id. III, 272.</note>, was gmeiner statt von Elßbetha Bicklin jnn Merhern seligen alhie hinderlegtem gůt gehören und das überig deß Blickennstorffers frawen jrer schwöster gevolgen<note type="editorial"> rechtlich zukommen, zuteilwerden, Id. I, 813.</note> laßen, doch dz sy darumb versicherung gebind, wann etwar<note type="editorial"> jemand</note> keme, dem diß gůt gehorte, man das zefinden wüße.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mitwochs, den 12ten aprilis p[raese]nt[ibus] herr Raan unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

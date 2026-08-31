@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_416</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696708">StAZH E I 7.2, Nr. 175</idno>
+          </msIdentifier>
+          <head>Truchsess Christoph von Waldburg an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1584-09-16"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1584-09-16"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 302</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__175__S__1_.tif"/>
+<p>Christoph des hail. röm. reichß erbtruchsäß, freyherr zue Waldpurg, herr zuer <placeName ref="LOC_48.08364_9.31703">Scheer</placeName> und <placeName ref="LOC_47.64171_10.12732">Trauthburg</placeName>, röm. khay. ma[jesta]tt etc., auch f[ü]rs[tlicher] d[urchlauc]ht ertzhertzog Ferdinands zue Össterreich etc. rath</p>
+<p rend="margin-top">Unnsern g[ünstigen?] grues zuvor. Fromm, ernvest, fürsichtig, ersam unnd weiß, liebe besonndern, unß ist ewer intercession für <persName ref="Huser, Johannes">Hannß Husern</persName>, ewern gewessten landtsessen (so sich under die abscheühliche sect der widerthauffer begeben wöllen und von uns in unserer graveschafft <placeName ref="LOC_48.00353_9.41503">Fridperg</placeName> sambt seinen mit consorten fenngglich angenomben worden), bey zaigern<note type="editorial"> Bote, Überbringer und Vorzeiger eines Briefs, Id. XVII, 393.</note> wol ankommen. Unnd obe wol wir euch g. zue willfahrn genaigt, dannocht weil unß noch der zeyt von den andern so ebenmäßig von uns eingezogen und wider zuerugg geschickht worden kein kundtschafft, das sie sich verobligiertermaßen gehorsamlich nach hauß verfüegt zugelangt (ob wir unß gleich dessen zue euch getröstet), so will unß die erlaßung ewerm begehrn nach an jetzo beschwerlich fallen. Da aber solche kundtschafft unß angefüegt, so wol auch ein ausschutz seiner und der andern dreyen geyßeln (die wir neben jme hinderhalten) freundtschafften <pb n="2" facs="E_I_7_2__Nr__175__S__2_.tif"/> sich bey unß der gepür nach erzaigten und von jretwegen in einen vertrag einlassen, wolten wir unß gegen jnen so gnedig erweisen, damit sie zuspüren ewer fürschrifft genoßen zuhaben, wie wir dann derselben im besten eingedenckh unnd euch mit g. willen vorderst gewagen seyen. Datum Scheer, den 16. sebtembris anno etc. 84.<note type="critical">Folgt unten die Unterschrift von Freiherr Christoph von Waldburg.</note></p>
+<pb n="3" facs="E_I_7_2__Nr__175__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__175__S__4_.tif"/>
+<p rend="margin-top">Dem fromen, ernvesten, fürsichtigen, ersam und weisen, unsern lieben besondern, burgermaistern und rath der statt Zürch.</p>
+</div>
+    </body>
+  </text>
+</TEI>

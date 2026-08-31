@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_685</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355291">StAZH E I 7.3, Nr. 98</idno>
+          </msIdentifier>
+          <head>Johann Jakob Wagner an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1601-12-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-12-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 571</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__98__S__1_.tif"/>
+<p>Min unterthenige, gehorsamme und willige dienst, grůß mit wünschung eines glückseligen fröudreychen nüwen jars sampt langwüriger gsundtheit und wolfart zů seel und leib bevoran. Frommer, ehrenvester, fürsichtiger, weißer herr landtvogt, ich hab lenger nit können underlassen, sonder dißmalen von ampts wegen uff eweren gethonen befelch e[uer] w[yßheit] zůberichten, wie es ein gstaltsamme<note type="editorial"> Beschaffenheit, Id. XI, 368.</note> habe umb miner pfarrs angehörige töufferischer sect anhengige personen, welliche ietz lang hindangesetzt uns[er] g[nedigen] herren vätterliche wolmeinung ernstliche und getrüwe vilfaltige ermanung und warnung<note type="critical">Folgt gestrichen: eigentl</note> eigenrichtiger verachtlicher wyß in irer ungehorsamme und kyb<note type="editorial"> Zank, Streit, Id. III, 106.</note> beharret und noch also zůverbliben endtlichen gesinnet sind. Dan als bißhar der weibel zů <placeName ref="LOC_47.3377_8.87216">Bäretschwyl</placeName> vermög unser g. herren christlichen ansehens<note type="editorial"> Verordung, Erlass, Id. VII, 560.</note> und mandaths von <persName ref="Spöri, Hermann">Herman Spörri</persName> hinder der Burgek <placeName ref="LOC_47.346284_8.864490">Gryffenberg</placeName><note type="editorial"> Burg Greifenberg</note> und sinem weib und kinden, da er mit siner gantzen haußhaltung ietz vill zeit den christlichen kirchgang versaumpt, wie ouch sin brůder <persName ref="Spöri, Peter">Peter Spörj</persName> uff <placeName ref="LOC_47.350994_8.877896">Dunckelwyß</placeName> glichfals mit weib und kinden, deßglichen <persName ref="Egli, Hans">Hannßen Eglj</persName> dem senner, <persName ref="Egli, Ůli">Ůlj Eglis</persName> zů Cleinbärotschwyl<note type="editorial"> <placeName ref="LOC_47.32253_8.90169">Kleinbäretswil</placeName></note> eelichen sohn, die bestimpten bůßen, uff jeden sontag verfallen, geforderet, haben sie neben villen verachtlichen und unbefugten wortten nit nun nützit wöllen geben, sonder allerdings, zů uns zů kirchen zegon, abgeschlagen mit vermeldung, so uns[er] g. herren zů irem leib und gůt gwalt habind, müssind sie inen daßelbig nemmen lassen<note type="critical"><q>lassen</q> über der Zeile</note>. Man werde sie aber, mit uns gmeinsamme zehaben, nit nöttigen und zwingen können, mit vill anderen nach irer ardt ungerympten<note type="editorial"> uneghobelt, Id. VI, 903.</note> thädungen<note type="editorial"> Geschwätz, Id. XII, 439.</note>, onnott zemelden. Weil dan irethalb überal kein hoffnung des widerkeers<note type="editorial"> Rückkehr (in die Kirche), Bekehrung</note> und ­mengck­lich<note type="editorial"> jeder</note> by uns sich hefftig eergeret und wunder nimpt, das man sie also in irer ungehorsamme zůbeharren gestatte, glichfals grosse sorg daruff stadt, wo man mit höchstem ernst sie nit angendts<note type="editorial"> sofort, Id. II, 19.</note> abschafft und zur meisterschafft bringt, es wurde by villen groser abfahl beschehen, hab ich durch zeigern<note type="editorial"> Überbringer von Nachrichten, Id. XVII, 393.</note> (den der weibel dißmal selber nit verreißen können) e[euer] w[yßheit] verstendigen<note type="critical">Folgt gestrichen: können</note> wöllen, da mir nit zweifflet, ir nach ewerem christenlichen eyffer und liebe zum waaren gottsdienst neben ewerem ansehen und gwalt fürderlich gebürende anleitung thůn werdind, damit gottes ehr geuffnet<note type="editorial"> fördern, mehren, Id. I, 123.</note> und die ungehorsamme und alles übel abgeschafft werde. Und weil den ouch der weibel, eegoumer<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note> und andere von iretwegen kosten erlident, wöllind ir ouch wägwyßung geben, wo der cost zefinden. Hiemit euch sampt allen den eweren gottes vätterlichen schirm und hůt wol thůn befelhen. Actum den 30. decemb[ris] jm jar Christi 1601.</p>
+<p rend="margin-top">Joan. Jacob Wagner, der kirchen zů <placeName ref="LOC_47.3377_8.87216">Bärotschwyl</placeName> einfaltiger diener, e. w. alzeit gůtw[illiger] underth[an]</p>
+<pb n="2" facs="E_I_7_3__Nr__98__S__2_.tif"/>
+<p rend="margin-top">Dem ehrenvesten, fürsichtigen unnd weißen herren Jacoben Zůr Eych, des radts Zürich unnd dißer zeit vogt der herrschafft <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName>, sinem insonders ehrenden, gönstigen herren zů selbs eignen handen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

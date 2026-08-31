@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_160</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=595451">StAZH III Aab 1.1, Nr. 31</idno>
+          </msIdentifier>
+          <head>Grosses Mandat</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1550-05-05"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1550-05-05">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 46</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head type="Originalsprache">Christenlich Ordnung unnd satzung eines Ersamen Rats der Statt
+            Zürych<placeName ref="Zürich"/>/ den gmeinen Kilchgang und predigen/ die Widertoͤuffer/
+          Froͤmbde Religion/ Verbotten abergloͤubig künst/ Kilchenrechnungen/ Fyrtagen/
+          Gottslesteren/ Spilen/ Zůtrincken/ Kleider/ Waffen zetragen/ Hochzyt und tantzen/
+            Schebeten<note type="editorial"> Gastmahl, Zechgelage, Id. VIII, 19.</note> und zeeren/
+            Reißlouffen<note type="editorial"> Annahme eines Solddienstes ohne Staatsvertrag, Id.
+            III, 1140.</note>/ Wůcher und fürkouff<note type="editorial"> Aufkauf von Waaren durch
+            Spekulanten, Id. III, 166.</note>/ Die Ee und ander derglychen stuck/ belangend. Sampt
+          der ordnung Synodi/ vornaher ußgangen. Yetzund aber alles in ein kurtzen begriff verfaßt
+          und zůsamen gestelt und in truck geben.</head>
+        <p>[… | fol. A3v] Von den Widertoͤufferen</p>
+        <p rend="margin-top">Als etlich in unseren Oberkeiten der irrigen Sect der Toͤufferen/ über
+          unsere schwaͤre mandat und gebott/ nit zů kleiner unser verachtung/ und ynfuͤrung
+          schaͤdlicher jrsals/ anzůmassen/ und daryn zůverwicken understond: ouch ettlich der
+          unseren jnen fürschub<note type="editorial"> Beihilfe, Id. VIII, 84.</note> und
+          underschlouff gebend/ sy ynzühend/ enthaltend<note type="editorial"> Unterkunft geben, Id.
+            II, 1228.</note>/ und sich jrer jrsaͤligen leeren/ winckelpredigen und heimlichen
+          versamlungen/ genoß und teilbar machend/ und dann dise Sect zů zerrüttung aller Oberkeiten
+          und gůter Regimenten zum hoͤchsten dienstlich. So gebietend wir zum treffenlichisten<note
+            type="editorial"> eindringlich, Id. XIV, 392.</note> und ernstlichisten/ daß sich
+            mengklich<note type="editorial"> jeder</note> by hoher und schwaͤrer unser straaff und
+          ungnad/ von disen schaͤdlichen versamlungen/ und irrigen leeren abzühe/ deren niemants
+          anhange/ noch statt/ jnen ouch keinerley hilff/ underschlouff/ platz/ noch fürschub gebe/
+          sy nitt ufenthalte/ huse/ oder herberge/ ouch keinerley gmeinschafft oder gsellschafft mit
+          jnen fürnemme/ sonders mengklich sich jren ruͤwige<note type="editorial"> sich enthalten,
+            Id. VI, 1909.</note> und gentzlich entschlahe. Dann wir deren unverdacht sin/ sy ouch in
+          unseren Landen und gebieten schlechts nit lyden noch gedulden. Sonders woͤllend das
+            angentz<note type="editorial"> unverzüglich, Id. II, 19.</note> zů jnen gegriffen/ und
+          uns überantwort werdind/ damit wir die Toͤuffer/ jre günner und anhenger/ luth unser
+          satzungen/ an jrem laͤben/ Und die so jnen fürschub thůnd/ sy nit leidend/ verjagend/ oder
+          uns gefengklich zůfuͤrend/ nach jrem verschulden (als lüt die trüw und eyd jren Herren
+          überfaren hand) on gnad straaffen moͤgind/ und darinn nyemandts verschonet werden.</p>
+      </div>
+    </body>
+    <back><div>
+      <p>Die Originale liegen in zwei unterschiedlichen Ausgaben vor, der hier
+        wiedergegebene Text ist jedoch in beiden identisch.</p>
+       <p>Undatierter Druck (VD16 Z 590, Vischer C 704): StAZH, III Aab 1.1, Nr. 31;
+          Aab 5.1, Nr. 25-27; E IV Freiamt 2; ZBZ, AW 1025 (digitalisiert), M&amp;P 55, IV GG 823
+          (Titelblatt fehlt), Ms A 90, S. 193-232 und Ms B 74, Bl 113r-132v; Bayerische Staatsbibliothek,
+          2 J.austr. 46 (digitalisiert); Universitätsbibliothek Freiburg (Breisgau), Q 9149,t.</p>
+       <p>Datierter Druck (fehlt in VD16 und Vischer): StAZH, E II 443, S. 97.1-97.44
+          (mit handschriftlichen Anmerkungen Heinrich Bullingers); StAZH, E III 86.1, Nr. 1 (Titelblatt
+          beschädigt); ZBZ, Ms B 27, Bl 188-208 (digitalisiert); Österreichische Nationalbibliothek,
+          20.Cc.65 (digitalisiert).</p>
+    </div></back>
+  </text>
+</TEI>

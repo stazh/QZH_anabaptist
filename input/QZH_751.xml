@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_751</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355128">StAZH B IV 63, fol. 221</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1605-02-28"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1605-02-28"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 637</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, vor unns sind erschinnen die unnseren <persName ref="Schaufelberg, Jakob">Jacob Schufelberg</persName> unnd <persName ref="Hess, Heinrich">Heinrich Heß</persName> unnd habent uns berichtet, wie<note type="critical"><q>wie</q> am Rand, in der Zeile gestrichen: nachdem</note> du uff unnsern bevelch dynes amptsangehörigen <persName ref="Egli, Ůli">Ůlj Egliß</persName> zů <placeName ref="LOC_47.28706_8.92092">Wald</placeName> gůt von syner ungehorsame und der ­toüf­ferischen sect wegen, jnn deren er behafftet jst, zů unnseren handen nemmen wellen, deßen aber syne zweyg kind (welliche gehorsam und ze kilchen gangind) hoch beschwert unnd unns durch sy beid, den Schufelberg und Heßen, underthenig umb gnad bitind unnd das man jnne jren alten vater jm friden also absterben laßen welle etc. Unnd wann nun wir von den bemelten<note type="editorial"> erwähnten</note> beiden, dem Schufelberg und Heßen, wie auch annderen personen den bericht empfangen, das gedachter Ůlj Eglj ein jnzogner<note type="editorial"> zurückgezogen, abgeschottet</note> man, der kheinen jntzug<note type="editorial"> Zusammenkunft, Id. XVII, 523.</note> von annderen ­toüf­ferbrůderen habe, sonnders sich still halte und syn kind und volck ze kilchen schicke, dazwüschent derglychen personen unnd annderen ­toüf­feren ein underscheid jst, so habent wir unnsern vorigen dir gegebnen bevelch, syn (des Ůlj Egljß) halber umb etwas<note type="critical"><q>etwas</q> über der Zeile, in der Zeile gestrichen: so vil</note> gemilteret unnd khönnend den gehorsamen kinderen deß vaters gůt nit entzüchen, sonders laßend jnen, den kinden, dasselbig belyben. Doch solt du umbs syn (Egliß) bißhar erzeigten unghorsamme willen ein zimbliche bůß zů unnseren handen von dem gůt nemmen unnd dann jme, <persName ref="Egli, Ůli">Ůlj</persName>, durch die synen oder sontst anzeigen laßen, wir versehind<note type="editorial"> erwarten, Id. VII, 567.</note> unns, er werde sich eins anndern besinnen und ghorsam erzeigen, da man dann jme also zůsehen unnd ein uffsehen uff jnne haben unnd wann er<note type="critical">Folgt gestrichen: beharr[…]</note> jnn die harr<note type="editorial"> hergegen</note> jnn syner unghorsamme fürfaren oder mit annderen ­toüf­feren gmeinschafft haben und die jnzüchen<note type="editorial"> (ins Haus) aufnehmen, beherbergen, Id. XVII, 1002.</note> thete, er darumbe wyter nach lut deß mandats gebuͤßt werden, wie du dem jnn gebür zethͦnd wol wüßen wirst, damit unnser mandat gehandhabt unnd diserm halsstarrigen volck mit erntst sovil müglich gewehrt werde. Datum den letsten hornungs anno 1605.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> Jacoben Zur Eich.</p>
+</div>
+    </body>
+  </text>
+</TEI>

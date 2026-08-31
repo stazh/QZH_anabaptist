@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_533</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355080">StAZH B IV 48, fol. 177v-178r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Heinrich Meyer von Knonau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1590-01-19"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1590-01-19"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 419</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, vester, besonders, gethrüwer, lieber burger unnd vogt, hüttigs morgens jnn der nacht sind <persName ref="Gut, Andres">Andares Gůt</persName> von <placeName ref="LOC_47.26217_8.41262">Luneren</placeName> unnd <persName ref="Wäber, Gorius">Gorius Wäber</persName> von Äbertschwyl<note type="editorial"> Ebertswil</note>, beid dyne amptsangehörige, die wir von wegen jrer angenomnen ­toüf­ferischen sect jetzt ein [zyt] har jnn verstrickung gehept, nebent anderen jren mitthafften<note type="editorial"> Parteigänger, Id. II, 1057.</note> usß unnser gfengknus, dem <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName>, gebrochen unnd ußkhommen. Deßwegen so bevelchend wir dir hiemitt, dyn spech unnd khundtschaft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> uff sy beid<note type="critical">Folgt gestrichen: ald jeden jnnsonders</note> zehaben unnd zemachen, das du unns dieselben, wo sy jnn dyner amptsverwaltung nachmalen<note type="critical"><q>jnn dyner amptsverwaltung nachmalen</q> am oberen Blattrand mit Veriweiszeichen, in der Zeile gestrichen: anderst</note> zůbetreten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, widerumb wol verwarth gfengklich<note type="critical"><q>gfengklich</q> am Rand mit Verweiszeichen</note> zůschickst<note type="critical">korrigiert, ursprünglich: zůschicken khönnist</note>, damit wir uns<note type="critical"><q>uns</q> über der Zeile, in der Zeile gestrichen: unns</note> ferner gegen jnen der gepür nach zůverhalten wüssind. Datum den 19ten januarij anno etc. 90.  </p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, vesten, unnserm besonders gethrüwen, lieben burger unnd vogt zů Knonouw Hanns Heinrichen Meyer von <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

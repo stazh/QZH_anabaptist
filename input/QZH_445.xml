@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_445</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355204">StAZH E I 7.3, Nr. 19</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Untervögte</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1585-11-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-11-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 331</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="3" facs="E_I_7_3__Nr__19__S__3_.tif"/>
+<p>Burgermister und rath der statt Zürich unsern grůß zůvor. Getrüwer lieber undervogt, wir überschickend dir hieby unser jm truck ußgangen mandath der widertroüffern halb. Das wellist uff jetzt künfftigen sontag jnn der kilchen, wenn das volck versamlet jst, offentlichen an der cantzel<note type="critical"><q>an der cantzel ver</q> am Rand mit Verweiszeichen</note> verläßen lasßen und du dann styff darob halten.</p>
+<p>Darnebent langt uns an, das by jungen und alten das schweren und gotslesteren widerumb gar jm schwangk gange, daher dann der zorn gotes volget. So nun die hoch notturfft erforderet, deßwegen abermalen mengklichen zewarnen, unnd dann unser hierüber gemachet gebott jnn den christenlichen ordnungen und satzungen unsers erst jnn verschinnem achtzigisten jar getruckten großen mandaths<note type="editorial"> Vgl. Nr. 248; Edition des ganzen Mandats in: Zürcher Kirchenordnungen, hg. von Emidio Campi und Philipp Wälchli, 1. Teil, Nr. 119, S. 259-298.</note> begriffen, wie<note type="critical">Folgt gestrichen: je</note> ein jeder pfarrer das by synen handen hatt, wellent wir, das solliches<note type="critical">Folgt gestrichen: die</note> durch den predicanten ouch widerumb nebent jetzigem mandath verläßen werde und die überträttere luth desselbigen bůß thuͤgind und mit erntst dartzuͦ gehalten werdint. Daran bschicht unser meinung und gfallens jnn gnaden zů erkhennen. Datum den 8ten wintermonats.</p>
+<p rend="margin-top">Unnßerm besonnders getrüwen lieben undervogt zů n[ominis] h[uius] n[ominandi].</p>
+<p>Allen undervögten.</p>
+<pb n="4" facs="E_I_7_3__Nr__19__S__4_.tif"/>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Es handelt sich um die Vorlage für die einzelnen Schreiben.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

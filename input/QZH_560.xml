@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_560</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355255">StAZH E I 7.3, Nr. 65</idno>
+          </msIdentifier>
+          <head>Hutterische Bescheinigung des Aufenthalts von Magdalena Müller und des Todes von fünf Kindern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1591-07-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1591-07-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 446</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__65__S__1_.tif"/>
+<p>Wier, dj brüeder zum Altenmarckht<note type="editorial"> Stará Břeclav (dt. Altenmarkt)<placeName ref="Stará Břeclav"/>, <placeName ref="LOC_48.75958_16.8726">Lundenburg</placeName> ist der deutsche Name der Stadt Břeclav.</note> wonhafft under der herrschafft von Lundnburg im landt zu <placeName ref="LOC_49.5_17">Merhern</placeName>, bekhennen mit disem schreiben, dz zun uns kommen ist dj Madlena Müllerin mit sechs kinder dis verschinen 1590. jars. Nachdem sie aber ein zeit bein uns gewest, sein fünff mit todt abganngen, sie sich wider vonn uns gezogen und hat dz ain kindt lebendig bein uns verlassen, ist sie ietzt den 8. julj wider kommen mit irem man <persName ref="Widmaier, Jakob">Jacob Widmair</persName>. Derselbig begert kundtschafft<note type="editorial"> Zeugnis, Beweis, Id. III, 353.</note> der abgestorbnen kinder, weliches wir in disem schreiben vor menigclich bekhennen, dz dj gemelten 5 kinder mit todt abgangen und dz ain bein uns alhie noch bej leben ist. Begern<note type="critical">Folgt gestrichen: dz</note> sie dasselbig mitzunemmen, nun aber dz kindt nit mit inen wil, hab wirs gleich auf ir guet bewilligung auch nit begert auszutreibenn. Solch warhafftige kundtschafft sein wir von in erbetten, dz wirs inen nit abschlagen kundten, sonnder zu dienst verwilliget. Geben zum Altenmarckht den 8. julj dis 1591. jars.</p>
+<pb n="2" facs="E_I_7_3__Nr__65__S__2_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

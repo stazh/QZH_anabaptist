@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_395</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355063">StAZH B IV 42, fol. 70v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Rudolf Baur</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1582-12-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1582-12-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 281</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willenn unnd alleß gutß zuvor. Frommer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, uff hütigen tag sinnd vor unnß erschinnen <persName ref="Müller, Hans">Jacob Müller</persName> unnd sunnen, beid usß dem <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName>, unnd unnß flyssigklichenn ansuchen unnd pitenn lassenn, wir welten jnen der suma geltß, so jrer vonn wegen daß jre vater unnd brüderenn der toufferischen sect nach jnn das Merherren <placeName ref="LOC_49.5_17">land</placeName> gezogen vonn unnseren verordnneten uferlegt unnd dir vermög bj hannden habennden schrifftlichen usszugß ynzuzüchen unnd jnn unnser statt seckelampt zeantworten bevelchenn, noch lennger warten<note type="critical">korrigiert, ursprünglich: zewarten</note> […]<note type="critical">Lesung unklar</note>, und wir unnß dessen erjnnert, daß nach gestalsamj vonn unnseren verordentenn gegen jnen unnd anderenn eben milt und gnedig gehanndlet, habend wir sy söllicheß jreß anmuttenß abgewisen und jnen dhein<note type="editorial"> keinen</note> annderen bri[ch]t zusagen wellen. Derhalbenn so jst unnser bevelch ann dich, daß du mit dem ynzug sollcher postenn nach ußwysung deß ußzugs, so du hinnder dir hast, fürfarist und gestrax dheinen verschonist, damit unnß deß enndtß nüdt abganngs noch verschyns<note type="editorial"> Versäumnis, vgl. Id. VIII, 797.</note> wie du denn dene zehand wol komen wirst, daß sol umb dich jnn gnaden erkhenndt werden. Datum sambstags den 8ten decembris a[nn]o 82.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wysenn, unnßerem besonnders gethrüwenn, lieben burger unnd vogt zu <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> Rudollf Purenn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_719</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355167">StAZH E I 7.3, Nr. 114</idno>
+          </msIdentifier>
+          <head>Befragung der Gefängnisaufsicht</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1603-04-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1603-04-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 605</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Thurnhüter Grebels<note type="critical"><q>Grebels</q> über der Zeile</note> bscheid, was dem ­toüf­fer jm Wellenberg<placeName ref="Zürich, Wellenberg"/> an spyß unnd tranck von andern lüthen zůkommen<note type="critical">Aufschrift sich auf der Rückseite des Dokuments vor dem Urteil</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__114__S__1_.tif"/>
+<p>Als beide herren nachgenger den m[eister] <persName ref="Grebel, Hans">Hannß Grebel</persName>, thurnhüter, unnd syn dienstmagdt uffs rathuß beschickt unnd sy befraget, wer dem ­toüf­fer, so jetzt über 30 wuchen jm Wellenberg glegen, wyn unnd spyß (wie mynen gnedigen herren fürkompt<note type="editorial"> zu Ohren kommen, kund werden, Id. III, 279.</note>, beschechen syge) zůbracht oder gchickt habe, habent sy angezeigt: Das an jetzt verschinem<note type="editorial"> vergangenem</note> heiligen ostertag ein purenmentsch, das aber sy, die magdt, nit bekhenne, jme ein mass wyn gebracht. Desglychen sye eins mals jme vom <placeName ref="Zürich, Sternen">Sternen</placeName><note type="editorial"> Wirtshaus zum Sternen, Limmatquai 16, vgl. Kunstdenkmäler des Kantons Zürich, Bd. 111 (Die Stadt Zürich III.2), S. 38.</note> naher ein mass wyn zůkommen, so aber dem wirt bezalt worden. Doch wüssind sy nit, wer es zalt. Item vergangnen winters habe m[eister] <persName ref="Hottinger, Hans">Hannß Hotinger</persName> jnn <placeName ref="LOC_47.3733_8.545">Niderdorf</placeName> jme ein trunck gschickt. Item einer von <placeName ref="LOC_47.49927_8.796">Reterschen</placeName> habe jme ouch ein trunck bezalt. Sontst wüssint sy nützit wyters, das jme zůkommen sye, dann die atzung<note type="editorial"> Speise und Trank, Id. I, 624.</note>, so sy, die magdt, jme zůgebracht habe.</p>
+<pb n="2" facs="E_I_7_3__Nr__114__S__2_.tif"/>
+<p rend="margin-top">[Urteil]: Die herren obersten meister söllent dem thurnhüter undersagen, myn gnedig herren wellint gehept<note type="critical">korrigiert, ursprünglich: gehepten</note> haben, das er nach luth syner ordnung kheinen gefangnen unnd mit nammen ouch den eebrecheren nützit wyters dann jr noturftige spyß zůbringe unnd jnen ohne erloubtnuß eines herren burgermeisters von anderen lüthen oder durch ander lüth gar nützit losse zůkommen by verlierung synes dientsts. Actum mitwuchs den 27ten aprilis a[nn]o 1603 p[raese]nt[ibus] herr <persName ref="GND_1053582994">burgermeister Brem</persName> unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

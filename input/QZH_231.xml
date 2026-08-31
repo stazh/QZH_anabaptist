@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_231</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606813">StAZH E I 2.1, Nr. 14</idno>
+          </msIdentifier>
+          <head>Synodalverhandlungen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1564-10-24"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1564-10-24"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 117</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Censura<note type="editorial"> Wiedergegeben sind die Abschnitte, in denen Täufer erwähnt sind, und ein Abschnitt über eine Taufe in Berg.</note></p>
+<p><placeName ref="LOC_47.56228_8.59305">Berg</placeName>. Hatt ein kind vor der predig toufft, und jst allein die gotta<note type="editorial"> Taufpatin</note>, und der gottj<note type="editorial"> Taufpate</note> nit, darby gsin. Decanuß soll es jm fürhalten<note type="editorial"> mündlich vortragen, Id. II, 1234.</note> und zů besserm und nit mer zethůnd gemanen.</p>
+<p>[…] <placeName ref="LOC_47.49675_8.73417">Winterthur</placeName>. <persName ref="Hedinger, Hans">Hans Hedinger</persName> der ­toüf­fer jst über alle warnung <persName ref="Steiner, Andreas">jn Steiners</persName><note type="editorial"> Andreas Steiner, (gest. 1565)</note> und Windterthurer grichten, gadt ungebetten zun krancken und tribt wunder. Redt, wenn die puren jm und jrs glychen volgten<note type="critical">Folgt gestrichen: werde</note>, welte er der vögten und pfaffen<note type="critical"><q>pfaffen</q> über der Zeile, in der Zeile gestrichen: predicanten</note> wolabkomen.</p>
+<p>[Am Rand:] Dechan <placeName ref="LOC_47.53754_8.66653">Nefftenbach</placeName><note type="editorial"> <persName ref="GND_1089479298">Christian Wirth</persName> </note> gseit und syn grund dank.</p>
+<p>Steiner jn jm gfengnuß gehept, verwißen, on gleit gen Nefftenbach schriben, myn herren zu berichten, was jm hierumb zewüsßen. Für myn herren gwißen. Bim alten Hoffacher jn der Ouw<note type="editorial"> Ein solcher Flurname ist in der Nähe der Halbinsel Au nicht belegt, während die Siedlung Hofacher südlich von Herrlisberg (Wädenswil) noch heute existiert.</note> jst er funden worden, jn eins holtz by Wedischwyl jr wonung und zů samenkomung. <persName ref="Huber, Růdi">Růdj Huber</persName> von Mettmentstetten ­toüf­fer.</p>
+<p>Elgöw<note type="editorial"> Kirchenkapitel Elgg</note>.<placeName ref="Elgg"/> <persName ref="Res, Peter">Peter Reß</persName> von <placeName ref="LOC_47.5164_8.87552">Hagenbůch</placeName>, auch ein toüff[er], syn frouw zů <placeName ref="LOC_47.46226_9.05241">Wyl</placeName> ertrenkt, ein glasser, were gern über myne herren hab und gůt, vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName><note type="editorial"> <persName ref="GND_140632557">Heinrich Thomann</persName> </note> bevolhen, allen wyblen, jnen zůbefangen, nüdt usgericht.<note type="critical"><q>Kyburg bevolhen, allen wyblen, jnen zůbefangen, nüdt usgricht</q> am Rand.</note></p>
+<p>Helfer jm <placeName ref="LOC_47.43633_8.84629">Turbenthal</placeName><note type="editorial"> Joseph Mötteli (gest. 1599) <persName ref="Mötteli, Joseph"/></note> hat herr von <placeName ref="LOC_47.20122_8.44697">Chaam</placeName> ein bekandtnuß.</p>
+<p>Wetzikon.<placeName ref="Wetzikon"/> Die puren nemend die predicanten uß, ob zethůnd syge, soll etwa mitler zyt durch komliche weͣg<note type="critical"><q>durch komliche weg</q> am Rand</note> an myn herren gebracht werden.</p>
+<p>Dechan jm undern capitel Wetziken<note type="critical">Lesung unklar</note>. Herr <persName ref="Schmid, Hans">Hans Schmid</persName> zů <placeName ref="LOC_47.39052_8.61719">Dübendorff</placeName>. ­Toüf­fer. Peter Růmpfel<note type="critical">über der Zeile: <persName ref="Ruman, Peter">Růma</persName></note> von <placeName ref="LOC_47.50369_8.41911">Schöfflistorff</placeName>, ­toüf­fer. <persName ref="Bräm, Fridli">Fridlj Brem</persName> <placeName ref="LOC_47.49771_8.44334">Steinmur</placeName>, ­toüf­fer. <persName ref="Kuhn, Jakob">Jacob Kůn</persName> jm <placeName ref="LOC_47.486389_8.428611">Pflasterbach</placeName>, ­toüf­fer. Diser toüfern halb soll die sach mit ein andern für<note type="editorial"> vor</note> min herren komen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

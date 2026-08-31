@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_374</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355059">StAZH B IV 41, fol. 43v-44v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Junghans Thumysen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1581-11-01"/>ca.</filiation>
+            </msItem>
+
+                        <msItem>
+                            <textLang>Deutsch</textLang>
+                            <filiation type="original"><origDate when="1581-11-01"/>ca.</filiation>
+                        </msItem>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-11-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1581-11-01">ca.</origDate></origin>
+          </history>
+
+                    <history>
+                        <origin><origDate when="1581-11-01">ca.</origDate></origin>
+                    </history>
+          <history>
+            <origin>
+              <origDate when="1581-11-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 260</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern<note type="critical">Folgt gestrichen: f</note> günstigen geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonders getrüwer, lieber burger und vogt. Uff din unns jüngster tagen gethaan fürbringen, wie sich von<note type="critical"><q>von</q> über der Zeile</note> etlicher jnn unserm <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName><note type="critical"><q>jnn unserm Kellerampt</q> am Rand mit Verweiszeichen</note> der ­toüf­ferischen sect ußträttnen<note type="editorial"> das Land verlassen, Id. XIV, 1479.</note> personnen hinderlasßnen hab und gůts wegen<note type="critical"><q>wegen</q> über der Zeile</note> zehalten syge, habent wir unns dahin entschlosßen, was solliches volcks uß unnsern hochen grichten, alda ander lüth nidern grichtzwangs halber ouch zů regieren hand (als da jst das<note type="critical">Folgt gestrichen: ob</note> ernempt Kellerampt), hinweg züchend, das wir zů derselben ungehorsammen widerstrittigen personen hab und gůt ouch gryffen und sölliches durch unsere vögt jnziechen lasßen unnd aber dasselbig nit zů gmeiner unser statt handen und nůtz nemmen, sonders unserm spital alhie zůgestelt und umb zinß angleit und also daselbs behalten werden sölle. Wenn dann jemandts kompt und by uns etwas gnaden deßwegen erwerben mag, darjnne wellend wir jederzyt unser hand offen<note type="critical">Folgt gestrichen: behal</note> behept haben etc. Unnd diewyl dann uns jnn angeregtem<note type="editorial"> erwähntem</note> Kellerampt die hoch oberkeit unwidersprechenlich zůstendig unnd<note type="critical">Folgt gestrichen: die verwürkung und heimfallung</note> aller dero, so von ­toüf­ferischer sect wegen daruß gezogen oder nach züchen<note type="critical">korrigiert, ursprünglich: nachzüchend</note> möchten<note type="critical"><q>oder nachzüchen möchten</q> am Rand mit Verweiszeichen</note>, hinderlasßen hab und gůts verwürckung und heimfallung<note type="editorial"> Überführung des Besitzes, vgl. <bibl><ref target="http://fwb-online.de/go/heimfallen.s.3vu_1709402603">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> <note type="critical"><q>verwürckung und heimfallung</q> am Rand mit Verweiszeichen</note> der hochen herrligkeit anhengig und zůgehörig jst, schrybent wir albereits<note type="critical"><q>schrybent wir albereits</q> am Rand, in der Zeile gestrichen: habent wir</note> schultheißen und rath zů <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName>, ouch dem landtvogt zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> zů.<note type="editorial"> Vgl. Nr. 259. Das Schreiben an den Magistrat von Bremgarten ist vermutlich nicht überliefert.</note> Wover sy diß fals etwas ansprach<note type="editorial"> rechtlicher Anspruch, Id. X, 722.</note> an dero jetzt gehörter masßen ußem Kellerampt<note type="critical"><q>ußem Kellerampt</q> am Rand mit Verweiszeichen</note> hinweg gezognen personen<note type="critical">Folgt gestrichen: hab</note> hinderlasßnen<note type="critical">korrigiert, ursprünglich: hinderlasßen</note> hab und gůts hetten, das sy desselbigen fründtlichen abstaan und dich söllicher ußträttnen ungehorsamen ­toüf­feren gůte, als das uns uß krafft der enden zůdiennender hocher herrlig- und oberkeit gebürt, uß dem verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> bezüchen und darmit zů unsern handen verfaren lassen wellind. Wie dann wir anderschwo, alda es ebenmesßigen fal hatt, ouch gestattnind unnd uns zů jnen beidersidts uff disern unsern bericht nebent der billigkeit eines söllichen unverweigerlichen ouch versehen thuͤgind etc. Ob<note type="critical">Folgt gestrichen: sy</note> nun die von Bremgarten und landtvogt zů Baden über sölliche unsere schryben nachmalen ansprächig<note type="editorial"> einen rechtlichen Anspruch geltend machend, Id. X, 734.</note> zesind beharren, magst du an jren undervögten, weyblen ald amptlüthen hofflichen erkhundigen unnd unns desselbigen zů nechster glegenheit berichten, wir ferner der gebür nach zehandlen wüßint. So sy aber abstandt, solt du (wie vorgemeldet) das gůt, so vorhanden<note type="critical">Folgt gestrichen: jnziehen</note> (als wyt müglich) jnziechen und unserm spitalmeister überantworten unnd jnn dem allem, wie wir dir wol vertruwend, handlen, stadt uns umb dich jnn gnaden zůerkhennen. Datum […]<note type="critical">Spatium</note> novembris anno etc. 81.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wyßen, unnserm besonders getrüwen, lieben burger und vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> Junghannsen Thůmyßen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

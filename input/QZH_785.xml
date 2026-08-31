@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_785</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355182">StAZH E I 7.3, Nr. 129</idno>
+          </msIdentifier>
+          <head>Zweites Verhör von Hans Landis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate from="1608-10" to="1608-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate from="1608-10" to="1608-12"/></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 671</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__129__S__1_.tif"/>
+<p>Als beide herren obervögt<note type="editorial"> Hans Heinrich von <persName ref="Schönau, Hans Heinrich von">Schönau</persName> und <persName ref="Füssli, Peter">Peter Füssli</persName></note> zů <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> sampt herren <persName ref="Murer, Johann Kaspar">Caspar Murer</persName> und herrn Jacoben Ůlrich<note type="critical">In der Vorlage: <persName ref="GND_100295231">Ůrich</persName></note> widerumb zů Hanßen Landiß dem wider­toüf­fer jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kheert unnd jnne nachmaaln mit allem erntst befragt, ob er doch khein ander gemuͤt<note type="editorial"> Gesinnung, Id. IV, 587.</note> an sich genommen unnd sich über die hievor gegen jmme jnn allenn thrüwen gethanen lehren und underwyßungen kheines andern bedacht habe unnd weßen nachmaln gesinet syge.</p>
+<p>Ist er über vilfaltigs anhalten und underwyßung uß heiliger göttlicher gschrifft nachmaaln by synem eigenrichtigen kopf und geistlichen hoffart verbliben mit anzeigung, wann man den kilchen ban ansäche<note type="editorial"> anordnen, Id. VII, 555f.</note> unnd ein ander läben, weder aber bißhar beschächen, fuͤre, so welle er alsdann<note type="critical"><q>als</q> über der Zeile.</note> ouch jnn die kilchen gaan.</p>
+<pb n="2" facs="E_I_7_3__Nr__129__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__129__S__3_.tif"/>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Aufschrift auf der Rückseite des Dokuments: Hanßen Landiß deß wider­toüf­fers 2. andtwort</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_135</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355134">StAZH B IV 9, fol. 95r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Andreas Schmid</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Entwurf</filiation>
+              <filiation type="original"><origDate when="1538-04-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1538-04-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 21</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern frundtlichen, sunders geneygten willen unnd alles gůts zůvor. Frommer, vester, jnnsunders<note type="critical">Folgt gestrichen: lie</note> getrüwer, lieber burger unnd lanndtvogt. Es wirt unnser getruwer lieber burger unnd vogt zů Regensperg <persName ref="Steinbrüchel, Erhard">Erhardt Steynbrüchhel</persName> jnn unnserem nammen zů dir komenn unnd unnsern bevälch der ­toüf­fern halb, so sich alle sampßtag zenacht uff der undermarch ob Schneysingen jm holtz versamlen sollen, anzeygen.<note type="editorial"> Vgl. die vorausgehende Nummer (Schreiben an Erhard Steinbrüchel).</note> Dem wellist jnn allen trüwen nach dinem besten vermögen<note type="critical"><q>nach dinem besten vermögen</q> am Rand mit Verweiszeichen</note> beraadten unnd beholffen sin unnd dich mit jm, deßglychnn unnserem burger Cornell Schultheyßn, vogt zu Keyerstůl, underreden unnd eyn anschläg mitteynander machen, damit sy beträtten unnd zů der oberkeyt (darunder sy<note type="critical">Folgt gestrichen: b</note> gefangen werdent) handen fängklich<note type="critical"><q>fängklich</q> am Rand mit Verweiszeichen</note> bracht<note type="critical">Wort (bracht) am Rand wiederholt und gestrichen</note>, ouch sollich schädlich rott unnd secte getämpt<note type="editorial"> eindämmen</note> unnd nach jrem verschulden lut deßhalb<note type="critical"><q>deßhalb</q> am Rand</note> ußgangener mandaten unnd schwären verpotten ­ge­straafft werden mögind. Daran thůstu, unnserer eydt­gnosßen ouch<note type="critical"><q>unnserer eydt­gnosßnn ouch</q> am Rand mit Verweiszeichen</note>, unnser ge­fhal­len, umb dich allzyt jnn gneygtem willen zůerkennen. Uß Zurich, zynß­tags nach mittvasten anno etc. 1538.</p>
+<p rend="margin-top">Burgermeister unnd rhat der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
+<p rend="margin-top">Dem frommen, vesten, unnserem jnnsunders getrüwen lieben burger unnd<note type="critical">Folgt gestrichen: v</note> lanndtvogt zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> Andresen Schmid.<persName ref="Schmid, Andreas"/></p>
+</div>
+    </body>
+  </text>
+</TEI>

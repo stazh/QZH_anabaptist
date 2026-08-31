@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_623</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355097">StAZH B IV 56, fol. 12r-13r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an ihre Landvögte</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1598-06-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1598-06-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 509</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonnders gethrüwer, lieber burger unnd vogt, wiewol unnsere vorderen unnd wir wider die schedlich<note type="critical"><q>schedlich</q> am Rand mit Verweiszeichen</note> ­toüf­ferisch sect<note type="critical">Folgt gestrichen: gůte christenliche</note> starche unnd erntstliche mandat und gebott ußgahn laßen, wie gegen den<note type="critical">korrigiert, ursprünglich: dens</note> anhengeren diser sect gehandlet und jnen geweert werden sölle, so jst<note type="critical">Folgt gestrichen: will</note> doch hin unnd wider uff unnser landtschafft diß ­toüf­fer volcks von jungen und alten<note type="critical"><q>von jungen und alten</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: mehr dann gůt</note>leider noch vil verhanden, welliche deß kilchgangs unnd der gehorsamme<note type="critical"><q>der gehorsamme</q> am Rand mit Verweiszeichen</note> unnser<note type="critical">Folgt gestrichen: einer o</note> der ordenlichen oberkeit halber<note type="critical">Folgt gestrichen: großen</note> unnder unnseren biderben lüthen großen schwal<note type="editorial"> Masse, Zustrom, Id. IX, 1808f.</note> machend und schedliche ergernuß anrichtend<note type="critical"><q>und schedliche ergernuß anrichtend</q> am Rand mit Verweiszeichen</note>. Diewyl sy<note type="critical"><q>sy</q> über der Zeile, in der Zeile gestrichen: dieselbigen</note> weder jnn die predigen noch zum heiligen nachtmal gond, auch jre kind jnn die predigen nit schickend, sonnders am sontag wol als bald arbeitend, jungen unnd alten lüthen, wo sy anlaß bekhommen mögend, jre jrrthumb jnkuchend<note type="editorial"> einflüstern, Id. III, 128.</note>, auch anndere frömbde ­toüf­fer heimlich jnzüchend unnd beherbergend. Unnd sidtmaln<note type="editorial"> da, weil, Id. IV, 147.</note> dann wir von oberkeit wegen schuldig<note type="critical">Folgt gestrichen: sind</note>, diserm schedlichen volck zeweeren unnd aber der meiste<note type="critical">Folgt gestrichen: feler unnd</note> mangel<note type="critical">Folgt gestrichen: daher kompt</note> nur jmmerdar jnn dem syn will<note type="critical"><q>der meiste … will</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: treffenlich vil an dem gelegen syn will</note>, das unnseren der ­toüf­feren halber ußganngnen mandaten nit flyßig gläbt unnd nachgangen wirt, sind wir verursachet allen unnseren ober- unnd undervögten hierumbe abermaln ernstlichen bevelch zegeben. Unnd jst daruf unnser will unnd bevelech an dich, das du unnser jüngst ­toüf­fer mandat, wie das hievor jm 85ten jar jnn offnem truck ußgangen jst<note type="editorial"> Vgl. Nr. 329.</note>, für dich nemmist<note type="critical">Folgt gestrichen: jnn einem unnd dem</note> unnd, wo ­toüf­ferische personen jnn dyner verwaltung geseßen (welliche du dann allwegen wol erfaren wirst), von denselben ungehorsammen und<note type="critical"><q>unnd</q> am Rand, in der Zeile gestrichen: jnnsonders</note> denen, so nit ze kilchen gond, du<note type="critical"><q>du</q> über der Zeile</note> die ufgesetzten geltbůßen<note type="critical">Folgt gestrichen: mit dem</note> (dardurch sy dann am aller besten zur ghorsamme zebringen) gstrax und ohne verschonnen jnzüchen laßen unnd jnn ander weg dem mandat, was dasselbig ußwyßt<note type="editorial"> besagen, Id. XVI, 1951.</note>, flyßig nachgaan unnd jnnsonderheit die undervögt unnd weibel mit allem erntst by unnser großen ungnad und verlierung jrer dientsten<note type="critical"><q>by unnser … dientsten</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: die</note> dahin vermannen<note type="critical">Folgt gestrichen: hierjnnen</note>, an jrer pflicht nützit ermanglen zelaßen, unns und die hierjnnen schuldige ghorsamme zeleisten unnd, was jnen jederzyt bevolchen wirt, flyßig unnd mit thrüwen ußzerichtem, damit unns jrethalb khein klag (wie etwan beschechen jst) fürkhomme.<note type="critical">Hier folgt ein Verweiszeichen mit dem Zusatz für die Vogtei von Knonau (<q>Nota, gen Knonouw</q>).</note> Desß wellent wir unns zů dir unn jnen gentzlich versehen unnd dir verthruwen, du hierjnnen an dynem müglichen<note type="critical"><q>müglichen</q> am Rand mit Verweiszeichen</note> flyß unnd erntst nützit erwinden<note type="editorial"> fehlen, Id. XVI, 580f.</note> laßen werdist. Das stadt unns jnn gnaden zůerkhennen. Datum den 17. d. junij anno etc. 98.</p>
+<p rend="margin-top">Burgermister und rath der statt Zürich.</p>
+<p rend="margin-top">An die vögt<note type="critical">Folgt gestrichen: Kyburg</note> <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>, <placeName ref="LOC_47.22493_8.65207">Wädeschwyl</placeName> unnd <placeName ref="LOC_47.22446_8.46262">Kononouw</placeName> so vil wyter.</p>
+<p rend="margin-top">Nota, gen Knonouw<note type="critical"><q>Nota, gen Knonouw</q> am Rand</note>:</p>
+<p>Unnd so dann wir hienebent auch vernemmend, das an etlichen orten uff unnser landtschaft jnnsonderheit jnn unser herrschafft Knonow etlich ­toüf­fer volck, wyb unnd man, by einanderen als eelüth sitzen sölle, welliche aber die ee mit offentlichem kilchgang nie bestetiget habint, so bevelchend wir dir hierumbe jnnsonderheit gantz erntstlich, das du söllichen lüthen<note type="critical">Folgt gestrichen: die also by einanderen sitzend</note> flyßig nachfragist<note type="critical">korrigiert, ursprünglich: nachfragen</note>, welliches du dann by den herren predicanten wol erfaren wirst. Unnd wo<note type="critical">Folgt gestrichen: also</note> etliche also by einannderen<note type="critical">Folgt gestrichen: un ohn offentliche be</note> unbestetiget jrer ee jnn dyner amptsverwaltung seßind, dieselben söllist du gfengklich jnzüchen laßen unnd<note type="critical">Folgt gestrichen: zů bestetigung jrer ee mit offentlichem kilchgang</note> dahin halten, die ee mit offentlichem kilchgang angentz<note type="editorial"> unverzüglich, Id. II, 19.</note> zůbestetigen oder jm fal jrer verweigerung, sy unns gfengklich zůschicken als jr sach und<note type="critical"><q>sach und</q> über der Zeile</note> handlung<note type="critical">Folgt gestrichen: und bscheid</note> unns<note type="critical">Folgt gestrichen: zůschryben</note> umb erholung vernern bscheidts zůschryben, dann wir je sölliches jnen also nachzelaßen nit gesinnet sind. Das alles wellist mit thrüwen<note type="critical"><q>thrüwen</q> über der Zeile, in der Zeile gestrichen: flyß</note> ußrichten und jnn sachen an dynem müglichen flyß und erntst nützit erwinden laßen, als wir uns<note type="critical"><q>uns</q> über der Zeile</note> dann versehend und<note type="critical"><q>versehend unnd</q> am Rand mit Verweiszeichen</note> dir verthruwen wellend<note type="critical">korrigiert, ursprünglich: ver­twruwend</note> unnd das jnn gnaden zůerkhennen geneigt sind. Datum ut supra.</p>
+<p rend="margin-top">And die vögt f.w. <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName>, f.w. <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>, f.v. <placeName ref="LOC_47.36583_8.6789">Gryffensee</placeName>, f.v. <placeName ref="LOC_47.59284_8.67544">Andelfingen</placeName>, e.w. <placeName ref="LOC_47.57335_8.52607">Eglisow</placeName>, f.w. <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName>, f.v. <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>, f.w. <placeName ref="LOC_47.22493_8.65207">Wädeschwyl</placeName>.</p>
+<p rend="margin-top">Den obervögten jnn jnneren vogtyen sind bkantnußen<note type="editorial"> Beschluss, Erklärung, Bestätigung, vgl. <hl to="http://fwb-online.de/go/bekentnis.s.1fn_1709289494"><Hyperlink>http://fwb-online.de/go/bekentnis.s.1fn_1709289494</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> gemachet worden.</p>
+</div>
+    </body>
+  </text>
+</TEI>

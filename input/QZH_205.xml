@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_205</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695023">StAZH E I 7.2, Nr. 104</idno>
+          </msIdentifier>
+          <head>Bericht des Ehegerichts über Täufer in Wädenswil</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1558-11-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1558-11-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 91</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__104__S__1_.tif"/>
+<p>Fromm, vest, fürsichtig, ersam, wys, jnsunders günstig, gnedig herren. Demnach <persName ref="Bürgi, Rudolf">Rudolff Bürgj</persName>, Jos unnd <persName ref="Clotter, Jos">Martin Clotter</persName><persName ref="Clotter, Martin"/> all von <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName><note type="editorial"> Wädenswil</note> von wegen der ­toüf­fery verschiner<note type="editorial"> vergangener</note> zit in u[wer] w[yßheit] bannden unnd gefangenschafften gelegen, volgenz ouch, das sy zur predig gan unnd jre kind touffen laßen wellind, sich begeben<note type="editorial"> sich fügen, Id. II, 91f.</note> unnd daruf ein urfehd geschworen, ledig ußgelaßen, werden wir doch bericht, das sy bißhar in jrem boßhafften vorhaben wie ouch vor beharret, sich nit zum wort gotts unnd in die kilchen verfügind unnd in summa zewider jrem geschwornen urfehd<note type="critical">Folgt gestrichen: nit (Lesung unsicher)</note> handlind. Deßhalber unnd diewyl sy dry jre urfehd unnd glüpt übersechen, haben wir sy unnd ouch Jacoben Bürgj, obgedachts Rudolff Bürgis brůder, ouch von Wädischwyl, der dann uns als ein fürnemmer lerer gerümpt wirt, haben wir sy gehörter ursachen halb, und damit sy nit abtretten<note type="critical"><q>und damit sy nit abtretten</q> am Rand mit Verweis­zeichen.</note>, für uns nit beschicken können, sunders hiemit das, so uns vom pfarer von Wädischwyl<note type="editorial"> <persName ref="Ramp, Ezechiel">Ezechiel Ramp</persName></note> jrothalb angelangt<note type="editorial"> zugetragen werden, als Kunde zukommen, Id. III, 1330.</note>, derselben u[wer] w[yßheit] in schrifft zůkommen laßen, gegen jnen fürer<note type="editorial"> weiter, Id. I, 912.</note>, wie sich gebürt, zehandlen wüßen, das ouch wir uns in aller underthenigckeit wellen laßen gefallen. Actum iij. novembris anno lviij.</p>
+<p rend="margin-top">U[wer] w[yßheit] underthenige bůrger unnd diener am eegricht</p>
+<pb n="2" facs="E_I_7_2__Nr__104__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__104__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__104__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

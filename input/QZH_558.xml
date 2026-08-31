@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_558</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355254">StAZH E I 7.3, Nr. 64</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Heinrich Schnyder</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1591-03-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1591-03-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 444</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Heinrichen Schnyders von Hutzickon anntwort<note type="editorial"> Aufschrift auf der Rückseite des Dokuments</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__64__S__1_.tif"/>
+<p>Als die verordneten herren nachgenger zů Heinrichen Schnyder<note type="critical">Folgt gestrichen: zů</note> von <placeName ref="LOC_47.43233_8.87965">Hutzikon</placeName> uß der herrschafft <placeName ref="LOC_47.36583_8.6789">Gryffensee</placeName> jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> keert unnd jme syne sachen<note type="critical"><q>syne sachen</q> am Rand, in der Zeile gestrichen: die wyßung von einem ersammen eegricht</note> fürgehalten<note type="critical">Folgt gestrichen: unnd darüber synes feereren bscheidtß begert</note>, hatt er darüber den bscheid geben: Nachdem er vor etwas verloffner zyth uß erlouptnuß heren vogts zů Gryffensee<note type="critical"><q>uß erlouptnuß herren vogts zů Gryffensee</q> am Rand mit Verweiszeichen</note><note type="editorial"> Georg Rubli</note> mitt <persName ref="Mantz, Regula">Regula Mantzin</persName>, syner eefrouwen, sampt einem khind wegen syner armůtt hinab jnn <placeName ref="LOC_49.5_17">Merherrn</placeName><note type="critical">Folgt gestrichen: gezo</note> gen Alegenwitz<note type="editorial"> Alexovice (dt. Alexowitz) <placeName ref="Alexovice"/></note>, unnder Crems<note type="editorial"> Krems an der <placeName ref="LOC_48.4104_15.60574">Donau</placeName></note> gelegen, gezogen, were<note type="critical">Folgt gestrichen: jme</note> syn frouw<note type="critical">Folgt gestrichen: ung</note> unlang darnach eines kindß zefruͤ geneßen<note type="editorial"> entbunden, Grimm 5, 3387f.</note> unnd mitt thod abgangen, darby <persName ref="Gerstli, Barbeli">Barbelj Gerstlj</persName>, <persName ref="Hedinger, Kaspar">Caspar Hedingers</persName> jm spital alhie eefrow, gweßen. Unnd syge ouch <persName ref="Studer, Lienhard">Lienharten Studer</persName> von <placeName ref="LOC_47.40823_8.54258">Örliken</placeName><note type="editorial"> Oerlikon</note>, der zur selben zyth ouch daunden gsyn unnd jetz widerumb alhie syge, wol bewüßt, das syn, Heinrichen, frouw mitt thod abgangen<note type="critical">Folgt gestrichen: jme wol bewüßt syge</note> etc. Daruf jnne nit mehr thůnlich<note type="editorial"> angemessen, zweckmässig, Id. XIII, 458.</note> <note type="critical">Folgt gestrichen: syn bedunckt</note> unnd sonnderlich, das er jr, der thoüfferen lehr, nit recht verstaan khönnen, syn bedunckt, alda wyter zůverharren, unnd deßhalb mitt dem kind, ob glych wol die thoüffer jme das gern abnemmen wellen, widerumb alhar gezogen unnd sich mitt einer annderen vereelichet, man jme aber, das er sölliche ze kilchen fuͤre, bißhar noch nit gestattnen wellen. Mitt unndertheniger pitt, jr, myn gnedig herren, söllichem synem fürgäben<note type="editorial"> Aussage, Id. II, 90.</note> glouben geben, unnd wo er die zeerung<note type="editorial"> Reisekosten, Grimm 31, 475.</note> vermöchte, welte er sich nit beschwerren, widerumb hinab jnn <placeName ref="LOC_49.5_17">Merherrn</placeName> unnd das syn frouw thod einem brieflichen schyn zereichen.</p>
+<pb n="2" facs="E_I_7_3__Nr__64__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__64__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__64__S__4_.tif"/>
+<p rend="margin-top">[Urteil]: Myn herren wellent recht uff dißmalen an syn verantwortung khommen<note type="editorial"> kommen an: etwas annehmen, Grimm 11, 1675.</note>, also das er nach erlegung deß kostens der gfangenschafft erlaßen werden. Doch soll jme nit zůgelaßen syn, das wyb, so er jetzt genommen, zů kilch unnd straßen zefuͤren unnd er ouch mitt derselben ehlich nit jngfuͤrt werden, biß er glaubwürdigen schyn bringt, das die vorig syn eefrouw synem fürgäben nach mitt tod abgangen syge. Hienebent soll dem vogt zů Gryfensee geschriben werden, syn (Schnyders) abgestorbnen frouwen gůt nachzefragen unnd dasselbig jnn verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> zelegen, dann myn herren vermeinind, dasselbig von deßwegen, dz sy, die frow, hinweg under die ­toüf­ferisch sect gezogen, jnen als oberkeit heimbgfallen und verwürckt syge. Actum, 20ten martij anno etc. 91 pr[aese]nt[ibu]s herr b[urgermeister] <persName ref="GND_143659413">Tomman</persName> und beid reth.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Aufschrift auf der Rückseite des Dokuments</p>
+      </div>
+    </back>
+  </text>
+</TEI>

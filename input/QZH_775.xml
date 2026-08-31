@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_775</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355178">StAZH E I 7.3, Nr. 125</idno>
+          </msIdentifier>
+          <head>Rechnung Magdalena Meister</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1608-09-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1608-09-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 661</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__125__S__1_.tif"/> 
+<p>Den 1. Septembris 1608.</p>
+<p>Frouw Magdalena Meisterin hat yngenommen:</p>
+<p>200 pfund<note type="critical">In der Vorlage: lb</note> von jrem man, da er hinweg wellen.</p>
+<p>92 pfund ab 16 m[ü]t roggen erlößt, die übrigen 10½ m[ü]t<note type="editorial"> Hohlmass für Getreide, Id. IV, 574.</note> sol <persName ref="Werdmüller, N.">sy Werdmüller</persName> jm jnventario.</p>
+<p>46 pfund 10 schilling<note type="critical">In der Vorlage: ß</note> für 6 m[ü]t k[ernen] <persName ref="Pfenninger, N. (Müller)">müller Pfeninger</persName>.</p>
+<p>37 pfund 10 schilling für 5 mt. k[ernen] z[a]lt <persName ref="Huber, Peter">Peter Huber</persName>, die übrigen 24 mt. k. zeigint sy jm jnventario.</p>
+<p>Summa 376 pfund.</p>
+<p rend="margin-top">Dargegen ußgeben:</p>
+<p>80 pfund dem <persName ref="Staub, N.">Stouben</persName> am Müljhäldlj<note type="editorial"> Vielleicht Mühlehalde in <placeName ref="LOC_47.40313_8.4971">Höngg</placeName>.</note>, damit die 240 gulden luth inventariums volnkommen</p>
+<p>36 pfund 16 schilling einem fhurman.</p>
+<p>56 pfund 8 schilling an 12 ducaten dem <persName ref="Bantli, N.">Bantlj</persName> .</p>
+<p>220 pfund als 200 pfund houbtgůt und 20 pfund 2 jartzinß <persName ref="Häuler, Anna">Anna Häußlerin</persName>, vögtin zů Sembach<note type="critical"><q>vögtin zů Sembach</q> daneben mit Verweiszeichen</note>, darmit sy des <persName ref="Kolb, Hans Heinrich">Kolben</persName><bm id="301"/> handtgeschrift<note type="critical">Folgt gestrichen: vj</note> abglößt.</p>
+<p>Summa 393 pfund 4 schilling.</p>
+<p>Also ist fürgwert 17 pfund 4 schilling.</p>
+<p rend="margin-top">Und ist dem vogt bevolchen, das er die schulden allenthalb und den hußtzinß yntzüchen, ouch ordnungen geben, das die frücht jm <placeName ref="LOC_47.4_8.53333">Läten</placeName><note type="editorial"> Letten, Gebiet an der Limmat, südöstlich des Dorfes Wipkingen.</note> gsamblet und geämbdet werde, wie dann jmme 1 ußtzug aller schulden sambt den 4 rechenbuͤcheren zůgstelt worden.</p>
+<pb n="2" facs="E_I_7_3__Nr__125__S__2_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

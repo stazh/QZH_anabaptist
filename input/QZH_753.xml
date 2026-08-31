@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_753</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355127">StAZH B IV 63, fol. 184</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Ulrich Wolf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1605-05-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1605-05-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 639</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt. Wir habent uß dynem schryben verstanden, was dir der jhenigen personnen halber, so jnn den jnn dynem schryben vermeldeten orten verschinner<note type="editorial"> vergangener</note> wuchen gehaltnen ­toüf­fer predigen gweßen, der straff<note type="critical">Folgt gestrichen: halber begegnet</note> und jr, der ­toüf­feren, halber begegnet. Gebend dir daruf den bevelch, das du uff die redlifürer und diser ­toüf­feren prediger dyn flyßige spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> machen und nit allein dieselben, sonder auch alle die, so jnen, den ­toüf­feren, jnngmein herberig und underschlouff gebend, gfengklich jnzüchen laßen, jnen diß alles und was jrethalb unser meinung syge fürhalten und dann mit allem erntst straffist jnnsonderheit auch allen<note type="critical"><q>allen</q> über der Zeile</note> den jhenigen, die<note type="critical"><q>die</q> über der Zeile, in der Zeile gestrichen: so jnn; über der Zeile gestrichen: und</note> disere<note type="critical">korrigiert, ursprünglich: dieseren</note> ­toüf­ferpredigen<note type="critical">Folgt gestrichen: gsyn</note> besůcht, so<note type="critical"><q>so</q> am Rand, in der Zeile gestrichen: und</note> du jnn erfarung bringen magst<note type="critical">Folgt gestrichen: ouch erntstlich büßist und</note>, ein größere und mehrere straff wieder aber unser deßhalb ußgangen mandat vermag<note type="editorial"> besagen, beinhalten, Id. IV, 111.</note>, abnemmist, also dz es nit grad by dem 1 g[ulden] daruf gesetzter bůß blyben, sonder ein jeder durch dich dermaßen<note type="critical"><q>durch dich dermaßen</q> über der Zeile, in der Zeile gestrichen: nach gsalt der sachen</note> gestrafft werden sölle, das sy welten daheimen blyben syn<note type="critical"><q>das sy welten daheimen blyben syn</q> am Rand mit Verweiszeichen</note>. Woveer<note type="editorial"> wenn, Id. I, 914.</note> dann einer ald<note type="editorial"> oder</note> mehr diser personen<note type="critical">Folgt gestrichen: umb schirm und handthabung unsers mandats kh[…], das man sy nach luth dersleben allein straffen sölte v</note> unns nachlauffen und begären wurde, sy by<note type="critical">Folgt gestrichen: dem</note> unserm mandat der bůß halb zeschirmen und nach luth desselben allein zestraffen<note type="critical"><q>sy by … zestraffen</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: werdend</note>, wellend wir dieselben nit nun abwyßen, sonder auch, wo wir von nöten syn erachtend, gfengklich jnzüchen laßen und der gebür nach auch straffen und büßen<note type="critical">Folgt gestrichen: werdent</note> unnd dir jederzyt diser ­toüf­feren halber gůten rugken halten werdent, da wir unns gegen dir versehend<note type="editorial"> erwarten, Id. VII, 567.</note>, du werdist wyter wie bißhar an dynem flyß und erntst auch nützit ermanglen laßen, das stadt unns gegen dir jnn gnaden zůerkhennen.</p>
+<p>Demnach hat unns unser geliebter burgermeister herr <persName ref="GND_1053582994">Heinrich Bräm</persName> dyn begären deß jnsatz<note type="editorial"> Einsatz eines neugewählten Pfarrers, Id. VII, 1541.</note> briefs von wegen der pfarr Tägerlen<note type="editorial"> <placeName ref="LOC_47.56291_8.72592">Dägerlen</placeName></note> angezeigt, darüber gebend wir dir zůvernemmen<note type="critical"><q>wir die zůvernemmen</q> am Rand, in der Zeile gestrichen: jst unser meinung, das du disemaln umb wenigisten costens willen anheimbsch blybest</note>, das wir uff unserer eidtgnoßen von <placeName ref="LOC_47.71034_8.63388">Schaffhußen</placeName> schriftlichs begären bewilliget, das umb wenigisten costens willen<note type="critical"><q>umb wenigisten costens willen</q> am Rand mit Verweiszeichen</note> diser jnsatz allein durch<note type="critical">Folgt gestrichen: den</note> herrn Wonlichen<note type="editorial"> <persName ref="GND_1089426291">Diethelm Wonlich</persName></note> zů <placeName ref="LOC_47.49675_8.73417">Winterthur</placeName> als dechan deß Winterthurer capitels jnnbysyn deß pfarrers zů <placeName ref="LOC_47.59284_8.67544">Andelfingen</placeName> beschechen sölle.<note type="editorial"> Das Kollaturrecht lag bis zur Reformation beim Kloster Allerheiligen in Schaffhausen. Seit der Reformation wählte der Schaffhauser Rat den Pfarrer von Andelfingen.</note> Deß habent wir dich berichten wöllen, du dich darnach zehalten<note type="critical">Folgt gestrichen: und anheimbsch zeblyben</note> wüßist. Datum den 2. maij anno 1605.</p>
+<p rend="margin-top">Burgermeister und rhat der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wyßen, unserm besonders gethrüwen, lieben burger und vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> Hans Ůlrich Wolfen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

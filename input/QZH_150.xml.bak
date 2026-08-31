@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_150</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355017">StAZH B IV 15, fol. 189v-190r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Landvögte</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1545-03-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1545-03-12"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 36</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[…].<note type="editorial"> Das Schreiben betrifft den Unterhalt der Pfrundhäuser.</note> Us Zürich donnstags nach oculj 1545.</p>
+<p rend="margin-top">Burgermeyster unnd rath der stat <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
+<p rend="margin-top">An all vögt uffs land.</p>
+<p rend="margin-top">Unnd wenn man gan <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> schribt, so mus man glych nach dem datum, doch an einen andern artikel, e man die underschrifft schribt<note type="critical"><q>e man die underschrifft schribt</q> am Rand mit Verweiszeichen</note>, dise meynung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> schryben:</p>
+<p>Wyter, lieber vogt, langet<note type="editorial"> gelangen</note> sovil clegt<note type="editorial"> Klage</note> an uns von <persName ref="Girenbader, N.">deß Gyrenbaders</persName> wegen, da er nit zu kilchen gange, das wir nit neben für meer komen mögend, dann das unser meynung ist, das du fängcklich zu jm gryffen und jnn zu Grieningen ennthalten<note type="editorial"> festhalten, Id. II, 1228.</note> wöllist, untz<note type="editorial"> bis</note> er villicht gehorsam würt. Datum ut supra.</p>
+<p rend="margin-top">Inn die <placeName ref="LOC_47.47812_8.42878">Regensperger</placeName> missive<note type="editorial"> Sendschreiben</note> wirt man diß nach dem datum setzen:</p>
+<p>Wyter, lieber vogt, langet sovil clegt an uns von Verenen Sůrberin wegen von <placeName ref="LOC_47.5029_8.37505">Niderwäningen</placeName><note type="editorial"> Niederweningen</note>, das die jnn dryen jaren nie ze kilchen gangen syge, das wir nit neben für meer komen mögend, dan das unser meynung jst, das du zu jr gryffen und uns die fengcklich zufüeren lassen wöllist. Datum ut supra.</p>
+</div>
+    </body>
+  </text>
+</TEI>

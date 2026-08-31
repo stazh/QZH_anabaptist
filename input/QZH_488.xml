@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_488</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355223">StAZH E I 7.3, Nr. 36; Abschrift: ZBZ, Ms A 72, S. 421f.</idno>
+          </msIdentifier>
+          <head>Vertreter der Strassburger Obrigkeit an den Magistrat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1588-09-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-09-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 374</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__36__S__1_.tif"/>
+<p>Edle, gestrenge, veste, from, fürsichtig und weiß, günstige, liebe herren und gethrew mitbundt- und eidtgenossen. Unnß jst diser tagen ein kunstlich<note type="editorial"> künstlerisch, Id. III, 369.</note> drinckgeschirr, so uff die form einer weltkugel, so man globum terrestrem nennet, von etlichen persohnen fürgewisen und gezeigt worden, welchen ein goldschmidt, so auß u[wer] h[erren] statt pürttig, dessen namen jst <persName ref="GND_136100821">Abraham Geßner</persName>, geferttigt und gemacht haben soll. Deßselbigen thuon und lassens halber seindt wir auch berichtet, das er wie auch noch drey andere mit jhm von forcht der verstrickung auß u. h. statt entwichen seyen, ursachen, dz dieselbigen mit jrer religion den theüffern (denen doch sie nit jngeleüpt, sonder frey stehn, auch noch nit bedacht, jn jr gemein sich zuverpflichten) geneigt oder anhengig, doch sollen sie sich sunst jederzeit in allem jrem thuon und lassen redlich, uffrecht, still und erbar gehaltten. Aber ob sie gleich von e[uer] h[erren] vorstehern zu etlichen mahlen underrichtet, dz sie dannocht von jrer gefaßten meinung nit abstohn wöllen.</p>
+<p>Da sie aber doch gesinnet, dz sie an keinem andern ort auf diser erdth lieber sein wohnen und jer<note type="editorial"> ihr</note> zeittlich leben schliessen woltten dann allein bei u. h. alß jn jrem vilgeliebtem vatterlandt, denselbigen auch jn allen zeittlichen gepotten begirige, schuldige und willige gehorsam zuerweisen und leisten, allein wo sie jres gewissens halber unbeschwert verpleiben möchten, <pb n="2" facs="E_I_7_3__Nr__36__S__2_.tif"/> so wehre jer begehren, underdienstlich<note type="editorial"> dienstwillig, pflichtergeben, Id. XIII, 779.</note> pitten und suochen, wir wolten bey e[uer] h[erren] für sie intercedieren<note type="editorial"> sich einsetzen, vermitteln</note> und pitten, das sie uff solch jer erpietten wider einkommen<note type="editorial"> (zuhause) ankommen, eintreffen, vgl. <bibl><ref target="http://fwb-online.de/go/einkommen.s.3vu_1709292878">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note>, der religion halb frey gelaßen und wider jer gewissen nit getriben und solang gelitten werden möchten, als einem loblichen magistrat bey euch thönlich<note type="editorial"> ausführbar, zumutbar, angemessen, Id. XIII, 458.</note> und, so sie nit mehr zugedulden, jnen mit friden jhrer verstrickung hinzuziehen angesagt und erlaupt würde.</p>
+<p>So aber jhre die beywohnung<note type="editorial"> Ansässigkeit, Aufenthalt, Id. XVI, 321.</note> nit zuerhaltten oder künfftig die wider abgekündigt werden soltte, das jhnen doch jre weib und kinder neben jrer geringfüegigen nahrung gefolgt und jres halttens auch ehelicher gefurt glaubwürdig urkhundt und schein ertheilt würde, woltten sie, daß mit aller undertheniger gehorsam begirlichs fleyß auch mit embsigen jhrem gebett gegen gott gern verdiennen.</p>
+<p>Dieweil dann nhun wihr gehörter masen ersuecht, jr flehlich pitten, erpietten und ziemliche begehren gehört und verstanden, ja jnsunderheit gesehen, das auch der goldtschmidt umb berüempter seiner kunst willen wol in ein statt zu kauffen sein solt und dann wenig mit zwang jn glaubens sachen zuverrichten, wie dann augenscheinlich, dz die grosten heüpter, die fürtrefflichste gelerte leut darinnen sich nit mogen vergleichen<note type="editorial"> sich verständigen, einigen, Id. II, 601.</note>, wie auch der glaub nit jedermans ding, noch eim jeden darüber zuurtheillen bevolhen und <pb n="3" facs="E_I_7_3__Nr__36__S__3_.tif"/> sie sich sonst erbar, still und weßenlichs<note type="editorial"> rechtschaffen, tüchtig, Id. XVI, 1883.</note> gehalten, so haben wir unnß güettlichen erpitten und vermogen lassen, für sie bey u. h. alß unseren lieben herren und mitbundtsgenossen zu bitten, das dieselbig bey jhren mitobern und herren als einem so loblichen magistrat, bey dem auch ettwan frembde underschleyf bekhommen, sovil vermögen<note type="editorial"> bewirken, veranlassen, Id. IV, 111.</note> woltten, das ermeltte personen jn einem oder dem andern weg möchten erhört und unnß dise erste pitt nit abgeschlagen werden. Das woltten und begehren wir umb e[uer] h[erren] bestens vermögens gern zuvergleichen und gewidern<note type="editorial"> beide Verben i.S. von vergelten, Id. II, 600, und XV, 627.</note>, wie wir unnß dann einicher abschlägiger antwurt nicht versehen, und thondt damit die herren sampt und sunderlich wie auch alle begehrende gottes gnaden und unnß auch zu deren angenehmen willen befelhendt. Datum Straßburg, den 20. septembris anno 88.</p>
+<p rend="margin-top">E[uer] h[erren] dienst-, freündt- und gutwillige bundtsgenossen</p>
+<p>Hans Philips vonn Kettenheim<note type="editorial"> Johann Philipp von Kettenheim (1545–1602)<persName ref="Kettenheim, Johann Philipp von"/>, Stättmeister von Strassburg</note></p>
+<p>Nicolaus Fuchs<note type="editorial"> Nicolaus Fuchs,<persName ref="Fuchs, Nicolaus"/> Ammeister von Strassburg</note></p>
+<p>Friderich Prechter<note type="editorial"> Friedrich Prechter (geb. um 1550, gest. vor 1616)<persName ref="Prechter, Friedrich"/>, Ratsherr und Kaufmann in Strassburg</note> <note type="critical">Drei Papiersiegel auf der Rückseite.</note></p>
+<pb n="4" facs="E_I_7_3__Nr__36__S__4_.tif"/>
+<p rend="margin-top">Den edlen, gestrengen, vesten, fromen und wyßen herren <persName ref="GND_143659413">Caspar Thoman</persName>, burgermeistern, <persName ref="Holzhalb, Heinrich">Heinrichen Holzhalb</persName>, statthaltern, Johann Eschern<note type="editorial"> Hans Escher <persName ref="Escher (vom Luchs), Hans">vom Luchs</persName></note>, seckelmeistern, <persName ref="GND_143657062">Hanß Kellern</persName><note type="editorial"> Hans Keller (1537-1601)</note>, obman, <persName ref="GND_143658468">Conradten Großman</persName>, schultheiß, <persName ref="Ziegler, Adrian">Adrian Zieglern</persName>, rhatsbewandten und <persName ref="Escher, Gerhard">Gerhardt Eschern</persName>, stattschreibern, der loblichen statt Zürich unsern ehrenden herren und getrewen lieben bundtsgenoßen sampt und sonders.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_519</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355232">StAZH E I 7.3, Nr. 44</idno>
+          </msIdentifier>
+          <head>Zweites Verhör der in Horgen verhafteten Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1589-10-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-10-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 405</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__44__S__4_.tif"/>
+<head type="Originalsprache">Der ­toüf­feren von Horgen andere anttwort<note type="critical">Aufschrift auf der Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__44__S__1_.tif"/>
+<p>Demnach genant herr statthalter Hirtzel<note type="editorial"> <persName ref="Hirzel, Salomon">Salomon Hirzel</persName> </note>, h[err] landtvogt Tomman, herr landtvogt Escher<note type="editorial"> Hans Konrad Escher (vom Glas)<persName ref="Escher vom Glas, Hans Konrad"/></note> unnd herr schultheiß Grossman<note type="editorial"> <persName ref="GND_143658468">Konrad Grossmann</persName></note> sampt dem herrn pfarherr zum frouwenmünster, m[eister] <persName ref="GND_102534357">Burckharten Leeman</persName>, widerumb jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName><note type="critical">Folgt gestrichen: keert</note> zů den ­toüf­feren keert<note type="editorial"> sich begeben, gehen, Id. III, 435.</note>, sy gmeinlich miteinanderen für sich genommen und<note type="critical"><q>sy gmeinlich … unnd</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: unnd sy nachmalen</note> mit erntst zum kilchgang unnd anderer gepürlicher gehorsame üwer myner gnedigen herrn vermanet, hat<note type="critical"><q>hat</q> über der Zeile, in der Zeile gestrichen: unnd</note> daruf<note type="critical">Folgt gestrichen: auch</note> herr Leeman jnen siben artickel<note type="critical">Folgt gestrichen: deren sy sich speerend fürgehalten</note>, als namlich für den ersten<note type="critical"><q>für den ersten</q> am Rand mit Verweiszeichen</note> vom bann der kilchen unnd wie der von den ­toüf­feren gebrucht unnd gehalten, zum anderen wodurch die alten under dem gsatz selig worden<note type="critical">Folgt gestrichen: unnd grecht gemacht</note>, zum dritten von dem touff unnd uß was ursachen sy die jungen kinder darjnnen ußschließind, zum vierdten von der erbsünd, zum fünfften ob namlich das alt testament durch das nüw ufgelößt, zum sechßten von der oberkeit unnd dem stand derselben unnd zum letsten unnd sibenden von dem eydschwůr, fürgehalten<note type="editorial"> mündlich vortragen, Id. II, 1235.</note> unnd von<note type="critical"><q>von</q> über der Zeile</note> söllichen articklen mit jnen gmeinlich unnd sonderlichen gehandlet.</p>
+<p>Ist nach langem disputieren unnd bewyßung heiliger göttlicher gschrifft mit jnen dahin verhandlet worden, das sy den anderen artickel von der grechtmachung der alten under dem gsatz mit unns stimend, also das dieselbigen wie ouch wir durch das lyden Christj selig gemacht worden sygend, unnd ouch jm vierdten artickel die erbsünd belangende, als namlich das alle mentschen<note type="critical"><q>alle mentschen</q> am Rand, in der Zeile gestrichen: ein wir</note> gmeinlich jnn der erbsünd empfangen unnd erboren werdind, sich verglichen<note type="editorial"> sich einigen, Id. II, 601.</note>. Was demnach den sechsten artickel, die oberkeit beruͤrende, betrifft, hatt Jacob <pb n="2" facs="E_I_7_3__Nr__44__S__2_.tif"/> Hochstraßer geantwortet, das ein oberkeit syn sölle unnd möge, unnd das ouch die von gott jngesetzt dem frommen zu schutz unnd schirm unnd dem bösen zur straff, bekhenne ouch, das man deren jnn allen zimlichen, billichen sachen unnd, was nit wider gott syge, gehorsam syn sölle<note type="critical">Folgt gestrichen: uff</note>, wellicher bekhandtnuß syne mitgspannen all gmeinlich zefriden gweßen. Als aber durch<note type="critical"><q>durch</q> über der Zeile</note> m[eister] <persName ref="GND_102534357">Burckharten Leeman</persName> unnd ouch die obernennten myn herren<note type="critical">Folgt gestrichen: d</note> verordneten befragt worden, ob ouch ein oberer ein christ syn möge ald<note type="editorial"> oder</note> nit, habent sy anders nützit dann<note type="critical">Folgt ein Wortstreichung</note>, das ein jeder, so ein christenlich leben fuͤre, syn möge, antworten wellen.</p>
+<p>Was aber die überigen artickel belangend<note type="critical"><q>belangend</q> über der Zeile, in der Zeile gestrichen: betrifft</note>, wiewol von obermelten mynen herren, den verordneten, eins unnd vil mit jnen gredt unnd gehandlet worden, habend sy sich doch untzhar<note type="editorial"> bisher, Id. II, 1562.</note> darjnen nit ergeben wellen unangesechen, das sy deren<note type="critical"><q>deren</q> über der Zeile, in der Zeile gestrichen: die grün</note> jnen fürgeworffnen gründen dheinen<note type="editorial"> keinen</note> uflößen khönen mitt demuͤtigem bitten, sy darby belyben zelaßen unnd sy jnn bedenckung, der mehrteil under jnnen mit vile der kinden beladen, die jetzt dann jrer hilf beroubet syn muͤßend, der gfangenschafft gnedigklichen zuerlassen. Wellind sy sich<note type="critical">Folgt gestrichen: auch</note> uff die überblibnen artickl wyther bedencken unnd volgendts darüber gepürenden bscheid geben.</p>
+<p>Unnd als demnach myn herren, die verordneten, <persName ref="Bindschedler, Heinrich">Heinrichen Bindschedler</persName> von <placeName ref="LOC_47.30468_8.60718">Erlibach</placeName> mit erntst befragt, <pb n="3" facs="E_I_7_3__Nr__44__S__3_.tif"/> was für burger zu jme gen Erlibach jnn syn huß gewandlet, wil er von niemandem nützit wüssen mit anzeigung, das er niemandts beherberget.</p>
+<p>Unnd als jr, myn gnedig herren, <persName ref="Wälti, Jagli">Jaglj Wältis</persName><note type="critical">Folgt gestrichen: von</note> ußm Bernpiet halb erkhendt, das wann er ein eyd thůn ald an eydtsstatt anloben will, uß<note type="critical">Folgt gestrichen: my</note> üwer myner gnedigen herren gricht unnd gepiet zezüchen, hatt er uff fürhalten dessen deweders<note type="editorial"> keines von beiden, Id. XV, 489.</note> thůn wellen mit vermeldung, habe nützit ghandlet, das er das land myden sölte.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,712 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_496</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>ZB, Ms A 67, S. 163-181.</idno>
+          </msIdentifier>
+          <head>Eine Widerlegung von Hans Rudolf Stumpf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 382</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">
+          <pb n="163" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534102"/> […] Ad
+            Maleri<persName ref="Maler, Batlthasar"/> scriptum responsio<note type="editorial"> Vgl.
+            Nr. 352.</note></head>
+        <pb n="163" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534102"/> […] Ad
+          Maleri<p>[Maler]: Das die oberkeit über jnne erzürndt, als ob er goͤttlichem wort und der
+          ordelichen oberkeit nitt gehorsam, noch underthenig.</p>
+        <p>Responsio: Hie zücht anfenklich Maler zwey ding an, 1. das die oberkeit über jnn erzürnt,
+          2. die ursach, dz er gottlichem wort und der oberkeit nit gehorsam; das letst woͤllend zum
+          ersten für die hand nemmen.</p>
+        <p>Das sy, die teüffer, jnn wichtigen und gebürlichen stuken weder gott noch der oberkeit
+          gehorsamind, ist offentlichen am tag. Dann wer der christlichen oberkeit gehorsamet in
+          zymlichen, billichen und goͤttlichen sachen, der gehorsamet ouch gott. Wer aber der
+          oberkeit inn sölichen nitt gehorsamet, der gehorsamet ouch gott nitt. Jerem. 29 b<note type="editorial"> Die Buchstaben nach den Kapitelzahlen entsprechen der Gliederung des
+            Textes in der Froschauer-Bibel.</note>, Rom. 13, 1. Pet. 2. Diß bedarf aber nit vil
+            probierens<note type="editorial"> Beweisens</note>, dann jr teüffer das selbst nit
+          doͤrffend lougnen.</p>
+        <pb n="164" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534103"/>
+        <p>Das aber jr teüffer der oberkeit nitt gehorsamind in zymlichen, billichen, notwendigen
+          sachen, ist offentlich am tag, dann ir üch zů gepürlicher gehorsame nitt wellend lassen
+          mit eid verbinden. Dann dardurch jr verstrickt můßtind, wenn üch ein oberkeit gebutte bym
+          eid, das jr die kilchen, wort, sacrament, gebaeͤtt und gmeind gottes besůchen, das jr von
+          solichem christlichem kilchgang inen jre biderben lüt und underthonen nit abzüchen, das jr
+          one ordelichen gottlichen brůf und jro, der oberkeit, wüssen und erloubnuß nitt üch selbs
+          zů winkelpredigern<note type="editorial"> Prediger ohne Amt</note> ufstellen unnd zeleeren
+          underston, das ir mitt weer und waffen gefasset wie andere biderbe underthonen<note type="critical">In der Vorlage: undethonen. Folgt gestrichen: nitt</note> zewachen,
+            zereisen<note type="editorial"> ins Feld ziehen, Kriegsdienst leisten, Id. VI,
+            1303.</note>
+          <note type="critical">Folgt gestrichen: und</note>, stryten und<note type="critical">Folgt
+            gestrichen: üweren fulen balg</note> für die worheit, freyheit, vatterland, oberkeit,
+          gricht und recht, wyb und kind üwern fulen balg<note type="editorial"> Haut, Id. IV,
+            1209.</note> wagen und zůhin setzen, und so jr umb soͤlicher trüwlose willen von der
+          oberkeit jres lands und gepieten mitt dem eid verwisen, jr den selbige volwerdiente bůß
+          und eid nitt halten und der straf deß meineits, so ir darüber ergriffen wurdend, erwarten
+          muͤssind, da da trukt üch fulbeltzen der schůch und wendend für üwere hübsche gwüßne und
+          dz verbott Christi vom eid Math. 5 (von dem wir an synem ort reden wend).</p>
+        <p>Diewyl nun hierinnen wie gmeldet aller gehorsame die ein underthon, besonder ein christ,
+          syner oberkeit vor gott und der waͤlt schuldig, fundament, grund und substanz und
+            haft<note type="critical"><q>und haft</q> am Rand mir Verweiszeichen</note> begriffen, jr üch
+          aber hie an dem ersten antritt so fraͤfen<note type="editorial"> dreist, Id. I,
+            1286.</note> und unverschampt offentlichen widersetzend, so widersetzend jr üch nit nun
+          dem ordelichen menschlichen gwalt, sonder ouch gott selbß, Rom. 13. Dan der, dem gwalt
+          widerstath, der widerstath der ordnung gottes, die aber widerston, werdend jnen selb ein
+          gricht und urtheil nemmen etc. Es ist üch aber nit gnůg ann dem, das jr üch aller
+          gehorsame dermassen entschlahind, sonder damitt jr üch einen anhang machend, thůnd jr, wie
+          der herr Christus von den juden redt, jr durchreisend wasser und land, das ir üch junger
+          und toufsgnossen anhengig machend und so jr einen ergwünnend, machend jr den noch
+          tüfelsüchtiger, dann jr sind, staͤlend jnen das herz wie Absolon synes vatters deß künigs
+          underthonen dz herz stal<note type="editorial"> 2Sam 15,2-6</note>, deß er zů syner zyt
+          synen gebürlichen lon empfangen.</p>
+        <pb n="165" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534104"/>
+        <p>Ir embietend üch hienebend hoͤchlich aller gůtwilligen underthenigkeit<note type="critical">In der Vorlage: undethenigkeit</note> und gehorsame (Maler 3 et 11)<note type="critical"><q>Maler 3 et 11</q> als Marginalie</note>, jtem zyns, zoll und tribut
+          zegaͤben, wie frommen, erlichen burgern gezimme (Heidegger 49, 50, 51)<persName ref="Heidegger, Samuel"/><note type="critical"><q>Heidegger 49, 50, 51</q> als
+            Marginalie</note>. Das ir einanderen ufwysind<note type="editorial"> zu etwas anstiften,
+            verleiten, Id. XVI, 1939.</note>, der oberkeit nit zegehorsamen, das moͤge mitt worheit
+          nit bybracht werden. Ir empietend üch insonderheit einer ordelichen oberkeit zegehorsamen
+          und zeunderwerffen, jr begaͤrind ouch tag und nacht gott zepitten für alle oberkeiten
+          jnsonders für die oberkeit üwers vatterlands etc. Ja, lieben teüffern, jr thůnd üch
+          grosser dingen uß, erzeigend aber mitt der that am ersten angrif dz widerspil, wie gnůgsam
+          und mitt worheit erwisen, dz jr im grund üch aller rechten gehorsame entschlahend, thůnd
+          hie glych jenem son, den syn vatter gheissen jnn synen wyngarten gon und er jme das mitt
+          gůten worten verhieß, gieng aber nit (Math. 21).</p>
+        <p>Damitt man aber üch jnn üwerm hohen empieten und aber wenig halten nit begryffe,
+          vergsasend jr niemer üwer exception und vorbehalt, sprechende: Ja, wz jr durch das
+          goͤttlich wort ergryffen koͤnnind (Maler 3, 11<persName ref="Maler, Batlthasar"/>, Heid.
+          49, 50, 52<persName ref="Heidegger, Samuel"/>)<note type="critical"><q>Maler 3 … 52</q> als
+            Marginalie</note>, ouch allen satzungen und gepotten zegehorsamen, die nitt wider gott
+          syend und nit von christelichem laͤben abfuͤrind; jtem so vil jr koͤnnind one verlezung
+          üwerer gwüßne. Hiemitt aber zeigend jr gnůgsam an, das welchen mandaten, satzungen und
+          gebotten jr nitt gehorsamend, jr die selbigen alls unchristeliche, umbillige, gottlose und
+          dem wort gottes widerwertige haltend und verschreyend, so doch offenbar und
+            mencklichem<note type="editorial"> jedem</note> jnn diser waͤlt kuntpar, das alle
+          satzungen, statuten, ordnungen und mandata, so sid anfangs der reformation von einem
+          ersamen wysen rhat der statt Zürich gmachet, ußgangen und gehalten worden, dem h[eiligen]
+          wort gottes jnn allen iren puncten und articklen gmaͤß und glychfoͤrmig und insonder grad
+          eben die satzungen und gebott, denen ir, die teüffer, üch am meesten widersetzend alls den
+          ordenlichen kilchgang, gotzdienst und predigampt und ordelichen berůf zum selbigen
+          belanget, wie dz an synem orth sol erwisen und gnůgsam bezüget werden. Und sovil syge
+          geredt von üwerm falschen und unworhaften empieten der gehorsame.</p>
+        <pb n="166" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534105"/>
+        <p>Zum anderen<note type="critical">Marginalie: 2.</note>, so klaͤgend jr üch ab der
+          oberkeit dorumb, das sy mitt ernstlichem ynsaͤchen<note type="editorial"> Vorkehrung,
+            Beschluss, Id. VII, 563.</note> und gebürender straf zehandlen fürgenommen, sprechend
+          die oberkeit syge über üch erzürnt (Maler 1, 4, 22, 23), handle gaͤgen üch uß zorn,
+          ermanend sy deß strengen gerichts und urtels gottes, so sy darob zeerwarten. Üch syge
+          anzeigt, unser g. herren habind erkent<note type="editorial"> beschlossen</note>, welche
+          der zunft nitt schweerind und den kilchgang mydind, soͤllind vom land verwisen werden.
+          Wenn dz waar syge, so syge das nach üwerm dunken unfrüntlich ghandlet, unverhörter sachen
+          einen mitt vil stattknechten sůchen alls ein schelmen. Dorumb jr bewegt, der oberkeit zorn
+          zewychen, dunke üch ein ungerymbter gwalt etc. Gange hie zů wie von je waͤlten inn beiden
+          testamenten, die oberkeit lasse sich zů soͤlichem zorn und ungefuͤgten gwalt (Maler 25,
+          27) die gleerten verhetzen zů undertrukung der einfalten worheit und verfolfgung
+          anzerichten. Es syge sich ouch da keines bessern zeversaͤhen: Mann woͤlle uch wider üwere
+          gwüßne und herz mitt gwalt zů einem anderen glouben zwingen und triben, nennend<note type="critical">In der Vorlage: nemmend</note> der oberkeit fürnemmen wider üch einen
+          notzwang. Lassind verhetzen über fromme, einfalte lüth, die selbigen anzegryffen und
+          zevertriben (Mal. 29<persName ref="Maler, Batlthasar"/>, Heideg. 37, 40, 41<persName ref="Heidegger, Samuel"/>), jnen das jren zenemmen und jnn gefencknuß zewerffen, jnn das
+          ellend zeverwysen. Ir gloubind ouch vestenklich, welche dz thůgind, nitt glider Christi
+          syn sonder antichristi glider. In summa, die worheit syge uff der straß niderglegt etc.
+          (Heid. 44). Hebend daruf an und verglychend sich selbst dem <persName ref="GND_118646575">frommen Abel</persName><bm id="167"/>, dem <persName ref="GND_118556746">Jacoben</persName>, dem <persName ref="GND_118523929">Daviden</persName>, der <persName ref="Susanna">Susannen</persName>, Christo nach dem geist, dem <persName ref="GND_118557394">Jeremia</persName> und allen propheten gottes<note type="critical"><q>dem Jeremia und allen propheten gottes</q> am Rand mit Verweiszeichen.</note> etc.
+          Dargaͤgen alle, die jnen ynredend, jrem trennen, winkelschlüffen<note type="editorial">
+            sich im Geheimen herumtreiben</note>, verachten der gmeind gottes, lesteren und
+          schmaͤhen, ouch jrrigen meinungen und falschen leeren nitt stat und platz gaͤbend, sonder
+          straffend, verglychend sy den künigen Israëls und Juda, die vor zyten die propheten gottes
+          ouch verfolget, dem <persName ref="GND_118714724">Cain</persName>, dem <persName ref="GND_118531018">Esau</persName>, den <persName ref="Susanna">richteren
+            Susannæ</persName>, dem <persName ref="GND_119550881">Juda</persName>, <persName ref="GND_129446424">Caiapha</persName> und <persName ref="GND_118792172">Pilato</persName>. Da aber sy heiliger dienern gottes verglychung aͤben so
+            ungerymbt<note type="critical">Folgt gestrichen: zům jnen</note> und falschlich jnen
+          selbß anmassend, alls unwarhaftig sy jrer ordelichen christlichen oberkeit one schonen mit
+          hoͤchster lesterung und schmach anhenkend die gsellschaft Cains, Esaus, <persName ref="GND_118605836">Sauls</persName>, <persName ref="GND_120527057">Absoloms</persName>,
+          der gottlosen tyrannischen künigen Israëls und Juda, den falschen richteren Susannæ, dem
+          Judas, Caiapha und Pilato.</p>
+        <pb n="167" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534106"/>
+        <p>Dann was verglychung kan joch<note type="editorial"> schon, Id. III, 6.</note> syn
+          zwüschent den gottsaͤligen dieneren deß herren und zwüschent üch teüffern? Abel, Jacob,
+          Jeremias, die propheten<note type="critical">Folgt gestrichen: si</note> hand jren berůff
+          von gott gehebt, sind dem selbigen mitt trüwen nachkommen, hand nüt gleert [als] das
+          goͤttlich wort und dwarheit, sind umb der worhit und frumkeit willen verfolget, verjagt,
+          gepyniget und gemarteret worden von boͤsen, ungleübigen, gottlosen tyrannen, falschen
+          propheten, sectischen juden und goͤtzenpfaffen, und dz wir gylch die anderen anzognen
+          exempl glych ston lassend. Was hand jr üch zů Daviden zeverglychen? David hatt mitt weer
+          und waffen, mit gfar synes lybs und laͤbens <persName ref="GND_118696254">wider
+            Goliath</persName> und die Philistiner gstritten fürs vatterland, fürs volk gottes, für
+          den künig Saul. Ir bestond inn noͤdten bym vatterland und üwrer ordelichen oberkeit wie
+          ein haß by einer feldtrummen<note type="editorial"> Kriegstrommel, Id. XIV, 1021f.</note>,
+          unnd leerend, es moͤg ein christ nitt mitt weer und waffen stryten. Hiemitt nit nun jr am
+          vatterland und üwer oberkeit trüwloß werdend, sonder soͤliche trüwlose flüchtige
+          verlassung deß vatterlands inn ander lüt stossend. David hatt von kindswesen uf das huß
+          deß herren, den usserlichen gotzdienst, die priester, propheten<note type="critical">In
+            der Vorlage: prophenten</note> und leerer und ouch die gmeind deß volk gottes, obglych
+          by denen in allen stenden vil mangels und praͤstens<note type="editorial"> Mangel, Fehler,
+            Missbrauch, Id. V, 839f.</note> gsyn, von herzen geliebet, sich deren geflissen, die
+          besůcht und all syn hoͤchste freüd und ergetzlikeit ghan. Und da er vom Saul veriagt, hat
+          er inn synem eellend sich nüt hoͤchers beschwert und erklagt, dann das er muͤssen deß
+          herrenn huses, gotz diensts, gmeinde und leere muͤssen manglen, hatt ouch von gott nüth
+          hefftigers begaͤrt, dann dz er moͤge soͤliche trostliche gmeinschaft widerumb
+            erlangen<note type="critical">korrigiert, ursprünglich: elangen</note> und inn dero sich
+          ergetzen und hiemitt gott dem herren gelobt, das so er jme widerumb ynhellffe, woͤlle er
+          sich morgens fruͤy, ja tag und nacht jm huß deß herren by der gmeind und volk gottes
+          lassen fynden und erzeigen. So erzeigend jr teüffer grad dz widerspil<note type="editorial"> Gegenteil</note>. Alle christlichen kilchen, gmeinden, predigen,
+          gebaͤtt und übungen der sacramenten schüchend jr wie der tüfel dz krütz, wie man spricht,
+          und wie ein katz dz schweißbad. Beschouwend doch jr unverschampten glychsner<note type="editorial"> Heuchler</note>, wie hübschlich jr üch nebend Daviden stellend,
+          urteile hie ein jeder verstendiger christ, was grossen underscheids <pb n="168" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534107"/> zwüschent Daviden
+          und üch, teüffern, ja alls groß alls zwüschent tag und nacht, wyß und schwartz, liecht und
+          finsternuß, füwr und wasser etc.</p>
+        <p>Glyche gstalt hatt es ouch mitt dem herren Christo und synen aposteln, die jnn der
+          groͤsten unordnung deß jüdischen volks, mißbrüchen des gotzdiensts, glyßnerey<note type="critical">Folgt gestrichen: der lee</note>, gyt<note type="editorial"> Geiz</note>
+          und eehrgyt der priesterschaft, diewyl sy glaͤbt uff erden sich deß tempels, der faͤsten,
+          der synagogen, der sabbaten geflissen, wie dz alle evangelisten und ouch die gschichten
+          der apostlen bezügend, und umb gemelter maͤnglen und presten willen gar nit geschochen, ja
+          Christus selbst den synen gebotten sprechende Math. 23: Es sitzend uff dem stůl Mosis die
+          geschriftgleerten und phariseer; dorumb alles, wz sy üch heissend halten, das haltend und
+          thůnd es etc.<note type="editorial"> Mt 23,2f.</note> So thůnd und heissend jr
+          widerteüffer dz widerspil. Dorumb, so jr üch hierinn so unverschampt nebend den herren
+          Christum selbst stellend, gaͤbend jr anlaß mencklichem üwer widerwertige wyß gaͤgen dem
+          exempel Christi und der apostlen zeexaminieren, zeerwegen und zeentdecken.</p>
+        <p>Unsere fromme christliche oberkeit, wie jr klagend, handlet gar nitt mitt und gaͤgen üch
+          wie Cain gaͤgen synem <persName ref="GND_118646575">brůder Abel</persName> oder wie
+            <persName ref="GND_118531018">Esau</persName>
+          <persName ref="GND_118556746">wider Jacoben</persName> oder wie <persName ref="GND_118605836">Saul</persName>
+          <persName ref="GND_118523929">wider Daviden</persName> oder die künig Israëls und Juda
+          wider die propheten gottes oder wie<note type="critical">Folgt gestrichen: Juda</note> die
+          falschen richter wider Susannam oder wie <persName ref="GND_118558536">Judas</persName>,
+            <persName ref="GND_129446424">Caiaphaß</persName> und <persName ref="GND_118792172">Pilatus</persName> wider Christum, noch<note type="critical"><q>noch</q> über der
+            Zeile</note> uß gaͤchem<note type="editorial"> aufbrausend, Id. II, 99.</note> zorn
+          unschuldige fromme lüth sampt der worheit und umb der worheit willen underzetruken, jnen
+          das jren wider billichs<note type="editorial"> Billigkeit, Recht</note> zenemmen und sy
+          vom vatterland und dem jren zeverjagen und vertriben. Ouch<note type="critical">Folgt
+            gestrichen: nit</note> handlend sy nitt uß anhetzen angefochtner lüten, sonder nach
+          gebür jres ampts und nach klarem, hellem fürschriben deß worts gottes unnd nach vermoͤg
+          jrer alten, gůten, christlichen ordnungen und satzung. Und so veer<note type="editorial">
+            fern</note> ist es, das<note type="critical">Folgt gestrichen: innen</note> sy soͤllind
+          von üch dergstalt anklagt und beschuldiget werden, das ir langmuͤtigkeit und
+            vetterlich<note type="critical">Folgt gestrichen: my</note> mittlyden und gedult sy
+          gnůgsam diser zůlag entschuldiget, alls deren jr üch angfangen so fraͤfentlichen und ouch
+          schüchen mißbruchen und damitt menklicher verstande, das von unser frommen christlichen
+          oberkeit gaͤgen üch, den teüffer sectern, nüth zornwuͤtiges<note type="critical">In der
+            Vorlage: zornuͤtiges</note>, gaͤches<note type="critical">Folgt gestrichen: und</note>,
+            angfochtens<note type="critical">Folgt gestrichen: und</note>, ombesinds oder neüwer
+          tyrannischer wyß gehandlet, so hat es mitt den teüffern die gstalt: <pb n="169" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534108"/> Als umb das jar
+          Christi 1521 und 1522 jn <placeName ref="LOC_51_13.25">Saxen</placeName> die teüffer iren
+          ursprung gnommen, hatt <persName ref="Müntzer, Thomas">Thomas Münzer</persName> jre
+          jrthumb angfangen ußpreiten mit predigen und gedtrukten geschriften und jnn <placeName ref="LOC_50.91667_11">Türingen</placeName> syn gift umb dz jar 1523 und 1524 erstlich wider
+          die prediger des h[eiligen] euangelij, dornach desselben gylchen wider die oberkeit
+            ußgossen.<note type="editorial"> Stumpf folgt in seiner Darstellung der von <persName ref="GND_123621534">Heinrich Bullinger</persName> propagierten <q>Täuferhypothese</q>,
+            wonach das Täufertum seinen Ursprung in Sachsen habe und die Zürcher Täufer von Thomas
+            Müntzer abhängig seien. Bullingers Täuferbild erlebte eine intensive Rezeption. Vgl.
+            hierzu Heinold Fast: Heinrich Bullinger und die Täufer. Ein Beitrag zur Historiografie
+            und Theologie im 16. Jahrhundert, Weiherhof 1959.</note> Und alls er da vertriben, er
+          hinuf jnn dz oberland uff <placeName ref="LOC_49.43083_11.08528">Nuͤremberg</placeName>, <placeName ref="LOC_47.55839_7.57327">Basel</placeName> und jnn dz <placeName ref="LOC_47.63457_8.41674">Klaͤkgoͤw</placeName><note type="editorial"> Klettgau</note> und lantgrafschaft
+            <placeName ref="LOC_47.7333_8.43333">Stuͤlingen</placeName> gezogen, hat er mit predigen und
+          schriben jemerdar anghalten, biß er einen grossen anhang überkommen, fürnemlich unruͤwiger
+          und eigenrichtiger lüten, die sich zesamen rottetend, heimliche gespraͤch hieltend und
+          jnen nüt liessend gfallen, was<note type="critical">Folgt gestrichen: man</note> domalen
+          jn der reformation gehandlet ward, wz jnen alls zů kurtz und nit geistlich gnůg mitt
+          fürwendung allein der eehren gottes und erbuwung der kilchen, understundend glych die
+          absünderung und<note type="critical">Folgt gestrichen: treng</note> trennung von der
+          christlichen gmeind allhie zů <placeName ref="LOC_47.36667_8.55">Zürich</placeName> jnn der statt
+          anzerichten, darvon aber sy von <persName ref="GND_118637533">Zuinglio</persName><note type="editorial"> Huldrych Zwingli</note>, den sy gern uff ir syten bracht hettent,
+          abgemanet wurdend, alls dem die sünderung und spaltung gar nitt gfiel<note type="critical">Folgt gestrichen: die</note> mitt anzeigung, das die apostel sich wol habind
+          abgesünderet, aber allein von denen, die offentliche fyend evangelij gewaͤsen. Derselbigen
+          zyt aber sygend wie noch hütt by tag gar vil eerbaren und gůtwilliger lüten von denen,
+          diewyl sy sich dem wort gottes nit widersetzind, noch grosse hoffnung syge, die aber durch
+          die absünderung unwillig und abfellig gemacht werdind, das rotten werde die kilchen nit
+          süberen, ja jnn der kilchen werde allwäg etwz zů bessern<note type="critical">Folgt
+            gestrichen: syn</note> bliben und nit ein waͤsen mit dem rych Christi werden, wie sy
+          jnen ynbildind, vermanet sy ernstlich, das sy inen selbß nit woͤllind zevil zůgaͤben,
+          sonder soͤltend gedult haben mitt den schwachen und presthaften schaͤflinen, die ouch noch
+          jnn den schafstal Christi hortind. Sy soͤltind sich vil meer flyssen zesünderen von den
+          werken der finsternuß, schlug jnen hiemitt syn hillf und rath zů soͤlicher sünderung und
+          trennung gentzlich ab. Sy aber fůrend jnn jrem boͤsen vorhaben für und zů fürderung jre
+          eignen kilchen und sect, hůbend sy an den kindertouff zeverwerffen, alls der nit uß gott,
+          sonder vom papst ufgesetzt und derhalben uß dem tüfel were, derhalben die recht gleübigen
+          jnn ein nüwe h. kilchen und gmeind muͤssind widergetouft werden. Dahar sy dann teüffer und
+          widerteüffer genent worden, die man zevor spiriteüser<note type="editorial"> Phantast, Id.
+            X, 454.</note> nant, und diewyl sy glych <pb n="170" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534109"/> dise sachen nitt
+          nun heimlich, sonder offentlichen mitt unverschampter ungestuͤmikeit tribend, <persName ref="GND_118637533">hůb Zuingly</persName> an offentlichen wider sy zepedigen und
+          zeweeren, das sy den touf nit zů einer rottung und absunderung und sect soͤltind
+          mißbruchen.</p>
+        <p>Diewyl aber daruß so vil zwytrachts erwůchs, das ouch ein fromme oberkeit sich der sachen
+          annam und die partheyen zů früntlichem gesprech weiße, diewyl aber keine früntliche
+          gesprach noch schriftliche berichtungen by dem zenggischen geistleren nit verfachen mocht,
+          ward anno d[omi]ni 1525 uff den 17. tag jenners ein offentlich gespraͤch mitt jnen vor
+          rhaͤten, burgeren und geleerten<note type="editorial"> gehalten</note> und bald darnach
+          uff den 20. tag merzens desselbigen jars ein anders gehalten und daruff beschlossen, das
+          sy, die teüffer, jres fürnemmens soltind abston und ruͤwig syn.<note type="editorial"> Die
+            Ratsbeschlüsse im Anschluss an das erste und das zweite Täufergespräch sind in QGTS 1
+            unter den Nummern 24, 25, 26 und 65 ediert.</note></p>
+        <p>Aber unangesaͤhen derselben vermanung und dz sy mitt disputieren nüth erhalten
+            mochtend<note type="critical">Folgt gestrichen: sind sy</note>, fůrend sy, die teüffer,
+          für, liessend sich fraͤven merken<note type="editorial"> den Missbrauch/die Dreistigkeit
+            zu erkennen geben</note>, jr sach nitt nun mit worten, sonder ouch mitt jrem blůt
+          zebezügen, hůbend an jnn den wincklen zetouffen, ettlich lüffend jnn der statt und land
+          herumb, schryende wie <persName ref="GND_118639951">Jonas</persName>, <placeName ref="LOC_47.36667_8.55">Zürich</placeName> wurde inn wenig tagen undergon, wæ dir Zürich und aber
+          wæ, thůnd bůß etc. Mitthin zů lartends<note type="editorial"> lehrten sie</note> ouch
+          gmeinsame der zytlichen guͤtern, schrüwend hefftig wider alle grobe laster alls hoffart,
+          fraͤssen und suffen, gotzlesterung und wůcher und der glychen. Sy furtend ouch ein schyn
+          eines geistlichen laͤbens, warend ernsthaft, süfzigten vil, lachtend nit, straftend
+          streng, redtend thür, jnen selbß hiemitt ein verwundern und ansaͤhen zeschoͤpfen by
+          frommen und einfalten lüten. Die sprachend dann, man sage glych von teüffern, was man
+          woͤlle, so sicht man doch an jnen nüt dann ernst und hoͤrt man nüth von jnen, dan das man
+          nitt soͤlle schweeren und unrecht<note type="critical">Folgt gestrichen: thůn</note>,
+          sonder jederman recht thůn etc. Also mitt disem schyn sy vil lüth jnn statt und land
+          verblandtend, wie sy noch hüt by tag thůnd. Darnebend klagtend sy sich allenthalben ab den
+          predicanten und ab der oberkeit, wie sy von denen unverhoͤrt<note type="editorial"> nicht
+            angehört</note> übergwaltiget wurdind und man jnen die worheit jm halls erstecken
+          woͤlte. Deßhalb von der oberkeit ein frey offen gespraͤch angesaͤhen<note type="editorial"> anordnen, festsetzen, Id. VII, 555f.</note> ward und ouch gehalten uff den 6. tag
+          novembris anno 1525 uff dem rhathuß <placeName ref="LOC_47.36667_8.55">Zürich</placeName> und alls
+          von zůloufs waeͤgen der platz zů eng ward<note type="critical">Wort (ward) auf der
+            nächsten Seite wiederholt. Reklamant: ein Kreuzzeichen</note>, <pb n="171" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534110"/> das gespraͤch inn
+          die kilchen zum grossen münster glegt und da gehalten den 6, 7. und 8. novembris, dry
+          ganzer tag von morgen biz zabend. Nach vollendter disputation züget und bekandt mencklich
+          jm volk, das jm gnůg beschaͤhen were. Allein die teüffer verharretend noch uff jrem
+            kyb<note type="editorial"> Zank, Streit, Id. III, 106.</note>, dorumb sy für rhat gstelt
+          und mitt ernst ermanet wurdend. Diewyl sy doch jnn offner kilchen vor allem volk gnůgsam
+          berichtet und stark überwunden werend, soͤltend sy gott die eehr geben und jres
+          umbegründten fürnemmens abston. Diewyl man aber an jnen nüth ghaben<note type="editorial">
+            erreichen</note> möcht, wurdend sy jnn gefenknuß verwaret, doch unlang darnach uff
+          besserung hin ledig gelassen mitt betreüwung<note type="editorial"> Androhung, Id. XIV,
+            1586.</note> ernstlicher straff, wo sy wyter trennung und unrůw machtend. Und daruf hat
+          ein ersame oberkeit, namlich ein burgermeister<note type="critical">Folgt gestrichen:
+            und</note>, rhaͤt und burger der statt Zürich, den ganzen handel gehaltner disputation
+          jnn geschrift verfasset und darinnen ouch die teüfferey ernstlichen verbotten, wie das
+          originalia, so noch vorhanden, bezügend des ußgschribens und mandats datum stat uff
+            Andres<note type="editorial"> 30. November</note> anno d[omi]ni 1525.<note type="editorial"> Ein Protokoll der dritten Täuferdisputation ist nicht überliefert.
+            Heinrich Bullinger zitiert in seiner Reformationschronik nur ein auf den 30. November
+            dadiertes Mandat an die Vogtei Grüningen (vgl. QGTS 1, Nr. 139, S. 141f.).</note>
+          Darinnen ouch under anderem gar heiter dise wort gemeldet werden, es ist ouch jnn
+          soͤmlichen gespraͤch gar heiter an tag komen, das die anfaͤnger, rotter, secter und
+          zancker deß widertoufs uß fraͤfnem<note type="editorial"> dreist, Id. I, 1286.</note>,
+          vermaͤßnem, hochfertigen und unverschampten gmuͤt und keinem gůten geist gefuͤrt, hiemitt
+          ein besondere sect und rott wider dz geheiß gottes, uns zů verachtung zytlicher oberkeit
+          und zů pflanzung aller ungehorsame und zerstoͤrung christelicher lieb gaͤgen
+            aͤbenmenschen<note type="editorial"> Mitmensch, vgl. <hl to="http://fwb-online.de/go/ebenmensch.s.0m_1646269536"><Hyperlink>http://fwb-online.de/go/ebenmensch.s.0m_1646269536</Hyperlink></hl>
+            (Frühneuhochdeutsches Wörterbuch).</note>
+          <note type="critical">Folgt gestrichen: an</note> anzefahen und ann sich zůziehen erdacht,
+          das sy je alls obstat vermeinend, besser zesynde dann andere christen und one sünd, wie
+          dann soͤlichs jr wort, wyß und werck, ouch geberden schynbar abzeigend etc.</p>
+        <p>Alls aber nüt desto weniger noch vil hallstarriger teüfferen jn irem kyb verharrende, nit
+          nachliessend mitt jrem ufruͤrigen predigen, verfuͤren und widertouffen unagesaͤhen der
+          grossen gnaden, so jnen vormalen von der oberkeit bewisen, ouch das sy vil verheissen und
+          urfechten gethon, und soͤlichen fraͤfel nantend sy ein bestaͤndigkeit jm glouben.
+          Derhalben alls kein einzige straf nüt hellfen wolt, wurdend etlich widerumb gethürndt,
+          gebůßt und ettlich am laͤben gestraft und umb gmeines fridens und gerechtikeit<note type="critical">In der Vorlage: gerechtiket</note>
+          <pb n="172" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534111"/> willen
+          von der oberkeit der widertouf und teüfferen by libs und laͤbens straffen verbotten nach
+          jnnhalt deß mandates, so<note type="critical">Folgt gestrichen: nach</note> hernach anno
+          1530 durch den truk offentlich ußgangen und noch vorhanden ist.<note type="editorial">
+            QGTS 1, Nr. 312.</note></p>
+        <p>Es wurdend ouch andere stett von den unruͤwigen wider­toüf­fern bemuͤdet<note type="editorial"> belästigt</note>, alls zů <placeName ref="LOC_47.55839_7.57327">Basel</placeName><note type="critical"><q>alls zů Basel</q> am Rand mit
+            Verweiszeichen</note> doctor <persName ref="GND_11709711X">Johan
+            Oecolampadius</persName> mitt jnnen ein gesprech hielt, welches ouch deß selbigen jars
+          zů herbst getrukt ward<note type="editorial"> Ein Gesprech etlicher predicanten zů Basel/
+            gehalten mitt etlichen bekennern des widertouffs, Basel: Valentin Curio, 1525 (VD16 O
+            340).</note>, da sy, die teüffer, so vil unrůwen anrichtetend, dz ein ersame oberkeit
+          nach erforderung der notturft die unruͤwigen<note type="critical">Folgt eine
+            Wortstreichung</note>, ufruͤrigen und ungehorsamen mitt gefencknuß und ernstlicher straf
+            demmen<note type="editorial"> abwehren, Id. XII, 1783.</note> und stillen můßtend<note type="critical">Folgt gestrichen: deßhalber</note>. Und deß 1527. jars wurdend sy
+          abermalen zů Basel inn offner disputatzion von Oecolampadio und andern kilchendienern
+          überwunden und ward dieselbig disputatz inn geschrift verfasset und getrukt.<note type="editorial"> Vnderrichtung von dem Widertauff/ von der Oberkeit/ vnd von dem Eyd/
+            auff Carlins N. widertauffers artickel, Basel: Aandreas Cratander, 1527 (VD16
+            7459).</note> Zů <placeName ref="LOC_49.66306_8.33583">Wurmbs</placeName> am Rhyn liessend die
+          widerteüffer jre leere und schlußreden ußgon<note type="editorial"> Brüderliche
+            vereynigung etzlicher kinder Gottes/ siben Artickel betreffend, [Worms: Peter Schöffer
+            d. J., 1527], VD16 S 1882.</note>, die wurdend durch den truck von den predicanten zů
+            <placeName ref="LOC_48.58361_7.74806">Straßburg</placeName> widerlegt und umkeert.<note type="editorial"> Die Strassburger Theologen widerlegten 1527 nicht die Schleitheimer
+            Artikel, sondern sieben Thesen des Täufers Jakob Kautz: Getrewe Warnung der Prediger des
+            Euangelij zů Straßburg/ vber die Artickel/ so Jacob Kautz Prediger zů Wormbs/ kürtzlich
+            hat lassen außgohn, Strassburg: Johann Knobloch d. Ä., 1527 (VD16 B 8887).</note>
+            Anno<note type="critical">Folgt gestrichen: 153</note> 1529<note type="editorial"> 29.
+            Dezember 1529</note> war abermals zů Basel mitt nün teüffern gespraͤch gehalten und sy
+          ires jrthumbs widerwisen.</p>
+        <p>Anno 1528 jnn der grossen disputation zů <placeName ref="LOC_46.94809_7.44744">Bern</placeName> kamend
+          ouch etliche teüffer dar, doch nitt offentichen zedisputieren, sonder predigten und
+          gůssend ir gift heimlich jnn den winklen uß, hůbend erstlich an hefftig wider die laster
+          zeschryen, glych alls ob daselbst die laster von keinem predicanten gestraft wurdind, also
+          greif die oberkeit deß orts uff sy, ließ jm predigerkloster verwaren biß zů end der
+          disputatzion. Darnach wurdend sy uff den 22. januarij uff dem rhathuß von einem ersamen
+          rhat verhoͤrt, guͤtlich und gnůgsamlich jnn bysyn heimischer und froͤmbder geleerten durch
+          die sy jrer jrthumben klar und kreftig widerwisen, doch irenthalben alls die jren kyb
+          behieltend one frucht.</p>
+        <p>Hernach anno 1531 ward abermals zů <placeName ref="LOC_46.94809_7.44744">Bern</placeName> jnn einer
+          disputation ein fürnemmer teüffer bekeert, die disputation jst durch den truck
+            ußgangen<note type="editorial"> Die Dispuation mit Hans Pfistermeyer wurde von Christoph
+            Froschauer in Zürich gedruckt (VD16 C 2409), ediert in: QGTS 4, S. 1-65.</note> und
+          damitt mencklichem gnůg beschaͤhe, schribend die herren von Bern jm 1532. jar ein offne
+          disputatz uß, die ward zů <placeName ref="LOC_47.28885_7.96329">Zofingen</placeName> gehalten 9 tag
+          lang, die acta wurdend durch geschworene schriber verzeichnet und getrukt.<note type="editorial"> Ebenfalls von Chrisoph Froschauer in Zürich gedruckt (VD16 H 501),
+            ediert in: QGTS 4, S. 67-256.</note> Uß disem allem unnpartheysche laͤser wol koͤndend
+          verston, das zů diser zyt eyn ersame christliche oberkeit einer <pb n="173" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534112"/> loblichen statt
+            <placeName ref="LOC_47.36667_8.55">Zürich</placeName> nüt nüws, gestrengs, gaͤchs, umbesintes, mitt
+          tyrannischem nodtzwang, uß anhetzen der predicanten, one einiche barmherzigkeit, one allen
+          goͤttlichen verstand und geist gaͤgen unverhoͤrten, frommen und unschuldigen lüten, wie
+          sich falschlich klagend, bißhar fürgenommen noch gehandlet hand, noch inn künftigem
+          handlen werdend, sonder noch verachter und mißbruchter langwiriger gedult und
+          vaͤtterlicher langmuͤttigkeit umb gottes eehr, umb der kilchen und gmeinen vatterlands
+          friden und růwen, umb der worheit und frommer einfalter lüten redtung unnd umb jres
+          wolhergebrachten namens reputatzion und lobs willen groͤsslich verursachet und getriben
+          werdend, ein soͤlich ernstlich ynsaͤhen zethůn<note type="editorial"> insehen tun:
+            einschreiten, Id. VII, 562f.</note>.</p>
+        <p>Zum dritten<note type="critical">Marignalie: 3</note> aber, das sy alle prediger und
+          kilchen diener so haͤftig und schmaͤchlich antastend und beschuldigend (Heideg. 2, 3, et
+            4<persName ref="Heidegger, Samuel"/>), alls die nun meer ein zytlang uff der kanzlen,
+          uff den zünften und uff der gassen mit geschrey one ufhoͤren zeklagen, nit allein<note type="critical">Folgt eine Wortstreichung</note> unsere gnedigen herren, sonder
+            ouch<note type="critical">Folgt gestrichen: vor den</note> das<note type="critical"><q>das</q> über der Zeile</note> gmeinen volk<note type="critical">Folgt gestrichen:
+            sy</note> über die teüffer zeverhetzen, also dz ein oberkeit dardurch bewegt worden, zů
+          jnen zegriffen und gfencklich ynzezüchen und jr thůn, laͤben unnd wandel zůerfroschen,
+          darumb sy uß schwachheit und forcht langwiriger gefencknuß ußgetretten, ja sy, die
+          teüffer, werdend uff der kanzlen und uff der gassen und uff den zünften von den
+          predicanten beschuldiget (Maler 25<persName ref="Maler, Batlthasar"/>, Heid. 5, 6, 7, 8)
+          mitt ufrůr, mit münsterischem grüwel und purenkrieg<note type="critical"><q>und purenkrieg</q>
+            am Rand</note> als rych, künig, schwert, vilheit der wybern, ja dz noch meer syge,
+          doͤrffind die predicanten fraͤfenlichen doch one worheit sagen, wenn ein oberkeit nit
+          darzů thuͤge, so koͤmme es darzů, dz sy<note type="critical">Gestrichen: wir</note> zun
+          waffen gryffind und ein oberkeit sampt den predicanten uß der statt schlahind und das noch
+          die teüffer sy beherschind, glych alls da die gschriftgleerten und phariseer sprachend,
+          lassend wir jnn also fürbraͤchen, so gloubt dz volk alles an jnn und so kommend dann die
+          roͤmer und nemmend uns land und lüth.<note type="editorial"> Joh 11,48</note> Da aber dz
+          feer von jnen, den teüffern (Mal. 19<persName ref="Maler, Batlthasar"/>; Heid. 9<persName ref="Heidegger, Samuel"/>), sy verhoffind ouch vor jrem gott undschuldig erfunden
+          zewerden, dann rechte ware christen wüssind wol, das dz rych Christi nit von diser waͤlt
+          syge und nitt mitt ysen und gschütz zegwünnen wie Christus vor Pilato underscheiden, Joan
+          18. Der syge ouch fridsam gsyn und ein fürst deß fridens, wie koͤntind dann syne diener
+          stryten? Der christen waffen <pb n="174" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534113"/> syend nit
+          fleischlich sonder geistlich, wie die Paulus beschribe 2. Cor. 10. Dorumb sygind jren (der
+          teüfferen) waffen nit, damit man stett, land und lüth behersche, sonder syend, waffen,
+          damitt man dz geistlich rych deß tüfels zerstoͤre, dz gottloß waͤsen, dz die harten
+          steininen herzen der menschen zerknütsche und anders vil meer geschwaͤtzes.</p>
+        <p>Hieruf wir kurtz disen bescheid gaͤbend:</p>
+        <p>1. Erstlich, ob die predicanten nitt schuldig syen, der teüffern und andrer secten
+          jrtzhumb und verfuͤrung zebegaͤgnen und zeweeren. 2. Demnach wie, welicher gestalt und wie
+          feer sy weereen soͤllend, ja ouch mitt hylf einer christlichen oberkeit, ouch wz wir, die
+          predicanten, bißhar ann der kanzeln und darnebend wider die teüffer ghandlet. 3. Und dann
+          für dz dritt, worumb mitt soͤlichem ernst von predicanten und oberkeiten diser sect soͤlle
+          geweert und widerstanden werden. Dan wo dz nitt mitt allem ernst beschaeͤhe, wz übels
+          daruß erwachsen moͤge und vormal erwachsen syge.</p>
+        <p rend="margin-top">[1.]</p>
+        <p>Erstlich das wir disen unruͤwigen lüten und irer verfuͤrischen trennung, sect, rottung
+          und jrthumb mitt allem ernst zebegaͤgnen vor gott und den menschen schuldig sygind und so
+          wir daran sümig und hinlaͤssig werind, wir gott und die kilchen schwerre rechenschaft
+          geben muͤßtind. Das bezüget gnůgsam unser ampt, darzů wir ordelich von gott durch die
+          christlich oberkeit und kilchen beruͤft und geordnet sind. Wie wir disen unsern bevelch
+          und ampt, namlich der falschen leerern, verfuͤreren zewiderston schuldig, dz woͤllend wir
+          kurtz mitt ettlichen (dann alle zemelden nit von noͤdten, wurde ouch vil zelang werden)
+          zügnussen und exemplen alts und neüws testaments bewisen. Jerem. 1 B: Nim waar, ich leg
+          myn wort inn dynen mund und uff den hüttigen tag setz ich dich über die voͤlker und
+          künigrych, dz du ußrütest und abbraͤchest, verderbest und zerschleizest und dz du ufbuwest
+          und pflanzest etc.<note type="editorial"> Jer 1,10</note></p>
+        <p>Da aber von den propheten und diener deß gottlichen wortes nitt nun die groben vichischen
+          laster, sonder ouch glychsnerey, aberglouben, falscher gotzdienst, jrthumb im glouben,
+          secten und verfuͤrung verstanden wirt, Deut. 13, 18, 22, jtem Ezech. 3 und 33<note type="critical">Marginalie: Ich han dich dem huß Israël zů einem waͤchter gestelt
+            etc.</note>, so der prophet den gottlosen und sündenden nitt warnet und straft und der
+          gottloß und sünder stirbt inn synen sünden, so will gott syn (deß sünders) blůt von deß
+          propheten henden erforderen. Durch den sünder aber und gottlosen wirt nitt nun verstanden,
+          der mitt vichischen groben lasteren wider die ander tafel<note type="editorial"> Die
+            zweite Tafel der Zehn Gebote mit den ethischen Geboten 5 bis 10.</note> der gebotten
+          gottes sündigent, sonder ouch vil meer der mitt abgoͤtterey, aberglouben<note type="critical">Wort (aberlouben) auf der nächsten Seite wiederholt</note>, <pb n="175" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534114"/> gotzlesterung,
+          verfuͤrung, falscher leer, sich wider die erste tafel<note type="editorial"> Die erste
+            Tafel der Zehn Gebote mit den theologischen Geboten 1 bis 4.</note> setzt und darwider
+          handlet, Deut. 13, 18, 22 ut supra etc.</p>
+        <p>Math. 7 B: Saͤchend üch für vor den falschen propheten, die zů üch kommend jnn den
+          schafskleidern, jnnwendig aber sind sy ryssende woͤlff etc.<note type="editorial"> Mt
+            7,15</note></p>
+        <p>Joan. 10 a: Ein gůter hirt setzt syn laͤben für die schaf; ein gedengter aber, der nitt
+          ein hirt ist, deß die schaf nit eigen sind, sicht den wolf kommen und verlaßt die schaf
+          unnd flücht und der wolf erwütsts und zerstreüwet die schaf; der gedingt aber flücht, dann
+          er ist ein gedingter und achtet der schaffen nüts etc.<note type="editorial"> Joh
+            10,11-13</note> Diewil nun wir ordeliche hirten der schaffen Christi [sind], worumb
+          soltend wir dann zů üwer (der widerteüffer) sectischen trennung und verfuͤrung an der
+          kanzel und darnebend schwygen und legorhen<note type="editorial"> die Ohren legen, Id. I,
+            415.</note>?</p>
+        <p>Act. 20: So hand nun acht uff üch selbß und uff die ganze herd, under welche üch der
+          heilig geist zů bischoffen gesetzt hat, zeweiden die gmeind gottes, welche er durch syn
+          eigen blůt überkommen hat; dann dz weiß ich, das nach mynem abscheid werdend under üch
+          kommen schwaͤre woͤlf, die der herd nit verschonen werdend; auch uß üch selbs werdend
+          menner enston, die verkeerte leer redend, die jünger nach jnen ziehend, dorumb sind wacker
+          etc. Diewyl uns dann inn unsern kilchen, so uns von gott und christlicher oberkeit
+          bevolchen eben das von üch sectischen teüffern widerfart, das der heilig apostel so
+          bedütlichen vorgseit und zů wachen und zeweeren vermanet, werind wir thrüwlose hirten und
+          schlaffende hund, wo wir üch schonen und durch die finger saͤhen wurdind.<note type="critical">Folgt gestrichen: 1. Timoth.</note></p>
+        <p>Tit. 1 B<note type="critical">korrigiert, ursprünglich: 1. Timoth.</note>: <persName ref="GND_118641549">Paulus</persName><bm id="168"/> will, dz ein bischof ouch seye
+          mechtig zů ermanen mitt gsunder leer und zů widerfaͤchten die widerreder. Dann spricht er,
+          es sind vil ungehorsamer und unnütz schwaͤtzer und gemuͤt, verfuͤrer, allermeist die uß
+          der beschnidung sind<note type="critical"><q>allermeist die uß der beschnidung sind</q> am Rand
+            mit Verweiszeichen</note>, denen man dz mul verstopffen můß, die da ganze gesind
+          verkerend und leerend, das nüth nützt umb deß schantlichen gewüns willen etc.<note type="editorial"> Tit 1,10f.</note></p>
+        <p>Sechend jr hie, jr teüffer, dz umb üwers glychen widerrederen<note type="critical">Folgt
+            gestrichen: willen</note>, ungehorsamen und unnützen schwaͤzern<note type="critical">Folgt gestrichen: willen</note> und gmuͤt verfuͤreren willen, die ir gantze hußgsind
+          verkeerend und leerend, dz nüth nützit, umb üwers schantlichen gwüns willen, wie die
+          falschen apostel uß<note type="critical">Folgt gestrichen: willen</note> der beschnydung,
+          allso jr uß dem widertouf üch weidend umb üwer und üwers gylchen willen, sol ein bischof
+          maͤchtig syn, mitt gsunder leer zů ermanen und zů widerfaͤchten an der kanzel, und
+          darnebend <pb n="176" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534115"/>
+          exempel hand, wie ouch jnn beiden testamenten, wie sich die propheten, apostel und der
+          Christus selbst gaͤgen den falschen leereren und<note type="critical">Folgt gestrichen:
+            fü</note> verfuͤreren gehalten. Wir aber wellend umb kürze willen allein deß neüwen
+          testaments etliche melden:</p>
+        <p>Math. 3 a <persName ref="GND_118557858">beschryet Joannes</persName> die phariseer und
+            saduceer<note type="critical">Folgt gestrichen: w</note>, jr natergeschlecht etc.<note type="editorial"> Mt 3,7</note> Christus Math. 7: Sehend üch für vor den falschen
+          propheten, die zů üch kommend jnn schafskleidern, jnnwendig aber sind sy ryssende
+            woͤlff.<note type="editorial"> Mt 7,15</note> Math. 16: Ir glyßner, deß himels gestalt
+          konnend jr urtheilen etc.<note type="editorial"> Mt 16,3</note> Und glych darnach: Sehend
+          zů und huͤtend üch vor dem hebel der phariseern und sadduceern etc.<note type="editorial">
+            Mt 16,6</note> Math, 21 B treib er alle verkeüffer und keüffer im tempel heruß etc. Und
+          darnach im selben capitel straft er sy mitt der glychnuß deß wyngartens inmassen, das sy
+          wol verstůndend, das er von jnen redt, dorumb sy ouch darnach trachtetend, wie sy jnn
+          fiengind. Insonders aber straft er mitt grossem ernst und freyheit die phariseesch
+          glyßnerey, falsch und verfuͤrung, Math. 23 (und 15)<note type="critical"><q>und 15</q> am Rand
+            mit Verweiszeichen</note> schryet er zum dickernmal<note type="editorial"> wiederholten
+            Mal</note> wæ über sy und ire falsche leer. Item Luc. 11, Joan. 5, 8 und in geschichten
+          der aposteln cap. 7: <persName ref="Stephanus">Stephanus</persName> und <persName ref="GND_118641549">Paulus</persName>
+          <persName ref="GND_118529811">wider Elimam</persName> und die falschen apostel<note type="critical"><q>und die falschen apostel</q> am Rand, in der Zeile gestrichen: und
+            die</note>, juden allenthalben, ouch inn synen epistlen allenthalben, jnsonders zun
+          philippern cap. 3 a: Saͤhend uff die hund, saͤhend uff die boͤsen arbeiter, saͤhend uff
+          die zerschnydung etc.<note type="editorial"> Phil 3,2</note> Bsich Zwinglium<note type="critical">Folgt gestrichen: <persName ref="GND_118637533">wer</persName></note>
+          vom predigamt in praefatione.<note type="editorial"> Z IV, 284f.</note> In summa, es ist
+          die geschrift voll exempel und zügnuß, das rechte ordeliche diener deß worts vor allen
+          dingen soͤllend warnen und vergoumen<note type="editorial"> sich vor etwas hüten, Id. II,
+            303.</note>, dz falsche leerer keinen schaden thuͤgind inn der gmeind gottes.</p>
+        <p>Es soͤllend aber nitt nun<note type="editorial"> nur</note> die bischof, seelsorger und
+          hirten wider die jrthumb, verfuͤrung, trennung, verfelschung der leer widerfechten, mitt
+          wachen, schryen, predigen, disputieren und schriben, sonder ouch die ordelichen und
+            christlichen<note type="critical"><q>und christlichen</q> am Rand mit Verweiszeichen</note>
+          oberkeiten. Deut. 13, 18, 17, 21, Zach. 13 (dann da unordelich und one oberkeits bevelch
+          private personen iemand<note type="critical"><q>iemand</q> über der Zeile</note> umbzebringen
+          nitt erloubt ist). <persName ref="GND_118639978">Josias</persName> metzget die pfaffen der
+          hoͤhinen uff jren goͤtzen altaren, 4. Reg. 23 E. Christus alls ein künig schwingt die
+          keüffer und verkeüffer mitt geißlen uß dem tempel. <persName ref="Konstantin">Constantini</persName>, <persName ref="Theodosius II.">Theodosij</persName>, <persName ref="Valentinianus">Valentininani</persName> capitalische decreta wider die verfuͤrer
+          sinnd noch vorhanden.<note type="editorial"> Kaiserliche Erlasse, gemeint sind vermutlich
+            die christlichen Kaiser Konstantin, Theodosius II. und Valentinian III.</note>
+          <pb n="177" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534116"/>
+          <p rend="margin-top">2. Welicher gsalt und maaß und wie wyt die hirten waeren
+              soͤllend<note type="critical">In der Vorlage als Marginalie</note></p>
+          <p>Es soͤllend die teüffer und andere sectische verfuͤrer von den dienern der kilchen und
+            hirten mitt dem schwert deß gottlichen worts bestritten und widerfochten werden, 2. Tim.
+            3, Tit. [3] c. Diewiyl aber solicher lüten<note type="critical">Folgt gestrichen:
+              kyb</note> hartneckiger kyb und verharrliche boßheit dem wort gottes nitt stat gipt,
+            sonder frafenlich widerfichtet und besteret, sol demselbigen billich von der oberkeit
+            mitt gebürlicher autoritet<note type="critical">Verweiszeichen am Rand zum Abschnitt <q>Es
+              soͤllend aber nitt nun die bischof …</q> auf Seite 176.</note>, züchtigung und straf
+            begaͤgnet werden und je nach dem das boͤß und verharrlicher fraͤfel und verachtung der
+            warnung, widerwysung, züchtigung und betrewung zů verkleinerung deß namen und eeren
+            gottes, zů nachteil waarer religion, verkleinerung der oberkeit ansͤchens, betruͤbung
+            gmeines frides, verergerung<note type="critical">Folgt gestrichen: deß g.</note> und
+            verwirrung deß gmeinen mans zůnemyt, sol und mag<note type="critical"><q>und mag</q> am Rand
+              mit Verweiszeichen</note> billich ouch die straf gescherpft werden. Dann so von
+              waͤgen<note type="critical">Folgt gestrichen: deß</note> der milteren straf, so gott
+            dem diebstal jm alten testament uferlegt hat, das laster dermassen überhand gnommen, das
+            man soͤliches by lib und laͤbens straf muͤssen werren und straffen, worumb soͤle nitt
+            ouch diebstal der eehren gottes, moͤrderey der seelen und betruͤbung christeliches
+            fridens und einigkeit je nach gstaltsame der mißhandlung gestraft werden<note type="critical">In der Vorlage: werde</note>? Dises aber schrybend wir nit ein
+            oberkeit wider arme verwirte und irrende lüth zuverhetzen, sonder allein wider
+            hallstarrige verfuͤrung, sy jres ordelichen und gebürlichen gwalts nit zeberouben und
+            jren das schwert, das iren von gott bevolchen, nitt uß den henden zewinden.<note type="critical">Folgt gestrichen: Das aber sy, die widerteüffer, sich heftig ab den
+              predicanten erklagend, wie sy inen alls armen frommen unschuldigen lüten
+              ufsetzig</note></p>
+          <p rend="margin-top">3.</p>
+          <p>Worumb aber mitt allem ernst der gestalt soͤlle dem widertouf und andern verfuͤrischen
+            secten widerstand beschaͤhen, nitt allein von den kilchen dieneren, sonder ouch von der
+            christliche oberkeit, woͤllend wir kurtzen bericht gaͤben. Es befindend die widerteüffer
+            von waͤgen jres usserlichen schyns der fromkeit und<note type="critical">Folgt
+              gestrichen: heiligen</note> eerbaren wandels by einfalten, frommen und wolmeinenden
+            lüten vil bestands und mittlydens, damitt dann iren schaͤdlichen und lesterischen
+            jrthumben desto langmuͤtiger übersaͤchen und verschonet worden, <pb n="178" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534119"/> kompt alles uß
+            dem verkeerten verstand und urteil der waͤlt, das dero der eigennutz vil hoͤher
+            anglaͤgen dann der seelen heil und eer gottes. Soͤlte einer einem anderen zehen oder
+            zwenzig guldyn staͤlen, er wurde ann erren, lib und laͤben gstraft. So er aber den namen
+            gottes mitt lychtfertigem schweeren lesteret, wirt es an inne leider wenig geachtet,
+            geschwigen das soͤliches an ime nach gottes satzung gestraft werde, alles umb
+            vorgemaͤlter ursach willen. Also wirt ouch der gfaren und schadens der seelen selikeit
+            und der eehren gottes, so uß falscher leer und verfuͤrung der teüffer erfolget<note type="critical"><q>erfolget</q> am Rand mit Verweiszeichen</note>, wenig geachtet, diewyl
+            sy darnebend erbars wandels, nitt staͤlend noch roubend, nitt mürdend noch brennend. Da
+            aber fürwar jre verfuͤrung, trennung und lesterung vil groͤsser und schaͤdlicher ist,
+            weder mans achtet. Unser aller ertzhirt, heiland und saͤligmacher Jesus Christus sampt
+            synen lieben apostlen<note type="critical"><q>sampt synen lieben apostlen</q> am Rand mit
+              Verweiszeichen</note> urteilet und bezüget vil anderst von soͤlichem verfuͤrern
+              weder<note type="critical">Folgt gestrichen: aber</note> der gmein man by unsern
+              zyten<note type="critical">Folgt gestrichen: wie ouch syne liebe apostel, er
+              nennet</note>. Sy nennends<note type="critical"><q>sy nennends</q> am Rand, in der Zeile
+              gestrichen: sy</note> glychsner<note type="critical">Folgt gestrichen: deren
+              t[…]</note>, blinde fuͤrer der blinden, gewyßgete greber, gewysgete wand, zerschnyder
+            und zertrenner, natergschlaͤcht<note type="critical"><q>natergschlaͤcht</q> über der Zeile,
+              in der Zeile gestrichen: schwerre ey</note>, hund, schwerre rysende woͤlf, dieben und
+            moͤrder, deren end und straf werde syn hülen und zanklaffen, deren wurm nitt sterbe unnd
+            ir füwr nit loͤschen werde. Ich geschwigen hie der ernstlichen straf, die gott jnn synem
+            gsatz verkündet und gebütet über die falschen leerer Deut. 12, 18, etc.</p>
+          <p>Uß welichem allem ein jeder rechtgleübiger wol verston kan, das nitt allein den
+            kilchendienern, sonder ouch allen christlichen oberkeit gar nit verwyßlich<note type="editorial"> schimpflich, Id. XVI, 2010.</note> ist, wie aber die widerteüffer
+            sich hochlich erklagend, so inen und ires glychen falschen leerern und verfuͤrern mitt
+            allem ernst widerstanden und die verharrenden jnn irem fraͤfel unnd schaͤdlichen
+            vorhaben nach der gebür gestraft und gedembt<note type="editorial"> abwehren, Id. XII,
+              1783.</note> werden. Dann diewyl umb ires usserlichen, unergeblichen, zügsamen und
+            erbaren wandels willen ein zyt har jnen vil übersaͤchen und verschonet worden, sind sy
+            jnn soͤliche<note type="critical">Folgt gestrichen: ve</note> unverschampte fraͤfne
+            vermessenheit gerathen, dz sy iezund nit meer inn jren geheimen winklen sich
+              enthalten<note type="editorial"> sich aufhalten, Id. II, 1230.</note>, sonder one alle
+            scham und forcht offentlichen jre boͤse schaͤdliche vorhaben mitt gestelten geschriften
+            vor einem ersamen wysen rhat, vor jren eerlichen zunftmeistern und ganzen zünftten
+              understanden<note type="critical"><q>understanden</q> unter der Zeile, in der Zeile
+              gestrichen: doͤrffen</note> zeschirmen und zeverthaͤdigen, <pb n="179" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534118"/> auch jnn
+            denselbigen iren schriben uns, die predicanten und kilchendiener, alls die sy
+            grymicklichen hassend, diewyl wir<note type="critical"><q>wir</q> über der Zeile, in der
+              Zeile gestrichen: sy</note> inen am meersten jm waͤg stond und irem fürnemmen
+            widerstraͤbend, derhalben sy unns bitterlichen und schmaͤchlichen anzüchend, anklagend,
+            den falschen propheten, Baals pfaffen, phariseern, jüdischen priestern und <persName ref="GND_129446424">Caiaphæ</persName> selbst zůzellend und verglychend, den
+            christlichen gemeinen kilchgang, gemein gebaͤtt, predig gottliches worts, gmeinschaft
+            der h[eiligen] sacramenten<note type="critical">Folgt gestrichen: offentliche</note>,
+            den eid, damitt das band der ghorsame bestaͤthet wirt, one verholen verwerffend und
+            verdammend.</p>
+          <p>Was koͤndet nun von soͤlchen vermaͤßnen lüten frafners beschaͤhen? Was wurdend sy erst
+            underston doͤrffen, wenn sy den byfal deß gemeinen poͤpels erkriegtind<note type="critical">Folgt gestrichen: dorumb allen frommen, gůtherzigen christen wol
+              ze</note>? Sy woͤllend wol jnn jren yngelegten schriften nitt geachtet syn, alls die
+            ein ordeliche oberkeit verwerffind oder deren nitt gehorsamen woͤllind, sonder<note type="critical">Folgt gestrichen: bezüchend sich hochlich</note> mitt hochem<note type="critical">Folgt gestrichen: empietten</note> bezügen empietend sy sich aller
+            underthaͤnigkeit, doch allwaͤg mitt dem anhang ja inn allem dem, dz nitt wider gott<note type="critical">Folgt gestrichen: sye</note> und jre gewüßne sye und wz sy inn jrem
+            einfalten verstand<note type="critical">Folgt gestrichen: moͤgind</note> begryffen
+            moͤgind und dz sy nit von christlichem laͤben abfuͤre<note type="critical"><q>und dz sy
+              nit von christlichem laͤben abfuͤre</q> am Rand</note>. Damitt sy gnůgsam bezügend, das
+            sy nitt alle satzunge, ordnungen und gebott unserer und jrer oberkeit für christelich,
+            goͤttlich und dem wort gottes gemaͤß haltend und erachtend. Das sy aber jres gewüssen so
+            hoch anzüchend, verhaltend<note type="editorial"> verbergen, Id. II, 1233.</note> sy
+            hiemitt ir grosse glychsnerey</p>
+          <p>Den eidschwůr, so nach bevelch und vermoͤg gottliches wortes allein bym einigen namen
+            gottes zů anruͤffung synes heiligen namens, zů bekantnuß des waren gloubens, zů
+            erhaltung der worheit, gerechtikeit, gerichts, fridens, einikeit, gehorsame und
+            abschaffung aller zwytracht, mißvertruwens und unghorsame gebrucht wirt, den
+            christelichen kilchgang, gmeinsame des gebaͤts, tanksagung, wort gottes und der
+            sacramenten besůchen, ist wider dero lüten gwüßne, koͤnnends jnn jrem einfalten verstand
+            nitt begryffen. Aber one allen ordelichen berůff sich jnn das predigampt yntringen, hin
+            und wider by naͤchtlicher wyl jnn die winkel und einoͤdinen schlüffen, ganze
+              hußhaltungen<note type="critical">Folgt gestrichen: zert</note> und eehen zertrennen,
+            den elteren jre kind, den herren jre dienst, dem eeman syn eewyb, der oberkeit jre
+            underthonen, den ordelichen pfarrern jre kilchen und gmeinden unruͤwig, abtrünnig und
+            ungehorsam machen und under dem schyn jren ordelichen <pb n="180" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534121"/> berůff verlassen,
+            uß anderlüten bluͤtigem schweiß mitt irem geschwaͤtz den buch weiden und darby
+            grewliche, schaͤdliche und gotzlesterische irthumb, falsche leeren und katzereyen
+              ynfuͤren<note type="critical"><q>darby grewliche … ynfuͤren</q> am Rand mit
+              Verweiszeichen.</note>, das alles ist jnn jres einfalten verstands begriff nitt wider
+            das wort gottes, beschwert inen jre gewüssen gar nüth. Da ist jr gewüssen so wyt, das
+            man mitt einem fůder<note type="editorial"> Wagenladung, Id. I, 683.</note> heüw
+            hindruch faren moͤchte. Sy verglichend sich hie jnn jrer glychsnerey wol mitt den
+            gylchßnenden juden, die nitt jnn dz <persName ref="GND_118792172">richthuß
+              Pilati</persName> hynyn woltend, damit sy sich nit beflecktind. Aber das jüdisch volk
+            wider das unschuldig blůt Christi verhetzen, den son gottes lesteren und schmaͤhen und
+            den heiden übergeben, wz by jnen kein befleckung. Es ist warlich ein rechte glychsnerey,
+            einen mucken ußfeimen<note type="editorial"> aussieben</note> und helfandten oder camel
+              verschlucken.<note type="editorial"> Mt 23,24</note></p>
+          <p rend="margin-top">Wiewol vil schaͤdliche und verderlbliche ding den menschen lyb und
+            seel begaͤgnen moͤgend, so ist doch nüth schaͤdlicher dann falsche leer, jrthumb und
+            verfuͤrung, dann andere schaͤdliche ding moͤgend lichtlicher erkendt und<note type="critical">Folgt gestrichen: verl</note> fürkommen<note type="editorial">
+              abwenden, vorbeugen, Id. III, 278.</note> werden. Aber falsche leehrer, so neüwe
+            verfuͤrung uff die pan bringend, betriegend ouch oft fromme und einfalte leüth mitt
+            einem zierlichen schyn der worheit, des andachts und des yfers, der religion, heilikeit
+            und usserlicher fromkeit, alls jnn spiß und trank, bekleidung, worten und geberden, also
+            das menklicher bynach es darfür haltet, es koͤnnend soͤliches nit boͤse lüth syn, sy
+            syen doch frommer und yferiger dan ander lüth und darnebend bruchend sy die heilig
+            geschrift und setzend allenthalben hinzů grosse huffen allegationen<note type="editorial"> Verweise</note> und anzüg der schrift<note type="critical">Folgt
+              gestrichen: bey</note>, die sy uß den concordanzen und registern der bibly zůsamen
+            rasplend one allen verstand, allso das sy ouch etwan die mengel oder versetzung der
+            zalen (so<note type="critical">Folgt gestrichen: inen (Lesung unsicher)</note> jnn
+              den<note type="critical">Folgt gestrichen: tr</note> getrukten exemplaren leichtlich
+            etwa verschüssend<note type="editorial"> (beim Bleisatz) aus Versehen falsch
+              zusammenstellen</note>) flyssig jnn jre quodlibet ynflikend, verdammend mitt hochen
+            tüwren worten nebend jnenn alls andere menschen und ist jnen niemand ernsthaft,
+            sauersichtig, heilig und from genůg und mitthin zů jnn dem sy sich mitt fünfzen hoch
+            bezügend, <pb n="181" facs="https://www.e-manuscripta.ch/i3f/v20/5534090/canvas/5534122"/> wie sie anders nit herzlichers begaͤrend und sůchind dann der menschen heil und
+            selikeit, richtend sy anders nüth ann dan ufsatz und strick zum verderben der armen
+            seelen. Dorumb nitt one grosse ursach der heilig geist allenthalben jnn der heiligen
+            geschrift altes und neüwes testaments alle menschen vor den falschen leerern und
+            verfuͤrern warnet Deut. 13 et 17 et 21, Zach. 12, Math. 7 et 14, 15, 23, et 24, Act 20
+            etc.</p>
+          <p>Diß ist die verderbte ard und natur der menschen, das sy uß anerborner fürwitz alle zyt
+            gern etwas nuws<note type="critical">Folgt gestrichen: hoͤrt jr</note> hoͤrend unnd
+            annemmend, alls unsere erste voreltern jm paradyß der schlangen geloset<note type="editorial"> zuhören</note>
+            <note type="critical">Folgt gestrichen: dem j</note>, das jsraelitisch volk, alls jme
+            die forma des freyen regiments, so jnen von gott geben, erleidiget, woltend sy einen
+            künig haben. Glicher gestalt so ein frömbder tyrann gleich wol fyentlicher wyse das
+            geliebte vatterland anfichtet alls turk, spanier etc., so werden alle zyt leüt funden,
+            die hindangesetz natürliche neigung zum vatterlandt und desse wolhargebrachte religion,
+            satzungen, brüch, freyheit und regiment umb begird willen der neüwerung sich an den
+            fyend henkend, dem zůfallend, ja besser hertz und anmůth erzeigend alls den jren. Also
+            ouch, ob glych wol inn einer statt oder gmeind wolerfarne, beruͤmpte und bekante arzet,
+            jedoch wo ein froͤmbder landsfarer, tyriackskraͤmer<note type="editorial"> Händler, der
+              Theriak (ein Allheilmittel) vertreibt.</note>, leütbeschysser und unverschampter
+            schryer dohar kompt, louft jme alle waͤlt zů, vertrauwt jm leib und laͤben, tregt jme
+            gold und gelt zů beym hauffen. Dise unsinnige leichtfertikeit erzeigend ouch vil
+            menschen jnn der religion und gloubens sachen, die obglichwol […]<note type="critical">Der Text bricht an dieser Stelle ab.</note></p>
+        </p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p> Dieser Text findet sich neben anderen Notizen des Zürcher Antistes. Seine Entwürfe
+          <q>Wider die widerteüffer ex Zuinglio</q>, <q>Iterum excerpta hereseon in veteri ecclesia</q> und
+          <q>Wider die teüffer</q> (ZBZ, Ms A 67, S. 157-184) sind in der vorliegenden Edition nicht
+          berücksichtigt. Auch die im Staatsarchiv Zürich unter E II 443 (S. 201-205) verwahrten
+          antitäuferischen Texte Stumpfs sind nicht in diese Edition aufgenommen, weil sie keine
+          konkreten Bezüge zu den Ereignissen im Jahr 1588 haben. Wie Nr. 383 zeigt, plante Stumpf
+          eine allgemeine Widerlegung der täuferischen Lehre. Unter Täufern verstand er nicht nur
+          Personen, welche die Bekenntnistaufe empfangen hatten, sondern auch solche, die sich wegen
+          einer anderen nonkonformistischen Lehre von der reformierten Kirche absonderten.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_286</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695118">StAZH E I 7.2, Nr. 122</idno>
+          </msIdentifier>
+          <head>Matthias Schmid an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1572-06-23"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1572-06-23"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 172</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__122__S__1_.tif"/>
+<p>Edel, sträng<note type="editorial"> In der Vorlage: strän</note>, frum vest, fürsychdig, ersam, wyß, jnsunders günstig, gnedig jr min heren, myn underthenig, gehorsam, gantz gneigt und gůtwylliger dienst sig üwer er[samen] wyßheit mit aller underthenykeit alzit anbereyt. Insonders günstig, gnedig jr min heren, fuͤg üwer er. wyßheit hiemit zů vernamen, daß Hanns Kůn uß dem Pflasterbach und syn frouw, die er jm holtz gnam und nit mit jren kylchen gangen nach krystenlicher ordnung und nach unßerem bruch und der döyffery nachgangen, solang ich üwer (miner gnedigen heren<note type="critical"><q>heren</q> am Rand mit Verweiszeichen</note>) dyener und dußen gsyn byn, wellyche zwey mäntschen gar eyn großen unwyllen der döyffery jn miner verwaldung und anderschwo gmacht, dardurch ich durch die predycanten und ander personen fyl anlouffens<note type="editorial"> mit Bitten bestürmen, Id. III, 1132.</note> kan<note type="editorial"> gehabt</note>, dardurch ich myn gspäch<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> kan und zu dem dykeren mal<note type="editorial"> wiederholten Mal, Id. IV, 148.</note> lüth nach jnnen gschykt, aber mir me mögen werten unz<note type="editorial"> bis</note> jetz, deßhalber ichs üch, minen gnedigen heren, gfangklych zůschyken uß bevelch üwer miner gnedigen heren. Datum den 23. tag brachmonenend dys 72. jars.</p>
+<p rend="margin-top">U[wer] w[illiger] dyener</p>
+<p>Mathyß Schmid, vogt uff <placeName ref="LOC_47.47812_8.42878">Ragensperg</placeName></p>
+<pb n="2" facs="E_I_7_2__Nr__122__S__2_.tif"/>
+<p rend="margin-top">Den edlen, strangen, frumen, erenvesten, fursychdigen, ersamen und wyßen heren burgermeyster und rath der stat <placeName ref="LOC_47.36667_8.55">Zürych</placeName>, mynen günstigen, gnedigen, lyeben heren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

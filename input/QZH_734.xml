@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_734</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>ZBZ, Ms A 72, S. 538 (Kopie von Johann Jakob Wagner)</idno>
+          </msIdentifier>
+          <head>Johann Jakob Wagner an [Jakob Zur Eich]</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1604-05-22"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1604-05-22"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 620</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Uff<note type="critical">Marginalie: Den 22. maij</note> minen nechst gethonen bericht, antreffend die töufferische versamlung, so etlich mal durch frömbde niderlendische<note type="editorial"> aus einem tiefer gelegenen Land stammend, vgl. Id. III, 1303.</note> uffwigler uff <placeName ref="LOC_47.350994_8.877896">Dunckelwyß</placeName> by <persName ref="Spöri, Peter">Peter Sprörin</persName> gehalten worden, hab ich ewer antwort und bescheid schrifftlich verstanden und noch derselbigen nacht (ob glich der knecht spat heimkommen) gegen <persName ref="Hess, Heinrich">Heinrich Hessen</persName>, den weibel zů <placeName ref="LOC_47.3377_8.87216">Bärentschwyl</placeName>, eweren befelch ußgericht, aber in wol truncken im beth mit schlechtem bscheid, mich abwisend, gefunden. Und wil den dißfals durch ine nützit verricht (wie er sich deßen zůvor erclärt) und die frömbden sampt Peter Spörin und die sinigen grad morndes sontags ußgreysen und hinweg gezogen (anderst mir nit in wüssen), ouch ewer an mich gethon schriben vermag<note type="editorial"> besagen, Id. IV, 111.</note>, sölle euch verstendigen, wie sich der weibel verhalten, hab ich nit ermanglen wöllen, in kürze zemelden, das sauber nützit ußgericht, wie es dan in anderen sachen mer gadt und (leider) durch hinlessige vill versumpt wirt. Gott sige es klagt, der wölle gnad geben, das es besser und nit bößer werde. Euch hiemit gotts gnad thůn befelhen, den 22. maij [1604].</p>
+</div>
+    </body>
+  </text>
+</TEI>

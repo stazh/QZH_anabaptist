@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_128</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=685180">StAZH E I 7.2, Nr. 86</idno>
+          </msIdentifier>
+          <head>Steffan Zeller an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1535-11-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1535-11-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 14</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__86__S__1_.tif"/>
+<p>Fromen, strengen, vesten, fürsichtigen, wyßen, jnsonders günstigen, genedigen, lieben heren und obren, min ghorsam, schuldig, willig dienst, und was ich eeren und gůts vermag, syen üwer wyßheit zůvoran. Als dan uwer wyßheit mir bevolchen, all die, so die toiffer bhusen und bherbergen, er sig vatter, můtter, kind ald<note type="editorial"> oder</note> ander personen, gfängklich anemen und üch<note type="critical"><q>üch</q> am Rand</note> überanttwurten solte. Das nu bißhar us ettlicher ursach nitt beschähen. Und aber wie jm allem ist uff hüwt zů mir khomen <persName ref="Lupfer, Ůli">Ůli Lůpffer</persName>, zeiger<note type="editorial"> Bote, Überbringer und Vorzeiger eines Briefs, Id. XVII, 393.</note> diß brieffs, und sin dochter und fürgehalten, daß er sinen son, deßglichen tdochter jr elichen man, genantt <persName ref="Schmid, Bathasar">Balthasser Schmid</persName>, ettwan bhuset, dann sy fürkhomen<note type="editorial"> kund werden, Id. III, 279.</note>, das ich sy gfängklich angriffen und gen <placeName ref="LOC_47.36667_8.55">Zürich</placeName> schicken sölte. Deßhalb mich gbetten, ich söle ynen zůlassen, sy wellen selbs für üch, min g[nedig] heren, keren, nu angesehen sin alter und den<note type="critical"><q>den</q> über der Zeile</note> an trüwen eidstatt zůgseit, er welle sich nitt widren, sonder gern yhen gan, dan sy nitt vermeinten, so schwarlieh wider das mandatt ghandlett haben. Des ich ynen gantz wol vertruw. Deßwegen pitt ich üch als min gnedig heren, wellen mir diß nitt zom argenn ermessen, das ich sy nitt gfängklich yhen schick, dan sy der hoffnung nufürhin thůn wellen als die ghorsamen. Dan wo sy dess bricht (wie yetz), das sölch bhüsen wider üwer wyßheit und das mandatt gsin, welten sy darwider nit ghandlott und than haben. Wither sind noch ettlich wie die, so vor und ee das mandatt ynen<note type="critical">In der Vorlage: yen</note> offentlich gläsen ist, die jren beherbergett haben. Welle üwer wyßheit mich berichten, was ich mit denen handlen und lassen sölle; ob ich sy ouch der gstaltt yhen schicken oder hie ussen mit ynen machen sölle, damit ob ettwan costen vermitten plibe. Geben uff mittwoch nach aller helgen tag jm xxxv. jar.</p>
+<p rend="margin-top">U[wer] wyßheit williger und ghorsamer</p>
+<p><persName ref="Zeller, Stefan">Steffan Zeller</persName></p>
+<pb n="2" facs="E_I_7_2__Nr__86__S__2_.tif"/>
+<p rend="margin-top">Den fromen, strengen, edeln, fürsichtigen und wyßen heren burgermeistern und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen genedigen heren und obren.  dd.</p>
+</div>
+    </body>
+  </text>
+</TEI>

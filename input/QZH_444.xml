@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_444</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355204">StAZH E I 7.3, Nr. 19</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Obervögte</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1585-11-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-11-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 330</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__19__S__1_.tif"/>
+<p>Unnsern günstigen, geneigten willen und alles gůts zůvor. Frommer, wyßer, besonnders getrüwer, lieber burger und vogt, wir überschickend dir hieby unnser jm truck ußgangen mandath<note type="critical">Folgt gestrichen: wider d</note> der wider­toüf­fern halb. Das<note type="critical">Nachträglich korrigiert, ursprünglich: dis</note> wellist allenthalben zů den kilchen under diner amptsverwaltung, alda die mandatha<note type="critical">Folgt gestrichen: geläßen wer</note> zeläßen brüchlich, ordnen und bevelchen, das sölliches uff jetzt künfftigen sontag jnn den kilchen, wenn das wolck versamlet jst, offentlichen an der cantzel<note type="critical"><q>an der cantzel</q> am Rand</note> geläßen werde, und du dann styff darob halten.</p>
+<p>Darnebent langt uns an, das<note type="critical">Folgt gestrichen: das</note> by jungen und alten das schweren und gotslesteren widerumb gar jm schwanck gange<note type="editorial"> gehen würde</note> <note type="critical">Folgt gestrichen: dardur</note>, daher dann der zorn gottes volget. So nun<note type="critical">Folgt gestrichen: unser darwidern</note> die hoch notturfft erforderet,<note type="critical">Folgt gestrichen: deßhalb</note> deßwegen abermalen mengklichen zewarnnen, und dann unser hierüber gemachet gebott, jnn den christenlichen ordnungen unnd satzungen<note type="critical"><q>christenlichen ordnungen und satzungen</q> am Rand, in der Zeile gestrichen: satzungen</note> unsers erst jnn verschinnem<note type="editorial"> vergangenem</note> achtzigisten jar getruckten großen mandaths<note type="editorial"> Vgl. Nr. 248; Edition des ganzen Mandats in: Zürcher Kirchenordnungen, hg. von Emidio Campi und Philipp Wälchli, 1. Teil, Nr. 119, S. 259-298.</note> begriffen, wie ein jeder pfarrer und predicant<note type="critical"><q>predicant</q> unter der Zeile</note> das by synen handen hatt, wellent wir, das sölliches<note type="critical">Folgt gestrichen: das</note> die predicanten ouch widerumb nebent jetzigem mandath verläßint und die überträtter <pb n="2" facs="E_I_7_3__Nr__19__S__2_.tif"/> luth desselbigen bůß thuͤgind und mit erntst dartzuͦ gehalten werdint. Daran bschicht unser meinung und gfallen<note type="critical">Folgt gestrichen: das du allenthalben</note>, welliches du allenthalben under diner amptsverwaltung<note type="critical"><q>allenthalben under diner amptsverwaltung</q> am Rand</note> zů ordenlichen erstattung mit flysß versehen und ußrichten sollt, stadt uns jnn gnaden zů erkennen. Datum den 8ten wintermonats anno etc. 85.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich.</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName>, <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>, <placeName ref="LOC_47.36583_8.6789">Gryffensee</placeName>, <placeName ref="LOC_47.57335_8.52607">Eglisouw</placeName>, <placeName ref="LOC_47.59284_8.67544">Andelfingen</placeName>, <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName>, <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> und <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName>.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Es handelt sich um die Vorlage für die einzelnen Schreiben.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

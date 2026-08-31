@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_459</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355079">StAZH B IV 47, fol. 40v-41r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an ihre Landvögte</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1587-05-15"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1587-05-15"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 345</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, vester, besonders gethrüwer, lieber burger unnd vogt, jnn nechts gehalltnem synodo jst von etlichen capitlen unnsers gebiets die klag gefuͤrt worden, das die ­toüf­ferisch sect an vilen orten nur widerumb hefftig überhand nemmen welle unnd werde unnserm by einem jar ungfhar darwider jm truck ußgangnen verkhündten mandath<note type="editorial"> Nr. 329.</note> an etlichen orten schlechtlichen nachgesetzt. Dann obschon die obervögt mehrteils söllichem ellenden volck unnd daher volgendem unrath zeweeren unnd das mandath zehandthaben gern bests theten, so welle es nun vilmalen an jren underamptlüthen, die sumselig zur sach thuͤygind, manglen unnd erwinden<note type="editorial"> fehlen, mangeln, Id. XVI, 580.</note> etc. Diewyl dann wir von oberkeits wegen schuldig, söllichem unrath abzeweeren, damitt es nit ein schedlichen ußbruch nemme unnd die kilchen dardurch jrrs gmacht und betruͤbt werdint, habent wir dich<note type="critical">Folgt gestrichen: sollichen</note> wie ouch andere unnsere obervögt dißer klag<note type="critical">Folgt gestrichen: verstendigen wellen</note> hiemit verstendigen unnd darby ermannen wellen, das du gegen den ­toüf­ferischen<note type="critical">Folgt gestrichen: redli</note> lehreren und ufwigleren, deßgylchen den jhenigen, so sy ufenthaltend unnd denen, so jnen nachlouffend und anhangend, wo du das jnn dyner amptsverwalung erfaren kanst nach luth deß obangetzognen unnsers mandaths handlen wellist. Innsonderheit dynen underamptlüthen, wo sy jnn ußrichtung deßen, so sy schuldig und jnen bevolchen<note type="critical">Folgt gestrichen: sums</note> farleßig unnd sümig weren, dasselbig nit nachlaßist, sonnders nach gebür darumb straffist. Der hoffnung, söllich sectisch volck, wenn sy den erntst sehend, vertriben unnd also<note type="critical"><q>also</q> über der Zeile</note> mancher einfalter durch sy nit verfuͤrt werden, wie dann die predicanten gmeinlich ouch ermannet sind, hierjnnen, was jrs ampts und bevelchs jst, gegen dißem volck<note type="critical"><q>gegen dißem volck</q> am Rand mit Verweiszeichen</note> flyßig ußzerichten unnd mitt jrem wandel und läben dhein<note type="editorial"> kein</note> ergernuß und den ­toüf­feren anlaß zegeben. Versechend unns, du werdist jnn dißem und annderm an dynem flyß nützit erwinden laßen. Das stadt unns gegen dir jnn gnaden zůerkhennen. Datum den 15ten meyens anno etc. 87.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An die vögt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName>, <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> unnd <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

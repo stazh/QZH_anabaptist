@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_722</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355121">StAZH B IV 61, fol. 267r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Conrad Keller</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1603-05-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1603-05-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 608</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, vester, besonders gethrüwer, lieber burger, wir habend hievor <persName ref="Rüegg, Jaggli">Jaglj Rügen</persName> von <placeName ref="LOC_47.37519_8.85314">Felniß</placeName><note type="editorial"> Felmis</note> jnn unser gravschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> (wellicher jetz lange zyth von wegen der töüfferischen sekt jnn unser gefangenschafft gelegen) můter, so uff die 80 jar syn sol, deßglychen syner frouwen und kinden uß unserm allmoßen allhie wuchenlich etwas hilff und handreichung thun laßen<note type="editorial"> Vgl. das Urteil in Nr. 604.</note>. Diewyil sy sich aber beschwerend, das es jnen gar ungelegen und dardurch jr arbeit versumen müßint, so jst unnsers gesinnen an dich, du wellist bemelts Rügen můter, wyb und kinden (als die syner unghorsamme nützit vermögend) monatlich ein viertel kernen und zechen schiling an gelt uß dynem ampt<note type="critical"><q>uß dynem ampt</q> am Rand mit Verweiszeichen</note> zustelen und werden laßen, doch lenger nit, dann biß gehörter Jaglj Rüg der gefangenschafft widerumb gelediget ald<note type="editorial"> oder</note> sonst ein enderung mit jmm fürgenommen wirt. Da wir uns dann aber nach gestalt der sachen verhalten wellen<note type="critical">Folgt gestrichen: datum</note>, deßen<note type="critical">Folgt gestrichen: habend wir</note> dich<note type="critical">Folgt gestrichen: zů</note> schrifftlichen zůberichten habend wir nit underlaßend söllen. Datum den 30. d. maij a[nn]o 1603.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">Dem froemmen, vesten, unserm besonders gethrüwen, lieben burger und<note type="critical">Folgt gestrichen: vogt</note> amptman zů <placeName ref="LOC_47.25828_8.8655">Rüthj</placeName> Hanns Cunrath Kellern.</p>
+</div>
+    </body>
+  </text>
+</TEI>

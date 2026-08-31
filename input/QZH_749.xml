@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_749</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355126">StAZH B IV 63, fol. 157r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Heinrich von Wellenberg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1605-02-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1605-02-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 635</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, vester, besonders gethrüwer, lieber burger und vogt, demnach <persName ref="Buchmann, Verena">Verena Bůchmanin</persName>, deß unnsern <persName ref="Bidermann, Heini">Heinj Bidermans</persName> zů Dachelßen<note type="editorial"> <placeName ref="LOC_47.25963_8.4391">Dachlissen</placeName></note> eewyb, die sich der ­toüf­ferischen sect anhengig gemacht, welliche du unns von deßwegen gfengklich alher gschickt, sich uff die an sy beschechne vermanungen begäben, fürhin jnn die kilchen zegohnd und sich aller gehorsamme zůbeflyßen, wie sy dann gestrigs tags jnn unserer kilchen zum großenmünster jnn unnser statt alhie auch zur predig gweßen und dasselbig an dem ort, dahin sy kilchgnößig<note type="critical"><q>an dem ort, dahin sy kilchgnößig</q> am Rand mit Verweiszeichen</note>, wyter zethůn by jren thrüwen<note type="critical">Folgt gestrichen: und ehren</note> angelobt und versprochen, habent wir sy daruf der gfangenschafft widerumb erlaßen und darnebent<note type="critical"><q>sy daruf … darnebent</q> am Rand mit Verweiszeichen</note> nit underlaßen wöllen, dich deßen hiemit zůverstendigen, damit du uff sy dyn ufsehen haben khönnist, das sy jrem anloben gehorsammlich statt thuͤyge und dem nachkhomme. Hienebent so jst auch unser bevelch, du wellist mit gedachtem jrem eeman und desselben veteren, auch denen, so jnn jrer hußhaltung sind, reden erntstlich und mit jnen verschaffen, das sy gmeinlich sich auch gegen jro, der gemelten Bůchmanin, jnn einen und den andern weg der gebür nach erzeigind und sich jnmaßen<note type="critical">Folgt gestrichen: gegen</note> verhaltind, das sy sich billicher wyß zůerklagen nit ursach habe, wie du dann diß<note type="critical">Folgt gestrichen: wol</note> zůverrichten wol wüßen wirst. Datum den 9ten hornungs anno 1605.</p>
+<p rend="margin-top">Burgermeister und rhat der statt Zürich</p>
+<p rend="margin-top">Dem frommen, vesten, unnserm besonders gethrüwen, lieben burger und vogt zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> Hans Heinrichen Wellenberg.</p>
+</div>
+    </body>
+  </text>
+</TEI>

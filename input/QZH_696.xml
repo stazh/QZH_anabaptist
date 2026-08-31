@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_696</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355116">StAZH B IV 60, fol. 259v-260r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1602-05-19"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1602-05-19"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 582</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, demnach wir <persName ref="Gubelmann, Rudolf">Růdolfen Gubelman</persName>, den wagner von <placeName ref="LOC_47.2875_8.85719">Hadlicken</placeName> dynen amptsangehörigen den halsstarrigen<note type="critical"><q>halsstarrigen</q> am Rand</note> widerthöuffer, den du unns verschinner<note type="editorial"> vergangener</note> zyt gfengklich zůgeschickt, ein zyt lang jnn unnser gfangenschafft enthalten<note type="editorial"> festhalten, Id. II, 1228.</note>, volgents jnne von syner lybs blödigkeit<note type="editorial"> Schwäche, Id. V, 28.</note> wegen jnn unnßern spital thůn laßen, alda er letstlich der banden gelediget<note type="critical"><q>geledigiet</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: erlaßen</note> worden unnd unnserm spitalmeister versprochen hatt, ohn erlaubtnuß nit uß dem spital zewychen. Unangesehen aber deßen jst er, Gubelman, diser tagen synem glübdt zewider<note type="critical"><q>synem glübdt zewider</q> am Rand</note> uß dem spital entloffen. Unnd diewyl dann zůerachten, das er sich widerumb jnn syn heimet begeben haben werde, so bevelchend wir dir hiemit erntstlich, das du uff jnne, Gubelman, dyn heimliche spech unnd khundtschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> machist und jetzt glych angents<note type="editorial"> unverzüglich, Id. II, 19.</note> nach dem heiligen pfingstag<note type="critical">Folgt gestrichen: ordnu</note> vertruwten lüten bevelch gebist, das wo er, Gubelman, jnn synem huß oder sontsten<note type="critical"><q>jnn synem huß oder sontsten</q> am Rand</note> jnn dyner verwaltung zůbetretten<note type="editorial"> antreffen, Id. XIV, 1486.</note>, er wo jennen müglich gfengklich angenommen werde. Da du jnne dann den nechsten unns widerumb gefangen zůschicken solt, wyter gegen jme die gebür fürzůnemmen. Deß wellend wir unns zů dir versehen, unnd das du hierjnnen unnd auch sontsten, was die erstattung unnser mandats der ­toüf­feren halber betrifft, an dynem flyß und erntst nützit erwinden<note type="editorial"> fehlen, Id. XVI, 580f.</note> laßen werdist.<note type="critical"><q>unnd das du hierjnnen … werdist</q> am Rand mit Verweiszeichen</note> Datum mitwochs den 19. d. mey anno 1602.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> Jacoben Zur Eich</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_817</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355153">StAZH E I 7.3, Nr. 101</idno>
+          </msIdentifier>
+          <head>Zeugenaussagen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1550">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1550">ca.</origDate>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 703</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__101__S__1_.tif"/>
+<p><persName ref="Meyer, David">Davit Meyer</persName> von <placeName ref="LOC_47.53797_8.47014">Stadel</placeName> sagt, als jren etlich zů Stadel jm wirttshuß truncken unnd einer under jnnen under anderem grett, der herr habe aber jnn der predig die ­toüf­fer anzogen<note type="editorial"> schmähen, <hl to="http://fwb-online.de/go/anziehen.s.3vu_1668617929"><Hyperlink>http://fwb-online.de/go/anziehen.s.3vu_1668617929</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>. Daruf ein anderer<note type="critical">Folgt gestrichen: gseit er</note> zů <persName ref="Huser, Heini">Heinj Hußern</persName> gseit, er dörff wol jnn ouch troffen han. Daruf Hußer geantwortet, wann einer seite, das er ein ­toüf­fer, dörfte er wol sagen, es were einer (reverenter) so gwüß ein dieb.</p>
+<p><persName ref="Schmid, Junghans">Junghans Schmid</persName> von Stadel züget glychergstalt.</p>
+<p><persName ref="Huser, Ulrich">Ůlrich Hußer</persName> von Stadel zeigt an, als man jm wirttshuß von den ­toüf­feren zred und under anderem anzogen worden, es syge eben nach ein ­toüf­fer jm Nüwen ambt<note type="editorial"> <placeName ref="LOC_47.502561593977106_8.499244491889575">Neuamt</placeName>, Obervogtei im Zürcher Unterland.</note>, dardurch dann synes erachtens <persName ref="Schmid, Heini">Heinj Schmid</persName> gmeint worden, habe Heinj Hußer gret, man müße jnn dollen<note type="editorial"> toll machen?</note> unnd sölte er (doch niemants gnambßet, wen er meine) jm bütterich<note type="editorial"> kleines Fässchen, Id. IV, 1923.</note> jnnen zerhygen<note type="editorial"> bersten, Id. II, 1102.</note>, beschloß hiemit syn sag.</p>
+<pb n="2" facs="E_I_7_3__Nr__101__S__2_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

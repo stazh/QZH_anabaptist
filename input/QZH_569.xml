@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_569</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355258">StAZH E I 7.3, Nr. 68</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Augustin Gasser</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1592-03-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1592-03-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 455</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Augustyn Gaßers von Stamheim, jetzt jnn Bernbiet wonende, antwort<note type="critical">Aufschrift auf der Rückseite des Dokuments</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__68__S__1_.tif"/>
+<p>Als m[eister] Hanns <persName ref="Wegmann, Hans Rudolf">Ruͦdolf Wägman</persName> unnd herr lanndtvogt Raan<note type="editorial"> Vielleicht Hans <persName ref="GND_143647792">Rudolf Rahn</persName> </note> <note type="critical">Folgt gestrichen: mit sampt herrn Felix Truͤben</note> zů Augustyn Gaßer, dem schnyder<note type="critical"><q>dem schnyder</q> am Rand mit Verweiszeichen</note> von Niderstamheim, so herr <persName ref="Lavater, Bernhard">vogt Lafater</persName> zů Steinegg fängklich alhar geschickt hatt, uff das rathhuß keert<note type="editorial"> sich begeben, gehen, Id. III, 435.</note>, jmme den argwon der ­toüf­feryg ald<note type="editorial"> oder</note> ob er<note type="critical">Folgt gestrichen: mit</note> derselbigen sect<note type="critical">Folgt gestrichen: behaft</note> anhängig unnd was diß lanndts syn fürnämmen<note type="editorial"> Vorhaben, Absicht, Id. IV, 746.</note> syge, fürghalten<note type="critical"><q>fürghalten</q> über der Zeile</note>, gibt er einfaltig dißeren bscheid: Das er ungfar vor 24 jaren, als er nach jung gsyn<note type="critical"><q>als er nach jung gsyn</q> am Rand mit Verweiszeichen</note>, von <placeName ref="LOC_47.64002_8.77932">Stamheim</placeName> hinwäg unnd synem hanndtwärch nach<note type="critical"><q>nach</q> über der Zeile</note> jnn die 6 jar lanng<note type="critical">Folgt gestrichen: nach</note> hin und wider zogen, volgends gen <placeName ref="LOC_46.78145_7.6327">Stäfisburg</placeName><note type="editorial"> Steffisburg</note> jnn der herrschafft <placeName ref="LOC_46.74658_7.62217">Thun</placeName> gelägen, alda er jetzt jnn die 12 jar hußhablich gseßen, sich begäben unnd vor 12 jaren<note type="critical">Folgt gestrichen: sich</note> vom apt zů S. <placeName ref="LOC_47.42214_9.37554">Gallen</placeName> der lybeigenschafft abkoufft unnd ouch sich vor 2 jaren mit herren vogt zů <placeName ref="LOC_47.52795_8.78209">Stainegg</placeName> umb den abzug verglichen, dem er 17 g[ulden] geben müßen von wägen synes erbtheils, von deßwägen er ouch<note type="critical"><q>ouch</q> über der Zeile</note> jetzund zů Stamheim gsyn, etwas<note type="critical">Folgt gestrichen: deßwägen</note> ynzenemmen unnd dheiner<note type="editorial"> keiner</note> anndern gstalt nit. Dann ob er glych ein touffbrůder, syge er doch darumb<note type="critical"><q>darumb</q> über der Zeile, in der Zeile gestrichen: desselben wägen</note> gar nit gan Stamheim ganngen, das er jemandts ufzwiglen understanden, sonder habe syne gfründte<note type="editorial"> Verwandte, Id. I, 1303.</note> vil meer zum kilchgang weder darvon<note type="critical">Folgt gestrichen: gemanet</note> und, so sy daßelbs etwas gůts hörind, zefolgen gemanet<note type="critical"><q>gemanet</q> unter der Zeile</note>. Anders werde sich nit erfinden. Er vermeint aber, wan er synen gfrüntten gält bringen, wie er hollen wellen<note type="critical">Folgt gestrichen: heten</note>, were er nit dahin kommen, da er jetzt syge.<note type="critical"><q>Er vermeint … syge</q> am Rand mit Verweiszeichen</note></p>
+<p>Bittet daruf üch, myn g[nedig] herren, gantz deemütig umb gnad, jnne der gfangenschafft zeledigen, unnd mit synem erbgůt verfaren<note type="editorial"> fortziehn, abreisen, Id. I, 898.</note> zelaßen, dann<note type="critical"><q>dann</q> über der Zeile, in der Zeile gestrichen: diewyl</note> er<note type="critical">Folgt gestrichen: doch</note> für das<note type="critical">korrigiert, ursprünglich dasselbig</note> hin, wan er söllichs empfacht, anerbietig, üwer myner g[nedigen] herren statt und landtschafft zemyden und ouch sölliches zůvor ufgeben habe.</p>
+<pb n="2" facs="E_I_7_3__Nr__68__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__68__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__68__S__4_.tif"/>
+<p rend="margin-top">[Urteil:] Diewyl er vor etwas jaren von Stamheim hinwäg zogen unnd domals syn landtrecht ufgäben, syn erbgůt verabzuget<note type="editorial"> der Wegzugsteuer unterwerfen, Id. XVII, 496.</note>, so doch nach zum theil jnn myner gnedigen herren gebiet ligt, unnd er dheiner anderen gstalt dan sölliches zevorderen gan <placeName ref="LOC_47.64002_8.77932">Stamheim</placeName> keert, so sölle er der gfangenschafft erlaßen unnd uß myner herren statt unnd landtschafft verwißen werden unnd nachwärts zů fhals<note type="editorial"> Anfall eines Erbes, Id. I, 734.</note> zyten an syn statt ein andere person syn erbtheil, so jmme gevolgen sol<note type="critical"><q>so jme gevolgen sol</q> am Rand mit Verweiszeichen</note>, zeholen schicken. Den costen, so diß orths uff jnne gangen, söllen syne verwante, so das gůt underhanden<note type="editorial"> im Besitz, Id. II, 1390.</note> habend, bezalen, unnd nachwärts yn synem theil jnnbehalten. Actum mittwuchs den 8ten martij anno etc. 92 pr[aesen]t[ibus] herr <persName ref="GND_143659413">burgermeister Tomman</persName><bm id="191"/> unnd beid räth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

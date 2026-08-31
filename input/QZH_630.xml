@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_630</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354961">StAZH B II 265, S. 46 (Manual des Stadtschreibers); StAZH, C III 12, Nr. 23; Abschrift: StAZH, B I 63, S. 117-119</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend den Einzug der Täuferbussen in der Herrschaft Knonau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1598-12-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1598-12-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 516</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ime, vogt<note type="editorial"> Gemeint ist Landvogt Alexander Rubli, auf den sich der vorangehende Ratsbeschluss bezüglich des Falschmünzers Michel Gmünder bezieht.</note>, soll auch ein bekantnuß<note type="editorial"> Beschluss, Erklärung.</note> gemachet werden, die bůßen von den unghorsammen ­toüf­feren lut deß mandats jnzůzüchen. Und wo sy die nit guͤtlich geben wöllend, sol er jnen, wie vor auch beschechen, vech uß dem stal nemmen unnd sich darmit bezalen. Darjnnen die undervögt und weibel jme, was er sy heißt, beholfen und gehorsam syn.</p>
+<p>Hanß <persName ref="Meyer, Hans Heinrich">Heinrich Meyer</persName>, der pfister, soll umb synes brůders deß toüfers gůt vor den schirmvögten rechnung geben unnd dann dieselben myn herren berichten, was diß gůts sye.</p></div>
+      <div>
+        <head type="Originalsprache">Bekhandtnuß anthreffend die täuffer bůßen, anthräffend ouch die unndervögt<note type="editorial">Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=2500457">StAZH C III 12, Nr. 23</ref></bibl>. Aufschrift auf der Rückseite des Dokuments; im Unterschied zum Ratsmanual nennt der Stadtschreiber im vorliegenden Text Konrad Grossmann, welcher dem Baptistalrat angehörte, als anwesenden Bürgermeister.</note></head> <p>Als herr <persName ref="Rubli, Alexander">vogt Rublj</persName> mynen gnedigen herren angezeigt, wiewol er etliche widerthöuffer jnn der herrschafft <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> syner amptsverwaltung von wegen jrer ungehorsamme und das sy nit ze kilchen gangind zestraffen unnd nach synem habenden bevelch die bůßen von jnen jnzezüchen understanden, so möge er doch von jnen nützit jnbringen und daruf von mynen gnedigen herren bscheidts begert, wie er sich jrethalb wyter halten sölle, damit er nit einicher farläßigkeit beschuldiget werden khönne, habent myn gnedig herren darüber den bscheid gegeben und jme mit allem erntst bevolchen, das namblich er, herr vogt, myner gnedigen herren mandat der ­toüf­feren halber ußgangen, geflißen nachgaan und allen denen jnn syner verwaltung geseßnen, so dem mandat nit gehorsammend und sich widerspennig erzeigend, die bestimpten bůßen ohne verschonen abnemmen unnd welliche uff erforrderen die verfallnen bůßen nit als bald gütlich erlegen weltend, denselbigen sölle er, wie vormaln mehr beschechen und an annderen orten auch gebrucht wirt, jres vechs uß den stälen nemmen laßen, dasselbig verkauffen und sich daruß umb die bůßen selbs bezalen, wyl je an söllichen widerspennigen lüthen die guͤte nit helfen will und deßhalb derglychen mitel fürgenommen werden můß.</p>
+<p>Unnd jst darby myner gnedigen herren gantz ernstlich gebott und bevelch, das die undervögt jm ampt nach jrer pflicht, so sy mynen gnedigen herren schuldig sind und by verlierung jrer dientsten, genanntem herrn vogt Rublj zů jnbringung der ­toüf­fer bůßen beholffen syn und das so er, der obervogt, jnen jeder zyt, es syge mit hinuß trybung deß veechs und jnn anderweg, bevilcht, mit thrüwem und ohn verziechen ußrichten söllint. Deß wellent sich myn gnedig herren zů jnen, den undervögten, gmeinlich versehen und wellicher das nit thete, deß soll der obervogt myn herren berichten und dann derselbig darob myner herren großen ungnad zůerwarten haben.</p>
+<p>Ist erkhendt<note type="editorial"> beschlossen, amtlich festgesetzt</note> sambßtags den 9ten decembris anno etc. 98 p[raese]nt[ibus] herr <persName ref="GND_143658468">burgermeister Großman</persName> und beid reth.</p>
+<p rend="margin-top">Stattschryber zů Zürich s[crip]s[i]t</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Sambstags, den 9ten decembris p[raese]nt[ibus] herr Großman unnd beid reth</q>.</p>
+      </div>
+      <div>
+        <p> Aufschrift auf der Rückseite des Dokuments; im Unterschied zum Ratsmanual nennt der Stadtschreiber im vorliegenden Text Konrad Grossmann, welcher dem Baptistalrat angehörte, als anwesenden Bürgermeister.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

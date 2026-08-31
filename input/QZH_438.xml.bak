@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_438</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355191">StAZH E I 7.3, Nr. 14; StAZH E I 7.3, Nr. 11</idno>
+          </msIdentifier>
+          <head>Bestätigung des Vorschlags durch Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (4 Doppelblätter)</filiation>
+              <filiation type="original"><origDate when="1585-08-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-08-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 324</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ist einhelligklich bestedt, mitwuchs den 4ten augustj anno etc. 85 p[raese]nt[ibus] herr bůrgermeister <persName ref="GND_143680544">Kamblj</persName>, reth und bůrger.</p>
+<pb n="1" facs="E_I_7_3__Nr__11__S__1_.tif"/>
+        <p rend="margin-top">Demnach<note type="critical">Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355162">StAZH E I 7.3, Nr. 11</ref></bibl>.<q>Demnach</q> am Rand, in der Zeile gestrichen: Als</note> die vier evangelischen stett, mit nammen<note type="critical"><q>mit namen</q> über der Zeile, in der Zeile gestrichen: als</note> unser gnedig herren von Zürich, ouch <placeName ref="LOC_46.94809_7.44744">Bern</placeName>, <placeName ref="LOC_47.55839_7.57327">Basell</placeName> und <placeName ref="LOC_47.71034_8.63388">Schaffhusen</placeName>, verursachet worden, wyl die schedliche<note type="critical">Folgt gestrichen: wider</note> sect der wider­toüf­feryg (wider) nun mehr zů- weder abnemmen will, sich durch jr allersidts gsandten mit einandern zůbesprachen und zeunderreden, durch was mittel und weg doch söllichem verderblichem jrrsal zůbegegnen, ouch wie dem, so<note type="critical">Folgt gestrichen: zů demselben</note> deßen nitt geringer anfang und ursprung jst, zůweeren syn möchte. Da<note type="critical"><q>Da</q> am Rand, in der Zeile gestrichen: Unnd</note> nun befunden wirt<note type="critical"><q>wirt</q> über der Zeile, in der Zeile gestrichen: so</note>, das vil fromme gotsförchtige lüth, die Christum von hertzen sůchend, zů jrem<note type="critical">Korrigiert, ursprünglich: jres. In der Folge wurden auch die ursprünglichen Genitivendungen (<q>trennens</q> und <q>absönnderens</q>) gestrichen.</note> trennen und absönnderen von unsern kilchen etlicher predicanten unflysß jm predigen, ouch ergerlichen fuͤrenden wandel und das sy dem liederlichen leben<note type="critical">Folgt gestrichen: und</note>, trunckenheit<note type="critical">Folgt gestrichen: und</note>, gytt und andern derglychen lastern ergeben sind, großen anlasß geben wirt, der aber<note type="critical">Folgt gestrichen: jne</note> söllichen einfalten frommen lüthen, wenn die predicanten ein erntsthafften zügsammen<note type="editorial"> bescheiden, sittsam, Id. XVII, 760.</note> wandel und weßen halten, benommen. Dann was die exempel zů gůtem und bößem vermögend, lehrt die täglich erfarnuß. Unnd so dann zů rechtgschaffner lehr und frommen leben der predicanten die angesehnen und haltenden sinodj gantz nottwendig<note type="critical">Folgt gestrichen: so</note>, <pb n="2" facs="E_I_7_3__Nr__11__S__2_.tif"/> <pb n="2" facs="E_I_7_3__Nr__11__S__2_.tif"/> so jst unnserer gnedigen herren, burgermeister und raths der statt Zürich, will unnd meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, das<note type="critical">Folgt gestrichen: hin</note> anjetzo und dann fürbaß<note type="editorial"> künftig, Id. IV, 1654.</note> jnn allen sinodis, so jm jar zwürig<note type="editorial"> zweimal, Grimm 32, 1163.</note> gehalten<note type="critical">Folgt gestrichen: werdent</note>, disere bekandtnuß offentlich geleßen werden, sidtmalen<note type="editorial"> da, weil, Id. IV, 147.</note> under den mitlen, der ­toüf­ferischen sect zůwehren,<note type="critical">Folgt gestrichen: das ouch</note> diß ouch eins jst, das die diener der kilchen und schůlen allenthalben jnn stetten und dörffern den kinder bericht flysßig haltind. Dann wann<note type="critical">Folgt gestrichen: d[…]</note> man die gründ der christenlichen lehr wol legt, so werdent die lüth hernach dester weniger verfuͤrt. So söllind sy, die<note type="critical">Folgt gestrichen: kilchen</note> diener<note type="critical">Folgt gestrichen: und</note> der kilchen und schůlen, mit allen trüwen die<note type="critical">Folgt gestrichen: verrichtung</note> haltung und verrichtung deß kinder berichts erstatten,<note type="critical">Folgt gestrichen: demnach</note> darnebent ouch sy, die pfarrer und predicanten, wenn sy komlichen anlaß habent, die argumenta oder gründ der<note type="critical">Folgt gestrichen: wider­toüf­fern</note> widertöuffern schädliche artigkel jnn jren predigen widerleggen und die kilchgnosßen vor jnen, den wider­toüf­fern, erntstlich warnind, damit sy wider alle verfuͤrung gesterckt werdint. Sy söllend ouch dem volck anzeigen, das sy dhein<note type="editorial"> kein</note> recht <pb n="3" facs="E_I_7_3__Nr__11__S__3_.tif"/> myden und jemanden mit gotes gnaden<note type="critical"><q>mit gotes gnaden</q> über der Zeile</note> absönderung unserer kilchen<note type="critical">Folgt gestrichen: mit gott</note> ursach und anlasß gegeben werde, ouch ein jeder den jetzt angeregten straff und entsatzung syner pfrůnd sich zevergoummen<note type="editorial"> sich vor etwas hüten, Id. II, 303.</note> und zůverhüten wüße<note type="critical"><q>ouch ein jeder … zůverhüten wüße</q> am Rand mit Verweiszeichen</note>, wellent offt wolgenannt unser gnedig herren, burgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, das dises jr erkandtnuß<note type="editorial"> Beschluss</note> nit allein anjetzo, sonders fürbaß jnn allen sinodis, so jm jar zwürig alhie gehalten, offentlich geläßen werden sölle. Darüber dann ein herr burgermeister ald statthalter, so dem sinodo bysitzt von mund ouch ein erntstliche erjnnerung thůn mag<note type="critical">Folgt gestrichen: das</note>, uff das<note type="critical">Folgt gestrichen: sich</note> ein jeder sich<note type="critical"><q>sich</q> am Rand, in der Zeile gestrichen: dem</note> darnach zehalten und dhein<note type="editorial"> kein</note> unwüßenheit<note type="critical">Folgt gestrichen: fürzwenden</note> fürwenden<note type="editorial"> vorbringen, Id. XVI, 428.</note> könne. Actum mitwuchs, den 4ten augustj anno etc.<note type="critical">Folgt in der Vorlage: anno etc. (Wiederholung)</note> 85 p[raese]nt[ibus] herr <persName ref="GND_143680544">burgermeister Kamblj</persName>, reth und burger.</p>
+<pb n="4" facs="E_I_7_3__Nr__11__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

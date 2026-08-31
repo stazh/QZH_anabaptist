@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_541</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355242">StAZH E I 7.3, Nr. 53</idno>
+          </msIdentifier>
+          <head>Anthoni Öri an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1590-03-23"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1590-03-23"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 427</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__53__S__1_.tif"/>
+<p>Her burgermeister, edel, from, fest, fürsichtig, ersam, wys, jnsonders günstig, gnedig jr min heren, min undertenige gůtwilige dienst sigend üwer ersam wißheit uß schuldiger pflicht zů jederzit bevor etc. Als üwer ersam wißheit mir verschinens samstag hat zů gschriben, das jch söl erkunnen und erfaren, was üwer (min heren) underdon, min amptzansgehöriger mit namen <persName ref="Hess, Wernli">Wernlj Heß</persName> von <placeName ref="LOC_47.22493_8.65207">Wädyschwil</placeName>, für hab und gůt heig, da han jch das sälb mit allem fliß ußgricht und kan aber nit finden, das er kein zitlich hab und gůt nit heig, dän das er sich als ein armer gsell by sinem schwager <persName ref="Häuptli, Hans">Hansen Höüptlj</persName> ein zit lang erhalten<note type="editorial"> aufhalten</note> hat, aber nüt eigens habe. Das jst, das jch üch, min gnedig [herren], kan brichten etc., bit üch, min gnedig heren, jr welind mich wie bißhar jn üweren gnaden laßen befolen sin, hiemit üwer ersam wißheit jn schirm götlicher gnaden bevollen. Datum den 23. mertz 90.</p>
+<p rend="margin-top">Anthoni<note type="critical">In der Vorlage: Annhoni</note> Öry, vogt zů Wädyschwil</p>
+<pb n="2" facs="E_I_7_3__Nr__53__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__53__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__53__S__4_.tif"/>
+<p rend="margin-top">Den edlen, fromen, festen, fürsichten, ersamen und wysen heren, burgermeister und rath der stat Zürich, minen jnsonders günstigen, gnedigen lieben heren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

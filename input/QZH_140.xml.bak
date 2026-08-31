@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_140</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355014">StAZH B IV 13, fol. 140r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an N. Wepfer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1542-10-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1542-10-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 26</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Bůrgermeyster unnd rath der statt Zürich. Unnsern grůß zůvor. Getrüwer, lieber undervogt, unns kompt clegt<note type="editorial"> Klage</note>, wie eyn küffer, gennat Jacob von <persName ref="Felder, Jakob">Felderen</persName>, deßglychen <persName ref="Kriechli, Stefan">Steffan Kriechlis</persName> selgen gelasßene wittwe von <placeName ref="LOC_47.64002_8.77932">Understamheym</placeName><note type="critical"><q>von Understamheym</q> am Rand mit Verweiszeichen</note> widerspänigclich dem widertouff anhängig, jnn dem das sy wäder zum gotswort noch zu den cristenlichen sacramenten gangind unnd alle cristennliche ordnung verachtind, der gemeynde gottes vast ergerlich anstösßig unnd jr jrrige wys jnn der kilchen unnd versamlung gottes nit zelyden sige. Das unns beschwärt<note type="critical">Folgt gestrichen: unnd we</note> unnd jnn keynen weg zulyden ist. Deßhalb wellist jnn geheym nach disen zweyen personen stellen unnd unns die one verzug<note type="critical"><q>verzug</q> am Rand</note> fängklich überanndtwurten, mit jnen zehanndlen, das jr ungehorsame<note type="critical">Folgt gestrichen: erforderen</note> unnd die nottdurfft erforderen wirt. Daran thůstu unnser ernnstlich meynung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> unnd wellent unns hierjnn zů dir alles flysßes versechen<note type="editorial"> erwarten, Id. VII, 566f.</note>. Uß <placeName ref="LOC_47.36667_8.55">Zurich</placeName>, mittwuchs vor Symonis unnd Jude 1542.</p>
+<p rend="margin-top">Unnserem getrüwen, lieben undervogt zů <placeName ref="LOC_47.64002_8.77932">Stamheym</placeName> N. Wäpfer.<persName ref="Wäpfer, N."/></p>
+</div>
+    </body>
+  </text>
+</TEI>

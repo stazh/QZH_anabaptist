@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_429</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355070">StAZH B IV 45, fol. 104</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von Bülach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1585-03-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-03-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 315</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeister unnd rath der statt Zürich, unnßeren grůß zůvor. Ersammen, lieben gethrüwen, unnßere besonnders gethrüwen, lieben mitreth unnd vögt zů Bülach, <persName ref="Gimper, Kaspar">Caspar Gimpper</persName> unnd <persName ref="Wüst, Jakob">Jacob Wüst</persName> habend unns erscheint unnd fürgebracht: Nachdem sy verschinner<note type="editorial"> vergangener</note> zyt<note type="critical"><q>verschinner zyt</q> am Rand mit Verweiszeichen</note> uß unnßerem geheiß unnd bevelch die unnßeren Hanns <persName ref="Königsholzer, Hans Heinrich">Heinrichen Küngßholtzer</persName> von Bülach unnd <persName ref="Meyer, Mathe">Mathe Meyeren</persName> von <placeName ref="LOC_47.51527_8.5324">Niderflachs</placeName><note type="editorial"> Weiler, heute ein Quartier der Gemeinde Bülach</note> mit allem ernst so wol mündtlich als schriftlich, eintweders von der jrrigen unnd verfürischen thoüfferischen sect abzestan, vermanet, oder aber biß faßnacht jüngst verschinnen mit allem jrem hab unnd gůth uß unßeren grichten unnd gepiethen zezüchen unnd niemermeer daryn zekommen, jnnen<note type="critical"><q>jnnen</q> über der Zeile</note> geheißen<note type="critical"><q>geheißen</q> am Rand</note> unnd, dz sy<note type="critical"><q>dz sy</q> über der Zeile</note> hiemit uff bestimbte zyth sovil als mit dem eyd söllind verwisßen syn, angezeigt<note type="critical"><q>angezeigt</q> unter der Zeile, über der Zeile gestrichen: fürghallten</note>. Sollichem bescheche aber von gemellten Küngßholtzer unnd Meyer dheinswegs statt unnd mögind sy zů einicher gehorsame bringen. Ab wellichem wir ein groß mißfallen unnd beduren empfangen, ouch unns deßen gegen jnnen nit versechen. Damit unnd aber sy als harttneckige unnd widerspennige lüth jrem beschulden unnd verdienen nach gebüßt unnd gestrafft werdint, so jst hiemitt unnßer ernstlicher bevelch an üch, jr wellind<note type="critical">Folgt gestrichen: jnn hochst</note> angentz unnd unverzogenlich ouch jnn hochster geheimb, es jemer müglich syn mag, zůerzellten Hanns Heinrich Küngßholtzeren unnd Mathe Meyeren gryfen unnd unns wolbewarth gefengklichen zůfüren lasßen. Ann dem bewyßend jr<note type="critical">Folgt gestrichen: gegen</note> gott unnd unns ein gefallen, sonnster uch<note type="critical">Folgt gestrichen: jr</note> gnedigen willen zůerzeigen sind wir jederzyt geneigt. Datum mentags den viijten mertzen anno lxxxv.</p>
+<p rend="margin-top">Den ersamen, unnßeren lieben unnd gethrüwen schultheis unnd rath zů Bülach</p>
+</div>
+    </body>
+  </text>
+</TEI>

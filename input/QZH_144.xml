@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_144</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695001">StAZH E I 7.2, Nr. 92</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Verena Schmidlin</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1543-08-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1543-08-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 30; <ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 3, Nr. 280</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__92__S__1_.tif"/>
+<p> <persName ref="Schmidlin, Verena">Verena Schmidlin</persName> von <placeName ref="LOC_47.62329_8.21674">Thüngen</placeName><note type="editorial"> Tiengen</note> uß dem <placeName ref="LOC_47.63457_8.41674">Clegkgöw</placeName> zoygt an, by drygen jaren ungefaarlich sin, da sy sich erstmals der thoüfferischen sect belüde, das beschech jm <placeName ref="LOC_47.54095_8.38376">Siglistorffer</placeName><note type="critical"><q>Siglistorffer</q> am Rand von anderer Hand, in der Zeile gestrichen: Sibistorffer.</note> <note type="editorial"> Siglistorf, in der Landvogtei Baden.</note> holtz, jnn der graaffschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> gelegen, das sy widergetthoufft unnd jnn der gloübigen zal jngeschlossen wurde alles jnn meynung<note type="critical">Folgt gestrichen: alles</note>, deß vatters wort zuerkennen. Seyt<note type="editorial"> sagt</note> sunst, sy gloub, was gott geheyßen hab, das man dasselbig thůn, unnd das der gloub mit den wärchen gan sölle.</p>
+<p rend="margin-top">Dises<note type="critical">Dieser und der folgende Abschnitt von anderer Hand.</note> wyb ist so eygenrichtig unnd hartneckig, das wyters von jro nit zebrynngen dann schlechts<note type="editorial"> bedeutungslos, Id. IX, 52f.</note>. So will sy nyenervon<note type="editorial"> von nichts, Id. I, 842.</note> wisßenn, dann das sy anzeygt eyner, genannt <persName ref="Hotz, Hans">Hans Hotz</persName> uß dem oberlannd, habe sy toufft. Item so heysßint die beyd, die wie man sy pfanngen von jro flüchtig worden sygint, nemlich der <persName ref="Bastian">eyn Bastlj</persName>, syge jnn <placeName ref="LOC_47.56925_8.27187">Sennenloch</placeName><note type="editorial"> Sänneloch</note>, unnd der <persName ref="Cunrad">annder Cůnrat</persName> zuͤ <placeName ref="LOC_47.55367_8.36666">Wißlicken</placeName><note type="editorial"> Wislikofen</note>, jnn der graafschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> beyd gsesßen. Ob sy aber noch an disen ennden seigint, deßglychen wie sy mit dem zuͤnamen heyßsint, will sy ouch nit wissen unnd schlechts<note type="editorial"> schlechterdings</note> sunst nyemants nennen. Dann wenn man sy lanng fragt, so git sy keyn anntwurt, sonnder schwygt unnd laßt mit jr reden, unntz<note type="editorial"> bis</note> man muͤd wirt.</p>
+<pb n="2" facs="E_I_7_2__Nr__92__S__2_.tif"/>
+<p rend="margin-top">[Urteil:] <persName ref="Schmidlin, Verena">Veren Schmidlin</persName> von <placeName ref="LOC_47.62329_8.21674">Tuͤngen</placeName>, so eyn toyfferin was, alß sy sich bekannth, geirrt haben, unnd sich begab<note type="editorial"> sich entscheiden, sich verpflichten, Id. II, 91f.</note>, von dem jrrthum abzetretten, ward sy uff eyn urfechdt ledig gelassen. Mentags nach Marie hymelfart 1543 p[raese]nt[ibus] herr Hab<note type="editorial"> Bürgermeister <persName ref="GND_119695790">Johannes Haab</persName></note> unnd beyd räth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

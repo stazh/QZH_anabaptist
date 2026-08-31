@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_663</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355278">StAZH E I 7.3, Nr. 87</idno>
+          </msIdentifier>
+          <head>Johannes Bluntschli an Hans Heinrich von Wellenberg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1601-05"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1601-05">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 549</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__87__S__1_.tif"/>
+<p>Gott sige mit üch. Demnach frommer, edler, eerenvester, fürsichtiger und wiser junckher vogt, als wir, die diener deß worts gottes, kurz verruckter ziten<note type="critical"><q>ziten</q> über der Zeile</note> imm synodo versammlet gsin, ist under anderen schwer fürfallenden sachen, dordurch die kilch Christi übel betrůbt wirt, auch von ettlichen capitlen fürgebracht, was großen unratds die ­toüf­ferisch sect an vilen enden mitt sich bringe, das man bin gwüßen zeichen mercken, das wo nit fürsechung<note type="editorial"> Vorsorge, obrigkeitliche Massnahme, Id. VII, 759.</note> thůn wirt, größeren jammer doruß volgen wirt. Diewil aber wir imm capitel deß Fryen <placeName ref="LOC_47.2820935_8.3312904">ampts</placeName> in unserem prosynodo gliche beschwerd funden und bißhar mitt schmerzen dulden müßen, habend wir unseren g[nädigen] h[erren] einem allgemeinen synodo anzeigt, das wir, die diener der kilchen in der verwaltung der herrschafft <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> begriffen, alle die der irrigen schädlichen sect der wider­toüf­fery anhengig mitt namen und underscheidenlich in geschrifft bezeichnen wöllend und üwer eerenveste als unserer ordenlichen oberkeit diser herrschafft fürbringen. In hoffnung, ir werdind von üwers tragenden ampts wägen noch vermög<note type="editorial"> Inhalt, Aussage, Id. IV, 107.</note> der getruckten ordnungen und mandaten, die wir in unseren vertruwten gemeinden zeläsen und uß heiliger geschrifft als christenliche ordnungen zeschirmen und zebesteten hochlich verbunden sind (wie dann in den synodis wir dorzů ernsthlich ermanet werdind), nach üwer wißheit und trüw handlen, was die notturfft, ergernuß abzeschaffen, erforderet oder die sömmliche schwer fürfallende sachen, die sonst von anderen capitlen für u[unser] g[nedige] h[erren] ein eersammen ratd gewisen, auch von üwers tragenden ampts wägen glichsfals fürbringen und dorüber warten, wölcher gstalt und maß doch u. g. lieb herren und vätter üwer wißheit anleitung gäben werdind, disen schweren und schädlichen sachen zebegägnen und die groß ergernuß von der kilchen abzeschaffen, domitt der zorn gottes nitt witer zů unserem großen unheil gereizt werde. Und habend wir, die diener der kilchen diß capitels, hierinn das vertrüwen zů unseren gnedigen herren und auch zů üwer wißheit, ir werdind hierinn der kilchen wolstand erwägen und uns in diser sach behulffen und beratden sin, domitt wir unseren dienst dester fertiger<note type="editorial"> geschickt, Id. II, 1040.</note> und fruchbarlicher mögind verrichten und volgend doruff die nammen der wider­toüf­feren.</p>
+<p rend="margin-top">Toüffer zů <placeName ref="LOC_47.24435_8.53664">Husen</placeName><note type="editorial"> Hausen am Albis</note></p>
+<p>Erstlich zů Husenn: 1. <persName ref="Hitz, Daniel">Daniel Hytz</persName>, 2. <persName ref="Bär, Hans">Hans Bär</persName>, 3. <persName ref="Schnider, Barbara">Barbara Schnider</persName>, 4. <persName ref="Bürgiser, Elsbeth">Elsbeth Bürgißer</persName>, 5. <persName ref="Berli, Anna">Anna Berlin</persName>. In diser gmeind ist auch mangel, das junge lütt wol zimmlich zůr kinder leer kommend, aber was von 10 [bis] 20 jaren volck ist, das üßert sich. Demnach ist die wochenpredig schlächtlich und sind der vogt und die eergaumer<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note> wenig sälbs verhanden.</p>
+<p rend="margin-top"><placeName ref="LOC_47.22523_8.51104">Cappel</placeName></p>
+<p>Demnach ist offenbar, das in <persName ref="Näf, N.">deß Näffen</persName> huß, der uff u. g. h. lehen hoff sizt, schwänckfeldische buͤcher sind, wölche, so si nit hinweg gethon werdend, vil anlaß zů großen irrthumben gäben wurdind. Dan man gspürt augenschinlich, das der kilchgang zů Cappel abnimbt. Ob die faltschen buͤchli oder das gezänck, das si deß zesamen lüttens halb under ein anderen habend, ein ursach sige oder nit, könnend wir nit im grund wüßen.</p>
+<p rend="margin-top"><placeName ref="LOC_47.22446_8.46262">Knonow</placeName></p>
+<p>1. Jos Fry ein gar alter knab, 2. <persName ref="Frey, Marti">Marthy Fry</persName> hatt ein wib, mitt deren ist er ordenlich zůr kilchen gangen und si gatd noch hüttigs tags zur predig, aber er lange zitt nitt. 3. ist <persName ref="Frey, Georg">Gorges Fry</persName>, der hatt eine bin imm, die hatt er nie ze kilchen gfuͤrtt, heißt Madalena Strellerin. Dise alle wonend in der <placeName ref="LOC_47.21639_8.47594">Baregg</placeName> by irem vatter <persName ref="Frey, Martin">Marthin Frye</persName>n, der doch kein wider­toüf­fer, haltet sie aber uff<note type="editorial"> ufhalten: beherbergen, Id. II, 1227.</note> wider die ordnungen u. g. h.</p>
+<pb n="2" facs="E_I_7_3__Nr__87__S__2_.tif"/>
+<p rend="margin-top"><placeName ref="LOC_47.23479_8.42916">Maschwanden</placeName></p>
+<p>Ist gliche klag der kinder predig und auch der wochen predig halben. Es erwachst auch vil ergernuß von wägen großer unordnung im wirtzhuß, wie der pfarer<note type="critical">In der Vorlage: pfares</note> sälbs muntdlich anzeigen köntde.</p>
+<p rend="margin-top"><placeName ref="LOC_47.24779_8.46399">Mätmensteten</placeName></p>
+<p>So die kinder einmal in der kilchen examiniert, vermeinend si gnůg thon haben, kömmend dann sälten mehr. Die ab <placeName ref="LOC_47.27541_8.4897">Oügst</placeName><note type="editorial"> Aeugst am Albis</note> aber kommend gar nitt, ouch nider Rifferschwil<note type="editorial"> <placeName ref="LOC_47.24502_8.49899">Rifferswil</placeName></note>, Roßow<note type="editorial"> <placeName ref="LOC_51_13.0667">Rossau</placeName></note> nitt rächt ghorsamm wie die ordnung vermag<note type="editorial"> besagen, beinhalten, Id. IV, 111.</note>.</p>
+<p rend="margin-top"><placeName ref="LOC_47.28167_8.45023">Affoltheren</placeName></p>
+<p>Zů <placeName ref="LOC_47.28833_8.43124">Zwillickon</placeName> in der pfarr Affoltheren sizt ein wider­toüf­fer mitt nammen <persName ref="Gut, Melchior">Melcher Gůtt</persName> und ist sin wib auch ein ­toüf­fere. Sind nun fürhin 8 jar bin ein anderen gsäßen in großer ergernuß, diewil si ir ee noch nie mitt demm christenlichen kilchgang bestettet, näbend der unghorsamme, die si bruchend wie andere ire touffbruͤderen.</p>
+<p>Demnach sig ein wider ­toüf­fer zů <placeName ref="LOC_47.28167_8.45023">Affoltheren</placeName>, <persName ref="Fehr, Rudolf">Rodolph Feer</persName> genant. Witter sind zwen wider­toüf­fer uß demm land zů <placeName ref="LOC_49.5_17">Mehren</placeName> als uffwigler hin und har geschweyffet, sind auch gen Affoltheren kommen, da hatt <persName ref="Bürli, Fridli">Fridli Bürlis</persName> frow inen kuͤchlet<note type="editorial"> Kuchen backen, Id. III, 143.</note> und habend mitt e[in?] a[ander] bröselet<note type="editorial"> gemütlich essen, geniessen, Id. V, 810.</note>, wie wol es thür verbotten, das niemands si inzüche und beherberge. So wirtt deß verbotts wenig geachtet und zeigt dise ­toüf­fer uffwigler sonst nieman an.</p>
+<p>Witter söllend schantdliche schampere reden in der kilchen von jüngligen uff der bar kilchen<note type="editorial"> bar kilchen: Empore, Id. IV, 1508.</note> und auch sonst uff der allmänd geschächen sin, die nitt wol zedulden, dorumb dan der pfarrer und eegaumer uß tragendem ampt billich söllend und könnend bericht gäben. Sind gebüsßt und mit ernst gehandhabet worden<note type="critical"><q>Sind gebüsßt … worden</q> am Rand mit geschweifter Klammer (gemeinsame Marginalie mit dem nächsten Abschnitt).</note>.</p>
+<p rend="margin-top"><placeName ref="LOC_47.30147_8.45094">Hedingen</placeName></p>
+<p>Da söllend knaben in aller predig umb die blatten gschoßen<note type="editorial"> Spiel, bei dem mit flachen Steinen auf ein Ziel geworfen wird, Id. V, 190.</note> haben und nit zekilchen gangen sin, von demm exempel andere jugend anlaß möchtind nämmen, auch nitt zů ghorsammen. Sind gebüsßt und mit ernst gehandhabet worden<note type="critical">Wie vorherige Anmerkung (gemeinsame Marginalie mit dem vorausgehenden Abschnitt).</note>.</p>
+<p rend="margin-top"><placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName></p>
+<p>Es sizt in der pfarr Ottenbach imm dörffli <placeName ref="LOC_47.26197_8.41588">Oberluneren</placeName> ein wider­toüf­fer mitt nammen <persName ref="Kreier, Kleinjaggli">Klinjagli Krayer</persName>, der ist wunderbars<note type="editorial"> sonderbar, merkwürdig, Id. XVI, 628.</note> kopfs. Er hatt bimm <persName ref="Gut, Melchior">Melcher Gůtt</persName> ersthlich dienet, hernach sin dochter zůr ee genommen. Als si gestorben, hatt er sich wider u. g. h. ordnung durch ein hußkauff gnoßamm<note type="editorial"> orstansässig, von den Einwohnern eines Gemeindebezirks, Id. IV, 822.</note> gemachet und ein touffer wib vomm Horger berg heim gfuͤrt, den gebürlichen kilchgang mitt iren nit thon. Sizt also in großer ergernuß, die vil anlaß gibt im anderen volck zů großer schand und unordnung. Er sech niemand an, offt gwarnet, aber er verachtets alles. Er flickt<note type="editorial"> sich einschleichen, Id. I, 1192.</note> sich heimlich in die hüser und macht wiber volck träffenlich<note type="editorial"> sehr, überaus, Id. XIV, 395.</note> verwirt. Unlangist hatt ein dienst magt zů Ottenbach hochzit ghan, die soll er gechlichen<note type="editorial"> plötzlich, unerwartet, Id. II, 103.</note> abbracht haben, das man si in kein kilchen meer bringen mag. Und so disem schalcken nitt der rigel gestoßen wirt, so wirt er vil wiber volck übel verfuͤren. Und sind vil lütt seer unwillig von der sachen wägen, die er in <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> unlangist abbracht, wie man inn ietzig hatt, die heißt mit nammen <persName ref="Lüssi, Magdalena">Madalen Lüßy</persName> und ist ein großer fel an denen, die inen wider u. g. h. mandat underschlouff gäbend. Dise person ist sidhar durch ernsthliche underhandlung bewegt<note type="critical">In der Vorlage: beweg</note>, das si die kilchen besůcht<note type="critical"><q>Dise person … besůcht</q> am Rand.</note>.</p>
+<p rend="margin-top">Gmeine klagen sind sonst, das die wirt witt in die nacht ein grob gwuͤl und unordnung wider u. g. h. mandat und der eegaumeren eid laßend mitt großer ergernuß für gon, wölches einfaltige und sonst verständige gůttherzige lütt übel betruͤbt.</p>
+<p>Demnach ist es ein besonderbarer mangel gmeinlich in gmeinden, das der sabath deß herren gottes so schmechlich mißbrucht wirt mitt merckten, duschen<note type="editorial"> (Tausch)handel treiben, Id. XIII, 1941.</note>, wůlen<note type="editorial"> hier i.S. von schlemmen, schwelgen, Id. XV, 1396.</note> und praßen, danzen, spilen, kremer gstell uffrichten und feilhaben, sachen tädinge<note type="editorial"> verhandeln, Id. XII, 443f.</note> und derglichen vil zelang zeerzellen, also das, wo nit ordnung beschicht, <pb n="3" facs="E_I_7_3__Nr__87__S__3_.tif"/> der sontag zů einem werchtag gar nach geratden wirtt, welches gwüßlich gott nit ungerochen<note type="editorial"> ungerächt, Grimm 14, 21f.</note> wirt laßen, so man nitt darvon abstan wirtt.</p>
+<p>Witter das mandat vomm uffkauff<note type="editorial"> Aufkauf für Lebensmittelspekulationen, Id. III, 166.</note> der früchten bin schüren, stözen<note type="editorial"> Abhang, Stütze, Pfosten, Id. XI, 1858.</note>, mülinen, uff den straßen und in ander wäg, ist so gmein worden, darwider one schüchen zethůn und zehandlen, das zů besorgen, es werde kumm meer zeweren sin, und ist aber ein hoche und herte straff druff gsezt, und so wir das mandat von der sach läsend, so werdend wir nun zum gspött darob.</p>
+<p>Andere vil sachen sind imm schwanck one schüchen, die von uns meer zebeweinen, dann zehoffen, das si mögind diser zitt abgeschaffet werden, diewil so vil glückhafftiger hoffertiger sünder sind, die mitt gwalt ir armm wäsen behoupten wöllend, das vil gůttherziger dorüber wol zebeklagen habend.</p>
+<p>Diß unser klag und anligen, frommer edler junckher vogt, bringend wir, die diener der kilchen deß capitels imm <placeName ref="LOC_47.2820935_8.3312904">Fryenampt</placeName>, u. e. v. und wißheitt für<note type="editorial"> vor</note> in hoffnung, ir werdind ein hoch bedäncken dorüber haben und nach mittel trachten, domitt dise prästen<note type="editorial"> Gebresten, Krankheit</note> gearznet mögind werden und also wir zů beiden theilen unsere gwüßnen vor gott und siner heiligen kilchen dester reiner mögind behalten. Was dann wir, die diener des worts, u. e. v. in allem gůtten könnend behulffen sin, so sol es an unser trüw nitt erwinden<note type="editorial"> fehlen, Id. XVI, 580f.</note>. Gott verliche sin gnad dorzů zů sinen eeren und der kilchen wolstand, amen.</p>
+<p rend="margin-top">U. e. v. und wißheitt gehorsamme und vertruwte</p>
+<p>diener deß capitels imm Fryenampt sampt und sonders</p>
+<pb n="4" facs="E_I_7_3__Nr__87__S__4_.tif"/>
+<p rend="margin-top">Demm frommen, edlen, eerenvesten, fürsichtigen und wisen junckher Heinrich Wellenberg, diser zitt u[nser] g[nedigen] h[erren] von Zürich in der herrschafft <placeName ref="LOC_47.22446_8.46262">Konow</placeName> obervogt, unserem insonders hoch eerenden, geliebten, früntdlichen junckher und vogt zů handen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

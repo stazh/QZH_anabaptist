@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_401</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354900">StAZH B II 204, S. 24-25 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Verfolgung von Täufern in der Landvogtei Grüningen und in Bülach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1583-09-21"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1583-09-21"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 287</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Vogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> schryben, den <persName ref="Kriesi, Jörg">Kriessj</persName> und synen mitthafften<note type="editorial"> Mithaftender, Mithelfer, Id. II, 1057.</note>, so die dryg ­toüf­fer durch verwarloßung entlouffen laßen, ufzůleggen<note type="editorial"> auferlegen</note>, sy jnn drygen wuchen widerumb jnn gfengknuß zestellen. Wo nit, er gwalt haben, sy nach jrem verdiennen zestraffen.</p>
+<p>Desglychen wo er witers erfaren mag, das die ­toüf­fer zůsammen kommen, er ordnung geben, sy byfachet<note type="editorial"> gefangen nehmen, verhaften, Id. I, 857.</note> und jm zůgefuͤrt werdint, und er dann gwalt habe, gegen jeden nach gstaltsame der sachen mit straff an gelt oder gfangenschafft zůr gehorsame zehalten, die, so sy beherbergent, nach luth der mandathen zestraffen.</p>
+<p>Die zwen zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>, so nit zů kilchen gaan wellend, söllend ouch alher<note type="critical">Folgt gestrichen: bewart</note> gschickt werden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter den Datum <q>Sambstags, den 21ten septembris p[raese]nt[ibus] herr Kamblj unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

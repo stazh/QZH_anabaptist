@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_373</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355058">StAZH B IV 41, fol. 42v-43v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Fridolin Hässi</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1581-11-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-11-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 259</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern fründtlichen geneigten willen und alles gůts zůvor. Gestrenger, vester, besonders getrüwer, lieber landtvogt, unns langt gloublich an<note type="editorial"> anlangen: zugetragen werden, als Kunde zukommen, Id. III, 1330.</note>, nachdem etliche personen uß dem <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName> jnn das land <placeName ref="LOC_49.5_17">Meerheren</placeName> der ­toüf­ferischen sect halber die zythar gezogen und etlich zytlich hab und gůt der enden hinderlasßen, sygist du, ouch schultheiß und rath zů <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName> zůgefaren<note type="editorial"> zugreifen, rücksichtslos nach amtlicher Vorschrift verfahren, Id. I, 901.</note>, dasselbig, als gegen üch gerichts zwang und tragenden ampts halber verwürckt und heimgefallen, arrestieren <nswk/> und verbieten lasßen, ouch du durch dinen undervogt<note type="critical">Folgt gestrichen: albereit</note> darvon schon ein hundert guldin jnzůziechen understanden<note type="critical"><q>ouch du durch … understanden</q> am Rand mit Verweiszeichen</note>. Diewyl und aber uns jnn ernemptem Kellerampt undwidersprechenlich die hoch oberkeit zůstendig und diß ein sach, so derselbigen anhengig und zůgehörig jst, hetten wir uns versehen<note type="editorial"> erwarten, annehmen, Id. VII, 567.</note>, weder du noch sy von Bremgarten üch disers gůts bezüchung nützit beladen noch angemasßet, gelangt derhalben unnsers fründtlichs begeren an dich (wie dann wir obgesagte von Bremgarten durch schryben<note type="critical">Folgt gestrichen: glychsfals</note> glycher gstalten ersůchend), wover jre diß fals etwas ansprach<note type="editorial"> rechtlicher Anspruch, Id. X, 722.</note>, jr wllind derselbigen fründtlichen abstaan und unsern vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> sollicher ußträttnen ungehorsammen ­toüf­feren hab und gůt, als das uns uß krafft der enden zůdiennenden hocher herrlig- und oberkeit gebürt, uß dem verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> bezüchen und darmit zů unsern handen verfaren lasßen. Wie wir uns zů üch uff disern unnsern bericht nebent der billigkeit<note type="critical"><q>nebent der billigkeit</q> am Rand mit Verweiszeichen</note> eines söllichen unverweigerlich versehen thůnd, das stadt uns zůerwideren und umb dich fründtlichen zu beschulden und begerend hierüber by diserm unserm allein derowegen ußgesandtem botten einer antwort.</p>
+<p>Sonster<note type="critical"><q>Sonster</q> am Rand, in der Zeile gestrichen: darnebent</note> habent wir jnn dinem jüngsten schryben nebent andern<note type="critical">Folgt gestrichen: dir zůgeschriben und</note> von dir uns widerantwortlichen puncten die ursachen, warumb du Heinj<note type="critical">Folgt gestrichen: Rut</note> <persName ref="Rütsche, Heini">Rütschen</persName><note type="critical">korrigiert, ursprünglich: Kütschen (Lesung unsicher)</note> von <placeName ref="LOC_47.37984_8.42242">Oberurdorff</placeName> hab und gůt zůhanden der acht orten bezüchen wilt, angehört und darby ouch verstanden, das du uff unsers an dich geschechen fürschryben syn (Rütschen) eefrouwen und schwösterlj dermasßen bscheidenlich zehalten urbietig<note type="editorial"> bereit, Id. IV, 1881.</note>, das sy deß gůts nit allerdings beroubt syn, deß wir uns von den jren wegen, gegen dir fründtlichen bedanckend und<note type="critical">Folgt gestrichen: dir</note> zů allem gůtem und fründtlichen willen<note type="critical">Folgt gestrichen: geüz</note> geneigt sind, hieby<note type="critical">korrigiert, ursprünglich: d[…]</note> göttlichem schirm bevelchende. Datum 1ten novembris anno etc. 81.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem gestrengen, vesten, unserm besonders getrüwen, lieben landtvogt zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> jm ergöw, Fridljn Häßj, riter und deß raths zů <placeName ref="LOC_47.04057_9.06804">Glaruß</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

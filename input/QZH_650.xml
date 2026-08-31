@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_650</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3736723">StAZH E I 2.2, Nr. 28</idno>
+          </msIdentifier>
+          <head>Synodalverhandlungen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1600-10-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1600-10-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 536</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Uß dem synodo, so gehalten worden zinstags nach Gallj anno 1600, hatt man für myn gnedig herren gewißen.</p>
+<p>[…]<note type="editorial"> Im Folgenden ist nur der Abschnitt, der die Täufer betrifft, wiedergegeben.</note></p>
+<p>Die herren predicanten deß <placeName ref="LOC_47.47812_8.42878">Regensperger</placeName> capitels habent einem ehrsammen synodo fürgebracht, wie die niderlendischen<note type="editorial"> aus einem tiefer gelegenen Land stammend (vgl. Id. III, 1303), hier: mährischen.</note> widerthaüffer jnn jrem capitel hin und wider schweiffind, jnnsonderheit gen <placeName ref="LOC_47.4931_8.49879">Niderglatt</placeName> vil jren wandel habint. Alda der wirt jnen ein eigne kammer jngegeben unnd sy unfenthalte<note type="editorial"> Unterkunft geben, beherbergen, Id. II, 1231.</note>, da sy dann jr gifft hin unnd wider ußgießiend und die lüth zůverfuͤren understanndint. Unnd als man kurtzlich zwen diser frömbden taüfferen zů Niderglatt erfaren unnd das dem undervogt und weibel anzeigt unnd klagt<note type="critical">Folgt gestrichen: worden</note> unnd daruf dieselben zwen taüfer gfengklich angenommen unnd alhar jnn die statt dem obervogt jm <placeName ref="LOC_47.502561593977106_8.499244491889575">Nüwenampt</placeName> zůgefuͤrt worden, habe er, der obervogt, uff jr fürgeben<note type="editorial"> weis machen, Id, II, 90.</note> sy widerumb ledig unnd gahn laßen. Unnd wiewol dise beid nit ­toüf­fer syn wöllen unnd man auch fürgeben, das sy nit ­toüf­fer sygind, so habe man doch erfaren, das es rechte taüffer sygind, wie sy dann den nechsten von hinnen widerumb jnns ampt abhin khommen und noch etlich tag da unden beliben sygen. Unnd als durch disere lediglaßung sy unnd anndere nit wenig gesterckt worden unnd wo man diserm gsind nit wehren unnd anderst begegnen sölte, zůbesorgen, disere sect der enden vast<note type="editorial"> fest, stark</note> jnbrächen wurde.</p>
+<p>Darnebent so jst auch bericht geben worden, das <persName ref="Peter, Ruedi">Ruͤdj Peter</persName>, der müller zů <placeName ref="LOC_47.49927_8.796">Reterschen</placeName><note type="editorial"> Räterschen</note>, jnn der grafschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName>, der mit der taüfferischen sect behafftet, die ­toüf­fer ufenthalte und auch taüffer mache. Louffe vilmaln mit etlichen personen synen anhengeren zů den taüfferen jnns <placeName ref="LOC_47.33663_8.94127">Vischental</placeName> hinderhin, wie man jnne dann etlich sambßtag einannderen nach allwegen mit volck offentlich dahin gsehen gahn. Syge ein unghorsamer halsstarrer man, der synem pfarrer herrn <persName ref="Hartmann, Abraham">Abraham Hartman</persName> vil zeschaffen gebe.</p>
+<p>Diewyl nun nebent diserm auch die übrigen capitel uff myner herren landtschafft angezeigt, das die schedlich taüfferisch sect auch anderschwo uff der landtschafft nur jmmerdar jnryßen und zůnemmen wölle unnd diß ein gmeine klag, so hatt ein ehrsammer synodus nit underlaßen khönnen, das alles an myn gnedig herren umb gebürend jnsehen<note type="editorial"> Vorkehrung, Id. VII, 563.</note> gelangen zelaßen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

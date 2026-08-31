@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_269</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695100">StAZH E I 7.2, Nr. 118</idno>
+          </msIdentifier>
+          <head>Hans Wilpert Zoller an den Bürgermeister von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1568-08-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1568-08-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 155</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__118__S__1_.tif"/>
+<p>Innsonders günstiger lieber herr burgermeister. Uff üwer befelch hin schick ich üch disen gefanngnen touffer zů,  wellicher bi <persName ref="Stocker, Melcher">Melcher Stockers</persName> sun, der ouch jn miner g[nedigen] herren gefennknus lit, gedient und jnn dahin bracht und andre dahin zu bringen nit fyrt<note type="editorial"> fürchtet</note> <note type="critical"><q>und andere dahin zu bringen nit fyrt</q> am Rand mit Verweiszeichen</note>, wellicher, als ich von den heren predikanten bericht, die ettwan jn sinem hus mit jme geredt, gar ein hartneckiger böser lecker<note type="editorial"> durchtriebener Mensch, Id. III, 1246f.</note> ist, kann weder schriben nach lesen, vil spitzlen redt gantz lichtfärtig von denen, die jn verschinem<note type="critical"><q>verschinem</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: sinem</note> sterben todes verscheidens sind und nach täglich sterbend, sam<note type="editorial"> als ob, Id. VII, 902f.</note> si all verloren und nit zů gnaden khomen werden etc. Es hatt auch gedachter Stocker offentlich geredt, er wüße wol, were er gestorben, ee und er die touffery angenomen, wüße er wol verdamt sin. Sömliche und andre böse gründ jn jnnen stecken, die dan bi einfaltigen lüthen, under di si sich vil thund, vil ergernuß bringennd. Das wellind min g[nedig] heren berychten und mit jnne üwers gefallenns hanndlen, üch gott befelchennde. Dattum uß Wedeschwil jn yl den 9. augst anno 68.</p>
+<p rend="margin-top">U[wer] diennstwilliger</p>
+<p>H. W. Zoller</p>
+<pb n="2" facs="E_I_7_2__Nr__118__S__2_.tif"/>
+<p rend="margin-top">Dem edlenn eerhennvestenn heren Bernharten von <persName ref="GND_143680382">Kham</persName>, burgermeister der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minem günstigen herren und fründtlichen lieben schwagern.</p>
+</div>
+    </body>
+  </text>
+</TEI>

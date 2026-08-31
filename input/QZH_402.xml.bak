@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_402</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355067">StAZH B IV 43, fol. 83v-84r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Holzhalb</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1583-09-21"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1583-09-21"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 288</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Ersammer, wyßer, besonnders getrüwer, lieber burger und vogt, was masßen unnser diener <persName ref="Kriesi, Jörg">Jeörge Krießj</persName> und syne zweygen zůgebne mitthafften über dinen ernstlich<note type="critical"><q>ernstlich</q> am Rand mit Verweiszeichen</note> empfangnen bevelch durch jr verwarloßung Hannß<note type="critical">korrigiert, ursprünglich: Hannßen</note> <persName ref="Schnyder, Hans">Schnyder</persName>, der schůmacher von <placeName ref="LOC_47.53414_8.56841">Rorbis</placeName>, jtem Hanß<note type="critical">korrigiert, ursprünglich: Hannßen</note> <persName ref="Streler, Hans">Sträler</persName> uffem <placeName ref="LOC_47.28405_8.91997">Haltperrg</placeName> und Růdolf<note type="critical">korrigiert, ursprünglich: Růdolfen</note> <persName ref="Gubelmann, Rudolf">Gubelman</persName> von <placeName ref="LOC_47.2875_8.85719">Hadlicken</placeName>, die wider­toüf­fer, entlouffen, darnebent das sy, die wider­toüf­fere, sich träffenlich<note type="editorial"> in starkem Mass, Id. XIV, 395.</note> meerind und erst jüngst wider by ein andern versamlet gweßen sygen, habent wir ussert dines schrybens<note type="critical">korrigiert, ursprünglich: schryben; folgt gestrichen: kůr</note> kůrtzen<note type="critical">Folgt gestrichen: by</note> jnhalt<note type="critical">Folgt gestrichen: bericht</note> vernommen. Unnd jst darüber uff din begeren bscheidts<note type="critical"><q>uff din begeren bscheidts</q> über der Zeile</note> unser<note type="critical">Folgt gestrichen: bevelch</note> meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> <note type="critical">Folgt gestrichen: und bevelch</note>, sidtmalen<note type="editorial"> weil, Id. IV, 277.</note> sy<note type="critical">Folgt gestrichen: die</note> dryg bestelte fuͤrer jrem bevelch (darumbe sy dann jr belonung zwyffels one) nitt nachgangen, sonnders den verwarloßet, solt du jnen anzeigen und uferleggen, das jr<note type="critical"><q>das jr</q> am Rand mit Verweiszeichen</note> jeder synen jme übergebnen ­toüf­fer<note type="critical">Folgt gestrichen: jnn drygen</note> jnn drygen wuchen den nechsten dir widerumb jnn gfangenschafft stelle<note type="critical">Folgt gestrichen: wo das aber</note> unnd hiemit jren begangnen fäler ersetzind. Wo aber das von einem ald<note type="editorial"> oder</note> dem andern under jnen<note type="critical">Folgt gestrichen: nit</note> jnn obbestimpter zyt nit beschicht und erstattet wirt, gebent wir dir alsdann gwalt<note type="critical">Folgt gestrichen: sy</note>, den, so synen<note type="critical">Folgt gestrichen: entru</note> entrungnen ­toüf­fer nit stellen khaan und mag, jnne umb söllicher übersehen nach dinem gůtbeduncken zestraffen, damit sy und andere hernach, was jnen<note type="critical">Folgt gestrichen: ußzerichten ange</note> anbevolchen wirt, dester flysßiger ußrichtind.</p>
+<p>Sovil dann der wider­toüf­feren fernere fürnemmende versamlungen belanget, sind jnen die uß vilen, dir selbs bewüßten ursachen dheins wegs zůzelasßen, sonders mit allem erntst<note type="critical"><q>erntst</q> am Rand, in der Zeile gestrichen: erst (mit Korrektur über der Zeile)</note> sovil jemer mügklich abzeschaffen und zefürkomenn. Ist deswegen unnser bevelch an dich, wo du die glegenheiten jrer versamlungen (daruf du dann din heimliche kündtschafft<note type="editorial"> Erkundung</note> zemachen wol können wirst) erfaren magst, dahin wellist volck<note type="critical">Folgt gestrichen: verordneten</note> verordnen<note type="critical">Folgt gestrichen: die</note>, durch die jr der verfuͤrischen ­toüf­ferischen sectern<note type="critical">korrigiert, ursprünglich secteren</note> zůsamen komende personen angegriffen<note type="critical"><q>angegriffen</q> über der Zeile, in der Zeile: angriffen</note> und dir bewart gfengklich zůgebracht werdint<note type="critical">Folgt gestrichen: gegen denen du mit verstrickung jrer lyb die du d[…]</note>, gegen denen du dann jnn alweg nach erhoüschender notturfft zehandlen wol wüßen und du von uns hiemit gwalt haben. So aber sy je nit zůbeträtten<note type="editorial"> antreffen, Id. XIV, 1486.</note> weren, möchtist du jnen die bewerbung<note type="editorial"> Nutzung, Id. XVI, 1135.</note> und niesßung<note type="editorial"> Nutzniessung</note> <note type="critical"><q>und niesßung</q> am Rand</note> jres hab und gůts verbieten lasßen, dann sy gmeinlich nebent jrem vermeindten<note type="critical">korrigiert, ursprünglich: gichtig (Lesung unsicher)</note> jrrsal gyhtig<note type="editorial"> geizig</note> und mit vorhaltung jres zytlichen gůts am fůglichisten<note type="critical"><q>an fůglichisten</q> am Rand mit Verweiszeichen</note> zum abstand zebringen sind. Wellicher sy ouch beherbergent und jnen<note type="critical"><q>jnen</q> über der Zeile</note> underschlouff gebent, denen wellist, so offt das beschicht, die jnn unsern mandathen bestimpten<note type="critical">Folgt gestrichen: b</note> zehen pfund bůß gestrax abnemen jnn hoffnung, durch diß mitel man sölliches verwirten<note type="critical"><q>verwirten</q> am Rand, in der Zeile gestrichen: unruͤwigen</note> gsindts etwellicher gstalt<note type="critical">Folgt gestrichen: abwenden</note> geruwiget<note type="editorial"> unschädlich machen, Id. VI, 1908.</note> <note type="critical"><q>geruwiget</q> am Rand</note>. Inn dem allem du mit flysß und erntst<note type="critical">Folgt gestrichen: handlen</note> nach unsernn zů dir tragenden vertruwen handlen, soll jnn gnaden gegen dir erkhennt werden. Datum den 21ten septembris anno etc. 83.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An vogt Holtzhalben zů Gruͤningen.<placeName ref="Grüningen"/></p>
+</div>
+    </body>
+  </text>
+</TEI>

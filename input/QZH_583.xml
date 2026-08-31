@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_583</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354949">StAZH B II 249, S. 18-19 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend das Gut des nach Mähren ausgewanderten Täufers Hans Weber aus Dübendorf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1594-08-14"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1594-08-14"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 469</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Myn herren wellent von <persName ref="Wäber, Hans">Hannßen Wäbers</persName> von <placeName ref="LOC_47.39052_8.61719">Duͤbendorff</placeName>, wellicher von der taüfferischen sect wegen jnn <placeName ref="LOC_49.5_17">Merrhern</placeName> gezogen, gůte für jr ansprach<note type="editorial"> Anspruch, Forderung, Id. X, 722.</note> der verwürckung 10 pfund<note type="critical">In der Vorlage: lb</note> zů gmeiner statt handen nemmen unnd das überig, deß noch 300 pfunde jst, synem brůder und schwager <persName ref="Wäber, Niklaus">Niclaußen Waͤber</persName> von Duͤbendorf und <persName ref="Meyer, Felix">Felix Meyern</persName> von <placeName ref="LOC_47.35316_8.72156">Uster</placeName> als nechsten verwandten und erben uß gnaden gevolgen laßen. Doch wyl man noch dhein<note type="editorial"> kein</note> gwüßen bericht hatt, ob Hanß Wäber gstorben sye, söllent genannte beid jrem anerbieten nach trostung<note type="editorial"> Bürgschaft</note> ald<note type="editorial"> oder</note> versicherung geben, das wo er noch jnn läben unnd das von nöten were, man das gůt, so sy empfangen, widerumb zefinden wüße.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mitwuchs, den 14ten augustj p[raese]nt[ibus] herr Großman und beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

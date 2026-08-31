@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_628</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355275">StAZH E I 7.3, Nr. 84</idno>
+          </msIdentifier>
+          <head>Das Ehegericht an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1598-10-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1598-10-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 514</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__84__S__1_.tif"/>
+<p>Frommen, edlen, vesten, fürsichtigen, eerßammen unnd wyßen, jnnsonders gönnstigen, gnedigen, lieben herren. E[uer] e[rsam] w[yßheit] hat uß harbj liggennden herren pfarrers zů <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> und <persName ref="Bluntschli, Johannes">dechan</persName> deß cappitels jm Frigen <placeName ref="LOC_47.2820935_8.3312904">Ampt</placeName> deßwegen gethanen beiden schryben<note type="editorial"> Nr. 510. </note> ableßende zůvernemmen, wellicher masßen ettliche widertöüfferische personnen nun jar und tag jnn der herrschafft Knonouw wonhafft.</p>
+<p>Unnd diewyl jnn jetztgedachten schryben über darjnnen vermelte personen unlydenliche sachen unnd daruß erwachßende ergernußen zufinnden, habennd wir herren obervogt<note type="editorial"> <persName ref="Rubli, Alexander">Alexander Rubli</persName></note> zu <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> zůschryben lasßen, gedachte personen durch oberkeittliches gepieten oder gefennklichen uff angesetzten tag alhar zůvermögen<note type="editorial"> hierher zu verschaffen, vgl. Id. IV, 111.</note>.</p>
+<p>Daruf genanndter herr obervogt unnß (als er anndere syner geschefften alhie gweßen) munndtlichen berichtet, was er von wolgenanndten e. e. w. den wider­töüf­fern jnn syner ampts verwaltung für bevelch, deßglychen das er uff unnser zuschryben angentz<note type="editorial"> sofort, Id. II, 19.</note> synen nachgesetzten unndervögten mit gepürendem ernnst angezeigt und bevolchen, gedachter schryben jnnhalt zůverrichten, unnd darnebent sich so gnůgsamm enndtschuldigt und veranntwortt, das es (unnsers bedunnkens) an syn herren obervogts gůtem willen unnd flyß jnn dißerm fal nit ermannglet. <pb n="2" facs="E_I_7_3__Nr__84__S__2_.tif"/> Sittmalen<note type="editorial"> da, weil, Id. IV, 147.</note> aber vermelte personen biß anhero zů christenlicher pflicht nach nit gebracht, habend wir hochgedachte e. w. deßen hiemit unnderthennigklichen berichten wellen. Actum donnstags denn 26ten wynmonnats a[nn]o 1598.</p>
+<p rend="margin-top">E. e. wt. unnderthennige</p>
+<p>burger und diener an eegricht</p>
+<pb n="3" facs="E_I_7_3__Nr__84__S__3_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

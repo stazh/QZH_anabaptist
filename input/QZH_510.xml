@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_510</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355083">StAZH B IV 48, fol. 9r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Heinrich Meyer von Knonau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1589-04-16"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-04-16"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 396</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willen unnd alles gůts zůvor. Frommer, vester, besonnders gethrüwer, lieber burger unnd vogt. Unnser lieber mittrath Hanß <persName ref="Escher, Hans Konrad">Cůnrath Escher</persName> hatt unns berichtet, was maßen er uff verrichtung deß jme unnd dir von wegen<note type="critical"><q>von wegen</q> am Rand mit Verweiszeichen.</note> der ­toüf­feren<note type="critical">Folgt gestrichen: halber</note> jnn dyner amptsverwaltung uferlegten bevelchs die sachen jr der ­toüf­feren halber beschaffen unnd gstaltet syn befunden. Unnd diewyl dann wir daruß verstanden, das etliche unnder jnen, den ­toüf­feren, jnn jrer hartnegkigkeit<note type="critical">Folgt gestrichen: unnd ungehorsamme</note> über alles warnen, straffen unnd ermannen beharrlich fürfarend unnd sich dheiner<note type="editorial"> keiner</note> gehorsamme nach vermög unnserer ußgangnen mandtahen begeben wellend, so khönnend wir von oberkeits und schuldiger pflicht wegen nit umbgahn, dann söllichen widerspenigen lüthen mitt etwas mehrem erntst zůbegegnen unnd zeweeren.</p>
+<p>Unnd jst deßhalb unnser meinung unnd bevelch an dich, du wellist uff sölliche unghorsammen, widerspennigen, ­toüf­ferischen<note type="critical"><q>­toüf­ferischen</q> am Rand</note> personen, dyne amptsangehörigen, die bißhar umb alles, so man gegen jnen<note type="critical">Folgt gestrichen: ver[…]cht</note> fürgenommen, nüt geben noch thůn wellen, dyn flyßige spech unnd khundtschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> machen, damitt, wo sy jnn dyner amptsverwaltung zůbetretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, gfengklich angenommen unnd unns zůgefuͤrt werdint, mithin du ouch unns derselben gefangnen gůts verzeichnuß überschicken<note type="critical"><q>Mithin du ouch unns derselben gefangnen gůts verzeichnuß überschicken</q> am Rand</note>, ferner gegen jnen nach gebür wüßen zehandlen. Welliche aber nit zůbetretten werend, über derselben hab unnd gůt solt du von unnser als oberkeit wegen die hand schlachen, dasselbig alles zů recht verbieten<note type="editorial"> beschlagnahmen, arrestieren, Id. IV, 1873f.</note> unnd beschryben laßen, volgents unns desselben verzeichnuß sampt bericht, wie eines jedern sachen wyb unnd kinnden halber und sontst beschaffen, zůschicken unnd unnsers wytern bscheidts unnd gfallens darüber erwarten. Wie wir dann dir verthruwend, du sölliches alles nach gebür wol ußzerichten wüßen, das stadt unns gegen dir jnn gnaden zůerkhennen. Datum den 16ten aprilis anno etc. 89.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, vesten, unnserm besonnders gethrüwen, lieben burger unnd vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> Hanns Heinrichen Meyer von Knonouw.</p>
+</div>
+    </body>
+  </text>
+</TEI>

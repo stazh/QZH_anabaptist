@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_636</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355101">StAZH B IV 57, fol. 330v-331r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Heinrich Clauser und Alexander Rubli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1599-07-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1599-07-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 522</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unßeren günstigen gneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, unns kombt gloublich für<note type="editorial"> fürkommen: zu Ohren kommen, kund werden, Id. III, 279.</note>, wie das<note type="critical">Folgt gestrichen: von den wider­toüf­feren jnn Merherrn</note> etliche personen, so der ­toüf­ferischen sect anhengig, hin unnd wider jnn dißeren landten umbhin schweiffend unnd von den wider­toüf­feren jnn <placeName ref="LOC_49.5_17">Merheren</placeName> als leerer derselben sect<note type="critical"><q>derselben sect</q> über der Zeile, in der Zeile gestrichen: unnd das volck zůvor</note> ußgesant, wie wir dann dero zween dißmals jnn unnßer gfangenschafft<note type="critical"><q>gfangenschafft</q> über der Zeile, in der Zeile gestrichen: verwarnung</note> habend. Da dann zůbesorgen, wo diserm übel<note type="critical"><q>diserm übel</q> über der Zeile, in der Zeile gestrichen: diß demselben</note> nit mit gůter fürsorg fürkommen<note type="editorial"> verhüten, abwenden, vorbeugen, Id. III, 278f.</note> <note type="critical">Folgt gestrichen: vil unrůw und übels darus entstohn möchte unnd</note>, derglychen verfürische lüth<note type="critical"><q>lüth</q> am Rand</note> sich jnn dyner ambtsverwaltung ouch ynlassen, die unßeren ufrürisch und unghorsam machen unnd<note type="critical"><q>die unßeren … unnd</q> am Rand mit Verweiszeichen</note> vil unrůw unnd ungemachs anrichten<note type="critical"><q>anrichten</q> über der Zeile, in der Zeile gestrichen: darus entstohn</note> möchten. Deßwegen<note type="critical">Folgt gestrichen: wir dich dessen hiemit berichten</note> jst unßer ernstlich bevelch unnd meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> an dich, du wellist dyn flyßige spech unnd kuntschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> machen unnd nit nun allein die jhenigen personen, so sich obgehörter gstalt des leerens und predigens erzelter ­toüf­ferischer sect underwindend<note type="editorial"> sich einlassen, Id. XVI, 570f.</note>, wo sy betreten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> werden mögend, zů unßeren handen<note type="critical"><q>zů unßeren handen</q> am Rand mit Verweiszeichen</note> gfengklichen annemmen lassen, sonder ouch alle die, so jnnen underschlouff, platz und herberg gebend, jren predigen zůhörend unnd sonst jnn einen unnd den anderen weg jnn söllichem fhal wider unßere ußgangnen, christenlichen, loblichen satzungen und mandat handlend, nach jnnhalt unnd vermög derselben büssen und strafen und daran niemants verschonen, damit<note type="critical">Folgt gestrichen: hie besor</note> hierus besorgend unheil und schädliche nachfolg unnd wytloüffigkeit abgeschafft unnd vermiten blyben möge, wie wir wüssend, du an dynem flyß und ernst nützit<note type="critical">Folgt gestrichen: ver</note> ermanglen lassen wirst, das sind wir gegen dir mit günstigem willen zůerkhennen gneigt. Datum den 25ten julij anno etc. 99.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wyßen, unßerm besonders gethrüwen, lieben burger und vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> Hanns Heinrichen Claußer.</p>
+<p rend="margin-top"><placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>: Frommen, vesten [etc.].<note type="editorial"> Empfänger war Alexander Rubli</note></p>
+</div>
+    </body>
+  </text>
+</TEI>

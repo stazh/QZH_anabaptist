@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_381</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696643">StAZH E I 7.2, Nr. 155</idno>
+          </msIdentifier>
+          <head>Inventar von Hans Brunner</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-11">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-11">ca.</origDate>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 267</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__155__S__1_.tif"/>
+<p>Hanns Brunner von <placeName ref="LOC_47.35385_8.38375">Niderbergken</placeName><note type="editorial"> Berikon</note> ist ungefaar achtzechen jar allt und umb Jo[hannis] bapt[ist]e<note type="editorial"> 24. Juni</note> nechstverschinnen<note type="editorial"> kürzlich, Id. IV, 636.</note> hinab jnn dz lannd <placeName ref="LOC_49.5_17">Merheren</placeName> gezogen. Er hatt by leben ein brůder, heißt Heinj, und ein schwöster, genannt Margrett. Die alle drü hannd gůtt, wie hienach geschriben stad.</p>
+<p rend="margin-top">Jtem eygen unnd erb uff dem hoff <placeName ref="LOC_47.32335_8.44119">Yflisperg</placeName><note type="editorial"> Islisberg</note> jnn dem <placeName ref="LOC_47.31768368701712_8.401017170545497">Kelleramptt</placeName> gelegen, 900 g[ulden], zallt alle jar uff faßnacht an zinß 60 g[ulden].</p>
+<p>Jtem uff <persName ref="Brunner, Jakob">Jacoben Brunnern</persName> zů <placeName ref="LOC_47.23819_8.36609">Walleschwyl</placeName><note type="editorial"> Wallenschwil</note>, nechst ob <placeName ref="LOC_47.27128_8.33954">Murj</placeName> gelegen, 100 g[ulden].</p>
+<p>Jtem uff unndervogt <persName ref="Brunner, Kaspar">Casparn Brunnern</persName> zů <placeName ref="LOC_47.35385_8.38375">Niderbergken</placeName><note type="editorial"> Berikon</note> 100 g[ulden].</p>
+<p>Jtem die <persName ref="Füglistaler, N.">Füglistalen</persName> zů <placeName ref="LOC_47.24435_8.53664">Husen</placeName><note type="editorial"> Hausen, Weiler bei Bellikon, Landgrafschaft Baden</note> jm <placeName ref="LOC_47.31768368701712_8.401017170545497">Kelleramptte</placeName> 50 g[ulden].</p>
+<p>Jtem der <persName ref="Bräm, N">Bräm</persName> zů <placeName ref="LOC_47.31279_8.34488">Bäsenbüren</placeName><note type="editorial"> Besenbüren, Dorf in den Freien Ämtern, die von sechs eidgenössischen Orten gemeinsam regiert wurden.</note> sol<note type="editorial"> ist schuldig, Id. VII, 771.</note> 23 kronen.</p>
+<p>Jtem der <persName ref="Schmid (von Rüti)">Schmid</persName> zů <placeName ref="LOC_47.38998_8.25828">Rüthj</placeName><note type="editorial"> Rüti, Weiler der Gemeinde Hägglingen</note>, nechst bj Hägglingen jnn Freyen <placeName ref="LOC_47.2820935_8.3312904">Empteren</placeName> deß Ergöws glegenn, sol<note type="editorial"> ist schuldig, Id. VII, 771.</note> 24 kronen.</p>
+<p>Jtem der <persName ref="Lüthi, Hansli">Hanßli Lüthi</persName> zů <placeName ref="LOC_47.37005_8.35807">Wyden</placeName><note type="editorial"> Widen, Landgrafschaft Baden</note> jnn der Graffschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> 26 kronen.</p>
+<pb n="2" facs="E_I_7_2__Nr__155__S__2_.tif"/>
+<p>Jtem <persName ref="Meyer, Walti">Wellti Meyer</persName> zů <placeName ref="LOC_47.34361_8.48301">Sellenbüren</placeName> jnn Zürichpyet sol 50 g[ulden].</p>
+<p>Jtem <persName ref="Grad, Klaus">Claus Graad</persName> zů <placeName ref="LOC_47.35385_8.38375">Oberbergken</placeName><note type="editorial"> Berikon</note> 36 g[ulden].</p>
+<p>Jtem <persName ref="Bäliger, Ůli">Ůli Bälliger</persName> daselbst 20 kronen.</p>
+<p>Jtem <persName ref="Gehrig, Michel">Michel Geerig</persName> daselbst 26 kronen.</p>
+<p>Jtem <persName ref="Gehrig, Junghans">Junghanß Gerig</persName> von Niderbergken 100 g[ulden].</p>
+<p>Jtem der <persName ref="Heitensperger (von Rudolfstetten)">Heytensperger</persName> zů <placeName ref="LOC_47.37101_8.38083">Růdistetten</placeName><note type="editorial"> Rudolfstetten, Landgrafschaft Baden</note> 50 g[ulden].</p>
+<p>Jtem der <persName ref="Hug, Junghans">Junghans Hug</persName> daselbst 100 g[ulden].</p>
+<p>Jtem die <persName ref="Hindermann, N.">Hindermannen</persName> zů <placeName ref="LOC_47.42008_8.43033">Wynigen</placeName><note type="editorial"> Weiningen</note> jnn Zürichpyet 100 g[ulden].</p>
+<p>Unnd zů lettst noch zwen tauwen<note type="editorial"> Landmass, Id. XVI, 33.</note> räben zů <placeName ref="LOC_47.33713_8.39518">Oberwyl</placeName>.</p>
+<p>Das gůt alles gehört jnn drey theil dem Hanß Brunner, so hinweg jst, und sinem brůder Heinj und der schwöster Margreta, wie obstad.</p>
+<p rend="margin-top">Suma: 1824 g[ulden], 2 tauwen räben.</p>
+<p rend="margin-top">Dargegen sind si ouch biderben<note type="editorial"> ehrenwert, Id. XIII, 1412.</note> lüthen schulldig ungefar uff die 100 g[ulden].</p>
+<p rend="margin-top"><persName ref="GND_1069603171">Stattschriber Schodoler</persName> ze <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName></p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Vgl. Nr. 270.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

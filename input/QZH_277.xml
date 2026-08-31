@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_277</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355338">StAZH E II 1, S. 598; StAZH, E I 2.2, Nr. 4</idno>
+          </msIdentifier>
+          <head>Berichte betreffend Täufer und Anweisung zur Anzeige beim Unterschreiber</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1569-05-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1569-05-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 163</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der toͤuffern habend sich erklagt alle capittel. Da angesaͤhen, daß ein yeder die sinen soͤlle mitt namen angaͤben dem h[errn] underschryber. Der sol sy verzeichnen und alle sach an unser gnaͤdig herren langen, uff das mitt allem ernst darinn gehandlet werde, uff das kein groͤsser übel volge etc.</p>
+        <p rend="margin-top">[Bericht an den Rat von Zürich]:<note>Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3733964">StAZH E I 2.2, Nr. 4</ref></bibl>.</note></p>
+<p>[…] Volgende ­toüf­fer söllend jnn üwer myner herren grichten und gebieten enthalten<note type="editorial"> sich aufhalten</note> und darjnne mit großem nachteil und vorhaben andere frome lüth zů jrer sect zebringen und von der besůchung der predigen luth üwer (myner herren) christenlichen satzungen abtrünnig zemachen.</p>
+<p>Deß ersten wirt angezeigt, das <persName ref="Hedinger, Hans">Hans Hedinger</persName> hin und wider jnn üwer (myner herren) statt und landtschafft, besonders jnn der graffschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> syn underschlouff und wandel habe. Item <persName ref="Gut, Andres">Andreß Gůt</persName> von <placeName ref="LOC_47.26217_8.41262">Lůneren</placeName><note type="editorial"> Lunnern</note> züche jetz als ein keßler jm land umbhin, damit man synen dester mynder achte. Item <persName ref="Schnewli, Heini">Heinj Schnewlj</persName> zů <placeName ref="LOC_47.28167_8.45023">Affholteren</placeName> welle nit ußem land. <persName ref="Müller, Thoman">Tomman Müllers</persName> zů <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName> frouw, so by 70 jaren ungfarr alt, soll by 20 jaren nie zů kilchen die predigen zehören gangen syn. Deß undervogts zů <placeName ref="LOC_47.33544_8.43302">Esch</placeName><note type="editorial"> Aesch</note> frouw wirt ouch für ein ­toüf­ferin geachtet. <persName ref="Hollenweg, Jakob">Jacob Hollenweg</persName>, genannt Simon zů <placeName ref="LOC_47.42068_8.41192">Gerotschwyl</placeName><note type="editorial"> Geroldswil</note> und der wannenmacher alhie jm <placeName ref="LOC_47.368945662841035_8.540299444207246">Kratz</placeName><note type="editorial"> Quartier des Stadt Zürich, zwischen Fraumünster und Zürichsee</note> söllend auch als ­toüf­fer jren wandel zůsammen haben. Diser Hollenweg hatt<note type="critical">Folgt gestrichen: uff</note> an einem sontag syn acher gschniten, da er es aber weters glegenheit halber wol hette underlassen mögen.<note type="critical">Folgt gestrichen: Der alt Mutzhaß soll auch an see uffhin wandlen und sich zů den toüffrn gsellen.</note></p>
+<p rend="margin-top">[Beilage]:</p>
+<p>Von <persName ref="Kuhn, Hans">Hanns Kůnen</persName> jm <placeName ref="LOC_47.486389_8.428611">Pflasterbach</placeName><note type="critical">Folgt gestrichen: js</note>, jst abermalen angezeigt, das er das wyb, so er zů ee genommen, noch nitt luth uwer (myner herren) satzung zů kilchen und strasßen gefuͤrt, sonders dieselbig ee allein jnn der ­toüf­fern versamlung bestetiget habe.</p>
+<p>So beharre <persName ref="Bräm, Fridli">Fridlj Brem</persName> von <placeName ref="LOC_47.49041_8.43694">Sünnicken</placeName><note type="editorial"> Sünikon</note> und <persName ref="Ruman, Peter">Peter Růmma</persName> von <placeName ref="LOC_47.50369_8.41911">Schöfflistorff</placeName><note type="editorial"> Schöfflisdorf</note>, unangesehen das man sy gwarnet, jnn jrer ­toüf­ferischen sect.</p>
+<p>Item <persName ref="Schnetzler, Annli">Andlj Schnetzlerin</persName> zů <placeName ref="LOC_47.47845_8.52403">Oberglatt</placeName><bm id="107"/> syge ouch ein ­toüf­ferin, welle sich nit darvon abreden lassen.</p>
+<p>Unnd sygend diese personnen zů <placeName ref="LOC_47.54091_8.47376">Windlech</placeName><note type="editorial"> Windlach</note> ouch den ­toüf­fern anhengig, namlich<note type="critical"><q>namlich</q> über der Zeile</note> <persName ref="Herzog, Heini">Heinj Hertzogen</persName> frouw, so <persName ref="Bräm, Jakob">Jacob Bremen</persName> tochter.</p>
+<p><persName ref="Herzog, Dorli">Dorlj Hertzog</persName>, Heini Hertzogen schwöster. Mer syn schwöster <persName ref="Herzog, Verena">Vrena Hertzogin</persName>.</p>
+<p><persName ref="Schmid, Jakob">Jacob Schmidts</persName><note type="critical">Folgt gestrichen: zů</note> eefrouw, <persName ref="Falw Hans">so Falbhansen</persName> schwöster jst.</p>
+<p>Und zů letst enthalte sich einer, so Reß von <persName ref="Res (von Hagenbuch).">Hagenbůch</persName> und synes handtwerchs ein glasser genempt wirt, zů <placeName ref="LOC_47.52726_8.79806">Wißendangen</placeName> und der enden, dem von der ­toüf­ferig die landtgraffschafft <placeName ref="LOC_47.5562_9.07686">Turgöw</placeName> verbotten, wolt gern mit syner leer unrůwen machen.</p>
+<p rend="margin-top">[Darunter die Notiz]: Unnd wiewol von etlichen söllichen ­toüf­fern wegen den vögten etwa gschriben worden, sy fengklichen anzůnemmen,<note type="critical">Folgt gestrichen: werden</note> könnend sy sich doch dermassen one ofne […]<note type="critical">Lesung unklar; <q>one ofne […]</q> über der Zeile, in der Zeile eine Wortstreichung.</note> schicken, das sy nit zů ergriffen sind.<note type="critical">Folgt gestrichen: de</note> Und so aber sölliche lüth mit jrer leer gantz schedlich und uff ungehorsame gegen der oberkeit stifftend<note type="critical">Folgt gestrichen: jst so</note>, sind sölliche personen darumb angezeigt worden, damit jr (myn herren) erntstlichs jnsehens<note type="editorial"> Vorsorge (treffen), Id. VII, 562f.</note> zethůnd wüßind<note type="critical">Folgt gestrichen: deß</note>. Den vögten schryben, dise personnen gfengklichen anzůnmmen. Umb das aber <persName ref="Müller, Thoman">Tomman Müllers</persName> frouw alt und dheinen jnzug noch wandel zůn ­toüf­fern hatt, soll man sy recht also blyben lassen und die vögt nochmalen fründtlichen mit jren reden.</p>
+<p rend="margin-top">Censura:</p>
+<p>[…]<note type="editorial"> Die ersten Traktanden betreffen andere Themen in den Pfarreien Stadel, Burg und Stein.</note></p>
+<p><placeName ref="LOC_47.49675_8.73417">Winterthurer</placeName> cappitel: <persName ref="Hedinger, Hans">Hanns Hedinger</persName> der ­toüf­fer wandlet jnn myner herren statt und landtschafft hin und wider, machet einfaltig gůt lüth vom  kilchgang abtrünnig. Steiner<note type="editorial"> Vermutlich <persName ref="Steiner, Wolfgang">Wolfgang Steiner</persName> </note> zeigt an, das er jnn nitt witer zů vertriben wuͤße, dann er die jehnigen, so jnn beherberigent, gstrafft. Soll an myn herren kommen, was gegen jm fürzůnemmen.</p>
+<p><placeName ref="LOC_47.47812_8.42878">Regensperger</placeName> cappitel: […]<note type="editorial"> Die ersten Traktanden betreffen die Sonntagsruhe und das Gemeindegut.</note> <persName ref="Gut, Andres">Andereß Gůt</persName>, der ­toüf­fer zů <placeName ref="LOC_47.26217_8.41262">Luneren</placeName>, beharret jn syner scet für und für, zücht jetzt als ein keßler hin und wider, will unserer herren mandathen mit dem kilchgang sich nit gehorsamen, soll auch an myn herren kommen. <persName ref="Kuhn, Hans">Hanns Kůn</persName> jm <placeName ref="LOC_47.486389_8.428611">Pflasterbach</placeName>, <persName ref="Bräm, Fridli">Fridlj Brem</persName> von <placeName ref="LOC_47.49041_8.43694">Sünnicken</placeName> und <persName ref="Ruman, Peter">Peter Růma</persName> von <placeName ref="LOC_47.50369_8.41911">Schöffelstorff</placeName> sind vorhin als ­toüf­fer, die sy noch sind, verklagt worden, aber nüdt gegen jnen mit gfangenschafft oder jnn ander weg fürgenommen.</p>
+<p><persName ref="Schnewli, Heini">Heinj Scheewlj</persName> jst ouch für und für jm land und blybt by sner ­toüf­ferischen seck. <persName ref="Müller, Thoman">Tomman Müllers</persName> zů <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName> frouw jst jnn die 20 jar nie zů klichgen gangen, by dan 70 jaren alt. Undervogts zů <placeName ref="LOC_47.33544_8.43302">Esch</placeName> frouw. <persName ref="Hollenweg, Jakob">Jacob Hollenwegs</persName> genannt Simon zů <placeName ref="LOC_47.42068_8.41192">Gerotschwyl</placeName><note type="editorial"> Geroldswil</note> hat an einem sonntag gschniten der wannenmacher und sy hand den wandel zsammen. <persName ref="Schnetzler, Annli">Andlj Schnetzlerin</persName> zů Oberglatt jst ouch ein ­toüf­ferin, will sich nit abreden lassen. Jacob Bremen tochter. <persName ref="Herzog, Heini">Heini Hertzogen</persName> zů Windly eefrouw. <persName ref="Herzog, Dorli">Dorlj Hertzog</persName>, Heinj Hertzogen schwöster, me syn <persName ref="Herzog, Verena">schwöster Verena</persName>. <persName ref="Schmid, Jakob">Jagli Schmidts</persName> zů <placeName ref="LOC_47.54091_8.47376">Windlach</placeName><note type="critical">In der Vorlage: Windlj; folgt gestrichen: seligen</note> eefrouw, alls zů Windlach <persName ref="Falw Hans">jst Falbhansen</persName> schwöster. Reß von <persName ref="Res (von Hagenbuch).">Hagenbůch</persName> der glasser enthalt sich zů Wisendangen und hin und wider, <placeName ref="LOC_47.5562_9.07686">Turgow</placeName> jst jm verbotten, wol gern mit syner leer unrůwen machen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

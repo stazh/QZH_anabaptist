@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_669</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354976">StAZH B II 278, fol. 4v (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Gesuch des Klaus Arter von Eberswil wegen Schulden bei seinen als Täufer nach Mähren ausgewanderten Brüdern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1601-07-29"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-07-29"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 555</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Arter, Klaus">Clous Arters</persName> von <placeName ref="LOC_47.22639_8.54962">Ebertschwyl</placeName><note type="editorial"> Ebertswil</note> begeren, das man jme die 300 g[ulden] (so er synen beiden brůderen, die jnn <placeName ref="LOC_49.5_17">Mehrherrn</placeName> sind, schuldig, bey dem ußkouff<note type="editorial"> Erbvertrag, Id. III, 165.</note> jres vätter- und muͤterlichen gůts und gedachte beide brůderen jme, Cloußen, disere 300 g. vermachet), bewilligen welle, jst jetzmaln biß uff deß vogts zů Kno[no]uw<note type="editorial"> Hans Heinrich von <persName ref="Wellenberg, Hans Heinrich von">Wellenberg</persName><bm id="267"/></note> wyteren bericht jngestelt, doch jme, Cloußen, anzeigt worden, das er umb diß gůt ein brief laße machen und dem vogt von <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> zůstelle. Und wann dann myn herren der sachen ein rechten bericht haben, werden sy nach jrem gfallen handlen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mittwuchs, den 29ten julij p[raese]nt[ibu]s herr Großman und beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_338</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695183">StAZH E I 7.2, Nr. 138</idno>
+          </msIdentifier>
+          <head>Auszug aus dem Abschied der eidgenössischen Tagsatzung in Baden</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1577-06-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1577-06-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 224</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__138__S__1_.tif"/>
+<head type="Originalsprache">Uß dem abschied deß gehalltnen tags der jarrechung zů Baden<placeName ref="Baden"/> jnn Ergöuw, angefangen uff mentag den 17. dies junii anno 1577.</head> <p>Uff disem tag hatt herr schulltheiß von <persName ref="Müllinen, Beat Ludwig von">Müllinen</persName><note type="editorial"> Beat Ludwig von Mülinen (1521-1597), seit 1568 Schultheiss von Bern.</note> von <placeName ref="LOC_46.94809_7.44744">Bern</placeName> vor unns antzogen<note type="editorial"> erwähnen, anführen, Grimm 1, 528.</note>, demnach unnser alter landtvogt zů Baden gesterigs tags vor unns erschinnen und antzeigt, wie das er <persName ref="Müller (Täufer)">einem Müller</persName>, so ein widerthoüffer unnd jnn das Merhern landt getzogen, demnach widerumb hinuf kommen, etlich personen ufgwiglet, hinab gefuͤrt unnd sonderlich ein Vischer zů <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName><note type="editorial"> Birmenstorf (AG), in der Landgrafschaft Baden.</note>, der mitt syner hußfrowen und sechs kleiner kinden hinab zogen, 300 guldin mitt jm gnommen. Wie er nun hinab jnn das land kommen, hab man jm dieselbigen abgenommen und demnach jnn widerumb mitt wyb unnd kinden hinuf gschickt und das gůt daunden jm landt behallten. Unnd diewyl gemellter Müller sölliche lüth ufgewiglet, heimlich predigen gehept, dartzů etlich gůt jnn der grafschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName>, hab er<note type="editorial"> Gemeint ist der (alte?) Vogt von Baden.</note> zůhanden myner g[nädigen] h[erren], der eydgnoßen, verbieten laßen und daruf bscheidts begert, diewyl er achte, das er der ennden maleficisch<note type="editorial"> dem Hochgericht verfallen, Id. IV, 167.</note> gehallten, ob er söllich gůt nit unnseren herren und oberen verrechnen möge etc. Unnd diewyl er dann bericht und verstendiget worden, das dieser Müller nit jnn der grafschaft Baden seßhafft, sonder syner herren underthonnen gweßen syge, und dann syne herren und oberen jnn bruch unnd uͤbung, wann söllicher personen einer oder meer jnn dises landt ziechen wellen, die laße man wol verfaren<note type="editorial"> fortziehen, abreisen, Id. I, 898.</note> und hinziechen. Man setze aber dem gůt einen <pb n="2" facs="E_I_7_2__Nr__138__S__2_.tif"/> vogt (wie dann der ennden ouch beschechen), der söllich gůt jnzüche und den kinnden ufenthallte<note type="editorial"> zurückhalten (bis zur Volljährigkeit), aufbewahren, Id. II, 1230f.</note>. Derwegen er jnnammen syner herren unnd oberen, wir welten unns harjnn bedencken und erklären, ob wir sölliche lüth für maleficisch achten unnd hallten mitt dem begeren, diewyl gedachter Müller syner herren und oberen underthonen einer gweßen syge und synem gůt ein vogt gsetzt, wir welten söllich gůt gemeltem vogt verfolgen und werden laßen unnd unns harüber erklären, ob man sölliche lüth für maleficisch achten oder nit, unnd das jr gůt verfallen syn sölle, damitt sich syne herren unnd oberen wyter darnach zůhallten wüßen und harjnn jnn künfftigem zwüschent unnseren herren unnd oberen kein spann<note type="editorial"> Streit</note> erfolgen möchte etc. Unnd so nun wir gemellten schulltheiß von Müllinen jnn synem anbringen verstanden unnd aber wir darnebent verstendiget, das gedachter Müller, nachdem er erstlich syn hab und gůt, was er jnn unnser eydtgnoßen von <placeName ref="LOC_46.94809_7.44744">Bernbiet</placeName>, deßglychen jnn der grafschafft Baden, da er dann ouch ein zyt lang gewonet, gehept, verkoufft, jnn das landt hinab zogen, etlich lüth unnd syn schwöster mitt jm ufgwiglet und verfuͤrt, nachgents widerumb hinuff jnn trotten und annderen orthen predigen gehept, abermals etlich lüth verfuͤrt, da dann sy jr hab und gůt mitt jnen hinab genommen und dann mitt wyb unnd kinden widerumb hinuf als bättler kommen, dann sy jr gůt dahinden laßen muͤßen, zůdem das <persName ref="Müller (Täufer)">gedachter Müller</persName> gnůgsam gwarnet worden, das er nit mehr jnn die grafschafft Baden kommen, sonnder man zů synem lyb unnd gůt gryffen werde, <pb n="3" facs="E_I_7_2__Nr__138__S__3_.tif"/> welliches er nun alles verachtet, unnd aber wir, die botten, harumb kein bevelch, so haben wir sölliches jnn unnser abscheyd genommen, an unnser herren und oberen zůbringen. Unnd soll jeder bott uff nechstem tag har jnn zehandlen bevelch und gwallt haben.</p>
+<pb n="4" facs="E_I_7_2__Nr__138__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

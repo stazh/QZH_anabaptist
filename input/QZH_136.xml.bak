@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_136</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355135">StAZH B IV 9, fol. 95v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Cornel Schulthess</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Entwurf</filiation>
+              <filiation type="original"><origDate when="1538-04-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1538-04-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 22</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern frundtlichen, sunders geneygten willen unnd alles gůts zůvor. Frommer, vester, jnnsunders getrüwer, lieber burger, unnser lanndtvogt zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName>, <persName ref="GND_1075292034">Andres Schmid</persName>,<note type="critical">Folgt gestrichen: und deßglychen</note> zůsampt unnerem vogt uff <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName>, <persName ref="Steinbrüchel, Erhard">Erhardten Steynbrüchhel</persName>, werdent umb erhaltung willen gemeyns nutzes unnser aller anstosßender oberkeyt eynen handel der ­toüf­fern halb, so sich all sampßtag zenacht<note type="critical"><q>zenacht</q> über der Zeile</note> uff der undermarch ob <placeName ref="LOC_47.52494_8.36168">Schneysingen</placeName> jm holtz zů schädlicher verwirrung aller erbarer pollicyen<note type="editorial"> öffentliche Ordnung, vgl. <hl to="http://fwb-online.de/go/policei.s.1f_1709446281"><Hyperlink>http://fwb-online.de/go/policei.s.1f_1709446281</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> zůsamenn rotten sollen<note type="critical">Folgt gestrichen: an dich la</note>, von unnsert wegen an dich langen lasßen.<note type="editorial"> Vgl. die vorausgehenden zwei Nummern (das Schreiben an Erhard Steinbrüchel und das an Andreas Schmid)</note> Unnd diewyl wir dich dann geneygt wisßenn, alles das abzůstellen, das zu hynderung unnd zerrüttung<note type="critical"><q>unnd zerüttung</q> am Rand mit Verweiszeichen</note> gůts loblichen regiments dienen mag, so langet an dich unnser gar fründtlich begeren, du wellist jnen jnn allen trüwen nach dinem besten vermögen von ampts unnd oberkeyts wegen beraaten unnd beholffen sin unnd dich mit jnen underreden unnd eyn anschlag mitteynannder<note type="critical">Folgt gestrichen: machh</note> machen, damit sy byfanget unnd zů der oberkeyt, darunder sy beträtten werdent, handen fängklich bracht, ouch sollich schädlich rott unnd secte nidergedruckt unnd nach jrem verschulden lut deßhalb ußgangener mandaten unnd schwären verpotten gestraafft werden mögind. Daran thustu die billigkeyt unnd unns sunder<note type="editorial"> besonders</note> gefallen, umb dich jnn gnaden unnd gunst allzyt fründtlich zůerkennen. Uß <placeName ref="LOC_47.36667_8.55">Zurich</placeName>, zynßtags nach mittvasten anno etc. 1538.</p>
+<p rend="margin-top">Burgermeyster unnd rhat der statt Zurich</p>
+<p rend="margin-top">Dem frommen, vesten, unnserem jnnsunders getrüwen lieben<note type="critical"><q>lieben</q> über der Zeile</note> burger <persName ref="Schulthess, Cornel">Cornell Schultheyßnn</persName> vom Schopf, vogt zu <placeName ref="LOC_7.56767_8.41902">Keysertůl</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

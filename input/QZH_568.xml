@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_568</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355257">StAZH E I 7.3, Nr. 67</idno>
+          </msIdentifier>
+          <head>Verhaftung und Auslieferung von Augustin Gaßer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1592-02"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1592-02">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 454</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__67__S__4_.tif"/> Vogts von Steinegger bericht wägen Augustyn Gaßers von Niderstamheim<pb n="1" facs="E_I_7_3__Nr__67__S__1_.tif"/>
+<p>Demnach dann Augustyn Gaßer von <placeName ref="LOC_47.6418_8.79396">Niderstamheim</placeName><note type="editorial"> Unterstammheim</note> verschinner<note type="editorial"> vergangener</note> zyt zů mir kommen unnd anzeigt, wie dz er sich jnn <placeName ref="LOC_46.94809_7.44744">Bernbiet</placeName> hußhablich zesitzen willens unnd syn ereerpt hab unnd gůt dahin ziechen welte, unnd deß abzugs halb mit mir abkommen<note type="editorial"> übereinkommen, vergleichen, <hl to="http://fwb-online.de/go/abkommen.s.3vu_1668758462"><Hyperlink>http://fwb-online.de/go/abkommen.s.3vu_1668758462</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>. Domalen jch nit gwüßt, was religion oder gloubens er syge, unnd jnne deßhalb faren laßen. Dißer tagen aber er wider syner schulden halb gen Stamheim myner amptsverwaltung kommen unnd daßelbs jch erfaren, das er sich der ­toüf­feryg annäme unnd sich etwas verdechtlich tragen<note type="editorial"> auftreten, sich verhalten, betragen, Id. XIV, 460.</note>. Da nun e[uer] e[rsam] w[ysheit] satzung und mandath jch mich ersechen<note type="editorial"> Einsicht genommen, Id. VII, 564.</note>, so finden jch, das sölliche lüth, e. e. w. zůgeschickt werden söllen, hab jch schuldiger pflicht nach denselben hiemit verwarlich überantworten unnd hienäbent syn hab unnd gůt zů <placeName ref="LOC_47.64002_8.77932">Stamheim</placeName> jnn arrest leggen laßen söllen. Ob nun e. e. w., jnne mit synem hab und gůt faren laßen ald<note type="editorial"> oder</note> anders an die hannd zenemmen sich dieselben zehalten, wol wüßen werden.</p>
+<p rend="margin-top"><persName ref="Lavater, Bernhard">Bernhart Lafater</persName><note type="editorial"> Bernhard Lavater (1547-1599), seit 1588 Obervogt von Steinegg-Stammheim.</note>, vogt zů <placeName ref="LOC_47.52795_8.78209">Steinegk</placeName><note type="editorial"> Obervogtei Steinegg-Stammheim</note></p>
+<pb n="2" facs="E_I_7_3__Nr__67__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__67__S__3_.tif"/>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Aufschrift auf der Rückseite des Dokuments: Vogts von Steinegger bericht wägen Augustyn Gaßers von Niderstamheim</p>
+      </div>
+    </back>
+  </text>
+</TEI>

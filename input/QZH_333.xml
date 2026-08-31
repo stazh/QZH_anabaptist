@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_333</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355297">StAZH E II 1a, S. 675f.</idno>
+          </msIdentifier>
+          <head>Berichte der Dekane am Zürichsee sowie von Dürnten und Regensberg, betreffend Zunahme des Täufertums und mangelhafte Durchsetzung der Mandate</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1577-05-07"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1577-05-07"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 219</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Considerationes:</p>
+<p>Der decan am Zürichsee bracht für, daß ob schon unser gnedig herren ernstliche mandat wider die widertöuffer laßen ußgohn, werdint doch dieselben nitt volnstrekt. Innsonders habind sy im gricht <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName><note type="editorial"> Wädenswil</note> ir fryheit, also daß sy ire een under innen beziehind und one vorgangnen kilchgang by einanderen sizind wie hůren und bůben. Under denen benampset werden <persName ref="Bürgi, Jakob">Jacob Bürgj</persName> zů <placeName ref="LOC_47.21425_8.6469">Gißenrüten</placeName> und <persName ref="Hofmann, Rudolf">Růdolff Hofman</persName> zů <placeName ref="LOC_47.249850_8.633586">Nagliken</placeName>, der yezund die ander frauwen genommen und eintwädere<note type="editorial"> keine von beiden</note> zur kilchen gefuͤrt hatt etc. Darus volget, daß diewyl sy, die widertöuffer, keine bott<note type="editorial"> Gebote</note> von den ober- und undervögten oder eegoumeren<note type="editorial"> Vertreter der lokalen Sittenzucht, Id. II, 304.</note> annemmend und sölchs ungestraft hingaht, auch andere sich aller gehorsamme understond zůentschlahen, deßhalben mittler zit darus große unrůw und verwirrung volgen möchte.</p>
+<p>Glichs meldet auch der dechan von Dürten<note type="editorial"> Hartmann Hamberger</note> mitt wyterer anzeigung, daß der obervogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName><note type="editorial"> <persName ref="Brunner, Felix">Felix Brunner</persName></note> an der sach erlägen<note type="editorial"> über jemandes Kräfte gehen, Id. III, 1187.</note>, die weibel nüt ußrichtind, und besonders im <placeName ref="LOC_47.33663_8.94127">Fischental</placeName> die teüffer<note type="critical">Folgt gestrichen: ir</note> fürbrächind<note type="editorial"> hervorbrechen, aufkommen</note>. Da sich dann ein kläglicher fahl zůtragen mitt <persName ref="Wäber, Hans">Hans Wäbers</persName> frouwen, die, nach dem sy den teüffern nachgelauffen, in schwäre anfächtungen gefallen und schier verzwyflet etc.</p>
+<p>Decan im <placeName ref="LOC_47.47812_8.42878">Rägensperger</placeName> capitel<note type="editorial"> <persName ref="Suter, Konrad">Konrad Suter</persName></note> fůrt gliche klag und daß ettliche widerteüff[er]<note type="critical">Infolge Restaurierung (Papierstreifen) nicht lesbar</note>, so hinweg zogen, widerkommind und nistind<note type="editorial"> sich einnisten</note> etc.</p>
+<p>Dißes alles hatt man laßen an min gnedig herren langen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

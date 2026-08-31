@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_527</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354928">StAZH B II 228, S. 35 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Begnadigung von Hans und Heinrich Schnider aus Rorbas aufgrund ihrer Aufgabe des Täufertums</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1589-11-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-11-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 413</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Als <persName ref="Schnyder, Hans">Hannß</persName> und <persName ref="Schnyder, Heinrich">Heinrich</persName> die Schnydere, beid von <placeName ref="LOC_47.53414_8.56841">Rorbas</placeName>, so bißhar mitt der ­toüf­ferischen sect behafftet gsyn, vor einem ersammen rath sich persönlichen gestelt, jren feler selbs mundtlichen bekhendt, sich aller gehorsamme anerbotten unnd der gnaden begert, habent myn gnedig herren recht jetzmaln ein benuͤgen gehept unnd sy begnadet. Doch soll der vogt von Kyburg<note type="editorial"> Hans Ziegler</note> achtung und ufsehens jrenthalben haben lassen. Wenn sy sich nun wie andere gehorsamme underthonnen jnn allen gebürlichen sachen haltend, jsts mynen herren lieb. Wo nit, soll er glych zů jnen gryffen und die gfengklichen annemmen lassen, der gebür nach gegen jnen zehandlen.</p>
+<p>Denne die 200 pfund<note type="critical">In der Vorlage: lb</note> belangend, so vogt von <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> von gemelts Heinrichen wegen jnzenemmen: Er, Heinrich, aber (sidtmalen<note type="editorial"> da, weil, Id. IV, 147.</note> er jetzt von synem jrrthumb abgstanden) gebätten, jme dieselben gnedigklichen werden zelassen. Ist sölliches jngstelt, untz<note type="editorial"> bis</note> man sicht, wie er sich anlassen<note type="editorial"> sich verhalten, sich betragen, vgl. <hl to="http://fwb-online.de/go/anlassen.s.3vu_1709293614"><Hyperlink>http://fwb-online.de/go/anlassen.s.3vu_1709293614</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> und tragen<note type="editorial"> betragen</note>, dermals jme nüdt abgeschlagen syn.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschlüsse unter dem Datum <q>Mentags, den 17ten novembris p[raese]nt[ibus] herr Kamblj unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

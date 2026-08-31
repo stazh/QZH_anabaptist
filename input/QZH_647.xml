@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_647</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354967">StAZH B II 272, S. 43-44 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Verklagung des Ludwig Rüegg vor dem Herrschaftsgericht von Grüningen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1600-04-16"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1600-04-16"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 533</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Wann der vogt zu <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> von <persName ref="Wyss, Heinrich">schulmeyster Wysen</persName><note type="editorial"> Heinrich Wyss. Über ihn, der sich 1589 wegen seines täuferischen beziehungsweise schwenckfeldischen Glaubens vor Gericht verantworten musste, sind noch weitere Akten überliefert, etwa im Ratsmanual des Unterschreibers (StAZH, B II 286, S. 24: Am 17. August 1603 klagen der alte Schulmeister Wyss und seine Tochter über Schmähungen durch Verena Streulin, während letztere über Schmähungen durch Wyss’ Tochter klagt. Der Rat hebt die Schmähungen auf; Schulmeister Wyss hat sich wegen des Vorwurfs, dass er Verena Streulin 200 Gulden gestohlen haben soll, wohl verantwortet, seine Ehre ist demzufolge unbeschadet. Ebenso sollen die Töchter bei ihrer Ehre bleiben. Weil die beiden aber zu viel geredet haben, werden sie mit 20 Batzen gebüsst).</note> oder anndern <persName ref="Peter, Bartli">Bartlj Petters</persName> seligen wegen wider <persName ref="Rüegg, Ludwig">Ludwig Rüeggen</persName>, so jne mit strychen mißhandlet, umb recht angeruefft wirt, sol er jnnen desselben vor denn zwolff richtern ampts<note type="editorial"> Das Gericht der Zwölf, Herrschaftsgericht von Grüningen</note> ergon lasßen. Im vhal sich aber syn Petters s. niemandts welte beladen, als dan er, vogt, jme, Rüeggen, selbs vor den 12 beclagen unnd jrer rechtlichen ercandtnus darüber <nswk/> erwarten und alsdan<note type="critical">Lesung unsicher</note> nach gestalt der sachen gegen jnne, Rüeggen, mit straff handlen, deßen sol er nebst überschickung der konndtschafft verstendiget werden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mittwochs, den 16ten aprilis pr[aesentibus] herr Keller unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

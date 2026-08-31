@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_196</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3402506">StAZH A 8.1, Nr. 42</idno>
+          </msIdentifier>
+          <head>Das Ehegericht an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1556-08-13"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1556-08-13"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 82</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Fromm, vest, fürsichtig, ersam, wyß, jnnsonnders gnedig, günnstig herren. […]<note type="editorial"> Es folgt zuerst die Schilderung der Klage von Margreth Brunschwyler gegen Andres Frölich, der sie zu heiraten versprochen haben soll und geschwängert hat.</note></p>
+<p>So dann, gnedig günnstig herren, alls <persName ref="Clotter, Elsi">Elsi Clotter</persName> jm <placeName ref="LOC_47.368945662841035_8.540299444207246">Kratz</placeName> alhie sich (wie unns angelanngt<note type="editorial"> zugetragen werden, als Kunde zukommen, Id. III, 1330.</note>) der ­toüf­fery anhenngig gmacht haben söllt, haben wir die selb unnsern ampts pflichten naach für<note type="editorial"> vor</note> unns beschickt<note type="editorial"> kommen lassen, Id. VIII, 523.</note>, an jr so vil befunden: Wiewol sy zů den töufferschen versamlungen ganngen, das sy sich noch nit gar darin ergäben und dahin bracht, das sy sich ü[wer] e[rsam] w[yßhei]t cristennlichen gebotten, das sy zur kilchen gon, das wort gottes hören unnd sich ganntz unserm bevelch, wie wir sy vermannt, zůgehorsamen, urbütig<note type="editorial"> bereit, Id. IV, 1881.</note> gmacht. Unnd diewyl aber wir darneben von jr verstannden, das am Wädischwyler <placeName ref="LOC_47.22493_8.65207">berg</placeName> unnd daselbs umb die ­toüf­ferischen brůder, wie sy es gnempt, jre versamlungen haben, unnd nachts zesamen gon söllen. Aber sy unns die gegni<note type="editorial"> Gegend</note>, wo sy jrn zůganng haben oder wär die personnen syen, nit anzeigen noch jemanndts bekennen wellen. Und diewyl dann dem allem wol nachzefragen unnd zuverhuͤtung verers<note type="editorial"> ferneren, weiteren</note> jnbruchs<note type="editorial"> Eindringen (der täuferischen Lehre)</note> wol zůfürkomen, haben wir ü. e. wt. das, so wir funden, unangezeigt nit lassen können, ob die selb als ansächenlichere oberkeit by diser Cloteren den rächten unnd mer grunds, dann wir von jr erfaren könne, wo semlich winckel predigen<note type="editorial"> im Verborgenen und ohne Amt gehaltene Predigten</note> beschächen unnd wär dahin gannge, das wir unns, was die hanndlet, unnderthänigklich wellen lassen gfallen. Actum donnstags 13ten augustj anno etc. 56.</p>
+<p rend="margin-top">U. e. wt. unnderthänige</p>
+<p>burger unnd dienner am eegricht.</p>
+</div>
+    </body>
+  </text>
+</TEI>

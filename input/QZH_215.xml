@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_215</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355141">StAZH B VIII 101, fol. 73.</idno>
+          </msIdentifier>
+          <head>Tagsatzung der Dreizehn Orte in Baden</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1560-06-24"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1560-06-24"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 101</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>26.</p>
+<p><persName ref="Ab Yberg, Caspar">Unnser Lanndtvogt</persName> zu <placeName ref="LOC_47.46513_8.28964">Baden</placeName><note type="editorial"> Caspar Ab Yberg</note> hatt unns anzeigt, wie er verganngner zit ein widertöufferin by dry oder vier wochen jnn gefencknus gehept. Demnach hab sy geschworen, von jrer sect und glauben abzestan und fürthin sich christenlicher gehorsame erzeigen. Dem sy aber gantz nit statt gethan und, wie er bericht werde, jnn xxx jaren nie jnn kein kilchen kommen. Nun wyse unserer herren der viij ordten satzungen, dz welcher wider­toüf­fer oder töüfferin schwert, von jrem glouben abzestan, unnd denn widerumb darzu stat, die selbig person solle dann one alle wythere gerichtliche hanndlung dem nachrichter bevolhen werden, zeertrenncken etc. So sigend dann etliche, die vermeinen, man solte solche als verstockte lüth nit jm land dulden, sonder mit jrem hab unnd gut usß dem land verreisen. Do er unsers raths begert, wie er sich gegen solchen lüten halten solle, unnd so wir, die botten<note type="editorial"> eidgenössische Gesandte</note>, harumb kein bevelch, so soll jeder bott das an sine herrn pringen und uff nechstem tag<note type="editorial"> eidgenössische Tagsatzung, Id. XII, 796.</note> harumb bevelh und gwalt haben.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Dieser Text fehlt in QGTS 3.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

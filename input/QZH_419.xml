@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_419</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696711">StAZH E I 7.2, Nr. 176</idno>
+          </msIdentifier>
+          <head>Truchsess Christoph von Waldburg an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1584-10-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1584-10-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 305</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__176__S__1_.tif"/>
+<p>Christoph, des hail. röm. reichß erbtruchsäß, freyherr zue Waldpurg, herr zuer <placeName ref="LOC_48.08364_9.31703">Scheer</placeName> und <placeName ref="LOC_47.64171_10.12732">Trauchburg</placeName>, röm. khay. ma[jesta]tt etc., auch f[ü]rs[tlicher] d[urchlauc]ht ertzhertzog Ferdinands zue Össterreich etc. rath etc.</p>
+<p rend="margin-top">Unsern g[ünstigen?] grueß zuvor. Fromm, ernvest, fürsichtig, ersam unnd weiß, liebe besondern, unnß ist abermaln ewer fürbitlich schreiben wegen unserer geysell unnd bevorab <persName ref="Huser, Johannes">Hanß Husers</persName> unnd anderer ewer landtsässen, so sich under die verdampte abscheuchliche sect der widertauffer begeben wöllen, wol zugeantwort worden, dessen inhalts wir vermerkht, fuegen ouch euch darauf in antwort, g. zuvernemben, obwol wir euch g[nädig?] zuwillfahrn vorderst geneigt, so befinden wir doch in angereggtem ewerm schreiben, das die wider zurugg geschikhte mann und weibßpersonen sich gleichwol zuem mehrern thail, aber nit all, jrer verschreibung gemeß widerumb an die end, da sie vorhin gesessen, verfüegt, zue deme <pb n="2" facs="E_I_7_2__Nr__176__S__2_.tif"/> kann diß orts ewer irethalb fürgewendte entschuldigung (daß sie nit deß widerthäufferischen verlfluechten aberglaubens halb von hauß gezogen etc.) nit stat haben, dieweil des <persName ref="Keller, Wenesch">Jenisch Kolers</persName><note type="editorial"> Wenesch Keller (gest. 1593), hutterischer Prediger und Ältester in Mähren, untrernahm verschiedene Missionreisen.</note>, jres redlifüerers, schreiben, so ehr bey jnen in <placeName ref="LOC_49.5_17">Mährern</placeName> schicken wöllen, wie oben dißer zeyt jn originalis noch bey handen haben und vormals<note type="critical"><q>vormals</q> am Rand</note> euch darvon copias comuniciert (darinnen jr euch zue mehrerm bericht besser ersehen wöllen) außtruckhenlich vermag<note type="editorial"> besagen, Id. IV, 111.</note>, er schickh hiemit abermaln etliche brüeder, jtem waß jnen sambtlichen geforlichs begegnet etc. umb kürtze willen unß uf hievorige überschickhte copeien hiemit nochmaln referierendt. Über dz<note type="critical"><q>dz</q> über der Zeile</note> ist unverborgen, daß sie zue Ulm, ehe sie uf das wasser gesetzt, widergethaufft werden sollen. So ist auch einer under jnen, so hievor von diser sect abgefallen und sich (vermög Kolers schreiben) widerumb anjetzo darzuo wenden wöllen, so lasst jme auch der ältist under <pb n="3" facs="E_I_7_2__Nr__176__S__3_.tif"/> den geiseln jme solche sect (über alle angewendte christenliche warnungen) noch der tagen belieben. Zuem überfluoß ist auch meniglich<note type="editorial"> jedermann, Grimm 12, Sp. 1592f.</note> kundtpar, warumb sich järlich sovil personen nach Merhern begeben unnd waß jr jedes intentum unnd meynung der religion sey, so jr euch ohnzweifl für euch selbst zuberichten haben etc.</p>
+<p>Uß disen allen erzelten erhäblichen ursachen wüßen wir euch (wie gern wir gleichwol wolten) nit allerdings zuwillfahrn, doch da zu vernnerer handlung deßhalb geschritten, wöllen wir ewerer fürbitt (sovil unß von oberkhait wegen gebüren will) unvergesßens angedenckhen haben, dann wir euch mit g. willen wol angethon seyen. Datum <placeName ref="LOC_47.91128_8.61531">Guetmandingen</placeName><note type="editorial"> Gutmadingen, heute Teil der Stadt Geisingen</note>, den 4ten octob. anno etc. 84.<note type="critical">Folgt unten die Unterschrift von Freiherr Christoph von Waldburg.</note></p>
+<pb n="4" facs="E_I_7_2__Nr__176__S__4_.tif"/>
+<p rend="margin-top">Deme frommen, ernvesten, fürsichtigen, ersamen und weisen, unsern lieben besondern, burgermaistern und rath der statt Zürch.</p>
+</div>
+    </body>
+  </text>
+</TEI>

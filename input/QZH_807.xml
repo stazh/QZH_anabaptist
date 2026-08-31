@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_807</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355188">StAZH E I 7.3, Nr. 137</idno>
+          </msIdentifier>
+          <head>Antrag Magdalena Meisters um Scheidung</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1609-11"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1609-11">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 693</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__137__S__1_.tif"/>
+<p>Nun hatt mich der <persName ref="Kolb, Hans Heinrich">Kolb</persName> offtt angered, ich soͤle mit yme yn <placeName ref="LOC_49.5_17">Merheren</placeName> land zyechen, so han ichs gar nit welen důn. Do hatt er nyd unnd has an mich geleytt, er und die synen und hand eyn soͤlche unerhördy klag über mich ersynend und erdacht, das ales lüg und drüg synd, hand ouch ander lütt uffgewysen<note type="editorial"> zu etwas anstiften, verleiten, Id. XVI, 1939.</note> und uff yr syden bracht, die […]<note type="critical">Folgt gestrichen: […] über mich saͤgynd das nit war ist</note>.</p>
+<p>Nun begaͤr ich by keim soͤlchen maͤnschen mer zů wonen, der abbthrünyg ist wordten von got und synem wortt und anderest hatt lasen doufen. Han ouch von ym muͤsen hoͤren, das die minen ferdamped sygynd, ouch die nach laͤbynd syend des düfells.</p>
+<p>Bitt min heren hochlych und gantz thruͤngenlych<note type="editorial"> eindringlich</note>, welynd dis band der ee uffloͤsen und gar scheyden<note type="critical">Folgt gestrichen: und nit zů bett und dysch sunder</note>, mich gar von yme entledygen und scheyden, dan ich schon ein yar gebuͤest han, bin um lyb und gůtt kon<note type="editorial"> gekommen</note>, damit und ich nit um min seel ouch kümy. So bitt ich hoch thrunglych, min herren welind mir dar far syn. Kem ich um min seel, wer schuld daran thruͤg, weys ich nit, wil es minen heren heym setzen.</p>
+<pb n="2" facs="E_I_7_3__Nr__137__S__2_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

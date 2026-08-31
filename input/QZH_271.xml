@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_271</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355036">StAZH B IV 28, fol. 94r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Wilpert Zoller</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1568-08-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1568-08-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 157</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günnstigen geneigten willenn unnd alles guts zuvor. Frommer, vester, besonnders gethrüwer, lieber burger unnd vogt, demnach wir verschiner<note type="editorial"> vergangener</note> tagen <persName ref="Stocker, Hans">Hannßen Stocker</persName> von <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName><note type="editorial"> Wädenswil</note><bm id="104"/>, dynen amptsangehörigen, von wegen der ­töüf­ferischen sect, damitt er behafftet, jnn unnßer statt gefenngklich annemmen, ouch jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> legen unnd uff hütt durch etliche unnßere mitreth befragen laßen, was er für anhennger unnd gsellen unnd wo sy jren wanndel zusammen gehept, hatt er daruf unnder annderm angetzeigt: Das <persName ref="Bürgi, Jakob">Jacob Bürgis</persName> zů <placeName ref="LOC_47.21425_8.6469">Gißenrütj</placeName>, deßglychen <persName ref="Pfister, Hans">Hanns Pfister</persName>, ouch <persName ref="Pfister, Heinrich">Heinrich Pfister</persName> syn senn, sodenne <persName ref="Marti, Jos">Joß Martj</persName> unnd Elßbetha die <persName ref="Clotter, Elsbeth">Clotterin</persName>, all am Wädischwyler berg unnd der ennden jnn dyner verwalltung seßhafft, und <persName ref="Krumbächler, Uli">Ulj Krumbächlers</persName> von Richtischwyl eewürtin, <persName ref="Krumbächler, Utli">Ytlj</persName> genannt, die du kurtz verruckter zyth jnn gefenngknus gehept, mitt der töüfferischen leer beladen unnd am <placeName ref="LOC_47.24847_8.5877">Horgerberg</placeName> jnn einer schür, so <persName ref="Wildis, Rudolf">Rudolffen Wildis</persName> selligen zugehorig, jr unnderschlouff unnd zusamenkhomung gehept. Unnd so nun wir sölliches verstannden unnd von oberkeyts wegen dheins wegs gebüren will, solliche schädliche unnd verfürische sect jnn unnßeren lannden zugedulden noch zu lyden, so bevelchennd wir dir mitt allem flyß, das du die obgenannten personen all gefenngklich annemmen unnd uns demnach dieselbigen (sover du es an den richtern zu <placeName ref="LOC_47.22493_8.65207">Wadischwyl</placeName> güttlich gehaben<note type="editorial"> erlangen, Id. IV, 911f.</note> magst unnd sy es dir verwilligennd) verwart zukommen laßen, damitt wir gegen jnen jnn allweg nach der gepür unnd nothurfft desterbaß<note type="editorial"> desto besser</note> zehanndlen wüssen. Wann aber die richtere dir solliches nitt vergünstigen ald<note type="editorial"> oder</note> erlouben, alls dann wellist mitt sampt dem predicanten<note type="critical"><q>mitt sampt dem predicanten</q> am Rand mit Verweiszeichen</note> gegen den tauffern sonnst fürnemmen, wye du vermeinst, das du sy von jrem jrthumb bringen unnd sy dahin<note type="critical"><q>dahin</q> über der Zeile, in der Zeile gestrichen: uff unnsere religion</note> wyßen mogist.<note type="critical">Folgt gestrichen: daran beschicht von dir wie wir dir dann sonnders well</note> das sy<note type="critical">Folgt gestrichen: auch</note> zu kilchen gangind und sich wie annder unnßere underthonen gehorsamlich ertzeigen, wie wir dir dann verthruwend, du hiertzu<note type="critical">Folgt gestrichen: nutzit vers versummen</note> gutwillig syn werdist. Und ob harjnne etwas beschwerlichs begegnete, des magstu uns berichten unnd unnßers ferern bescheydts drüber erwarten. Dich<note type="critical">Folgt gestrichen: statt uns umb dich jnn gnaden zuerkhennen</note> hiemitt jnn gottes schirm thrüwlich bevelchennde. Datum den 9. d[ies] augustj anno etc. 68.</p>
+<p rend="margin-top">B[urgermeister] u[und] r[ath] d[er] statt Zürich</p>
+<p rend="margin-top">An vogt zu Wedischwyl</p>
+</div>
+    </body>
+  </text>
+</TEI>

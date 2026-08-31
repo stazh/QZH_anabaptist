@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_522</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355234">StAZH E I 7.3, Nr. 46</idno>
+          </msIdentifier>
+          <head>Flucht bzw. Freilassung der infaftierten Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1589-11-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-11-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 408</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__46__S__1_.tif"/>
+<p>Im <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> ligend von den 15 ­toüf­fern von <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> volgende personnen:</p>
+<p rend="margin-top"><persName ref="Hofmann, Rudolf">Růdolff Hofman</persName> von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName> jst usß dem Wellenberg entrunen.</p>
+<p><persName ref="Pfister, Walti">Wältj Pfister</persName> von Wedeschwyl jst ußkhommen im Wellenberg.</p>
+<p><persName ref="Bruppach, Jos">Joß Brugpach</persName> von Wedeschwyl hatt sich ergeben, doch soll er von deß felers wegen mynen herren 10 pfund zebůß und 5 pfund an gmeinen kosten geben. Actum donnstags den 30ten octobris anno etc. 89.<note type="editorial"> Vgl. oben Nr. 406.</note></p>
+<p><persName ref="Suter, Uli">Ulj Sutter</persName> von <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> jst mit anderen ußm Wellenberg brochen.</p>
+<p><persName ref="Landis, Heini">Heinj Landiß</persName> von Horgen hat sich mit synen gsellen ußm <placeName ref="Zürich, Ketzerturm">Kätzerthurn</placeName> glediget.<note type="editorial"> Heini Landis und Jakob Hochstrasser wurden offenbar in den Ketzerturm verlegt, nachdem sie vorher im Willenbergturm waren (vgl. Nr. 402).</note></p>
+<p><persName ref="Wäber, Gorius">Gorius Wäber</persName> von <placeName ref="LOC_47.22639_8.54962">Ebertschwyl</placeName> jst jm Wellenberg ußkhomen.</p>
+<p><persName ref="Hochstrasser, Jakob">Jacob Hochstraßer</persName> von <placeName ref="LOC_47.33727_8.46993">Wetzwyl</placeName>, jme jst jm Kätzerthurn ußgholffen worden.</p>
+<p>Ulj Ertzinger ab <placeName ref="LOC_47.30524_8.66126">Guldinen</placeName> jst jm Wellenberg ußkhomen.</p>
+<p><persName ref="Gut, Andres">Andares Gůt</persName> von <placeName ref="LOC_47.26217_8.41262">Luneren</placeName> jst ouch ußm Wellenberg khommen.</p>
+<pb n="2" facs="E_I_7_3__Nr__46__S__2_.tif"/>
+<p rend="margin-top">So denne sind jm Kätzerthurn:</p>
+<p><persName ref="Bruppach, Rutsch">Růtsch Brugpach</persName> von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName>, man hat jme und anderen ußgholffen.</p>
+<p><persName ref="GND_130035173">Hanns Landiß</persName> von Horgen, disser jst mit jme ußkhomen.</p>
+<p><persName ref="Hön, Peter">Petter Hön</persName> von Wedeschwyl hat sich bekert, soll 10 pfund<note type="critical">In der Vorlage: lb</note> zebůß unnd 5 pfund an kosten geben. Actum sambßtags den 1ten novembris anno etc. 89 pr[aesen]t[ibus] herr Kamblj unnd beid reth.</p>
+<p><persName ref="Wälti, Jagli">Jaglj Wältj</persName> ußm <placeName ref="LOC_47.288369_8.046806">Surenthal</placeName> jst uff anloben, uß myner herren gricht unnd piet zezüchen unnd darjn one ein gleit nit mehr zekhommen, ledig gelassen. Actum menntags den 3ten novembris anno etc. 89.</p>
+<p rend="margin-top">Item so sind jm nüwen thurn:</p>
+<p><persName ref="Pfister, Hans">Hanns Pfister</persName> von Wedeschwyl jst ußm <placeName ref="Zürich, Neuenturm">Nüwenthurn</placeName> entloffen.</p>
+<p><persName ref="Hess, Walti">Weltj Hesß</persName> von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName>: als er sich begeben uff anloben hinweg zezüchen, jst jme das bewilliget worden, doch wo er wider khommen und noch unghorsam were, welle man jme das darfür halten, als wann er gschworen. Actum den 18ten martij ano etc. 90 p[raesentibus] h[err] K[ambli]<persName ref="Kambli, Hans"/> (stat[halter]) und beid reth.</p>
+<p><persName ref="Bindschedler, Heinrich">Heinrich Bindschedler</persName> von <placeName ref="LOC_47.30468_8.60718">Erlibach</placeName>: als man jnne jnn <placeName ref="Zürich, Ketzerturm">Kätzerthurn</placeName> fuͤren wellen, jst er entrunen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

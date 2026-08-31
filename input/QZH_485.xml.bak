@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_485</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355222">StAZH E I 7.3, Nr. 35</idno>
+          </msIdentifier>
+          <head>Erstes Verhör von Hans Hedinger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1588-08"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1588-08">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 371</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Hannsen Hedingers des wannenmachers antwort<note type="critical">Aufschrift auf der Rückseite des Dokuments</note></head> <p>Nachdem herr landtvogt Schmid<note type="editorial"> Matthias Schmid</note> sampt beiden herren nachgengeren zů Hannsen Hedinger, dem wannenmacher, jnn gfangenschafft keert<note type="editorial"> sich begeben, gehen, Id. III, 435.</note> unnd jme syn verfuͤrische sect der ­toüf­feryg<note type="critical"><q>unnd jme syn verfuͤrische sect der ­toüf­feryg</q> unterstrichen</note> unnd, warumb er sich jnn dem kilchgang unnder anderen üwer (myner gnedigen herren) mandatha unnd satzungen<note type="critical">Folgt gestrichen: zew</note>, jnn dem er sich jnn die verfuͤrisch sect der ­toüf­feryg gelaßen, zewider unnd ungehorsam erzeige, zů dem ouch andere frome, einfalte lüth von der gehorsame abzüche, fürgehalten<note type="editorial"> mündlich vortragen, vorwerfen, Id. II, 1235.</note>, hatt er volgende antwurt geben. Namlich:</p>
+<p>Diewyl die herren predigcanten den bann der sünden noch<note type="editorial"> nach</note> dem wort Christj Mathey am 18. cap.<note type="critical">Folgt eine Wortstreichung</note> jnn der kilchen, als aber<note type="critical"><q>aber</q> über der Zeile, in der Zeile gestrichen: bar</note> billichen beschechen söltte, nitt bruchind, sonder alle sünd unnd laster ohne gestrafft mengklichem hingan lassind. Zů dem <persName ref="GND_118641549">schrybe Paulus</persName> jnn der ersten epistel zum<note type="critical">In der Vorlage: zunn (gestrichen: ann).</note> Timotheum am 3. capittel, das ein bischoff ald<note type="editorial"> oder</note> pfarrer ein unstrefflichen wandel fuͤren sölle, jtem das er ein man eines wybs, nuͤchter, gůtter sitten, gastfry, nit wynig<note type="editorial"> trunksüchtig, Id. XVI, 235.</note>, nitt schandtlichs gwüns begirig, nit gyttig<note type="editorial"> geizig</note> <note type="critical">Folgt gestrichen: nit</note>, nit häderig<note type="editorial"> streitsüchtig, Id. II, 983.</note>, sonder fründtlich syn sölle etc.<note type="editorial"> Vgl. 1 Tim 3,2f.</note>, wellichem allem doch die herren predigcanten bim wenigisten nitt nachkhomind, sonder ouch grad die, so sich aller gottsforcht eines stillen unnd erbaren lebens beflyßind, gegen der oberkeit als ufruͤrer unnd verfuͤrer volcks verklagind. Item, so er jnn der kilchen von den predicanten etwas jme mißfelligs predigen hörte, dörffte er jnnen keinswegs antworten, sonder muͤßte stillschwygend wider ußher gan unnd unverantwortet<note type="editorial"> unwidersprochen, Id. XVI, 1700.</note> blyben laßen. Derhalben syge er gentzlichen nit gesinnet, die predigen jnn den kilchen alhie zůbesůchen, sonder ehe syn lyb unnd leben darob zůverlassen.</p>
+<p>Den eyd beruͤrende, konne er by sich selbst nit finden, das man sich mitt demselben gegen der oberkeit zůverbinden schuldig syge, sonder allein jnn zimlichen, billichen<note type="critical">Folgt gestrichen: billichen</note> unnd allein jnn zyttlichen sachen gehorsammen, das überig aber gott dem allmechtigen heimbsetzen sölle.</p>
+<p>Das er<note type="critical">Folgt gestrichen: aber</note> ouch jnn zůtragenden nötten unnd kriegszytten sich mit syner gegenwehr bruchen lassen söltte, könte unnd welte er dasselbig nitt thůn, sonder wie jm evangelio stande, ee er<note type="critical"><q>ee er</q> über der Zeile</note> synen find beleidigen<note type="editorial"> verletzen, vgl. <hl to="http://fwb-online.de/go/beleidigen.s.3v_1709442616"><Hyperlink>http://fwb-online.de/go/beleidigen.s.3v_1709442616</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> welte, eh solte er syn lyb darob verlieren.</p>
+<p>Hienebent zeigt er ouch an, das er mitt syner frowen<note type="critical">Flogt gestrichen: nie</note> die ee anderst nitt dann jn der versamlung der ­toüf­fern bestettiget unnd volnzogen.</p>
+<p>Sontsten er syne mittbruͤder anzezeigen beschwert mitt bitt, jme dasselbig zethůn nitt zůzemůtten.<note type="critical">Folgt gestrichen: <q>nebent dem er a</q>.</note> <note type="editorial"> Aufgrund fehlender Datierung ist der weitere Verlauf des Prozesses nicht eindeutig. Im vorliegenden Dokument folgen Notizen von anderer Hand zu einer weiteren Einvernahme, bei welcher Hedinger einige Namen von Täufern preisgegeben hat. Dieser Teil des Verhörs fand vermutlich im Anschluss an die zweite Einvernahme am 9. September statt, welche durch eine offzielle Akte (Nr. 372, erster Teil) und durch die persönlichen Notizen von Burkhard Leemann (Nr. 373) dokumentiert sind.</note></p>
+</div>
+    </body>
+  </text>
+</TEI>

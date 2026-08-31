@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_117</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355349">StAZH F II a
+              271, S. 452-454 (Abschrift, um 1534)</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Rudolf Lavater</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1532-03-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1532-03-12"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 3</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Burgermeister und rath der statt Zürich. Unnsernn früntlichen willenn und alles gůts
+          zůvor. Frommer unnd wyser, insonders lieber, getrüwer burger unnd vogt, als dann <persName ref="Schmid, Heinrich">Heinrich Schmid</persName> von <placeName ref="LOC_47.45801_8.58528">Clotenn</placeName>
+          unnd <persName ref="Walter, Cathrina">Trina</persName> sin husfrow desswegenn, dass sy
+          sich der verjrrthenn sect der wider­toüf­fery wider unsere mandata, desshalb ussggangenn,
+          underzogenn, jnn unser gefeͣngknus kommen unnd aber jetz, nach dem sy beyde bekennt, jn
+          anhangung söllicher töüffery unnd das sy sich ouch teuffenn lassen, gröblich gejrrt unnd
+          unrecht gethan unnd das sy ouch söllichenn widertouff gentzlich für ungereͣchtt unnd nüt
+          soͤllend halltenn, darneͣbent sich ouch erbottenn, söllichem jrrsale abzeston und nit meer
+          nachzekommenn, sonnder fürhin unseren cristenlichenn anseͣhungenn<note type="editorial">
+            Verordnung, Erlass, Id. VII, 560.</note> unnd mandatenn, es syge dess kilchengands unnd
+          anderer dingenn halb, alls dann frommenn christen menschenn gezimme, zůgehorsamenn,
+          söllicher gefeͣngknus uff ein gewon urfecht unnd nammlich mit dem anhang, wo sy soͤllichem
+          jrem ietzerzellten erbiettenn nit stat thün, sonder sich wider in sölliche sect begeͣbenn
+          unnd jnfleͣchten wurdenn, das sy unns alls denne lyb und gůt nach lut unsers mandats,
+          söllicher töuffern halb ußgegangenn, verfallen unnd umb meerer crafft willenn, dass sy
+          söllichs thůn woͤllen, schuldig sin, söllennd ein urfech mit dynem ynsigel verwartt uber
+          sich zegeͣbenn unnd hinder dich zeleggen, widerumb erlassenn. So beveͣlchen wir dir
+          desshalb ernstlich, gedachte eementschenn darzů zehalltenn, dass also on verzug söllich
+          urfehd daussenn by dir geschribenn und mitt dynem ynsigel verwaret, hinder dich jnn
+          gwarsame geleyt werde, damit man söllichs hernach, so es die notturfft jrethalb
+          erhöuschenn wurde, zefridenn unnd allweg dest bas<note type="editorial"> besser</note>
+          wüssen möge, daruff der gebür nach zehandlenn. Dann wir je gesinnet, söllichem jrsall unnd
+          sect erneͣmpter ­toüf­fery, so wyt uns müglich, ußzerüten und keins weͣgs gruͤnen
+          zelassen, daran thůstu unnser meynung<note type="editorial"> Beschluss, Weisung, vgl. <bibl><ref target="http://fwb-online.de/go/meinung.h2.1f_1709288851">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> früntlich umb dich jnn geneigtem gunst
+          zeerkennenn. Uss <placeName ref="LOC_47.36667_8.55">Zürich</placeName><bm id="20"/>,
+          zinstags nach mitfasten anno mv<sup>c</sup> xxxij.</p>
+        <p rend="margin-top">Dem frommen unnd wysenn, unserm jnsonders liebenn, gethrüwenn burger
+          unnd vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> <persName ref="GND_129995126">Hans Růdolff Lafatern</persName>.</p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p> Dieses Quellenstück fehlt in QGTS 1. Zum Verhör von Heinrich Schmid und seiner Frau
+          Catharina Walther vgl. QGTS 1, Nr. 341.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

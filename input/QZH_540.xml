@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_540</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355081">StAZH B IV 48, fol. 182</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Anthoni Öri</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1590-03-21"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1590-03-21"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 426</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen, geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, wiewol<note type="critical">korrigiert, ursprünglich: wiewol (gestrichen) bzw. nachdem (über der Zeile)</note> dyn amptsangehöriger<note type="critical"><q>dyn amptsangehöriger</q> am Rand mit Verweiszeichen</note> <persName ref="Hess, Wernli">Wernlj Heß</persName> von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName><note type="editorial"> Wädenswil</note> von wegen das er<note type="critical">Folgt gestrichen: sich der</note> die ­toüf­ferische sect ouch an<note type="critical"><q>an</q> über der Zeile</note> sich genommen, jetzt ein lange zythar jnn unnserer gfangenschafft gelegen, hatt er sich doch<note type="critical"><q>doch</q> über der Zeile, in der Zeile gestrichen: doch derselben</note>, unangesechen das er überwissen<note type="editorial"> jmdn. einer Tat überführen, eines besseren belehren, Id. XVI, 1938.</note> worden, deren niemalen entschlahen<note type="editorial"> sich lossagen, distanzieren, vgl. <hl to="http://fwb-online.de/go/entschlagen.s.3vu_1709502330"><Hyperlink>http://fwb-online.de/go/entschlagen.s.3vu_1709502330</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> wellen, biß jetzt letstlich da er<note type="critical"><q>biß jetzt letstlich, da er</q> über der Zeile, in der Zeile gestrichen: doch</note> sich<note type="critical">Folgt gestrichen: jetztdann</note> dergstalt ergeben, das er unnseren verordneten<note type="critical">Folgt gestrichen: he</note> nachgengeren angelopt, den nechsten uß unßeren grichten unnd gepieten zezüchen unnd darjnn one unnser gleit ald<note type="editorial"> oder</note> verwilligung niemermehr zekhommen, es were dann sach, das er von diser ­toüf­ferischen sect abgestanden unnd widerumb zu unnserer christenlichen religion treten were unnd sich gehorsam erzeigte<note type="critical"><q>unnd sich gehorsam erzeigte</q> über der Zeile</note>. Wo er aber darwider handlen möge, man alsdann mit<note type="critical">Folgt gestrichen: handlen</note> jme synem verdienen nach handlen<note type="critical"><q>Wo er aber … handlen</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: alsdann jme das land widerumb ofen staan</note>. Habent wir jnne daruf der gfangenschafft ledig gelaßen<note type="critical"><q>gelaßen</q> unter der Zeile, in der Zeile: gesprochen</note>, doch das er zuvor den uff jnne gegangnen kosten erlegen sölle.<note type="critical">Folgt gestrichen: Werdend wir doch jetztdann wyther verstendiget, das er mit dheinem zytlichen gůt verfaßt unnd das jme söllicher kosten zůerlegen nit müglich</note> Diewyl aber wir nit wüssen mögend, wie syne sachen zytlichen gůts halber beschaffen, so bevelchend wir dir hiemit, den sachen unnd wie es synes gůts halber beschaffen, ob etwas und was desselben verhanden<note type="critical"><q>ob etwas und was desselben vorhanden</q> am Rand mit Verweiszeichen</note>, eigentlichen zůerkundigen unnd unns demnach<note type="critical">Folgt gestrichen: alles</note> dessen, so du hierumbe<note type="critical"><q>hierumbe</q> übder der Zeile</note> jnn erfarung bringst, fürderlichen<note type="editorial"> unverzüglich, Id. I, 1000.</note> <note type="critical"><q>fürderlichen</q> am Rand, in der Zeile gestrichen: fürderlichen</note> zůberichten, wir unns wyther darüber zů erkhennen<note type="editorial"> urteilen, amtlich etwas festsetzen, Id. III, 313.</note> wüssind. Datum den 21ten martij anno etc. 90.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wyßen, unnserm besonders gethrüwen, lieben burger und vogt zu Wedeschwyl Antonj Örj.</p>
+</div>
+    </body>
+  </text>
+</TEI>

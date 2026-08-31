@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_704</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355156">StAZH E I
+              7.3, Nr. 104 (vgl. auch QGTS, Bd. 5, Nr. 591)</idno>
+          </msIdentifier>
+          <head>Freilassung des Täufers Jakob Walther</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1602-09-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1602-09-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 590</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head type="Originalsprache">Jacoben Walthers deß widerthoüffers von Reterschen<note type="editorial"> Räterschen, Dorf der Gemeinde Elsau</note><placeName ref="Räterschen"/> anlobung<note type="critical">Überschrift auf der Rückseite des Dokuments vor dem
+            Hinweis auf seine Freilassung.</note></head>
+        <pb n="1" facs="E_I_7_3__Nr__104__S__1_.tif"/>
+        <p>Mentags den 27ten septembris anno 1602.<note type="critical"><q>Mentags … 1602</q> am
+            Rand</note> Als herr statthalter Ziegler<note type="editorial"> Hans Ziegler</note>
+          sampt den herren nachgengeren zů Jacoben Walther, dem wider­toüf­fer von Reterschen, jnn
+            <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> khert unnd jme myner gnedigen
+          herren meinung unnd erkhandtnuß<note type="editorial"> Urteil, Id. III, 373.</note>
+          angezeigt, das er namlich jnen jnnammen jr myner gnedigen herren by der handt als an eyds
+          statt anloben und versprechen sölle, nach lut jres jüngst der wider­toüf­feren halber
+          ußgangnen mandats<note type="editorial"> Nr. 561.</note> jnn nechster monatsfrist zů
+          kilchen jnn die predig wie andere christenlüth zegahnd oder aber jr statt unnd landt
+          zemyden, hatt er obgemelten<note type="editorial"> oben erwähnten</note> herren, söllicher
+          erkhandtnuß jnn monatsfrist statt zethůnd, mit mund und hand so vil als an eyds statt
+          angelobt. Daruf er nach erlegung deß costens, mit syner gfangenschafft ufgeloffen, der
+          gfangenschafft ledig gelaßen worden.</p>
+        <pb n="2" facs="E_I_7_3__Nr__104__S__2_.tif"/>
+        <pb n="3" facs="E_I_7_3__Nr__104__S__3_.tif"/>
+        <pb n="4" facs="E_I_7_3__Nr__104__S__4_.tif"/>
+        <p rend="margin-top">Er ist, als harjnn vermeldet, uff syn gethannes anloben uß der
+          gfangenschafft gelaßen worden.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

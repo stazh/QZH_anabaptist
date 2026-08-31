@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_646</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354966">StAZH B II 272, S. 3-4 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend das hinterlassene Gut einer Täuferin</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1600-01-14"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1600-01-14"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 532</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Zwüschent <persName ref="Mathys, Pankraz">Pangratius Mathyßen</persName>, schultheiß zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>, eins<note type="critical">Am Rand: j urk[und]</note> unnd <persName ref="Stüssi, Růdli">Růdlj Stüßj</persName> von <placeName ref="LOC_47.49518_8.49472">Nöschicken</placeName> anderstheils jst erkhendt<note type="editorial"> urteilen, amtlich festsetzen, Id. III, 313.</note>, das wann Stüßj von einem herrn seckelmeister alhie ein schyn jme, schultheiß Mathyßen, bringt, das er sy umb die einhundert guldin von schultheiß Schnyders seligen frouwen eerb, so <persName ref="Ott, Dikt">Dictlj Otten</persName> von <placeName ref="LOC_47.46675_8.46899">Nassenwyl</placeName> seligen tochter (die vor 32 jaren der ­toüf­ferischen sect nachgezogen) zůgehört, gnůgsamm versicheret habe, soll schultheiß Mathyß jme die angentz<note type="editorial"> unverzüglich, Id. II, 19.</note> ußhin geben unnd er, schultheiß Mathyß, umb syn erkoufften erbtheil, so 66 gulden<note type="critical">In der Vorlage: fl</note> 10 batzen jst, uß den einhundert guldin, so uff jetzt nechst khünfftigen martinj<note type="editorial"> 11. November</note> fallend, nach dem er die versichert, ouch bezalt werden unnd der costen zwüschent jnen ufgehept syn.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mentags, den 14ten januarij p[raese]nt[ibu]s herr Keller und beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

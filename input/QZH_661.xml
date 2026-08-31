@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_661</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355308">StAZH E II 1a, S. 963</idno>
+          </msIdentifier>
+          <head>Klage des Dekans von Wetzikon über Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1601-05-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-05-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 547</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><placeName ref="LOC_47.32434_8.80465">Wetzikommer</placeName> capitel<note type="critical"><q>Wetzikommer capitel</q> am Rand</note>:</p>
+<p>Erklagt sich der widerteufferen halber. Vor einem halben jar, hat N. <persName ref="Egli, N.">Egli</persName> die ee bezogen mit siner magt, die aber nach<note type="editorial"> noch</note> nie ordentlicher wys bestetet. N. <persName ref="Oberholzer, N.">Oberholtzer</persName> hat ein wyb genommen, hochzyt gehalten, hat aber der selbigen kein eeliche bywonung nie gethon. Hat über das den teufferen uß <placeName ref="LOC_49.5_17">Moravia</placeName> 9 gulden<note type="critical">In der Vorlage: fl.</note> gäben, dz sy disere syn frow hinwëg fuͤrind. Welches dann ouch beschähen.</p>
+<p>Ist gwisen für<note type="editorial"> vor</note> unser g. herren.</p>
+<p rend="margin-top">[Bericht an den Rat]<note type="editorial"> Hier wiedergegeben ist nur der die Täufer betreffende Abschnitt. Die Überschrift in der Vorlage lautet: <q>Uß dem synodo jm meyen a[nn]o 1601, jst für myn gnedig herren gewißen</q>.</note>:</p>
+<p>Von dem <placeName ref="LOC_47.32434_8.80465">Wetzikommer</placeName> capitel unnd anderen predicanten mehr wirt anzeigt, das die sect der wider­toüf­fern je lenger je mehr zůnemme, sonderlichen jm hof <placeName ref="LOC_47.28706_8.92092">Wald</placeName>. Do kurtzlich vil sich zesammen gerottet, under denen etliche der fürnemmen, denen mans nit truwte und noch heimlich sygen. Die geltbůßen bschüßind<note type="editorial"> ausreichen, fruchten, Id. VIII, 1414.</note> nüdt mehr. Sy gebind jerlich etwan bůßen, trybind aber nun spott darmit und sagind, es sye unsern herren nur umbs gelt zethůn. Item, sy müßind aber zum vogt und jre frowen empfachen etc., welliches alles jnn schrift verzeichnet, so herr <persName ref="Hamberger, Hartmann">dechan Hamberger</persName> (die aber jetzt nit<note type="critical"><q>nit</q> über der Zeile</note> alhie jst) by handen und dasselbig synem anzeigen nach alhar geschickt habe.<note type="editorial"> Gemeint ist vermutlich Nr. 546. </note> Diewyl aber von dieser verzeichnuß, dz die alhar kommen sye, man nützit weißt, soll dieselbig nochmaln mynen gnedigen herren zůgestelt werden unnd damit die sach für sy gewißen syn, darjnnen ein scherpfer unnd erntstlicher jnsehen<note type="editorial"> insehen tun: Vorkehrung treffen, Id. VII, 562.</note> zethůn.</p>
+<p>Es wirt ouch gemeldet, das stedts ufwigler ußem land ufhin kommind, die ohn alles schüchen jnn myner herren gepiet umbhin wandlint. Unnd sye einer jm hof Wald jm <placeName ref="LOC_47.2841_8.93148">Niderholtz</placeName>, genannt der <persName ref="Streler, N.">Streler</persName>, der welle jnn acht tagen wider hinweg züchen und ohne zwyfel volck mit jm führen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

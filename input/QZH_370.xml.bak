@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_370</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696637">StAZH E I 7.2, Nr. 151</idno>
+          </msIdentifier>
+          <head>Auftrag an die Rechenherren, ein Gutachten zur täuferischen Auswanderung zu erstellen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-10-23"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-10-23"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 256</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_2__Nr__151__S__4_.tif"/>
+<head type="Originalsprache">Rechenherren. Beträffend das volck, so der ­toüf­ferischen sect jnn Meerheren<placeName ref="Mähren"/> züchend.<note type="critical">Aufschrift auf der Rückseite des Dokuments</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__151__S__1_.tif"/>
+<p>Vor mynen gnedigen herren ist erschinen herr vogt von <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> Junghans Thumysen</note> unnd jnen fürgebracht, nachdem etliche personen ußem <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName> jnn das land Meerheren der ­toüf­ferischen sect halber getzogen, syge der landtvogt zu <placeName ref="LOC_47.46513_8.28964">Baden</placeName> wie ouch schulltheiß unnd rath zů <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName> zugefaren<note type="editorial"> zugreifen, rücksichtslos nach amtlicher Vorschrift verfahren, Id. I, 901.</note> unnd derselbigen personen hinderlassen hab unnd gůt, so sich ungefarlichen, wie er verstendiget, jnn die thusent müntz guldin anlaufft, als verwürckt unnd verfallen, verbotten<note type="editorial"> mit Beschlag belegen, Id. IV, 1873f.</note> ouch darvon schon an einem ordt der landtvogt zů Baden (dann die von Bremgarten, als jme der stattschryber daselbs angetzeigt, nit sonders vil daruf setzind<note type="editorial"> dringen auf etwas, Id. VII, 1612.</note>) ein hundert guldin jntzuziechenn understanden, das aber er, vogt, anstatt myner herren uff recht hin alles ouch verbieten lasßen. Diewyl nun jnen, myn herren, jnn obgedachtem Kellerampt die hoch oberkeit zůstendig, begere er bscheids, wie er sich diser unnd anderer personen gůts halber, so also hinweg züchend, witer halten sölle etc. Unnd wiewol myn herren zů gehaltnenen eydtgnössischen tagleistungen<note type="editorial"> Tagsatzung, Id. III, 1473.</note> für jr stim bißhar nit bewilligen wellen, das soliches hinweg züchen ein malefitzische<note type="editorial"> verbrecherisch in dem Mass, dass es unter die Hochgerichtsbarkeit fällt, Id. IV, 167.</note> sach heisen unnd das gůt der oberkeitt heimgfallen sein sölle jnhaltt hie byligenden ußtzugs deß abscheidts<note type="editorial"> Vgl. Nr. 229.</note>, sonders was sy durch jre heren gsandten botten hierumbe zů bscheid geben lassen, hinden jnn diserm ußtzug ouch begriffen. Diewyl unnd aber jnen, mynen herren, ouch ferner zu bedenken syn will, ob diserm ungerhorsamen volck unnd gsind jr gůt also fryg richtig volgen oder den jren zelassen syge ald<note type="editorial"> oder</note> nit, jn ansechung andere ordt, so jnn denn gmeinen herschafften mitzuregieren hand, das solliche hab unnd guͤtteren durch die landtvögt zu handen der oberkeiten jntzutziechen sich entschlossen, daher dann der landtvogt<note type="critical"><q>zu handen der oberkeiten … landtvogt</q> am Rand mit Verweiszeichen.</note> zů Baden, glych zů <placeName ref="LOC_47.37984_8.42242">Oberurdorff</placeName><note type="editorial"> Urdorf</note> (der einden mynen herren grichtsherrligkeit unnd auch die manschafft<note type="editorial"> Untertanen, vgl. <hl to="http://fwb-online.de/go/manschaft.s.1f_1732174476"><Hyperlink>http://fwb-online.de/go/manschaft.s.1f_1732174476</Hyperlink></hl> (Frühneu­hochdeutsches Wörterbuch).</note> biß ans blůt zugehörig<note type="editorial"> d.h. hochgerichtlich der Stadt Zürich unterstehend</note>) der hingetzognen<note type="editorial"> fortgezogenen</note> gůt vermög eines artigkels jnn bygelegtem synem schryben zůbetzüchen bedacht, so jst <pb n="2" facs="E_I_7_2__Nr__151__S__2_.tif"/> jr, myner herren, bevelch, das myne herren, die geordneten rechenherren, nach abhörung obangeregts ußtzugs eines ußgangnen abscheidts ouch jnstruction, dartzu deß landtvogts zů Baden schryben eigentlichen beratschlagen, wie unnd weß sich jnen, mynen herren, disers hinwegzüchenden ­toüf­ferischenn volcks jm land hinderlasßendem hab unnd gůts halber ouch zů halten syge, dasselbig wider an sy, myn herren, zů fernerem gfallen gebracht werden. Actum den 23ten octobris anno etc. 81 p[raese]nt[ibus] herr <persName ref="GND_143680544">burgermeister Kambli</persName> unnd beid reth.</p>
+<p rend="margin-top">Stattschryber</p>
+<pb n="3" facs="E_I_7_2__Nr__151__S__3_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

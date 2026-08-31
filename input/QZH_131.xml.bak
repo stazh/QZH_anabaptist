@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_131</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355111">StAZH B IV 6, fol. 196r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Junghans Mohr</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1535-12-11"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1535-12-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 17</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Bürgermeyster unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zurich</placeName>. Unnsern gruß zuvor. Lieber, getrüwer, uff trungennlich anruͤffen <persName ref="Kofel, Hans oder bůb">bůb Kofels</persName> unnd siner frundtschafft<note type="editorial"> Verwandtschaft, Sippe, Id. I, 1307.</note>, als er sich bekeert unnd von der ­toüf­fery abgestanden ist, haben wir jm gnad bewisen unnd jn uß gefängkniß, doch eyn offne urfechd offenntlich zuͤ gott schweeren lasßen, deß widertouffs mit worten unnd wergken müsßig zegan, nutzit darvon zesagen noch zeleeren wäder heymlich noch offennlich, sich ouch deß wingkelpredigens<note type="editorial"> ohne Amt predigen</note> zůenndtziechen unnd jnn die rechte pfarr zekilchen zegand. Deßglychen die ­toüf­fere wäder zehusen noch zehofen unnd jnen keynen underschlouff noch fürschub, ouch keyn spys, trangk noch uffenndthalt zegeben jnn keynen weg, sunder sich jren zemüsßigen unnd vorab got unnd unns als siner rechten natürlichen oberkeyt gehorsam zesin. Unnd soferr er dann an offener cantzlen<note type="critical">Folgt gestrichen: vor der gemeynde gottes</note> (als er sich deß gůttwillig vor uns ergeben hat) sollichs, so obstat unnd benanntlich das der kyndertouff gerecht unnd der widertouff ungerecht<note type="critical">korrigiert, ursprünglich: gerecht</note> sige unnd das er jnn dem unnd anndern toüffischen articklen unnd meynungen der oberkeyt, eydschweerens unnd annderer<note type="critical">Folgt gestrichen: jrrige</note> sachen halb geirrt<note type="critical">Folgt gestrichen: habe</note> unnd die unwaarheyt vor jm gehan habe, vor der gemeynd gottes bekennt unnd vergicht<note type="editorial"> bekennen</note>, ouch dieselb gemeynd bittet, jme umb gottes willen zůverzychen unnd got für jn zebitten<note type="critical">Folgt gestrichen: das</note>, so wellennt wir jm recht für diß maal<note type="critical">Folgt gestrichen: ouch</note> uff besßerung ouch<note type="critical"><q>ouch</q> über der Zeile</note> verzigen, doch dir hiemit ernnstlich bevolchen unnd gebotten haben, das du mittsampt dem lutpriester unnd<note type="critical"><q>dem lutpriester unnd</q> am Rand mit Verweiszeichen</note> den eegoumeren<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note> meer flysßig uffsechen uff jn haben<note type="critical">korrigiert, ursprünglich: habind</note>. Unnd wo er sich yenan<note type="editorial"> je, vgl. <hl to="http://fwb-online.de/go/jender.s.4adv_1709485197"><Hyperlink>http://fwb-online.de/go/jender.s.4adv_1709485197</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> wider diß sin geschworen urfechd mynder ald<note type="editorial"> oder</note> meer mergken lasßen unnd nit wie annder cristenlütt zekilchen gon wurde, jn alß den angends<note type="editorial"> sofort, Id. II, 19.</note> fängklich widerumb annemmen unnd uns den fängklich überanndtwurtten wellind<note type="critical"><q>wellind</q> über der Zeile</note>, jme on all wyter gnad sinen lon darumb zegeben. Dann<note type="critical">Folgt gestrichen: soltend jr die vorgenannten hierjnn sümig werden, wurden</note> soltestu ald die eegoumere hierjnn sümig werden, wurden wir deß gewißlich an üch zůkomen<note type="editorial"> sich für erlittenen Schaden an jemanden halten, Id. III, 283.</note>. Darnach wellind dest besßere sorg haben unnd<note type="critical">Folgt gestrichen: jme</note> nit meer, wie bißhar beschechen, durch die fynger sechen. Dann wir schlächtlich diser jrrigen sect keynen gestand geben werdent, darnach wisße sich mengklich<note type="editorial"> jeder</note> zerichten. Wir wellend ouch, das diser brief der ganntzen gemeynd vorgelesen werde, damit sich yederman wisße vor schaden zehuͤtten. Uß Zürich, sampßtags nach sanct Niclaus tag anno etc. 1535.</p>
+<p rend="margin-top">Unnserem lieben unnd getrüwen undervogt jm <placeName ref="LOC_47.502561593977106_8.499244491889575">Nüwenampt</placeName> <persName ref="Moor, Junghans">Junnghanns Moren</persName> von <placeName ref="LOC_47.49518_8.49472">Neschigken</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

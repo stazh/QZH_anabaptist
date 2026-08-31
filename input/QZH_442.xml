@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_442</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355301">StAZH E II 1a, S. 771 und 773</idno>
+          </msIdentifier>
+          <head>Verlesung eines Mandats betreffend Verhalten der Pfarrer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1585-10-19"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-10-19"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 328</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Min herren verlasend ein mandat, wie sich die predicanten halten sollind, damitt sy den widerteuffern kein ergernuß gebind. So einer foll wirt, sol er gewarnet und hernach, so er nicht drum gipt<note type="critical"><q>so er nicht drum gipt</q> über der Zeile</note>, sines dienst entsezt sin, und sol man nitt darum meeren<note type="editorial"> zur Abstimmung bringen, Id. IV, 371.</note> etc.</p>
+<p>[…]</p>
+<p>H[err] Suler<note type="editorial"> <persName ref="GND_1089307055">Jakob Süler</persName></note> ist zů <placeName ref="LOC_47.57335_8.52607">Eglisow</placeName> gsin, da min h[erren] gemusteret<note type="editorial"> mit derben Worten zurechtweisen, Id. IV, 545.</note>. Hatt daselbs zimbis geessen mitt etlichen bruͤderen, ist vor inen hinweg gangen. Da sy nahin komen, ist er so voll gsin, das er da glägen, ist gsudlet<note type="editorial"> beschmutzt, Id. VII, 327.</note> gsin. Man hatt inn muͤssen fuͤren. Habend wellen, das er zů <placeName ref="LOC_47.56064_8.49635">Glatfelden</placeName> sich wider erholete, aber er ist zum stäg gangen. Vil habend im zůglůgt, dann sy vermeint, er fiele in das wasser. Ein frow hatt gsprochen, er kan wol überhinkomen. Er kompt offt von Eglisow und ist voll. Zů <placeName ref="LOC_47.54091_8.47376">Windlach</placeName> hatt er gschwanket, ist gfallen, das er nit hatt koͤnnen ufkomen. Welchs nit kleine ergernuß bringt, dann sonst vil widerteuffer daselbst sind.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_251</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355032">StAZH B IV 26, fol. 11</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Rahn</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1566-09-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1566-09-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 137</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern gunstigen, geneigten willen unnd alles gůts zůvor. Ersamer, wyser, besonnders gethrüwer, lieber burger unnd vogt, der unnser, <persName ref="Gut, Andres">Andares Gůt</persName> von <placeName ref="LOC_47.26217_8.41262">Lunneren</placeName>, so du unns<note type="critical">Folgt gestrichen: vor</note> kurtz hievor verschiner tagen von wegen syner jrrigien meinung der ­toüf­feryg<note type="critical">Folgt gestrichen: z</note> gefenngklichen überschickt, hatt sich uff ernstlichs anhallten etlicher unnserer verordneten mitrethen erbotten, jnn 14 tagen den nechsten jnn<note type="critical"><q>jnn</q> über der Zeile, in der Zeile gestrichen: zů der</note> die<note type="critical"><q>die</q> am Rand mit Verweiszeichen</note> kilchen<note type="critical">Folgt gestrichen: glych wie andere</note> zů der predig zegaan. […]<note type="critical">In der Zeile ein Verweiszeichen. Der Text, auf den verwiesen wird, fehlt.</note> der aber syn hůß unnd heim<note type="critical">Folgt gestrichen: ve</note> biß wienacht nechst komende zůverkouffen ald<note type="editorial"> oder</note> wo sölliches nit gesyn mage, zůverlychen unnd<note type="critical">Folgt radiert: unnd</note> mit mit wyb unnd kinden uss unnsern gerichten und gepieten zůziechen und unns ungeirt zelaßen. Daruf wir jme der gfenngknuß glediget<note type="critical"><q>Daruf wir … glediget</q> am Rand</note>. Damit aber dem von jme<note type="critical">Es folgt eine Wortstreichung.</note> (sover er nit noch unnserm christenlichen bruch zur kilchen gienge) statt bescheche, so bevelhend wir dir unnd wollenn, das du uff gemelten<note type="editorial"> erwähnten</note> Anndreßen achtung unnd ein ufsehen haben unnd, als bald er sich syner vorigen anngenomnen jrrigen wiß<note type="critical"><q>wyß</q> über der Zeile</note> unnd verfurischen sect widerumb<note type="critical"><q>widerumb</q> am Rand mit Verweiszeichen</note> beflyßen und synem hieob gemelten erpieten nit nachgan wurd, jnne gefengklich annemmen laßen und uns zuoschicken. Als dann wellen<note type="critical"><q>wellen</q> am Rand mit Verweiszeichen</note> wir dermaßen gegen jnn handlenn, das er welte, er hette<note type="critical"><q>er hette</q> über der Zeile</note> sich uß unnserer landtschafft gethaan ald unnsern christenlichen ordnungen beflisen und gehorsam erzeigt. Du<note type="critical"><q>Du</q> unter der Zeile</note> wellist also hierjnne an dynem flyß (wie wir däglich von dir vernemend) nüzit erwunden<note type="editorial"> fehlen, mangeln, Id. XVI, 580f.</note> laßen, so sind wir es gegen dir jnn gnaden zuerwidern geneigt. Datum mittwuchs den 4ten septembris anno d[omini] 66.</p>
+<p rend="margin-top">B[urgermeister] u[nd] r[at] d[er] st[att] Z[ürich]<placeName ref="Zürich"/>.</p>
+<p rend="margin-top">Dem ersamen, wysen, unnserm jnnsonders gethrüwen, lieben burger unnd vogt zu <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> <persName ref="Rahn, Hans">Hanns Raanen</persName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

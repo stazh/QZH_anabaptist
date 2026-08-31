@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_809</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355198">StAZH E I 7.3, Nr. 146</idno>
+          </msIdentifier>
+          <head>Hans Heinrich Kolb an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1609-12-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1609-12-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 695</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__146__S__1_.tif"/>
+<p>Herr burgermeister, frommen, edlen, vesten, fürsichtigen, ehrsamen, wysen, jnnsonnders genedige liebe herrn. Diewyl mir hütt etlicher gestalt zů gedanngken kommen, vilichter nothwenndig geweßen were, uff das oder die schryben, so ich verschinnen<note type="editorial"> vergangenen</note> jars myner ehefrauwen zugeschikt unnd gestrigen tags vor e. e. w[ysheit] uff myner ehefrauwen begeren verleßen worden, myn bescheid unnd anntwortt zůgeben. Mir aber wegen kürtze der zyt, vergesslichkeit unnd annderer obligender beschaffenheit dißmalen nit mehr eigenlichen jnn wüssen, wie unnd was jch bemelter zyten an der frömbde mit betruͤbtem sinn geschriebn haben möcht, so gelanngt an wolermelte e. e. w. myn unnderthenniges piten, dieselbig welle gnedig verschaffen, das die original aller myner jro verschinnen 1608. jars zugesanndten schryben jnn byweßen unparthigischer personen mir zů leßen unverzugenlichen zůkommind, damit jch mich uß dennselbigen mynen eignen schryben (sittenmalen<note type="editorial"> da, weil, Id. IV, 147.</note> mir an dennselbigen äben vil unnd hoches gelegen syn wird) ersechen, jres jnnhalts bedenngkhen unnd dann hochernannter e. e. w. myn bescheid unnd anntwortt darüber geben khönne und möge. Weliches jch unverlänngt zethůn willens, also das <pb n="2" facs="E_I_7_3__Nr__146__S__2_.tif"/> myn uffrichtigkeitt gespürt werden sol. Mit fhernnerem unnderthennigem supplicieren, hochgedachte e. e. w. welle jro, myner ehefrauwen, auch bevelchen, das sy myn schryben, so jch mynem lieben schwager Hanns <persName ref="Wiederkehr, Hans Heinrich">Heinrich Widerkheren</persName><note type="editorial"> Hans Heinrich Wiederkehr war seit 1585 mit Elisabeth Kolb verheiratet.</note> von <placeName ref="LOC_48.39838_9.99159">Ulm</placeName> uß zůgethan hab<note type="editorial"> Nicht überliefert.</note>, weliches jro nachgenntz durch herrn <persName ref="GND_143658468">burgermeister Großman</persName><note type="editorial"> Konrad Grossmann, gestorben am 20. Februar 1609.</note> seligen zůgestelt, bemeltem mynem schwager aber bißharo nach nit wider überanntwortt worden, von dem rechten uflegen thuͤge, uß dessen ableßunng e. e. w. zů vernemmen haben wirtt, wie unnd was myn meinung mynes zytlichen gůts geweßen sige. Bin auch vorhabens, jr (myner ehefrauwen) mir zůgethane schryben zů syner zyt vor e. e. w. unnd jren, myner ehefrauwen, auch verleßen zelassen, deßglychen über selbige jre und myne schrybe munndtliche oder schrifftliche gepürende eroffnungen zethůn. Darbj wolermelte e. e. w. jch unnderthennig pittende, mich jnn genaden für bevolen zehaben.</p>
+<p>Actum fryttags denn 1ten decemb[ris] a[nno] etc. 1609</p>
+<p rend="margin-top">E. e. w. unndertheniger burger</p>
+<p>Hans Heinrich Kolb</p>
+</div>
+    </body>
+  </text>
+</TEI>

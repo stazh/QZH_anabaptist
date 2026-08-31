@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_118</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355350">StAZH F II a 271, S. 454-455</idno>
+          </msIdentifier>
+          <head>Urfehdebrief von Heinrich Schmid und Catharina Walther</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1532-03-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1532-03-12"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 4</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Ich, <persName ref="Schmid, Heinrich">Heinrich Schmid</persName> vonn Clotenn, und jch, <persName ref="Walter, Cathrina">Cathrina Walltherin</persName> sin eelich husfrow, bekennen uns offenlich mit diesem brieff, alls dann wir nit on mergcliche ursach in unser gnädigenn herrenn burgermeysters unnd rätenn der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName> fängknus kommen sind, namlich darumb, wiewol die gedachtenn unser herrenn unnd oberen vor jarenn ein mandat unnd schwär gebott der verjrretenn sect unnd töüffery weͣgenn unnd darinn by verwürckenn unnd by verlierenn lyb, leͣbenn und güt zum höchstenn verbottenn, das mengclich<note type="editorial"> jeder</note> sich söllicher sect unnd töüffery mussenn<note type="editorial"> müssigen, sich enthalten</note>, abthůn unnd dero dheins<note type="editorial"> keines</note> weͣgs nit anhangenn, ouch sich niemands nit widerteuffen sölle lassenn mit meerem innhallt etc., dann sy sölliche sect und widertöüffery jnn jr statt, landen, gericht unnd gebietten gantz nit habenn, besonder die vertillgkenn, ußrütenn unnd nit uffkommen lassenn wöllind etc. Unnd so aber wir syderhar über söllich ir ussgangenn offen mandat unnd hoch verbott unns söllicher sect unnd töüffery underwundenn<note type="editorial"> sich anschliessen, sich einlassen, Id. XVI, 570f.</note>, dero angehanget, ouch uns beyde touffenn lassen unnd so aber die genantenn unser gnädig herren vonn Zürich unns mit goͤttlichem reͣchten wol an unserm leͣben, an lyb, eer und gůt hertigclich mögen straffenn, yedoch uss gnaden und barmhertzigkeit, diewyl wir uns bekennt, das wir grösßlichen gejrrt und unrecht heirinn gethan. Wir sagent unnd bekennent ouch uns hie offentlich, das sölliche sect und widertouff ein betrug, ytel glyßnery<note type="editorial"> Heuchelei</note>, unrecht, ouch falsch und nit reͣcht syge unnd das wir söllicher verirreter seckt und widertouff uns muessigenn, abstan, dem khein glouben nit meer geͣbenn, ouch dem nyemer meer anhangen, uns wyter nit teuffen lassen wellent, sonder den für falsch haben und halltend unnd uns beyde hinfür halltend wie ander fromm biderb lüt, zum göttlichenn wort als zur predig zů andern frommen lütenn inn die kilchen gan, ouch uns mit glübd unnd eyden aller ghorsami gegen den gedachten unsern herrenn und obern erzeygen etc., uff das die vilgemelltenn<note type="editorial"> oft genannten</note> unser herren uns gnädigclich on alle engeltnus diss mals uss jr gefeͣngknus lassen kommenn und uns dhein andere straff nit ufgeleyt, anderst dann das wir hierumb beyde einen eyd mit uffgeregkten fingerenn lyplich<note type="editorial"> durch körperliche Berührung der Bibel, vgl. <hl to="http://fwb-online.de/go/leiblich.s.4adj_1709292863"><Hyperlink>http://fwb-online.de/go/leiblich.s.4adj_1709292863</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> zů gott schworen söllend, allso das wir söllicher nüt söllender sect und widertouff gentzlichenn abstan, uns dero muͤssigen, dero nymmer mee nit anhangen, ouch nit mee thouffen lassen wöllendt unnd das wir hierumb ein zimlich urfecht hallten. Allso uff obgemeͣllter<note type="editorial"> oben genannter</note> unser herrenn anseͣhenn<note type="editorial"> Anordnung, Weisung, Id. VII, 560.</note> unnd geheiss habenn wir beyde zů halltung diser sach disen obangezeügten eyd geschworn, das alles, so ob von uns geschribenn stadt, war unnd staͤt zůhalltenn unnd dem statt und gnůgthůn, ouch die feͣngknus unnd sach unnd was sich darinn und darunder verloffenn hatt, gegen gedachten unsernn herrenn unnd obern vonn Zürich ouch gegen jren verwandtenn und amptlütenn oder wer harinn yemer verdacht wirt, nyemmer zůreͣchenn, darinn nyemandt vechenn<note type="editorial"> hassen, befeinden, Id. I, 644 u. 646.</note>, fynden noch hassenn, ouch darumb niemand straffenn, weͣder heymlich noch offenlich mit noch on recht, besonder hierumb gegenn aller meͣngcklichem ein getrüw uffreͣcht warhafft styff urfeh halltenn unnd vollziehenn und uns dess verjrretenn ungegründten widertouffs muessigen unnd darvon stan alle getrüwlich und on all gevärd<note type="editorial"> Betrug, Id. I, 878.</note>. Dann wo das nit beschäch und wir beyde oder einttweͣders dero stuckenn eins oder meer überträttind unnd nit hieltint, das alls dann die obgemelltenn unser herren und obern, wo sy unns jn jr statt, land, gricht unnd gebietten uff wasser ald<note type="editorial"> oder</note> uff dem lande begryffen unnd betreͣtten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, zů unns gryffenn, uns ann unser lyb, lebenn, eer unnd gůt lut jrer gebott und mandata hertengclichenn straffen moͤgind als die, so eer unnd eyd überseͣhenn und nit gehalltenn habenn. Darvor uns nützid schirmen soll weͣder gricht noch reͣcht noch sust nüt uberal, dann wir unns beyde gemeynlich unnd sonderlich dess und alles schirms hiemit gentzlich verzigenn<note type="editorial"> aufgegeben, abgetreten, Id. XVII, 870.</note> habenn wider alle ußzüg<note type="editorial"> Einwand, Vorwand, Id. XVII, 541f.</note>, bös fünd<note type="editorial"> List, Ausflüchte, Id. I, 850.</note> und gevärd, unnd dess zů warem urkhund, so habennd wir beyde gemeynlich erbeͣttenn den frommen wysenn Johans <persName ref="GND_129995126">Růdolff Lavather</persName>, burger <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, der zyt vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> unsern liebenn herrenn, das er sin ynsigel für uns beyde und für unser erbenn doch dem hus <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> ann aller zůgehörd ouch jmm und sinen erben onscheͣdlich offentlich inn disen brieff getruckt hatt, der ggeͣben ist uff zinstag nach mittfastenn anno etc. fünffzehenhundert dryssig unnd zwey jar.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Überschrift in der Vorlage: Da ist der zweyen eemenschen urfecht, denen die misive lutet</p>
+      </div>
+    </back>
+  </text>
+</TEI>

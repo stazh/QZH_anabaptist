@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_403</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696663">StAZH E I 7.2, Nr. 169</idno>
+          </msIdentifier>
+          <head>Befragung von Täufern in der Landvogtei Grüningen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1583-09">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1583-09">ca.</origDate>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 289</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="8" facs="E_I_7_2__Nr__169__S__8_.tif"/>
+<p>Anno etc. 83 die widerteüffer jnn der herrschaft zů Grüningen anträffende<note type="critical">Die Aufschrift befindet sich auf der Rückseite des Dokuments und stammt von einer anderen Hand. Das Protokoll der Befragung führte vermutlich nicht Heinrich Holzhalb, sondern der Landschreiber.</note></p>
+<pb n="1" facs="E_I_7_2__Nr__169__S__1_.tif"/>
+<pb n="2" facs="E_I_7_2__Nr__169__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__169__S__3_.tif"/>
+<p rend="margin-top">Uff das min gnedig herren mir, <persName ref="Holzhalb, Heinrich">Heinrich Holtzhalben</persName> jrem diener unnd vogt zů Grüningen, jüngst hievor verschiner<note type="editorial"> vergangen, Id. VIII, 824.</note> zyt zůgeschriben, min späch<note type="editorial"> Nachforschung, Fahndnung, Id. X, 76.</note> unnd uffsächen<note type="editorial"> überwachende Beobachtung, vgl. Id. VII, 549.</note> uff die ­toüf­fer, die (wie ich bericht) abermaln jn miner amptßverwaltung träffenlich<note type="editorial"> stark, Id. XIV, 393.</note> zůnäment, mit allem ernst zemachen unnd wann sy beträtten<note type="editorial"> antreffen, Id. XIV, 1486.</note>, gägen jnen nach der gepür mit straff zehanndlen unnd jch jnn erfarung gepracht, das sy uff suntag den ersten septembris jm Bechtal<note type="editorial"> Bachtel, Berg bei Hinwil</note> holtz, ob Schowingen<note type="editorial"> Schaugen, Siedlung in der Gemeinde Hinwil, Landvogtei Grüningen.</note> unnd unver<note type="editorial"> unweit, Id. I, 914.</note> vom <placeName ref="LOC_47.30954_8.87055">Gyrenbad</placeName> gelägen, jn jr versamlung zůsamen komen werdint unnd jch ordnung gäben, sy zuverkundtschafften<note type="editorial"> auskundschaften</note>, sinnd mir daruf gefäncklich zůgepracht:</p>
+<p rend="margin-top">Mit namen <persName ref="Schnyder, Hans">Hanns Schnyder</persName> der schůmacher und artzatt<note type="editorial"> Arzt</note> zů <placeName ref="LOC_47.53414_8.56841">Rorbiß</placeName><note type="editorial"> Rorbas</note>, jr prediger, ouch ein gefitzter, arglister, bößer unnd (wie jch bericht) unnder jnen der fürnämist töüffer, ders volch von unnserem waren, alten, ungezwyffelten<note type="critical">In der Vorlage: ungzwyffelten</note>, cristenlichen glouben unnd religion<note type="critical">In der Vorlage: religon</note> ab unnd jn syn töüfferische säckt fürt unnd leert.</p>
+<p>Weliches Schnyders frouw <persName ref="Meyer, Annli">Anndli Meyer</persName> unnd jr sun <persName ref="Schnyder, Hans">Hanns Schnyder</persName>, so ouch töufferen.</p>
+<p><persName ref="Gubelmann, Rudolf">Růdolf Gubelman</persName>, der wagner zů <placeName ref="LOC_47.2875_8.85719">Hadlicken</placeName><note type="editorial"> Hadlikon</note> jn der pfarr Hünwyl<note type="editorial"> Hinwil</note>, der sich ouch zů zytten jnen zů predigen onne einiche wüssenheyt<note type="editorial"> Kenntnis, Id. XVI, 2064.</note> unnderwindt<note type="editorial"> sich anmassen, Id. XVI, 572.</note>. Sin husfrow <persName ref="Furer, Dorli">Dorlj Furer</persName> jst ouch ­toüf­ferisch, hatt siben nach junge kinden.</p>
+<p><persName ref="Margin, Peter">Petter Margyn</persName>, der keßler unnd unver von <placeName ref="LOC_46.516_6.63282">Loßanen</placeName><note type="editorial"> Lausanne, damals unter Berner Herrschaft</note> pürtig.</p>
+<p><persName ref="Schwitter, Michel">Michel Schwytter</persName> von <placeName ref="LOC_47.25093_8.79766">Bärlicken</placeName><note type="editorial"> Berlikon</note>, ein alte person unnd herrn statthalters zů <placeName ref="LOC_47.26648_8.80812">Bubicken</placeName><note type="editorial"> Verwalter der Johanniterkommende in Bubikon.</note> buknächt.</p>
+<pb n="4" facs="E_I_7_2__Nr__169__S__4_.tif"/>
+<p><persName ref="Bärtschiker, Heini">Heini Bärtschicker</persName> uß der <placeName ref="LOC_47.319994_8.931344">Owrüttj</placeName><note type="editorial"> Aurüti</note>.</p>
+<p><persName ref="Peter, Hans">Hanns Petter</persName> uff der <placeName ref="LOC_47.34099_8.93425">Oberschwänndj</placeName>, Ůlj Eglins im Lee sännknächt, ein zwäntzig järige person, der sich den ­toüf­feren zů predigen annimpt, sin můter jst ouch ein ­toüf­ferj.</p>
+<p><persName ref="Streler, Jakob">Jacob Sträller</persName>, ein sibentzig järiger man.</p>
+<p><persName ref="Egli, Ůli">Ůlj Egli</persName> jm <placeName ref="LOC_47.33663_8.94127">Vischental</placeName>, ein dryßig järige person, sin husfrow <persName ref="Huwendobler, Ängel">Ängel Huwendoblerin</persName> uß dem <placeName ref="LOC_47.5562_9.07686">Turgow</placeName>, jst ouch ­toüf­ferisch.</p>
+<p><persName ref="Streler, Hans">Hanns Sträller</persName> uffem <placeName ref="LOC_47.28405_8.91997">Haltpärg</placeName><note type="editorial"> Haltberg</note>, ein viertzig järige person, gantz trutzenlich<note type="editorial"> trotzig, frech, Id. XIV, 1678f.</note>, ouch so arglistig unnd abtrünige person, das sy onne alles verschonen mit fräffel<note type="editorial"> dreist, Id. I, 1286.</note> unnd hewischer<note type="editorial"> närrisch, Id. II, 1822.</note> gesicht uff beschächne frag redt: Nein, er hett mir, vogt Holtzhalben, nit geschworen unnd welle der oberkeyt nit schweren, ja ouch wan unnser gnedig herren wider jren sygent (darvor unns gott altzyt verhütten), zů reyß zugint<note type="editorial"> einen Feldzug unternehmen, Id. VI, 1289.</note>, so welte er ouch nit mit jnen ziechen.</p>
+<p>Glych, doch nit so gar trutzliche meinung redtent ouch obgenante mans personen, das sy mir nit geschworen unnd mit üch, minen gnedigen herren, den fygent<note type="editorial"> Feind</note> hälffen zeschedigen, jm falh der not nit züchen, sunder vil meer jn lieben und jm gůts tůn.</p>
+<p>Vorgeschribne fünff personen sinnd jnn Walder unnd Vischentaler pfarren wonhafft.</p>
+<pb n="5" facs="E_I_7_2__Nr__169__S__5_.tif"/>
+<p><persName ref="Erzinger, Barberli">Barbelj Ertzinger</persName>, wylundt<note type="editorial"> vormals und jetzt, Id. XV, 1254.</note> <persName ref="Erzinger, Konrad">Cůnratt Ärtzingers</persName> uff Guldinen<note type="editorial"> Guldenen</note> jnn der pfarr zů <placeName ref="LOC_47.29762_8.69432">Egg</placeName> gesäßen tochter.</p>
+<p rend="margin-top">Unnd nachdem jch, vogt Holzhalb, jetz genante personen jres gloubens, ouch der ­toüf­ferischen leer und säckt erjneret unnd, warumb sy jn jre oder anndere unnsere kilchen und pfarren das wort gotz zehören zegand wider ußgangne mandathen ungehorsam unnd von jren gmeinden sünderint unnd ußschlüßent, rächenschafft unnd bescheyd zů gäben, zů mir alhar jnn das schloß bruͤfft.</p>
+<p rend="margin-top">Herrn <persName ref="Hamberger, Hartamn">Hartman Hambärgern</persName>, tächan und pfarrer zu <placeName ref="LOC_47.27572_8.85378">Dürnten</placeName>.</p>
+<p>Herr <persName ref="Wyss, Felix">Felix Wyßen</persName>, </p>
+<p>Herr <persName ref="Dutwiler, Rudolf">Růdolf Dutwylern</persName> ^#.} pfarrer und halffer zů <placeName ref="LOC_47.30253_8.76864">Goßow</placeName> unnd <placeName ref="LOC_47.34178_8.76767">Seegreben</placeName>.</p>
+<p>Den lanndtschryber,</p>
+<p>den unndervogt,</p>
+<p>unnd <persName ref="Maag, Hans">Hanns Magen</persName> zur Kindenmans mülj.</p>
+<p rend="margin-top">Unnd wie ein jeden nit nun allein nach und jn abwäßen des annderen, sunder ouch uff jren bescheyd unnd jr entschuldigung unnd beharren, das jr säckt rächt, darvon sy ouch nit wychen unnd dar ob ee lyden, was jnen gott zur straff ufflegge, jst mit jnen von unns allen der länge und noturfft nach uß alt unnd nüwem testamenten ouch göttlicher heliger geschrifft sovil geredt, dardurch wir verhofft, sy darmit dahin bewegt unnd gepracht, das sy nachmaln jrer ungegründten meinungen <pb n="6" facs="E_I_7_2__Nr__169__S__6_.tif"/> abgestannden unnd von jren hartnäckigen eigenrichtigen lätzköpfen<note type="editorial"> Querkopf, Verrückter, Id. III, 413.</note> zewychen unnd hetten sich begäben, nun hinfüro wider zum wort gotz zeverfuͤgen, das mit allem yffer unnd ernst zůhören unnd fürnämlich den allmächtigen gott ernstlichen zů ruͤffen und zů pitten, jnen jre fäler unnd jrige säckten zůverzychen unnd sy wie ouch alle cristengloübigen mäntschen mit sinem heligen geyst zů erlüchten unnd zebegaben, das sy nach sinem heyligen unnd ewigen wort läbint, ouch nach sinen gepotten wandletint etc. Aber unangesächen aller vermanungen, söliche wytloüffiger zů beschryben mins achtens unott, jst jr bescheyd unnd verharren, wie obstatht.</p>
+<pb n="7" facs="E_I_7_2__Nr__169__S__7_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

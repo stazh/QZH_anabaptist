@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_806</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355197">StAZH E I
+              7.3, Nr. 145</idno>
+          </msIdentifier>
+          <head>Das Ehegericht an Bürgermeister und Rat von Zürich (Zeugenaussagen betreffs
+            Ehestreit zwischen Hans Heinrich Kolb und Magdalena Meister und Scheidungsantrag)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (10 Doppelblätter)</filiation>
+              <filiation type="original"><origDate when="1609-11-21"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1609-11-21"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 692</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" facs="E_I_7_3__Nr__145__S__1_.tif"/>
+        <pb n="2" facs="E_I_7_3__Nr__145__S__2_.tif"/>
+        <pb n="3" facs="E_I_7_3__Nr__145__S__3_.tif"/>
+        <p>Fromm, edlen, vesten, fürsichtigen, ehrsamen<note type="critical">In der Vorlage:
+            ahrsamen (Lesung unsicher)</note>, wyßen, jnnsonders ghönnstigen, g[nädigen], lieben
+          herren. Als wir Hanns Heinrich Kolben und desselbigen ehefrauw Magdalena Meisterin sampt
+          beidertheilen ehrennden bystännden erstlichen syne schrifftliche clagen unnd begeren,
+          dargegen jr darüber gestelte auch schrifftliche clagen, anntwortten und begeren ableßende
+          verstannden, wie söliches e[uer] e[hrsam] w[yshei]t uß dennselbigen der parthigen harbj
+          ligenden lanngen wytlöüffigen fürtragen<note type="editorial"> Nr. 689 und 691.</note>
+          ableßende auch zů vernemmen haben wirtt. Wir daruff volgende von jnen beiden gestelte
+            kunndtschafften<note type="editorial"> Personenkreis, welcher Kundschaft (Zeugnis vor
+            Gericht) erteilt, vgl. DRW VIII, 98.</note> jnn byweßen der parthigen unnd <persName ref="Sommerauer, Hans">Hannsen Sumerauwer</persName> des pfisters verhört unnd sagt des
+          ersten:</p>
+        <p>1. <persName ref="Lang, Hans">Hannß Lanng</persName> ußem Thal<note type="editorial">
+            Vermutlich ‘Tal’, ein Gebiet am Fisibach, nordwestlich von Bachs, gehörte zur Obervogtei
+            Neuamt</note> jm Nüwen ampt: Hür jnn aller ernnd were es fünffzechen jar gesyn, das
+          Hanns Heinrich Kolb (der jnne wol khenndt von <persName ref="Ziegler, Hans (Schwager von Kolb)">Hannßen Zieglers</persName> seligen wegen, der
+          des Kolben schwöster ghept habe) zů jmme, zügen, aben kommen, uff dem veld jnne angeredt,
+          zů syner ehefrauwen, die kranngkh sige, die zůbeschauwen<note type="editorial"> ärztlich
+            untersuchen, Id. VIII, 1616f.</note> zekommen, daruff er mit jmme jnn syn behußung uff
+          dorff ganngen. Unnd wie er sy besichtiget, züg wol gesechen, was sy gehept, nammlichen die
+          veltschen süren<note type="editorial"> Blasen, Id. VII, 1293.</note> oder franntzoßen<note type="editorial"> Franzosenkrankheit, Syphilis, Id. I, 1312.</note>. Habe aber weder
+          jren nach<note type="editorial"> noch</note> dem Kolben gesagt, was es sige, damit sy nit
+          verschreydt werde oder uß dem huß muͤsse. Unnd das züg nit alle mahl selbst alhar muͤsse,
+          er dem Kolben <pb n="4" facs="E_I_7_3__Nr__145__S__4_.tif"/> angeben, wie er sy artznen
+          unnd was er darzů bruchen sölle etc. Mit welichem dann die frauw recht geheilet unnd züg
+          ummb syn belönung bezalt worden, das er zůfriden gewesen. Inne, denn Kolben, aber habe er,
+          züg, an synem lyb nie geartznet. Ob aber Kolb, das was er jmme gedachter zyten angeben,
+          behalten oder gelehrdt oder ob er sich selbs oder anndere damit geartznet oder nit, sige
+          jmme, zügen, unwüssent.</p>
+        <p>2. M[eister] hans <persName ref="Wegmann, Hans Bernhard">Bernhart Wegmann</persName>, der
+          scherer alhie, sagt, wie er vor fünnffzechen jaren zů Hans Heinrichen Kolben, denn er an
+          einem knie wegen eines zůgestanndenen fals geartznet, jnn das huß ganggen sige, habe er
+          damahlen an desselben ehefrauwen gesechen, das von einer bößen versaltzenen materij
+          harkommen etc. Khönne aber nit reden, das es die franntzoßen geweßen, dann derglychen, so
+          wol nit ußgefhürt werden<note type="critical">Folgt gestrichen: können</note> thuͤgen, das
+          nit dem annderen auch etwas theile darvon werde etc. Hienebent habe züg jro, der frauwen,
+          keinj artznigen geben, sonnderen <persName ref="Lang, Hans">Hanns Lanng</persName> habe sy
+          churiert. Nachgenntz aber vor zweyen jaren habe züg sy, des Kolben frauw, an einem
+          schengkel (der beschlossen geweßen, daran sy großen schmertzen gehept, weliches auch von
+          einem versaltzenem flusß nacherkommen unnd mit einer vollkommenen chur <pb n="5" facs="E_I_7_3__Nr__145__S__5_.tif"/> ußgefhürt werden muͤssen etc.), geheylet, doch
+          khönne er abermahlen nit reden, das eß die franntzoßen geweßen sigen.</p>
+        <p>3. <persName ref="Kern, Heinrich">Heinrich Kern</persName>, schuldheiß zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>, sagt: Hans Heinrich Kolb unnd dessen ehefrouw haben
+          jmme kinder uß christenlichem thauff gehaben unnd, nachdem Kolb widerumb uß <placeName ref="LOC_49.5_17">Mehrherren</placeName> kommen, were züg zů jnnen jnn jr behußung ganngen,
+          des orrts beide ehemntschen uff einannderen klagt unnd Kolb gemeldet, es manngle jmme
+          etwas silbergeschir etc. Item wie Hans Heinrich Kolb darnach zů herpsts zyt wyn zekouffen
+          ghan Bülach kommen und züg zum Kopff<note type="editorial"> Gasthaus zum Kopf (heute
+            Marktgasse 9)</note> ein thrungkh mit jmme gethan, habe Kolb domalen vil ab jren clagt,
+          das sy unthrüw unnd derglychen an jmme worden und sovil klagens, dz ein schryber gnůg
+          zeschryben hette. Kolb hab vil wyns, unnd a[nno] etc. 1599 fast 100 saum<note type="editorial"> Masseinheit für Wein</note> by jnnen ußen kaufft. Item sy, die frauw,
+          were auch vil ußen kommen, wüss aber von jren, der frauwen, kein ungepür oder unehr
+          zesagen, dann er nach anndere synes wüssens derglychen von jren nit gesechen nach gehört.
+          Sy were hußlich geweßen mit der zehrunng. Alein habe sy, die frauw, wann sy mit denn
+          wynlüthen abgerechnet, mehrentheils etwas spans<note type="editorial"> Streit</note>
+          gehept unnd dann jr man, wann es richtig zemachen geweßen, auch darbj gesyn. Unnd uff ein
+          mahl habe jr tochterman gemeldet, sy habind einen handel mit einandern.</p>
+        <p><pb n="6" facs="E_I_7_3__Nr__145__S__6_.tif"/> 4. <persName ref="Volkard, Josias">Josiaß
+            Folgkhart</persName>, hauptmann zů Bülach, sagt: Vor jar unnd tagen habe züg Hanns
+          Heinrich Kolben unnd syner ehefrauwen ein fasß mit wyn von <placeName ref="LOC_47.56064_8.49635">Glattfelden</placeName> har gefhuͤrt. Da das ein fasß ein nüwes geweßen, daran ein
+            dugen<note type="editorial"> Dauben, Langhölzer für die Herstellung von Fässern, Id.
+            XIII, 2240.</note> bj dem Homberg gebrochen, das es grunnen. Züg dasselbig vermacht<note type="editorial"> verschliessen, Id. IV, 47.</note> unnd das fasß ummbgewellzt. Wie nun
+          züg jnn die statt kommen, die frauw jnne gefraget, wie es mit dem ummgeweltzten fasß ein
+          gestalt, er sy berichtet. Unnd daruff die frauw jnnen ässen unnd thrinnken, auch ein
+          vierfache keißerische kronen geben. Da ein annderer gemeldet, er neme dasselbig gold nit,
+          thůge es nit. Daruff die frauw es jmme mit annderem gelt gůt gemacht. Item züg jren
+          bevollen, von synetwegen Hanns <persName ref="Schlatter, Hans Heinrich">Heinrichen
+            Schlatteren</persName> 6½ gulden<note type="critical">In der Vorlage: fl</note> zůgeben.
+          Da aber züg nachgenntz von demselben verstanden, sy habe es jmme nit geben wellen, welle
+          es derhalben nit mehr höüschen. Mit wytterem, sy sage, züg hab jren wyn ußrünnen lassen
+          etc., weliches züg jren fürgehalten<note type="editorial"> vorwerfen, Id. II,
+          1234.</note>. Darüber sy zů bescheyd geben, well jnne, zügen, bezalen, sige mit jmme wol
+          zůfriden. Zů einer annderen zyt er mit dem Kolben zů unfriden worden, vermeldende, wolten
+          jmme vilichter gern thůn wie dem fhůrman von <placeName ref="LOC_47.56064_8.49635">Glattfelden</placeName> und daruf einannderen geschlagen. Hienebent habe sy, die frauw,
+          unnd jr man die sachen ummbhin zogen, wann er mit jnnen etwas zů verrichten gehept habe.
+          Züg meinj, es sige eins wie daß annder.</p>
+        <p><pb n="7" facs="E_I_7_3__Nr__145__S__7_.tif"/> 5. <persName ref="Meyer, Heinrich">Heinrich Meyer</persName> von <placeName ref="LOC_47.52804_8.54071">Bülach</placeName> sagt, was er
+          mit Hanns Heinrichen Kolben unnd syner ehefrauwen gehanndlet<note type="editorial"> gegen
+            jmd. vorgehen, mit jmd. zu schaffen haben, Id. II, 1402.</note>, ligge, wie er achte,
+            verschrieben<note type="editorial"> schriftlich aufgezeichnet</note> alhie hinnder dem
+            rechten<note type="editorial"> Gericht</note>. Darnebent wie er syn gelt ummb denn wyn
+          von der frouwen geforrderet gehept, sy jmme dasselbig kum gnůg geben wellen. Des ursachen
+          er, züg, zum herren burgermeister ganngen uff denn platz, nachgenntz sy es jmme jnn
+          byweßen des unndervogts von <placeName ref="LOC_7.56767_8.41902">Keißerstůl</placeName> geben.
+          Unnd er, unndervogt zur Linnden, alhie zů zügen geredt, disere frauw sige ein unrichtiges
+          wyb, habe derglychen nit vil gesechen, vermeinte auch, es sige mehr gelts dann jnnen
+          gehöre. Daruff were sy, die Kolbin, jnn das wirdtshuß kommen, fürgewenndt<note type="editorial"> einwenden, Id. XVI, 428.</note>, hab jnnen zůvil gelt geben unnd damit
+          jmme denn segkel uß dem bůßen zůnemmen unnderstannden. Züg dz nit beschechen lassen
+          wellen, anzeigende, wellind es zůvor zellen unnd so etwas für<note type="editorial">
+            übrig</note>, jren das werden lassen. Wie nun sy das gelt jnn ermeltes und eines
+          schlossers byweßen ordenlichen gezelt, habe man funnden, das siben guldj für gewesen, die
+          züg jro, der frauwen, gůtwillig gern geben unnd überanntwortt habe.</p>
+        <p>6. <persName ref="Rützensdorfer, Heinrich">Heinnrich Ruͤtzenstorffer</persName>, der
+          glaser jm <placeName ref="LOC_47.30327_8.51918">Wyl</placeName><note type="editorial"> Im
+            Wil</note> am Adlischwyler berg, sagt: Er lasse es bj syner deßwegen harbj liggennder
+          mit A:<note type="editorial"> Vgl. Nr. 688.</note> bezeichneter gegebner schrifftlichen
+          kunndschafft, die jmme vorgeleßen worden, belyben. Darbj fhernners anzeigende: Es <pb n="8" facs="E_I_7_3__Nr__145__S__8_.tif"/> were nun sechßzechen jar angestannden,
+          könndte derhalben kein eyd darummbe thůn, alein wüsse er nach wol, das <persName ref="Sommerauer, Hans">Hannß Sumerauwer</persName> gegen zügen gemeldet, es were
+          zwüschent jmme unnd der Magdalena Meisterin kein thadt verganngen; wann aber gott nit
+            baß<note type="editorial"> besser</note> gehuͤttet hette, wüßt er nit, was beschechen
+          were. Zum annderen, das züg Hans Heinrichen Kolben ynzogen<note type="editorial">
+            beherbergen, Id. XVII, 1002.</note> haben sölt, sige nit, dann wiewol derselbig vor
+          dißerem zwey mahl jnn zügen behußung gesyn, sige er doch selbiger zyten nit anheimsch<note type="editorial"> im Land anwesend, Id. II, 1286.</note>, sonnderen an annderen orrten
+          geweßen.</p>
+        <p>7. <persName ref="Locher, Jakob">Jacob Locher</persName>, burger alhie, dißmalen wirtt
+          uff dem bad zů Urdorff<note type="editorial"> Urdorf hatte ein Bade- und Kurhaus (heute
+            Wirtschaft zur Sonne).</note>, sagt: Verschinnen<note type="editorial"> letzten</note>
+          somers züg mit Hanns Heinrich Kolben unnd desselben ehefrauwen (wyl die badens wegen mit
+          jmme überkommen wellen) alhie geässen. Wie nun disere ehementschen sammpt jrem son ghan
+            <placeName ref="LOC_47.37984_8.42242">Urdorff</placeName> kommen, deßglychen ein achtzig jeriger man,
+          meister <persName ref="Gyger, Anthoni (alias Anthoni Stauffacher)">Anthonij
+            Gyger</persName>, unnd Hanns <persName ref="Stoll, Hans Rudolf">Růdolff Stoll</persName>
+          mit jren ehewyberen auch daselbsten gebadet, werind underzwüschent gemelten personen
+          badfartten derselbigen verwanndten, schwösteren oder brůderen dahin kommen unnd uff ein
+          zyt auch thöüffer jnn zügen abweßen unnd nachgenntz züg von synem volgkch verstannden, die
+          badlüth habind zůsamen getragen unnd einannderen gůts bewißen; darnebent gehört, das Kolb
+          unnd syn ehefrauw sonnderbar gebadet vermeldende, sy bade heisß, <pb n="9" facs="E_I_7_3__Nr__145__S__9_.tif"/> unnd dargegen er (der by synem son gelegen) kalt.
+          Item sy habind zů zyten mit einanndern glebt wie katz unnd muß. Hienebent die
+            badwescheren<note type="editorial"> Angestellte des Bades</note> (diewyl disere
+          ehementschen kein magt by jnnen gehept habind) jnnen etwan (reverenter) bad sachen
+          gewäschen. Darfür dann die frauw jnn jrem gemach jren auch etwas geben unnd Kolb dann
+          gemeindt, anndere lüth sigen da jnnen, das aber nit gewäßen etc. Zůdem habe er, züg, von
+          jren unnd jmme nützit ungepürliches gesechen noch gehört unnd sy, die frauw, als sy
+          vormalen sammpt jrer tochter zů Urdorff gebadet, sich auch also gepürlichen verhalten
+          habe, wie er verstannden.</p>
+        <p>8. <persName ref="Diggelmann, Hans">Hanns Digkelmann</persName>, ein blinnder
+            pfründer<note type="editorial"> Person, die auf Kosten eines gestifteten Vermögens
+            lebt</note> jm spittal alhie, sagt: Uff ein zyt als er für<note type="editorial">
+            vor</note> Hanns Heinnrich Kolben huß ganngen, syn ehefrauw Magdalena Meisterin jnne
+          gebätten, zů jrem man jnn die stuben zeghan, dennselben zů pitten, denn sonn ein halb jar
+          uß dem huß zethůn, dann derselbig machi vil unrimigkeitt zwüschent jnnen, sölle jnne von
+          derglychen ab unnd zů pflanntzung einigkeitt vermanung etc. Das züg gegen jme, Kolben,
+          ußgericht. Daruff er, Kolb, jmme clagt, sy sage, er syge von gott und synem wortt
+          abgefallen, an jren unnd der oberkeitt unthrüw worden, sige ein glychßnerischer<note type="editorial"> heuchlerischer</note> phariseer unnd welle mit jmme charren<note type="editorial"> keifen, zanken, Id. III, 429.</note> etc. <pb n="10" facs="E_I_7_3__Nr__145__S__10_.tif"/> Unnd wie züg wider von jmme ganngen, habe er an
+          der stegen geredt, wolte jren nach verzychen unnd gott für sy pitten.</p>
+        <p>9. <persName ref="Bächi, Heinrich">Heinnrich Bächj</persName> ab dem hof Büliberg<note type="editorial"> in der Gemeinde <placeName ref="LOC_47.50849_8.59755">Embrach</placeName></note> sagt: Vor fünff jaren, als züg sammpt synem gespanen<note type="editorial"> Kamerad</note> von Auggwyl<note type="editorial">
+            <placeName ref="LOC_47.473590_8.600935">Augwil</placeName></note> Hanns Heinrichen Kolben von der Thur
+          unnd <placeName ref="LOC_47.61821_8.63816">Marthalen</placeName> nacher vier fůder wyn alhar gefhuͤrt
+          unnd sy selbigen fůrlon ummb 47 gulden von jmme begert, er sy geheissen, zů syner
+          ehefrauwen jnn die stuben ufhin ghan zů rechnen. Selbigen mals sy, die frauw, zu jnnen
+          gesagt, sy habind ein saum minnder gebracht, dann die fasß gewäßen, und jnnen darfür einen
+          taler jnnbehalten wellen. Welliches züg und syn gespan widersprochen mit anzeigunng, dz sy
+          uffrecht mit der sach ummbganngen unnd derhalben zů einem herren burgermeister wellen.
+          Daruff habe sy jnnen widerummb ufhin zekommen geruͤfft, denn bemelten<note type="editorial"> erwähnten</note> taler zůgeben. Wie sy aber jnnen darnach ein halbe
+          kronen unnd letstlichen einen digken<note type="editorial"> im Gegensastz zu leichteren,
+            dünnen Münzen, Id. XII, 1226.</note> pfeninng jnn behalten wellen, sy widerummb zů einem
+          burgermeister begert. Dann sy beid aber nüdt abzüchen<note type="editorial"> Schaden
+            zufügen, Id. XVII, 952.</note> nach sich von jren letz<note type="editorial"> verkehrt,
+            Id. III, 1549.</note> stellen wellen lassen, diewyl es nit nun denn taler, sonnderen
+          auch einen saum wyn belannget hette. Daruff habe sy, die frauw, jnnen denn gemelten taler
+          zůgestelt.</p>
+        <p><pb n="11" facs="E_I_7_3__Nr__145__S__11_.tif"/> 10. Hanns Jeörg Fietz, der glaser alhie,
+          sagt. Verschinner zyten habe Hanns Heinnrich Kolb, als der domalen uß dem Gyren- oder
+            <placeName ref="LOC_47.30954_8.87055">Urdorffbad</placeName><placeName ref="Urdorf"/><note type="editorial"> Im Weiler Gyrenbad und in Urdorf befanden sich Kurbäder.</note>
+          heimbkommen sige, jnn synem keller jmme, zügen, einen thrunngkh gegeben unnd sy beid
+          domahlen jnn demselbigen keller ein stughkh fleisch funden, darjnnen, reverenter, maden
+          gewachßen sigen.</p>
+        <p>11. M[eister] <persName ref="Häfeli, Jakob">Jacob Häfelis</persName>, der messerschmid
+          alhie, sagt: Hanns Heinnrich Kolb habe verlaugnet, das synes schwagers Körnners<note type="editorial"> Hans <persName ref="Körner, Hans Rudolf">Rudolf Körner</persName> war
+            seit 1585 mit Elisabeth Meister, Magdalenas Schwester, verheiratet.</note> volgch nit
+          jnn syn huß kommen sölte. Dann grad selbigen tags ungefar vor sechs oder acht wuchen
+          bemelten Körnners magt jnn des Kolben behußung kommen unnd Kolb unnder anderem <persName ref="Sommerauer, Hans">deß Sumerauwers</persName> zů red worden unnd züg darüber
+          gemeldet habe, auch etwas gehört, namblichen von einer frauwen, die ein <persName ref="Sprüngli, N.">Sprünglin</persName> geweßen unnd vor etwas zyts gestorben syn, jnn
+          zügen huß verstannden, dass dieselbig geredt, deß Somer­auwers ehefrauw habe uff ein zyt,
+          als jr eheman uß Magdalena Meisterin huß kommen und etwas uneinig deßwegen über jnne
+          gweßen, syn (jres ehemans des Sumerauwers) gepurt glid (reverenter) angegriffen, weliches
+          nach nasß geweßen sige etc. Söliches aber habe er, züg, wie gemeldet, alein von gedachter
+          frauwen, der Sprünnglinen seligen, gehört unnd von dem Sumerauwer oder desselben ehefrauw
+          selbs nützit. Hienebent Kolb jmme, züg, geoffnet<note type="editorial"> anzeigen, Id. I,
+            114.</note>, das syn ehefrauw jmme übel huße unnd ußtrage<note type="editorial">
+            (Gerüchte) unter die Leute tragen, herumerzählen, vgl. <hl to="http://fwb-online.de/go/austragen.s.3vu_1732182225"><Hyperlink>http://fwb-online.de/go/austragen.s.3vu_1732182225</Hyperlink></hl>
+            (Frühneuhochdeutsches Wörterbuch).</note>.</p>
+        <p><pb n="12" facs="E_I_7_3__Nr__145__S__12_.tif"/> 12. M[eister] Hanns <persName ref="Bachofen, Hans Kaspar">Caspar Bachofen</persName> sagt: Ungefahr uff kommenden
+          fryttag (vom 15. novembris an) werde es vier wuchen, das sich jnn Hanns Heinrich Kolben
+          huß, der domahlen zů <placeName ref="LOC_47.61821_8.63816">Marthalen</placeName> geweßen, etwas
+          erhept, das Kolben son, dessen er, züg, vogt sige, zum fennster ußgeschruwen habe. Der
+          ursachen züg sampt <persName ref="Muster, Jörg">Jeörgen Muster</persName> unnd jrem
+            hußman<note type="editorial"> Mieter</note>, dem pfister, jnn das huß ganngen, sechen
+          wellen, was es sige. Wie sy nun dahin kommen, habe man, wiewol sy am gemach anklopffet
+          unnd geruͤfft, nitt ufthůn wellen. Darnebent züg gemeldet, wann es nit nachlan welle,
+          wellind sy die thür mit einer ax oder sonnst ufbrechen. Als aber dz geschrey nachlassen,
+          werind sy wider hinweg ganngen und züg angezeigt, wann sich wytters zůtruͤge, sölle man
+          jnne dessen berichten. Habe es ouch meister Hanns <persName ref="Wiederkehr, Hans Heinrich">Heinrich Widerkheren</persName><note type="editorial">
+            Hans Heinrich Wiederkehr war seit 1585 mit Elisabeth Kolb verheiratet.</note>, Kolben
+          schwager, zůwüssen gethan und der frauwen vogt, Hanns <persName ref="Burkhart, Hans Jakob">Jacoben Burgkharten</persName>, der jmme angezeigt, die frauw sage, sy hab jme nützit
+          gethan. Unnd wie nachgenntz die můtter unnd son zůsamen kommen, hab sy geredt, habe jmme
+          nüdt gethan. Daruff der knab nüdt gesagt, sonnderen gestannden unnd grinnen<note type="editorial"> weinen, Id. II, 745f.</note>.</p>
+        <p>13. Jeörg Must, der schůmacher, sagt: Wie bemelter m[eister] Hanns <persName ref="Bachofen, Hans Kaspar">Caspar Bachofen</persName>, das er jren son ein wyl jm huß
+          schrygen hören unnd das es domahlen jnn des Kolben huß beschechen. <pb n="13" facs="E_I_7_3__Nr__145__S__13_.tif"/> Sige wie oberzelt. Sonnsten was denn Kolben und
+          syn ehefrauw belannge, wüsse er von keinem nüdt ungerpürliches oder unehrbars zesagen.
+          Habe auch uff die nit gelůget.</p>
+        <p>14. <persName ref="Rynacher, Jakob">Jacob Rynacher</persName>, der pfister, der sidt der
+            kilbj<note type="editorial"> Kirchweih, also seit dem 11. September</note> jnn Kolben
+          huß zehuß, sagt: Wie uff ein zyt <persName ref="Holzhalb, Alexander">Alexannder
+            Holtzhalben</persName><note type="editorial"> Alexander Holzhalb (1572-1609) war seit
+            1599 mit Susanna Kolb verheiratet.</note> töchterlj jnn des Kolben huß kommen, habe des
+          Kolben frauw zů demselben gesagt, was es thůn welle, ob es auch ußtragen welle wie syn
+          vatter unnd můtter. Darby einen beßenstil genommen unnd es damit schlachen wellen,
+          weliches züg jren gewehrt. Item uff ein zyt habe züg gesechen, das der keller morgens
+          fhruͤ, als der Kolb jnn der kilchen geweßen, offen gestannden unnd ein holtzschytter etwas
+          ußen getragen. Zügen unwüssent was, sonsten habe züg das huß nie vergaumdt<note type="editorial"> beaufsichtigen, Id. II, 303.</note> und uff des sonnß begeren denn
+          Kolben synen vatter von dem <placeName ref="LOC_47.37029_8.54133">Kembel</placeName>
+          heimbkommen heissen.</p>
+        <p>15. M[eister] <persName ref="Bantli, Felix">Felix Banndtli</persName> alhie sagt: Hanns
+          Heinnrich Kolben frauw were vil jnn das kornnhuß (wann jr eheman die überrötj<note type="editorial"> Krankheit mit Rötung der Haut, das Wort wurde sowohl für Wundrose als
+            auch Masern gebraucht, Id. VI, 1782f.</note> gehept) kommen, von deren habe er kein
+          ungepür oder unzucht gesechen. Darnebent Kolb jmme etwan anzeigt, das gelt komme jmme
+          hinweg, wüsse nit wohin. Züg jmme geraadten, gůt sorg darzů zehaben. Item uff ein zyt habe
+          sy bj denn geschiren jm <placeName ref="Zürich, Kornhaus">Kornnhuß</placeName> staand<note type="editorial"> stehend</note> dz wasser (reverenter) lauffen <pb n="14" facs="E_I_7_3__Nr__145__S__14_.tif"/> lassen. Ob aber sy voll geweßen oder nit, wüsse
+          züg nit. Sy hab auch jrem eheman mit kornn verkouffen jm kornnhuß, sovil züg gesechen,
+          nützit versummbt.</p>
+        <p>16. Hanns <persName ref="Vögeli, Hans Heinrich">Heinrich Vögeli</persName>, stubenknecht
+          am platz, sagt, wie verschinner faßnacht züg unnd anndere jnn <persName ref="Holzhalb, Alexander">Alexannder Holtzhalben</persName> huß zechet, Hanns Heinrich
+          Kolb auch zů jnnen kommen unnd uff denn aabend desselben son, welicher grinnen unnd nüdt
+          sagen können. Also das <persName ref="Stachel, Hans">Hanns Stachel</persName> sich über
+          jnne erbarmedt unnd, damit er schwyget, jmme einen batzen geschenngkt. Und nachgenntz
+          Hanns Heinnrich Kolben jnnen geoffnet, der son hab jmme, dem vatter, anzeigt, die můtter
+          hab jnne also geschlagen, uß ursachen das er denn schlechteren wyn ummb 10 schilling<note type="critical">In der Vorlage: ß</note> nit ummb 12 schilling geben habe.</p>
+        <p>17. Hanns <persName ref="Schaufelberger, Hans Heinrich">Heinrich
+            Schuffelberger</persName>, der pfister, sagt: Verschinner faßnacht were des Kolben son
+          jnn Alexannder Holtzhalben huß kommen, grinnen unnd uff zügen befragen geredt, die můtter
+          hab jnne also geschlagen, umb ursachen dz er denn 10 schilling werttigen wyn nit umb 12
+          schilling geben habe.</p>
+        <p>18. <persName ref="Eberli, Rudolf">Růdolff Eberlj</persName>, der messerschmid, sagt: Syn
+          schwöster, die bj dem Kolben zehuß, habe jmme vor drü jaren angezeigt, wegen von deß
+          Kolben ehefrauwen kommenden <pb n="15" facs="E_I_7_3__Nr__145__S__15_.tif"/> bößen
+          geschmachkts thuͤge es jren weh über das hertz. Züg der schwöster gesagt, sölle
+            baumöhl<note type="editorial"> Olivenöl, vgl. <hl to="http://fwb-online.de/go/baum%C3%B6l.s.2n_1732153883"><Hyperlink>http://fwb-online.de/go/baum%C3%B6l.s.2n_1732153883</Hyperlink></hl>
+            (Frühneuhochdeutsches Wörterbuch).</note> thrinngken. Item vor fünnffzechen oder
+          sechstzechen jaren habe des Kolben frauw jnne, zügen, anzeigt, meister <persName ref="Egg, Bernhard">Bernhart Egg</persName> höüsche jren zůvil artzner lohn, sölle mit
+          demselben, wyl er syn gůter bekanndter, harvon reden. Darüber m[eister] Bernhart Egg
+          gesagt, er höüsche jren nit zůvil, sy habe nit ein schlechte<note type="editorial">
+            einfache</note>, sonnder böße kranngkheit gehept, darvon er Egg zesagen wüsse.</p>
+        <p>19. <persName ref="Kambli, Heinrich">Heinnrich Kamblj</persName>, kupfferschmid, sagt:
+          Ungefhar vor drigen oder vieren wuchen Hannß Sumer­<persName ref="Sommerauer, Hans">auwer</persName> zů zügen by synem huß kommen, dem züg anzeigt, verstannde Hanns
+          Heinnrich Kolb welle gewalltig hinnder jnne har etc. Darüber habe Sumerauwer zů zügen
+          geredt, wann er gott nit geförcht, wüsßte nieman, was beschechen were. Doch habe er mit
+          jren nüdt zůschigken noch zeschaffen ghept. Item sigen zů nach gefrünndt<note type="editorial"> verwandt</note> mit wytterer anzeigunng, sy sige nüdt rechts.</p>
+        <p>20. <persName ref="Burkhart, Konrad">Cůnradt Burgkhart</persName>, der gerwer, sagt: Von
+          gassen reden habe er gehört, des Kolben frauw habe sich gegen Hannßen Summerauweren
+          enndtblößt, darummb er jnne, Sumerauweren, bj drigen wuchen befraget. Der jmme, zügen, zů
+          bescheyd geben, ja man habe geredt, das sy sich gegen jmme enndtblößt. Es habe aber sich
+          über jnne <pb n="16" facs="E_I_7_3__Nr__145__S__16_.tif"/> nützit erfunnden<note type="editorial"> sich erweisen, herausstellen, bewahrheiten, vgl. <hl to="http://fwb-online.de/go/erfinden.s.3vu_1732386826"><Hyperlink>http://fwb-online.de/go/erfinden.s.3vu_1732386826</Hyperlink></hl>
+            (Frühneuhochdeutsches Wörterbuch).</note>, unnd die sach gegen des bůchbinnders frauwen
+          vor dem Rüden<note type="editorial"> Haus zum Rüden, im Besitz der Gesellschaft zur
+            Constaffel</note> vor sibenzechen oder achtzechen jaren mit recht ußgemacht worden. Zum
+          annderen wie Kolb uß <placeName ref="LOC_49.5_17">Mehrherren</placeName> widerummbe alhar
+          kommen, er denn gefragt, man sage, sige jnn Mehrerren ufgenommen worden unnd habe sich
+          daselbsten thauffen lassen. Daruff Hanns Heinnrich Kolb geredt, ja er sige ufgenommen
+          worden unnd habe sich thauffen lassen.</p>
+        <p>21. <persName ref="Wunderli, Jakob">Jacob Wunnderli</persName> sagt: Hürigen jars habe
+          er, züg, von denn bruderen jnn <placeName ref="LOC_49.5_17">Mehrherrn</placeName> uff der
+            Nüwmüllj<note type="editorial"> Nové <placeName ref="LOC_48.85769_16.73018">Mlýny</placeName>
+          </note>, daselbsten Hanns Heinrich Kolb zůvor geweßen sige, gehört, er, Kolb, habe sich
+          daselbsten thauffen lassen mit vermelden, er möchte versumbt<note type="editorial">
+            aufhalten, unterlassen, Id. VII, 963f.</note> werden. Diß habe er, züg, wie gemeldet
+          alein von brůderen gehört unnd bj der thauffi nit geweßen, darzů sich selbs auch nit
+          thauffen lassen wellen.</p>
+        <p>22. <persName ref="Burri, Hans">Hanns Puri</persName>, der kremer, sagt: Wyl<note type="editorial"> als</note> er jnn Mehrherren geweßen unnd uff die Nüwmüllj kommen,
+          habe man daselbsten Hanns Heinrich Kolben, denn sy jren brůder genembt, nachgefraget, wo
+          er so lanng sige unnd jnnen nüdt schrybe. Darnebeendt züg jnn wytter erfarunng gebracht,
+          das er, Kolb, jr brůder unnd von jnnen gethaufft worden sige.</p>
+        <p>23. <persName ref="Kauf, Afra">Afra Kauffin</persName> von Aadorff, <persName ref="Schumacher, Hans">Hannßen Schůmachers</persName> badweschers zů <placeName ref="LOC_47.37984_8.42242">Urdorff</placeName> ehefrauw, sagt: Wie hievor des Kolben ehefrauw jm <pb n="17" facs="E_I_7_3__Nr__145__S__17_.tif"/>
+          <placeName ref="LOC_47.30954_8.87055">Gyrenbad</placeName> badet, habe sy sich ehrlich verhalten unnd
+          nachgenntz jnn drygen badenfardten<note type="critical">In der Vorlage: badenfadten</note>
+          zů Urdorff habe sy sich auch ehrlich unnd züchtig verhalten. Glychs sage sy von jrer
+          tochter auch unnd habe weder die můtter nach tochter nie vollen wyn gesechen. Item wie sy
+          sampt jrem man letstlichen zů Urdorff gebadet, werind etwan thöüffer zů jnnen kommen unnd
+          der Kolb sammpt <persName ref="Gyger, Anthoni">Anthonij Gygeren</persName> jr (züginen)
+          eheman zů einem thöüffer ghan <placeName ref="LOC_47.39503_8.52529">Wipkhinngen</placeName> schigken
+          wellen. Ir man aber nit ganngen, doch könne sy nit sagen, wüsse es auch nit, das Kolb
+          syner ehefrauwen jnn einem oder annderen ortt manngel gelassen haben sölt.</p>
+        <p>24. <persName ref="Eberli, Margretha">Margretha Eberlj</persName> sagt: Vor drüen jaren
+          habe ein alte frauw, Anna genanndt (die lannge jar bj denn alten Schwytzeren gediennt und
+          bemelter zyt vor drü jaren by meister Hanns <persName ref="Wegmann, Hans Bernhard">Bernharten Wegman</persName> zehuß geweßen), zů züginnen gesagt, sy sölle sich vor der
+          Kolbinen huͤtten, man werde sy ynleggen<note type="editorial"> einquartieren, zu Bette
+            legen, Id. III, 1182.</note>, habe die franntzoßen. Zügin aber wüsse nit, ob sy
+          dieselbigen gehept, sage es aucht nit. Dann so sy derglychen gewüßt hette, wolte sy nit
+          jnn das viertte jar by jren zhuß geweßen syn. Wüsse auch weder von jren nach jmme nüdt
+          ungepürliches oder unehrliches zesagen. Zůdem were bemelte Anna, jre ansagerin<note type="editorial"> Gewährsfrau, Id. VII, 406.</note>, sidharo gestorben. Darnebent jr,
+          zügingen, wol bewüsßt, das Kolb syner ehefrauwen alle zyt vil gůts bewißen unnd erzeigt,
+          kranngkg und gesunnd, und jren kein hunnger oder manngel gelassen.</p>
+        <p><pb n="18" facs="E_I_7_3__Nr__145__S__18_.tif"/> 25. <persName ref="Steffen, Apollonia">Appolonia Steffen</persName> sagt: Hanns Heinrich Kolb habe sy jnn syn huß beschigkt,
+          gefraget, ob syn ehefrauw jren nit zinin geschir geben habe, dasselbig zů verkauffen.
+          Darüber zügin jnn zůhören des Kolben schwöster<note type="editorial">
+            <persName ref="Kolb, Elisabeth">Elisabeth Kolb</persName>, Schwester von Hans Heinrich
+            Kolb, seit 1585 mit Hans Heinrich Wiederkehr verheiratet.</note>, der Widerkherinen,
+          gesagt, sy wüsse harvon gar nützit, habe derglychen nit empfanngen nach verkaufft. Darüber
+          Kolb gemeldet, sy werde es wüssen, habe es von ehrlichen lüthen, werde es aber nach wol
+          sagen muͤssen, wann der henngker zů jren komme. Darüber zügin gesagt, sy wüsse harvon
+          nüdt, unnd wer annders von jren sage, red nit die wahrheit, sonndern die unwahrheit.
+          Darumbe sy einen stannd thůn<note type="editorial"> einen Stand tun: in der Stellung
+            verharren</note> welle.</p>
+        <p>26. <persName ref="Schmidlin, Magdalena">Magdalena Schmidlin</persName> ab der <placeName ref="LOC_47.3953_8.53721">Unnderenstraß</placeName> sagt: Sige vor dem vier jar hinnder Hans
+          Heinrichs Kolben jm <placeName ref="LOC_47.4_8.53333">Letten</placeName> zhuß geweßen
+          unnd wüsse von jmme, Kolben, wie auch syner ehefrauwen Magdalena Meisteren nüdt dann alles
+          liebs unnd gůts, habe auch vermeinndt, sy, die frauw, hab jmme wol huß gehalten.</p>
+        <p>27. <persName ref="Schlumpf, Elsbetha">Elßbetha Schlumpffin</persName>, herren Hans
+            <persName ref="Bertschinger, Hans Heinrich">Heinrichen Bertschingers</persName>
+          ehefrauw, sagt: Der Hanns Heinrich Kolb (by dem sy zhuß) habe zů jren geredt, sy sölle jnn
+          jrem gemach belyben unnd syner frauwen oder vogt nüdt ußrichten, auch das hußvolgkh jren
+          nüdt kochen, welle deren lüthen jm huß nüdt. Dargegen aber wüsse sy, zügin, das Kolb jren
+          mit kochen unnd annderem tag unnd nacht gůtts gethan unnd jren kein hunnger oder <pb n="19" facs="E_I_7_3__Nr__145__S__19_.tif"/> manngel gelassen. Wüsse auch nit, das er
+          sich mit schlachen oder sonnsten ungepürlichen gegen jren verhalten habenn sölt. Hienebet
+          wüsse sy von jren, der frauwen, auch kein ungepür zesagen weder von hůrig, ußträgen,
+          thrinngken oder annderen derglychen. Dann wann jro etwas ungepürendes zů wüssen were,
+          wolte sy nit by jnnen zhuß<note type="editorial"> zur Miete</note> syn, habe auch ale wyl
+          sy by jnnen geweßen nit ein halbe maß wyn mit jren thrunngkhen. Uff ein zyt habe zügin die
+          Kolbin jnn jrer kamer darjnnen sagkhspön<note type="editorial"> Sägespäne</note> gesehen,
+          die jren anzeigt habe, sy etwas zůfragen. Item sy habe sich clagt, jr son vergaume<note type="editorial"> aufhalten, verhindern</note> sy, das sy nienen hin kommen khönne.
+          Zůdem habe der son gesagt, wie die můtter jm fürganng mit züginen geredt habe, welle es
+          dem vatter sagen, dz sy mit der herrinen rede.</p>
+        <p>28. <persName ref="Erni, Elsbetha">Elßbetha Ernj</persName>, <persName ref="Widenmann, Wilhelm">Wylhelmen Wydenmans</persName> seligen wittfrauw, die auch jnn
+          Hans Heinrichen Kolben behußunng zehuß, sagt: Ungefhar vierzechen tag nach nechst
+          verschinner kilwj habe Hanns Heinrich Kolben ehefrauw an einem monntag morgens jre tochter
+          Marya, die uß dem huß gen werchen ghan wellen, angeredt, einen holtzschytter zesůchen, das
+          derselbig ein fasßlj mit wyn, so einem puren zůgehörj, jnn des Gibels schmitten trage.
+          Selbigen mahls jr tochter, die von diser sach nüdt gewüßt, einen holtzschytter
+            gereicht<note type="editorial"> geholt</note>, dem das fesßlj ufgeben worden, an syn
+          ortt zetragen. Hienebent zügin vor sibenzechen jaren unge-<pb n="20" break="no" facs="E_I_7_3__Nr__145__S__20_.tif"/>fhar von jrem eheman seligen gehört, das derselbig
+          zů jro geredt, ob sy wüsse, das jr gefatter Marya des bůchbinnders frauw vor dem
+            <placeName ref="LOC_47.370886696226115_8.543203618444444">Rüden</placeName> (weliche obbemelte jr tochter
+          uß christentlichem thouff gehaben) kranngkh sige, mit jres ehemans seligen wytterem
+          vermelden, sy habe mit <persName ref="Sommerauer, Hans">Hannßen Sumerauwerren</persName>
+          vor recht<note type="editorial"> Gericht</note> etwas zeschaffen gehept.</p>
+        <p>29. <persName ref="Thomann, Anna">Anna Toman</persName>, <persName ref="Nötzli, Konrad">Cůnradtin Nötzlis</persName> jnn <color bgc="yellow">Enngi<note type="editorial">
+              <placeName ref="LOC_47.3605_8.53127">Enge</placeName></note></color> ehefrauw, sagt:
+          Hür, als die schürbiren<note type="editorial"> Birnensorte</note> ryff geweßen unnd zügin
+          nach hinnder Hanns Heinnrich Kolben im <placeName ref="LOC_47.4_8.53333">Letten</placeName> zhuß gsyn, were syn (des Kolben) frauw eins mahls thrunngkhen jnn jr
+          huß jm Letten kommen, mit jrem son jnn ein kamer ganngen unnd nach dem sy darjnnen
+          ußgeschlaffen, jrem man bevolhen, schürbiren zůschütten. Selbiger zyten were zügin
+          kranngkh gesyn unnd vil überthranngs<note type="editorial"> Übergriff, (widerrechtlicher)
+            Zwang, Id. XIV, 1090.</note> von jren gelitten. Sy sige vil thrunngken komenn unnd
+            seltzen<note type="editorial"> sonderbar, launisch, Id. VII, 874-876.</note> geweßen.
+          Item wie am aabend die gedachten schürbiren geschütt worden, habe die Kolbin mornndrigs
+          gefraget, wo sy hin kommen sigen, deren bericht darvon geben worden, wz sy am tag darvor
+          bevolhen unnd hin sy gethan. Item wyl Kolb nit bj lannd geweßen, habe syn
+            stifftochter<note type="editorial"> Barbara Bullinger, Tochter von Hans Heinrich
+            Bullinger (1557-1587) und Magdalena Meister (1559-?), Stieftochter von Hans Heinrich
+            Kolb, heiratete 1606 Alexander Bierbrauer.</note> man, <persName ref="Bierbrauer, Alexander">Alexannder Bierbrüer</persName>, uß dem huß jm Letten ein
+            spannbett<note type="editorial"> Bettgestell samt Gitterwerk, Id. IV, 1815.</note> unnd
+          annder holtz­werch hinweg fhüren lassen, wohin züginnen unwüssendt. Was aber der Kolbinen
+          tochter, genanndten Bierbrüers ehefrauw, belannge, habe zügin von derselbigen nützit
+          ungepürlichs gesechen, khönne auch von deren nit sagen, das sy voll geweßen.</p>
+        <p><pb n="21" facs="E_I_7_3__Nr__145__S__21_.tif"/> 30. <persName ref="Nötzli, Konrad">Cůnnradt Nötzli</persName>, vorgedacht, sagt: Inn zyten er hinnder Hanns Heinrich
+          Kolben jm <placeName ref="LOC_47.4_8.53333">Letten</placeName> zehuß geweßen, were sy
+          (des Kolben) frauw drü oder vier mal thrunngken jnn Letten kommen unnd eins mals an einem
+          Sonntag. Selbiger zyt sy mit jrem son jnn ein kamer ganngen, gugelfůr<note type="editorial"> ungebührliches Betragen, Scherz, Id. I, 972.</note> jnn derselbigen
+          getriben, darvon siner ehefrauwen, die jnn einer annderen kamer darnebent ­tod­khrangkh
+          gelegen, vil unrůw beschechen. Item wie sy, des Kolben frauw, ußgeschlaffen, habe züg jren
+          selbigen aabends uff der nacht ein schürbirenbaum schütten müssen unnd sy derselbigen jnn
+          denn keller behalten. Da aber sy mornndrigs dennselbigen nachgefraget, wer sy genommen
+          habe. Was dz spannbett, jtem annder holtzwerch, das <persName ref="Bierbrauer, Alexander">Alexannder Bierbrüer</persName>, desselben knab unnd des Hanns Heinnrichen knab zů
+          unnderschidenlichen mahlen hinweg gefhürt unnd tragen, möge züg nit wüssen, wer das
+          behalten oder gebrucht. Von syn (des Kolben) stifftochter aber wüsse züg nützit zesagenn,
+          habe auch dieselbig nie voll gesechen.</p>
+        <p>31. Hanns <persName ref="Staub, Hans Rudolf">Růdolff Staub</persName> an der <placeName>Mülljhalden</placeName> sagt: Wie verschinnen jars Hanns Heinrich Kolb
+          hinweg gezogen, er von syner ehefrauwen, was jr man jmme zethůn, bezallunng begert, die
+          jme domalen geoffnet, wüsse nit, wo er sige. Über<note type="editorial"> nach</note>
+          vierzechen tag aber sy jmme angezeiget, er were jnn <placeName ref="LOC_49.5_17">Mehrheren</placeName> uff der <placeName ref="LOC_48.85769_16.73018">Nüw Mülly</placeName>. Wie
+          nun züg mit jren gerechnet, were syn ansprach<note type="editorial"> Anspruch</note> fünff
+          unnd zwenntzig oder fünff und dryßig guldj gesyn unnd sy, die frauw, darüber gesagt, wie
+            <pb n="22" facs="E_I_7_3__Nr__145__S__22_.tif"/> man sy überfallen welle, mit begeren,
+          er söll einhunndert guldj mehr forderen, weder jr man jmme schuldig sige. Züg gesagt,
+          söliches möchte jmme schwer fallen. Uff ein annder mahl habe sy jnne wider gebetten, sölle
+          bemelte einhunndert guldj ansprechen<note type="editorial"> beanspruchen</note>, damit
+          jren gehulffen werde, sy well jnne enntheben, es müsse jme nüdt schaden. Darumbe sy auch
+          angehalten, als er dem wirtt zur Kronen steinen gefhürt, weliches zügen abermahlen schwer
+          gefallen, vermeldende, es möchte jmme übel schaden. Söliches auch bemeltem wirtt zur
+          Kronen (als der jnne gefraget, was sy so ernnstlich mit jme zů reden) angezeigt, der es
+          zügen auch gewehrt. Nachdem aber were sy wider zů jmme kommen, angezeigt, sölle nüdt uß
+          der sach machen unnd darzů schwygen, dann es sige jren sonnsten gehulffen worden.</p>
+        <p>32. <persName ref="Freytag, Bernhard">Bernnhart Fryttag</persName>, der wirrt zur Kronen,
+          sagt: als Hanns <persName ref="Staub, Hans Rudolf">Růdolff Staub</persName> jmme diß jars
+          steinen gefhürt unnd Hanns Heinnrich Kolben frauw dem einen potten geschikt, habe Staub
+          jnne, zügen, anzeigt, habe mit jrem man, als derselbig nach alhie geweßen, ein rechnung
+          gethan. Da beger sy jetzunnder an jnen, er, Staub, sölle einhunndert guldj mehr forderen,
+          dann er jmme schuldig sige.</p>
+        <p>33. <persName ref="Sennhauser, Benedikt">Benedict Sennhußer</persName> alhie wonnhafft
+          sagt: Verschinner ernnd ein jar geweßen, er ghan Rümlang jnn die ernnd ganngen, selbiger
+          mahls er Hanns Heinnrich Kolben sammpt syner ehefrauwen jnn der Köschenrütj thrinngken
+          funnde. Item Kolb jmme <pb n="23" facs="E_I_7_3__Nr__145__S__23_.tif"/> auch zůthrinngken
+          geben mit anzeigung, wellind mit jmme unnd selbigen tags nach ghan Marthalen. Diewyl aber
+          züg gesechen, das sy, die frauw, wol thrunngken geweßen unnd der Kolb auch einen gůten
+          thrunngkh gehept, were jren bevolhen worden, vor anhin zeghan. Das beschechen, unnd wie sy
+          beid (die etwan nach ein halbe maß zůthrinngken gehept) nachhin ganngen, denn keins uff
+          über Stigelen kommen, habe züg gesechen, das deß Kolben frauw nebent dem weg gelegen,
+          stargkh geschlaffen, die güppen<note type="editorial"> ärmelloser Rock, Id. III,
+            53.</note> über die knie gehept unnd züg gesechen, was jren gott geben habe. Ab welichem
+          züg übell erschrogken, jren mit dem wehr<note type="editorial"> Waffe oder Werkzeug, Id.
+            XVI, 906-909.</note> die güppen abhin gethan unnd beid, jr man und züg, sy ufstan
+          heissen. Item jr man letz<note type="editorial"> verkehrt, unrecht</note> gethan unnd züg
+          mit jnnen biß ghan Rümlanng ganngen. Selbiger zyten züg gesechen, das drig rosßknaben ummb
+          die gegne geweßen, da die frauw also gelegen sige, die gelachet habind.</p>
+        <p>34. <persName ref="Küng, Hans">Hanns Küng</persName> ab der <placeName ref="LOC_47.3953_8.53721">Unnderstraßen</placeName> sagt: Hanns Heinrich Kolb unnd dessen frauw werind etwan,
+          wann sy jnn unnd usß dem Letten ganngen, jmme begegnet, da sy, die frauw, etwan ein
+          thrunngkh gehept wie annder lüth ouch. Unnd wie jr eheman sy gefhürt, habe er jmme
+          dasselbig wol gefallen lassen, diewyl sy ehelüth geweßen. Habe aber sy nie fallen sechen,
+          unnd wann sy thrunngken geweßen, sige sy holdsellig gesyn. Hienebent habe Kolb jmme, <pb n="24" facs="E_I_7_3__Nr__145__S__24_.tif"/> zügen, etwan ab jren, hingegen sy, die
+          frauw, auch ab jmme clagt. Deßglychen die frauw an zügen begert, jren eheman von synem jm
+          Letten vorhabennden buw abzemannen, dz Kolb nit bewilligen wellen. Anzeigende, wolte nit
+          einthußent guldy darfür nemenn, habe fünffthußent guldy gůt. Sonnsten wüsse er, züg, weder
+          vom Kolben nach syner ehefrauwen nüdt dann ehr, liebs unnd gůts.</p>
+        <p>35. <persName ref="Nötzli, Melchior">Melchior Nötzlj</persName>, der küffer, sagt: Sidt
+          dem dz er burger unnd Hanns Heinrich Kolben auch dessen ehefrouwen küffer worden, habe er
+          jnnert selbigem von jren nach jmme kein ungepür oder bößes gesechen, darby gespürdt, das
+          die frauw wol gehußet unnd nüdt verschenngkt habe. Was die rechnungen belannge, habe jr
+          man die mit jmme gethan unnd er dann von jren zalt worden nach lanngem. Doch habe er deß
+          nacher kein klag unnd wüsse von beiden nützit unehrlichs.</p>
+        <p>36. Hanns Růdolff Am <persName ref="Ambühl, Hans Rudolf">Bül</persName>, der pfister,
+          sagt: Wie etliche guͤte frünnd verschinner zyten jnn <persName ref="Holzhalb, Alexander">Alexannder Holtzhalben</persName> huß ein thrungkh gethan, were Hanns Heinnrich Kolben
+          son kommen, grinnen unnd uff befragen anzeiget, die můtter hab jnne geschlagen uß
+          ursachen, er söllte denn 10 schilling<note type="critical">In der Vorlage: ß</note>
+          werttigen wyn ummb 12 schilling gegeben haben.</p>
+        <p><pb n="25" facs="E_I_7_3__Nr__145__S__25_.tif"/> 37. <persName ref="Nötzli, Adam">Adam
+            Nötzlj</persName>, der pfister, sagt: Verschinner kilbj were es vier jar, das züg zů
+          jnnen zhuß kommen unnd zůvor ein halbes jar by jnnen am tisch geweßen, jnn welicher zyt
+          habe er weder vonn Hanns Heinnrichen Kolben nach desselbigen ehefrauwen Magdalena
+          Meisteren, die zügen liebe gfatteren sygen, kein ungůts, ungepürendes oder annders
+          derglychen nit gesechen. Darzů sy, die frauw, nie thrunngkhen gesechen, khönne derhalben
+          von keinem annders reden. Item züg habe etwan, als bemelte jre gefatteren wyn geschenngkt,
+          wyn by jnnen gereicht, ein maß, halbe oder was es gesyn. Da were jmme der sechst schiling
+          werttig wyn an das zwölff schiling werttig fasß geschriben worden. Wer ab dasselbig
+          gethan, der man, die frauw oder der son, wüsse züg nit. Dann alle drü jmme wyn geben,
+          etwan der man, annder mahl die frauw unnd auch etwan der son. Wie aber er mit jro, der
+          <nswk/> frauwen, gerechnet, hab er die berichtet<note type="editorial"> in Kenntniss
+            setzen, zurechtweisen, Id. VI, 436-438.</note>, die sich auch berichten lassen, das er
+          kein clag.</p>
+        <p>38. M[eister] <persName ref="Meyer, Dietrich">Diettrich Meyer</persName> sagt: Er habe
+          von Hans <persName ref="Bullinger, Hans Jakob">Jacoben Bulingeren</persName>, Hanns
+          Heinnrichen Kolben stiefson (nach dem Alexannder Holtzhalb jnne, zügen, uff der unnderen
+          bruggen ein schryben, das Kolb an syne schwögeren uß Mehrherren gethan, unnd Bulinger
+          vilichten daßselbig gesechen) gehört, das derselbig als er deßwegen zů zügen komenn unnd
+          befragt, gesagt habe, er habe ettwan gesechen, das syn můtter jren eheman, <pb n="26" facs="E_I_7_3__Nr__145__S__26_.tif"/> der doch ein man, wie die gůt stunnd sige,
+          söllichermassen thribuliert habe, daß jnne übel beduret habe.</p>
+        <p>39. M[eister] <persName ref="Huber, Ludwig">Ludwig Hůber</persName>, der pfister, sagt:
+          Er wüsse von diseren beiden parthigen kein ungepür oder ungůtts zesagen. Alein habe er,
+          züg, von <persName ref="Wirt, Hans">Hannßen Wirtten</persName> von <placeName ref="LOC_47.57335_8.52607">Eglißauw</placeName>, jetzigem knecht zů denn Barfüsseren, gehört, er,
+          Wirtt, were 1605 von Hanns <persName ref="Heidegger, Hans Kaspar">Casparen
+            Heideggeren</persName> erpetten worden, mit jmme jnn syn heimadt ghan Eglißauw zeghan,
+          etlich fůder wyn zekauffen. Wie sy nun jre sachen verricht unnd zur Kronen daselbsten zů
+          jmbiß geessen, sige Hanns Heinnrichen Kolben ehefrauw ryttend auch dahin kommen, jnne,
+          Wirrten, ußhin genommen, betten, er welle jren ummb wyn zekauffen vorhulffen syn, welle
+          jmme auch lohnen wie Heidegger. Er, Wirtt, aber habe jren zů bescheid geben, das gepür
+          sich jmme nit, Heidegger hab jnne zůvor erbetten. Darby habe genanndter Hanns Wirtt wytter
+          zů zügen geredt, das er jren domahlen an das jr unnd sy jmm an das syn griffen habe.</p>
+        <p>40. <persName ref="Manz, Michael">Michael Manntz</persName> sagt: Vor sechs oder siben
+          jaren, als züg des Kolben gemeinder<note type="editorial"> Partner, Id. IV, 308.</note>
+          und selbiger zyten jm <placeName ref="LOC_47.30954_8.87055">Gyrenbad</placeName> bj jmme am tisch
+          geweßen, habe er, Kolb, syn ehefrauw, jr tochter und son, sammpt jmme, zügen, ein kamer
+          unnd drü better darjnnen gehept. Selbiger zyten habe die frauw sich zimmlich unzüchtig
+          erzeigt, tags (wie es ann ummb söliche zyt jm jar spadt nacht unnd fhruͤ tag werde)
+          etliche mahl jre sachen staans verrichtt. Darvon jr <pb n="27" facs="E_I_7_3__Nr__145__S__27_.tif"/> eheman sy etliche mal angemannedt mit anzeigunng,
+          wann sy sich vor niemanndem schemen welle, sölle sy sich doch vor jmme, zügen, schemen.
+          Item züg zů Kolben gesagt, er vermeine, syne stieffkinnder thrinngkind nit vil, sy aber
+          thringkinnd auch, werde es an dem fasß erfaren. Hienebent wie jnn selbiger badenfardt der
+          apt von <placeName ref="LOC_47.27128_8.33954">Muhris</placeName><note type="editorial"> Falls die
+            Angaben zutreffen, sprach der Zeuge von <persName ref="GND_1089450192">Johann Jodok Singisen</persName>.</note> auch jnn das
+          Gyrenbad kommen, habe Hanns Heinrich Kolb heimm müssen, was ursachen zügen unwüssent.
+          Jedoch were von etlichen gemeinndt oder geachtet wordenn, es beschecke von desselbigen
+          apts wegen; er were ein junnger stargker pfaff, der wol möge. Züg aber habe desnacher nüdt
+          gesechen. Darnebent von Hannßen Pfeningeren, domahlen wirtt jm Gyrenbad, der sidhero
+          gestorben, gehört, das derselbig wirtt selig Hanns Heinnrichen Kolben ehefrauwen
+          fürgehalten, wie die vormahlen, darby züg nit geweßen, auch bj jmme gebadet, habe er sy,
+          zum ässen zůkommen wegken muͤssen, dann er gesechen, das sy nagkend glegen unnd jedes
+          beinn uff denn bett bretten gehept. Demnach habe züg von <persName ref="Huber, Ludwig">Ludwigen Hůberen</persName> gehört, das derselbig geredt, <persName ref="Wirt, Hans">Hanns Wirtt</persName>, der jetzig knecht zun <placeName ref="LOC_47.372049353099015_8.546852866330669">Barfůsseren</placeName>, habe jmme, Hůberen, anzeigt, er, Wirtt, unnd des Kolben frauw
+          habe jedertheil dem annderen das syn jnn die hännd genommen. Item, wie syn stiefson Hanns
+            <persName ref="Bullinger, Hans Jakob">Jacob Bulinger</persName> syner wannderschafft jnn
+            <placeName ref="LOC_46_2">Franngkrych</placeName> züchen wellen, habe Kolb jmme ein
+            letzimal<note type="editorial"> Abschiedsmahl</note> gehalten unnd vil gůts bewißen.
+          Darzů der, der jnne, Buling-<pb n="28" break="no" facs="E_I_7_3__Nr__145__S__28_.tif"/>eren, hinweg gefhuͤrt habe, etwan wyn gereicht, demselbigen habe des Kolben frauw das
+          gelt darzů geben, der dann mit demselbigen dem Kolben denn wyn bezalt habe.</p>
+        <p>41. <persName ref="Schwyzer, Elsbetha">Elßbetha Schwytzerin</persName>, stubenfrauw<note type="editorial"> Wirtin auf einer Zunftstube, Id. I, 1252.</note> zum <placeName ref="LOC_47.37029_8.54133">Kembel</placeName>, sagt: Uff ein zyt eines nüwen
+          jars habe es jren bj der Kolbinen an bj dero gereichtem wyn ummb sechs kopff<note type="editorial"> Kanne, Id. III, 373.</note> gefelt. Darummb sy sich aber berichten
+          lassen unnd darnach nach zwey oder drü mahl ummb etlichen wyn zůvil geschriben geweßen,
+          wüsß nit eigenlichen mehr, wie vil es geweßen, welichen manngel sy jeder zyt durch gethan
+          unnd jren einist an statt nün massen fünff kopff geschigkt. Weliches zügin jren anzeigt
+          mit vermannen, sölle nachgenntz auch also gegen jren hanndlen.</p>
+        <p>42. <persName ref="Rollenbutz, Elsbetha">Elßbetha</persName>, <persName ref="Rollenbutz, Marx">Marxen Rollenbutzen</persName> des löüffers, ehefrauw, sagt: Wie
+          sy vor jaren stubenmagt zum Kembel geweßen, habe die Kolbin jren sechs oder siben kopff
+          wyn zuvil an das fasß geschriben.</p>
+        <p>43. <persName ref="Lauffer, Margretha">Margretha</persName>, <persName ref="Lauffer, Hans">Hannsen Lauffers</persName> des metzgers ehefrau, sagt: Vor fünnff
+          jaren habe jr (züginen) schwöster, die stubenfrauw selig zun <placeName ref="Zürich, Zunfthaus zur Meisen">Meißen</placeName>, der Kolbinen viertthalben kopff
+          wyn zalt, weliche die Kolbin jr, züginen, wytter gehoüschet. Da aber jr schwöster gesagt,
+          habe jren den schon bezalt mit vermelden, wyl sy kranngkh, sölle die Kolbin selbs zů jren
+          kommen. Dieselbig aber habe nit ghan wellen und jr schwöster selig jederzyt gesagt, habe
+          denn abbezalt.</p>
+        <p><pb n="29" facs="E_I_7_3__Nr__145__S__29_.tif"/> 44. <persName ref="Lindinner, Barbara">Barbara Linndiner</persName>, <persName ref="Vögeli, Heinrich">Heinrichen
+            Vögelis</persName> seligen wittfrauw, sagt: Sy were der Kolbinen uff ein zyt vierzechen
+          tag vorganngen, jnn welichen der man jnnen kein manngel gelassen. Wüsse auch weder von
+          jren nach jmme nüdt ungepürendes zesagen. Auch were die Kolbin selbiger zyten so kranngkh
+          geweßen, das sy nit vil ässen mögen. Habe auch gemeindt, hußind wol.</p>
+        <p>45. <persName ref="Egli, Regula">Regula Eglj</persName> von Binntzigken<note type="editorial">
+            <placeName ref="LOC_47.27632_8.75851">Binzikon</placeName></note>, bj <persName ref="Stocker, Kaspar">Caspar Stocker</persName> vor dem Linndenthor dienende, sagt: Wie
+          zügin diß jars mit jrem domahlen geweßenen meister Anthonj Gygeren zů <placeName ref="LOC_47.37984_8.42242">Urdorff</placeName> gesyn, habe die Kolbin jrem eheman zwo kanndten<note type="editorial"> Kannen</note> mit wyn uß synem (jres ehemans) keller genommen, denn
+          jnn züginen herren keller gestelt unnd ein fleschen voll jnn dem jren behalten.</p>
+        <p>46. <persName ref="Widmer, Margretha">Margretha Widmer</persName> sagt: Des Körnners
+          kanndtengiessers ehefrauw<note type="editorial">
+            <persName ref="Meister, Elisabeth">Elisabeth Meister</persName>, Schwester von Magdalena
+            Meister, seit 1585 mit Hans Rudolf Körner verheiratet.</note> were der tagen zů jren
+          kommen, gefraget, ob jr geweßener herr <persName ref="Gyger, Anthoni">Anthonij
+            Gyger</persName> sich etwas ußgetragenen wyns erklagt habe. Darummb sölle zügin die
+          wahrheit sagen, welle jren darfür einen hafen schenngkhen, doch begere sy nüdt annders
+          dann der wahrheit. Daruff sy gemeldet, habe denn gereichten wyn bezalt.</p>
+        <p>47. <persName ref="Vogelsperger, Elsbetha">Elßbetha Vogelspergerin</persName> sagt: Sy
+          wüsse von jnen beiden, weder jren nach jmme, nüdt annders zesagen dann liebs unnd gůtts
+          und dz sy beide jren alles guts gethan habind, darumb sy jnnen nach danngkh sage.</p>
+        <p><pb n="30" facs="E_I_7_3__Nr__145__S__30_.tif"/> 48. <persName ref="Asper, Margretha">Margretha Asperin</persName>, wylannd<note type="editorial"> vormals</note>
+          <persName ref="Kippenhan, Stoffel">Stoffel Kippenhann</persName> seligen wittfrauw, sagt:
+          Vor achtzechen jaren, als <persName ref="Sommerauer, Hans">Hanns Sumerauwer</persName>
+          unnd die bůchbinnderin vor dem <placeName ref="LOC_47.370886696226115_8.543203618444444">Rüden</placeName>
+          jm rechten<note type="editorial"> Rechtstreit</note> geweßen, were zügin domahlen by dem
+          Sumerauwer zhuß gesyn. Item nebent der <persName ref="Sprüngli, N.">Sprünnglinen</persName> kunndschafft gesagt unnd jro, züginen, nach das bewüsßt, das
+          die Kolbin selbiger zyten etwan jnn des Sumerauwers huß gewanndlet, aber weder von jmme,
+          Sumerauwerm, nach jro, der Kolbinen, nützit unehrliches gesechen nach gehört; khönne
+          derenhalben annders nit sagen. Zůdem were selbige rechtßuͤbung gedachter jaren mit recht
+          ußgemacht. Item die bůchbinnderin vor dem Rüden, die zwenntzig pfunnd zbůß geben muͤssen,
+          die Kolbin uff dem radthuß jnn züginen byweßen enndtschlachen muͤssen.</p>
+        <p>49. <persName ref="Morgenstern, Anthoni">Anthonij Morgenstern</persName>, der hafner,
+          sagt: Unlanng darvor Kolb jnn <placeName ref="LOC_49.5_17">Mehrherren</placeName> gezogen, habe
+          züg einer zyt, als er gebrenndt, sy, Kolbin, die jr man geschlagen, schrigen gehört unnd
+          sy dargegen jmme dieb unnd schälm gesagt.</p>
+        <p>50. <persName ref="Ehrensperger, Othmar">Othmar Ehrensperger</persName>, der schnyder,
+          sagt: Wie er dem Kolben jm huß gewerchet und dessen son ein kleid gemachet, habe sy, die
+          frauw, domahlen jmme leder zum sälbigen kleid ab dem tisch genommen, das er jrem man wider
+          gehöüschet, der es auch jmme geben. Unnd züg daruf geredt, wann alle wyber also werrind,
+          wolte er syn hanndtwerch ufgeben. Item selbiger zyten were, ungefhar <pb n="31" facs="E_I_7_3__Nr__145__S__31_.tif"/> bald zwey jar, dißer ehementsch by dem tisch
+            kybet<note type="editorial"> grollen, zanken, Id. III, 106f.</note> unnd Kolb jren ein
+            multeschen<note type="editorial"> Ohrfeige, vgl. <hl to="http://fwb-online.de/go/maultasche.s.1f_1669739347"><Hyperlink>http://fwb-online.de/go/maultasche.s.1f_1669739347</Hyperlink></hl>
+            (Frühneuhochdeutsches Wörterbuch).</note> geben, darbj geredt, er wolte, dz sy ein
+          ganntz fasß mit wyn jnn jren hette. Ob aber sy voll geweßen oder nit, wüsse züg nit, dann
+          er synes hanndtwerchs alein geachtet, wüsse auch von der tochter thrinngkens oder annderer
+          sachen nützit zesagen.</p>
+        <p>51. Hanns <persName ref="Frei, Hans Jakob">Jacob Frig</persName>, der pfister, sagt:
+          Ungefhar vor sechs jaren jmme, zügen, brichten kommen und züg dennselbigen jnn des Kolben
+          huß wyn reychen wellen. Wie nun er die thüren uff dem ganng gegen der stuben jm huß oben
+          ufgestossen, were die Kolbin hinder der thüren fürhin kommen unnd Anthonij Burgkhart selig
+          von derselbigen thüren dannen jnn denn ganng gegen der stuben thüren ganngen unnd Hans
+          Heinrich Kolb bj dem tisch jnn der stuben gesessen. Was dann jr tochter belannge, wüsse er
+          weder thrinngkens oder annderer sachen nüdt zesagen.</p>
+        <p>52. <persName ref="Wunderli, Hartmann">Harttman Wunnderlj</persName> von <placeName ref="LOC_47.27232_8.64617">Meylen</placeName> sagt: Magdalena Meisterin habe vor 20 jaren jme wyn
+          abkaufft unnd diß jars 14½ eymer. Daran sy, die frauw, jmme auch dis jars zů
+          unnderschidenlichen mahlen etwan 4 und etwan 10 gulden<note type="critical">In der
+            Vorlage: fl</note> uff syn begeren geben, das ales zesammen 54 gulden gebracht. Dargegen
+          habe Hans Heinrich Kolb jmme auch gelt daran geben, also dz bemelter wyn (welicher der
+          kouffs abred nach biß uff Verena<note type="editorial"> 1. September</note> dis jars
+          ußbezalt werden sölen) bj nachens bezalt sige.</p>
+        <p><pb n="32" facs="E_I_7_3__Nr__145__S__32_.tif"/> 53. M[eister] <persName ref="Keller, Christoffel">Christoffel Keller</persName>, zunnfftmeister, sagt: Als vor
+          etlichen jaren zügen ehefrauw sammpt synes vetteren, herren burgemeister Kellers seligen,
+          töchteren zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> jm hinndern hof ein badfardt gehept,
+          des ortts Hanns Heinrich Kolb und desselbigen ehefrauw auch geweßen, unnd züg uff ein zyt,
+          als er selbigen mals ghan Baden kommen, vor annderen (dann er nit selbs darbj geweßen)
+          gehört, das Heinrich Krieg vor Kolben unnd annderen bederen denn lüthen zůgesprochen, auch
+          er, Krieg, vor der Kolbinen bad ein bad schenngkij verheissen, unnd ein red ganngen, das
+          es jmme, dem Kolben, unnd desselbigen ehefrauwen zůgefallen beschechen. Und wie genanndter
+          Heinrich Krieg uff denn aabend (da zůvor selbigen tags Krieg unnd Kolb mit einanderen
+          zechet habind) jnn zügen ehefrauwen unnd syne baßen kammer gemach kommen, Krieg syn
+          ehefrauw gruͤßt, darbj befraget, wann jr eheman zů jren abhin kommen werde. Zum annderen,
+          wyl doch züg von hörsagen reden sölle, habe er von Alexannder Ziegleren seligen (zů der
+          zyt, als derselbig mit Hanns Heinnrichen Kolben jm rechten geweßen) gehört, daß er,
+          Ziegler, vor synem laden geredt, der Kolb sige ein fhuler ehrloßer man, als einer funnden
+          werden möchte.</p>
+        <p>54. Unnd dann sagt h. <persName ref="Gyger, Anthoni">Anthonij Gyger</persName>, der
+          mahler: Magdalena Meisterin habe verwichenen höüwets<note type="editorial"> Heumonat
+            (Juli)</note> zů <placeName ref="LOC_47.37984_8.42242">Urdorff</placeName> (des ortts beide theil
+          badet), jmme clagt, jr eheman habe ein widersinnischen kopff, <pb n="33" facs="E_I_7_3__Nr__145__S__33_.tif"/> er thöübelj unnd derglychen. Sonnderlichen über
+          jre geschwigen<note type="editorial"> Schwäger</note> vil clegten gefhürt, weliches
+          nachgenntz züg jmme jnn jrem bysyn fürgehalten. Der sich mit angezeigten grünnden synes
+          bedunngkens gnůgsamm unnd dermassen enndtschuldiget, das sy es mit schlechten unnd
+          wennigen wortten widerleggen khönnen. Darbj sy sich der besserung anerpotten, das aber nit
+          lennger, dann mornndrigs am morgen bestannden. Sonnsten zügen wol bewüsst, dz so wol jmme
+          als auch Hanns Heinrichen Kolben der wyn uß dem keller kommen. Darummbe syn gehapte
+          diennstmagt, Regula genanndt, dißmahls by j[unker] Stockern dienende, besseren bericht
+          dann er zůgeben wüsste. Er, Kolb, habe etwan stinngkhendes fleisch, so (reverenter) vollen
+          würmmen gesyn, ässen muͤssen. Der dann gemeldet habe, dessen gewonndt, wüsse nit was böß
+          oder gůt. Dann habe sy, worumbe sy jmme die meisterschafft<note type="editorial"> das
+            Sagen, die Führungsverantwortung</note> nit lasse, gemeldet, jr ehebrieff vermöge das,
+          das er jren rechenschafft geben sölle. Item er habe, ehe er echt ußgebadet, nach
+          ußgeschlagen nassen wetters mit jren heimb ghan, jren auch denn mannttel lychen muͤssen,
+          fürwenndende, er muͤsse wol heimb, sy vertrage<note type="editorial"> fortschaffen, Id.
+            XIV, 524.</note> jnn sammpt alle dinng uß dem huß. Züg aber könne von jren nüdt
+          unredliches oder unerhliches sagen, wie glychergestalten von jmme auch nit. Zůdem unnd
+          über diß sige Kolb sonnst synem son eines mahls für<note type="editorial"> vor</note> jr
+          kamer (darjnnen Kolben frouw unnd anndere wyber, die zügen <pb n="34" facs="E_I_7_3__Nr__145__S__34_.tif"/> unbekanndt, gesyn) kommen an thür klopffende, es
+          sige aber jnnen nit uffgethan unnd nachgenntz der knab von der můtter deßwegen geschlagen
+          worden. Zügen auch von jmme, Kolben, offt mit weinnenden augen clagt worden, wie sy mit
+          jmme hußhalte, vermeldende selbiges sige ursach synes hinweg züchens. Züg: So er ein
+          sömliche frouw hette, schlieg er jro alle vierj ab, syn sag hiemit endende.</p>
+        <p rend="margin-top">Wie nun uff sölliches vilbenanndter Hanns Heinrich Kolb eins, Magdalena
+          Meisterin annders, <persName ref="Sommerauer, Hans">Hanns Sumerauwer</persName> des
+          drittem und <persName ref="Wirt, Hans">Hanns Wirtt</persName> des vierten theils, da<note type="critical">Es folgt eine Wortstreichung.</note> dis widerumbe für unnß kommen. Da
+          dann Hanns Heinrich Kolb erst gedachte syne yngelegten schriftlichen clag punncten
+          reppetiert. Mit vermelden, wyl die sachen darjnn vermelter massen also beschaffen, er auch
+          dasselbig, so wol über syn ehefrauwe als auch Hannßen Sumerauweren unnd über Hannßen
+          Wirtten (synes vermeinens) durch kundtschafften bygebracht<note type="editorial">
+            beweisen, Id. V, 730.</note> und verwysen<note type="editorial"> bestätigen, Id. XVI,
+            1957.</note> habe, zůdem gedachter Sumerauwer sy, Meisterin, erst nach angedüther
+          verloffenheit durch syn loben unnd underhanndlung gegen bewüsßten personen jme ehelichen
+          zůnemmen geraadten, so begere er uß hochtrinngender noth ganntz unnderthennig unnd
+          demuͤthig, ehelicher bannden von jren gelediget und geschyden zů werden. Mit vermelden,
+          das kein ehelicher man werde sagen können, dz er von gott oder dem heiligen evangelio
+          abgefallen syn sölte. Sige auch anerpiettens, ummb syn religion, auch die reden, dz er jnn
+            <placeName ref="LOC_49.5_17">Mehrherren</placeName> ufgenommen oder gethaufft, vor
+          geistlichen und weltlichen <pb n="35" facs="E_I_7_3__Nr__145__S__35_.tif"/> uff besonderen
+          uß gottes wortt altem- und nüwem thestament gůten bescheid unnd anntwortt zů geben, auch
+          mit gottes hillff syn geliebtes vatterlannd, wann noth, mit synem lyb und gůt, wie einem
+          gethrüwen unnderthanen zůstannde, zůbeschirmmen.</p>
+        <p>Harwider Magdalena Meisterin angezeigt, sy lasse es auch bj gemeldten jrer schrifftlichen
+          clag unnd anntwortt gennzlichen belyben sammpt fhernerem, diewyl sy von jrem eheman einen
+          sölichen widerwillen (darzů syne schwögeren luth jres by hannden habennden schrybens nit
+          gerinnge ursach geschaffet) gespüren thuͤge. By nebent er (jres verhoffens) syne
+          clagpunncten durch kunndschafft nit erwisßen habe, deßglychen das sy weder mit <persName ref="Sommerauer, Hans">Hannßen Sumerauweren</persName> nach <persName ref="Wirt, Hans">Hannßen Wirtten</persName>, weder mit wortten nach werchen ungepür oder unzuchten
+          wegen, nützit zethůn nach zeschaffen gehept. Unnd aber sy jm gegentheil über jnne, Kolben,
+          durch kundtschafften bygebracht, dz er bemelter massen jnn <placeName ref="LOC_49.5_17">Mehrherren</placeName> ufgenommen unnd getheufft worden, uß welichem dann alle
+            billigkeitt<note type="editorial"> Gerechtigkeit, Unparteilichkeit</note> gnůgsam
+          zůschliessen habe, dz er von unnser wahren christenlichen evangelischen religion
+          abgefallen. So begere sy ganntz ernnstlichen ummb sölicher wichtigkeitt willen unnd das sy
+          sich von jmme keiner ehelichen wolmeinung zůgetrösten, ehelicher bannden von jmme
+          gelediget und gescheyden zůwerden.</p>
+        <p><pb n="36" facs="E_I_7_3__Nr__145__S__36_.tif"/> Nach welichem <persName ref="Sommerauer, Hans">Hanns Summerauwer</persName> fürgewenndt, sittenmahlen er zů
+          gedachter ehe nun das, was billichen geredt, darzů mit genanndter Magdalana Meisteren kein
+          unzucht oder ungepür zethůn gehept unnd der deßnaher angedüthe bezig<note type="editorial"> Verdacht, Id. XVII, 402.</note> vor 17 oder 18 jaren von e. e. w. mit recht ußgemacht
+          unnd erörtteret worden sige, hienebent genanndter Hanns Heinrich Kolb, das dessen er sich
+          jünngst hievor vor wolermelten e.w. über jnne durch kundtschafft byzůbrinngen anerpotten
+          (synes erachtens) nit erwyßen, sonnders des fals zů vil dargegeben habe, sige er bedacht
+          zů syner rettunng, jnne, Kolben, vor hochgedachten e.e.w. rechtlichen fürzůnemmen<note type="editorial"> gerichtlich belangen, Id. IV, 746.</note>.</p>
+        <p>Uff das <persName ref="Wirt, Hans">Hanns Wirtt</persName> eroffnet, ob glych er die
+          gemelt über jnne geredte kunndtschafft sag<note type="editorial"> kundschaft sag:
+            Zeugenaussage</note> nit laugnen oder widerstechen thuͤge, wüsse er doch sich, das er
+          gedachtes über sy, Magdalena Meisterin, geredt oder fürgenommen haben sölt, nit zů
+          erjnneren und bezüge derhalben mit gůter gwüssne, das er mit jro kein unzucht oder ungepür
+          zethůn gehept weder mit wortten nach geberden. Unnd jm fal er annders vor jren gesagt
+          hette oder nach sagen wurde, thette er jren unnd auch jmme mit demselbigen gewalt unnd
+          unrecht. Alein sige jmme das bewüßt, als sy, Meisterin, vor jaren jnn das wirdtßhuß ghan
+          Eglißauw kommen, <pb n="37" facs="E_I_7_3__Nr__145__S__37_.tif"/> habe er, als er die
+          stegen abganngen, jren die nebent einem by der stegenlienen<note type="editorial">
+            Treppenabsatz, Id. XIV, 1526.</note> gestannden, jm fürgaanng an jre angehepte
+          gelißmeten strümpff griffen, dasselbig aber nun schimpfflichen<note type="editorial">
+            scherzhaft, Id. VIII, 791.</note> unnd zů keinem unehren gemeinedt. Achte dern wegenn
+          enndtschuldiget zů syn. Im fal aber er hieran zů vil gethon hette, pitte er ummb
+          verzychunng.</p>
+        <p>Wann nun diser parthigen allersyths erzelten jnnhalts (da dann beide ehemenstchen
+          clagten, anntwortten unnd begeren jnn gedachten beiderßyts harbj gelegten schriftten
+          spetzificierlich zum theil mehr als wyttlöüffig verzeichnet) gnůgsammlichen angehört unnd
+          uß dem alem verstannden, das jnn diser sach nit nun vil eheliche widerwerttigkeitten
+          angezogen werdend, sondern auch ehr beruͤrennde zůreden, zyhende<note type="editorial">
+            bezichtigen, Id. XVII, 861.</note> unzuchten, verunthrüwungen und das Kolb sich jnn
+            <placeName ref="LOC_49.5_17">Mehrerren</placeName> bemelter gestalt habe thauffen lassen.
+          Habend wir der ursachen nothwendig syn gedacht, disere hanndlung für wolermelte e. e. w.
+          zu wysen. Actum dynstags den 21ten novembris a[nno] etc. 1609.</p>
+        <p rend="margin-top">E. e. w. u. th. […]<note type="critical">Es folgt eine weitere
+            Abkürzung (Lesung unklar).</note> verordnete eherichter.</p>
+        <pb n="38" facs="E_I_7_3__Nr__145__S__38_.tif"/>
+        <pb n="39" facs="E_I_7_3__Nr__145__S__39_.tif"/>
+      </div>
+    </body>
+  </text>
+</TEI>

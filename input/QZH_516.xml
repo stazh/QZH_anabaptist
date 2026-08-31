@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_516</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355230">StAZH E I 7.3, Nr. 42</idno>
+          </msIdentifier>
+          <head>Namen der verhafteten Täufer in Horgen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1589-10-11"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-10-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 402</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__42__S__1_.tif"/>
+<head type="Originalsprache">Verzeichnus der 15 ­toüf­feren, so zů Horgen gefangen worden<note type="critical">Folgt gestrichen: den 11ten octobris anno etc. 89.</note></head> <p><persName ref="Sommerauer, Hans">Hanns Summerouwer</persName>, pfister<note type="editorial"> Bäcker</note> alhie<note type="editorial"> gemeint ist die Stadt Zürich</note>, jst umb 15 pfund<note type="critical">In der Vorlage: lb</note> gstrafft unnd sol 5 pfund an kosten geben.</p>
+<p rend="margin-top">Von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName><note type="editorial"> Wädenswil</note>: [im] W[ellenberg]<placeName ref="Zürich, Wellenberg"/><note type="critical"><q>w</q> über der Zeile</note> leerer <persName ref="Hofmann, Rudolf">Růdolff Hofman</persName>, w. <persName ref="Pfister, Walti">Wältj Pfister</persName>, leerer <persName ref="Bruppach, Rutsch">Růtsch Brupach</persName>, [im] n[üwen turm]<placeName ref="Zürich, Neuenturm"/><note type="critical"><q>n</q> über der Zeile</note> leerer <persName ref="Pfister, Hans">Hanns Pfister</persName>, <persName ref="Hön, Peter">Petter Hön</persName>, n. <persName ref="Hess, Walti">Wältj Hesß</persName>, w. <persName ref="Suter, Uli">Ulj Sutter</persName>.</p>
+<p rend="margin-top">Von <placeName ref="LOC_47.24867_8.58482">Horgen</placeName>: w.<note type="critical"><q>w</q> über der Zeile</note> leerer <persName ref="Landis, Heini">Heinj Landiß</persName>, leerer <persName ref="GND_130035173">Hanns Landiß</persName>.</p>
+<pb n="2" facs="E_I_7_3__Nr__42__S__2_.tif"/>
+<p rend="margin-top">W. <persName ref="Wäber, Gorius">Gorius Wäber</persName> von <placeName ref="LOC_47.22639_8.54962">Ebertschwyl</placeName><note type="editorial"> Ebertswil</note>, w. <persName ref="Hochstrasser, Jakob">Jacob Hochstraßer</persName> von <placeName ref="LOC_47.33727_8.46993">Wetzwyl</placeName><note type="editorial"> Wettswil am Albis</note>, w. <persName ref="Erzinger, Uli">Ulj Ertzinger</persName> ab <placeName ref="LOC_47.30524_8.66126">Guldinen</placeName><note type="editorial"> Guldenen</note>, n. <persName ref="Bindschedler, Heinrich">Heinrich Bindschedler</persName> von <placeName ref="LOC_47.30468_8.60718">Erlibach</placeName><note type="editorial"> Erlenbach (Zürich)</note>, w. <persName ref="Wälti, Jagli">Jaglj Wältj</persName> uß Bernpiet jm <placeName ref="LOC_47.288369_8.046806">Surthal</placeName><note type="editorial"> Suhrental</note>, w. <persName ref="Bruppach, Jos">Joß Brugpach</persName> von <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

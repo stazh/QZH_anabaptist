@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_592</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355266">StAZH E I
+              7.3, Nr. 76</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Gorius Weber</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1595-06-21"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1595-06-21"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 478</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head type="Originalsprache">Goriuß Wäbers deß ­toüf­fers von Hußen<note type="editorial">
+            Hausen am Albis</note> antwort<note type="critical">Aufschrift auf der Rückseite des
+            Dokuments</note>
+        </head>
+        <pb n="1" facs="E_I_7_3__Nr__76__S__1_.tif"/>
+        <p>Als meister Caspar Haffner<note type="editorial"> Kaspar Hafner (1531-1605)<persName ref="Hafner, Kaspar"/></note>, junckher <persName ref="Keller, Felix">Felix
+            Keller</persName> und meister <persName ref="Heidegger, Hans">Hanns Heidegger</persName>
+          sammbt herren Růdolf<note type="critical"><q>Růdolf</q> über der Zeile, in der Zeile
+            gestrichen: Heinrich</note> Wondlich<note type="editorial"> Hans <persName ref="GND_1089281161">Rudolf Wonlich</persName>
+          </note>, ouch herren Marxen Böümler<note type="editorial">
+            <persName ref="GND_131525115">Markus Bäumler</persName>
+          </note> zů Gorius Weber von <placeName ref="LOC_47.24435_8.53664">Hußen</placeName>, so der
+          widertöüfferj anhenig<note type="editorial"> anhangend, Id. II, 1313.</note>, jnn
+            <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kerth<note type="editorial">
+            sich begeben, gehen, Id. III, 435.</note> und jmme eröffnet, wiewol er, jetzund 2 mall
+          durch die herren predicanten wegen syns jrrthumbs überwißen worden, welle er doch
+          unangesechen er sömliches alles, so jme von gedachten herren predicanten fürghalten<note type="editorial"> darlegen, mündlich vortragen, Id. II, 1234.</note>, gůt heiße, by
+          syner hardtneckigkeit verblyben und nit wie ander lüth jnn die kilchen gaan, alda dz
+          göttlich worth zehören, unnd aber darneben sich mit kouffen und verkouffen wie ein ander
+          landtman halte. Welliches jr, myn g[nedig] herren, gar nit ghept haben wellen, ouch über
+          alles erjneren der herren predicanten gantz erntstlich vermanet anzůzeigen, ob er von
+          dißerem synem bößen fürnemmen<note type="editorial"> Vorhaben, Id. IV, 746.</note> abstaan
+          und jnn die kilchen wie ander christenlüth gan und sontsten, wie jmme dan gepüre,
+          verhalten welle. Mit anzeigung, wo sölliches nit bescheche, jr, myn g[nedig] herren, jnne
+          hinweg uff das meer<note type="critical">Folgt gestrichen: zeverkouffen gesinnet</note>
+          zeverschicken gesinet<note type="editorial"> Gemeint ist die Galeerenstrafe.</note>. Hatt
+          er daruff die andtworth geben: Begere<note type="critical"><q>begere</q> über der Zeile, in der
+            Zeile gestrichen: welle</note> sich darüber zůbedencken<note type="critical"><q>-über
+            zůbedencken</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: -über zůbedencken […]
+            (Lesung unklar)</note> und üch, myn g[nedig] herren, syn meinung, wie er sich verhalten
+            welle<note type="critical"><q>wie er sich verhalten welle</q> am Rand mit
+            Verweiszeichen</note>, uff dz ehist zůkommen laßen.</p>
+        <pb n="2" facs="E_I_7_3__Nr__76__S__2_.tif"/>
+        <pb n="3" facs="E_I_7_3__Nr__76__S__3_.tif"/>
+        <pb n="4" facs="E_I_7_3__Nr__76__S__4_.tif"/>
+        <p rend="margin-top">Man wil syner antwort warten.</p>
+        <p rend="margin-top">[Urteil]: Vermelter Wäber hat sich anerpoten, die predigen und
+          allgemeyn gepet wie anndere gloübige lüt zubesuchen und syn frowen (ob er die anders
+          bereden möge) zur kilchen zefüren und vor der gmeind jr ee zubestetigen. Da dem vogt zu
+            <placeName ref="LOC_47.22446_8.46262">Knonow</placeName>, hieruf syn spech<note type="editorial">
+            Nachforschung, Id. X, 76.</note> zemachen, zugeschriben, und jm vhal er widerspenig,
+          soll er lut der mandatha mit straff gegen jme handlen. Actum<note type="critical">Folgt
+            gestrichen: ment</note> sambstags den 21ten junj a[nn]o 95 p[raesen]t[ibis h[err]
+            <persName ref="GND_143657062">Keller</persName> unnd beid reth.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

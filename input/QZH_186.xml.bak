@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_186</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355026">StAZH B IV 19, fol. 106r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an den Untervogt von Stäfa</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1554-06-06"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1554-06-06"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 72</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeyster unnd rath der statt Zürich. Unnsern grus zuvor. Gethrüwer lieber unndervogt, unns kompt für<note type="editorial"> fürkommen: zu Ohren kommen</note>, das sich <persName ref="Walder, Heini">Heinj Walder</persName> von <placeName ref="LOC_47.27397_8.72353">Öttwyl</placeName><note type="editorial"> Oetwil am See</note> jm hof<note type="editorial"> Besitzung, Herrschaftsgebiet, Id. II, 1021.</note> Stefa der jrrigen sect der thoüffery annemmen unnd beladen sölle. Deßhalb jst an dich unnser bevelch unnd meinung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, du wellest uff jnne din späch<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> unnd kuntschafft machen unnd wa du jnn<note type="critical">Folgt gestrichen, bet</note> jnn diner amptsberwaltung beträtten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> magst, fenngklich annemmen unnd unns bewart überanturten, damit wir<note type="critical">Folgt gestrichen: fer</note> gegen jm nach der gepür zehanndlen<note type="critical">Es folgt eine Wortstreichung.</note> unnd söllicher jrthumb so vil unns moglich abzeschaffen wüssint. Des wellent wir unns zů dir versechen<note type="editorial"> erwarten, Id. VII. 566f.</note>. Datum den vj. brachmonats anno d[omini] liiij.</p>
+<p rend="margin-top">Unnserm gethrüwen lieben unndervogt zů <placeName ref="LOC_47.24649_8.73372">Stefa</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

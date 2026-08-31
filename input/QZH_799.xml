@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_799</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355189">StAZH E I 7.3, Nr. 138</idno>
+          </msIdentifier>
+          <head>Verhör von Jakob Isler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1609-09-01"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1609-09-01">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 685</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__138__S__4_.tif"/>
+<head type="Originalsprache">Jacobs Islers des widertäufers uff dem Bodenhoff<placeName ref="Hirzel, Boden"/> ab dem Horgerberg<placeName ref="Horgenberg"/> anndtwort<note type="critical">Aufschrift auf der Rückseite des Dokuments</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__138__S__1_.tif"/>
+<p>Alß beide herren obervögt zů <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> zů Jacoben Isler, dem wider­toüf­fer ab dem Horgerberg uff dem Bodenhoff, uf daß rathuß kheert, jnne volgender artigclen wegen der lenge nach befragt, jmme eins unnd annders gnůgsam unndersagt unnd syner anndtwort begert, hatt er diseren kůrtzen bscheid gäben: Daß er jm alten unnd nüwen testamänt dheinen<note type="editorial"> keinen</note> annderen glauben finde dann er habe.<note type="critical">In der Vorlage ist die Reihenfolge der Wörter anders und mit den Ziffern 1 bis 4 korrigiert.</note> By demselben begere er zů belyben unnd durch den selben<note type="critical"><q>selben</q> über der Zeile</note> glauben selig zůwerden. Da er aber nit bedacht, sich wyt uf die äst ushin (darmit er daß disputieren verstadt) zelasen, da er hiemit jnn üwer (myner gnedigen h[erren]) gwalt syge.</p>
+<p>Item er syge nach nit gesinnet, volgende sachen anzůgäben unnd zůbekhännen:</p>
+<p>Welliche am Horgerberg der thöufferischen yrigen sect unnderworffen unnd wievil der personen.</p>
+<p>Ouch<note type="critical"><q>ouch</q> am Rand</note> wer jr prediger syge.</p>
+<p>Daß sy dhein bestimpt ort zů predigen, sonnder uß forcht einst da, annderst dört predigen laßint.</p>
+<p>Wie houptman Müllers son<note type="editorial"> <persName ref="Müller, Jos">Jos Müller</persName></note> mit <persName ref="Sträuli, Hans">Hannsen Strüwlis</persName> von <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName> tochter hochzyt gehalten, syge er nit daheim, sonnder uf <placeName ref="LOC_47.29614_8.50781">Bůchenegg</placeName><note type="critical">Folgt gestrichen: gewäsen</note>. Unnd wyl er nit darby gwäsen, vermeine er nit annzůzeigen, ann wellichem ort die hochzyt gehalten worden.</p>
+<p>Glychergstalt, wer mit <persName ref="Gut, Junghans">Junghannß Gůten</persName> von <pb n="2" facs="E_I_7_3__Nr__138__S__2_.tif"/> <placeName ref="LOC_47.26217_8.41262">Lunneren</placeName>, synem dienstknächt<note type="critical"><q>ynem dienstknächt</q> am Rand mit Verweiszeichen</note>, hochzyt gehalten, hat er ouch nit nambhafft machen wellen.</p>
+<p>Denn seckelmeister jres gmeinen gůts unnd wievil deselben, wüße er nit. Unnd ob wol darvon geret worden, das er, <persName ref="Isler, Jakob">Ysler</persName>, derselbig syn sölte, syge doch daßelbig nit waar, unnd verneine er, daß jr seckelmeister nit jnn <placeName ref="LOC_47.24867_8.58482">Horger</placeName> vogtyg wonhafft. Ouch wüße er nit, alß der allein 4 jar lanng sich der predig geüßert, wer jnn daß thöuffer gůt gestuͤrt.</p>
+<p>Unnd ob wol er geholfen, etwaß kernens kauffen, syge doch daßelbig nit uff fürkauf<note type="editorial"> Aufkauf zum Zweck der Spekulation, Id. III, 166.</note> beschächen, sonnder darvon dem armmen gäben worden, da auch<note type="critical">Folgt gestrichen: g</note> etliche denselben wie er kaufft worden unnd höcher nit bezält. Unnd wiewol er anzeigt, daß ein ober­kheit von gott jnngesetzt unnd er nie geret, daß jr, myn g[nedig] h[erren], nit ein christenliche ober­kheit, hatt er doch uf befragen nit bekhännen wellen, daß jr, myn gnedig herren, ein christenliche ober­kheit sygen, unnd allein annzeigt, er begere jnn der frombkheit zleben.</p>
+<pb n="3" facs="E_I_7_3__Nr__138__S__3_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

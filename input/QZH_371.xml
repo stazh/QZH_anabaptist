@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_371</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696638">StAZH E I 7.2, Nr. 152</idno>
+          </msIdentifier>
+          <head>Gutachten der Rechenherren betreffs der Güter von ausgewanderten Täufern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-10-31"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-10-31"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 257</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__152__S__1_.tif"/>
+<p>Uff üwer (myner gnedigen herren) bevelch habent myn herren, die rechenherren, sampt andern<note type="critical">Folgt gestrichen: uwer myner herren</note> by jnen geweßen mynen herren, was hievor zů gehaltnen eydtgnössischen tagleistungen<note type="editorial"> Tagsatzung, Id. III, 1473.</note> dero hab und gůts halben, so der ­toüf­ferischen sect<note type="critical">Folgt gestrichen: ußem</note> von hinnen jnn das land <placeName ref="LOC_49.5_17">Meerheren</placeName> züchend, verabscheidet, ouch jr uwern botten <nswk/> deßwegen jnn bevelch geben, widerumb besichtiget, unnd wiewol jr, myn herren, under reth und burgern bißhar söllicher personnen<note type="critical">Folgt gestrichen: hab u</note> hinderlaßennd hab und gůt<note type="critical">Folgt gestrichen: bißhar</note> nit als malefitzischer<note type="editorial"> verbrecherisch in dem Mass, dass es unter die Hochgerichtsbarkeit fällt, Id. IV, 167.</note> wyß verwürckt und verfallen heißen und erkhennen wellen. Diewyl und aber das meer darüber zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> ergangen<note type="editorial"> Vgl. Nr. 229.</note>, ouch unser eydtgnossen von <placeName ref="LOC_46.94809_7.44744">Bern</placeName> jnn dasselbig verwilliget, were myner herren, der geordneten, radtschlag<note type="critical">Folgt gestrichen: das</note>, was sölliches volcks uß üwern hochen grichten, alda ander lüth nidern grichtzwangs halber ouch zů regieren hand, als da jst das <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName>, hinweg züchend, das jr, myn herren, zů derselben ungehorsamen widerstrittigen personen hab und gůt ouch gryffen und dasselbig durch üwere vögt<note type="critical">Folgt gestrichen: inzů</note> inziechen lasßind<note type="critical">Folgt gestrichen: volgents</note> und aber dasselbig nit zů gmeiner statt handen ald<note type="editorial"> oder</note> nutz genommen, sonders<note type="critical"><q>und aber dasselbig … sonders</q> am Rand mit Verweiszeichen.</note> dem spital alhie<note type="critical"><q>alhie</q> über der Zeile</note> zůgestelt<note type="critical">Folgt gestrichen: werden sölle</note> und zůsammen umb zinß angeleit und also daselbs behalten werden sölle. So dann jemandts kompt und by üch, mynen herren, etwan<note type="critical">Lesung unsicher; <q>etwan</q> über der Zeile, in der Zeile gestrichen: gnad und milt sovil</note> gnaden<note type="critical">Folgt gestrichen: erlangen</note> erwerben mag<note type="critical">Folgt gestrichen: das jm disers gůts […] ußhin zůwenden</note>, das solle<note type="critical"><q>solle</q> über der Zeile, in der Zeile gestrichen: stadt</note> zů üwerm gfallen <pb n="2" facs="E_I_7_2__Nr__152__S__2_.tif"/> jederzyt staan. Unnd uß krafft disers radtschlags sölle dem landtvogt zů Baden, ouch schultheiß und rath zů <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName> zůgeschriben werden<note type="editorial"> Vgl. Nr. 259. Das Schreiben an den Magistrat von Bremgarten ist nicht überliefert.</note>, sidtmalen<note type="editorial"> da, weil, Id. IV, 147.</note> jm Kellerampt üch die hoch oberkeit unwidersprechenlich<note type="critical">Folgt gestrichen: zů</note> gehörig und diß ein sach, so dero anhengig und zůstendig<note type="critical"><q>und diß … zůstendig</q> am Rand mit Verweiszeichen</note>, das sy jres vorhabents, jnn dem das sy etlichen daselbs hinweg gezognen personen hab und gůt angefallen und<note type="critical">Folgt gestrichen: inzie</note> inzüchen wolten, abstandint unnd üwerm vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> zů üwern handen dasselbig uß dem verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> volgen und<note type="critical">Folgt gestrichen: inzie</note> unverhindert inziechen lasßind jnn hoffnung und zůversicht, er, der landtvogt<note type="editorial"> der Landvogt von Baden</note>, ouch die von Bremgarten werdint uff söllichen bericht sich witers nit anmasßen, sonders üwern vogt zů Knonouw fründtlichen mit söllichem gůt, das jm durch schryben ouch bevolchen werden, verfaren lasßen.</p>
+<p>Hingegen aber<note type="critical"><q>aber</q> über der Zeile</note> jr, myn herren, dem landtvogt zů Baden ouch nit verwideren<note type="editorial"> sich widersetzen, Id. XV, 631.</note> können, deß Rütschen zů Oberurdorff, so ouch obgehörter masßen hinweg zogen, hab und gůt<note type="critical"><q>hab und gůt</q> am Rand mit Verweiszeichen</note> zů der acht ordten<note type="editorial"> Achtörtige Eidgenossenschaft, welche die Grafschaft Baden gemeinsam verwaltete.</note> handen jn ansehung, das under derselben hochen oberkeit ouch lyt, zů bezüchen, allein jnne, den landtvogt, jnn obangeregtem schryben<note type="critical">Folgt gestrichen: sich</note>, synes anerbietens deß Rütschen eefrouwen und schwösterlj bescheidenlich zehalten, nochmalen zů erjnneren.</p>
+<p>Was dann die üwern, so jnn üwer (myner herren) eigenthůmblichen grichten und gebieten <pb n="3" facs="E_I_7_2__Nr__152__S__3_.tif"/> sind, belanget, da sölle man mengklichen<note type="editorial"> jedermann</note> fürer<note type="editorial"> ferner, weiterhin, Id. I, 968.</note> als bißhar mit lyb und gůt fryg hinweg züchen lasßen. Welliche aber der ­toüf­ferischen sect zůgfallen hinweg farend, die söllind gar da ußen blyben und nit meer jnher kommen<note type="critical"><q>komen</q> über der Zeile; in der Zeile gestrichen: gelasßen</note>, noch im land geduldet werden.</p>
+<p>Inn dem allem jr, myn herren, üwer hand nüdestermynder offen behalten je nach glegenheit der sachen, zyt und loüffen, üch eines andern zůentschliesßen. Ob nun üch, mynen herren, diß gfellig, seyend die geordneten üch heim<note type="editorial"> anheimgestellt sein, Id. VII, 1044.</note>. Actum zinstags den 31ten octobris anno etc. 81, p[raese]nt[ibus] herr b[urgermeister] <persName ref="GND_142913324">Bräm</persName>, rechen- und ein gůter teyl andere myner herren der cleinen rethen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

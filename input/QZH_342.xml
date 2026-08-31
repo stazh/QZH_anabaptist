@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_342</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354849">StAZH A 250</idno>
+          </msIdentifier>
+          <head>Die Fünf Orte an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1578-08-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1578-08-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 228</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unser frünndtlich willig dienst sampt, was wir eern, liebs und gůts vermögent, zůvor. From, fürsichtig, eersam, wys, jnnsonders gůt fründ und gethrüw lieb eydth­gnoßen. Was uff jüngst zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> jm Aergow gehalltner jarrechnung uff <persName ref="Meyer, Ruedi">Ruͤdj Meyers</persName> von <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName> verlassner wittfrow und kinderen fürbringen und pittlichs ersuchen umb ettwas nachlass und vererung<note type="editorial"> Geschenk, Id. I, 398.</note> (unsers vermeinens) unß den siben jro Fryen <placeName ref="LOC_47.2820935_8.3312904">Emptern</placeName> deß Ergöws von wegen angenommens widertöüfferischen mißgloubens und gemelltem Meyer harlangenden verfallnen und confiscierten guts gehandlet und verabscheidet worden<note type="editorial"> Vgl. Nr. 224.</note>, das haben wir uß bemellte, daselbs ußgangnem abscheid gnůgsamlich verstanden. Und wiewol wir berurte bittenden personen gern alle gnädige willfarung zu erzeigen, so haben doch wir jn ansechung und gstalltsame der sachen und betrachtnuß der künfftigen nachvolg uns jn solliche willfarung einicher nachlassung nit begeben können, sonder lassend es by der confiscation diß verfallnen gůts zu handen, alls obstat, gentzlich blyben. Doch dergestalt: Wo die gemellten<note type="editorial"> erwähnten</note> bittenden mittler weyl für<note type="editorial"> vor</note> unser der gemellten 7 orten gesandten zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> sich widerumb mitt underthäniger pitt umb ein gnädige vereerung, stür oder allmůsen stellen wurden, die selbigen gesandten (von unseren orten) von uns gwalltt haben söllen, nach gstalltsame<note type="editorial"> Beschaffenheit, Id. XI, 368.</note> der sachen und mangels der gebür nach darinnen zehandlen und zelaßen. Das wollten wir üch, unseren gethrüwen lieben eydtgnossen, zů erstattung gedachts badischen abscheids jnnhallts diß orts unser stimm halb nit verhallten<note type="editorial"> vorenthalten, unterschlagen</note> und üch daby jn schirm göttlicher gnaden bevolhen haben. Datum und jn unser aller namm mit üwer und unser gethrüwer lieben eydgnoßen der statt <placeName ref="LOC_47.05048_8.30635">Lucern</placeName> secret ynsigel verschloßen uff den 5ten tag augsten a[nn]o 1578.</p>
+<p rend="margin-top">Schultheis, landtamman und rhät der fünff catholischen ort der eydtgnoßschafft Lucern, <placeName ref="LOC_46.7847_8.64175">Urj</placeName>, <placeName ref="LOC_47.0405_8.74101">Schwytz</placeName>, <placeName ref="LOC_46.92739_8.41028">Underwalden</placeName> und <placeName ref="LOC_47.17242_8.51745">Zug</placeName></p>
+<p rend="margin-top">Den frommen, fürsichtigen, eersamen, wysen burgermeister und rhat der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName> unsern jnnsonders gůtten fründen und gethrüwen lieben eydtgnoßen</p>
+</div>
+    </body>
+  </text>
+</TEI>

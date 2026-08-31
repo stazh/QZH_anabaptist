@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_387</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696653">StAZH E I 7.2, Nr. 162</idno>
+          </msIdentifier>
+          <head>Fridolin Hässi an Heinrich Thoman und Gerold Escher</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1582-03-24"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1582-03-24"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 273</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__162__S__1_.tif"/>
+<p>Edle, erenveste, fürsichtige unnd wyße, sonnders günstige, eerende lieben herren. Vonn der hanndlung der ­toüf­feren wegen haben ich sampt minen amptlüten uff üwer gfallen ein malstatt<note type="editorial"> Ort zur Abhaltung der Gerichtstage, Id. XI, 1753.</note> uff künnfftigen donstag genn <placeName ref="LOC_47.40198_8.39824">Diettickhon</placeName><note type="editorial"> Dietikon</note> unns der sachen zuverglychen<note type="editorial"> sich einigen, Id. II, 601.</note> <note type="critical">Folgt gestrichen: zuver</note> angesechen. Mit pitt, so üch derselbig gfellig, unns desse biß mentag by eignem botten zuberichten, damit wir sölliches allßdann der hin­ge­tzognen verwanndten, damit sy uff selbigen tag ouch daselbst erschynen zuwüssen thun künnen. Sind hiemit gott bevolchen. Datum denn 24ten martij anno etc. 82.</p>
+<p rend="margin-top">U[wer] williger</p>
+<p>Fridli Hässi, ritter deß raths zů <placeName ref="LOC_47.04057_9.06804">Glarus</placeName>, derzyt landtvogt zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName></p>
+<pb n="2" facs="E_I_7_2__Nr__162__S__2_.tif"/>
+<p rend="margin-top">Denn edlenn, eerenvesten, fürsichtigen unnd wyßen herren Heinrich Thomman, seckellmeister unnd deß raths, unnd Geroldt Äscher, stattschryber zu <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen günstigen, eerenden, lieben herren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

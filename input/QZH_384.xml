@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_384</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696650">StAZH E I 7.2, Nr. 160</idno>
+          </msIdentifier>
+          <head>Inventare von Täufern in Berikon.</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 270</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_2__Nr__160__S__4_.tif"/>
+<head type="Originalsprache">Inventarnn der touffer zu Niderberken<note type="critical">Aufschrift auf der Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__160__S__1_.tif"/>
+<p>Den 3 […]<note type="critical">Lesung unklar</note> anno etc. 81 auf beid vogt <persName ref="Gehrig, Michel">Michel Gerig</persName> und <persName ref="Brunner, Kaspar">Caspar Brunner</persName> zů Niderbergken jm bysin <persName ref="Silberysen, Melchior">Melchior Silberyßens</persName> undervogts und <persName ref="Eichholzer, Hans">Hansen Eychholzers</persName> deß raths<note type="critical">In der Vorlage: rahs</note> zu <placeName ref="LOC_47.35346_8.32984">Brämgarten</placeName> und stattschryber Schodelers.<note type="critical"><q>Den 3. … stattschryber Schodelers</q> am <persName ref="Schodoler, Werner">Rand</persName></note></p>
+<p rend="margin-top">Anno dominj etc. 81. Inn dem herpstmonatt jst <persName ref="Gehrig, Jakob">Jacob Geerig</persName> unnd sin hußfrouw <persName ref="Thunhofer, Barbara">Barbara Thunhofferin</persName> hie zů Niderbergken hinweg jnn das Merheren lannd gezogen unnd habent an gůtt verlassen, wie nachstad.</p>
+<p>Item huß und boumgarten zů Niderbergken<note type="editorial"> Berikon</note>:</p>
+<p>4 kesseli</p>
+<p>4 eerni häffen</p>
+<p>10 pfannen</p>
+<p>1 häl<note type="editorial"> Kette oder Stange mit Haken für Kochkessel, Id. II, 1133.</note></p>
+<p>1 gatzen<note type="editorial"> Schöpfkelle, Id. II, 572.</note></p>
+<p>1 liechttägel<note type="editorial"> Handlicht oder Hängelicht, Id. XII, 1107.</note></p>
+<p>1 kasten, darjnn lylachen<note type="editorial"> Leinenlaken, Id. III, 1004.</note> und anderer plunder uff 24 stuck</p>
+<p>2 lär kasten</p>
+<p>1 betth sampt 2 fäderdeckj</p>
+<p>2 mütt<note type="editorial"> Hohlmass für Getreide das einer Mannslast entsprach, Id. IV, 574.</note> korn jnn einer stannden<note type="editorial"> Bottich, Id. XI, 1042.</note></p>
+<p>60 garben an korn und haber uff der brügj</p>
+<p>1 almeryen<note type="editorial"> Vorratsschrank, Id. I, 189.</note></p>
+<p>1 pflůggschir<note type="critical">Folgt gestrichen: 1 pflůgzoum</note></p>
+<p>1 par pflůgsreder<note type="critical">Folgt gestrichen: 1 säch</note></p>
+<p>Alles für 200<note type="critical">Folgt gestrichen: k[reuzer]</note> müntz gulden.<note type="critical"><q>Alles für 200 müntz gulden</q> am Rand</note></p>
+<p rend="margin-top">Wyter hatt er verlassen zů Oberbergken</p>
+<p>Item sin bruder <persName ref="Gehrig, Michel">Michel Gerig</persName> sol<note type="editorial"> schuldig sein, Id. VII, 771.</note> jm bj eigen unnd erb 180 müntz g[ulden], zalt uff jetz wyenachten diß 81. jars 100 g[ulden] unnd dann ze jar umb uff wyenachten deß 82. Jars 80 g[ulden] on zinß.</p>
+<p>Item undervogt Kolers seligen erben zů <placeName ref="LOC_47.33713_8.39518">Oberwyl</placeName> söllent erleggen<note type="editorial"> bezahlen, Id. III, 1187.</note> 100 g[ulden] jnn müntz sampt dem zinß etc.<note type="critical">Am Rand mit Verweiszeichen: N[ota]. Darvon zinß diß 81. jars 4 müt k[ernen] und das houpt gůt soll er ablegen, wie er […] an deß zinß herren gnaden finden und gehaben moge.</note></p>
+<p>Item <persName ref="Meyer, Heinrich">Heinrich Meyger</persName> zů <placeName ref="LOC_47.45801_8.58528">Cloten</placeName> uß dem Zürichpieth soll nah by den 10<note type="critical">Folgt gestrichen: g[ulden]</note> gůt g[ulden], houpt gůts 3 g[ulden], und die zalt haben uff pfingsten nechst verschinnen<note type="editorial"> nechst verschinen: kürzlich, Id. IV, 636.</note>, ouch soll er nah des volkommen zinß von den 10 g[ulden].</p>
+<pb n="2" facs="E_I_7_2__Nr__160__S__2_.tif"/>
+<p rend="margin-top">Hanns Brunner<note type="editorial"> Vgl. zu diesem Absatz Nr. 267.</note>:<persName ref="Brunner, Hans"/></p>
+<p>Ist ouch von <placeName ref="LOC_47.35385_8.38375">Niderbergken</placeName> und sines allters ungefar achtzechen jar und umb Jo[hannis] baptistæ<note type="editorial"> 24. Juni</note> nechstverschinnen hinab jnns Merheren lannd gezogen und hatt noch allhie zů Niderbergken bj undervogt <persName ref="Brunner, Kaspar">Casparn Brunnern</persName> zwey geschwüstergite, Heinj und Margretlj. Der dreyen geschwüstergiten gůtt jst wie volget.</p>
+<p>Item <persName ref="Stutz, Hans">Hanns Stuttz</persName>, uffm hoff <placeName ref="LOC_47.32335_8.44119">Yflisperg</placeName> jnn dem <placeName ref="LOC_47.31768368701712_8.401017170545497">Kelleramptt</placeName> gesässen, sol by eigen und erb 900 müntz g[ulden] unnd zallt alle jar uff faßnacht on zinß 60 g[ulden].<note type="critical">Am Rand: Kellerampt 3.</note></p>
+<p>Volgent Schullden.</p>
+<p>Item <persName ref="Brunner, Jakob">Jacob Brunner</persName> zů <placeName ref="LOC_47.23819_8.36609">Walleschwyl</placeName> ob Murj jst ghein brieff, darumb sol 1 g[ulden] on zinß.</p>
+<p>Item Caspar Brunner undervogt zů Niderbergken 100 g[ulden] on zinß.</p>
+<p>Item die <persName ref="Füglistaler, N.">Füglistalen</persName> zů Husen by Lungkoffen 50 g[ulden].</p>
+<p>Item der <persName ref="Bräm (von Besenbüren)">Bräm</persName> zů <placeName ref="LOC_47.31279_8.34488">Bäsenbüren</placeName> bj Muri 23 kronen.</p>
+<p>Item der <persName ref="Schmid (von Rüti)">Schmid</persName> zů Rüthi bei <placeName ref="LOC_47.38998_8.25828">Hägglingen</placeName> jnn Freyen <placeName ref="LOC_47.2820935_8.3312904">Ämptteren</placeName> 24 kronen.</p>
+<pb n="3" facs="E_I_7_2__Nr__160__S__3_.tif"/>
+<p>Item Hanßli Lüthj von <persName ref="Hansli (von Widen)">Wyden</persName> jnn der graffschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> 26 kronen.</p>
+<p>Item <persName ref="Meyer, Walti">Wallti Meyer</persName> zů <placeName ref="LOC_47.34361_8.48301">Sellenbüren</placeName> 50 g[ulden].</p>
+<p>Item <persName ref="Grad, Klaus">Claus Graad</persName> zů Oberbergken 36 g[ulden].</p>
+<p>Item <persName ref="Bäliger, Ůli">Ůli Bälliger</persName> daselbst zů Oberbergken 20 kronen.</p>
+<p>Item <persName ref="Gehrig, Michel">Michel Gerig</persName> daselbst zů Oberbergken 26 kronen.</p>
+<p>Item <persName ref="Gehrig, Junghans">Junghans Gerig</persName> von Niderbergken 100 g[ulden].</p>
+<p>Item der <persName ref="Heitensperger, N.">Heytensperger</persName> zů <placeName ref="LOC_47.37101_8.38083">Růdistetten</placeName> 50 g[ulden].</p>
+<p>Item der <persName ref="Hug, Junghans">Junghanß Hug</persName> daselbst 100 g[ulden].</p>
+<p>Item die <persName ref="Hindermann, N.">Hindermanen</persName> zů <placeName ref="LOC_47.42008_8.43033">Wynnigen</placeName> 100 g[ulden].</p>
+<p>Und zůlettst zwen tauwen<note type="editorial"> Landmass, Id. XVI, 33.</note> räben zů <placeName ref="LOC_47.33713_8.39518">Oberwyl</placeName>.</p>
+<p>Dagegen sind die 3 geschwüstergite ouch schulldig ungefar uff 100 g[ulden].</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p>
+          Die marginalen, teilweise gestrichenen Majuskeln sind in der vorliegenden Edition weggelassen.
+        </p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_253</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606864">StAZH E I 2.1, Nr. 18</idno>
+          </msIdentifier>
+          <head>Ratsbeschlüsse</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1556-10-23">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1556-10-23">ca.</origDate>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 139</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Diewyl herr schultheiß Hußer<note type="editorial"> <persName ref="Huser, Joachim">Joachim Huser</persName></note> jetzmalen verwalter dieser herrschafft<note type="editorial"> Gemeint ist Wülflingen, dessen Gerichtsherr <persName ref="Steiner, Andreas">Andreas Steiner</persName> 1565 starb.</note> jst, söllent jm dise mängel jnsehens<note type="editorial"> Vorsorge (treffen), Id. VII, 562f.</note> zethůnd under myner herren sigel und von der kinden fründtschafft<note type="editorial"> Verwandtschaft</note> zůgschriben werden.</p>
+<p>Dem vogt zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> deß<note type="editorial"> Betrifft Heini Schneewli und dessen Sohn in Affoltern am Albis vgl. die vorausgehende Nummer.</note> berichten und jm darby bevolhen, wo der sun zů betretten, das er gfenglichen angenommen werde, und sover er funde, das der vater glycher meinung, möge er deß myn herren verstendigen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_421</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696716">StAZH E I 7.2, Nr. 178</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Amtleute des Truchsess von Waldburg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1584-10-10"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1584-10-10"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 307</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__178__S__1_.tif"/>
+<p>Unnsern fründtlichen willen und alles gůts zůvor. Eerenhafften unnd wyßen, besonders lieben unnd gůten fründt. Das die vier<note type="critical">Folgt gestrichen: v</note> durch den wolgebornnen <persName ref="GND_1122311869">herrn Christoff</persName> erbtruchseß etc. ufgehalltnen gyßel ußgerißen unnd sich der gfangenschafft<note type="critical"><q>gfanngenschafft</q> über der Zeile, in der Zeile gestrichen: verstrickung.</note> selbs ledig gemachet, haben wir ußer üwerm schryben unnd darnebent auch üwer begeren, das wir sy widerumb zur <placeName ref="LOC_48.08364_9.31703">Scher</placeName> jnn verstrickung stellen etc., verstanden. Fuͤgend üch darüber zů begerter antwort zůvernemmen, das zwen under jnen, als <persName ref="Rank, Heinrich">Heinrich Ranck</persName> von Bremgarten unnd <persName ref="Peyer, Marx">Marx Peyer</persName> von <placeName ref="LOC_47.40198_8.39824">Dieticken</placeName>, nit die unnseren<note type="critical"><q>die unnseren</q> am Rand, in der Zeile gestrichen: <q>unnder unns</q></note>, sonders jnn der grafschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> wonhafft sind. Deßhalb wir jnen dißfals (wie jr selbs wol ermessen khönnend) nützit zuͦgebieten, unns ouch jren ferner und wyter nit beladen noch annemmen werdent. Was dann die annderen zwen belanget, jst glych wol der ein, mitt nammen <persName ref="Hofmann, Heinrich">Heinrich Hoffman</persName> von <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName>, jnn unnser ober­kheit liggende, bürtig, hatt aber<note type="critical">Folgt gestrichen: jnn synem</note> daselbs unnd under unns<note type="critical">Folgt gestrichen: von v</note> umb dz er der widerthöufferyg anhengig (vermög unnser ußgangnen mandathen) khein platz, aber den vierten als <persName ref="Huser, Johannes">Hannsen Huser</persName> von <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName><note type="critical">Folgt gestrichen: beruͤrende</note>, so nie kein ­toüf­fer gweßen und ouch, wie wir bericht, nit<note type="critical">Folgt gestrichen: de</note> von diser sect wegen hinweg getzogen, beruͤrende, wellent wir demselben (wover<note type="editorial"> wenn, Id. I, 914.</note> er jnn unnser oberkeit verhanden) üwers schrybens jnnhallt umb die widerjnstellung<note type="editorial"> Erneute Inhaftierung</note> <note type="critical">Folgt gestrichen: fürhallten unnd</note> antzeigen laßen, da dann vilichter er ald<note type="editorial"> oder</note> die annderen sich<note type="critical">Folgt gestrichen: begertermaßen</note> nit widerjnstellen wurden, stadt zů üwerm ald deß herrn erbtruchseßen gefallen, jrenthalb wyter was üwer glegenheit fürzenemmen. Desß habent wir üch uff üwer schryben antworts und berichts wyße verstendigen wellen, darby dem allmechtigen bevelchende. Datum den 10. d[ies] octobris anno etc. 84</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich.</p>
+<p rend="margin-top">Den eerenhafften unnd wyßen erbtruchsaßischen oberambtlüten zur Scher, unnseren lieben und gůten fründen.</p>
+<pb n="2" facs="E_I_7_2__Nr__178__S__2_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

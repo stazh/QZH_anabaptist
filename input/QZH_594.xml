@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_594</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355092">StAZH B IV 52, fol. 186v-187v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Andreas Bräm</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1595-06-21"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1595-06-21"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 480</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alls guts zuvor. Frommer, wyser, besonnders gethrüwer, lieber burger und vogt, wir habent den unsern, dyn amptsangehörigen <persName ref="Weber, Gorius">Goriusen Wäbern</persName> von <placeName ref="LOC_47.22639_8.54962">Ebertschwyl</placeName><note type="editorial"> Eberstwil</note>, so der ­toüf­ferischen sect annhengig gwesen, uff syn vor etlichen unnsern lieben mitredten gethonn versprechen, dz er wie ander synne kilchgnossen zu kilchen gonn unnd bynebent demselbigen<note type="critical">Folgt gestrichen: die gemeynen predigen</note> dz gemeyn gebett unnd predigen besuchen und zu dem ouch syn frowen, mit der er bißharo onn bestettigung<note type="critical">Folgt gestrichen: der ee jr […]</note> der ee gehuset, unnseren loblichen<note type="critical">Folgt gestrichen: bruch</note> und cristentlichen bruch nach zu kilchen und straßen füren und nach abrichtigung deß costens der gfangenschaft erlassen. Unnd diewyl nun dem etlicher massen jn zwyfel stellen, er villicht semlich syn gethan zusagen nit erstattnen möchte, derhalben ist unser bevelch an dich, dz du<note type="critical"><q>dz du</q> am Rand mit Verweiszeichen</note> durch die gschwornen egoumer<note type="editorial"> Vertreter der lokalen Sittenzucht, Id. II, 304.</note> der enden, alda er sesßhafft, ein uffsechen uff jnn haben lassen und, sover er sich wider, wie vornacher beschechen, ungehorsam erzeigen und disem<note type="critical">korrigiert, ursprünglich: dis</note> synem versprechen zu wider handlen<note type="critical"><q>zu wider handlen</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: übersehen</note>, jnne alsdan lut unser deßhalben ußgangnen mandathen zestraffen unnd die darumb uffgesetzen bůsen onne eynnichs verschonen gestrax von jme jnzezüchen.</p>
+<p>Unnd als uns hienebent ouch gloubwürdig fürkomen<note type="editorial"> zu Ohren kommen, kund werden, Id. III, 279.</note>, dz etlich andere jnn dynner ampstverwaltung by jren wybern, ungeacht sy die ouch nit ze kilchen gfürt, glycher massen wie genanter Weber sitzen söllen, da so wellist denselbigen ouch eigentlichen nachfragen lassen unnd, wo du dero einen ald<note type="editorial"> oder</note> meer jnnerfarung bringst, die erstlich zur gehorsame vermanen unnd wann<note type="critical">Lesung unsicher</note> sy hierüber jn semlicher gsalt wyter byeinander sitzen<note type="critical"><q>hierüber jn … sitzen</q> am Rand mit Verweiszeichen</note>, jr gethon eelich versprechen jnn der pfarkilchen, dahin jeder kilchgnössig, mit offentlichen kilchgang unserm loplichen und christenlichen bruch nach vor der gantzen gmeind nit bestettigen unnd von dem predigkanten zusamen geben liesent<note type="critical">Folgt eine Wortstreichung</note>, alsden uns dieselbigen, so sich dem widersetzen und ungehorsam syn wurdent, bynebent<note type="critical">Folgt eine Wortstreichung</note> schriftlichem bericht<note type="critical"><q>schrifftlichem bericht</q> am Rand</note> nach der von jedem zu […]<note type="critical">Lesung unklar</note> verfahet gefenglichen zu überschicken, uns der gepür nach gegen jnen wüssen zuverhalten und […]<note type="critical">Lesung unklar</note> hierjn an dynem vlyß, wie wir dir woll verthruwent, nützit ermanglen lassen, dz sind wir uber dich jn gnaden zuerkennen geneigt. Datum sambstags den 21ten jnui a[nn]o 95.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">Dem fromen, wysen, unserm besonders gethrüwen, lieben burger und vogt zu <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> Anderes Brämen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

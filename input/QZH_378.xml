@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_378</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696646">StAZH E I 7.2, Nr. 158</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Junghans Thumysen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-11-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-11-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 264</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__158__S__1_.tif"/>
+<p>Unnseren günstigen geneigten willen unnd alles gůts zuvor. Fromer, wyser, besonders getrüwer, lieber burger unnd vogt, uff dyn unnß jüngster tagen gethaan anbringen, wie sich mit etlicher der ­toüf­ferischen sect jnn unserem <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName> ußträttnen<note type="editorial"> ausgewanderten</note> personen hinderlassnem gůte zehalten syge, habent wir dem landtvogt zu <placeName ref="LOC_47.46513_8.28964">Baden</placeName>, ouch Schulltheiß unnd rath zu <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName>, sy sich deßelbigen nützit anmassen, sonnders dich als jnn unnserem nammen deß endts ordenliche oberkeit darmit ferfaren zelassen, zugeschriben. Was nun unns ab beiden ordten zu widerantwort ervolgt jst<note type="editorial"> Vgl. Nr. 261 und Nr. 262.</note>, das wirst jnn hieby verschlossnen copygen befinden. Diewil nun die ußträttnen personen zur zytt jres ab- unnd hinwegzüchens nit jnn unser oberkeit, dem Kellerampt, gesessen syn, sonders allein ettlichs jres hab unnd guts jnn derselben unser oberkeit haben sollend, so jst nach anjetzo unnser bevelch, du wellist dich zu dem stattschryber zů Bremgarten verfuͤgen unnd, was derselbigen personen gůts jnn unnser hochen oberkeit syn jnventiert were, einen underschidlichen ußtzug nemen oder, wo das noch nit beschriben, angäntz<note type="editorial"> nächstens, bald, Id. II, 19.</note> jnn schrifft vertzeichnen lassen unnd wie es gstalltet unnd beschaffen, du selbst mundtlichen oder mit schryben unnsern geordneten rechenherren (denen wir darüber, wie sich ferners zehalten, zuberattschlagen bevolchen<note type="critical"><q>bevolchen</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: bevechen</note>) der notturfft nach fürbringen, wie wir uns hierjnne alles flysses zu dir versächen thůn, unnd umb dich jnn gnaden zuerkennen geneigt sind, darby dem schirm gottes bevolchen. Datum den 8ten novembris anno etc. 81.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<pb n="2" facs="E_I_7_2__Nr__158__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__158__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__158__S__4_.tif"/>
+<p rend="margin-top">Dem fromen, wyßen, unnserem besonders getrüwen, lieben burger unnd vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> Junghansen Thumyßen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

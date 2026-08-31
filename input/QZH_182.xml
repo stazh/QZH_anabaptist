@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_182</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355022">StAZH B IV 19, fol. 101v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Andreas Schmid</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1554-05-10"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1554-05-10"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 68</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern früntlichen, geneigten willen unnd alles gůts zůvor. Frommer, vester, besonders getrüwer, lieber burger unnd vogt, […]<note type="editorial"> Es folgen Anweisungen, was der Vogt gegen den Sohn des Pfarrers Wolfgang Mundprat in Henggart, der in den Krieg gezogen ist, und gegen die zwei Frauen Adelj Petter und Apollonia, die den Besitz ihrer Männer verschwenden, unternehmen soll.</note>.</p>
+<p>Unnd fürs letst soll sich <persName ref="Röss, Peter">Petter Röß</persName> von <placeName ref="LOC_47.5164_8.87552">Hagenbůch</placeName> der<note type="critical">Es folgt eine Wortstreichung.</note> verfürischen leer unnd sect der taüffery beladen. Den wollest (wa dem also unnd du jnn beträtten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> magst) fenngklich annemmen unnd mit jme nach der gepür hanndlen, damit er söllichs sins vorhabens abgewißt<note type="critical">Folgt gestrichen: d</note> unnd<note type="critical">Folgt gestrichen: nit</note> annder von jm nit auch zů ungehorsame gebracht werdint. Unnd jnn somlichem allem dinen flyß anwenden und nach unnserm verthruwen hanndlen, stat umb dich jnn allem gůten zů erkennen. Datum donnstags den x. d. maij anno etc. liiij.</p>
+<p rend="margin-top">Burgermeyster unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</p>
+<p rend="margin-top">Dem frommen, vesten, unnserm besonnders gethrüwen, lieben burger unnd vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> <persName ref="GND_1075292034">Annderessen Schmid</persName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

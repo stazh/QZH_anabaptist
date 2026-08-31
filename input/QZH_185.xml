@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_185</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355025">StAZH B IV 19, fol. 105v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Rudolf Breitinger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1554-06-06"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1554-06-06"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 71</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern früntlichen, geneigten willenn unnd alles guts zůvor. Frommer, wyser, besonnders gethrüwer, lieber burger unnd vogt, wir haben dise tagen einen, der sich der jrrigen säct der thoüferj<note type="critical">Es folgt eine Wortstreichung.</note> zu gebruchen<note type="critical"><q>zu gebruchen</q> am Rand</note> unnderwunden<note type="critical">Folgt gestrichen: jnn unnser gefanng</note> unnd aber sich darvon widerumb abnemmen lassen, jnn unnser gefanngenschafft gehept, wellicher angetzeigt, das sich <persName ref="Streler, Klaus">Claus Sträler</persName> uff dem <placeName ref="LOC_47.28405_8.91997">Haltberg</placeName> unnd <persName ref="Schöneneberg, Hans">Hanns Schönenberg</persName> von <placeName ref="LOC_47.269190_8.774432">Adeltzhußen</placeName><note type="editorial"> Adletshusen</note>, darumb wir dir dann kurzer tagen auch geschryben<note type="editorial"> Vgl. Nr. 69</note>, deßglychen <persName ref="Streler, Hans">Hanns Sträler</persName> gemelts Claußen brůder <persName ref="Kleinůli">unnd Kleinůlj</persName> von <placeName ref="LOC_47.30764_8.81222">Bossigckens</placeName><note type="editorial"> Bossikon</note> frow, alles jnn diner amptsverwaltung gelegen, obvermelter verfürischen säct annemind unnd mitnammen sampt ettlichen uss dem <placeName ref="LOC_47.5562_9.07686">Thurgöw</placeName> jr versamlung jnn des schaffner von <placeName ref="LOC_47.26648_8.80812">Bůbigkens</placeName> sennweyd jm <placeName ref="LOC_47.293891_8.804698">Herliberg</placeName><note type="editorial"> Hellberg</note> habind. Deßhalb bevelchen wir dir abermaln<note type="critical">Folgt gestrichen: wie</note> wie vorhar<note type="critical"><q>wir vorhar</q> am Rand, in der Zeile gestrichen: wie denn vorhar (Lesung unsicher)</note>, du wellest uff sölliche personnen din kůntschafft machen unnd, so<note type="editorial"> wenn</note> du sy<note type="critical">Es folgt eine Wortstreichung.</note> sampt oder sonnders ankommen magst, fenngklichen annemen lassen<note type="critical"><q>annemen lassen</q> über der Zeile</note> unnd nach vermog unnsers<note type="critical">Es folgt eine Wortstreichung.</note> vorgethanen schrybens gegen jnen hanndlen, damit söllicher jrthumb abgestelt unnd von jnen nit noch<note type="critical">Folgt gestrichen: lüten</note> mer lüten verfürt werdint. Daran thust unnser gefallen unnd meinung. Datum den vj. junij anno d[omini] liiij.</p>
+<p rend="margin-top">B[urgermeister] u[nd] r[at] d[er] st[att] Z[ürich].</p>
+<p rend="margin-top">An vogt Breyttinger zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_507</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354919">StAZH B II 227, S. 16 (Manual des Unterschreibers); StAZH E I 7.3, Nr. 41</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend die mit Täufern im demselben Haushalt lebenden Personen in der Landvogtei Knonau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1589-02-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-02-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 393</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Herr landtvogt Escher<note type="editorial"><persName ref="Escher vom Glas, Hans Konrad">Hans Konrad Escher vom Glas</persName> </note> jst dem vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName><note type="editorial"> Hans Heinrich Meyer von <persName ref="Meyer von Knonau, Hans Heinrich">Knonau</persName></note> zůgegeben, der ­toüf­feren jm ampt halber zehandlen, jnnsonders die, so unverteilte<note type="editorial"> nicht getrennt (im gleichen Haus lebend), Id. XII, 1604.</note> brůderen hetten, so ­toüf­fer weren, zůbeschicken unnd jnen mitt allem erntst fürzehalten<note type="editorial"> darlegen, mündlich vortragen, Id. II, 1234.</note>, wo sy dieselben ufenthalten<note type="editorial"> Unterkunft geben, beherbergen, Id. II, 1231.</note>, das man nach lut deß mandats sy straffen, und welliche nüt darumb geben und unghorsam blyben, werde man mitt jnen theilen und deß unghorsammen gůt zů der oberkeit handen nemmen. Sölliches soll jnn bysin der predicanten ußgerichtet unnd mit denselben ouch nach nothurfft gredt werden, wer etwan an der toüfery schuldig etc. Mitt anzeigung, wann jnen deßwegen etwas bschwerlichs angelegen, sy dasselbig an gebürenden orten vermelden und den vogt unnd ambtlüt nit also mitt reden ußgießen und verunglimpffen söllint.<note type="editorial"> Der anschliessende Ratsbeschluss regelt den Umgang mit dem Besitz des nach Franken ausgewanderten und katholisch gewordenen Jakob Wegmann von Hirzwangen, vgl. auch das zweite Dokument.</note></p>
+<pb n="1" facs="E_I_7_3__Nr__41__S__1_.tif"/>
+        <p rend="margin-top">Als<note>Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355229">StAZH E I 7.3, Nr. 41</ref></bibl>.</note> j[unker] Hanns Heinrich Meyer von <persName ref="Meyer von Knonau, Hans Heinrich">Knonouw</persName>, vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>, myn gnedig herren berichtet, was beschwerd jme die zyt har der ­toüf­feren halber jnn syner amptsverwaltung begegnet, jnn dem da jnn unverteilten<note type="editorial"> nicht getrennt (im gleichen Haus lebend), Id. XII, 1604.</note> hußhaltungen ­toüf­fer sygen, gegen denen er von wegen der annderen unverteilten brůderen erzeigenden unwillens unnd klag das mandat nit volnstrecken khönne nebent dem, das er sontsten auch jnn annder weg etwan von den herren predicanten verletzlich ußgoßen werde, sam<note type="editorial"> als ob, Id. VII, 902.</note> er jnen, der ­toüf­feren, halber nit recht hallten unnd shirm geben welle etc., mitt bitt, jme hierjnnen mitt anleitung unnd rath beholffen zesind, weß er sich jnn sachen zehalten, habent myn gnedig herren jnn erwegung gstaltsamme<note type="editorial"> Beschaffenheit, Id. XI, 368.</note> der sachen genanntem herrn vogte zů Knonouw zůgegeben jren lieben rathsfründt herrn landtvogt Eschern<note type="editorial"> Hans Konrad Escher (vom Glas)<persName ref="Escher vom Glas, Hans Konrad"/></note> mitt dem bevelch, da er sambt jme, dem vogt, die brůderen, so mitt jnen unverteilte brůder ald<note type="editorial"> oder</note> verwandten hetten, die der ­toüf­ferischen seckt anhenig<note type="editorial"> anhängig</note>, für<note type="editorial"> vor</note> sich bescheiden, denselben jnn bysin der herren predicanten myner herren mandat, der ­toüf­feren halber ußgangen, jnbilden<note type="editorial"> vorstellen, einprägen, Id. IV, 1199.</note> unnd jnen mitt allem erntst anzeigen unnd sy ermannen sölle, denselben, jren ungehorsammen brůderen ald verwandten, dheinen<note type="editorial"> keinen</note> underschlouff unnd herberg zegeben oder aber der vogt werde unnd sölle sy, jedes mals sy das übertretten, nach vermög deß mandaths straffen. Unnd wo sy beharrlich unnd freffenlich fürfuͤren<note type="editorial"> fortfahren, Grimm 4, 724.</note> unnd die widerspennigen nit abstaan unnd ghorsam syn wellten, man mitt jnen, den brůderen, theilen unnd deß ungehorsammen theil gůts zů myner gnedigen herren als ober­kheit hannden nemmen werde. Darnach mögind sy sich zehalten wüßen. Unnd diewyl dann mynen gnedigenn herren gesagts herrn vogts zů Knonouw halber dhein klag fürkhommen, sonnders sy an deßelben verhanndlen diser <pb n="2" facs="E_I_7_3__Nr__41__S__2_.tif"/> unnd annderer sachen halber bißhar ein gůtt vernueͤgen<note type="editorial"> Genugtuung</note> empfangen, sölle er, herr landtvogt Escher, sy, die predicanten, gmeinlich ermannen, von söllichem offentlichen verleiden<note type="editorial"> anklagen, Id. II, 1087.</note> deß vogts abzestaan, unnd da jnen synthalb etwas angelegen, werdint sy daßelbig jederzyth an gebürenden enden wol anzůzeigen wüßen. Er sölle ouch mithin mitt jnen, den herren predicanten, nach nothurfft reden unnd sy vermannen, wyl durch etlicher unnder jrem stand unordenlich unnd jrem ampt unnd stand ungemäß fuͤrend leben unnd wäßen, zů der ­toüf­feryg zun zyten eben vil anlaaß unnd ursach gegeben wirt, das die schuldigen vom selben abstandint unnd zů vermydung ergernuß jederzyth ein ordenlich rechtschaffen läben unnd wandel fuͤrind etc., wie dann er, herr landtvogt Escher, sölliches alles mitt wyttloüffigeren dientstlichen worten ußzerichten wol wüßen wirt.</p>
+<p>Unnd als dann fürs annder gesagter vogt zů Knonouw von mynen gnedigen herren bscheidts begert, wie er sich <persName ref="Wegmann, Jakob">Jacob Wegmans</persName> von <placeName ref="LOC_47.22402_8.55923">Hirtzwangen</placeName> gůts halber, so er jnn das <placeName ref="LOC_50_9">Franckenland</placeName> (alda er sich nidergelaßen unnd unnder die jesuiter begeben<note type="editorial"> Von Jesuiten rekatholisierte Gebiete Frankens</note>) hinweg zezüchen begert etc., hallten sölle, habent myn gnedig herren genanntem herrn landtvogt Escher sambt dem vogt zů Knonouw bevelch unnd gwalt geben, sidtmaln<note type="editorial"> da, weil, Id. IV, 147.</note> diser Wegman ein ungůter mensch unnd unnsers wahren christenlichen glaubens halber den synen gar schmechliche unnd schandtliche brief zůgeschriben haben soll, das sy ordnung geben unnd verschaffen söllint, damitt söllich syn hab unnd gůtte jme nit zůgelaßen, sonnders zů jr myner herren als ober­kheit handen genommen unnd bezogen werde, da man dann jme ald annderen, so das ansprechend, zů syner zyth deßhalb wol gebürenden bscheid geben wirt.</p>
+<p>Actum mittwochs den 26ten februarij anno etc. 89 p[raese]nt[ibus] herr burgermeister Tomman<note type="editorial"> <persName ref="GND_143659413">Kaspar Thomann</persName></note> unnd beid reth.</p>
+<p rend="margin-top">Underschryber zů <placeName ref="LOC_47.36667_8.55">Zürich</placeName> [scripsit]<note type="critical">In der Vorlage: ßt.</note>.</p>
+<pb n="3" facs="E_I_7_3__Nr__41__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__41__S__4_.tif"/>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss vor dem Datum <q>Mittwuchs, den 26ten februarij p[raese]nt[ibus] herr Tomman unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_794</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355296">StAZH E II 1a, S. 1036</idno>
+          </msIdentifier>
+          <head>Bericht über Unterstützung des Täufertums durch Johann Keller, Diakon in Winterthur</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1609-05-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1609-05-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 680</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Diacon zů Winterthur<note type="critical"><q>Diacon zů Winterthur</q> am Rand</note>:</p>
+<p>Herr Joann Keller<note type="editorial"> Rudolf Keller (1576-1621)<persName ref="Keller, Rudolf (1576-1621)"/></note>, diacon zů <placeName ref="LOC_47.49675_8.73417">Winterthur</placeName>, gibt den teufferen vil gstantz<note type="editorial"> Zustimmung, Zugeständnis, Id. XI, 1005.</note>, schmecht syne mitbruͤder, verachtet ire predginen etc. Gadt mit brennen<note type="editorial"> Gemeint sind vielleicht alchemistische Versuche.</note> umb, das in vil kostet, achtet syner oberkeit wenig.</p>
+<p>N[ota]: Den herren zů Winterthur sol zůgeschriben werden, dz sy ire klegten<note type="editorial"> Klagen</note> u[nseren] g[nedigen] herren zů stellind etc.</p>
+</div>
+    </body>
+  </text>
+</TEI>

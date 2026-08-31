@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_523</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355235">StAZH E I 7.3, Nr. 47</idno>
+          </msIdentifier>
+          <head>Urteil über Jagli Wälti</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1589-11-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-11-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 409</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__47__S__4_.tif"/>
+<head type="Originalsprache">Jacoben Wältis jm Surenbach<note type="editorial"> Suhre, Zufluss der Aare, der dem Sempachersee entspringt.</note> usß Bernpiet belangende syn ledigung der gfangenschafft<note type="critical">Überschrift sich auf er Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__47__S__1_.tif"/>
+<p>Als myn gnedig herren Jaglj Wältis jm <placeName ref="LOC_47.38016_8.08378">Surenbach</placeName> uß Bernpiet deß ­toüf­fers halb, diewyl er jnnen nit wie<note type="critical">Folgt gestrichen: die</note> aber die anderen zůversprechen stadt, sich deß erkendt, das wover<note type="editorial"> wenn, Id. I, 914.</note> er<note type="critical"><q>er</q> über der Zeile</note> einen eydt thůn ald<note type="editorial"> oder</note> an eydtsstatt anloben welle, den nechsten uß jr (myner herren) gricht unnd gepiet zezüchen unnd darjn one ein gleit ald erlouptnus nit mehr zekhommen, es were dann sach, das er sich dißer ­toüf­ferischen sect abthan unnd sich nach christenlicher ordnung halten wurde, sölle er demnach nach erlegung deß kostens uff jnne jnn der gfengknus unnd v pfund<note type="critical">In der Vorlage: lb</note> an gmeinen über sy gegangnen kostens der gfangenschafft ledig gelassen werden, hatt er anfangs deweders<note type="editorial"> keines von beiden, Id. XV, 489.</note> thůn wellen unnd, das sölliches wider syn gwüssne syge angezeigt, letstlichen aber sich dahin begeben, das, so man jnne by synem ja<note type="critical">Folgt gestrichen: unnd nein</note> belyben laßen, welle er by demselbigen an dhand loben, uß myner gnedigen herren gricht unnd gepiet zezüchen unnd darjn nüdt mehr zekhommen, er habe dann dessen erloubnus. Uff sölliches<note type="critical">Folgt gestrichen: er</note>, als er das zethůn unnd zehalten<note type="critical"><q>das zethůn unnd zehalten</q> am Rand mit Verweiszeichen</note> by synem ja an m[eister] <persName ref="Lavater, Hans">Hannsen Lavaters</persName> hand<note type="critical">Folgt gestrichen: glopt zehalten</note> glopt unnd versprochen, jst er ledig gelaßen unnd jme darby heiter angezeigt worden, das myn gnedig herren söllich syn loben unnd gesagt ja von jme anderst nit verstaan noch ufnemmen, dann als ob er einen eydt zů gott dem allmechtigen geschworen, unnd wo er das übersechen, man zů jme als einem gottsverleügneten unnd meineiden man unnd nit wie einen ­toüf­fer richten wurde, darnach wüsse er sich zehalten. Actum menntags den 3ten novembris anno etc. 89.</p>
+<pb n="2" facs="E_I_7_3__Nr__47__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__47__S__3_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

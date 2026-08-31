@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_341</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354893">StAZH B II 180, S. 1 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend die Besitztümer zweier ausgewanderter Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1578-07-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1578-07-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 227</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Uß <persName ref="Hofmann, Rudolf">Růdolfen Hoffmans</persName> und <persName ref="Bürgi, Jakob">Jacoben Bürgis</persName> der<note type="editorial"> korrigiert, ursprünglich: deß</note> abträttnen<note type="editorial"> fortziehen, Id. XIV, 1465.</note> ­toüf­fern hab und gůt soll herr vogt zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName> die bůßen und ufgangnen costen nemmen und das gůt sonst jnn hafft und verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> biß uff witern myner herren bscheid blyben, dergestalt das Hoffmans tochterman unnd Bürgis son die guͤter wol mögind bewerben<note type="editorial"> bewirtschaften, Id. XVI, 1132.</note> und nutzen, doch den abträttnen gar nüdt darvon verlangen, nach sy das als für eigenthůmblich verwalten, sonnders mit wüssen eines vogts darjnne handlen, ouch derselbig eigentlich erkhundigen, was Hoffmans tochterman eigens gůts jnher gebracht und die sach also nach ein zytlang berůwen<note type="editorial"> liegen lassen, Id. VI, 1901.</note>. So dann jnen mitlerwyl etwas witers angelegen, soll es alles wider an myn herren kommen, die jnen vorbehalten haben wellen, jederzyt nach gstaltsame der sach zehandlen und zůentschliesßen. Wo sonst sy beid zů ergriffen, söllen sy gfengklich angenommen werden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mittwuchs, den 3ten julij p[raese]nt[ibus] herr b[urgermeister] Kamblj und beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

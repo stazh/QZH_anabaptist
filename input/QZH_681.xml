@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_681</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355108">StAZH B IV 59, fol. 56</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1601-12-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-12-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 567</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, wir habent uß dynem schryben verstanden, wie du uff unnsern bevelch nach <persName ref="Schmid, Heini">Heinj Schmiden</persName> jm <placeName ref="LOC_47.33663_8.94127">Vischental</placeName>, dem widerthöuffer, stellen laßen, derselbige aber entrunnen und nit behendiget werden mögen etc. Darüber gebend wir dir uff dyn begerten vernern bscheidt den bevelch, das du glych nach jetzt nechst kommender heiligen wienecht zyt widerumb mit erntst uff bermelten Schmid dyn spech unnd khundtschafft<note type="editorial"> spech und kundschaft (wie Anm. 7, Nr. 566).</note> machen, damit wo müglich er ergriffen unnd unns zůgefuͤrt werde. Wurde er aber nit bald zůbetretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> syn, so jst unnser will und meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, das du demnach jnns Vischental keeren, syn (Heinj Schmidts) gůt jnn verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> legen, alles ordenlich jnventieren und beschryben unnd dann syn huß beschließen laßen söllist. So wellend wir nachgents nach empfachung berichts desselbigen dir darüber mit wyterm bscheidt begegnen.</p>
+<p>Fürs ander so thůnd wir dich hiemit berichten, nachdem <persName ref="Leutenegger, Jörg">Jeörg Lütenegger</persName> ab <placeName ref="LOC_47.28996_8.88374">Orn</placeName>, der ­toüf­fer (den wir jetzt etlich wochen lang jnn unnser<note type="critical"><q>unnser</q> am Rand</note> gfangenschafft gehept) sich diser tagen begeben, uß<note type="critical">Folgt gestrichen: annd</note> unnseren gricht unnd gebiet hinweg zezüchen unnd anderschwo syn glegenheit zesůchen, alda er (der sontsten von synem jrrthumb bißhar nit abgeredt werden mögen), underschlouff zefinden vermeint, das wir jme, Lüteneggern, dasselbig bewilliget<note type="critical">Folgt gestrichen: habent</note> unnd zů synem hinwegzug nach ein monat lang platz gegeben habent. Doch das er dasselbig zůerstatten<note type="critical">Folgt gestrichen: vor und ehe</note> an eydes statt anloben und by der hand versprechen<note type="critical"><q>und by der hand versprechen</q> am Rand mit Verweiszeichen</note> sölle, vor und ehe er uß gfengknuß gelaßen werde, wellich anloben und zůsagen<note type="critical"><q>und zůsagen</q> am Rand mit Verweiszeichen</note> er, Lütenegger, erstattet hat. Woveer nun er, <persName ref="Leutenegger, Jörg">Lütenegger</persName>, dasselbig nit hielte und nach verschynung nechster monatsfrist jnn dyner ampts verwaltung wyter gesehen<note type="critical"><q>wyter gesehen</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: betretten</note> wurde, so solt du zů jme gryffen laßen unnd jnne unns gfengklich widerumb überschicken, damit wir mit allem erntst nach ußwyßung<note type="editorial"> Inhalt, Aussage, Id. XVI, 1953.</note> unnsers mandats gegen jme gebürende verdiente<note type="critical"><q>verdiente</q> am Rand mit Verweiszeichen</note> straff fürzůnemmen wüßint.<note type="critical">Folgt gestrichen: Darnebent so jst auch unnser meinung, du verschaffist, das unnserm thurnhuͤter der costen, so über syn (Lüteneggers) gfangenschafft ergangen jst, lut jnnligenden zedels angents uß synem gůt bezalt und abgetragen werde, wie du das alles zůversehen wol wüßen wirst.</note> Datum den 9ten decembris anno 1601.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> Jacoben zur Eich.</p>
+</div>
+    </body>
+  </text>
+</TEI>

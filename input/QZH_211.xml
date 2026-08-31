@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_211</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355029">StAZH B IV 21, fol. 149r-150r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Rudolf Escher</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1559-11-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1559-11-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 97</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unsern günstigen, geneigten willen und alles guts zuvor. Ersamer, wyser, besonders getrüwer, lieber burger und vogt, uff hüt jst vor uns erschinen ein <persName ref="Streler, N.">Streler</persName> ab <placeName ref="LOC_47.28405_8.91997">Haltberg</placeName> und uns zuerkennen geben, wie du<note type="critical">Folgt gestrichen: jme</note> von wegen syner geschwüstergiten, die sich der töüfischen sectt anhengig gmacht, jme und synen gebrüdern ein haft und verpot uff jr hab und gut angelegt, des sy uß der ursach beschwert, das dieselben jre uns ungehorsame geschwüsterigt mit jnen nützit theil noch gmein, sonder was sy hetten jr eigenthumb und<note type="critical">Folgt gestrichen: den</note> der ungehorsamen darvon nüt zustendig were. Alles nach jnhalt und vermög eines gmechts<note type="editorial"> Vermächtnis, letzwillige Verfügung, Id. IV, 69.</note>, so jr vatter selig sinen gehorsamen und ungehorsamen kinden halb vor synem abscheiden rechtlich ufgericht. Mit pit, sy darby auch jrem hoffrecht, uß kraft deßelben er dann somlichs wol thun mögen, gnedigklych plybn zlassen und den haft abgethan zewerden verschafen welten.</p>
+<p>Wann wir nu somlich syn aufsuchen gehört und aber hieneben nit eigentlich wüßen, uß was gründt jnen der haft angelegt syn möcht, haben wir ermelt<note type="editorial"> erwähntes</note> gepot<note type="editorial"> Arrest der Sache, Id. IV, 1897.</note> jnn synem werd bestan und jnen darby anzeigen laßen, das wir<note type="critical">Folgt gestrichen: j[…] kurtz</note> uns der sach erkundigen auch jres hofs recht und anders ersächen und zůgelegner zyt hierüber<note type="critical"><q>hierüber</q> über der Zeile</note> mit gpürender antwort begegnen werden. Mit disem ferern<note type="editorial"> weiteren</note> vermanen, das er noch die synen, so by jm jnn der hußhalt sind<note type="critical"><q>sind</q> über der Zeile, in der Zeile gestrichen: sizen</note> fürterhin die jre geschwüstergit noch andere, so sich der tauffern anhengig gmacht, nienen weder hußen, hofen noch<note type="critical">Folgt gestrichen: einichen</note> underschlouff geben ald<note type="editorial"> oder</note> einiche hilf<note type="critical">Folgt gestrichen: zuschub</note> noch zuschub<note type="editorial"> Beihilfe, finanzieller Zuschuss, Id. VIII, 85f.</note> <note type="critical"><q>die jre geschwüstergit noch andere … zuschub</q> am Rand mit Verweiszeichen</note>, wie wir bericht sigen, von jnen bißher beschechen, thun, sonder sich derselben gentzlich entzychen und entschlachen und darinnen uns als jrer ordenlichen oberhand gehorsamen söllen. Alles by vermydung unser schweren straf und ungnad etc. Und<note type="critical">Folgt gestrichen: so denn</note> wiewol wir uns versächen<note type="editorial"> erwarten, Id. VII, 566f.</note>, er (der Streler)<persName ref="Streler, N."/> werde somlichs nit allein für sich selbs thun, sonder ouch by den überigen synen geschwüstergiten zugeschechen verschaffen. Nutdesterminder diewyl von<note type="critical"><q>von</q> über der Zeile, in der Zeile gestrichen: h[…] an</note> diser jrigen sect<note type="critical">Es folgt eine Wortstreichung.</note> nüt guts, sonder zerrüttung aller guter policy<note type="editorial"> öffentliche Ordnung, vgl. <bibl><ref target="http://fwb-online.de/go/policei.s.1f_1709446281">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> und christenlichs läbens zugewarten und dan zu <placeName ref="LOC_47.28706_8.92092">Wald</placeName>, <placeName ref="LOC_47.33663_8.94127">Vischenthal</placeName> und der enden<note type="editorial"> Orte</note> dyner verwaltung dieselbigen vil zuschub und underhaltung<note type="editorial"> Unterstützung</note> hand, wie sich dann<note type="critical">Folgt gestrichen: l</note> uß dynem schryben<note type="critical">Folgt gestrichen: uß</note> unß jüngst gethan befindt, das eben von<note type="critical"><q>von</q> über der Zeile</note> disem Streler und dem <persName ref="Müller, N.">Müller</persName> jm Rath<note type="editorial"> Raad</note> mit <persName ref="Bürgi, Jakob">Jacoben Bürgj</persName> ab der <placeName ref="LOC_47.32242_8.96122">Stralegg</placeName><note type="editorial"> Strahlegg</note>, den wir ein zythar jn gfengknus enthalten<note type="editorial"> festhalten, Id. II, 1228.</note> <note type="critical"><q>den wir ein zythar … enthalten</q> am Rand mit Verweiszeichen</note>, geschehen, bevelchen wir dir, du wellist<note type="critical">Folgt gestrichen: erkundigen</note> fürs erst erkundigen, wie sich<note type="critical"><q>sich</q> am Rand</note> die Streler, so<note type="critical"><q>so</q> über der Zeile, in der Zeile gestrichen: die nach</note> nit töüffer sindt, bißher gegen den jren und andern uns<note type="critical"><q>uns</q> über der Zeile</note> widerwerigen gehalten. Deßglychen wellicher maßen er, Streler, und der Müller jm <placeName ref="LOC_47.30605_8.92233">Rath</placeName> mit Jacoben Bürgj<note type="critical">Folgt gestrichen: jr handt har</note> gehandlet und uns des<note type="critical">Folgt gestrichen: zu</note> volgends auch uß was grundt jnen, den Strelern, das oberzelt verpot von dir angleit sige<note type="critical"><q>auch uß was grundt … sige</q> am Rand mit Verweiszeichen</note>, berichten, fürer harinne nach der gepür zehandlen wüsen mögen.</p>
+<p>Sodann als <persName ref="Bürgi, Jakob">Jacob Bürgj</persName> jetztgenempt, die zythar er<note type="critical"><q>er</q> über der Zeile</note> jnn unser gfangenschafft gwesen<note type="critical"><q>gret</q> über der Zeile, in der Zeile gestrichen: das er</note>, sych jnn keinen weg von synem gefaßten jrthumb des toufs<note type="critical">Folgt gestrichen: obzetho</note> abzestand underrichten<note type="critical">Folgt gestrichen: beßern wellen</note> und aber<note type="critical"><q>und aber</q> über der Zeile, in der Zeile gestrichen: het er sich</note> uf hüt allein dahin bewegen laßen, das er einen gelerten<note type="editorial"> nach einer feststehenden Formel gesprochener Eid, vgl. <bibl><ref target="http://fwb-online.de/go/gelert.s.4adj_1709294121">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> eydt zů gott dem allmechtigen geschworen<note type="critical">Folgt gestrichen: das</note>, das er jnn monats frist dem nechsten syne geschefft und sachen verrichten<note type="critical"><q>syne geschefft und sachen verrichten</q> am Rand mit Verweiszeichen, folgt am Rand gestrichen: und dan angentz</note>, uß unsern gerrichten und gebieten ziechen, ouch hiezwüschen niemant ufwiglen ald<note type="editorial"> oder</note> uns ungehorsam machen, sonders nach verschynung<note type="editorial"> Ablauf, Beendigung</note> deselben angentz<note type="editorial"> sofort, Id. II, 19.</note> <note type="critical"><q>ouch hie zieüchen … angentz</q> am Rand mit Verweiszeichen</note> und nit wider darin komen, er<note type="critical">Folgt gestrichen: er we</note> sige dan synes<note type="critical">Folgt gestrichen: jn (Lesung unsicher)</note> jrthumbs abgestanden und<note type="critical">Folgt gestrichen: des</note> und gehorsam syn welle<note type="critical">Folgt gestrichen: hat … deßhalb jst unser meynung</note>, haben wir jne der gfengknus uff sollchs<note type="critical">In der Vorlage: sollhs</note> gnedigklich glediget und wellent<note type="critical"><q>haben wir jne … wellent</q> am Rand mit mehreren Korrekturen</note>, das du jne jnn sömlicher zyt syne keß<note type="editorial"> Käse</note> verkauffen<note type="critical">Folgt gestrichen: und</note>, andere<note type="critical">Folgt gestrichen: syne</note> gescheft ußrichten auch syne schulden bezalen<note type="critical">Folgt gestrichen: unnd ungesech</note> laßest<note type="critical">Folgt gestrichen: hieneben aber versech[…] wellist […]</note>. Vorus aber<note type="critical"><q>Vorus aber</q> am Rand</note> sige den costen<note type="critical">Folgt gestrichen: aber</note>, so dir synenthalb von wegen diser gefengknus und annemens ufgangen were, von jm jnbringest umb wellichen, so er den nit erleite, <persName ref="Schaufelberg, Hans">Hans Schufelberg</persName> zu <placeName ref="LOC_47.28706_8.92092">Wald</placeName> vertröst und das so Bürgj hie verzen für jn<note type="critical"><q>für jn</q> über der Zeile, in der Zeile gestrichen: schon (Lesung unsicher)</note> bar bezalt hatt<note type="critical">Folgt gestrichen: zudem</note>. Hieneben auch du<note type="critical"><q>du</q> über der Zeile</note> uff jne, den Bürgj<note type="critical"><q>den Bürgj</q> über der <persName ref="Bürgi, Jakob">Zeile</persName></note> dyn spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> und kundtschaft habest. Wo<note type="critical"><q>Wo</q> über der Zeile, in der Zeile gestrichen: das</note> er jn<note type="critical"><q>jn</q> über der Zeile, in der Zeile gestrichen: nach</note> bestimpter zyt<note type="critical">Folgt gestrichen: nit</note> nit recht und synem eydt gmeß halte, ouch nach verschynung<note type="critical"><q>mit recht … verschynung</q> am Rand</note> des monats (ob er biß dan nit abstunde) das land nit<note type="critical"><q>nit</q> über der Zeile</note> rumen oder hernach<note type="critical"><q>oder hernach</q> über der Zeile, in der Zeile gestrichen: deßglychen ob er</note> sich über diß syn geschworen urfecht und eydt wider jnhin laßen wurde, jne alßdann<note type="critical"><q>alßdann</q> über der Zeile</note> fengklichen annemen und<note type="critical">Folgt gestrichen: und</note> uns zu<note type="critical">Folgt gestrichen: ges</note> schicken<note type="critical">Es folgt eine Wortstreichung</note> thügist, gegen jm nach synem verdienen mit straf behandlen<note type="critical"><q>mit straf behandlen</q> (Lesung unsicher) über der Zeile, in der Zeile gestrichen: zehand […]</note> mögen.</p>
+<p>Und fürs lest lange an uns an<note type="editorial"> zugetragen werden, als Kunde zukommen, Id. III, 1330.</note>, wie<note type="critical">Folgt gestrichen: er wider</note> die töufer jnn <placeName ref="LOC_47.25828_8.8655">Rütj</placeName>, Waldt und darumb<note type="critical"><q>darumb</q> am Rand mit Verweiszeichen</note> vil zusamen komen und jr jrtumb leeren<note type="critical"><q>und jr jrtumb leerend</q> am Rand mit Verweiszeichen</note> söllen. Da jst unser ernstlich meynung, das du mit sampt <persName ref="Oberkan, Hans">unserem amptman</persName> zu Rütj<note type="editorial"> Hans Oberkan, Amtmann in Rüti</note>, dem wir hiemit glyche meynung zuschryben, hieruf ein getrüwe flyßige spech<note type="editorial"> Nachforschung, Id. X, 76.</note> und wacht, wie jr gedengken und üch des einandern verglychen der sach dienlich syn<note type="critical"><q>wie jr gedengken … syn</q> am Rand mit Verweiszeichen</note>, uff sy machen, ob jr jnen jenen zukomen<note type="critical">Folgt gestrichen: unnd bfanget […]</note> und sy uns<note type="critical"><q>sy uns</q> über der Zeile</note> verwart zu<note type="critical">Folgt gestrichen: k</note> schicken landt und jnn dysem allem oder wo du sonst der toufern ald jren jnziechen und günstigen gwar wurdist, nach unseren ußgangnen mandaten gegen jnen handlen und an dynem getrwüen flyß nüt erwunden<note type="editorial"> ermangeln, fehlen, Id. XVI, 580f.</note> laßen, wie wir wol getruwen und zugnaden geneigt sindt. Datum mentags den 27. no[vembris] a[nn]o 59.</p>
+<p rend="margin-top">B[urgermeister] u[nd] r[at] d[er] st[att] Z[ürich].</p>
+<p rend="margin-top">Vogt Eschern zu <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>.</p>
+<p rend="margin-top">Es ward auch hern schafner zu Rütj, deßglychen <persName ref="Röuchli, Johannes">herrn vogt</persName> zu <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName><note type="editorial"> Johannes Röuchli</note> der toüfern halb, die anzenemen und ußzegand, zugeschriben und bevolhen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Rudolf Escher vom Glas (1523-1575)</p>
+      </div>
+    </back>
+  </text>
+</TEI>

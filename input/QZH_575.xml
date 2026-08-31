@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_575</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355259">StAZH E I 7.3, Nr. 69</idno>
+          </msIdentifier>
+          <head>Verhör von Heinrich Rüzensdorfer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1593-07"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1593-07">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 461</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__69__S__1_.tif"/>
+<p>Nachdem herr statthalter Kramer<note type="editorial"> Heinrich Cramer (1529-1594)<persName ref="Cramer, Heinrich"/></note>, m[eister] Jörg Müller<note type="editorial"> <persName ref="GND_143657992">Georg Müller</persName></note>, obervogt zů Birmenstorff, mit sampt herren <persName ref="Trüb, Felix">Felix Truͤben</persName> und herr <persName ref="Wolf, Heinrich">Heinrich Wolffen</persName> zů Heinrichen Ruͤtzenstorffer, burger allhie, jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> keert und jnne mit allem ernst gfraget, warumb er uß üwer (myner gnedigen herren) gricht und gepiet von wyb und kinden gezogen, ouch warumb er nit jnn die kilchen und gmeind gottes gann und üch, mynen g[nedigen] herren, ghorsam syn welle, da hat er für das erst angezeigt:</p>
+<p>Das er von synem wyb und kinden zogen, syge nit, sonder er syge by syner schwöster zů <placeName ref="LOC_47.38878_8.04826">Arow</placeName><note type="editorial"> Aarau, bernische Munizipalstadt.</note> gsyn. Und als er uff dem heimweg gwesen, syge jme syn leerknab entgegenn kommen und zů imme gsagt, er sölle nit heim, er werde gfangen; jme ouch anzeigt worden, syn wyb unnd kind sygint hinweg. Da er widerumb hinder sich zůruck zogen und sich jnn dem <placeName ref="LOC_47.46513_8.28964">Bader</placeName> gepiet<note type="editorial"> Grafschaft Baden, gemein­eid­genössische Vogtei.</note> gesetzt, ja uff die maß, so lang als er alda blatz habe. Were ouch syn schwiger nit gsyn, welte er sich nit mehr jn üwer (myner g. herren) gricht und gepiet glassen haben.</p>
+<p>Als herr <persName ref="Trüb, Felix">Felix Truͤb</persName> jnne gfraget, warumb er sich aber sündere von der christenlichen kilchen, was jnn hie jrre, antwortet er: Die prediger, so das heilig göttlich wort dem gmeinen volk fürtragind, haltindts selbs nit. Darumb sündere er sich, dann unser herr Christus werde syn wort nit jnn unreinen gschiren fürtragen. Wann man ouch das, so unser herr Christus Johannis am 18. capitel rede<note type="editorial"> Gemeint ist wohl Matth. 18, 15-18.</note>, hallte, so welle er sich nit von <pb n="2" facs="E_I_7_3__Nr__69__S__2_.tif"/> der gmeind gottes sünderen. Dann ein böser boum könne nit gůte frucht bringen.<note type="editorial"> Vgl. Mt 7,18</note> Sagt ouch, was sichst du den sprysen<note type="editorial"> Holzsplitter, Id. X, 941.</note> jnn dynes brůders oug unnd gschowist nit den trotboum<note type="editorial"> grosser Balken (für eine Baumkelter), Id. 4,1248.</note> jnn dynem oug<note type="editorial"> Vgl. Mt 7,3</note> etc., und derglychen.</p>
+<p>Darnach hat jnne herr <persName ref="Cramer, Heinrich">statthalter Kramer</persName> gefraget, was fürhin syn vorhaben syge. Er geantwortet, er welle üch, mynen g. herren, ghorsam syn ja jnn allen usserlichen und burgerlichen sachen, aber by synem glouben welle er, so im gott gnad gebe, festigklich beharren und blyben, bitet desshalben üch, myn gnedig herren, so ir inn nit wellint by synem glouben lassen blyben, inn mit synem gůt hinweg lassen, er welle den abzug<note type="editorial"> Steuer, die bei Wegzug des Steuerpflichtigen bzw. bei abwanderndem Vermögen zu entrichten ist, Id. XVII, 492.</note> gern geben.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Die Überschrift auf der Rückseite des Dokuments lautet: Heinrich Ruͤtzenstorffers, ­toüf­fers, antwort</p>
+      </div>
+    </back>
+  </text>
+</TEI>

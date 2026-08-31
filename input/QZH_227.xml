@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_227</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695070">StAZH E I 7.2, Nr. 109; Abschriften: ZBZ, Ms A 72, S. 348 (17. Jh.); ZBZ, Ms B 165, fol.
+              211v-212v (18. Jh.)</idno>
+          </msIdentifier>
+          <head>Hans Rahn an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1564-05-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1564-05-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 113</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__109__S__1_.tif"/>
+<p>Fromen, vestenn, fürsichtigen, ersamen und wyßen, jnnsonnders gnedigenn, lieben herenn, min underthenig willig dienst sigent uwer wyßheitt alezit bereyt zuvor. Demnach <persName ref="Gut, Andres">Annderes Gůtt</persName> von <placeName ref="LOC_47.26217_8.41262">Luneren</placeName> siner töfferischenn seckt halber ein ziit lang jn üwer (miner herenn) gefengknuß gelegen, hatt er domalen uff vilfaltige vermanung und undereden [sich] dahin begeben, das er sich jn den nechstenn fierzechen tagen besinen und bedencken und eindtweders jn die predig und kilchen gann, darzů sich üwer (miner gnedigen heren) mandathen und satzungen gemeß halten und nachkomen oder aber, so<note type="editorial"> wenn</note> er sich jn jm selbs zeleisten nütt befinden köndte, welle er mit sinen wib unnd kinden angentz<note type="editorial"> sofort, Id. II, 19.</note> uß üwer (miner gnedigen heren) grichten unnd gepietten züchen und die üweren ungesümpt<note type="editorial"> unbehelligt, Id. VII, 961.</note> und ungeirt laßen. Uff somlichs habend jr (min gnedig heren) vogt Wunderlich<note type="editorial"> <persName ref="Wunderli, Hans">Hans Wunderli</persName></note> selligen zůgeschriben, das er uff jn ein spech<note type="editorial"> Nachforschung, Id. X, 76.</note> mache und acht neme, so er sich der oberzelten artiklen nütt hieltte<note type="critical">In der Vorlage: hieltte</note>, solte er üch deße berichten. Uff somlichs bin ich durch hern <persName ref="Bluntschli, Johannes">Johanßen Bluntschlin</persName>, predicanten zu <placeName ref="LOC_47.28147_8.40942">Otenbach</placeName>, ouch von denn eegomeren<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note> daselb bericht worden zů dem dickerenmal<note type="editorial"> wiederholten Mal, Id. IV, 148.</note>, das er ungehorsam sige und sinen zusag nüt statt duge<note type="editorial"> tun würde</note>, ouch nüt jn die kilchen gange. Uff somlichs hab jch jn personlich verschiner<note type="editorial"> vergangener</note> tagen für<note type="editorial"> vor</note> mich, alß ich zů <placeName ref="LOC_47.23479_8.42916">Maschwanden</placeName> ein rechtstag gehept, beschickt und jme sollich sin ungehorsame fürgehept<note type="editorial"> vorgehalten</note>, hatt er mir gar ungebürlichen bescheid geben. Derhalben ich nütt anders kan ermeßen, dan das er siner zůsag nütt statt thůn werde, ouch den costen, so für jn erleitt, mit keinem lieb gesinet sige, zů zallen. Derhalben jch üch alß minen gnedigen heren und oberen solichs zůschribenn, was haruff üwer geheiß und wil sige, wytters gegenn jme zůhandlen, mögen jr mich berichten, wil ich üwerem geheiss statthůn, üch hiemit jn den schyrm gottes wil befelchenn. Datum den 8. tag meyen 1564 jn <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> etc.</p>
+<p rend="margin-top">Üwer allezitt williger gehorsamer dienner</p>
+<p><persName ref="Rahn, Hans">Hanns Ran</persName>, derzitt vogt zů Knonow</p>
+<pb n="2" facs="E_I_7_2__Nr__109__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__109__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__109__S__4_.tif"/>
+<p rend="margin-top">Den gestrenngen, fromen, vestenn, fürsichtigenn und wysenn herren burgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minenn jnsonders gnedigen und gepyettenden, lieben heren.</p>
+<p rend="margin-top">[Undatierter Beschluss des Rates:] Soll widerumb gfengklich angenomen werden und alher gschickt.</p>
+</div>
+    </body>
+  </text>
+</TEI>

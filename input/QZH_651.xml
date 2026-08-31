@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_651</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3736723">StAZH E I 2.2, Nr. 28</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1600-11-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1600-11-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 537</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Alß m[eister] Hans <persName ref="Hottinger, Hans Jakob">Jacob Hottinger</persName>, obervogt im <placeName ref="LOC_47.502561593977106_8.499244491889575">Nüwenambt</placeName>, über ob­ge­mel­ten artickel der zweyen gefangnen ­toüf­fern halb synen bericht unnd bscheid ouch gegeben, das nammlich dise zwen ­toüf­fer allein durchgezogen, sich still gehallten und gar niemmanden ufgewiglet etc., liessends myn herren darby belyben unnd habent den obervögten jm Nüwenambt bevolchen, das jnn jren ambtsverwaltung den ­toüf­feren khein blatz gegeben werde. Sy söllent den wirt und die wirtin von <placeName ref="LOC_47.4931_8.49879">Niderglatt</placeName> beschicken und jnen mit erntst undersagen, das sy den ­toüf­feren kheine eignen kammeren jngebind, noch sy verhaltind<note type="editorial"> Aufenthalt geben</note>, oder man werde sy, den wirt und die wirtin, jnn gfangenschafft fuͤhren laßen.</p>
+<p>Glychergstalt sind ouch die anderen jnneren obervögt ermannet, das ein jeder jnn syner vogty der ­toüf­feren halb ein flyßigs ufsehen haben laße und denselben khein underschlouf gestattne.</p>
+<p>Was dann den müller zů <placeName ref="LOC_47.49927_8.796">Reterschen</placeName> betrifft<note type="critical"><q>betrifft</q> über der Zeile.</note>, soll dem vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> geschriben werden, das er synethalb eigentliche nachfrag habe unnd uff jnn spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> mache, so er dann den schuldig findt, jnn nach luth der mandaten straaffe.</p>
+<p>Actum mitwuchs den 5ten novembris a[nn]o 1600 p[raese]nt[ibus] herr  <persName ref="GND_143657062">burgermeister Keller</persName> (statthalter) unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

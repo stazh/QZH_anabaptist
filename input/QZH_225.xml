@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_225</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695039">StAZH E I 7.2, Nr. 108</idno>
+          </msIdentifier>
+          <head>Hans Wunderli an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1563-11-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1563-11-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 111</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__108__S__1_.tif"/>
+<p>Fromm, vest, fürsichtig, ersam, wyß, insonders gnedig, lieb herenn, üwer ersam wysheit sigend min unnderthenig willig dienst yeder zit zuvor. Gnedig lieb herenn, allß jr mir geschriben von wegen <persName ref="Glettli, Andres">Anndersen Glettly</persName>, das ich üwer ersam wysheit brichten sölly, wie es sines gůtz halben gestalltend sige, daruff ich ein nachfrag by ettlichen personnen gehept, die um deß Glettlyß thůn unnd laßen woll wüßend. Die brichtend üwer ersam wysheit der gestallt, das er habe huß unnd hoffstatt, zwey manwerch<note type="editorial"> Flächenmass für Wiesland, Id. XVI, 1226.</note> an heuwachs<note type="editorial"> Wiese, Grasland, Id. XV, 269.</note>, ein bünten<note type="editorial"> eingezäuntes Pflanzland, Id. IV, 1401f.</note> daran man ein vierttel hanffsamen seit<note type="critical">In der Vorlage: set</note> unnd zů allen zellgen<note type="editorial"> Felder</note> sibenthalbe juchert acher. Ob disem allem gat vorhin zwey vierttel kernenn boden zinß und drig guldin gellts, sunst alles ledig unnd eygenn, darnach ettwas armen huß Röttlins. Darumb wellind üwer ersam wyßheit sölliche verschribung zů gůtter meinung verstann unnd uffnemenn.</p>
+<p>Dargegen allß üwer ersam wysheit mir teglich schribind von wegen <persName ref="Gut, Andres">Andereßen Guͤthen</persName> dem teüffer zů <placeName ref="LOC_47.26217_8.41262">Luneren</placeName>, das ich den selben üwer ersam wysheit gfencklich zů schicken sötte, so hannd doch ich und der frygamptßman alltag unnser gspech<note type="editorial"> Nachforschung, Id. X, 76.</note> uff gemelten teüffer. Aber wir ine nach nie betreten können, wie wol wir unnser fliß und ernst anwendind unnd wandlet fill für und für um <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName> umhin, wiewol sich üwer ersam wysheit sol zů mir versehen, wie bald mir ine bettreten mögend, üch zů schicken laßenn. Deße sond üwer ersam wysheit zů mir versehen. Dattum denn xx. tag wintermonat anno etc. lxiij jar.</p>
+<p rend="margin-top">Üwer ersam wysheit undertheniger williger diener, <persName ref="Wunderli, Hans">Hannß Wunderlich</persName>, obervogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>.</p>
+<pb n="2" facs="E_I_7_2__Nr__108__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__108__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__108__S__4_.tif"/>
+<p rend="margin-top">Dem frommen, vestenn, fürsichtigen, ersammen unnd wyssenn herenn hern burgermeyster unnd rhat der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen in sonders günstigenn lieben herenn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

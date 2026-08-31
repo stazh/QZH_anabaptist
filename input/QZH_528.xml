@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_528</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355078">StAZH B IV 47, fol. 183</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Ziegler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1589-11-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-11-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 414</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, das die <persName ref="Schnyder, Hans">unnseren Hanß</persName> und <persName ref="Schnyder, Heinrich">Heinrich</persName>, die Schnydere von <placeName ref="LOC_47.53414_8.56841">Rorbas</placeName>, sich persönlichen vor unns gestelt unnd den<note type="critical"><q>den</q> über der Zeile, in der Zeile gestrichen: jren</note> jrrthumb jrer die zythar gebruchten ­toüf­ferischen sect bekhendt, darnebent sich aller gehorsamme anerbotten unnd gantz<note type="critical">Folgt gestrichen: trungenlichen</note> der gnaden begert, habent wir daran jetzmaln recht ein benuͤgen genommen unnd sy begnadet. Doch mit dem heitern vorbehalt und anhang, ob<note type="critical"><q>ob</q> über der Zeile, in der Zeile gestrichen: wenn</note> sy einer oder beid<note type="critical"><q>einer oder beid</q> am Rand mit Verweiszeichen</note> sich fürhin oberzeltem jrem anerbieten, es syge mit besůchung deß gottlichen worts unnd übriger<note type="critical"><q>übriger</q> am Rand, in der Zeile gestrichen: anderer</note> christenlichen gebrüchen nebent anderen christenmentschen unnd aller gebürender gehorsamme gegen uns nit gemeß erzeigen und hallten wurden<note type="critical"><q>wurden</q> über der Zeile, in der Zeile gestrichen: sonder jr alte wyß an sich nemmen, das</note>, jnen alts und nüws zesammen werden zelaßen und sy<note type="critical"><q>sy</q> über der Zeile</note> mit ernst zestraffen. Derhalben so jst unser bevelch an dich, das du uff obgedachte beid Schnyder sampt und sonders achtung geben und ufsehen laßist. Wenn sy sich nun<note type="critical">Folgt gestrichen: wie oben gemeldet</note> gehorsammlich wie oben gemeldet tragend, jsts uns dest lieber. Wo nit, sonder sy jr alte wyß an sich nemmen<note type="critical">korrigiert, ursprünglich nemmend</note>, solt du glych angentz<note type="editorial"> unverzüglich, sofort, Id. II, 19.</note> <note type="critical">Folgt gestrichen: widerumb</note> zů jnen gryffen laßen und uns gfengklichen zůschicken.</p>
+<p>Sovil dann deß Heinrichen bittlichs begeren belang[t]<note type="critical">Wort aufgrund der Bindung nicht vollständig lesbar; folgt auf der nächsten Zeile gestrichen: jme</note>, die 200 pfund<note type="critical">In der Vorlage: lb</note>, so du von synetwegen noch jnzenemmen, jme (als der sich widerumb jnn die gehorsamme ergeben) gnedigklichen gevolgen zelaßen und an den jngenommnen 100 pfund ein vernuͤgen zetragen<note type="critical"><q>zetragen</q> über der Zeile, in der Zeile gestrichen: zehaben</note>, habent wir solliches noch dißmals jngstelt, untz<note type="editorial"> bis</note> wir grundtlichen vernemmend, wie er sich hallten welle. Alsdann nach glegenheit der sachen<note type="critical"><q>nach glegenheit der sachen</q> am Rand</note> jme<note type="critical">Folgt gestrichen: noch</note> nüdt abgeschlagen syn, wolten wir dich hiemit verstendigen, darnach zehandlen<note type="critical">Folgt gestrichen: haben</note> wüssen. Datum den 17. d. novembris a[nn]o etc. 89.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wyßen, unserm besonnders gethrüw[en]<note type="critical">Infolge Bindung nicht lesbar</note>, lieben burger und vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> Hansen Ziegeler.</p>
+</div>
+    </body>
+  </text>
+</TEI>

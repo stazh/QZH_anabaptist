@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_638</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355099">StAZH B IV 57, fol. 299v-300v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Salomon Hirzel</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1599-10-06"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1599-10-06"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 524</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern gönstigen geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, es jst unnser<note type="critical">Folgt gestrichen: mein</note> bevelch an dich, du wellist gegen den unnsern <persName ref="Sträuli, Hans">Hannßen Stroüwlj</persName> zů <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName><note type="critical"><q>zů Wedeschwyl</q> am Rand mit Verweiszeichen</note> verschaffen, das er biß mentag zů mittag zů unnserm lieben mittrath Hans <persName ref="Wolf, Hans Ulrich">Ulrich Wolffen</persName> alher khomme unnd, was derselbig jme von unsert wegen anzeigen wirt, anhöre. Fürs erst. Demnach fürs ander werden wir berichtet, wie das nit allein obgedachter Stroüwlj, sonnder ouch der unnser <persName ref="Hön, Heini">Heinj Hön</persName> von Wedeschwyl<note type="editorial"> Wädenswil</note> etwas<note type="critical">Folgt gestrichen: von der ­toüf­feren</note> gůts, so der persohnen, so von der widerthoüfferischen sect wegen jnn dem landt zů<note type="critical"><q>landt zů</q> am Rand</note> <placeName ref="LOC_49.5_17">Mehrhern</placeName> sygen, unnderhanden habind.<note type="critical">Folgt gestrichen: Unnd die</note> Wann dann unns<note type="critical">Folgt gestrichen: diser abgethrettnen</note> von oberkeit wegen zůstadt, diserm gůt nachzefragen, so jst unnser bevelch an dich, du wellist vorgenannte beide, den Stroüwlj und Hön, und andere jnn dyner verwaltung, die sy beid dir wol anzeigen werden khönnen<note type="critical"><q>und andere … khönnen</q> am Rand mit Verweiszeichen</note>, für<note type="editorial"> vor</note> dich bescheiden unnd von jnen erkhundigen, was unnd wie vil sy deß gůts unnderhanden, wo dasselbig gelegen<note type="critical">Folgt gestrichen: unnd</note>, wie es darmit gestaltet unnd wellichen persohnen dasselbig zůgehörig unnd was du also jnn erfarung bringst, unns desselbigen schrifftlichen berichten<note type="critical">Folgt gestrichen: deßen wir unns</note>, damit wir unns darnach feerner zehalten wüßint. Datum sambßtags de 6ten octobris a[nn]o etc. 99.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wyßen, unnserm besonders gethrüwen, lieben burger unnd vogt zů Wedeschwyl Salomon Hirtzeln.</p>
+</div>
+    </body>
+  </text>
+</TEI>

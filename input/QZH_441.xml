@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_441</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355072">StAZH B IV 45, fol. 209</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Schultheiss und Rat von Bern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1585-09-24"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-09-24"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 327</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnser fründtlich willig dienst, sambt was wir eeren, liebs und gůts vermögend zůvor. From, fürsichtig, ersam, wyß, jnsonders gůt fründt und vertruwt, lieb, alt eydtgnosßen, wir habent üwer schryben üwers zum teyl entschlusses über die puncten jm arowischen abscheid begriffen<note type="critical"><q>begriffen</q> am Rand mit Verweiszeichen</note> sambt<note type="critical">Folgt gestrichen: d</note> der überschickten<note type="critical"><q>überschickten</q> am Rand mit Verweiszeichen</note> abschrifft üwers nüw ußgangnen mandaths<note type="editorial"> Diese Abschrift des Berner Mandats ist unter der Signatur StAZH E I 7.3, Nr. 15 <pb n="1" facs="E_I_7_3__Nr__15__S__1_.tif"/>
+<pb n="2" facs="E_I_7_3__Nr__15__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__15__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__15__S__4_.tif"/>
+<pb n="5" facs="E_I_7_3__Nr__15__S__5_.tif"/>
+<pb n="6" facs="E_I_7_3__Nr__15__S__6_.tif"/>
+<pb n="7" facs="E_I_7_3__Nr__15__S__7_.tif"/>
+<pb n="8" facs="E_I_7_3__Nr__15__S__8_.tif"/>
+<pb n="9" facs="E_I_7_3__Nr__15__S__9_.tif"/>
+<pb n="10" facs="E_I_7_3__Nr__15__S__10_.tif"/>
+<pb n="11" facs="E_I_7_3__Nr__15__S__11_.tif"/>
+<pb n="12" facs="E_I_7_3__Nr__15__S__12_.tif"/>
+überliefert.</note> und vorhabender straff der widerthoüffern halb wol empfangen unnd wellent sölliches alles zůr nechsten glegenheit, das unsere lieben mitträth, so disen sachen zů<note type="critical">Folgt gestrichen: tagen</note> gehaltnen tagleistungen<note type="editorial"> Gemeint sind die Tagsatzungen der evangelischen Orte in Aarau.</note> von unseren wegen bygewonnet, anheimbsch<note type="editorial"> anwesend, Id. II, 1286.</note> syn werdent, für<note type="editorial"> vor</note> uns nemmen, uns darjnn ersehen<note type="editorial"> Einsicht nehmen, orientieren, Id. VII, 564f.</note> und hernach üch<note type="critical">Folgt gestrichen: von</note> unsers bedenkens uff üwer witers radtsams gfallen berichten, bedanckend uns darnäbent üwer mitteylung angeregts mandaths. Was masßen nun wir under den unsern ouch jnsehens<note type="editorial"> Vorkehrung, Beschluss, Id. VII, 563.</note> zethůnd gsinnet<note type="critical">Folgt gestrichen: werdent</note>, jst jnn hiebyliggender copy zefinden. Und dann der predicanten und kilchendienern standt und weßens pflicht, daher (wo sy sich dem nit geziemender gstalt tragend) vil anlaßes zů der widertoufferyg gegeben wirt, belangende, jst von uns angesehen, das die unsern desselbigen zů<note type="critical">korrigiert, ursprünglich: jm</note> beiden jm jar haltenden sinodis mit erntst ermannet werden. Deswegen wir es dem mandath jnzůlyben underlaßen.<note type="critical"><q>Und dann der predicanten … underlaßen</q> am unteren Blattrand.</note></p>
+<p>Denne wyl<note type="critical"><q>Denne wyl</q> am Rand, in der Zeile gestrichen: Unnd diewyl denn</note> üwer und unser lieb eydtgnosßen von <placeName ref="LOC_47.55839_7.57327">Basell</placeName> und <placeName ref="LOC_47.71034_8.63388">Schaffhusen</placeName> jnn das zů <placeName ref="LOC_47.38878_8.04826">Arouw</placeName> gestelt schryben<note type="editorial"> Dieses Schreiben betrifft nicht Massnahmen gegen das Täufertum, sondern die kontroverstheologische Schrift <q>Fragstuck des christlichen Glaubens an die neuen sectischen Prädikanten</q> von John Hay und Sebastian Werro (VD16 H 843), vgl. EA IV/2, S. 886f.</note> üwern und unsern eydtgnosßen zů <placeName ref="LOC_46.70834_7.10311">Fryburg</placeName> zůzesenden consentiert<note type="critical">Folgt gestrichen: ha</note>, wirt dasselbig uff üwere, uns jüngst jnn üwer missif<note type="critical"><q>jnn üwer missif</q> am Rand mit Verweiszeichen</note> erscheinte meinung jnen<note type="critical">Folgt gestrichen: hiemit durch</note> von Fryburg hiemitt durch zeigern<note type="editorial"> Bote, Überbringer und Vorzeiger eines Briefs, Id. XVII, 393.</note> diß unserm<note type="critical">Folgt gestrichen: allein</note> hierumbe<note type="critical">Folgt gestrichen: abgesandtem loufl ußgesch</note> abgefertigetem loüffers botten zůgebracht, was antwort darüber ervolgt, soll üch one verzug zůkommen, jm fal von nöten wir die vier stett uns ferner darüber was thůnlich beradtschlagen wüßind. Da an uns<note type="critical">Folgt gestrichen: j</note>, mit üch (was dem handel dienstlich) helfen fürzenemmen<note type="critical">Folgt gestrichen: jed</note>, nit ermanglen soll. Mit jnleitung deß allmechtigen, deßen gnadenrychen schutzes und schirms wir üch hieby bevelchend. Datum den 24ten septembris a[nn]o etc. 85.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An schultheiß und rath der statt Bern</p>
+</div>
+    </body>
+  </text>
+</TEI>

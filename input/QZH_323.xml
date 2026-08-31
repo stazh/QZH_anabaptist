@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_323</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695125">StAZH E I 7.2, Nr. 126</idno>
+          </msIdentifier>
+          <head>Brief von Hans Hottinger aus Mähren an Peter Hottinger in Birmensdorf</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1575"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1575"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 209</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__126__S__1_.tif"/>
+<p>Meine lieben und guotten giner<note type="editorial"> Gönner</note> und frindt, nemlich Petter Hettinger ouch <persName ref="Frey, Hans">Hans Frey</persName> des gleichen <persName ref="Job, Jackle">Jackle Job</persName>. Ich, Hans Hettinger von Brimesdorff<note type="editorial"> Birmensdorf</note>, jetz im lands Merhern wonendt, ich kan gleich aus hertzlicher liebe nit underlassen, euch ain wenig zuschreiben. Wie es mier gett, wais ich nit anderst dan hertzlich wol. Gott sey lob, der mich zu dem rechten volck gottes gebracht, darbey ich auch verhoff zubleiben bis an mein endt mit der hilff gottes. Darum ir alle, ich mecht eich allenn von hertzen verginen, das ir kinden<note type="editorial"> könnt</note> erkenen eiber<note type="editorial"> euer</note> sundliches leben, das ir gleich auch zubringtt mit sampt der gantzen weltt, die dan so gar verwildett ist im unrechten, wie ir dan sehendt und das werck zeignus gipt, das fressen und sauffen, fluochen und scheltten, geitz, hoffartt und allerlay abgetterey hatt jberhandt genumen. Dann wer solches rechter artt erkendt und waist, das gott solches nit kan ungestrafft lassen, der begertt sich zubessern. Welches ich auch eich hertzlich mecht verginen, das ir die brieder, die zu eich kumen und eich die warhaid virhaltten, auffnemen und inen guotts thetten, in inen thetten folgen und glouben, dan sy radtten eich zu dem hechsten schatz und zu dem gresten guott, welches dan gott selber ist. Disses guott aber zu iberkumen, braucht ain grossen ernst, wie Christus selber sagtt: Wer nit allem absagtt, was er hatt und besitz, kan nit mein junger sein. Dann ir alle, so ir lust hapt zufolgen, so fragtt die frumen brieder, die zu eich kumen. Sy werden eich threylich raden und helffen.</p>
+<p>Weitter, mein lieber Petter Hettinger, ir wist, wie ich von eich gezogen bin, und ir mier noch schuldig seitt hundert<note type="critical">In der Vorlage: hunder</note> guldin. Das hab ich gleich bey eich sten lassen und eich aus liebe noch ain jar lassen brauchen nach eiberm gefallen. Doch hab ich zu eich gesagtt, ich wel schauwen, das ich in ainem jar wider hinaus kum und bin noch des sins, wens die frumen fir guott erkenen und es gottes wil ist, wil ich auff disses 75. jar zu eich kumen und das mein hollen. Drum ist mein bitt gar fleissig, ir wellendt mier hierin behilfflich sein und mier das mein lassen zlieb werden, wie ich eich dan vertrauw, und ir mier auch solches zugesagt haben. Dan ir megt selbs wol gedencken, die rais ist weidt, so hab ich nit lust lang daus umzuzihen, sunder wen ich geferttiget wurdt, flux wider zu der gmaindt zu zihen. Desgleichen ist auch mein bitt an Jackle Job, der ist mier ouch 30 guldin schuldig, das ers richt, wen ich kum, das ich nit gesumpt werdt. Desgleichen auch an Hans Frey, der ist mier 18 guldin schuldig, das er miers ouch wel dreylich zustellen, welches dan ich verhoff zu eich allen, das ir mich hierin nitt werdt sumen oder verhindern oder auffhaltten, sunder guott williglich obferttigen.</p>
+<pb n="2" facs="E_I_7_2__Nr__126__S__2_.tif"/>
+<p>Weitter ist auch mein bitt an eich, es hatt mich der <persName ref="Lupfer, Jackle">Jackle Lupfer</persName> gebetten, do ich bin ain bruoder worden im romer debile<note type="editorial"> Diminutiv von Dobel/Tobel?</note>, das ich im sol embietten, wan ich ins landt kum, wie es mier gefal, sol ich ims wider zuwissen thůn. Welches ich im zugesagt hab, drum důr ich ims auch zu wissen, das es<note type="critical">In der Vorlage: er</note> mier herzlich wol gett und ist mier ein grosse freidt, bey solchem volck zewonen, das kan ich eich und im nit verhallten<note type="editorial"> vorenthalten, unterschlagen</note>. Nit mer auff dis mal, dan ich winsch eich allen gottes gnadt und was eich zu eiberer sellen hail nutzlich und firderlich ist. Dattum <placeName ref="LOC_49.00604_17.20512">Schaidawitz</placeName><note type="editorial"> Žádovice (deutsch Schadowitz), Südmähren</note> im lan[d]s Merhern des 75.</p>
+<p rend="margin-top">Von mier, Hans Hettinger von Brimelsdorff, jetz im lands Merhern wonendt zu Schaidawitz.</p>
+<p rend="margin-top">Disser brieff geherrt dem Petter Hettinger gen Brimelsdorff<note type="editorial"> Vermutlich Birmensdorf (Zürich)</note> in das Schweitzerlandt zu andwurtten, ein meil wegs von <placeName ref="LOC_47.36667_8.55">Zirch</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

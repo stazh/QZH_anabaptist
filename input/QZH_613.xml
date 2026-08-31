@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_613</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355271">StAZH E I 7.3, Nr. 80</idno>
+          </msIdentifier>
+          <head>Kundschaft des Ehegerichts über Thomas Gügi</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1597-12-12"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1597-12-12"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 499</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__80__S__1_.tif"/>
+<head type="Originalsprache">Khunndschafft<note type="editorial"> Zeugenbefragung, Id. III, 353.</note> über Tomman Gügi, denn müllerknecht uß der pfharr Rikennbach<placeName ref="Rickenbach bei Wil"/> jm obern Turgöüw<placeName ref="Thurgau"/>, unnd sagt des erstenn</head> <p><persName ref="Müller, Heinrich">Heinrich Müller</persName>, der junng müller an der <placeName ref="LOC_47.37717_8.5359">Sil</placeName><note type="editorial"> Sihl, Nebenfluss der Limmat</note>: Tomman Gügj wer zů  jme kommen, anzeigt, habe etwas alhie zůschaffen und welle darnach jnn dz <placeName ref="LOC_47.61525_7.25933">Sunndtgöüw</placeName><note type="editorial"> Sundgau, Elsass</note> uff ein empfangne müllj. Der ursachen unnd dz er, züg, selbigenmals keinen knecht gehept, er jnne (Tomman) 14 tag jnn synem huß gehan. Es were auch etwas gredt, das <persName ref="Usteri, Paul">Pauli Usteri</persName>, müller alhie, sig jmme 100 kreuzer zetůn<note type="editorial"> einem etwas schulden, Id. XIII, 338.</note>, ob aber dz sovil oder nit, möge er (züg) nit wüssen. Die 6 kreuzer aber, so er jmme für sich selbs söllen<note type="editorial"> schuldig sein, Id. VII, 771.</note>, habe er jmme vor synem ußthretten<note type="editorial"> das Land verlassen, Id. XIV, 1479.</note> bezalt. Item gestern 8 tag were der <persName ref="Dettling, N.">Tettling</persName> von <placeName ref="LOC_47.0405_8.74101">Schwytz</placeName>, jtem syn (Tettlings) tochter unnd syn schwager <persName ref="GND_107582656X">Hanns Ziegler</persName>, pfister, uff dorff by jme geweßen, da etwas wegen des Tettlings gůt geredt. Ein annder mal were <persName ref="Sommerauer, Hans">Hannß Summerouwer</persName> der pfister (dem er 10 müt kernnen gemaln) ouch kommen.</p>
+<p><persName ref="Bürgi, Jakob">Jacob Bürgis</persName> müllerknecht von <placeName ref="LOC_47.57125_9.28383">Summerj</placeName><note type="editorial"> Sommeri</note> ußem <placeName ref="LOC_47.5562_9.07686">Turgöüw</placeName>, dißmaln jnn Jeörgen von Birch seligen müllj dienende, sagt, Tomman Gügi hab jme anzeigt, syn meister der müller begere, dz er biß wienacht unnd er ein anndern knecht by jmme blybe, darby auch gemeldet, er begere nit sonnders alhie zůblyben. Er (Tomman) habe auch etliche schulden alhie, sonnderlichen were von Paulj Usterj gredt worden, wer aber die, möge er nit wüssen. Verschinnen sonndtags 8 tag er (züg) syner gschäfftten wegen nit jnn die kilchen kommen können, da er gesechen, dz jnn aller predig der Tettling, jtem Hannß Ziegler der pfister jnn des alten Heinnrichen Müllers huß gesyn und ein anndermal Hannß Summerouwer, deßglychen er (züg) von jmme (Tomman) auch verstannden, vermelter <pb n="2" facs="E_I_7_3__Nr__80__S__2_.tif"/> Hanns Ziegler habe jnne, Tomman Gügi, als er letstlichen harkommen, über nacht jnn synem huß ghept, sonnsten sigen auch anndere mehr ummbhin gloffen, deßen er aber kein achtunng ghept. Er (Tomman) habe auch jnne (zügen), wann er etwan můttig geweßen, darvon abgemannedt.</p>
+<p>Unnd dann sagt <persName ref="Schwarz, Georg">Jeörg Schwartz</persName> vonn <placeName ref="LOC_47.64787_9.13212">Tegerwylen</placeName> uß Turgöuw, der jetziger zyt auch jnn Jeörgen von <persName ref="Birch, Georg von">Birch</persName> seligen müllj dienedt, als man sonndtag 8 tag jnn die kilchenn gelüthet, habe er (züg) jnne (Tomman) gemannedt, mit jmme jnn die predig zeghan. Er (Tomman) jme zů anntwortt gebenn, habe nüdt darjnnen zeschaffen. Domaln er (züg) jnn alem, dz man jnn die predig gelüdt, gesechen, dz er (Tomman) über die bibell gesessen, jtem dz etliche jnn des alten müllers huß bj jmme gweßen, desselbigen mals kurtz geprediget. Wüsß aber nit, wer die anndern gweßen oder was des ortts verganngen<note type="editorial"> vor sich gehen, geschehen, Id. II, 27.</note>, dann er (züg) erst kurtzlichs alhar kommen und desshalben sy nit khenne. Unnd als er (züg) synen nebentknecht gefraget, warumb der Tomman, wann er jnne etwas frage, jmme kein anntwortt gebe, habe er gesagt, er sölt es wol sechen, dz er (Tomman)<persName ref="Gügi, Thomas"/> ein töüffer, syn sag hiemit änndende.</p>
+<p>Actum am eegricht monndtags denn 12ten decembris a[nno] etc. 1597.</p>
+<pb n="3" facs="E_I_7_3__Nr__80__S__3_.tif"/>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Die Aufschrift auf der Rückseite des Dokuments vor dem Urteil gegen Ziegler und Sommerauer lautet: Khunndtschafft über Tomman Gügi, denn müllerknecht ußem Turgöüw.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

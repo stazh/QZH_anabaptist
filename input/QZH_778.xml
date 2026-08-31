@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_778</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355186">StAZH E I 7.3, Nr. 135 (ohne Brieffaltung)</idno>
+          </msIdentifier>
+          <head>Hans Heinrich Kolb an seine Ehefrau Magdalena Meister</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1608-09"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1608-09">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 664</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__135__S__1_.tif"/>
+<p>Myn grůß unnd gůtwilliger diennst sige dir bevoran myn hertzliebe hußfrauw Magdalena Meister. Ich, Hanns Heinrich Kolb als dyn gethrüwer eeman, laß dich pitten, wellist mir jnne, myn lieben son <persName ref="Kolb, Hans Ruedi">Hanns Růdy</persName>, lassen bevollen syn und ein můtter an jmme syn unnd das hus wie auch das gůt behalten unnd nitt verkauffen, dann du kannst zinnß ynnemmen vom huß unnd gůt, das du dich kannst erhalten mit gott unnd mit eren. Unnd wyter hast den kellerwyn, kannst wyn schenngkhen, das du auch kanst ein pfennig verdiennen und gwünnen mit wyn schenngkhen. Hiemit bezüg jch, Hanns Heinrich Kolb, mit myner eignen hannd, das jch dir vermachen dyn läbtag myn lyb als dyn liebs kinnd, wie auch myn hab unnd gůt jnn lybdinngs wyse<note type="editorial"> lybdingswys: zu lebenslangem Nutzen, vgl. Id. XIII, 531.</note>, onne schweinerung<note type="editorial"> Schmälerung, Id. IX, 1924.</note> dessälbigen kannst dich erhalten.</p>
+<p>So pitten jch, der gott des friedens welle dir wie auch mir unnd dynem lieben son Růdj wie auch dyne andere kinnder unnd auch myne liebenn schwösteren unnd auch schwögeren und auch die dynen alle gott bevollenn. Hiemitt lasß jch dich wüssen, das jch jm <placeName ref="LOC_47.05562_9.44881">Sargannser</placeName> lannd han empfangen von Melß<note type="editorial"> Mels, gegenüber von <placeName ref="LOC_47.05562_9.44881">Sargans</placeName></note> vom <persName ref="Schleger, Klaus">Clauß Schlegel</persName> und <persName ref="Stigi, Gorius">Gorius Stigj</persName> 35 g[u]ld[en] 5 b[a]tz[en], tůnd es jm rechenbůch durch.</p>
+<p>Item, du wellist zum wirdt zum Rodtenhus gaan unnd jnne vonwegen synes vetteren Melchior Tenntzlers<note type="editorial"> <persName ref="Denzler, Melchior">Melchior Denzler</persName></note>, des Hanns <persName ref="Usteri, Hans Heinrich">Heinrich Usteris</persName> stiefsonn, von mynetwegen gruͤßen. Er jst mit mir zogen jnn <placeName ref="LOC_49.5_17">Mehrerren</placeName> zů der <pb n="2" facs="E_I_7_3__Nr__135__S__2_.tif"/> Nüwmüllj<note type="editorial"> Nové Mlýny (deutsch Neumühl)<placeName ref="Nové Mlýny"/></note>, da jch<note type="critical">Wort (jch) wiederholt</note> vor zwentzig jaren auch war. Gott verlych syn segen.</p>
+<p>Item es lasst <persName ref="Ochsner, Ludwig">Ludwig Ochßner</persName> der klobenmacher, hat noch můterr unnd schwösteren, pitt[en], wellind sy gruͤssen, jst auch mit mir zogen, amen.</p>
+<p>Gönstige, ehrende, liebe hußfrauw Magdalena, hiemit wil jch dich, myn kinnd Růdj wie auch dyne kinnder, myne verwanndte wie auch die dynen dem grechten richter bevelchen, wie du wol weist, das jch jnne erkhenndt hab mit weinnenden augen unnd jnne alzyt allein begerdt zůdiennen, dann hab, gůtt, wyb unnd kinnd hab jch verlasßen unnd begerdt, gott allein zůdiennen. Der gott Abrahams, Isacs und Jacobs sige mit eüch unnd mit synem geist und sägen, der bewar eüweren yngang, ußganng unnd seligs ennd allen, ammen.</p>
+<p rend="margin-top">Dißer brieff gehört myner erenden, lieben hußfrauw Magdalena Meisteren zů <placeName ref="LOC_47.36667_8.55">Zürich</placeName> jm Schwytzerlannd, zů jren eignen hannden zů Zürich.</p>
+<p rend="margin-top">Dyn gethrüwer eheman Hans Heinrich Kolb von Zürich.</p>
+</div>
+    </body>
+  </text>
+</TEI>

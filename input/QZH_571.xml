@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_571</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355085">StAZH B IV 49, fol. 236v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Anthoni Öri</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1592-09-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1592-09-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 457</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnßern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrwüer, lieber burger unnd vogt, vor unns jst erschinen <persName ref="Eicher, Heinrich">Heinrich Eicher</persName>, bürtig von <placeName ref="LOC_47.28482_8.79991">Herschmetlen</placeName><note type="editorial"> Herschmettlen, Ortschaft der Gemeinde Gossau (Zürich)</note> jnn unser herrschafft <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> gelegen, unnd unns berichtet, wie das er ein schuld uff <persName ref="Knabenhans, Ůli">Ůlj Knabenhanßen</persName> zů <placeName ref="LOC_47.22493_8.65207">Wädeschwyl</placeName> dyner amptsverwaltung jnn ansprach<note type="editorial"> rechtlicher Anspruch, Id. X, 722.</note> <note type="critical">Folgt gestrichen: habe</note> unnd dieselbig jetzunder<note type="critical"><q>jetzunder</q> über der Zeile, in der Zeile gestrichen: jnze</note> zů synen handen zebringen vermeint habe. Weliches du jmme aber uß krafft unserer satzung<note type="critical"><q>uß krafft unserer satzung</q> am Rand mit Verweiszeichen</note>, von wägen er sich jetzt etliche jar lang zů Underkanitz<note type="editorial"> Dolní Kounice (deutsch Unterkanitz)<placeName ref="Dolní Kounice"/></note> jm lannd <placeName ref="LOC_49.5_17">Merherren</placeName> enthalten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note>, one unßere verwilligung nit gestatnen<note type="critical"><q>gestatnen</q> über der Zeile, in der Zeile gestrichen: je verfolgen laßen</note> wellist. Diewyl er aber nit von wägen der ­toüf­feryg, sonder synem hannttwerck nach<note type="critical">Folgt gestrichen: gezogen syge und selber sect nach nit und sich dasselben beßer synem gläg</note> jnn Merherren gezogen und ouch selbiger sect nit anhängig syge, bette er uns, wir welten jmme sölliche<note type="critical"><q>sölliche</q> über der Zeile, in der Zeile gestrichen: soliche syn</note> schuld<note type="critical">Folgt gestrichen: und […] uff ernentem Knabenhanßen</note> gefolgen zlaßen verwilligen. Wann nun wir syn begären verstanden und aber nit eigentlich wüßen mögen, ob<note type="critical">Folgt gestrichen: syn fürgab</note> er allein nach synem fürgäben dem handtwerch nach und nit der ­toüf­feryg wägen jnn <placeName ref="LOC_49.5_17">Merheren</placeName> zogen syge, so jst unßer bevelch an dich, du wellist beschaffenheit der sachen<note type="critical">Folgt gestrichen: erkhundigen</note> synethalb erkhundigen und, so du befintst, das dem wie er fürgibt also jst, alsdann jme ernente schuld ohne wyter speeren gefolgen und jnne damit verfaren laßen<note type="critical">Folgt gestrichen: diß wolten wir dir dich darnach zeverhalten wüßist nit bergen</note>. Datum den 27ten septembris anno etc. 92.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">An<note type="critical">Folgt gestrichen: her</note> vogt Örj zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName><note type="editorial"> Wädenswil</note>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

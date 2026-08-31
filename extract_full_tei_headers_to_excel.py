@@ -2,14 +2,11 @@
 # -*- coding: utf-8 -*-
 """
 Extrahiert Header-Infos aus TEI/XML in Excel.
-
-- Berücksichtigt <div type="original">, <div type="vorlage">,
-  <div type="Abschrift">, <div type="Edition"> für Spalte C.
-  Diese werden zu einem String mit Strichpunkten verbunden.
-- Inhalt in runden Klammern aus diesen divs wird in eigene Spalte
-  "Überlieferung" (Spalte E) geschrieben.
+- Fix: <note>-Inhalte innerhalb von <head> werden ignoriert.
+- Fix: Deep-Text Extraktion für <head> (behält <persName> bei).
 """
 
+import copy
 from pathlib import Path
 import argparse
 import re
@@ -21,7 +18,7 @@ from openpyxl.styles import Font, Alignment
 NS = {'tei': 'http://www.tei-c.org/ns/1.0'}
 
 FIELDS = [
-    ("index", "Nr."),                                   # A
+    ("index", "Nr."),                                  # A
     ("head", "Titel/Head"),                            # B
     ("idno", "Vorlage/Idno (Überlieferungsträger)"),   # C
     ("origDate", "Datum (origDate)"),                  # D
@@ -33,51 +30,71 @@ FIELDS = [
     ("source_title", "Serientitel"),                   # J
 ]
 
+def get_clean_head_text(head_elements):
+    """
+    Extrahiert Text aus <head>, ignoriert aber <note>-Elemente.
+    Behält Texte in <persName> etc. bei.
+    """
+    if head_elements is not None and len(head_elements) > 0:
+        # Wir arbeiten auf einer Kopie, um das Original-XML nicht zu verändern
+        head_copy = copy.deepcopy(head_elements[0])
+        
+        # Alle <note> Elemente innerhalb des Heads entfernen
+        notes = head_copy.xpath(".//tei:note", namespaces=NS) or head_copy.xpath(".//note")
+        for note in notes:
+            parent = note.getparent()
+            if parent is not None:
+                # Falls Text nach der Note kommt (Tail), muss dieser erhalten bleiben
+                if note.tail:
+                    previous = note.getprevious()
+                    if previous is not None:
+                        previous.tail = (previous.tail or "") + note.tail
+                    else:
+                        parent.text = (parent.text or "") + note.tail
+                parent.remove(note)
+        
+        # Jetzt den verbleibenden Text extrahieren
+        text = head_copy.xpath("string(.)")
+        return text.strip() if text else ""
+    return ""
+
 def safe_get_text(element_list):
-    """Hilfsfunktion: Gibt Text des ersten Elements zurück oder leeren String."""
-    if element_list and element_list[0].text:
-        return element_list[0].text.strip()
+    """Standard Deep-Text Extraktion für andere Felder."""
+    if element_list is not None and len(element_list) > 0:
+        text = element_list[0].xpath("string(.)")
+        return text.strip() if text else ""
     return ""
 
 def extract_header_info_from_div(div):
     """Extrahiert Metadaten aus einem <div type='document'>-Block."""
 
-    # Helper: erst mit Namespace, dann ohne Namespace probieren
-    def xp(path_with_tei, path_plain):
-        res = div.xpath(path_with_tei, namespaces=NS)
-        if res:
-            return res
-        return div.xpath(path_plain)
+    def xp(path):
+        res = div.xpath(path, namespaces=NS)
+        if not res:
+            res = div.xpath(path.replace("tei:", ""))
+        return res
 
-    # 1. Head (Titel)
-    head = safe_get_text(xp(".//tei:head", ".//head"))
+    # 1. Head (Titel) - Spezialreinigung für <note>
+    head = get_clean_head_text(xp(".//tei:head"))
 
-    # 2. Überlieferungsträger (Idno / Vorlage / Original / Abschrift / Edition)
-    # Wir sammeln ALLE relevanten <div type="..."> und hängen sie mit ";" zusammen.
-    idno = ""
-    ueberlieferung = ""
-
-    carrier_divs = xp(
-        ".//tei:div[@type='original' or @type='vorlage' or @type='Abschrift' or @type='Edition']",
-        ".//div[@type='original' or @type='vorlage' or @type='Abschrift' or @type='Edition']"
-    )
-
+    # 2. Überlieferungsträger & Überlieferung
+    idno_str = ""
+    ueberlieferung_str = ""
+    carrier_divs = xp(".//tei:div[@type='original' or @type='vorlage' or @type='Abschrift' or @type='Edition']")
+    
     base_parts = []
     ueberlieferung_parts = []
 
     for s_div in carrier_divs:
-        # 1. Versuch: <idno> innerhalb dieses div (mit und ohne Namespace)
         idno_el = s_div.xpath(".//tei:idno", namespaces=NS) or s_div.xpath(".//idno")
         if idno_el:
             raw_text = safe_get_text(idno_el)
         else:
-            # Falls kein <idno>, gesamten Text inkl. Kinder zusammensetzen
-            raw_text = "".join(s_div.itertext()).strip()
+            raw_text = " ".join(s_div.itertext()).strip()
 
         if not raw_text:
             continue
 
-        # Alle Klammerinhalte einsammeln
         parens = re.findall(r"\(([^()]*)\)", raw_text)
         if parens:
             ueberlieferung_parts.extend([p.strip() for p in parens if p.strip()])
@@ -85,128 +102,87 @@ def extract_header_info_from_div(div):
         else:
             no_paren = raw_text
 
-        # Aufräumen: Whitespace und überstehende Trennzeichen
         no_paren = no_paren.strip().rstrip(",;")
         if no_paren:
             base_parts.append(no_paren)
 
-    if base_parts:
-        idno = "; ".join(base_parts)
-    if ueberlieferung_parts:
-        ueberlieferung = "; ".join(ueberlieferung_parts)
+    idno_str = "; ".join(base_parts)
+    ueberlieferung_str = "; ".join(ueberlieferung_parts)
 
     # 3. Datum (origDate)
     origDate = ""
-    date_divs = xp(".//tei:div[@type='source']", ".//div[@type='source']")
+    date_divs = xp(".//tei:div[@type='source']")
     if date_divs:
         src = date_divs[0]
         date_el = src.xpath(".//tei:origDate", namespaces=NS) or src.xpath(".//origDate")
         if date_el:
-            origDate = date_el[0].get("when", "")
-            if not origDate:
-                origDate = date_el[0].text.strip() if date_el[0].text else ""
+            origDate = date_el[0].get("when") or date_el[0].xpath("string(.)").strip()
         else:
             origDate = src.get("date", "")
 
-    # 4. RespStmt (Transkript/Tagging)
-    transcribers = []
-    taggers = []
-
-    respstmts = xp(".//tei:respStmt", ".//respStmt")
-    for r in respstmts:
-        resp = r.find("tei:resp", namespaces=NS) or r.find("resp")
-        pers = r.find("tei:persName", namespaces=NS) or r.find("persName")
-
-        if resp is not None and pers is not None and pers.text:
+    # 4. RespStmt
+    transcribers, taggers = [], []
+    for r in xp(".//tei:respStmt"):
+        resp = r.find(".//tei:resp", namespaces=NS) or r.find(".//resp")
+        pers = r.find(".//tei:persName", namespaces=NS) or r.find(".//persName")
+        if resp is not None and pers is not None:
+            name = pers.xpath("string(.)").strip()
             role = resp.get("key")
-            name = pers.text.strip()
-
-            if role == "transcript":
-                transcribers.append(name)
-            elif role == "tagging":
-                taggers.append(name)
-
-    # 5. Publisher
-    publisher = safe_get_text(xp(".//tei:publisher", ".//publisher"))
-
-    # 6. Series IDNO
-    series_idno = safe_get_text(xp(".//tei:idno", ".//idno"))
-
-    # 7. Series Title
-    source_title = safe_get_text(xp(".//tei:title", ".//title"))
+            if role == "transcript": transcribers.append(name)
+            elif role == "tagging": taggers.append(name)
 
     return {
         "head": head,
-        "idno": idno,
-        "origDate": origDate,
-        "ueberlieferung": ueberlieferung,
+        "idno": idno_str,
+        "origDate": origDate.strip(),
+        "ueberlieferung": ueberlieferung_str,
         "transcript": ", ".join(transcribers),
         "tagging": ", ".join(taggers),
-        "publisher": publisher,
-        "series_idno": series_idno,
-        "source_title": source_title,
+        "publisher": safe_get_text(xp(".//tei:publisher")),
+        "series_idno": safe_get_text(xp(".//tei:idno")),
+        "source_title": safe_get_text(xp(".//tei:title")),
     }
 
 def main():
-    ap = argparse.ArgumentParser(description="Extrahiert Header-Infos (inkl. Überlieferungsträger & Überlieferung) aus TEI/XML in Excel.")
-    ap.add_argument("input_xml", type=Path, help="Eingabe TEI/XML Datei")
-    ap.add_argument("output_xlsx", type=Path, help="Ausgabe Excel Datei")
+    ap = argparse.ArgumentParser(description="TEI Metadaten-Extraktor")
+    ap.add_argument("input_xml", type=Path)
+    ap.add_argument("output_xlsx", type=Path)
     args = ap.parse_args()
 
-    print(f"Lese Datei: {args.input_xml} ...")
-
-    parser = etree.XMLParser(remove_blank_text=True, recover=True)
-    try:
-        tree = etree.parse(str(args.input_xml), parser)
-    except Exception as e:
-        print(f"Fehler beim Parsen der XML: {e}")
+    if not args.input_xml.exists():
+        print(f"Datei nicht gefunden: {args.input_xml}")
         return
 
+    parser = etree.XMLParser(remove_blank_text=True, recover=True)
+    tree = etree.parse(str(args.input_xml), parser)
     root = tree.getroot()
+    doc_divs = root.xpath("//tei:div[@type='document']", namespaces=NS) or root.xpath("//div[@type='document']")
 
-    # Zuerst mit TEI-Namespace
-    doc_divs = root.xpath("//tei:div[@type='document']", namespaces=NS)
-    # Fallback ohne Namespace
-    if not doc_divs:
-        doc_divs = root.xpath("//div[@type='document']")
-
-    print(f"{len(doc_divs)} Dokumente gefunden. Schreibe Excel...")
+    print(f"Verarbeite {len(doc_divs)} Dokumente...")
 
     wb = openpyxl.Workbook()
     ws = wb.active
     ws.title = "TEI Metadaten"
-
-    # Kopfzeile
     ws.append([label for _, label in FIELDS])
-    for cell in ws[1]:
-        cell.font = Font(bold=True)
+    for cell in ws[1]: cell.font = Font(bold=True)
 
-    # Datenzeilen
     for idx, div in enumerate(doc_divs, start=1):
         try:
             info = extract_header_info_from_div(div)
-            row = [idx] + [info[field] for field, _ in FIELDS if field != "index"]
+            row = [idx] + [info.get(key, "") for key, _ in FIELDS if key != "index"]
             ws.append(row)
         except Exception as e:
-            print(f"Fehler bei Dokument {idx}: {e}")
+            print(f"Fehler in Dok {idx}: {e}")
             ws.append([idx, "FEHLER"])
 
-    # Spalte C (Idno / Überlieferungsträger) breiter und mit Zeilenumbruch
-    col_c = ws.column_dimensions['C']
-    col_c.width = 60
-    for row in ws.iter_rows(min_col=3, max_col=3, min_row=2):
-        for cell in row:
-            cell.alignment = Alignment(wrap_text=True, vertical='top')
-
-    # Spalte E (Überlieferung) etwas breiter und mit Zeilenumbruch
-    col_e = ws.column_dimensions['E']
-    col_e.width = 40
-    for row in ws.iter_rows(min_col=5, max_col=5, min_row=2):
-        for cell in row:
+    # Spaltenbreite & Alignment
+    for col_let, width in [('C', 60), ('E', 40)]:
+        ws.column_dimensions[col_let].width = width
+        for cell in ws[col_let]:
             cell.alignment = Alignment(wrap_text=True, vertical='top')
 
     wb.save(str(args.output_xlsx))
-    print(f"Fertig! Excel gespeichert: {args.output_xlsx}")
+    print(f"Erfolgreich gespeichert: {args.output_xlsx}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_380</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696631">StAZH E I 7.2, Nr. 147</idno>
+          </msIdentifier>
+          <head>Verhör von Michel Ruman und Haftbefehl</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-11-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-11-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 266</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Michel Romanen von Schöfflistorff des thoüffers antworth<note type="critical">Aufschrift auf der Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__147__S__1_.tif"/>
+<p>Alß myn herren, die verordneten nachgenger, Michel Romanen von <placeName ref="LOC_47.50369_8.41911">Schöfflistorff</placeName> mit vilfalltigen gründen uß heiliger gottlicher geschrifft nüws unnd allts testaments ob der thoüfferischen sect (mit dero er zwaren starck behafftet<note type="editorial"> verstrickt sein, Id. II, 1063.</note>) widerumb uff unnßeren urallten waaren christenlichen glouben zefüren unnd zebringen unnderstanden<note type="editorial"> unternehmen, versuchen, Id. XI, 619.</note>, hatt er (hindann solliches alles) jnnen hieruf, glych wie vormaln anndere thoüffer unnd benantlichen ouch einfaltig, volgenden bescheid geben. Es gange jm recht, wie gott welle, so syge er willens unnd endtlich vorhabens, uff dem thoüfferischen glouben zůbeharren unnd mit bystand gott des allmechtigen nit darvon abzefallen. Hienebend lasße er gůt syn unnd blyben, das ein ober­kheit syge unnd syn sölle. Allein trage er von wegen des unbůßfertigen läbens des kilchgangs halber ergernuß, also dz er nit meer jnn die kilchen zegaan bedacht, es syge dann sach, das die christenlich gmeind umb etwas verbannet<note type="editorial"> Mit dem Kirchenbann belegen, Id. IV, 1279.</note> unnd die bůssfertigen von den unbůßfertigen abgesönderet werdind mit unndertheniger pitt, jr, m[in] g[nedig] h[erren], wellind jnne, diewyl er jemanndts<note type="editorial"> niemand, vgl. <bibl><ref target="http://fwb-online.de/go/jeman.s.6pro_1646404203">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> beleidige, als anndere unnderthaanen jnn gnaaden bevolchen syn lassen.</p>
+<pb n="2" facs="E_I_7_2__Nr__147__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__147__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__147__S__4_.tif"/>
+<p rend="margin-top">[Flucht und Haftbefehl:] Es jst gemellter Michel Roman mit hilf syner brüdern, so die thüren ufgebrochen, uß dem<note type="critical">In der Vorlage: <q>uß</q> mit Abkürzungszeichen</note> <placeName ref="Zürich, Ketzerturm">kätzerthurn</placeName> komen, doch dem herrn vogt zůgschriben worden, wo er jnn betretten<note type="editorial"> antreffen, Id. XIV, 1486.</note> könne, das er jnn wider gefengklichen alhar schicke. Actum mitwuchs den […]ten<note type="critical">Zahl fehlt, d.h. in der Vorlage ist eine Lücke.</note> novembris anno etc. 81 p[raese]nt[ibus] herr b[urgermeister] <persName ref="GND_143680544">Kamblj</persName> unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

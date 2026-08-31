@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_123</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=685157">StAZH E I 7.2, Nr. 84</idno>
+          </msIdentifier>
+          <head>Leonhard Holzhalb an Peter Simmler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1534-04-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1534-04-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 9</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__84__S__1_.tif"/>
+<p>Min früntlich grůs zůvor. Ersamer unnd wolgelertter lieber herr prior, uff üwer schreibenn, so ir mir gethann hannd von wegenn der toͤufferenn, ist min ernschlich meinnung und beger, wo man sy moͤge bethretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> nachtz oder tags, wie vil irenn sige, sy heissenn denn vogt Brůder<note type="editorial"> Ulrich Bruder, Untervogt in Hausen am Albis.</note> an Matien und das er lütt zu im neme, das er inen stanndhafft gnug sig, darmit das sy minen herenn überantwurtt werdind. Und so bald das selbig beschicht, heissend den vogt Brůder zů mir konn<note type="editorial"> kommen</note>, wil ich im witter bescheidt gebenn. Damit sind gott bevolchenn. Datum sonntags nach Marcy 1534. jar.</p>
+<p rend="margin-top">Üwer williger Lienhartt Holzhalb, vogt zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName></p>
+<pb n="2" facs="E_I_7_2__Nr__84__S__2_.tif"/>
+<p rend="margin-top">Dem wolglertten, ersamen und wisenn herenn <persName ref="GND_1019491752">Pettrus Simeler</persName>, prior zů <placeName ref="LOC_47.22523_8.51104">Cappel</placeName>, minem lieben heren und gůttenn günneren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

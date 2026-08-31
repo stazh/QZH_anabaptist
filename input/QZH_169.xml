@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_169</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355320">StAZH E II 1, S. 386f. (Handschrift von Heinrich Bullinger)</idno>
+          </msIdentifier>
+          <head>Anzeige von Täufern in der Herrschaft Grüningen sowie in Winterthur und Schlatt</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1552-05-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1552-05-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 55</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Toͤüffer.</p>
+<p>Der <persName ref="Schnyder, Niklaus">daͤchen</persName> von <placeName ref="LOC_47.3377_8.87216">Berotschwyl</placeName><note type="editorial"> Niklaus Schnyder</note> und h[err] Martin<note type="editorial"> <persName ref="Farner, Martin">Martin Farner</persName></note> von <placeName ref="LOC_47.28706_8.92092">Wald</placeName> klagtend, das vil der widertoͤüffern under inen ouch zů <placeName ref="LOC_47.30253_8.76864">Goßow</placeName> werind. Zů <placeName ref="LOC_47.26648_8.80812">Bůbickon</placeName> haͤtte der schaffner ouch einen, den sennen etc. Imm <placeName ref="LOC_47.33663_8.94127">Vischentaal</placeName> sye Caspar Bertschikers wyb, <persName ref="Bertschiker, Elsi">Elsy</persName> genampt, die nitt zur kylchen gange. Zů <placeName ref="LOC_47.30149_8.85275">Hinnwyl</placeName> ist des Byrensiders wyb und andere vil.</p>
+<p>Zů <placeName ref="LOC_47.32434_8.80465">Wetzikon</placeName> hat <persName ref="Wild, Hans">Hanns Wyld</persName> zum pfarrer geredt, er woͤlte lieber under türggen sitzen dann under soͤlicher oberhand, wie unser herren syend.</p>
+<p>Der <persName ref="Seiler, Johannes">camerer</persName> von <placeName ref="LOC_47.46667_8.82823">Schlatt</placeName><note type="editorial"> Johannes Seiler</note> und h. Mathys<note type="editorial"> <persName ref="Hirzgarter, Mathias">Mathias Hirzgarter</persName></note> von <placeName ref="LOC_47.49675_8.73417">Wintherdur</placeName> zeigtend vil von der toͤuffery an, insonders wie ein bitterer uffruͤriger were, genampt <persName ref="Mundtprat, Bartholomäus">Poley Mundtpradt</persName> von <placeName ref="LOC_47.46226_9.05241">Wyl</placeName>, der gar ungebürlichs uußstoosse.</p>
+<p>J[unker] <persName ref="Wirz, Melchior">Melchior Wirtz</persName> zeigt, wie ein toͤuffer imm <placeName ref="LOC_47.368945662841035_8.540299444207246">Kratz</placeName>, der wannenmacher genampt, innlige und aber zů 14 tag sinen uußgang zur versamlung habe, da er nitt wüssen moͤge wohin.</p>
+<p>Des alles soͤllend unser herren gruntlich bericht werden, damitt groͤssern unrůwen fürkummen<note type="editorial"> abwenden, vorbeugen, Id. III, 278.</note> werde.</p>
+</div>
+    </body>
+  </text>
+</TEI>

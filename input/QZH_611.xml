@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_611</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354958">StAZH B II 262, S. 35-36 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend einen Schlaghandel zwischen dem Schulmeister Heinrich Wyss und seinem Schwager Wilhelm Dälliker</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1597-10-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1597-10-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 497</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Die handlung, so sich endtzwüschent <persName ref="Wyss, Heinrich">Heinrich Wyßen</persName>, dem schůlmeyster, an eynem und <persName ref="Dälliker, Wilhelm">Wilhelmen Tällicker</persName>, synem schwager, verloffen<note type="critical">Folgt gestrichen: fe</note>, jst mit sampt den zureden von oberkeits wegen uffgehept (also dz söliches dheinen<note type="editorial"> keinen</note> theil an eeren nützit schaden). Umb dz aber Tällicker, wie es sich dann jnn der kondtschafft<note type="editorial"> Zeugenbefragung, Id. III, 353.</note> befunden, den anlaß gethonn unnd über friden gehandlet, soll er 2 pfund<note type="critical">In der Vorlage: lb</note> also bar ze  bůß geben, darnebent mit sampt dem Wyßen, <persName ref="Clauser, Christoffel">Cristoffel Clauser</persName>, so jnn diser handlung als er friden wellen, verwundt worden, allen syn erlitnen costen und schmertzen abtragen unnd jr jeder synen costen an jm selbs haben.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mitwochs, den 5ten octobris p[raese]nt[ibu]s herr Großman unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

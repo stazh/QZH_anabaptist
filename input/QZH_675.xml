@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_675</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355106">StAZH B IV
+              59, fol. 34v</idno>
+          </msIdentifier>
+          <head>Erneuerung des Täufermandats</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1601-10-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-10-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 561</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Ernüwerung unnd scherpfung deß mandats der widerthoüfferen
+          halber</head>
+        <p>Wiewol unnser gnedig herren, burgermeister unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, wider die schädlich unnd verfuͤrisch sect der widerthöufferen gůte
+          christenliche mandat gemachet unnd jüngst jnn verschinnenem fünfzechenhundert fünfft und
+          achttzigisten jar ein allgemein ernstlich mandath jnn offnem truck ußgahn laßen, wie man
+          sich allenthalben jnn jr (unnserer gnedigen herren) statt unnd lanndtschafft, wo
+          widerthhoüffer sind, gegen denselbenn halten sölle. Da unnser gnedig herren sich versehen,
+          söllichem jrem mandat flyßig statt beschechen were, so befindent doch wolgemelt unnser
+          gnedig herren, das an vil orten diserm jrem mandat nit mit söllichem ernntst unnd flyß,
+          als jr (unnserer gnedigen herren) will unnd meinung jst, sonnders eben schlechtlich
+          nachgesetzt worden unnd man der ­toüf­feren halber durch die finnger gesehen hatt. Daruß
+          dann ervolget, das an etlichen orten disere sect der widerthoüfferen die jar har mehr zů-
+          dann abgenommen hatt unnd sy je lenger je frefner unnd halßstarriger worden sind. Deßhalb
+          so sind unner gnedig herren als ein christenliche ober­kheit verursachet worden, hierjnnen
+          notwendigs jnsehens zethunͦnd, das vorgemelt jr mandath jnn jrer statt unnd lanndtschafft
+          widerumb zůernüweren unnd umb etwas zescherpfen, damit diser schedlichen sect mit ernnst
+          gewehrt unnd deren anhenngere uß dem lanndt vertriben werdint. Unnd diewyl dann sölliche
+          sect der widerthoüfferen reicht und dienet nit nun zů verwirrung unnd zerstörung der
+          christenlichen kilchen unnd zů zerrüttung der regimenten unnd hußhaltungnngen, sonnder
+          auch zů schmelerung deß thüren verdiensts unnsers lieben herrn unnd heilandts Jesu Christj
+          unnd uß diser sect auch allerly unrath unnd übels volget, wie sölliches wol, da es von
+          nöten, wytloüffig zuͦerzellen were, so gebietend unnser gnedig herren zum aller
+          ernntstlichisten, das sich mengklich der jren jnn statt unnd lannd diser
+          wider­toüf­ferischen lehr unnd jrrthumbs enthalten unnd derselben entschlache. Dann wer
+          sich deren anhengig machete<note type="critical">korrigiert, ursprünglich: machte</note>
+          unnd daher sich von dem ordenlichen gmeinen christenlichen kilchganng absönnderte unnd
+          üßerte unnd das gmein gebätt unnd die predigen jnn syner pfarr oder kilchen nit, wie
+          anndere gehorsamme christen lüth thůnd, besůchte unnd ab erster synes pfarrers oder deß
+          unndervogts ald annderer fürgesetzten warnung unnd fründtlicher vermanung nüt thete,
+          sonders nachmaln ußert der kilchen blibe unnd nit jnn die predig giennge, von dem ald
+          denen soll deß nechsten sontags nach der warnung zwentzig batzen, deß anndern sontags fünf
+          pfundt, deß dritten zechen pfundt unnd deß vierten sonntags fünffzechen pfundt an barrem
+          gelt gestrax ohn alle gnad zů rechter straaff jngezogen werden, da die predicanten,
+          unndervögt unnd eegoumer jeder by synem eydt sölliches allwegen leiden unnd anzeigen. Wann
+          aber nach dem er lut deß mandats gewarnet worden, von synem jrrthumb abzůstaan unnd auch
+          wie anndere christenlich lüth zů kilchen jnn die predig zegaan, dasselbig nit thůn welte
+          unnd by jme weder warnen noch die geltbůß nüdt verfachen möchte unnd also das gesetzt zil
+          der vier wuchen oder sontagen ließe überhin gaan unnd sich nit berichten laßen, nach der
+          gehorsamme begeben welte, der unnd dieselbigen, es sygind mann ald wybs personnen, jung
+          oder alt, söllent nach verschynung der vier wochen ohne vernern verzug gfengklich
+          angenommen unnd demnach von unnserer gnedigen herren statt unnd lanndtschafft verwißen
+          werden. Wellicher widerthöuffer aber, nach dem er deß lanndts verwißen worden were, sich
+          widerumb jnn lanndt laßen wurde unnd doch nit von synem jrrthumb abstaan welte, der unnd
+          dieselben söllent den nechtsen jnn unnserer gnedigen herren gfengknuß gefürt werden, gegen
+          söllichen unghorsammen unnd halßstarrigen personnen wyter gebürende ernnstlichs verdiente
+          straaf fürzunemmen.</p>
+        <p>Unnd wiewol unnser gnedig herren vormaln die jhenigen, so mit der ­toüf­fery befleckt,
+          mit jrem hab unnd gůt uß jrer lanndtschafft fryg verfaren laßen, sidtmalen aber
+          augenschynlich sich erfindt, das wann sy hinab jnn <placeName ref="LOC_49.5_17">Mehrherren</placeName> unnd etwan darnach jnn berüwen khommend, wider dem vatterlanndt
+          zuͦzüchend oder das sy daunnden absterbend unnd dann die kinder als der sach unschuldig
+          heimbwertz sich wider begebend, alls gůt verbrucht oder jnnen annderschwo abgenommen unnd
+          vorgehalten wirt, so wellend sy, unnser herren, keinen mehr, so sich der ­toüf­ferischen
+          sect anhenngig machend ald mitt jnene hinweg züchend, jres zytlichen hab unnd gůts nützit
+          volgen laßen, sonnders das zů gmeiner statt hannden nemmen. Wenn aber sy oder jre kinnder
+          widerumb zů lanndt khommend unnd gehorsamm syn wellend, als dann zů jr (unnserer gnedigen
+          herren) gefallen staan, dieselben uß söllichem gůt mit gnaden zůbedencken oder nit.</p>
+        <p>Unnd so dann etlich volck, wyb unnd man, jung unnd alt<note type="critical">Folgt
+            gestrichen: so</note> an der ­toüf­feren heimliche predigen louffend, darumbe<note type="critical"><q>darumbe</q> über der Zeile</note> billiche jrer unbefuͤgten wundergebe
+          ze­straaffen sind, sölle ein jede derselbigen personnen, wy sy jnn sölliche ­toüf­ferische
+          predigen laßend unnd denen zůhörend, als namlich ein mansperson ein pfundt unnd ein
+          wybsbild zechen schilling also bar zu straaff verfallen syn. Denne, die so heimbschen oder
+          frömbden ­toüf­feren, sy sigend jnen verwanndt oder nit, wüßentlich unnderschlouff unnd
+          platz jnn jren hüßerenn, schüren oder guͤtteren gebend, bethreffennde, von dem ald dennen
+          soll, so dick das beschicht, zechen pfundt unableßlich zů bůß jngezogen werden. Es möchte
+          aber einer jnnen zum predigen oder jnzug annder lüten, sy auch abtrünnig zůmachen,
+          dermaßen fürschub thůn oder sy nit leiden ald verjagen, unnser gnedig herren wurdend es
+          denselben (als lüth die thrüw unnd eidt an jren herren übersehen habend) ohne gnad rechnen
+          unnd darjnn niemandt verschonen.</p>
+        <p>Ob ouch jemandts, wer joch derselbig were, von wüßentlichen ­toüf­feren gůt erkhouffte
+          oder umb zinnß bestünde, der unnd dieselbenn söllend das gůt unnd waß sy daran bezallt
+          haben wurdend, ouch die lechenschafft verwürckt unnd verloren haben unnd dasselbig jnnen
+          unnseren herren als der ober­kheit verfallen synn.</p>
+        <p>Unnd dann betreffend die ufwigler unnd lehrer der ­toüf­feren, so alle lannd
+          durchstrychend unnd einfaltige fromme lüth jnn jrrthumb auch mit lyb unnd gůt uß dem lannd
+          fuͤrend, daher einn christenliche ober­kheit billichen sy an lyb und läben zůstraaffen hat
+          unnd das nit von des glaubenns sonnders von deßwegen, das sy uffruͤrisch handlend, meineyd
+          sind unnd einer ehr­sammen ober­kheit jre unn­der­thon­nen auch etwan den elteren jre
+          kinnd verfuͤrend unnd ungehorsamm machend. Wo nun söllicher ufwigleren unnd lehreren
+          einiche, wer sy joch sigend, jnn unnserer gnedigen herren statt<note type="critical"><q>statt</q> am Rand</note>, grichten unnd gebieten anzůkhommen und zuergryffen sinnd, die
+          söllend angenntz mit allem ernnst unnd yffer gfengklich angenommen unnd unnseren gnedigen
+          herren bewart zůgefuͤrt werden, gegen söllichen schedlichen verfuͤrischen lüthen mit
+          straaf lybs unnd läbenns nach gstalt der sachen zehanndlen. Dann unnser gnedig herren der
+          widerthoüfferen unverdacht syn, sy auch jnn jren lannden unnd gebieten schlechts nit lyden
+          noch dulden wellend. Das alles laßend unnser gnedig herren hiemit offntlich ver­khünden,
+          damit mengklich sich darnach zehalten unnd jme selbs vor straaff unnd schaden zesind
+          wüße.</p>
+        <p rend="margin-top">Verkhündt sontags den 17ten<note type="critical">Recte 18ten (der 17.
+            Oktober 1601 war ein Samstag).</note> octobris anno 1601.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

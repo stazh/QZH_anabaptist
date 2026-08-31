@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_439</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354848">StAZH A 131.12, Nr. 164</idno>
+          </msIdentifier>
+          <head>Hans Ziegler an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt; Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1588-08-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-08-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 325</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Eedlen, erenvesten, fromen, fürsichtigen, ersamen und wisen her burgermeister und gnedig lieb herren, e[uer] gnaden, eedell, eerenveste, ouch e[rsam] w[ysheit] sygen min gehorsame underthenige dienst sampt schuldiger pflicht zůvor. Uff üwer (miner gnedigen herren) zůgsteldten bevelch, <persName ref="Schnyder, Hans">Hansen Schnyder</persName> den töuffer zů <placeName ref="LOC_47.53414_8.56841">Rorbis</placeName> belangende, in vengklich annemen, ouch huß und hoff beschliessen zlassen, bin ich an hütt datto in geheimbd und stille gen Rorbis kerth<note type="editorial"> sich begeben, gehen, Id. III, 435.</note> und demselben statt thůn wellen, aber in niendert<note type="editorial"> nirgends</note> ankomen<note type="editorial"> treffen, antreffen, vgl. <hl to="http://fwb-online.de/go/ankommen.s.3vu_1709323546"><Hyperlink>http://fwb-online.de/go/ankommen.s.3vu_1709323546</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> nach betretten<note type="editorial"> antreffen, Id. XIV, 1486.</note> konnen. Daruff mit sampt dem eedlen unnd vesten junckher Hansen von Ulm<note type="editorial"> Gerichtsherr von Teufen (Zürich)</note> zů <placeName ref="LOC_47.53575_8.59045">Thüffen</placeName>, minem günstigen junckheren, in sin huß und hoff kerth, alda etliche kranckne personen altt und junge, die gemelter Schnyder in siner chur hat befunden, sin hab und gůtt ligentz und varentz (wie hernach volget) sampt schuld und widerschulden verzeychnen lassen. Unnd wiewoll ich sy uß dem huß thůn sollen, hatt sich doch sin můtter und frow, weliche alt, ouch irs lybs halber ellend, übell mögent und dürfftig, also das sy nit mer werchen nach arbeytten mögen, ouch sich der predigen gar nit üsserent, sonder flissig besůchent sampt den krancknen, die sich mit weynenden ougen erclagt, sovill bewegen und bereden, das ich sampt dem junckheren sy im huß verblyben lassen, doch mir by iren wyblichen thrüwen angelopt, nützit zeverenderen, byß uff üwer (miner gnedigen heren) witteren bscheyd. Hienebent ouch versprochen, wover<note type="editorial"> wenn, Id. I, 914.</note> man sy also uß gnaden bliben liesse, die appentecker und andere, denen sy schuldig, zůbezallen, das irenthalb kein clag keme und derglichen. Was nun üwer (miner gnedigen heren) gfallen und gůttbedencken, ouch mir bevolchen wirt, soll mit ghorsame volnstreckt werden.</p>
+<p rend="margin-top">[Verzeichnis der Güter:]</p>
+<p>Item huß, hoff, boum und kruttgartten sampt dem reyn<note type="editorial"> Abhang, Id. VI, 979.</note> by einanderen gelegen, darab jerlich gangint drü vierttell kernen grundzins der kilchen <placeName ref="LOC_47.53414_8.56841">Rorbis</placeName>. Ist gwerdet umb 600 librum.</p>
+<p>Item drig fierling reben, genant der Wagenberg, sind ledig biß an zechenden. Sind gwerdet umb 150 librum.</p>
+<p>Item ein juchart reben, darab jerlich gand anderthalb viertell kernen grundzins gen Embrach, und stand daruff 30 gulden versatzung. Ist gwerdet umb 140 librum.</p>
+<p>Item ein hoffstatt, darab gat jerlich ein vierttell kernen grundzins in <persName ref="Schnyder, Zacharias">Zacharias Schnyders</persName> hoff.</p>
+<p>Letstlich drig fierling<note type="editorial"> vierte Teil eines Massganzen (hier Juchart), Id. I, 924.</note> reben im Wagenberg. Darab jerlich gange ein fierling kernen gruntdzins in die wyden. Disse drig fierling reben hat er kurtzlich erkoufft aber nütt daran geben.</p>
+<p>Volget die varend hab:</p>
+<p>Item zwey bar zwylche<note type="editorial"> doppelfädig, Grimm 32, 1195.</note> hossen und zwey hembder.</p>
+<p>Item zwen schopen<note type="editorial"> Kleidungsstück für den Oberkörper, Id. VIII, 1006.</note> und ein wullis<note type="editorial"> wollenes</note> hembd.</p>
+<p>Item drü better sampt den lylachen, darunder eins entlent. Me nach ein bettlj, ghort gen <placeName ref="LOC_47.71034_8.63388">Schaffhussen</placeName>.</p>
+<p>Item ein schlechts scher zügli<note type="editorial"> Instrumente des Scherers, Id. XVII, 729.</note> und ein scherbecke<note type="editorial"> Rasierbecken, Id. IV, 1115.</note>.</p>
+<p>Item ein fart<note type="editorial"> Ladung eines Fuhrwerks, Id. I, 1027.</note> höuw.</p>
+<p>Item drü kesse<note type="editorial"> Kissen</note>, clein und groß.</p>
+<p>Item zwen eerin und zwen kupffer häffen<note type="editorial"> Töpfe</note>.</p>
+<p>Item vier pfannen.</p>
+<p>Item vier kästen.</p>
+<p>Item ein kůg<note type="editorial"> Kuh</note> und drü schwyn, die ein nach nit zallt.</p>
+<p>Obgeschribne varend hab ist allenklich gwerdet umb 150 librum.</p>
+<p>Summa gantzer werdung: 1040 librum.</p>
+<p>Dargegen ghört der můtter, ist ir zůgebracht vätterlich und müetterlich gůtt, so sy erwyssen kann: 700 librum.</p>
+<p>Obgemelts schnyders husfrowen vatter- und müetterlich gůtt: 300 librum.</p>
+<p>Item obgesagten junckheren: 54 librum.</p>
+<p>Summa: 1054 librum.</p>
+<p>Also eer hinder nach der werdung und angeben: 14 librum.</p>
+<p rend="margin-top">Demnach belangende die 1000 g[ulden] houptgutz uff der gmeind <placeName ref="LOC_47.52726_8.79806">Wyssendangen</placeName>, weliches uff begeren herr trucksessen in arrest und verpott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> gelegt worden, sind keine zins usstendig, sonder junckher Hans Ůlrich von <persName ref="Hinwil, Hans Ulrich von">Hinwyll</persName><note type="editorial"> Hans Ulrich von Hinwil (1540-1588)</note> salig hat die by sim läben und nach sinem absterben sin tochterman von Bernhussen<note type="critical">Folgt gestrichen: einen</note> von <persName ref="Sulzer, Ulrich">Ůlrichen Sultzer</persName>, burger zů <placeName ref="LOC_47.49675_8.73417">Wintterthur</placeName>, empfangen, von mir unbewüst<note type="critical"><q>von mir unbewüst</q> am Rand mit Verweiszeichen</note>. Unnd aber die quart uff etlichen zechenden, so sy jetzunder gfallt, will ich by heren amptman zů Wintterthur versechen, das die selbig bhalten werde.</p>
+<p rend="margin-top">Das hab ich üch, minen gnedigen herren, underthenigklich nit verhalten<note type="editorial"> vorenthalten, unterschlagen</note>, ouch hiemit in schirm gottlicher gnaden bevolchen wellen. Dattum den 5ten augustj anno etc. 1588.</p>
+<p rend="margin-top">E[uer] gnaden eedell, eerenveste, ouch e[uer] w[ysheit] undertheniger</p>
+<p>Hanns Ziegler, vogt der gravschafft Kyburg</p>
+<p rend="margin-top">Den eedlen, erenvesten, fromen, fürsichtigen, ersamen und wisen herr burgermeister und ratt der statt Zürich, minen besonders gnedigen lieben herren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

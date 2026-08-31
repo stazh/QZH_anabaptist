@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_262</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355035">StAZH B IV 27, fol. 219r-220v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Holzhalb</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1567-05-14"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1567-05-14"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 148</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Fommer, wyßer, besonders getrwüwer, lieber burger und vogt, […]<note type="editorial"> Es folgt die Anweisung, Marx Blarer von Wartensee zum Gottesdienstbesuch anzuhalten.</note>.</p>
+<p>Sodänne langt uns an, das der senn zů <placeName ref="LOC_47.26648_8.80812">Bůbicken</placeName> mit der jrrigen ­toüf­ferischen sect behafft syge<note type="critical"><q>syge</q> über der Zeile</note> unnd sich deß<note type="critical">Folgt gestrichen: nitt settigen lasße</note>, das er sich hiemitt unsern mandathen und gebotten ungemesß haltet, nitt settigen lasße, sonnders andere jme anhengig zemachen understande. Wo du nun das jme gestattnet, sygend<note type="critical">Folgt gestrichen: allenthalben</note> an vilen orthen diner amptsverwaltung vil, die sich ouch desselbigen schedlichen jrsals<note type="critical">Folgt gestrichen: anzůn</note> anmasßen<note type="critical">Folgt gestrichen: werdint</note> wůrdint und jr leer dahin gericht, das alle ding gmein syn söllind. Was nun<note type="critical">Folgt gestrichen: bald</note>, wo das fürbreche<note type="editorial"> hervorbrechen, aufkommen, Id. V, 335.</note>, daruß by diser (leider) verdorbnen armen welt für unrath, unrůwen und anders volgen, das weißt du wol zů ermäsßen. Damitt aber söllichem by gůter zyt gwert und sovil mügklich fürkommen<note type="editorial"> zuvorkommen</note> werde, so bevelchend wir dir erntstlich, das du genannten ­toüf­ferischen sennen zů Bůbicken und wer du mer, die sich syner jrrigen seckt haltend und gebruchend, erfaren magst, gfengklichen annemmen<note type="critical">Folgt gestrichen: lasßist</note> und sy dann durch etwa den nechst gsesßnen<note type="editorial"> ansässigen, Id. VII, 1750.</note> <note type="critical">Folgt gestrichen: berichten und</note> predicanten von jrem jrrsal abzůtretten erntstlich berichten<note type="editorial"> belehren, unterrichten, Id. VI, 436.</note> lasßist, ob sy villichter<note type="critical">Folgt gestrichen: durch</note> dardurch (vorab mit gottes hilf) abgewendt und<note type="critical"><q>abgewendt und</q> am Rand</note> uff den rechten weg gebracht werden möchtind. Wo sy aber je beharren und<note type="critical">Folgt gestrichen: nitt</note> sich nitt begeben welten, die predigen<note type="critical">Folgt gestrichen: mitt sambt andern den unsern</note> nach unseren christenlichen ordnungen jnn der kilchen zůbesůchen und darjnn zegaan, sonders jre schedlichen versamlungen und leer<note type="critical">Folgt gestrichen: zehalten</note> fürer<note type="editorial"> weiter</note> zehalten gsinnet und bedacht werind, das dann du sy, es treffe einen oder vil an, mit dem eydt uß unsern grichten und gebieten verwyßist und sy mit lyb und gůt (dann wir jres gůts ouch nüdt wellind) verschickist<note type="critical">Folgt gestrichen: und die, so sy beherbergend und jnen darüber underschlouff geben</note>. Unnd sölliches ungehorsam, widerspennig<note type="critical">Folgt gestrichen: volck</note>, schedlich volck jnn diner amptsverwaltung niennen gelidten ald<note type="editorial"> oder</note> geduldet, damitt wir und die unseren gehorsammen nitt durch sy und<note type="critical"><q>durch sy und</q> über der Zeile</note> von jretwegen jnn etwas unheil wachßind und gebracht werdint, sonders<note type="critical">Folgt gestrichen: unsern</note> by unsern christenlichen gůten ordnungen und satzungen blybe, die du (wie wir dir wol vertruwend) zůhandthaben an dir nützit erwinden<note type="editorial"> fehlen, mangeln, Id. XVI, 580f.</note> <note type="critical">Folgt gestrichen: laßt</note> lassen wirst.</p>
+<p>[…]<note type="editorial"> Es folgen weitere Anweisungen: Der Landvogt soll die Eltern dazu anhalten, nicht nur die minderjährigen Kinder, sondern auch die Kinder über acht Jahren in die Kinderlehre zu schicken. Das Fernbleiben und das unter den Jugendlichen beliebte Armbrustschiessen an den Sonntagvormittagen soll gebüsst werden. Auch die unter den Erwachsenen verbreitete Verletzung der Sonntagsheiligung soll bestraft werden.</note> Datum mitwuchs 14ten may anno d[omini] 67.</p>
+<p rend="margin-top">Bůrgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</p>
+<p rend="margin-top">Dem fromen, wyßen, unserm besonnders getrüwen, lieben burger und vogt zů <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName> Heinrich Holtzhalben.</p>
+</div>
+    </body>
+  </text>
+</TEI>

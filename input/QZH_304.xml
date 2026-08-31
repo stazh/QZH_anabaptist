@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_304</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354850">StAZH A
+              42.4, Nr. 51; Weitere Originale: ZBZ Ms A 72, S. 343f.; StAZH B VII 21.84, Nr. 2; Abschrift:
+              ZBZ, Ms B 165, fol. 213-214 (vgl. Schott-Volm, Policeyordnungen Zürich,
+              444)</idno>
+          </msIdentifier>
+          <head>Erneuerung des Täufermandats</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate from="1574-10-25" to="1574-10-31"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate from="1574-10-25" to="1574-10-31"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 190</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Wiewol unnser gnedig herren, bürgermeister unnd rath der statt <placeName
+            ref="LOC_47.36667_8.55">Zürich</placeName>, hievor jnn jren christenlichen jm truck
+          ußganngnen mandathen unnder annderm mengklichem<note type="editorial"> jedem</note>
+          gebotten, sich der schädlichen ­toüf­ferischen versamlungen<note type="critical">Schreiben
+            an Felix Brunner: versammlung</note> unnd leeren abzůzüchen, ouch jnen, den ­toüf­fern,
+            dhein<note type="editorial"> kein</note> ufenthallt ald<note type="editorial">
+            oder</note> schirm zegäben, sonnders sich dero gentzlichen zůentschlachen, so kompt jnen
+          doch glouplich für<note type="editorial"> fürkommen: zu Ohren kommen, kund werden, Id.
+            III, 279.</note>, als sy ouch ougenschyndlich gspürend, das ettlich jnn jren oberkheyten
+          diser jrrigen sect der ­toüf­fern über jre schwere<note type="critical">Folgt im Schreiben
+            an Felix Bruner: satzung auch</note> mandath unnd verbott nitt zů kleiner jrer
+          verachtung unnd jnfürung schädlichen jrrsals sich anzůmaaßen und daryn zůverwicklen
+          unnderstand, ouch ettlich der iren jnen fürschub<note type="editorial"> Beihilfe, Id.
+            VIII, 84.</note> unnd unnderschlouff gäbent, sy jnzüchend, enthaltend<note
+            type="editorial"> Unterkunft gewähren, beherbergen, Id. II, 1229.</note> unnd sich jrer
+          jrrsäligen leeren, winckelpredigen<note type="editorial"> Predigt im Verborgenen und ohne
+            Amt</note> und heimlichen versamlungen, genoß unnd teylbar machend. Unnd diweyl dann
+          diße sect zů zerüttung aller oberkeiten unnd gůter regimenten zum höchsten dienstlich,
+          sind wolgenannt unnser gnedig herren uß unvermydenlicher nothurfft bewegt, obangeregt jr
+          allt mandath hiemitt widerumb zůernüweren. Und gebietend hieruf zum treffenlichisten<note
+            type="editorial"> eindringlich, Id. XIV, 392.</note> unnd erntstlichisten, das sich
+          mengklicher by hocher unnd schwerer jrer<note type="critical"><q>jres</q> über der Zeile, in
+            der Zeile gestrichen: unnser</note> straaff unnd ungnaad von disen schädlichen
+          versamlungen unnd jrrigen leeren abzüche, deren niemmandts anhannge, nach statt, jnen ouch
+          keinerleyg hillf unnderschlouff, platz, nach fürschub gäbe, sy nitt ufenthallte, huse oder
+          herberge, ouch keinerleyg gmeinschafft oder gsellschaft mitt jnen fürnemme, sonnders
+          mengklich sich jren rüwige<note type="editorial"> sich des Verkehrs mit jemandem
+            enthalten, Id. VI, 1909.</note> unnd genntzlich entschlache. Dann sy, unnser herren,
+          dero unverdacht syn, sy<note type="critical">Folgt gestrichen: unnser herren</note> ouch
+          inn jren lannden unnd gepieten schlächts nitt lyden nach gedulden, sonnders wellent, das
+            angentz<note type="editorial"> sofort, Id. II, 19.</note> zů jnen gegriffen unnd jnen,
+          unnsern herren<note type="critical">Schreiben an Felix Brunner (und das an Hans Escher):
+            die jnn unnserm nammen oder zu unnsern handen (statt <q>jnen, unnsern herren</q>)</note>,
+          überantwort werdindt, damitt sy, die ­toüf­fer, jre günner unnd anhänger luth jren
+          satzungen an jrem läben und die, so jnen fürschub thůnd, sy nit leidend, verjagend oder
+          jnen gfengklich zůfürendt nach jrem verschulden (als lüth die trüw unnd eydt jren herren
+          überfaren hand) on gnad straafen mögind. Darjnne sy unnser herren niemmandts verschonenn.
+          Deßhalb ein jedes sich darnach zehallten wüsße.<note type="critical">Schreiben an Felix
+            Brunner (und das an Hans Escher): Unnd damit sich ein jedes darnach zuhalten wüsse, solt
+            du dis unnser mandath allenthalben jnn dyner amptsverwaltung uff künfftigen sontag jn
+            den kilchen, wenn das volck versammlet ist, offenlich verläsen und ­mengck­lichen warnen
+            lassen. Unnd darnebent du mit allem ernst unnd vlyss hierob halten und gegen den
+            ungehorsammen jnhalt dis unsers mandaths mit der byfachung ald abnemmung der straff
+            gestrax fortfaren, des wellent wir uns zů dir entlichen versechen und gehept haben.
+            Datum mentags den 25ten octobris anno etc. 74. (statt <q>Deßhalb ein jedes sich darnach
+            zehallten wüsße</q>).</note></p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p> Der Edition liegt die Fassung der Kanzlei zugrunde. Daneben ist das Mandat in einem
+          Brief an den Kyburger Landvogt Hans Escher vom Luchs (Original) und in einem Brief an den
+          Grüninger Landvogt Felix Brunner (Original und Abschrift) überliefert. Auf abweichende
+          Lesarten wird im textkritischen Apparat verwiesen, nicht aber auf den Wechsel von Person
+          und Numerus.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_235</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695084">StAZH E I 7.2, Nr. 113</idno>
+          </msIdentifier>
+          <head>Heinrich Binder an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1565-05-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1565-05-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 121</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__113__S__1_.tif"/>
+<p>Sträng, frum, edel, erenvest, fürsychtig, ersam, wys, jnsunders günstig, gnedig jr myn heren, myn underthenig, gehorsam, ganz gney[g]t und gůt wylliger dienst sig üwer er[sam] wyßheyt myt aller underthenykeyt alzyt bereyt. Insunders günstig, gnedig jr myn heren, üwer er. wyßheyt hat nach<note type="editorial"> noch</note> unvergäßen, wie jr myr handt zůschryben laßen, das ich den <persName ref="Ruman, Peter">Petter Rumen</persName> von <placeName ref="LOC_47.50369_8.41911">Schöfflystörff</placeName>, <persName ref="Bräm, Fridli">Frydly Brem</persName> von <placeName ref="LOC_47.49041_8.43694">Sünyken</placeName><note type="editorial"> Sünikon, Ortschaft der Landvogtei Regensberg</note> und <persName ref="Kuhn, Hans">Hannß Kůn</persName> jm <placeName ref="LOC_47.486389_8.428611">Pflasterbach</placeName> von wägen der doͤyffery gfängklych annamen und üch, mynen heren, zůschyken. Uff das laß ich üch, myne gnedigen heren, wißen, das ich lüth nach jnnen gschykt, doch so ist jnen Frydli Bräm und <persName ref="Kuhn, Hans">Hanns Cůn</persName> nyt worten<note type="editorial"> in die Hände gefallen, habhaft geworden, Id. XVI, 1339f.</note>, aber Petter Rumen. Den sälbigen sy myr bracht, den schyk ich üch, myn heren. Deßhalben jr myt jm mögent handlen nach üwerem gfallen. Uß <placeName ref="LOC_47.47812_8.42878">Ragensperg</placeName>, am 26. tag meyen dys 65. jars.</p>
+<p rend="margin-top"><lb/>U[wer] w[illiger] dyener,
+<lb/>Heynrych Bynder, vogt uff Regensperg.</p>
+<pb n="2" facs="E_I_7_2__Nr__113__S__2_.tif"/>
+<p rend="margin-top">Dem strengen, frumen, edlen, erenvesten, fürsichtigen, ersamen und wyßen heren burgermeyster und rath der stat <placeName ref="LOC_47.36667_8.55">Zurych</placeName> mynen günstigen gnedigen lyeben heren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

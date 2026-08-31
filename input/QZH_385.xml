@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_385</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696651">StAZH E I 7.2, Nr. 161</idno>
+          </msIdentifier>
+          <head>Junghans Thumysen an Gerold Escher</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1582-02-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1582-02-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 271</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__161__S__1_.tif"/>
+<p>Myn früntlich willig dienst unnd grůß mit erbiettung aller eeren unnd gůtz zůvor. Edler, vester, jnnsonders günstiger, lieber herr, wölcher maassen jch uf mornderigen tag zů <placeName ref="LOC_47.4668_8.34121">Wettingen</placeName> jm closter by üch unnd herrn <persName ref="GND_140632557">lanndtvogt Thomman</persName><note type="editorial"> Gemeint ist wohl Heinrich Thomann (vgl. die nachfolgende Nummer), der vor seiner Funktion als Seckelmeister Landvogt in Kyburg war.</note> erschynen unnd der hingelouffnen ­toüf­fern gůtt halber bericht geben, ouch uf hindersich bringen<note type="editorial"> an den Auftraggeber zur Beschlusfassung zurück bringen, Id. V, 731.</note> unnserer gnedigen herren, darinn hanndlen helffen sölte, hab jch von zeigern<note type="editorial"> Bote, Überbringer und Vorzeiger eines Briefs, Id. XVII, 393.</note> diß der lennge nach vernommen, da jch dann solchem (wie billich) nebent schuldiger pflicht flyssig nachkommen unnd mynen gnedigen herren hierinn gehorßammen wölte, wo es mir lybs halber zůerstatten yenen möglicht were, jst derhalb an üch myn ganntz früntlich pitt, mich by wolgemelttenn unnßern gnedigen herren desswegen zů versprechen etc. Sovil demnach berüerter hingezogner ­toüf­fern gůt belanngt, hab jch bishero ützit<note type="editorial"> nichts, Id. I, 83f.</note> wytters erfaren ald<note type="editorial"> oder</note> merers byhannden, dann wie herr stattschryber zů <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName> (luth syner verzeichnus) deshalb bericht geben unnd jnn hiebyligenden missiven zuvernemmen jst. Doch jst mir darneben für gewüß angezeigt worden, wie das jm <placeName ref="LOC_47.31768368701712_8.401017170545497">Kellerampt</placeName> zů <placeName ref="LOC_47.29968_8.40219">Jonnen</placeName> unnd <placeName ref="LOC_47.23613_8.61814">Arne</placeName>, uß yettwederm ortt einer (deren beider gůtt sich bis jnn 300 g[ulden] ungevar erstrecken sol) ouch hinweg jnn die ­toüf­ferey gezogen, da sonnst derselben gfründt unnd verwanndte zů mir kommen unnd sich an unnser gnedig herren gůtwillig ergäbenn, da dann (myns erachtens) weder der lanndtvogt von Baden noch die von Bremmgarten dhein<note type="editorial"> kein</note> ansprach<note type="editorial"> rechtlicher Anspruch, Id. X, 722.</note> oder ynred werden können habenn, sonnder unnsern gnedigen herren von oberkeitts wegen heim unnd zůdienen wirt etc. Diß alles hab jch üch, unnser gnedig herren, dessen zuberichten wüssen nit söllen noch wöllen verhalten<note type="editorial"> vorenthalten</note>. Damit dem herren gott zů gsundtheit unnd allem gůten wolbevolhen. Datum den 26ten hornung a[nn]o etc. 82.</p>
+<p rend="margin-top">Ü[wer] gůttwilliger</p>
+<p>Junghanns Thummysen, vogt der herrschafft <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName></p>
+<pb n="2" facs="E_I_7_2__Nr__161__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__161__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__161__S__4_.tif"/>
+<p rend="margin-top">Dem edlen unnd vesten junckher Gerolden Eschern, stattschrybern der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, mynen jnnsonnders günstigen lieben herrenn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

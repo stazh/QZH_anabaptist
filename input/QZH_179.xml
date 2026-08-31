@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_179</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355322">StAZH E II 1, S. 410</idno>
+          </msIdentifier>
+          <head>Klage des Dekans von Wetzikon betreffend Zunahme des Täufertums</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1553-10-24"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1553-10-24"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 65</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Der <persName ref="Schnyder, Niklaus">daͤchen</persName> von <placeName ref="LOC_47.32434_8.80465">Wetzikon</placeName><note type="editorial"> Niklaus Schnyder</note> erklagt sich, das 2 dirnen gar haͤfftig imm ampt und in der graffschafft <placeName ref="LOC_47.45249_8.7485">Kybrug</placeName> laͤgind und grossen unradt anrichtend. Die woͤlle man nitt verwysen.</p>
+<p>So grůne die toͤuffery wie von allterhar, das ettwan in die 100 zamen kummind. Da sye der <persName ref="Hedinger, (Hans?)">Hedinger</persName> von <placeName ref="LOC_47.49675_8.73417">Wintherdur</placeName> ein boͤser uffrůriger lur<note type="editorial"> Schelm, Id. III, 1376.</note>, alls der sich mercken<note type="editorial"> sich hören lassen, erklären, vgl. <bibl><ref target="http://fwb-online.de/go/merken.rI.3v_1709313037">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> lassen, wenn sich die puren zů inen thaͤtind, woͤlltind sy bald der obern und predgern herren werden. Das nut gůts zů hoffen etc.</p>
+</div>
+    </body>
+  </text>
+</TEI>

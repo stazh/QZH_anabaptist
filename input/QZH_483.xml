@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_483</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355217">StAZH E I 7.3, Nr. 30</idno>
+          </msIdentifier>
+          <head>Hans Meiss an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1588-09-23"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-09-23"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 369</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__30__S__1_.tif"/>
+<p>Herr burgermeister, edell, fromm, vest, fürsichtig, fürnem unnd wyß, innsonnders gönnstig, gnnedig jr myn herrenn, e[uwer] w[yßheit] sigenn myn unnderthennige gehorsame unnd willige diennst jeder zyt jnn schulldiger pflicht bereidt zuvor. Demnach, wolgenempt gnnedig jr mynn herren, hab ich (luth dero schrifftlichem befelch), was <persName ref="Kleger, Hans">Hanns Kleger</persName> unnd <persName ref="Peter, Joseph">Joßeph Petter</persName> (so jr, myn gnnedig herren, vonwägen jr ungehorsami jrdischen unnd töüfferischenn sect jnn eüwer gefanngenschafft verwaren unnd enndthalltenn<note type="editorial"> festhalten, Id. II, 1228.</note>) jnn mynner amptsverwalltung alhie für hab unnd gůt hinnder jnnen verlassen, nachvorschunng gethan unnd jm grunnd erkunndiget, daß namlich vermällt<note type="editorial"> erwähnter</note> Kleger drühunndert gulldin an etlichen gülltbrieffen, so hinnder einem amptsangehörigen <persName ref="Bosshart, N. (Fischenthal)">houptman Boßharten</persName> jm <placeName ref="LOC_47.33663_8.94127">Vischennthall</placeName> liggenndt, unnd dann gesagter Petter unngefhar jnn die einhunndert gulldj uff <persName ref="Furer, Uli">Ůlli Furern</persName> jnn der oberen Schwänndj<note type="editorial"> Oberschwändi</note> yn jr züchenn hat, welliches alles (alls jr vorschiesenndt gůt) jch anstatt eüwer mynner gnnedigen herren biß uff dero phernnern enndtschluß zů e. w. hannden heißen uffenndthalltenn<note type="editorial"> beschützen, unter Schutz stellen, Id. II, 1231.</note>, diesälbigen deßenn verstänndigen und damit euch, mynn gnnedig herren, unnderthennig bevelchen wellenn. Datum denn 23ten septembris a[nn]o 1588.</p>
+<p rend="margin-top">E. w. unnderthenniger unnd gehorsamer</p>
+<p>Johanns Meiß, derzyt vogt der herrschafft <placeName ref="LOC_47.28333_8.75">Grüninngen</placeName>.</p>
+<pb n="2" facs="E_I_7_3__Nr__30__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__30__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__30__S__4_.tif"/>
+<p rend="margin-top">Dem edlenn, fromen, vestenn, fürsichtigenn, fürnemen unnd wysen herren burgermeister unnd rath der statt Zürich, mynen jnnsonnders gnnedigen, gepietennden unnd liebenn herren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

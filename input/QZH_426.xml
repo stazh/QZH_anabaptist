@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_426</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355205">StAZH E I 7.3, Nr. 2</idno>
+          </msIdentifier>
+          <head>Johannes Bluntschli an Ludwig Lavater</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1585-02-19"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-02-19"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 312</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__2__S__1_.tif"/>
+<p>G[eneigter], frommer, eerwirdiger, hoch und wolgelerter herr und vatter. Diewil unser lieber herr und vatter d[ominus] Gualtherus<note type="editorial"> Antistes <persName ref="GND_11854392X">Rudolf Gwalther</persName> erlitt im Sommer 1584 einen Hirnschlag.</note> schwach und blöd<note type="editorial"> schwach, Id. V, 24.</note>, achten ich, nit gůtt den sälbigen mitt öttwas schwären sachen zebeunruͤwigen. Derhalben ich üch, minen früntdlichen lieben herren, uff diß mal in wichtigen kilchen sachen billichen ratds fragen, was joch<note type="editorial"> auch</note> in sömlichen fälen das kömlichist und nuzlichist zethůn. Und namlich hatt es die gstaltt, es hatt mir kurz verruckter zitt herr Baschy<note type="editorial"> <persName ref="GND_137925050">Sebastian Nabholz</persName></note>, pfarrer zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName>, anzeigt, wie das die ­toüf­fer so fräffen<note type="editorial"> dreist, Id. I, 1286.</note> und heimlich buͤchly under die unseren ußtheilind und also das volck understandind abwändig zemachen, und besonders habe er einen in siner pfarr, der sige überschwängklich fräffen und richte nütt gůtts an. Und als ich mich mit h[errn] obervogt<note type="editorial"> <persName ref="Paur, Rudolf">Rudolf Paur</persName></note> zů gelägner zitt wöllen disers ­toüf­fers und anderer vill meer beratdschlagen, hatt sich darzwüschend diß zůtragen, wie herr Baschy mir zůgeschriben und ir uß sinem schriben verston könnind, das hieby gelegt.<note type="editorial"> Nr. 311.</note> Diewil dan diser und andere ­toüf­fer sich uff ein disputation triumphierens wiß protestierend und ein ieder der dieneren bereit were, somlichen ­toüf­feren mit warheit und dapferkeit zebegägnen wie billich, do befintd sich aber durch die erfarung, das, was man uff dem land mitt inen handlet und retd, alles vergäbens ist und si vill meer halsstarrig dorab werdend und anlaß nämmend, andere auch zevergifften, und ist zebesorgen, das ein bösen muttich<note type="editorial"> Durcheinander, Nest, Id. IV, 576.</note> der ­toüf­feren verhanden, meer dan man wüße, deren si nun ze vill, die man wol weißt, und all mit nammen in geschrifft unserem herren obervogt fürgebracht mitt zůgethaner unserer der mittbrůderen protestation. Es mag aber auch herr obervogt an inen nüt erheben. Wenn nun wir, die diener der kilchen, ein disputation hie die ander dort in den kilchen anrichten ließind und dann öttwas verborgner der ­toüf­feren tück mitt unrůwen herfür breche, so wurdend wol alsbald wir, die diener, sömlicher unrůw ursächer verdacht werden. Dann wir besorgend, mitt der zitt werdend die ­toüf­fer nit gůtts anrichten, diewil si sich täglich meerind und vill lütt uß unwüßenheit inen zum theil rächt auch underschlauff gäbend, und darnäbend offentliche verrůchte lütt ouch zůschlachend, als vil si mögind. Und achten ich, were beßer mitt ansächen und angeschlagner gůtter ordnung mit disen lütten zedisputieren dan mit sömlichen besondren gesprächen, den ­toüf­feren ein anlaß zum gespött gäben. Dann iren kyb<note type="editorial"> Zank, Streit, Id. III, 106.</note> kein warheit überwinden thůtt. Uß ansächen diser wichtigen sach, früntdlicher herr, bitten ich üch, wöllind mir und anderen fratribus (bruͤderen)<note type="critical"><q>bruͤderen</q> am Rand</note> trüwlich ratden wie und was wir zehanden nämmen söllind, domitt wir weder zelüzel<note type="editorial"> zu wenig, Id. III, 1571.</note> nach vill an die sach gethon haben, verdacht mögind werden, wie joch die sach enden thetde. Ir habend by üch zehand unsere liebe herren zů beiden theilen, mitt wölchen ir üch ingheimm underreden möchtind und ein gůtten ratd unß, den fratribus, zůsenden, uff wölchen zewarten wir begirig sind und dann auch zethůn, was unserem stand eerlich und gůtt. Hiemitt bevilch ich üch, minen lieben herren und vatter, in gnedigen schirmm gottes mitt den üweren. Gäben zů Ottenbach den 19. februarij a[nno] 1585.</p>
+<p rend="margin-top">U[wer] w[illiger] d[iener] und mittbrůder</p>
+<p>Joannes Bluntschlij, diener der kilchen zů <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName></p>
+<pb n="2" facs="E_I_7_3__Nr__2__S__2_.tif"/>
+<p rend="margin-top">Demm frommen, eerwirdigen, hoch und wolgelerten h[err] herren Ludwig Lavater, chorherren und diener der kilchen zů dem großen münster <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minem insonders früntdlichen, eerenden, lieben herren zehanden.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_814</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355364">StAZH F III 36 a</idno>
+          </msIdentifier>
+          <head>Rechnung des Täuferamtes</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1609"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1609"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 700</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">| [fol. 1r] Rechnung umb gmeyner statt Zürich zů gefallenn ­toüf­fer gůtt vom 1609ten jare
+<abstand/> <br/>Hanns Waßer<persName ref="Waser, Hans"/>, verwalter desselben, die 10.<note type="editorial"> Das zehnte Jahr von Wasers Buchführung</note></head> <p>| [fol. 2r] Ingenomen von alter restanntz, so jch by myner nündten rechnung vom 1608ten jar by yngenomnem ­toüf­fergůtt schuldig bliben binn, ann gelt 9400 pfund<note type="critical">In der Vorlage: lb.</note> 19 schilling<note type="critical">In der Vorlage: ß</note>.</p>
+<p rend="margin-top">| [fol. 2v] Inngenomen an jerrlichen zinßen anno 1609:</p>
+<p>10 pfund <persName ref="Hegi, Adam">Adam Häggj</persName> vonn <placeName ref="LOC_47.25015_8.53023">Hängst</placeName><note type="editorial"> Heisch</note> von 200 pfund h[oupt]gůts uff martinj.</p>
+<p>9 pfund <persName ref="Steli, Jos">Joß Stelj</persName> vonn <placeName ref="LOC_47.26217_8.41262">Lunneren</placeName> von 180 pfund h[oupt]gůts uff martinj.</p>
+<p>2 pfund 10 schilling <persName ref="Gut, Melchior">Melchior Gůtt</persName> von Nider <placeName ref="LOC_47.26426_8.409">Lunern</placeName> von 50 pfund h[oupt]gůts uff martinj.</p>
+<p>9 <persName ref="Steli, Hans">pfund Hanns</persName> unnd <persName ref="Steli, Hans Rudolf">Hanns Růdolff</persName> die Stelinen zů <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> von 180 pfund h[oupt]gůts uff martinj.</p>
+<p>5 pfund <persName ref="Stierli, Joggli">Jogglj Stierlj</persName> zů Ottenbach von 100 pfund h[oupt]gůts uff martinj.</p>
+<p>3 pfund 1 schilling <persName ref="Wyss, Kaspar">Caspar Wyß</persName> zů <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName> von 61 pfund h[oupt]gůts uff martinj.</p>
+<p>1 pfund 6 schilling <persName ref="Weidmann, Peter">Petter Weidmann</persName> zů <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName><note type="editorial"> Affoltern bei Zürich</note> jm ampt Regenstorff von 26 pfund h[oupt]gůts uff martinj.</p>
+<p>2 pfund 3 schilling 6 heller <persName ref="Strübi, Wolfgang">Wolffganng Strübj</persName> zů Alstetten von 43½ pfund h[oupt]gůts uff martinj.</p>
+<p>10 pfund <persName ref="Eberli, Heini">Heinj Eberlj</persName> uff Bůchen <placeName ref="LOC_47.29614_8.50781">Egg</placeName> alld jm <placeName ref="LOC_47.47328218678655_9.494788542328712">Closter</placeName><note type="editorial"> Kloster Mariaberg</note> von 200 pfund h[oupt]gůts uff martinj.</p>
+<p>Summa 52 pfund 6 heller.</p>
+<p rend="margin-top">| [fol. 3r] Ingenommen von jerrlichen zinßen:</p>
+<p>10 pfund <persName ref="Trinkler, Ůli">Ůlj Tringckler</persName> zů <placeName ref="LOC_47.23613_8.61814">Arnne</placeName> von 200 pfund houptgůts uff martinj.</p>
+<p>3 pfund 4 schilling <persName ref="Widmer, Jakob">Jacob Widmer</persName> zů <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName> von 64 pfund h[oupt]gůts uff martinj.</p>
+<p>4 pfund <persName ref="Müller, Baschli">Baschlj Müller</persName> zů <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName> vonn 80 pfund h[oupt]gůts uff martinj.</p>
+<p>12 pfund <persName ref="Frey, Junghans">Junghanns Fry</persName> zů <placeName ref="LOC_47.42943_8.78875">Eschwyl</placeName><note type="editorial"> Neschwil</note> von 240 pfund houptgůts uff martinj.</p>
+<p>12 pfund 11 schilling <persName ref="Gassmann, Hans">Hanns Gaßmann</persName> von <placeName ref="LOC_47.44713_8.52938">Rümlang</placeName> von 271 pfund h[oupt]gůts uff martinj.</p>
+<p>10 pfund <persName ref="Huber, Konrad">Cunrat Hůber</persName> zů <placeName ref="LOC_47.21566_8.57354">Bebenwag</placeName> von 200 pfund h[oupt]gůts uff martinj.</p>
+<p>1 pfund aber er von 20 pfund h[oupt]gůts.</p>
+<p>18 pfund 10 <persName ref="Wismann, Hans">schilling Claus</persName> <persName ref="Wismann, Felix">unnd Felix</persName> die Weißmannen uff <placeName ref="LOC_47.36702_8.45903">Üticken</placeName> enet dem Albis uff pfingsten 1609.</p>
+<p>35 pfund <persName ref="Gsell, Gebhard">Gäbhart Gßellen</persName> zů <placeName ref="LOC_47.19453_8.88974">Wanngen</placeName> vonn 700 pfund h[oupt]gůts uff martinj.</p>
+<p>20 pfund uff <persName ref="Rose, Peter">Petter Roße</persName> zů <placeName ref="LOC_47.45801_8.58528">Clottenn</placeName> von 400 pfund h[oupt]gůts uff martinj.</p>
+<p>10 pfund uff <persName ref="Bleuler, Heinrich">Heinrichen Blüwler</persName> zů <placeName ref="LOC_47.34326_8.5947">Zoligken</placeName> von 200 pfund h[oupt]gůts uff martinj.</p>
+<p>Summa 137 pfund 5 schilling.</p>
+<p rend="margin-top">| [fol. 3v] Ingenomenen jerrlichen zinßen:</p>
+<p>17 pfund die <persName ref="Meyer, Marti">Meyern</persName><persName ref="Meyer, Hans"/> vonn Käll von 340 pfund houbtgůts<note type="critical">In der Vorlage: hgůts</note> uff martinj.</p>
+<p>60 pfund uff <persName ref="Grüter, Felix">Felixen Grütter</persName> unnd mithafte<note type="editorial"> Teilhaber einer Schuld, Id. II, 1057.</note> zů <placeName ref="LOC_47.39259_8.68949">Volgketschwyl</placeName> von 1200 pfund houbtgůts<note type="critical">In der Vorlage: hgůts</note> uff martinj.</p>
+<p>56 pfund 17 schilling uff <persName ref="Klöti, Adam">Adamman Clöttj</persName> zů <placeName ref="LOC_47.473590_8.600935">Augwyl</placeName> von 1137 pfund houbtgůt<note type="critical">In der Vorlage: hgůt</note></p>
+<p>2 pfund uff <persName ref="Stocker, Ůli">Ůly Stockern</persName> zů <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> von 40 pfund houbtgůts<note type="critical">In der Vorlage: hgůts</note> uff martinj.</p>
+<p>10 pfund uff <persName ref="Waser, N. (Schiffmeister)">schiffmeister Waßern</persName> von 200 pfund houbtgůt uff martinj.</p>
+<p>18 pfund 8 schilling <persName ref="Wecker, Rudolf">Růdolff Wergker</persName> zů <placeName ref="LOC_47.45801_8.58528">Klotten</placeName> von 368 pfund houbtgůt<note type="critical">In der Vorlage: hgůt</note> uff martinj.</p>
+<p>20 pfund uff dem <placeName ref="LOC_47.3953_8.53721">huß zů sannt Sebastian</placeName> vonn 400 pfund houbtgůtz<note type="critical">In der Vorlage: hgůtz</note> uff martinj.</p>
+<p>Summa 184 pfund 5 schilling.</p>
+<p rend="margin-top">Sumarum jngenommen vonn jerrlichen zinnßen ann gelt 373 pfund 10 schilling 6 heller.</p>
+<p rend="margin-top">Harby jst zů wüßen, dz myn g[nedig] herren hienach volgenden personen jro zinß, da aber dz houbtgůt<note type="critical">In der Vorlage: hgůt</note> jn obvermeltem mynem ynnemen von alter restantz vergriffen, uß gnaden nachvolgen laßend, namlichen 6 pfund 18 schilling<note type="critical">Folgt gestrichen: uff</note> <persName ref="Bücheler, Hans">Hannßen Bücheler</persName> zů <placeName ref="LOC_47.24779_8.46399">Mättmenstetten</placeName> und 40 pfund 10 schilling<note type="critical">Folgt gestrichen: uff</note> <persName ref="Baumann, Oswald">Oßwalden Buman</persName> zů <placeName ref="LOC_47.23613_8.61814">Arne</placeName>. Demnach stand jn die 760 pfund an usstenden zinßen uß, so jm ynnemen von alter restantz vergriffen und aber keine zinß erthragendt. Wan nun der zinß hievon ouch gerechnet und zů der andern suma und zinßung<note type="critical"><q>der zinß hievon … zinßung</q> am Rand, in der Zeile gestrichen: diserer zinß zů vorstenden suma zů zinß zůvorstenden suma</note> gelegt, thregt dz gantz ynemmen von alter restantz zinß biß an 200 pfund ungefar, die sindt bar.</p>
+<p rend="margin-top">| [fol. 4r] Summa sumarum alles jnnemens deß 1609ten jars ann gelt 9774 pfund 9 schilling 6 heller.</p>
+<p rend="margin-top">| [fol 4v] Dargägen thůtt daß ußgaben:</p>
+<p>18 pfund 10 schilling sindt abermalen <persName ref="Hindermann, Ulrich">Ůlrichen Hindermann</persName> genandt Künj von <color bgc="yellow"><placeName ref="LOC_47.42008_8.43033">Wynigen</placeName></color> als den zinß, so jnn dißerem jar von synes schwagers <persName ref="Müller, Hans">Hannßen Müllers</persName> hinder mir liggendem ­toüf­fer gůtt verfallen, wegen syner großen armůdt unnd dz syn husfrow desselbigen nechste errbin vereerdt und zůgestelt.</p>
+<p>16 pfund sindt glycher gestalt <persName ref="Grüter, Felix">Felixen Grütters</persName> zů <placeName ref="LOC_47.39259_8.68949">Volcketschwyl</placeName> armen můtter von den 60 pfund hürigen jars zinßes, so von jres suns hinder mir liggenden ­toüf­fer gůtt verfallen, wegen jrer großen armůdt ouch verereth unnd geschenckt.</p>
+<p>9 pfund 12 schilling hab jch diß jar ußgäben unnd verbrucht, als jch diß ­toüf­ferguots<note type="critical">Folgt gestrichen: h</note> unnd etlicher mangelnden brieffen halber gan <placeName ref="LOC_47.22446_8.46262">Knonow</placeName> unnd andere ouch reißen unnd schicken müßen.</p>
+<p>25 pfund jst myn geordnete jars besoldung, diß gůtt anno 1609 zůverwalten.</p>
+<p>3 pfund 15 schilling denen, so zinß bracht, zum tringkgelt.</p>
+<p>3 pfund mynen herren von verndriger rechnung rechenschiling.</p>
+<p rend="margin-top">Sumarum alles ußgäbens ann gelt 75 pfund 17 schilling.</p>
+<p rend="margin-top">| [fol. 5r] Nach abzug jnnemens unnd ußgäbenns blyben jch by dißer myner rechnung vom 1609ten jar zů zeigen unnd zů bezallen schuldig ann gelt 9698 pfund 12 schilling 6 heller.</p>
+<p rend="margin-top">Vorstenndere summa zeigen unnd bezallen jch volgender gestalt, namlichen so statt an verbrieffetem houbtgůtt usß:</p>
+<p>2 pfund uff <persName ref="Hegi, Adam">Adamman Haggj</persName> zů <placeName ref="LOC_47.25015_8.53023">Hänngst</placeName>.</p>
+<p>180 pfund uff <persName ref="Steli, Jos">Joßen Stelj</persName> vonn <placeName ref="LOC_47.26217_8.41262">Lunnern</placeName>.</p>
+<p>50 pfund uff <persName ref="Gut, Melchior">Melchior Gůtten</persName> vonn Nider <placeName ref="LOC_47.26217_8.41262">Lunnern</placeName>.</p>
+<p>180 pfund uff denn <persName ref="Steli, Hans">Stelinen</persName><persName ref="Steli, Hans Rudolf"/> zů <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName>.</p>
+<p>100 pfund uff <persName ref="Stierli, Joggli">Jogglj Stierlj</persName> zů Ottenbach.</p>
+<p>138 pfund uff <persName ref="Bücheler, Hans">Hannßen Bücheler</persName> zů Ober <placeName ref="LOC_47.24779_8.46399">Mättmenstetten</placeName>.</p>
+<p rend="margin-top">Suma diß blatts 848 pfund.</p>
+<p rend="margin-top">| [fol. 5v] Fernere zallung:</p>
+<p>810 pfund uff <persName ref="Baumann, Ludwig">Ludwigen Buman</persName> zů <placeName ref="LOC_47.23613_8.61814">Arnne</placeName>.</p>
+<p>61 uff <persName ref="Wyss, Kaspar">Caspar Wysßenn</persName> zů <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName>.</p>
+<p>26 pfund uff <persName ref="Weidmann, Peter">Pettern Weidman</persName> zů <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName>.</p>
+<p>43 pfund 10 schilling uff <persName ref="Strübi, Wolfgang">Wolffganngen Strübj</persName> zu <placeName ref="LOC_47.38946_8.48533">Alstetten</placeName>.</p>
+<p>200 pfund uff <persName ref="Eberli, Heini">Heinj Eberlj</persName> uff Bůchen <placeName ref="LOC_47.29614_8.50781">Egg</placeName>.</p>
+<p>200 pfund uff <persName ref="Trinkler, Ůli">Ůlj Trinckler</persName> zů Arnne.</p>
+<p>64 pfund uff <persName ref="Widmer, Jakob">Jacoben Widmer</persName> zů Hedingen.<placeName ref="Hedingen"/></p>
+<p>80 pfund uff <persName ref="Müller, Baschli">Baschlj Müllern</persName> zů <placeName ref="LOC_47.3539_8.43463">Birmenstorff</placeName>.</p>
+<p>240<note type="editorial"> korrigiert, ursprünglich: 12</note> pfund uff <persName ref="Frey, Junghans">Junghannß Frygen</persName> zů <placeName ref="LOC_47.42943_8.78875">Eschwyl</placeName><note type="editorial"> Neschwil</note>.</p>
+<p>272 pfund uff <persName ref="Gassmann, Felix">Felixen Gassmann</persName> zů <placeName ref="LOC_47.44713_8.52938">Rümlang</placeName>.</p>
+<p>220 pfund uff <persName ref="Huber, Konrad">Cůnraten Hůber</persName> zů <placeName ref="LOC_47.21566_8.57354">Babenwäg</placeName>.</p>
+<p>370 pfund uff denn <persName ref="Wismann, Hans">Wißmannen</persName><persName ref="Wismann, Felix"/> zů <placeName ref="LOC_47.36702_8.45903">Üticken</placeName>.</p>
+<p>700 pfund uff <persName ref="Gsell, Gebhard">Gabharten Gsellen</persName> zů <placeName ref="LOC_47.19453_8.88974">Wanngen</placeName>.</p>
+<p>368 pfund uff <persName ref="Wecker, Rudolf">Růdolffen Wegcker</persName> zů <placeName ref="LOC_47.45801_8.58528">Clotten</placeName>.</p>
+<p>400 pfund uff <persName ref="Rose, Peter">Pettern Roße</persName> zů Clotten.</p>
+<p>200 pfund uff <persName ref="Bleuler, Junghans">Junghannßen Bleüwler</persName> zů <placeName ref="LOC_47.34326_8.5947">Zoligken</placeName>.</p>
+<p>340 pfund uff die <persName ref="Meyer, Marti">Meyern</persName><persName ref="Meyer, Hans"/> zů Käll jetzt zu <placeName ref="LOC_47.53754_8.66653">Näfftenbach</placeName>.</p>
+<p rend="margin-top">Summa 4594 pfund 10 schilling.</p>
+<p rend="margin-top">| [fol. 6r] Fernere zallung:</p>
+<p>1200 pfund uff <persName ref="Grüter, Felix">Felixen Grütter</persName> zů <placeName ref="LOC_47.39259_8.68949">Volketschwyl</placeName>.</p>
+<p>1137 pfund uff <persName ref="Klöti, Adam">Adamman Klöttj</persName> zů <placeName ref="LOC_47.473590_8.600935">Augwyl</placeName>.</p>
+<p>40 pfund uff <persName ref="Stocker, Ůli">Ůlj Stockern</persName> zů <placeName ref="LOC_47.24867_8.58482">Horgen</placeName>.</p>
+<p>200 pfund uff <persName ref="Waser, N. (Schiffmeister)">schiffmeister Waßern</persName>.</p>
+<p>700 pfund uff dem <placeName ref="LOC_47.3953_8.53721">huß zů sanct Sebstian</placeName>.</p>
+<p>760 pfund statt ann ußstenden verfallnen zinßen noch unbezalt uß.</p>
+<p rend="margin-top">Suma diß blatts 4037 pfund.</p>
+<p rend="margin-top">Sumarum hievorstenden ganntzen zallung thůtt ann gelt 9479 pfund 10 schilling.</p>
+<p rend="margin-top">Wan nun dißere zallung an vorstennder schuld abzogen, soll nachbar synn ann gelt 219 pfund 2 schilling 6 heller.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Das zehnte Jahr von Wasers Buchführung</p>
+      </div>
+    </back>
+  </text>
+</TEI>

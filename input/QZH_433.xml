@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_433</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695105">StAZH E I
+              7.2, Nr. 120</idno>
+          </msIdentifier>
+          <head>Gutachten der Zürcher Theologen für die evangelische Tagsatzung</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-07-02">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-07-02">ca.</origDate>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 319</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" facs="E_I_7_2__Nr__120__S__1_.tif"/>
+        <pb n="2" facs="E_I_7_2__Nr__120__S__2_.tif"/>
+        <pb n="3" facs="E_I_7_2__Nr__120__S__3_.tif"/>
+        <pb n="4" facs="E_I_7_2__Nr__120__S__4_.tif"/>
+        <pb n="5" facs="E_I_7_2__Nr__120__S__5_.tif"/>
+        <pb n="6" facs="E_I_7_2__Nr__120__S__6_.tif"/>
+        <pb n="7" facs="E_I_7_2__Nr__120__S__7_.tif"/>
+        <pb n="8" facs="E_I_7_2__Nr__120__S__8_.tif"/>
+        <pb n="9" facs="E_I_7_2__Nr__120__S__9_.tif"/>
+        <pb n="10" facs="E_I_7_2__Nr__120__S__10_.tif"/>
+        <pb n="11" facs="E_I_7_2__Nr__120__S__11_.tif"/>
+        <pb n="12" facs="E_I_7_2__Nr__120__S__12_.tif"/>
+      </div>
+    </body>
+    <back>
+      <div><p>Das vorliegende Gutachten, geschrieben auf drei Doppelblättern mit Zürcher Wasserzeichen,
+        wurde am 3. Juli dem Zürcher Rat vorgestellt. Der Text wurde für das gemeinsame theologische
+        Gutachten in Aarau grösstenteils im Wortlaut übernommen. Die Edition des Aarauer Gutachtens
+        folgt unten (<bibl><ref target="https://qzh.sources-online.org/quellenstuecke/QZH_435">QZH, Nr. 435</ref></bibl>), wo in den Fussnoten auf das Zürcher Gutachten verwiesen wird. Im
+        Aarauer Text ist die im Zürcher Gutachten enthaltene Kritik an der Bündnispolitik und am
+        Solddienst weggelassen, während er zusätzlich einen Hinweis auf die Nachlässigkeit bei der
+        synodalen Zensur (Überprüfung von Lehre und Leben der Geistlichen) und die Unterstellung,
+        die Täufer würden die Rechfertigungslehre ablehnen, enthält.</p></div>
+    </back>
+  </text>
+</TEI>

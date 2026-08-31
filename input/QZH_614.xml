@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_614</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355271">StAZH E I 7.3, Nr. 80</idno>
+          </msIdentifier>
+          <head>Urteile gegen Hans Ziegler und Hans Sommerauer und eine Rüge an das Ehegericht</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1597-12-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1597-12-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 500</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__80__S__4_.tif"/>
+<p>Es waren glych wol der Ziegler und der Sumerouwer von hierjnn gemeldeter sachen wegen unnd dz sy sich deß jüngsten meister potts<note type="editorial"> Versammlung aller Mitglieder auf einer Zunft, Id. II, 1895.</note> geüsseret jnn gfangenschafft erkhendt<note type="editorial"> verurteilen, Id. III, 313.</note>. Nachdem sy aber jr entschuldigung vor rath gethann, sind myn gnedig herren an dieselbig kommen und sy beid uß gnaden der gfangenschafft erlaßen, darby aber ermannet worden, das sy jrem anerbieten statt thůn und uff nechsten heilig wienacht zur predig und deß herrn nachtmal wie andere christentlüth gaan, ouch jnn burgerlichen sachen sich gehorsamm erzeigen söllint. Actum sambßtags den 17. d[ies] decemb[ris] a[nn]o 97 p[raese]nt[ibus] herr b[urgermeister] <persName ref="GND_143658468">Großman</persName> und beid reth.</p>
+<p rend="margin-top">N[ota]: Die eerichter sölten derglychen khundtschafft<note type="editorial"> Zeugenbefragung, Id. III, 353.</note> nit ufnemmen, sonder stadt der hochen oberkeit zů.</p>
+</div>
+    </body>
+  </text>
+</TEI>

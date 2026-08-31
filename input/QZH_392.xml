@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_392</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355062">StAZH B IV 42, fol. 152v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Untervogt Widmer von Rümlang</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1582-07-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1582-07-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 278</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeister unnd rath der statt Zürich unnseren grůß zůvor. Lieber gethrüwer, unns lanngt gloublichen an<note type="editorial"> anlangen: zugetragen werden, als Kunde zukommen, Id. III, 1330.</note>, das du, so unntzhar<note type="editorial"> bisher</note> unnser unndervogt glopter unnd geschworner diener gewäßen, ettwas zythen die gwonlichen predigen nit besůcht, sonnders dich<note type="critical"><q>dich</q> über der Zeile</note> denselben<note type="critical">Folgt gestrichen: gen</note> zum theil gfaarlicher wyß geüsßeret, ouch über früntlichs vermannen unnd anhallten dich deß klichganngs zu beflyßen<note type="critical"><q>dich des klichganngs zu beflyßen</q> am Rand mit Verweiszeichen</note> mit<note type="critical">Folgt gestrichen: ettwas</note> ungebürlichem bscheid, und das du dennocht nit zur kilchen gaan wellist, begegnet, an wellichem<note type="critical">Folgt gestrichen: ob</note> wir ein treffennlichs<note type="editorial"> stark, Id. XIV, 393.</note> misßfallen empfanngen unnd wol geacht, das du dich jnn diser sach dyn eigen heil und wolstand betreffennde anderst und gschicklicher erzeigt hettist. Diewyl aber dasselbig nit beschächen<note type="critical">Folgt gestrichen: unnd hieruß wol abzenemen was gmuͤts unnd willens du sygist</note>, habent wir jnn bedennckung desselben ouch jnnansehung dynes allters unnd übelmögende dich dynes gethragnen ampt und diensts hiemit<note type="critical">Folgt gestrichen: gnedigklichen</note> erlasßen<note type="editorial"> entledigen, entheben, vgl. <bibl><ref target="http://fwb-online.de/go/erlassen.s.3vu_1709295843">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> und unsernn lieben mittrath und alten vogt <persName ref="Füssli, Hans">Hansen Fuͤßlj</persName> bevolchen, ordnung zegeben, das<note type="critical">Folgt gestrichen: ein</note> an<note type="critical">Folgt gestrichen: anderen und</note> din statt gwonlichem bruch nach ein andern zůerwellen der fürgeschlag geschehe, was dann gesagter unser mittrath<note type="critical">Folgt gestrichen: was unser meinung</note> dinethalb<note type="critical">Folgt gestrichen: syge</note> mit dir zů nechster glegenheit<note type="critical">Folgt gestrichen: zyt</note> witer<note type="critical">Folgt gestrichen: reden wirt</note> zereden, wirst du von jme vernemmen<note type="critical"><q>und unsernn lieben mittrath und alten vogt Hansen Fuͤßlj … vernemmen</q> am Rand mit Verweiszeichen</note>, und wellennt das angenntz<note type="editorial"> nächstens, bald, Id. II, 19.</note> an dyn statt ein anderer fürschlag dryger erlicher personen, daruß wir ein undervogt<note type="critical">Folgt gestrichen: v</note> erwellen mögind, beschäche und unns fürgebracht werde. Darüber jst ouch unnser ernstlich bevelch, will unnd meynung, das du<note type="critical">Folgt gestrichen: dich</note> fürhin (wo dir söllichs lybs halber jendert müglichen) zů allen gwonnlichen predig tagen jnn die kilchen gangist, der verkündigung deß heiligen göttlichen wortts zůhörist und dich<note type="critical"><q>dich</q> über der Zeile</note> jnmaaßen erzeigist, als einem<note type="critical">Folgt gestrichen: chr</note> recht christglöübigen mentschen gezimpt und wol anstedt. Des wellind wir uns zu dir gennzlichen versehen. Im fal, das aber von dir nit beschächen, werdent wir sölliches<note type="critical">Folgt gestrichen: zu höchster ung gegen</note> ungestrafft nit hingaan lasßen. Darnach wüsß dich zerichten und zehalten. Datum den xxvten julij anno etc. lxxxij.</p>
+<p rend="margin-top">Unserem lieben gethrüwen […]<note type="critical">Spatium</note> Widmeren zu Rümlanng.</p>
+</div>
+    </body>
+  </text>
+</TEI>

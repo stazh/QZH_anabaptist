@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_389</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696657">StAZH E I 7.2, Nr. 164</idno>
+          </msIdentifier>
+          <head>Täufervermögen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1582-04-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1582-04-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 275</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Abhanndlung umb etlicher hingelauffner ­toüf­fern uß dem Källerampt<placeName ref="Kelleramt"/> verfallenn hab unnd gut<note type="critical">Aufschrift auf der Rückseite des ursprünglich gefalteten Dokuments</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__164__S__1_.tif"/>
+<p>Uff donnstag den 5. Aprilis a[nn]o 82 habennd herr stathalter Engelhart<note type="editorial"> <persName ref="GND_1074070550">Felix Engelhart</persName></note>, herr vogt<note type="critical">Folgt gestrichen: Pur</note> Thumysen<note type="editorial"> <persName ref="Thumysen, Heinrich">Heinrich Thumysen</persName></note> unnd herr vogt Pur<note type="editorial"> <persName ref="Baur, Rudolf">Rudolf Baur</persName></note> mit mir volgennd personen etlicher hin­ge­lauffener ­toüf­ferenn verfallnen guts halber also abgehanndlet.</p>
+<p rend="margin-top"><persName ref="Baumann, Hans">Hannß Buman</persName> vonn <placeName ref="LOC_47.29968_8.40219">Jonen</placeName> gibt von wegen synneß bruders <persName ref="Baumann, Jakob">Jacoben Bumannß</persName> an gält 80 gulden<note type="critical">In der stes Vorlage: fl[orenos].</note> jnn müntz. Zallt also:</p>
+<p>10 gulden jnn müntz zalt er bar,</p>
+<p>35 gulden jnn müntz uff martinij<note type="editorial"> 11. November</note>,</p>
+<p>35 gulden jnn müntz uff vaßnachten a[nn]o 83 one zinnß.</p>
+<p rend="margin-top">Jacob Müller vonn <placeName ref="LOC_47.23613_8.61814">Arnj</placeName> gibt vonn wegen syneß vatterß an gält 50 gulden jnn müntz. Soll uff jez künfftigen sannt Martins tag zalenn.</p>
+<pb n="2" facs="E_I_7_2__Nr__164__S__2_.tif"/>
+<p rend="margin-top">Jacob Koler<note type="critical"><q>Koler</q> über der Zeile, in der Zeile gestrichen: <persName ref="Kohler, Jakob">Gerig</persName></note> vonn <placeName ref="LOC_47.35385_8.38375">Oberbergken</placeName><note type="editorial"> Berikon</note> gibt jnnamen der einen<note type="critical">Lesung unsicher</note> synner schwoster an gält 10 gulden jnn müntz. Sollt jnn monnattß frist zalen.</p>
+<p rend="margin-top">Sumarum an gält 140 gulden jnn müntz.</p>
+<p rend="margin-top">Nach Zürich werung an gält 152 gulden.</p>
+<p rend="margin-top">Darvon jst ußgeben:</p>
+<p>zalt 3 gulden, 8 b[azen] dem<note type="critical">Folgt gestrichen: lanschr</note> stattschryber zu <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName>;</p>
+<p>zalt 75 s[chilling]<note type="critical"><q>zalt 75 s[chilling]</q> am Rand, in der Zeile gestrichen: 1 l[ibrum] 5 s[chilling]</note>, habend <persName ref="Strubli, N.">vogt Strubly</persName> und <persName ref="Graf, N.">Graf</persName> verzert;</p>
+<p>zalt 24 s.<note type="critical">Am Rand, in der Zeile gestrichen: 1 l[ibrum] 4 s[chilling]</note> stattschrybers zů Bremgarten diener bracht brief;</p>
+<p>zalt 2 gulden, 20 s. zů Bremgarten verzert, wie herr vogt Thumysen die sach erkhundiget;</p>
+<p>1 gulden, 20 s. herr <persName ref="Thumysen, Heinrich">vogt Thumysen</persName> für dryg ritt jnn diser sach;</p>
+<p>15 gulden zerung ryt unnd […]<note type="critical">Lesung unklar</note> ouch […]<note type="critical">Lesung unklar</note></p>
+<p>Summarum 23<note type="critical">Folgt gestrichen: lib</note> gulden 27 s.</p>
+<p>zalt […]<note type="critical">Lesung unklar</note> 16 s. veter Josten von deß<note type="critical">Folgt gestrichen: lanndt</note> stattschryberß boten wegen,</p>
+<p>summarum 14 gulden, 3 s.</p>
+<p rend="margin-top">Also blybe luth uberig ann gelt 87 gulden, 37 s.</p>
+<p>Deren jst verhannden einn […]<note type="critical">Lesung unklar</note>.</p>
+<p>80 gulden kompt har vonn der <persName ref="Guggerli, Elsa">Gugerlin</persName>.</p>
+<p rend="margin-top">Unnd was hierjnn nach abrichtung der verzeichneten posten<note type="critical">Folgt gestrichen: zal</note> uberig, ghordt jnn dz seckelampt, ann der Gugerlin gůt deß der […]<note type="critical">Hier bricht der Text ab.</note>.</p>
+<p rend="margin-top">Ist alles bestädt unnd sol der brief inn spital genommen unnd was noch zu bezalen uß dem seckelampt abgricht werden. Actum mentags den 9ten aprilis a[nn]o 82 pr[aese]nt[ibus] herr <persName ref="GND_142913324">Bräm</persName> unnd beid räth.<note type="critical">Der Beschluss befindet sich unterhalb der Aufschrift.</note></p>
+</div>
+    </body>
+  </text>
+</TEI>

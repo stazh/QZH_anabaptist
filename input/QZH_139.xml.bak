@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_139</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355013">StAZH B IV 13, fol. 140r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Beat Bachofen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1542-10-25"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1542-10-25"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 25</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern frundtlichen, sunders<note type="editorial"> besonders</note> geneygten willen unnd alles gůts zuvor. Frommer unnd wyßer, jnnsunders getrüwer, lieber burger unnd vogt, unns kompt vil clegt von der <persName ref="Müller, Frau">Müllerin</persName> zů <placeName ref="LOC_47.56064_8.49635">Glattfelden</placeName>, die vor ettwa meer jnn unnser gefangenschafft gewesen, wie das sy für unnd für jnn jrer<note type="critical">Folgt gestrichen: hardtnägkigkeyt unnd jrrunng</note> jrrung unnd widerspänigkeyt deß widertouffs<note type="critical">korrigiert, ursprünglich: touffs</note> halb beharre unnd<note type="critical">Folgt gestrichen: j</note> nun jnn vil jaren nit zůkilchen gangen syge, sunder sich von der gemeynde gottes<note type="critical">Folgt gestrichen: […] der sacramenten</note> unnd den cristenlichen sacramenten<note type="critical">Folgt gestrichen: enndth</note> enndtzühe unnd absündere zů grosßer ergernüß unnd anstoß<note type="critical">Folgt gestrichen: derselben</note> der kilchen gottes, das unns fürer<note type="editorial"> ferner, Id. I, 968.</note> zůgetulden nit gelegen sin kan. Darumb wellist flyß ankeeren<note type="critical"><q>flyß ankeeren</q> am Rand mit Verweiszeichen</note> zum stillesten, du magst nach jr stellen unnd sy fängklich unns überanndtwurten, mit jren zehanndlen, das jr verschulden unnd die nottdurfft erforderen wirt. Daran thůstu unnser eernstlich meynung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> <note type="critical">Folgt gestrichen: wir wellend von</note>. Uß <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, mittwuchs vor Symonis unnd Jude 1542.</p>
+<p rend="margin-top">Burgermeyster unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem frommenn unnd wysen, unnserem jnnsunders getrüwen, lieben burger unnd vogt zů <placeName ref="LOC_47.57335_8.52607">Eglißow</placeName> Batt Bachofen.<persName ref="Bachofen, Beat"/></p>
+</div>
+    </body>
+  </text>
+</TEI>

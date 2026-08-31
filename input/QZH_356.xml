@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_356</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355056">StAZH B IV 39, fol. 98v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Kaspar Thomann</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1579-08-15"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1579-08-15"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 242</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsernn günstigen geneigten willen unnd alleß gutß zuvor. Fromer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, uff gestrigen abendt sind unnß zwen ­toüf­fer, da der einn <persName ref="Studer, Christian">Christen Studer</persName> unnd der annder <persName ref="Hotz, Hans">Hannß Hotz</persName> heißt<note type="critical">Folgt gestrichen: jne</note>, gefenngklich zugefürt worden. Da wir, alß jrenthalber unnder unnß red gehalten, vernomen, daß du sy beid ald<note type="editorial"> oder</note> joch<note type="editorial"> auch</note> den einenn vor etwaß zytß jnn<note type="critical">Folgt gestrichen: dynen</note> bannden jnn unnserem schloß <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> ouch gehept. Derhalben unnser bevelch ann dich, du wellist unnß bj zeigernn diß [briefs] verstenndigen, waß sollicher ­toüf­feren halber vonn dir gehanndlet, waß sy bekhenndt unnd wellicher gstallt sy verwisen unnd jm<note type="critical">Folgt gestrichen: urfehecht</note> urfechdt schwerenn<note type="critical">Folgt gestrichen: ve</note> ald loben müßenn, gegen jnenn dester baß die gebür wüßen fürzunemenn. Deß soll vonn unnß umb dich jnn gnaden erkhenndt werden. Datum sambstagß den 15ten augustj [an]no 79.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem fromenn, wysenm unnserem besonderß gethrüwen, lieben burger unnd vogt zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> Caspparnn Tomann.</p>
+</div>
+    </body>
+  </text>
+</TEI>

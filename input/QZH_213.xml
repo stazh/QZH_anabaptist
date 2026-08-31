@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_213</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695025">StAZH E I 7.2, Nr. 106</idno>
+          </msIdentifier>
+          <head>Bericht des Rechenschreibers</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1560-01-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1560-01-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 99</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__106__S__1_.tif"/>
+<p>Uff der <persName ref="Streler, N.">Strelen</persName> am <placeName ref="LOC_47.28405_8.91997">Haltberg</placeName> begeren, jnen, den gehorsamen, den hafft<note type="editorial"> Beschlagnahmung, Arrestierung, Id. I, 1055.</note> wider zůentschlachen<note type="editorial"> frei geben, Grimm III, 603f.</note>, so her vogt von <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> von waͤgen jr geschwisterten, die der thoyfferyg anhenngig, über jr gůt gethaan, jnhalt unnd vermög deß gemechdts<note type="editorial"> Vermächtnis, letzwillige Verfügung, Id. IV, 69.</note>, so jr vater sellig nach jres hoffs recht uffgericht etc., jst sollichs von üch, minen heren, für min heren, die rechen herren, zůberatschlagen gwissen. Wann nun dieselben mine heren heren vogt Aͤschers<note type="editorial"> Rudolf Escher <persName ref="Escher, Rudolf">vom Glas</persName></note> von Grüningen darüber gethan schryben, wellichs lutet: Wellicher maasßen eyner das sin vermachen moͤge, gehördt unnd darnebent verstanden, das die gehorsamen mit den ungehorsamen bißhare noch unvertheylt<note type="editorial"> nicht getrennt, Id. XII, 1604.</note> gweßen unnd dieselben zun zytten jren unnderschlouff unnd uffennthalt nach by jnen sůchind, die ouch vyl kynnder habint, welliche kind an jrr vaͤtern ungehorsame kein schuld thragind unnd erst darzů deß gůts nach sag diß gemechts ouch beroupt unnd entsezt sin müsßtind, so ist der genanten miner herenn meynung<note type="critical">In der Vorlage: meynug</note>, das herren <persName ref="Escher, Rudolf">vogt Aͤschern</persName> gan <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> geschryben werde, den hafft<note type="editorial"> Arrest, Beschlagnahmung, Id. II, 1055.</note> nachmaals unufglößt blybenn zelasßen, unnd er mithin erkene, ob die gehorsamen dem bott<note type="editorial"> Gebot</note>, das sy die unngehorsamen nit jnherr gezogen<note type="editorial"> eingeladen</note> ald<note type="editorial"> oder</note> beherberget haben sölltind, gelaͤpt unnd nachganngen. Unnd dann deß so er darüber fynnde, üch (min herren) wider zů berichten unnd zům letsten, das er (der vogt) sin spach<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> uff die ungehorsamen machen unnd, so<note type="editorial"> wenn</note> er sy ankomen<note type="editorial"> antreffen, begegnen, vgl. <bibl><ref target="http://fwb-online.de/go/ankommen.s.3vu_1709323546">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> möge, gefenngklich annemen unnd dann üch, minn heren, deß ouch verstenndigen sölli.</p>
+<p rend="margin-top">Actum den anndern tag jenners anno 1560,</p>
+<p>Rächennschryber</p>
+<pb n="2" facs="E_I_7_2__Nr__106__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__106__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__106__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

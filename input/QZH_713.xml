@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_713</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355163">StAZH E I 7.3, Nr. 110</idno>
+          </msIdentifier>
+          <head>Weitere Verhöre von Jaggli Rüegg und Ulrich Störchli, Urteil gegen Ulrich Störchli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (2 Doppelblätter)</filiation>
+              <filiation type="original"><origDate when="1602-11-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1602-11-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 599</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Jaglj Ruͤggen von Felmiß<placeName ref="Baum, Felmis"/> uß der graffschafft Kyburg<placeName ref="Kyburg"/>, deß teüffers, unnd Ůlrich Störchliß uß dem Turgeuw<placeName ref="Thurgau"/>, so von der teüfferyg abstanden, 2 andtworten<note type="critical">Überschrift auf der Rückseite vor dem Urteil</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__110__S__1_.tif"/>
+<p>Alls her statthalter Ůlinger<note type="editorial"> <persName ref="Ulinger, Hans">Hans Ulinger</persName></note>, m[eister] <persName ref="GND_1089429320">Jacob Bodmer</persName> unnd m[eister] <persName ref="Bertschinger, Hans">Hannß Bertschinger</persName> sampt herren <persName ref="GND_131525115">Marco Beümler</persName> unnd herren <persName ref="GND_116371838">Raphael Eglj</persName> uß üwer (myner gnedigen herren) bevelch widerumb bj Jagli Ruͤggen von Felmiß jnn der pfar <placeName ref="LOC_47.36638_8.79372">Pfefficken</placeName> uß der graffschafft Kyburg unnd Ůlrichen Störchlj von <placeName ref="LOC_47.57599_8.94028">Wellhußen</placeName> bj <placeName ref="LOC_47.55803_8.89636">Frouwenfäld</placeName> uß dem Turgeüw jmm Wellenberg gsyn unnd, weßen sy sich uff daß gesprech, so letstlichen mit jnnen uß heiliger götlicher gschrifft geschächen, unnd waß jnnen wyters anglegen syn möchte, deßelbigen sich zuerkleren, sy vermandt unnd jrer andtwort darüber begert.</p>
+<p>Unnd hat erstlichen <persName ref="Rüegg, Jaggli">Jaglj Ruͤgg</persName> vonn Felmiß uß der graffschafft Kyburg annzeigt, daß er sich dheins<note type="editorial"> keines</note> annderen alß zevor bedacht, dann Christus sage, wer recht thuͤyge unnd gloube, der werde selig<note type="editorial"> Vielleicht Mk 16,16 (Wer da glaubt und getauft wird, der wird selig werden; wer aber nicht glaubt, der wird verdammt werden.)</note>, dann er von den sünden unnd lasternn abgestanden unnd sich jnn ein bůßfertig laben ergeben. Item sich abermalß des bannß erklagt, denn Paulus heißen jnn der kilchen bruchen.<note type="editorial"> 1Kor 5,4</note> Er habe auch nie kein predicanten gesechen, daß euangelium umb sonnst unnd vergebens zepredigen, dan Christus habe zů synen jüngeren unnd apostlen gesprochen: Umb sunst hannd jrs empfangen, umb sonst gebents hin.<note type="editorial"> Mt 10,8</note> Unnd dann letstlichen die trunckenheit angezogen unnd wie ein sünder denn annderen recht khönne lehren.</p>
+<p>Daruff die herren glerten geandtwurtet, daß er von sündt abgestannden unnd recht thuͤyge, syge nit unrächt. Ob er aber darfür halte, wann er jnn die predig gange unnd daß wort gots luther unnd rein höre, ob er die bůß nit ouch erlangen möge, dann Paulus zun Philipheren züge am 3. cap[itel]<note type="editorial"> Phil 3,6</note>, daß er unnstrefflich gsyn syge und aber nüdtestminder die erkantnus Christj nit ghept. <pb n="2" facs="E_I_7_3__Nr__110__S__2_.tif"/> Dann es möchte ein poͤpstler<note type="critical">korrigiert, ursprünglich: poͤpster</note> ouch yferen. Volgte drumb nit, daß er noch der grechtigkeit yferte. Darumb stannde geschriben, sölliche lüth habind den yfer gots, aber nit nach der gerechtigkeit<note type="editorial"> Röm 10,2</note>, sonnder darvon abgestanden unnd jnnen ein eigne grechtigkeit erwelt. Unnd Paulus jm 11. cap[itel]<note type="editorial"> 2Kor 11,14</note>, das sich der ungleübig jn ein engel des liechts vergstalten khönne. Man muͤße aber sechen, ob daß uß dem rechten glouben unnd uß dem grund gottes wort gescheche. Dann sy, die predicanten, das wort gots luther unnd rein verkündind und predigind, einem jeden zgännd unnd znänd; unnd werdind zů jeden zyten mängel jnn der cilchen syn.</p>
+<p>Des bannß halben habind sy vormalß erwißen, daß die gmeind zů <placeName ref="LOC_37.94007_22.9513">Corinto</placeName> ein kilchen Christj unnd von <persName ref="GND_118641549">Paulo</persName> geplantzet gwäßen unnd Paulus am 12. unnd 13. cap[itel] zun Corinteren geschriben<note type="editorial"> 2Kor 12,20-13,1</note>, er förcht, wan er zum 3. mall khomme, werdind sy noch nit bůß thann haben, unnd nüdtestminder die gleübigen unnd beruͤfften zů Corinto sich von der sünderen wägen vonn der gmeind nit<note type="critical"><q>nit</q> über der Zeile</note> abgesündert und kein bann nie gehebt. Da aber Christus sage, umbsunst hannd jrs empfangen, umb sunst gebends hin, volge nit darumb daruß, daß die predicanten vergebens<note type="editorial"> unentgeltlich, Id. II, 87.</note> lehren unnd predigen söllind. Dann Paulus spreche, wer dem altar diene, sölle darvon äßen.<note type="editorial"> 1Kor 9,13</note> Item die eltisten lehrer sigind zwifacher ehr wärt<note type="editorial"> 1Tim 5,17</note>, darmit dann verstanden werde die belohnung.</p>
+<p>Daruff er nochmalen by syner teüfferischen meinung beliben und anzeigt, er möge einem jedem woll gonnen, daß er jn unnser kilchen auch möge die bůß erlangen. Er verhoffe aber nit, das ers thun könndte. Die teüffer lehrind unnd predigind doch auch unnd sygind der ober­kheit, jnn dem und<note type="critical">Wort (unnd) auf der folgenden Seite wiederholt</note> <pb n="3" facs="E_I_7_3__Nr__110__S__3_.tif"/> so wyt sy zůgebieten habe, gehorsamm. Er vermeine aber nit, daß dieselbige denn glouben zezwingen gwalt habe, dann ein sölliches Christus syne jünger unnd apostel ouch nit hann.</p>
+<p rend="margin-top">Demnach hat <persName ref="Störchli, Ulrich">Ůlrich Störchlj</persName> uß dem Turgeüw, so vonn syner teüfferischen meinung abstanden, anzeigt, er bätte üch, myn gnedig herren, umb erledigung der gfanngenschafft, da er dann willens, uff denn fruͤling jnn <placeName ref="LOC_49.5_17">Mehrherren</placeName> zů ziehen, wyl man doch anndre teüffer auch gaan laße. Dann er der gschrifft nit sovil bericht, daß er vill andtworten khönne. Er habe aber gehört läßen, daß man sich sönnderen sölle unnd habe sich allermeist diß artigkel halb vonn unnserem glouben jnn die teüfferyg ergeben unnd sich von einem frömbden teüffer zů <placeName ref="LOC_47.566865_8.799417">Hirten</placeName><note type="editorial"> Herten, Weiler zwischen Altikon und Ellikon an der Thur.</note> jnn der graffschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> annderst<note type="editorial"> zum zweiten Mal, Id. I, 311.</note> touffen laßen. Unnd Christus habe gsagt, einn jedes volck syge syn lyb unnd er daß houpt.<note type="editorial"> Vgl. Eph 4,15f.</note> Wann man aber jnn unnser kilchen zů dem herenn nachtmal gannge, lauffe jederman zuhin unnd wol so bald vill onne bůß, do doch geläsen werde: Gannge hin und sündige nit mehr<note type="editorial"> Joh 8, 11</note>, unnd hierüber ußlegung begärt. Unnd ob schonn er sich widerumb jnn unnßere bekhantnus ergebe unnd nit mit annderen eße unnd truncke, wurde er verachtet werden, darumb dann die gschrifft mälde, wer gotseligclich läben welle, muͤße vervolgung lyden.<note type="editorial"> 2Tim 3,12</note> Item er muͤßte etwan jnn einen krieg ziehen, do aber Christus gesprochen, daß er synen find lieben sölle.<note type="editorial"> Mt 5,44</note></p>
+<p>Darüber die herren predicanten jmme mit dißem bscheid begegnet: Paulus sage zun Corinteren am 2. cap.<note type="editorial"> 2Kor 6,14-16</note>: Ziechend nit an einem frömbden joch. Item: Haben nit theil mit denn götzen. Derhalben wan er unnder dem joch deß papstumbs gsin were, hette er sich woll mögen darvon; aber von dem, so <pb n="4" facs="E_I_7_3__Nr__110__S__4_.tif"/> mit dem wort gots übereinstimpt, nit absönderenn<note type="critical">Wort (absönderenn) über der Zeile.</note>. Alß dann des bannß halb Matheij am 18.<note type="critical"><q>18</q> am Rand mit Verweiszeichen</note> cap. geschriben stadt: Wann dijn brůder wider dich gsündiget hat, so straff jn allein, unnd wan er dir loset, so hast du jnn gewunnen. Thůt ers aber nit, so nim einen oder 2 zů dir, damit jm mund zweyer oder drigen zügen daß wort warhafftig syge, unnd wann er die ouch nit hören welle, sölle man es dann erst der gmeind anzeigen. Nimpt er dann die ouch nit an, alß dann sölle man jnn für ein heid unnd publicanus<note type="editorial"> Zöllner</note> halten.<note type="editorial"> Mt 18,15-17.</note> Unnd stannde nit geschriben, wie sy (die teüffer) meinind, so bald einer sündige, sölle man den nechsten einen jnn den bann thůn. Also habind wir ouch die geistliche unnd weltliche straff. Da aber sich Christus daß houpt unnd unnß den lyb nämpt, habe er ein exempel ann dem weitzen und korn unnd den sprüwel<note type="editorial"> Spreu</note>, dann guts und bößs mit einanderen uffwachst<note type="editorial"> Mt 13,24-29</note> unnd ob schon die sprüwel by dem korn, sigind sy doch nit den lyb. Also ouch<note type="critical">Folgt gestrichen: ouch</note> die gotlosen, ob sy schon ußerlich jnn der kilchen, sygind sy doch nit jnnerlich daryn, untzit<note type="editorial"> bis, Id. I, 360.</note> dieselbigen alß die gleübigen ouch beruͤfft werdind.</p>
+<p>Deß herren nachtmalß halben, wann man es nach der jnnsatzung Christj begange, werde doch allemal noch der lehr Paulj der gmeind vorgesprochen, daß ein jeder sich selbs probiere, damit er jm nit selbs die verdamnuß uff sich richte. Unnd ob dann schon einer jm unglauben unnd onne bůß daß<note type="critical">korrigiert, ursprünglich: deß</note> herren nachtmal empfache, werde er an jm selbs unnd nit einem anderen schuldig. Ouch äße unnd trincke er einem andern nit, sonder jmme selbs die verdamnuß.<note type="editorial"> 1. Kor. 11,28f.</note> Ouch sölle jm einer selbs die gerechtigkeit nit zumäßen unnd nit von einem anderen urtheilen oder richten, damit er nit selbs gerichtet werde, dann gott der almächtig den armen rüwenden sünder nit mehr 7 mal, sonnder 77 mal uffrichten khönne.<note type="editorial"> Vgl. Mt. 18,22</note> <pb n="5" facs="E_I_7_3__Nr__110__S__5_.tif"/> Gottes wort gange ouch uß jnn zwen wäg, der ein jnn denn gschmack des labens, der annder jn den gschmack des tods<note type="editorial"> 2. Kor. 2,16.</note>. So er dann recht thüyge, werde er nit ein glid deß ungleübigen, sonder deß gleübigen, möge ouch woll dem ungleübigen ein gůt exempel vortragen; unnd als er dan schuldig, denn selben jm glauben ouch ufrichten unnd erbuwen.</p>
+<p>Nach denen unnd annderen uß heiliger götlicher gschrifft mehr on jnne gethane vermanung hat er sich anerboten, von sinem teüfferischen glauben abzestan, jnn die kilchen mit anderen gleübigen zgaan und miner ersammen ober­kheit gehorsamm zesyn. Doch möge er nit wüßen, wie es gstalt mit dem eydschwur habe, unnd begärt, deßhalb hierumb verständiget zewerden.</p>
+<pb n="6" facs="E_I_7_3__Nr__110__S__6_.tif"/>
+<pb n="7" facs="E_I_7_3__Nr__110__S__7_.tif"/>
+<pb n="8" facs="E_I_7_3__Nr__110__S__8_.tif"/>
+<p rend="margin-top">[Urteil]: Diewyl <persName ref="Störchli, Ulrich">diser Störchlj</persName> von der töüfferig abzestan, die predigen zebesůchen und uff den früling uß dem land zezüchen, sich anerbieth, sol er der gfangenschafft ledig syn und anloben, dz er disem synem versprechen stath thůn welle. Und soll synthalb dem vogt zů Kyburg gschriben werden, dz er spech<note type="editorial"> Nachforschung, Id. X, 76.</note> und achtung uff jn geben laße, ob er zur predig gange. So er unghorsamm, sol er jn wider allhar schiken, jnne synem verdienen nach zebüßen. Der costen jst jmme dißmaln uß gnaden gschenkt, doch sol der rechenschryber den uß anderm töüffergůt bezalen. Actum sambstags den 20ten novembris<note type="critical">In der Vorlage: 9bris</note> a[nn]o 1602 coram senatu.</p>
+</div>
+    </body>
+  </text>
+</TEI>

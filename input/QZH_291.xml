@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_291</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355041">StAZH B IV 33, fol. 52v-53r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Matthias Schmid</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1573-01-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1573-01-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 177</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsernn günnstigen geneigen willenn unnd alles gutß zuvor. Frommer, wyser, besonnders gethrüwer, lieber burger unnd vogt, wir sinnd bericht, wie daß der […]<note type="critical">Lesung unklar</note> Fridlj Brem<note type="critical">korrigiert, ursprünglich: <persName ref="Bräm, Fridli">Bremen</persName></note> von <placeName ref="LOC_47.49041_8.43694">Sünnicken</placeName><note type="critical"><q>Brem von Sünnicken</q> am Rand</note>, so wir behaffter ­toüf­ferischer sect halber ein lannge zyt jnn unnser gefängknuß jnn unnser statt<note type="critical"><q>jnn unnser statt</q> am Rand, in der Zeile gestrichen: dem Wellenberg</note> liggen gehept, mit tod abganngen unnd uß diser zyt verschieden syge. Unnd diewyl dann<note type="critical">Folgt gestrichen: geme</note> uff gemeltem<note type="editorial"> erwähntem</note> Fridlj, die zyt er also jnn banndenn gewesenn, zwenn unnd fünnffzig guldinn unnser warunng zerunng unnd annderen uncosten ganngen<note type="critical"><q>zerunng unnd annderen uncosten ganngen</q> über der Zeile, in der Zeile gestrichen: verzert</note>, weliche unnserem burger unnd geordnneten thurnnhüter <persName ref="Grebel, Hans">Hannsenn Grebel</persName>, so die redlich unnd dhainnß<note type="editorial"> keines</note> wegs uberflüßiger wyß für jnne ußgeben, noch unnbezalt usstannd, so jst unnser bevelch ann dich, du wellist angenntz<note type="editorial"> sofort, Id. II, 19.</note> verschaffen, darob unnd darann synn, damit gemeltem unnserem turnnhütter diserenn, synn usstennde summa, die zwenn unnd fünnffzig guldin, von unnd uß genemptß Fridliß vatterß seligen verlaßennschafft genommen unnd jmme zugestelt unnd überanntwortet werdint. Darann gschicht unnsers gefallen, deß wir umb dich jnn gnadenn zuerkhennen geneigt sinnd. Datum menntags den 26. januarij anno etc. 73.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
+<p rend="margin-top">Dem frommen, wysenn unnserm besonnders gethrüwen, liebenn burger unnd vogt zu <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName> Mathys Schmiden</p>
+</div>
+    </body>
+  </text>
+</TEI>

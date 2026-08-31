@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_326</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355047">StAZH B IV 36, fol. 186</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Lux Escher</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1576-08-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1576-08-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 212</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren günstigen geneigten willenn unnd alles guts zuvor. Fromer, vester, besonnderß gethrüwer, lieber burger unnd vogt. Es ligt zu <placeName ref="LOC_47.51036_8.68333">Wülflingen</placeName> uff dem schloß ein gefanngener<note type="editorial"> David Falck</note>, so vonn sannt <placeName ref="LOC_47.42214_9.37554">Gallen</placeName> pürtig unnd ­toüf­ferischer sect ein rechter redlifürer unnd ufwigler jst. Wellichenn wir, sidtmalen er vor jarenn, als wir jnne jnn unser gefengknuß gehept<note type="critical"><q>als wir jnne jnn unser gefengknuß gehept</q> am Rand mit Verweiszeichen</note>, unnsere lannd zemyden nach ­toüf­ferischer ard mit dem wortlj ja daselbig aber ann eydeßstatt versprochen unnd aber daßelbig nit gehalten, sonnder erst bj kurzen tagen<note type="critical"><q>erst bj kurzen tagen</q> am Rand mit Verweiszeichen</note> jnn dynner amptsverwaltung unnd wülflinger herrschafft<note type="editorial"> Die Herrschaft Wülflingen grenzte an die Landvogtei Kyburg.</note> ein<note type="critical">Folgt gestrichen: f</note> vile volckß uff syn verfürisch wesenn gebracht, uff der grichts herren zu Wülfflingen bewilligen zu unnseren hanndenn zenemen bedacht. Derhalbenn unnser meinung<note type="editorial"> Beschluss, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, daß du unnd Sebastion Steiner als der eltist unnder denenn zu Wülflingen uch eineß ortß unnd stunnd<note type="critical"><q>unnd stunnd</q> am Rand mit Verweiszeichen</note>, alda du durch dyne verordneten jnn, den gefanngnen, empfachenn lasen<note type="critical"><q>lasen</q> (Lesung unsicher) über der Zeile</note> könnist, verglychen<note type="editorial"> sich verständigen, einigen, Id. II, 601.</note>. So wirt er, Steiner, jnne, den gefanngen, durch die synen von dem schloß Wülfflingen biß ann die ußerist grenzen wülflingischer herrschafft füeren unnd denselben dynem bevelchßhaberen uberlifern, wie du dann uß unnserem jme uberschickten schryben zuvernemen. Unnd so die unsern ernempten gefanngen bey jrenn hannden, sollen sy jnne wol bewaren unnd uff der stett alhar jnn unnser statt jnn unnser gefengknus den <placeName ref="LOC_47.368744_8.542639">Wellennberg</placeName> fürenn, dann wir gegenn jmme jrem wol verschulden nach zehanndlen wüßinnd. Daran beschicht unnsers gefallen, so wir umb dich jnn gnaden zuerkhennen geneigt sinnd. Datum mentagß den 27ten augustj a[nn]o 76.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
+<p rend="margin-top">Dem fromen, vestenn, unnserem besonnderß gethrüwen, lieben burger unnd vogt zu Kyburg Hannß Luxen Eschern.</p>
+</div>
+    </body>
+  </text>
+</TEI>

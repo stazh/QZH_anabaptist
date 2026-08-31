@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_427</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355216">StAZH E I 7.3, Nr. 3</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Rudolf Paur</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1585-02-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-02-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 313</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__3__S__1_.tif"/>
+<p>Unnßeren günstigen geneigten willen unnd alles gůts zůvor. Fromer, wyßer, besonnders gethrüwer, lieber burger unnd vogt, unns langt für gloubhafft an<note type="editorial"> anlangen: zugetragen werden, als Kunde zukommen, Id. III, 1330.</note>, wie das der verfürischen thoüferischen sect an etlichen orten dyner amptsverwalltung so offentlichen platz geben werde, das sy sich disputierens anmaaßen dörffen. Doran zwaren<note type="editorial"> fürwahr, tatsächlich, Id. XVI, 800.</note> wir schlechts<note type="editorial"> wenig, Id. IX, 61.</note> gfallen empfangen, sonnders vil meer geachtet, wo dir sölliche personen verleidet<note type="editorial"> angeben, verzeigen, Id. III, 1087.</note> ald<note type="editorial"> oder</note> sonnst vernemmist, das du (vermög unnßerer ußgangnen mandathen) gestrax zů jnnen<note type="critical">Folgt gestrichen: gry</note> hettist lasßen gryfen unnd unns fengklichen zůgeschickt. Unnd damit nun wir söllicher unrrüwigen unnd ufrürischen lüthen wider abkomind, so ist hiemit<note type="critical"><q>unnd damit … ist hiemit</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: derhalben nachmalen</note> unnßer will unnd meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> an dich unnd bevelchend<note type="critical">Folgt gestrichen: hiemit</note> dir mit allem ernst, das du angentz<note type="editorial"> sofort, Id. II, 19.</note> unnd unverzogenlich uffs aller stillist unnd jnn höchster geheimb uff alle die jhenigen, so sich der thoüfferischen leer undernemmend, allenthalben jnn dyner amptsverwalltung, da aber die by den herren predicanten<note type="critical">Folgt gestrichen: wer dieselbig</note> zů <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> unnd Knonouw<note type="critical">Folgt gestrichen: al</note>, wer dieselben<note type="critical">Folgt gestrichen: all</note> sygind, besten bricht unnd bescheid überkommen<note type="critical"><q>aber – da die by den herren predicanten … bescheid überkommen</q> am Rand mit Verweiszeichen</note>, spech unnd khondtschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> haben<note type="critical">Folgt gestrichen: lasßen</note>, unnd wo sy zůbetretten<note type="editorial"> antreffen, Id. XIV, 1486.</note>, dieselben gefengklichen annemmen unnd unns wol bewarth zůfüren lasßen söllist, unns gegen jnnen nach gebür wüßen zůverhallten. Ann dem bewyßest du unns ein wolgefallenn, so wir umb dich jnn gnaden zůerkhennen geneigt sind. Datum sambßtags den 20ten hornungs anno 85.</p>
+<p rend="margin-top">B[urgermeister] u[nd] r[at] d[er] st[adt] Z[ürich]</p>
+<p rend="margin-top">Dem frommen, wyßen, unnßerem besonders gethrüwen, lieben burger unnd vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> Rudolf Puren.</p>
+<pb n="2" facs="E_I_7_3__Nr__3__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__3__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__3__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

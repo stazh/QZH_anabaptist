@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_268</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355031">StAZH B IV 25, fol 73v-74r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Holzhalb</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1568-08-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1568-08-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 154</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">An vogt zů Gruͤningen<placeName ref="Grüningen"/></head> <p>Getrüwer, liber burger und vogt. Mitt was anwtort dir etliche<note type="critical">Folgt gestrichen: diner a</note> under diner amptsverwaltung sesßhaft, so<note type="critical"><q>so</q> am Rand, in der Zeile gestrichen: und</note> ­toüf­ferischer sect anhengig, uff dinen gegen jnen volstreckten bevelch begegnet und was ungehorsame by den andern jren mittgnosßen jst<note type="critical"><q>und was ungehorsame … jst</q> am Rand mit Verweiszeichen</note>, das habent wir jnn dinem schryben der lenge nach verstanden unnd will uns jr weßen und hertnäckige je lenger je mynder gfallen und<note type="critical">Folgt gestrichen: zů</note> zedulden syn. Dann<note type="critical">Folgt gestrichen: wir</note> uns noch unvergeßen, was uß jrem leben und leer zun zyten gevolget. Unnd diewyl uß<note type="critical">Folgt gestrichen: uß jr</note> <persName ref="Wagner, Hans">Hannsen Wagners</persName> jres leerers (so ein frömbder), ouch <persName ref="Peter, Hans">Hansen Peters</persName> deß sennen und <persName ref="Walder, Heini">Heinj Walder</persName> gegebnen bscheid dhein<note type="editorial"> kein</note> abstaand<note type="critical">korrigiert, ursprünglich: abstaan</note> jren ungehorsame zů vermercken, sonders das sy mit jren<note type="critical"><q>jren</q> über der Zeile</note> ungegründten disputationibuß jr frombkeit zů verkluͤgen understandt, ja so frefen<note type="editorial"> dreist, unverschämt, Id. I, 1286.</note>, das sy dörffend ein eigne kilchen begeren, zů dem zwo personen under jnen, so 15 jar<note type="critical">korrigiert, ursprünglich: jars</note> by ein andern one brüchlicher bestetigung jres eestandts gehuset<note type="critical">Folgt gestrichen: will uns</note>, könnend wir zů beschirmung unserer christenlichen<note type="critical"><q>christenlichen</q> am Rand mit Verweiszeichen</note> satzung[en]<note type="critical">Infolge Bindung nicht lesbar</note> und mandathen nitt fürgaan, jnn der sach nach erhoüschenden notturfft zehandlen, unnd bevelchen dir hieruf ernschtlich, das du zů gedachtem Wagnern, Petern und Waldern unnd allen anderen redlinfüreren<note type="critical"><q>und allen anderen redlinfüreren</q> am Rand mit Verweiszeichen; folgt am Rand gestrichen: als die rädlifürer</note>, ouch den zweygen, so jren eestand noch nit (jnhalt unserer christenlicher ordnung) bestetiget, angentz<note type="editorial"> sofort, Id. II, 19.</note> und jnn höchster stille griffen und sy dir gen Gruͤningen jnn die gfengknuß zů fuͤren lasßist. Und so bald<note type="critical"><q>bald</q> über der Zeile</note> sy dir überantwort sind, du uns demnach desselbigen berichten, darüber wir dir unsern ferern entschlusß zuͦ<note type="critical">Folgt gestrichen: komen</note> senden<note type="critical"><q>darüber wir … senden</q> am Rand mit Verweiszeichen</note>. Unnd wiewol jm 25. oder 27. jaren etliche ­toüf­fer uß unser herrschafft Gruͤningen uß der gfengknuß daselbs uns alher überschickt worden, mögend wir doch<note type="critical">Folgt gestrichen: nitt wüssen</note> uns umb sovil nitt mer erjnneren, mit was wyß und masßen dasselbig beschechen syge, jedoch achten wir, das uß den schryben, so vogt Bergern<note type="editorial"> Jörg Berger (gest. 1533), vgl. Doris Klee, Konflikte kommunizieren: Die Briefe des Grüninger Landvogts Jörg Berger an den Zürcher Rat (1514–1529), Zürich 2006.</note> seligen von uns<note type="critical"><q>uns</q> am Rand</note> zůkommen, oder jnn dem bůch, darjn er was eehaffts<note type="editorial"> rechtsgültig, Id. I, 7.</note> <note type="critical">Folgt gestrichen: vech</note> vergangnen<note type="editorial"> vor sich gehen, sich ereignen, Id. II, 27.</note> mit eigner hand verzeichnet und hinder dir ligt, zů erfaren sye. Derhalben solt du dich darjnn mit vlys ersehen<note type="critical">Folgt gestrichen: und was du</note> und deß, so darjnn diser sach halb begriffen, usschriben<note type="editorial"> ein Schriftstück kopieren, vgl. <hl to="http://fwb-online.de/go/ausschreiben.s.3vu_1709468475"><Hyperlink>http://fwb-online.de/go/ausschreiben.s.3vu_1709468475</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> unnd uns zůschicken, damitt nach ordenlichem bruch<note type="critical">Folgt gestrichen: herjnne gehandlet</note> und mit dapferkeit zum schräcken den andern hierjnne gehandlet werde. Dann wir uß obangeregtem dinem schryben wol gspürt<note type="critical">Folgt gestrichen: mit</note>, was<note type="critical">Folgt gestrichen: empsiger</note> emptziger<note type="editorial"> fortwährend, dauerhaft, vgl. <hl to="http://fwb-online.de/go/emsig.s.4adj_1709317162"><Hyperlink>http://fwb-online.de/go/emsig.s.4adj_1709317162</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> underhandlung und reden du mit jnen gebrucht habst.</p>
+<p>[…]<note type="editorial"> Es folgt eine Anweisung im Zusammenhang mit dem Streit zwischen Marx Sulzer und Cleinheini Strehler.</note> Datum sambstags den 4ten augustj anno etc. 68<note type="critical">Folgt gestrichen: p[raese]nt[ibus]</note></p>
+<p rend="margin-top">B[urgermeister] u[nd] r[at] d[er] st[att] Z[ürich]<placeName ref="Zürich"/>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

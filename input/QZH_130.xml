@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_130</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=685204">StAZH E I 7.2, Nr. 89</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Kofel</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1535-12-11"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1535-12-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 16</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__89__S__1_.tif"/>
+<p><persName ref="Kofel, Hans oder bůb">Bůb Kofel</persName> seyt, das er yetz ungfarlich by eynliff<note type="editorial"> elf, Id. I, 283.</note> jaren von <persName ref="Bosshart, Marx">Marx Bosßharten</persName> von <placeName ref="LOC_47.34326_8.5947">Zollikon</placeName> teufft syge. Er habe aber nyemannt toufft, noch nye an keyner versamlung predgt ald<note type="editorial"> oder</note> gelert, sunder wol ettwa, wo er gwercht<note type="critical">Folgt gestrichen: der</note>, das hußvölcklj allenhalb<note type="critical"><q>allenhalb</q> über der Zeile</note> vom bösen zum guten zestand gewisen. Sunst beharrt er uff synem touff unnd andere synen jrrigen meynungen, also das die kynd, vor und ee sy gloubint, nit söllent toufft werden<note type="critical"><q>unnd andere … söllent toufft werden</q> am Rand mit Verweiszeichen</note>, und will nit zulassen<note type="editorial"> zugeben</note>, das die kinndli den heyligen geyst habint ald<note type="editorial"> oder</note> das eyn crist, der<note type="critical">Folgt gestrichen: eyn ob</note> mit sünden behafft, eyn oberer syn und das schwert bruchen möge.</p>
+<p rend="margin-top">[Urteil:] Ward uff der toufferen urfechd mit deren fuͤgen leedig gelasßen, das er fünf pfund zebůß, zůsampt allen costen hinn und dausßen uff jn gangen, geben und an der cantzel morn offennlich sagen und bekennen sölle, das er onrecht gehan und gejrt habe. Und ist dem vogt gschriben, uffsechen uff jn zehan.<note type="editorial"> Vgl. die nachfolgende Nummer.</note> Kommpt er wider, so<note type="critical">Folgt gestrichen: wl</note> wil man jm sin lon darumb geben, das er es nimen<note type="editorial"> nicht mehr</note> thůt. Actum sampsta[g]s nach Nicolaj anno etc. 1535 p[raese]nt[ibus] herr <persName ref="GND_143673416">Walder</persName><note type="editorial"> Heinrich Walder</note> und beyd räth.</p>
+<p rend="margin-top">Stattschryber Zürich</p>
+<pb n="2" facs="E_I_7_2__Nr__89__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__89__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__89__S__4_.tif"/>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Zu Hans oder bůb Kofel vgl. QGTS 1, S. 373, Nr. 363.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_688</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355154">StAZH E I 7.3, Nr. 102</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1602-01-11"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1602-01-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 574</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__102__S__1_.tif"/>
+<p>Edlen, eerenvesten, frommen, fürsichtigen, eersammen unnd wyßen, e. v. unnd e. w[yßheit] seyen myn unnderthenig unnd geflißen diennst jnn aller schuldigen pflicht unnd gehorsamme ieder zyth zůvor. Herr burgermeister, jnnsonders gnedig, günstig unnd gebiettent herren, als ich unlanng hievor gschäfften halb zů <placeName ref="LOC_47.25828_8.8655">Rüttj</placeName> gweßen, hab ich die herren pfarrer von <placeName ref="LOC_47.3377_8.87216">Bärentschwyl</placeName>, <placeName ref="LOC_47.33663_8.94127">Vischenthal</placeName> und <placeName ref="LOC_47.28706_8.92092">Wald</placeName> sampt dem diacon (die ouch alda zethůn ghept) daselbst angetroffen. Die haben mir anzeigt, wiewol sy eüwer (myner gnedigen herren) jmm truck unnd sonst ußganngen ­toüf­fer mandath<note type="editorial"> Nr. 561.</note> uff den cantzlen verläßen, so habe doch von den ­toüf­fern kein ghorsamme ervolgen wöllen, sonnder farrind jemmerzů jnn jrer halßstarrige unnd kyb<note type="editorial"> Zank, Streit, Id. III, 106.</note> hartneckiger wyß für<note type="editorial"> fort</note>, allso das zůbesorgen, die böß schädlich sect (leider) mehr zů- dann abnemmen wurde etc. Unnd ob glych wol daruf jnnen die bestimpt bůß von den weiblen ervorderet worden, habind sy joch<note type="editorial"> doch</note> jnnen darüber gar schlechten bscheid geben, unnd mancherlej spitzlj<note type="editorial"> höhnische Äusserung, Id. X, 687f.</note> gschoßen, ouch unnder annderm gemeldet, jr (myn gnedig herrn) manglind aber<note type="editorial"> Interjektion, Verwunderung oder Missfallen ausdrückend, Id. I, 41.</note> gelt. Doch so die jnnen predicanten gebind, wie die heilligen apostel gweßen seyend, als dann wölten sy gern auch zuͦ jren predigen gan. Sonnst werde man sy ganntz unnd gar nit jnn die kilchen bringen, ouch wöllind sy keins wegs nit <pb n="2" facs="E_I_7_3__Nr__102__S__2_.tif"/> uß dem lannd. So man fůg unnd recht zů jrem lyb und gůt habe, sölle man es jnnen nemmen. Unnd vil annders mehr derglychen, wie mir dann der pfarrer zů Berentschwyl sidhero jrenthalb zůgschriben unnd jr, myn gnedig herrn, jnn synem schryben<note type="editorial"> Nr. 571.</note> hiebyligende zůvernemmen haben. So denne hab ich den unndervogt alhie jnn das <placeName ref="LOC_47.33663_8.94127">Vischenthal</placeName> geschickt, das er luth eüwer (myner gnedigen herrn) bevelch erkunndige, wie <persName ref="Schmid, Heini">Heinj Schmiden</persName> deß ­toüf­fers daselbst sachen beschaffen. Da ist jmm anzeigt worden, wie das er sampt synem eewyb, so ouch ­toüf­ferischer sect, hinweg uß dem lanndt gezogen und keine kinnder habe unnd louffe sich syn hab unnd gůt (wölche ich hievor alles rechtlich verbietten<note type="editorial"> beschlagnahmen, sequestrieren, Id. IV, 1874.</note> laßen) ungevar jnn die ein tußent guldin an. Ouch seyen syn (Heinj Schmidts) brůdern der meinung, daß söllich gůt jnnen zůvolgen sölle, denn jr vatter sellig geordnet, so einer oder mehr unnder jnnen unghorsamm, daß alsdann desselben theil den anndern brůdern zůdiennen<note type="editorial"> zukommen, zufallen, Id. XIII, 190f.</note> sölle etc. Haruf so gelanngt an eüwer, u. und e. w., myn unnder­thennig hochflyßig pitt, die wöllen mich verstenndigen unnd anordnung geben, wie ich mich jnn söllichen sachen fehrners unnd ouch gegen den ­toüf­fern jmm hof <placeName ref="LOC_47.28706_8.92092">Wald</placeName> (wyl dieselben mehrtheils wybspersonen unnd jre eemenner sampt <pb n="3" facs="E_I_7_3__Nr__102__S__3_.tif"/> den kinnden zum theil gehorsamm unnd die predigen besůchend) verhalten unnd gegen jnnen fürnemmen sölle, da dann demselbigen mit bestem flyß nachkommen werden sol. Eüch, mynen gnedigen herrn, hiemit mich, unns alle aber dem gnedigen gott jnn synen schirmm bevelhende. Dattum den 11. jenner anno 1602.</p>
+<p rend="margin-top">E.v. und e. w. undertheniger ghorsammer burger und dienner</p>
+<p>Jacob Zur Eich, vogt der herrschafft <placeName ref="LOC_47.28333_8.75">Grüeningen</placeName></p>
+<pb n="4" facs="E_I_7_3__Nr__102__S__4_.tif"/>
+<p rend="margin-top">Den edlen, eerenvesten, frommen, fürsichtigen, eersammen unnd wyßen herrn burgermeister unnd rath der statt Zürich, mynen gnedigen, günstigen unnd gebiettenden lieben herren</p>
+</div>
+    </body>
+  </text>
+</TEI>

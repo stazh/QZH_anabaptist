@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_366</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696632">StAZH E I 7.2, Nr. 148</idno>
+          </msIdentifier>
+          <head>Werner Schodoler an Jos Rubli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1581-10-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1581-10-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 252</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__148__S__1_.tif"/>
+<p>Frommer, fürnemmer unnd wiser, besonnders fründtlicher, eerender, lieber herr unnd alls průder, min willig dienst, grůß, vil liebs unnd gůtz mit erpyetung aller eeren zůvor etc. unnd daby zewüsßen, das vor ettwas wuchen, usß miner g[nedigen] herren dorff <placeName ref="LOC_47.35385_8.38375">Niderbergken</placeName><note type="editorial"> Berikon</note> ettliche personen jnn der nachtt ufgewüdttscht<note type="editorial"> aufbrechen, sich aufmachen, Id. XVI, 2359.</note> unnd hinab jnn das Merheren <placeName ref="LOC_49.5_17">lannd</placeName> gezogen sindt. Und diewyl dann unnsere gnedigen herren, die eydtgnossen, sollichs für ein malefitzische<note type="editorial"> Dem Hochgericht verfallen, Id. IV, 167.</note> sach hallten unnd das malefitz von Niderbergken der graffschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> zůgehördt, so haben min g[nedige] heren sollichs dem jetzigen herren lanndtvogten Hässin<note type="editorial"> <persName ref="Hässi, Fridolin">Fridolin Hässi</persName></note> zů Baden kundt gethan, unnd derselb alls balld daruff jr aller gůtt arrestyeren<note type="editorial"> beschlagnahmen, Id. I, 386.</note> unnd durch mich jnn schrifft verfassen lassen. Wann aber der mertheyl gůtt, so sich gar nach bi den 2000 g[ulden] trifft, zů Oberbergken, zů <placeName ref="LOC_47.33713_8.39518">Oberwyl</placeName> uff <placeName ref="LOC_47.32335_8.44119">Yflisperg</placeName><note type="editorial"> Oberwil und Islisberg unterstanden hochgerichtlich der Stadt Zürich.</note> unnd jnn dem <placeName ref="LOC_47.31768368701712_8.401017170545497">Kelleramptte</placeName>  umbhin glegen jst, unnd an selben ennden (ja nach minem schlechten<note type="editorial"> einfachen</note> verstand) von wegen der hochen oberkeyt das malefitz üweren und minen gnedigen herren von <placeName ref="LOC_47.36667_8.55">Zürich</placeName> zestraffen zůstad, so hatt es mich an mine herren wunder gnan, das si nit minen gnedigen herren von Zürich oder üwerem herren lanndtvogt Tumyßen<note type="editorial"> <persName ref="Thumysen, Junghans">Junghans Thumysen</persName></note> disser sach halb glichfals alls wol unnd nit minder dann dem herren landtvogten zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> zůgeschriben und kundt than hand, doch hab jch nüt dörffen sagen. Mich aber hatt für gůtt angesechen, üch minen eerenden hertzlieben průdern jnn geheym deß schrifftlichen zůberichten, damitt jr üch mit herren landtvogten Tumysen darüber beradtschlagen und destbaß<note type="editorial"> dester bass (nhd. umso besser)</note> darunder zehanndlen wüsßtendt, unnd bin üch beiden herren etc. jnn allem gůttem zedyenen jeder zyt ganntz gůtwillig und urpütig<note type="editorial"> bereit, Id. IV, 1881.</note>, jr wellen mir ouch jne, heren Tumysen, fründtlich gruͤssen und vil liebs und gůtz sagen. Hiemitt uns alle jnn den gnadenrychen schutz und schirm deß höchsten bevelchende. Datum uff sant Gallen tag umb die xij. Stund anno lxxxj.</p>
+<p rend="margin-top">Uwer williger diener und liebhabender brůder</p>
+<p>Wernher Schodoler</p>
+<pb n="2" facs="E_I_7_2__Nr__148__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__148__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__148__S__4_.tif"/>
+<p rend="margin-top">Dem frommen, fürnemmen unnd wysen herren Joß Rublin, lanndtschrybern der herschafft <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>, minem besonderen eerenden, fründtlichen, lieben herren unnd průdernn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

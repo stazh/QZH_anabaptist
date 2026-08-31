@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_424</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=245451">StAZH C III 22, Nr. 151 a</idno>
+          </msIdentifier>
+          <head>Rechnung betreffs Täufergut in Bülach und Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1585-01-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-01-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 310</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Junghannßen Frölich<persName ref="Frölich, Junghans"/> zu Bülach bethreffennde<note type="critical">Aufschrift auf der Rückseite des Dokuments</note></head> <p>Alßdann herr lanndtvogt <persName ref="Gimper, Kaspar">Kaspar Gimpper</persName> unnd meister <persName ref="Wüst, Jakob">Jacob Wüst</persName>, beide obervögt zu Bülach, uß bevelch unnser gnedigen herren von <placeName ref="LOC_47.36667_8.55">Zürich</placeName> des Junghans Frölichs von Bülach (wellicher dann der unrüwigen secte der töüffer anhengig jnn <placeName ref="LOC_49.5_17">Merhern</placeName> gezogen, ouch syn verhürratte schwöster mitfhüren wöllen) schulden unnd hinderlasßenschaft halben ein flyßige nachforschonng gethonn, hat es sich befonnden, das <persName ref="Maag, Hans">Hanns Maag</persName> daselbst, jetzgesagter syner  schwöster eewürtt<note type="editorial"> Ehemann, Id. XVI, 1644.</note>, jme den dritten theill an hernach volgennden stugkh unnd güttern aberkoufft unnd by denselbigen über die sechtzig guldin, so er jme schonn bar erleitt, noch schuldig plybt nammlichenn einhunndertt unnd viertzig guldin Zürich weronng, die er luth zweiger ußgeschnittnen zedlen allso bezallen sol, erstlich uff sannt Verena tag<note type="editorial"> 1. September</note> a[nn]o 85 fünffzig guldin, jtem uff sannt Verena tag a[nn]o 86 aber fünffzig guldin unnd uff Verene a[nn]o 87 die überigen vierzig guldin, doch alles ohne zinß.</p>
+<p rend="margin-top">Unnd sind diß dieselbigen güttere:</p>
+<p>Erstlich ein huß hofstatt<note type="editorial"> Haushofstat: Gebäude mit dem dazugehörigen Hof und Grundstück, vgl. <bibl><ref target="http://fwb-online.de/go/haushofstat.s.1f_1648011577">Frühochdeutsches Wörterbuch</ref></bibl>.</note> zu Bülach jnn der statt unnden an Hanns Sigis huß gelegen, das hat aber er, der Maag, syderhar wideromb verkoufft.</p>
+<p>Demnach ein halb juchart<note type="editorial"> Landmass, Id. III, 8.</note> reben jm Gstügkh<note type="editorial"> Gstückt</note>, stoßt an <persName ref="Kern, Hans">Klouß Kernen</persName> und oben an <persName ref="Kern, Jakob">Jacob Kernen</persName> wyngartten.</p>
+<p>Aber<note type="editorial"> noch</note> ein halb juchart reben jm Schlöüffenberg<note type="editorial"> Schleufenberg</note>, stoßt an <persName ref="Studacher, Heinrich">Heinrich Studacher</persName> unnd unden an <persName ref="Maag, Moritz">Moritz Maagen</persName> wyngarten.</p>
+<p>Unnd drig vierling<note type="editorial"> vierte Teil eines Massganzen (hier Juchart), Id. I, 924.</note> reben ouch jm Schlöüffenberg, stoßend an <persName ref="Roten, Konrad">Kunratt Rotten</persName> und unden an <persName ref="Wysslin (von Bülach)">schnyder Wyßlinns</persName> wyngartten.</p>
+<p>Drig vierling acher jm Infanng<note type="editorial"> Ifang</note> stosßend an <persName ref="Meier, Heini">Heinj Meigers</persName> acher unnd an die gasßen gegen <placeName ref="LOC_47.5075_8.50244">Höri</placeName>.</p>
+<p>Ein halb juchart acher uf berg Kappleten, stoßt an der Wienern acher unnd Äschmoßer weg.</p>
+<p>Annderthalben vierling acher jm unnder weg, stosßennd an <persName ref="Kern, Heini">Heinj Kernen</persName> acher.</p>
+<p>Ein wißlj jnn Wytten wißen<note type="editorial"> Witenwisen</note>, stoßt an <persName ref="Wiener, Klaus">Klouß Wieners</persName> unnd Hanns <persName ref="Wiener, Jakob">Jacob Wienners</persName> wißen.</p>
+<p>Ein wißlj by der Bruder styg, stoßt an <persName ref="Sewer, Heinrich">Heinrich Seewers</persName> und <persName ref="Frölich, Heini">Heinj Frölichs</persName> wißenn.</p>
+<p>Unnd ein gartten vor dem obern thor, jst ein halb stugkh, stoßt an Heinj Kernen unnd an <persName ref="Lampart, Hans">Hanßen Lampartters</persName> garttenn.</p>
+<p>Hierab gadt zůvor jerlichen dritthalb vierttel kernen an fünff ortt zezinßen achtzechen schilling den burgern zu Bülach, denne an houptgutt sibentzig pfund, der kilchen dryßig, zwey pfund dem <persName ref="Sigi, Hans">Hans Sigj</persName> zu <placeName ref="LOC_47.52804_8.54071">Bülach</placeName> und achtzechen pfund <persName ref="Sturm, Hans">Hanns Sturmen</persName> Zürich, hat’s aber syderhar a[b]glößt.</p>
+<p>An dißern güttern allen hat obstennder <persName ref="Frölich, Junghans">Junghans Frölich</persName> allein den dritten theill jnn ansprach<note type="editorial"> rechtlicher Anspruch, Id. X, 722.</note> gehept,  diewyl <persName ref="Frölich, Klaus">Klouß Frölich</persName>, syn vatter sellig, obstennden <persName ref="Maag, Hans">Hanns Maagen</persName> von wegen villfalltiger gutthetten an kindtsstatt angenommen unnd ouch <persName ref="Frölich, Veronika">Veronika Frölichin</persName>, syn (des Maagen) husfrouw, einen theill zeerbenn gehept.</p>
+<p>[Folgt von anderer Hand]: 100 pfund<note type="critical">In der Vorlage: lb</note> hatt Hans Mag gwert uff sand Frenen tag jm 85. jar.</p>
+<p rend="margin-top">Diewyl das noch vorstende hab und gůt hievor zů gmeiner statt handen jnzůziechen als verwürckt erkhennt<note type="editorial"> amtlich festsetzen, Id. III, 313.</note> worden, soll es darby blyben und die obervögt, die hierjnn verzeichnete zalungen ordenlichen jnzüchen. Actum den 30ten januarij anno etc. 85 p[raese]nt[ibus] bůrgermeister Tomman<note type="editorial"> <persName ref="GND_143659413">Kaspar Thomann</persName></note> und beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

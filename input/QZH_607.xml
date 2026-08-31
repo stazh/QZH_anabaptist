@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_607</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355096">StAZH B IV 54, fol. 197v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Landvögte von Kyburg, Knonau, Wädenswil und Regensberg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1597-06-06"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1597-06-06"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 493</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles guts zuvor. Frommer, vester, besonnders gethrüwer, lieber burger und vogt.<note type="critical">Folgt gestrichen: Wir</note> Uns<note type="critical">Folgt gestrichen: sind</note> [langt] gloubwürdig<note type="critical">Folgt gestrichen: bericht</note> an<note type="editorial"> anlangen: als Kunde zukommen, Id. III, 1330.</note>, wie dz sich etliche<note type="critical">Folgt gestrichen: toüff wider­toüf­ferische uffwigle, allenthalben etliche frembde</note> widerthoüfferischen uffwigler uß dem land zu <placeName ref="LOC_49.5_17">Mehrern</placeName> an etlichen orten jnn<note type="critical">Folgt gestrichen: unnder</note> unser landtschafft jnmischen<note type="critical">Folgt gestrichen: sölten</note> söllent unnd jr vorhaben dahin gericht, etliche der unsern<note type="critical">Folgt gestrichen: gan jren jnn jrrigen meynungen und sect sect anh[...] uffzewiglen und hinweg ze sy durch …</note>, so sy anthreffen unnd jn jerer meynung bereden möchtint<note type="critical">Folgt gestrichen: hinweg zu</note>, mit jnen hinweg zevertigen. Diewyl dann uns von oberkeitts wegen hierjnn gepürents jnsechens<note type="editorial"> Vorkehrung, Id. VII, 563.</note> zethund und sölliche<note type="critical">Folgt gestrichen: böse</note> schedliche lüt<note type="critical">Folgt gestrichen: jnn vesten […]</note> uß unserm landt abzeschaffen zustan will, so bevelchent wir dir hiemit erstlich, dz du allenthalben jn dyner amptsverwaltung<note type="critical">Folgt gestrichen: dyn spech</note> jnn geheim dyn spech unnd kundtschaft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> machist und, wover<note type="editorial"> wenn, Id. I, 914.</note> du sölliche widertoufferische uffwigler ald<note type="editorial"> oder</note> ander derglychen gsellen, so uns die unsren abzüchen und zu ungehorsamj zuͦ­bewegen understan […]<note type="critical">mehrere Wörter nicht lesbar</note> jnerfarung bringen, zu denselben solt du den nechsten gryffen<note type="critical">Lesung unsicher</note> und<note type="critical">Folgt gestrichen: uns […]</note> gfenngclichen jnzüchen lasßen […]<note type="critical">Lesung unklar</note>, damit wir alsdan die gepür und nothurfft gegen jnen fürzenemn wyssen und wellent uns […]<note type="critical">Lesung unklar</note> hierjn alls yffers und ernst zu dir versehen und jn gnaden zeerkennen haben. Datum den 6ten jnui a[nn]o 97</p>
+<p rend="margin-top">B[urgermeister] u[nd] r[at] d[er] s[tatt] Z[ürich]</p>
+<p rend="margin-top">Dem fromen, vesten [etc.]. Nota Kyburg unnd Knonow.</p>
+<p>Frommen, wysen, […]<note type="critical">Lesung unklar</note> Wedeschwyl und Regensperg.</p>
+</div>
+    </body>
+  </text>
+</TEI>

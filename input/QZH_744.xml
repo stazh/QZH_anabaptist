@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_744</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355122">StAZH B IV 62, 180r</idno>
+          </msIdentifier>
+          <head>Zusatz für Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1604-12-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1604-12-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 630</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>An <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> noch so vil wyter:</p>
+<p>Sodann, gethrüwer, lieber burger und vogt, jst unns uß jüngst gehaltner sy­no­do etlicher dyner amptsangehörigen halber sonderbare klag fürkhommen, wie du uß byligender kurtzer<note type="critical"><q>kurtzer</q> am Rand</note> verzeichnuß<note type="editorial"> nicht überliefert</note> verstahn unnd darüber, so es von nöten, von den herren predicanten jnn dyner verwaltung wytern bericht empfachen wirst. Da­rumb so wellend wir dich hiemit jnnsonderheit emannet haben, das du die jhennigen, so wider das mandat gehandlet, es syge mit hinweg schicken der jren, jtem beherbergen und jnzüchen<note type="editorial"> aufnehmen, beherbergen, bewirten, Id. XVII, 1002.</note> und jnn ander weg, jnnsonderheit den unghorsamen weibel ernstlich straffist, die jhenigen, so nit jm landt syn sölten, vertrybist und sontst jnn all weg jnn diseren ­toüf­ferischen sachen dyn ansehen bruchist und das, was dir amptshalber zůstadt, getrüwlich<note type="critical"><q>getrüwlich</q> am Rand mit Verweiszeichen</note> ußrichtist<note type="critical">Folgt gestrichen: jnnmaßen, da dyn erntst hierjnnen gspürt werde</note>, deß wellend wir unns gentzlich versehen. Datum den 3ten decembris anno 1604.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+</div>
+    </body>
+  </text>
+</TEI>

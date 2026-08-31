@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_243</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355334">StAZH E II
+              1, S. 566 (Handschrift von Heinrich Bullinger); StAZH E I 2.1, Nr. 18</idno>
+          </msIdentifier>
+          <head>Klage des Dekans von Winterthur über einen Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1566-05-07"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1566-05-07"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 129</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Der dechan imm <placeName ref="LOC_47.49675_8.73417">Wintherdurer</placeName> capittel h[err]
+            <persName ref="GND_1089479298">Christan Wirt</persName> zeigt an, […]<note type="critical">Es folgt eine Klage über den Vogt von Andelfingen.</note>. So lige der
+            <persName ref="Hedinger, Hans">toͤuffer Hedinger</persName> immerdar zů <placeName ref="LOC_47.51036_8.68333">Wüllfflingen</placeName> und mache vil unradt, und werr<note type="editorial"> wehre</note> imm niemandts, wie vil es anzeigt.</p>
+        <p>Sol an unser herren langen.</p></div>
+      <div>
+        <p rend="margin-top">Censura<note type="editorial">Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606864">StAZH  E I 2.1, Nr. 18</ref></bibl>. Ediert sind nur Abschnitte, welche
+            Täufer betreffen.</note></p>
+        <p><placeName ref="LOC_47.53414_8.56841">Rorbis</placeName><note type="editorial"> Rorbas</note>: […]
+            schaffner<note type="editorial"> Verwalter der Johanniterkommende in Bubikon.</note> zů
+            <placeName ref="LOC_47.26648_8.80812">Bubicken</placeName> hat ein senner, so ein großer ­toüf­fer
+          jst, laßt sich jnn mit disputieren, hat jm ouch ein gar gůten knecht verfürt, soll dem
+          herren von Chaam<note type="editorial"> Bernhard von <persName ref="GND_143680382">Cham</persName></note> anzeigt werden, jnn dannen zethůn<note type="editorial">
+            entfernen, Id. XIII, 434.</note>.</p>
+        <p rend="margin-top"><placeName ref="LOC_47.49675_8.73417">Winterthur</placeName>: zwen artigkel. Der
+          erst wider den wůcher […]<note type="editorial"> Folgt eine Klage über die Missachtung des
+            Wuchervebots, insbesondere über Preissteigerungen beim Getreide (<q>früchten</q>).</note>
+            2.<note type="critical"><q>2.</q> am Rand</note> Hedinger<note type="editorial">
+            <persName ref="Hedinger, Hans">Hans Hedinger</persName></note> der ­toüf­fer sich
+          jemerdar zů <placeName ref="LOC_47.51036_8.68333">Wülflingen</placeName>, wo er<note type="critical">Folgt gestrichen: jed</note> jemerdar die lüth vom kilchgang khaan abfüren, underlaßt
+          ers nit.</p>
+        <p rend="margin-top"><placeName ref="LOC_47.47812_8.42878">Regensperger</placeName> cappittel:
+            <persName ref="Ruman, Peter">Peter Ruma</persName> von <placeName ref="LOC_47.50369_8.41911">Schöfflistorff</placeName>, Fridlj Brem <placeName ref="LOC_47.49771_8.44334">Steinmur</placeName>
+          und <persName ref="Kuhn, Jakob">Jacob Kůn</persName> jm <placeName ref="LOC_47.486389_8.428611">Pflasterbach</placeName><note type="critical">In der Vorlage: Pfasterbach</note> sind
+          ­toüf­fer. Wiewol dem vogt zů <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName>
+          [geschrieben worden], sy gfenglichen anzenemen, jst doch das bishar nit erstatt, sonders
+          gand den lüthen an<note type="editorial"> ohne</note> angst umbhin. Begerend, das sy
+          gehorsam gemacht werdint.<note type="critical">Folgt als weiteres Traktandum die
+            Berichterstattung des Stillstandes in Regensberg ans Ehegericht.</note></p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_450</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355302">StAZH E II 1a, S. 776 und 779</idno>
+          </msIdentifier>
+          <head>Meldungen betreffend Täufer in Rorbas und an anderen Orten</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1586-05-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1586-05-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 336</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>H[err] Helias Vischer<note type="editorial"> <persName ref="Fischer, Elias">Elias Fischer</persName></note> hatt <placeName ref="LOC_47.44725_8.36373">zWirenloß</placeName><note type="editorial"> Würenlos</note> uff wienacht das nachtmal gehalten nach dem nüwen calender, hernach zů ostern nach dem alten. Do die bruͤder in darum anzogen. Item er solle sorg haben, es komind aber<note type="editorial"> wieder</note> teuffer in das land, hatt er ubel<note type="editorial"> sehr, Id. I, 55.</note> vergůt<note type="editorial"> vergut haben: gutheissen, vgl. Grimm 25, 499.</note>, trewt<note type="editorial"> drohen, Id. XIV, 1575.</note> sye gar sproͤd.<note type="editorial"> kümmerlich, dürftig, Grimm 17 146.,</note></p>
+<p>[…]</p>
+<p>Considertationes: […]. 3. <placeName ref="LOC_47.49675_8.73417">Winterthur</placeName> und ander, das man die nüw ordnung mitt den teufferen schlechtlich handhabe. Der <persName ref="Schnyder, Hans">teuffer</persName> zů <placeName ref="LOC_47.53414_8.56841">Rorbaß</placeName><note type="editorial"> Hans Schnyder</note> ist wider uß gfenknuß gelassen zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> und ist der redlifuͤreren einer.</p>
+<p>Dises alles sol an unser g[nedig] h[erren] langen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

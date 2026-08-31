@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_525</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355082">StAZH B IV 48, fol. 78</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Ziegler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1589-11-08"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1589-11-08"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 411</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und gůts zůvor. Fromer, wyßer, besonders getrüwer, lieber burger und vogt, was meinung, willen<note type="critical">korrigiert, ursprünglich: willens; folgt gestrichen: und</note>, bekherung und abstandts deß bißhero gefuͤrten<note type="critical">Folgt gestrichen: lebens und</note> ­toüf­ferischen lebens und weßens Hans Schnyder<note type="critical">Folgt gestrichen: der ­toüf­<persName ref="Schnyder, Hans">fer</persName></note> von <placeName ref="LOC_47.53414_8.56841">Rorbas</placeName><note type="critical">Folgt gestrichen: sich</note> uff<note type="critical">Folgt gestrichen: dinen</note> volstreckung dines, von uns synethalb empfangnen bevelchs sich entschlosßen und dir fürbringen lasßen, das habent wir jnn dinem<note type="critical">Folgt gestrichen: schryben</note> überschickten schryben verstanden. Diewyl er nun, wover<note type="editorial"> wenn, Id. I, 914.</note> wir syner person, es syge der ­toüf­feryg ald<note type="editorial"> oder</note> andern dingen halb, etwas klag oder mangels, sich vor uns jnn einem gleit zum rechten und nit wider darvon zestellen und zůverantworten anerbietet, will unns zů gwüßer und bestendiger syner fürwendenden besserung und enderung formklich und thůnlich syn beduncken, das solche<note type="critical">Folgt gestrichen: stellung</note> syner person<note type="critical">Folgt gestrichen: erschynung</note> stellung bescheche. Deßhalb du jme anzeigen und gebieten lasßen, das er, Hans Schnyder<note type="critical"><q>Hans Schnyder</q> am Rand mit Verweiszeichen</note>, jnn selbs eigner person uff mentag den 17ten diß louffenden wintermonats<note type="critical">Folgt gestrichen: zů</note> uff unnserm rathuß alhie am morgen zů fruͤger rathszyt erschynne, da wir jme das gleit nach synem begeren, wie obvermeldet und din schryben vermag<note type="editorial"> besagen, beinhalten, Id. IV, 111.</note>, das wo er sich nitt verantworten könne, unser straff zůerwarten ouch derselben gedultig und willig zgleben hiemitt vergünstiget haben wellend<note type="critical">Folgt gestrichen: jm fall aber, er sich nit gehorsam stellen sölte, were unsers gfallens weger wurde weger gweßen syn, du unsern bevelch erstattet hettist</note>, deß<note type="critical">Folgt gestrichen: habent</note> wir dich<note type="critical">Folgt gestrichen: hiemit</note> widerantworts wyße verstendigen und<note type="critical"><q>und</q> über der Zeile, daran anschliessend ein Verweiszeichen, in der Zeile gestrichen: selben</note> du zůverschaffen wüßist, er, Schnider, sich stellen thuͤge. Im fall, das nit beschechen sölte, were weger<note type="editorial"> besser, vorteilhafter, Id. XV, 691.</note>, du unsern bevelch erstattet hettist, er und andere durch jr listigs fürgeben destermynder der<note type="critical"><q>der</q> über der Zeile</note> halßstarrige sich anzemasßen<note type="critical">korrigiert, ursprünglich: anmasßen; folgt gestrichen: könne</note> ursachen nemmen könnind. Datum den 8ten novembris anno etc. 89.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">Dem fromen, wyßen, unnserm besonnders getrwüen, lieben burger und vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> Hannsen Ziegler.</p>
+</div>
+    </body>
+  </text>
+</TEI>

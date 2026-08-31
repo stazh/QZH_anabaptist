@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_187</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=245452">StAZH C III 22, Nr. 151 b</idno>
+          </msIdentifier>
+          <head>Erbfall Klaus Frölich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1554-07-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1554-07-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 73</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Maag, Hans">Hanns Mag</persName>, burger zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>, hatt selbig mir anzeigt, das er mit seiner husfrouwen wider genampt <persName ref="Frölich, Hans">Hanns Frölich</persName>, als er von den töüfferenn uß dem <placeName ref="LOC_49.5_17">niderlanddt</placeName><note type="editorial"> Gemeint ist Mähren, das tiefer gelegen ist.</note> kommen eines erbfals halb, allem allso vortragen, das er jme angentz<note type="editorial"> sofort, Id. II, 19.</note></p>
+<p>60 g[ulden] jnn dissem 84. jar solle erleggen,</p>
+<p>40 g[ulden] jm 85. jar,</p>
+<p>50 g[ulden] jm 86. jar,</p>
+<p>50 g[ulden] jm 87. jar.</p>
+<p>Und dises alles one zins. Hieruff aber solle gemelter<note type="editorial"> erwähnter</note> <persName ref="Frölich, Hans">Hans Frolich</persName>, sin schwager, m[inen] g[nedigen] herren umb den abzug […]<note type="editorial"> Lesung unklar</note> so ansprach an jn möchtend habenn und […]<note type="editorial"> Lesung unklar</note> und sine erben unverschůlt lassenn. Beschechen jm höüwmonat des 84. jars.</p>
+<p rend="margin-top"><persName ref="Bindschedler, Jakob">Jacob Bindschedler</persName>, pfarrer zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

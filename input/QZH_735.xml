@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_735</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354987">StAZH B II 288, S. 49-50 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Verwaltung des Guts des ausgewanderten Täufers Erhart Meyer durch seinen Bruder Hans Heinrich Meyer, Vogt von Greifensee</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1604-06-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1604-06-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 621</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Diewyl vogt Meyer<note type="editorial"> Von Hans Heinrich Meyer vom Weggen (gest. 1624)<persName ref="Meyer vom Weggen, Hans Heinrich"/> ist sonst nicht bekannt, dass er einen Bruder mit Namen Erhard hatte.</note> zů <placeName ref="LOC_47.36583_8.6789">Gryffensee</placeName> mit synem brůder <persName ref="Meyer, Erhard">Ehrharten Meyer</persName><note type="critical">Marginalie: j b[ekhantnus]</note> (so sich jnn die ­toüf­ferisch sect begeben) also syn Ehrharten gůts halb (so er, vogt, under handen) verglichen<note type="editorial"> sich einigen, Id. II, 601.</note>, das er, Ehrhart, für alle ansprach<note type="editorial"> Anspruch</note> 200 ducaten nemmen welle und fürterhin dhein<note type="editorial"> kein</note> vorrderung zů disem gůt (so anno 1601 mit zinß und haubtgůt 3330 pfund<note type="critical">In der Vorlage: lb</note> gweßen) haben welle, so habent myn gnedig herren recht ein söllichs bewilligiet, also das jme, Ehrharten, die 200 ducaten ohn abzug uß gnaden volkhommenlich werden söllint. Da aber er, Ehrhart, jnne, vogt, für das ander<note type="critical">korrigiert, ursprünglich: anderen</note> alles quittieren soll und jme anzeigt werden, das er fürterhin nit mehr khommen, dann sonst wurde er jnn gfangenschafft gelegt werden. Hienebent aber sölle er, vogt, schuldig syn, synen mitteerben wie ouch deß Ehrharten kind, wann die über kurtz oder lang alher khemen unnd nebent bekherrung von jrer verfürischen sect widerumb zů unser wahren religion tretten thetten, umb diß gůt bscheid und antwort zegeben und soll er, vogt, mynen herren für den abzug 100 g[ulden] geben und den pfund­schillingeren zůstellen, will dann er nach deßwegen jnns allmoßen 100 pfund an einem brief geben, stadt dasselbig zů synem gefallen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mentags, den 4ten junij p[raese]nt[ibu]s herr Brem unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_220</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355330">StAZH E II
+              1, S. 508f. (Handschrift von Heinrich Bullinger)</idno>
+          </msIdentifier>
+          <head>Anzeige von Täufern im Freien Amt, Neftenbach und Regensberg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1562-05-05"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1562-05-05"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 106</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Der <persName ref="Kolmar, Jakob">dechan</persName> uß dem Fryen <placeName
+            ref="LOC_47.2820935_8.3312904">ampt</placeName><note type="editorial"> Jakob
+            Kolmar</note> zeygt an ein toͤuffer, <persName ref="Gut, Andres">Anderesen
+            Gůt</persName>, der allen gebotten des obervogts widerstraͤpte und staͤts in den
+            <placeName ref="LOC_47.26903_8.55721">Sylwald</placeName> an der toͤuffer gmeind louffe.
+          Der <persName ref="GND_1089479298">daͤchen</persName> von <placeName
+            ref="LOC_47.53754_8.66653">Nefftenbach</placeName><note type="editorial"> Christian
+            Wirth</note> zeigt an <persName ref="Hedinger, Hans">Hansen Hedinger</persName> by der
+          Taͤschin zů <placeName ref="LOC_47.51036_8.68333">Wülfflingen</placeName>. Andere zeigten
+          an <persName ref="Bräm, Fridli">Fridli Braͤmen</persName> und <persName ref="Ruman, Peter"
+            >Petter Romman</persName> in Regensperger <placeName ref="LOC_47.2820935_8.3312904"
+            >ampt</placeName>.</p>
+        <p>Sol an unser gnedig herren gebracht werden.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

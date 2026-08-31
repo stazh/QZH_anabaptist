@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_224</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355332">StAZH E II
+              1, S. 526 (Handschrift von Heinrich Bullinger); StAZH E I 2.1, Nr. 12</idno>
+          </msIdentifier>
+          <head>Anzeige des Dekans im Freiamt sowie des Winterthurer Kapitels betreffend
+            Gotteslästern und Täufertum</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1563-10-19"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1563-10-19"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 110</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Der dechan imm <placeName ref="LOC_47.2820935_8.3312904">Fryampt</placeName><note
+            type="editorial">
+            <persName ref="Kolmar, Jakob">Jakob Kolmar</persName>
+          </note> zeigt an, wie das gottslestern imm ampt so haͤfftig zůnaͤme, das jung und allt
+          übel schwuͤrend. Das ouch ein uffruͤriger boͤser toͤuffischer bůb, <persName
+            ref="Gut, Andres">Anderes Gůt</persName>, zů <placeName ref="LOC_47.28147_8.40942"
+            >Ottenbach</placeName> vil unrůwen mache etc.</p>
+        <p>Der dechan imm Wintherthurer capittel zeigt, das <persName ref="Hedinger, Hans">Hanns
+            Hedinger</persName> zů <placeName ref="LOC_47.51036_8.68333">Wülfflingen</placeName> ein
+          boͤser mensch für und für in Wintherdur wëre und jetzund zů imm herab von <placeName
+            ref="LOC_47.49562_9.21582">Bischoffzell</placeName> ein verruͤmpten<note
+            type="editorial"> berühmt, bekannt</note> toͤuffer zogen etc.</p>
+        <p>Das alles sol vor<note type="editorial"> <q>vor</q> über der Zeile</note> unsern herren
+          anzogen werden durch h. burger[meister] und verordnete von raͤdten zum synodo etc.</p>
+        <p rend="margin-top">[Bericht an den Rat]<note>Ab hier folgt <bibl><ref
+                target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=606772">StAZH E I 2.1,
+                Nr. 12</ref></bibl>.</note></p>
+        <p>Wiewol <persName ref="Gut, Andres">Andreß Gůt</persName> zů <placeName
+            ref="LOC_47.28147_8.40942">Ottenbach</placeName> unlang hievor, als er jnn gfengknůß
+          alhie gelegen, sich erbotten, von synem ­toüf­ferischen weßen abzestaan, hatt er doch
+          dasselbig nit anderer gstalt verlasßen, dann das er noch jemerdar unnserm christenlichen
+          glouben und der ordenlichen oberkeit schmechlicher und ufruͤrischer wyß zůredt<note
+            type="editorial"> beschimpfen, Id. VI, 574.</note>, dhein<note type="editorial">
+            kein</note> gehorsame leistet, sonders sich etlicher gstalt<note type="critical">Folgt
+            gestrichen: beruͤmpt</note> (nebent der warheit) beruͤmpt, das mynen herren syn leben
+          nit mißfellig sige. Uß dem allem mitler zyt nüdt gůts erwachßen möchte. Unnd ob er glych
+          zun zyten uß gheiß gfengklichen anzůnemen gsůcht, wirt er doch allwegen (als der wol
+            gefründt<note type="editorial"> durch Verwandtschaft stark, Id. I, 1306.</note> jst)
+          gewarnet, das er nit betretten<note type="editorial"> antreffen, ergreifen, Id. XIV,
+            1486.</note> werden mag. Hatt dise seckt 8 jar triben.</p>
+        <p rend="margin-top">[Am Rand der undatierte Ratsbeschluss]: Vogt soll disen ­toüf­fer durch
+          unparthygisch lüth sůchen und gfengklichen annemen lasßen und mynen herren zůschicken.</p>
+        <p>Glychem vogt zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName><note
+            type="editorial"> Johannes Röuchli</note> der straffen und ­toüf­fern halb schryben, sy
+          daoben jnleggen und myn herren berichten. H[err] Keller wils ußrichten.</p>
+        <p rend="margin-top"><persName ref="Hedinger, Hans">Hanns Hedinger</persName>, <persName
+            ref="Steiner, Andreas">underm Steiner</persName><note type="editorial"> Andreas Steiner
+            (gest. 1565)</note> zů <placeName ref="LOC_47.51036_8.68333">Wülflingen</placeName>
+          sitzende, jst ouch jnn der toufferyg gar verfasßt, soll noch ein usßlendischen töuffer zů
+          jm jnher bracht haben und spricht<note type="critical"><q>und spricht</q> am Rand, in der Zeile
+            gestrichen: spreche</note>, das derselbig glych so wol villerleyg sprachen als die
+          predicanten könne, redent ergerliche wort und werde er, <persName ref="Hedinger, Hans"
+            >Hedinger</persName>, für ein redlifuͤrer geachtet.</p>
+        <p rend="margin-top">[Am unteren Rand der undatierte Ratsbeschluss:] Steiner und <placeName
+            ref="LOC_47.49675_8.73417">Winterthur</placeName> schryben<note type="critical">In der
+            Vorlage: schyben</note>, wo er zů betretten sige, gfengklich anzůnemen, jnn gheimbd.</p>
+        <p rend="margin-top">Die ­toüf­ferisch rott soll sich vilmalen<note type="critical">Folgt
+            gestrichen: biß</note> by des Kymen <placeName ref="LOC_47.50118_8.57917"
+            >hoff</placeName><note type="editorial"> Chimenhof</note> umb <placeName
+            ref="LOC_47.50849_8.59755">Embrach</placeName> samlen und zůsamen daselbs komen, da sy
+          villich wol etwan zuͤrgriffen und erwüschen werind.<note type="critical">Weitere Notizen
+            (Censura) zur selben Synode: <q>Des ­toüf­fers halb, redt unsers gloubens und der oberkeit
+            schmechlich und ufrůrischer wyß, thůt dhein gehorsame und jst zů besorgen, das durch syn
+            weßen nüdt gůts brinngt, ob man jnn glych sůcht gfengklich anzůnemen, jst nit
+            zůbetretten und wirdt kein rechter erntst angewendt, dise seckt hat er jnn die 8 jar
+            triben. Kymen hoff jnn Embrach hand sy jr zůsamenkerung. Winterthur. Hans Hedinger,
+            underm Steiner zů Wülflingen sitzende, jst ouch der toufferyg behaggt, hatt noch einen
+            zů jm bracht, redt gar unsuber und ergerliche wort, ein redlifuͤrer.</q> StAZH, E I 2.1,
+            Nr. 12.</note></p>
+        <p rend="margin-top">[Am Rand der undatierte Ratsbeschluss]: Vogt zů <placeName
+            ref="LOC_47.45249_8.7485">Kyburg</placeName><note type="editorial">
+            <persName ref="GND_140632557">Heinrich Thomann</persName>
+          </note> soll acht daruf haben, jst jm mundlich anzeigt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

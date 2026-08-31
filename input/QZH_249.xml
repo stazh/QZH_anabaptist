@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_249</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695098">StAZH E I 7.2, Nr. 116; Abschriften: ZBZ, Ms A 72, S. 357f. (17. Jh.); ZBZ, Ms B 165, fol. 224-225 (18. Jh.)</idno>
+          </msIdentifier>
+          <head>Hans Rahn an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1566-08-15"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1566-08-15"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 135</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__116__S__1_.tif"/>
+<p>Gestrengen, fromen, vesten, fürsichtigen unnd wysen, jnsonnders gnedigen jr min herrenn, min underthenig, gehorsam, willig dienst sigend u[wer] w[yßheit] allzitt bereytt zůvor. Demnach üch, min gnedig herren, wol jndenck, wie jr mir letstlichenn zůgeschriben antreffend <persName ref="Gut, Andres">Andres Gůtten</persName> von <placeName ref="LOC_47.26217_8.41262">Luneren</placeName> des touffers<note type="editorial"> Vgl. Nr. 116.</note>, wie das ich sin hußfrowen mit ernst ermanne, das sy gedachten jren eman, diewil er sinen ­toüf­ferischenn secktt beharrtte und sich nütt nach unserem cristenlichen bruch halte, anzoge<note type="editorial"> anzeige</note>, das sy jnn nütt wytters beherberge und underschloff gebe, oder aber sich entlichen verseche[n]<note type="editorial"> sich gefasst machen auf, Id. VII, 566.</note> sölle, dan das jr sy sampt den kinden jme nach schickenn wellend. Diewil aber ich globlich verstendigott worden, dem nüt statt geschehe und sich diser verschinner<note type="editorial"> vergangener</note> erntt und howett<note type="editorial"> Heuernte</note> zů zitten offenlich sechen laßenn und um alle warnungen sich nütt gehorsam erzogen wil und ouch sich der kilchenn ußerett, bin ich derhalben bewegt worden, üch, minen gnedigen herren, abermallen solliche sin ungehorsam zůschriben, wie ich mich gegenn jme, ouch siner hußfrowenn haltten solle, diewil er doch um keinne warnungen nütt gipt etc. Demnach so fugen ich üch, minen gnedigen herren, witter zůwüßen, das noch ein touffer uffgestanden ist zů <placeName ref="LOC_47.28167_8.45023">Affhollteren</placeName><note type="editorial"> Affoltern am Albis</note>, der <persName ref="Schnewli, Heini">Heinj Schnewlis</persName> sunn. Da mir fürkomen, das er alle sunntag sych nütt wytt vonn <placeName ref="LOC_47.22493_8.65207">Wedeschwil</placeName><note type="editorial"> Wädenswil</note> verfüge zů anderen ­toüf­ferenn, die daselbs um daheim sigennd und jr versamlung daselbs habend by zwentzig personnen, hab ich nechst verschiner tagenn, alß ich zů Affholteren gsin, den selbigen sampt dem vatter für<note type="editorial"> vor</note> mich ouch ettlich predicannten beschicktt jn bisin her vogt Bürcklis<note type="editorial"> Jakob Bürkli (gest. 1573)<persName ref="Bürkli, Jakob"/>, Obervogt von Horgen</note>, der dan ungeferd da gsin, hand wyr jnne verhörtt und sin meinung verstanden und by jme glicher seckt und ­toüf­ferische leer funden alß by obgedachtem Anderrßen und hiemit jne gantz ernstlichenn potten<note type="editorial"> geboten</note> und ermanett, das er zůr kilchenn gange und sich uwer, miner g[nedigen] h[erren], cristenlichen ordnungen gebruche. Welliches aber by jme nütt bishar verfachen<note type="editorial"> verfangen, fruchten, Id. I, 722.</note> wellen, sonnders alß ich ouch der predicant glöblich berichtt werdend, nach alle suntag ouch andere tag sich zů der gemeltten<note type="editorial"> erwähnten</note> versamlung verfuge und sich unnserer cristenlichen kilchen ußerett derhalben. Diewil es ann ernempten beden personen nütt kein warnug funden wyrtt und zůbesorgenn, sin vatter ouch anderre ouch dahin mit der zitt möchtend komen, hab ich uwer wyßheitt solliches wellen berichtten, damit jr üch harüber berattschlagend, was gegenn jnnen wytters furzünemen sige, welliches bescheids jch erwartten wil und üwerem geheiß demnach nachgan. Üch hiemit jn den schyrm gottes wil befolchen haben. Datum den 15. augsten 1566.</p>
+<p rend="margin-top">Uwer allezitt gehorsamer williger dienner</p>
+<p>Hanns Raann, derzitt vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>.</p>
+<pb n="2" facs="E_I_7_2__Nr__116__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__116__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__116__S__4_.tif"/>
+<p rend="margin-top">Denn fromen, vesten, fürsichtigen, ersamen und wysenn herren, bůrgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minenn jnsonders gnedigen und gepiettenden, liebenn herrenn.</p>
+<p rend="margin-top">[Undatierter Beschluss des Rates:] <persName ref="Gut, Andres">Andreß Gůtten</persName> und Heini Schnewlis sun, die ­toüf­fer, belangend, söllent gfengklichen angenomen werden.</p>
+</div>
+    </body>
+  </text>
+</TEI>

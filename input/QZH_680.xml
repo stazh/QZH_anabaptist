@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_680</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355289">StAZH E I 7.3, Nr. 96; Abschrift: ZBZ, Ms A 72, S. 548f.</idno>
+          </msIdentifier>
+          <head>Urteil gegen Jörg Leutenegger</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1601-12-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-12-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 566</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__96__S__1_.tif"/>
+<p>Diewyl Geörg Lütenegger uff synem jrrthumb halsstarrig unnd darvon nit abstahn unnd ze kilchen gaan will, darnebent aber sich nach lanngem<note type="critical"><q>nach lanngem</q> am Rand mit Verweiszeichen</note> begeben hatt, uß myner gnedigen herren gricht und gebieten hinweg zezüchen unnd myn herren und die jren wyter ungejrrt und allerdings rüwig<note type="editorial"> ruhig, mit Bezug auf ordnungswidriges Verhalten, vgl. Id. VI, 1903.</note> zelaßen, so habent myn gnedig herren uff söllichen bericht sich deßen erkhendt<note type="editorial"> urteilen, beschliessen, Id. III, 313.</note>, namlich:</p>
+<p>Wann er, Lütenegger, den verordneten herren vom rath anlobt unnd mit und by der hand zůsagt unnd verspricht, demselbigen statt zethůnd unnd uß myner gnedigen herren landen und gebieten hinweg zezüchen und sich darjnnen nit mehr finden unnd also myn herren und jre underthonen allerdings ruͤwig zelaßen, so sölle er uff erlegung deß costens, so<note type="critical"><q>so</q> über der Zeile</note> uff syn gfangenschafft geganngen, der langwirigen gfengknuß<note type="critical"><q>langwirigen gfengknuß</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: banden</note> gelediget und uff frygen<note type="editorial"> freien</note> fůß gestelt werden. Da myn gnedig herren jme uß gnaden ein monat lang zů synem hinwegzug platz<note type="editorial"> Raum, Gelegenheit, Id. V, 258.</note> gebend, underzwüschent anderschwo ußerthalb myner herren landen syn glegenheit und underschlouff zesůchen. Wo er aber nach verschynung<note type="editorial"> Ablauf (der Frist), Id. VIII, 829.</note> deß monats wyter jnn der herrschafft Grüningen oder anderschwo jnn myner herren gebiet funden unnd betretten<note type="editorial"> antreffen, Id. XIV, 1486.</note> wurde, wirt man zů jme gryffen unnd jnne widerumb gfengklich alher fuͤren. Da er dann wüßen soll, das man jme syn übertretten anderst nit rechnen noch achten, dann als wann er einen eyd geschworen, unnd jnne darumb nach myner herren mandat mit hohem erntst straffen unnd jme synen verdienten lohn ohn wytere gnad widerfaren laßen wirt. <pb n="2" facs="E_I_7_3__Nr__96__S__2_.tif"/> Deß und kheins anndern sölle er sich zůversehen haben. Unnd soll diß alles dem vogt zů Grüningen zůgeschriben werden, das er uff jnne, Lütenegger, syn spech und khundschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> mache und jnne, wann er synem versprechen nit nachkommen wurde, widerumb gfengklich annemme. Actum mitwochs den 9ten decembris anno 1601, p[raese]nt[ibu]s herr Großman<note type="editorial"> <persName ref="GND_143658468">Konrad Grossmann</persName></note> und beid reth.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p>Aufschrift auf der Rückseite des Dokuments: <q>Urteil Geörg Lüteneggers ab Orn</q>.</p>
+        <p>Vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS, Bd. 5</ref>, <ref target="https://qzh.sources-online.org/quellenstuecke/QZH_682">Nr. 568</ref></bibl>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

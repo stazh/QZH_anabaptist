@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_655</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355280">StAZH F III 36 a</idno>
+          </msIdentifier>
+          <head>Rechnung des Täuferamtes</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1600"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1600"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 541</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Myn <persName ref="Waser, Hans">Hannßen Wasers</persName> Rechnung von wegen deß touffer
+          gutz vom 1600isten jar<note type="critical">Die Überschrift befindet sich auf fol. 6v des
+            Faszikels</note></p>
+        <p rend="margin-top">| [fol. 1r] Ingenommen von wegen deß töüffer gůtts, so herr amptmann
+            Keller<note type="editorial"> Hans <persName ref="Keller, Hans Conrad">Conrad
+              Keller</persName></note> zu <placeName ref="LOC_47.25828_8.8655">Rüthj</placeName> by syner andern
+          rechnung vom 1599isten jar schuldig bliben unnd mir uß bevelch myner gnedigen herren, der
+          rechenherren, donstags den 24ten apprellen abgeloffnen 1600isten jars von jme übergeben
+          worden.</p>
+        <p rend="margin-top">An houptgut 4227 pfund<note type="critical">In der Vorlage:
+          lb</note>.</p>
+        <p>An zinsen und von allerleig 595 pfund 1 schilling<note type="critical">In der Vorlage:
+            ß</note> 6 heller<note type="critical">In der Vorlage: hlr</note>.</p>
+        <p rend="margin-top">So hab jch wyter ynngenommen an zinsen von obstendem houptgut vom
+          1600isten jar:</p>
+        <p>13 pfund vonn <persName ref="Bickel, Oswald">Oßwalden Bickel</persName> von <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName> von 260 pfund houptgůt uff marthinj.</p>
+        <p>10 pfund vonn <persName ref="Hegi, Adam">Adammen Hegi</persName> von <placeName ref="LOC_47.25015_8.53023">Hengst</placeName><note type="editorial"> Heisch</note> von 200 pfund
+          houptgutz uff marthinj.</p>
+        <p>9 pfund von <persName ref="Steli, Jaggli">Jagli Stelj</persName> von <placeName ref="LOC_47.26217_8.41262">Lunnern</placeName> von 180 pfund houptgutz.</p>
+        <p>2 pfund 10 schilling von <persName ref="Gut, Melchior">Melchior Gůtten</persName> zů
+            <placeName ref="LOC_47.26426_8.409">Niderlunnern</placeName> von 50 pfund houptgutz uff
+          marthinj.</p>
+        <p>9 pfund von <persName ref="Steli, Hans Rudolf">Hanns Růdolff</persName> unnd Hanns den
+            <persName ref="Steli, Hans">Stelinen</persName> von <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> von 180 pfund houptgutz uff marthinj.</p>
+        <p>5 pfund von den <persName ref="Stierli, Ůli">Stierlinen</persName><persName ref="Stierli, Hans"/> zu <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> von 100 pfund
+          houptgutz uff marthinj.</p>
+        <p>8 pfund 2 schilling von <persName ref="Kleiner, Jakob (alias Jos)">Jacoben
+            Cleiner</persName>, genant Joß von <placeName ref="LOC_47.24779_8.46399">Mettmenstetten</placeName><bm id="249"/>, von 162 houptgutz uff marthinj.</p>
+        <p rend="margin-top">Summa diß blatts vom 1600isten jar zinsen yngenommen an gellt 56 pfund
+          12 schilling.</p>
+        <p rend="margin-top">| [fol. 1v] Innemmen an zinß vom 1600. jar:</p>
+        <p>6 pfund 18 schilling von <persName ref="Bücheler, Hans">Hanßen Bücheler</persName><bm id="250"/> von Obermettmenstetten von 138 pfund houptgutz uff wienecht.</p>
+        <p>8 pfund 2 schilling soll<note type="editorial"> schuldig sein, Id. VII, 771.</note>
+          <persName ref="Bär, Hans">Hannß Bär</persName><bm id="251"/> von <placeName ref="LOC_47.2215_8.49812">Ürtzlicken</placeName> von 162 pfund houptgutz uff den 20ten jenner anno
+          1600.</p>
+        <p>5 pfund 8 schilling uff den <persName ref="Hurter, Jakob">Hurttern</persName><persName ref="Hurter, Hans"/><bm id="252"/> zu Ürtzlicken von 108 pfund houptgut uff martinj.</p>
+        <p>3 pfund 1 schilling von <persName ref="Wyss, Heini">Heinj Wyßen</persName><bm id="253"/>
+          von <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName> von 61 pfund houptgut uff marthinj.</p>
+        <p>2 pfund 10 schilling soll <persName ref="Lüssi, David">Davidt Lußj</persName> von
+            <placeName ref="LOC_47.24435_8.53664">Hußen</placeName> von 50 pfund houptgutz uff
+          marthinj.</p>
+        <p>1 pfund <persName ref="Huber, Konrad">Cunradt Hůber</persName> zů <placeName ref="LOC_47.21993_8.57012">Weßenmat</placeName> von 20 pfund houptgut uff
+          marthinj.</p>
+        <p>1 pfund 6 schilling soll <persName ref="Weidmann, Hans">Hanns Weidmann</persName> zu
+            <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName> jm ampt Regenstorff von 26
+          pfund houptgůtz uff marthinj.</p>
+        <p>2 pfund 3 schilling 6 heller <persName ref="Studer, Jakob">Jacob Studer</persName> der
+          schnyder zů <placeName ref="LOC_47.38946_8.48533">Alstetten</placeName> von 43 pfund 10 schilling
+          houptgůt uff marthinj.</p>
+        <p>15 pfund söllent <persName ref="Eberli, Heini Uli">Heinj Ulj</persName> unnd Heinrich die
+            <persName ref="Eberli, Heinrich">Äberlinen</persName> uff Bůchen <placeName ref="LOC_47.29614_8.50781">Egg</placeName><bm id="254"/> uff martinj.</p>
+        <p>15 pfund soll <persName ref="Huber, Hans">Hanns Hůber</persName> zů <placeName ref="LOC_47.31665_8.46625">Bonstetten</placeName> von 300 pfund houptgutz uff marthinj.</p>
+        <p>5 pfund <persName ref="Toggwiler, Felix">söllen Felix</persName>
+          <persName ref="Toggwiler, Heini">unnd Heinj</persName> die Toggwyler zu Bonstetten uff
+          marthinj.</p>
+        <p rend="margin-top">Summa zinß anno 1600 an gellt 65 pfund 8 schilling 6 heller.</p>
+        <p rend="margin-top">| [fol. 2r] Ingenommen zinß anno 1600:</p>
+        <p>35 pfund 10 schilling soll <persName ref="Baumann, Ludwig">Ludwig Bumann</persName><bm id="255"/> zů <placeName ref="LOC_47.23613_8.61814">Arne</placeName> jnn der vogthyg Horgen vonn
+          710 pfund houptgutz uff marthinj.</p>
+        <p>5 pfund Clein Hanns von <persName ref="Kälen, Kleinhans von">Källen</persName><note type="editorial"> Gemeint ist vielleicht Chelen, ein Hof in der Gemeinde Hirzel.</note>
+          zů Arnne von 100 pfund houptgutz uff marthinj.</p>
+        <p>64 pfund houptgutz, 3 pfund 4 schilling zinß vonn <persName ref="Widmer, Kaspar">Caspar
+            Widmer</persName><bm id="256"/> von <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName>,
+          gfalt der zinß uff marthinj</p>
+        <p>17 pfund <persName ref="Keller, Heini">söllend Heinj</persName> unnd Bläßj die <persName ref="Keller, Bläsi">Kellern</persName> zu Küchelhörj<note type="editorial"> Höri</note>
+          von 340 pfund houptgutz uff marthinj.</p>
+        <p>5 pfund soll <persName ref="Appenzeller, Rudolf">Růdolff Appenzeller</persName><bm id="257"/> zů <placeName ref="LOC_47.40313_8.4971">Höngg</placeName> uff marthinj.</p>
+        <p>5 pfund uff <persName ref="Bütschli, Hans">Hanns</persName> und <persName ref="Bütschli, Mathis">Mathiß</persName> den Bütschlinen zů <placeName ref="LOC_47.3312_8.5144">Leymbach</placeName> uff wienecht.</p>
+        <p>5 pfund 15 schilling uff <persName ref="Pur, Heini">Heinj Puren</persName> zů <placeName ref="LOC_47.40313_8.4971">Höngg</placeName> uff marthinj.</p>
+        <p rend="margin-top">Summa diß blatts an houptgůt 64 pfund.</p>
+        <p>An zinsen vom [1]600isten 76 pfund 9 schilling.</p>
+        <p rend="margin-top">| [fol. 2v] Summa summarum alles jnnemmens an houptgůt 4227 pfund, an
+          zinß unnd allerleig 757 pfund 11 schilling.</p>
+        <p>Unnd so nun houptgůt, zinß unnd das ynnemmen allerleig zůsammen grechnet, bringt es jn
+          einer summa an gellt 5084 pfund 11 schilling.</p>
+        <p rend="margin-top">Dißere jerrlichen zinß meerend sich diß jars gegen der verndrigen
+          rechnung umb 22 pfund 15 schilling, namlichen 17 pfund uff <persName ref="Keller, Heini">Heinj</persName>
+          <persName ref="Keller, Bläsi">unnd Bläßj</persName> den Kellern zů Küchelhörj unnd 5 pfund
+          15 schilling uff <persName ref="Pur, Heini">Heinj Puren</persName> zů <placeName ref="LOC_47.40313_8.4971">Höngg</placeName>. Dargegen minderent sy sich umb 14 pfund, namlichen 10
+          pfund uff <persName ref="Edbrecht, Konrad">Cůnradt</persName>
+          <persName ref="Edbrecht, Hans">unnd Hanns</persName> den Edtbrachten zů <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName> unnd 4 pfund uff <persName ref="Schürer, Jakob">Jacoben Schürer</persName> zů <placeName ref="LOC_47.28833_8.43124">Zwillicken</placeName>, welliche beid zinß jr, myn gnedig herren, <persName ref="Sandmann, Hans">Hanßen Sandtmanns</persName> des töüffer d’schwüstergite, als von
+          dem dißer zinß harkombt, sampt dem houptgůt uff versicherung vermög hierumb ergangner
+          urtheil ynnemmen laßen.</p>
+        <p>Es jst ouch von den 170 pfund, so meister <persName ref="Wüst, Jakob">Wüst</persName>
+          selig soll dheinen<note type="editorial"> keinen</note> zinß jn ansechung, wyl das
+          houptgůt nit zů erheben grechnet.</p>
+        <p rend="margin-top">Item von den 90 pfund, so herr vogt Thumyßens<note type="editorial">
+            <persName ref="Thumysen, Junghans">Junghasn Thumysen</persName></note> seligen erben by
+          der vogthyg <placeName ref="LOC_47.24867_8.58482">Horgen</placeName> an töüffer gůt bezallen sollent
+          ouch dehein zinß.</p>
+        <p rend="margin-top">| [fol. 3r] Dargegen volgt myn ußgeben:</p>
+        <p>50 pfund gab jch herren schwager amptmann zů <placeName ref="LOC_47.25828_8.8655">Rüthj</placeName>,
+          weliche jr myn gnedig herren jme als er umb das töüffer gůt von acht unnd nün und
+          nüntzigisten jare rechnung geben für syn deßhalber erlittne müyg vereert.</p>
+        <p>8 pfund hat herr schwager seckelmeister Kamblj<note type="editorial"> Hans Kambli
+              (1554-1621)<persName ref="Kambli, Hans (1554-1621)"/></note> uß bevelch üwer myner
+          gnedigen herren <persName ref="Merckt, Andres">Andreßen Merckten</persName> von Ettingen
+          uß <placeName ref="LOC_49.5_17">Meerherren</placeName> anstatt <persName ref="Steger, Daniel">Daniel Stegers</persName> von <placeName ref="LOC_47.25015_8.53023">Hengst</placeName> des töüffers
+          kinden von den 200 pfund, so üch mynen gnedigen herren deßnocher zůgefallen, darmit sy dan
+          vermög der den 7ten may anno 1600 hierumb beschechner urtheil jnn feernerm abgewißen syn
+          sollint.</p>
+        <p>280 pfund houptgůt, 24 pfund für zwen jar zinß, 1 pfund 6 schilling costen hat mir herr
+          schwager ambtmann zů <placeName ref="LOC_47.25828_8.8655">Rüthj</placeName> uff <persName ref="Schürer, Jakob">Jacoben Schürer</persName> zů <placeName ref="LOC_47.28833_8.43124">Zwilicken</placeName> unnd uff den <persName ref="Edbrecht, Konrad">Ebrechten</persName><persName ref="Edbrecht, Hans"/> zů <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName> übergeben unnd yngrechnet, so von
+            <persName ref="Sandmann, Hans">Hanßen Sandtmann</persName> dem töüffer harkombt. Weliche
+          summa aber von üch, mynen gnedigen herren, <persName ref="Sandmann, Heinrich">Heinrich</persName>
+          <persName ref="Sandmann, Elsbetha">unnd Elsbetha</persName> den Sandtmannen synen
+          geschwüstergiten uff versicherung zenutzen übergeben luth eines hierumb uffgerichten
+          brieffs.</p>
+        <p rend="margin-top">Summa diß blatts an geltt 363 pfund 6 schilling.</p>
+        <p rend="margin-top">| [fol. 3v] Ußgebenn:</p>
+        <p>46 pfund 10 schilling <persName ref="Keller, Heini">habent Heinj</persName> unnd Bläßj
+          die <persName ref="Keller, Bläsi">Kellern</persName> zů <placeName ref="LOC_47.5075_8.50244">Hörj</placeName> uß bewilligung myner gnedigen herren <persName ref="Nespler, Elsa">Elßa Näsplern</persName> von den 386 pfund 10 schilling von jro har gefalnem töüffer
+          gůt widerumbe zuͦgestelt, darmit sy nun mehr umb zinß unnd houptgůt abgefertiget unnd die
+          überigen 340 pfund gmeiner statt uff behalten und zinßet werdent.</p>
+        <p>30 pfund 19 schilling habent jr, myn gnedig herren, vermög der bekandtnus<note type="editorial"> Entscheidung, Urteil, vgl.
+            http://fwb-online.de/go/bekenntnis.s.1fn_1732122555 (Frühneuhochdeutsches
+            Wörterbuch).</note>
+          <persName ref="Hegi, Ulrich">Ůlrichen Hägj</persName> für zwen zinß als 99 und 1600 von
+          den <persName ref="Eberli, Heini Uli">Äberlinen</persName><persName ref="Eberli, Heinrich"/> uff Bůchen <placeName ref="LOC_47.29614_8.50781">Egg</placeName> an den costen, so er syner
+          töüfferischen schwöster halben, von dero ungehorsamme wegen dißers gůt har kombt,
+          erlitten, ynnemmen laßen und diewyl dieselben hievor jm ynnemmen uff mich kommen,
+          gepürendt mir somliche alhar widerzmbe jns ußgeben zuschryben.</p>
+        <p>6 pfund 10 schilling hat mir <persName ref="Keller, Heini">Heinj Keller</persName> an dem
+          1600isten jar zinß, so von syner bassen <persName ref="Nespler, Elsa">Elßa
+            Näsplern</persName> der widertöüffern har kombt, jnbehalten und anzeigt, das er
+          dieselben angedüter syner bassen uß bevelch herren seckelmeister Eschers<note type="editorial"> Hans Escher <persName ref="Escher vom Luchs, Hans">vom
+              Luchs</persName></note> zugestelt.</p>
+        <p>1 pfund 10 schilling hab jch diß jar von den yngebrachten zinßen thrinckgelt geben.</p>
+        <p rend="margin-top">Summa diß blatts an gellt 85 pfund 9 schilling.</p>
+        <p rend="margin-top">| [fol. 4r] Summarum mynes ußgebens an gellt 448 pfund 15
+          schilling.</p>
+        <p rend="margin-top">Also nach abzug jnnemmens unnd ußgebens blyben jch schuldig an gellt
+          4635 pfund 16 schilling.</p>
+        <p rend="margin-top">Dißere summa zeigen unnd bezallen jch volgender gestalt als
+          namlichen:</p>
+        <p>260 pfund houptgůt uff <persName ref="Bickel, Oswald">Oßwalden Bickel</persName> von
+            <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName>.</p>
+        <p>200 pfund uff <persName ref="Hegi, Adam">Adamen Hägj</persName> von Hengst.</p>
+        <p>180 pfund houptgůt, 9 pfund zinß anno 1600 uff <persName ref="Steli, Jaggli">Jaglj
+            Stelj</persName> vonn <placeName ref="LOC_47.26217_8.41262">Lunnern</placeName>.</p>
+        <p>50 pfund uff <persName ref="Gut, Melchior">Melchior Gůtten</persName> zů Nider <placeName ref="LOC_47.26217_8.41262">Lunnern</placeName>.</p>
+        <p>162 pfund houptgůt, 8 pfund 10 schilling zinß an[nis] 99, [1]600 uff <persName ref="Kleiner, Jakob (alias Jos)">Jacoben Cleiner</persName> genant Joß zů <placeName ref="LOC_47.24779_8.46399">Mettmenstetten</placeName>.</p>
+        <p>180 pfund houptgůt, 9 pfund zinß anno 1600 uff <persName ref="Steli, Hans Rudolf">Hans
+            Růdolff</persName> und <persName ref="Steli, Hans">Hanns</persName> den Stelinen zů
+            <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName>.</p>
+        <p>100 pfund houptgůt uff den <persName ref="Stierli, Ůli">Stierlinen</persName><persName ref="Stierli, Hans"/> zů Ottenbach.</p>
+        <p rend="margin-top">Summa an dem blatt an houptgůt 1132 pfund, an zinßen 26 pfund 10
+          schilling.</p>
+        <p rend="margin-top">| [fol. 4v] Zaller:</p>
+        <p>138 pfund houptgůt, 8 pfund 12 schilling nüw und alt zinß uff <persName ref="Bücheler, Hans">Hanßen Bücheler</persName> von <placeName ref="LOC_47.24779_8.46399">Obermettmenstetten</placeName>.</p>
+        <p>162 pfund houptgut, 44 pfund 19 schilling zinß <persName ref="Bär, Hans">Hanns
+            Bär</persName> zů <placeName ref="LOC_47.2215_8.49812">Ürtzlicken</placeName>.</p>
+        <p>108 pfund houptgůt uff den <persName ref="Hurter, Jakob">Hurttern</persName><persName ref="Hurter, Hans"/> zů Ürtzlicken.</p>
+        <p>61 pfund houptguͦt, 3 pfund 6 schilling alt und nüw zinß <persName ref="Wyss, Heini">Heinj Wyß</persName> zů <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName>.</p>
+        <p>50 pfund houptgůt, 18 pfund 9 schilling zinß <persName ref="Lüssi, David">Davidt
+            Lußj</persName> von <placeName ref="LOC_47.24435_8.53664">Hußen</placeName>.</p>
+        <p>20 pfund houptgůt uff <persName ref="Huber, Konrad">Cůnradten Hůber</persName> zů
+            <placeName ref="LOC_47.21993_8.57012">Weßenmatt</placeName>.</p>
+        <p>26 pfund houptgůt uff <persName ref="Weidmann, Hans">Hanßen Weidmann</persName> zů
+            <placeName ref="LOC_47.41814_8.5122">Affholtern</placeName>.</p>
+        <p>43 pfund 10 schilling houptgůt, 8 pfund 10 schilling zinß <persName ref="Studer, Jakob">Jacob Studer</persName> der schnyder zů <placeName ref="LOC_47.38946_8.48533">Alstetten</placeName>.</p>
+        <p>450 pfund houptgůt uff den <persName ref="Eberli, Heini Uli">Äberlinen</persName><persName ref="Eberli, Heinrich"/> uff Bůchen <placeName ref="LOC_47.29614_8.50781">Egg</placeName>.</p>
+        <p>300 pfund houptgůt uff <persName ref="Huber, Hans">Hanßen Hůber</persName> zů <placeName ref="LOC_47.31665_8.46625">Bonstetten</placeName>.</p>
+        <p>100 pfund houptgůt, 5 pfund zinß [1]600 <persName ref="Toggwiler, Felix">Felix</persName>
+          <persName ref="Toggwiler, Heini">unnd Heinj</persName> die Toggwyllern zů <placeName ref="LOC_47.31665_8.46625">Bonstetten</placeName>.</p>
+        <p>710 pfund houptgůt, 41 pfund 4½ schilling zinß <persName ref="Baumann, Ludwig">Ludwig
+            Bumann</persName> zů <placeName ref="LOC_47.23613_8.61814">Arne</placeName> jn der vogthyg
+          Horgen.</p>
+        <p rend="margin-top">Summa diß blatts an houptgůt 2148 pfund 10 schilling, an zinß 130 pfund
+          6 heller.</p>
+        <p rend="margin-top">| [fol. 5r] Zallung:</p>
+        <p>100 pfund houptgůt Clein Hanns von Kallen<note type="editorial"> Gemeint ist vielleicht
+            Chelen, ein Hof in der <persName ref="Kälen, Kleinhans von">Gemeinde
+            Hirzel</persName></note> zů <placeName ref="LOC_47.23613_8.61814">Arnne</placeName>.</p>
+        <p>44 pfund houptgůt, 6 pfund 8 schilling für 2 zinß <persName ref="Widmer, Kaspar">Caspar
+            Widmer</persName> zů <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName>, soll ein breiff
+          hierumb gmacht werden.</p>
+        <p>340 pfund houptgůt uff <persName ref="Keller, Heini">Heinj</persName>
+          <persName ref="Keller, Bläsi">unnd Bläßj</persName> den Kellern zů <placeName ref="LOC_47.5075_8.50244">Küchelhörj</placeName><note type="editorial"> Höri</note>.</p>
+        <p>100 pfund uff <persName ref="Rütschi, Heinrich">Heinrichen Rütschj</persName> zů
+            <placeName ref="LOC_47.40313_8.4971">Höngg</placeName>, hat vor <persName ref="Appenzeller, Rudolf">Růdolff Appenzeller</persName> söllen.</p>
+        <p>100 pfund houptgůt, 5 pfund zinß vom 1600 uff <persName ref="Bütschli, Hans">Hanns</persName>
+          <persName ref="Bütschli, Mathis">unnd Mathyß</persName> den Bütschlinen zů <placeName ref="LOC_47.3312_8.5144">Leymbach</placeName>.</p>
+        <p>115 pfund houptgůt uff <persName ref="Pur, Heini">Heinj Puren</persName> zů <placeName ref="LOC_47.40313_8.4971">Höngg</placeName>.</p>
+        <p>90 pfund houptgůt uff herren vogt Thumyßens<note type="editorial">
+            <persName ref="Thumysen, Junghans">Junghans Thumysen</persName></note> seligen
+          erben.</p>
+        <p>170 pfund houptgůt uff meister <persName ref="Wüst, Jakob">Jacob Wüsten</persName>
+          selligen erben.</p>
+        <p>80 pfund houptgůt uff <persName ref="Bleuler, Heinrich">Heinrichen Blüwler</persName><bm id="258"/> zů <placeName ref="LOC_47.34326_8.5947">Zollicken</placeName><bm id="259"/> hab jch jme
+          verschines meyens diß 1601. jars von den yngenommnen zinß umb gepürliche verzinßung
+          fürgesetzt.</p>
+        <p rend="margin-top">Summa diß blatts an houptgůt 1159 pfund, an zinß 11 pfund 8
+          schilling.</p>
+        <p rend="margin-top">| [fol. 5v] Summarum dißer zallung thůtt an houptgůt 4459 pfund 10
+          schilling, ann verfallnen usstenden zinßen 167 pfund 18 schilling 6 heller.</p>
+        <p rend="margin-top">Unnd so beide summa zůsammen gerechnet, bringt es an gellt 4627 pfund 8
+          schilling 6 heller.</p>
+        <p rend="margin-top">Unnd dan jst bar verhanden an gellt 8 pfund 7 schilling 6 heller.
+          Hiemit gath es uff.</p>
+        <p rend="margin-top">Zinstags denn 21ten julij anno 1601 hann jch dißere gegenwürtige
+          rechnung geben unnd habent myn herren, die rechenherren, daran ein gůt vernügen gehept
+          unnd mir darby 25 pfund für myn gehepte müyg verordnet.</p>
+        <p>Actum ut supra pr[aesen]t[ibus] herr <persName ref="GND_143657062">burgemeister
+            Keller</persName> unnd veordnete rechenherren.</p>
+        </div>
+    </body>
+  </text>
+</TEI>

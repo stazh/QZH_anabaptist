@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_706</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355157">StAZH E I 7.3, Nr. 105</idno>
+          </msIdentifier>
+          <head>Johann Jakob Wagner an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1602-10-29"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1602-10-29"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 592</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__105__S__1_.tif"/>
+<p>Min underthenige gehorsamme und willige dienst, grůß mit wünschung aller wolfart zu seel und leib von gott dem allmechtigen bevoran. Ehrenvester, frommer, fürsichtiger, weißer, jnsonders hochehrender herr landtvogt, weil e[uwer] w[eisheit] zweiffels one obligender wichtiger gschefften halben verschinen<note type="editorial"> vergangenen</note> mitwochen zů <placeName ref="LOC_47.25828_8.8655">Rütj</placeName> in bereinigung des allmůsens abwesend gsin, da ich zweier punckten halb e. w. berichten wöllen, wird ich genötiget, dißmalen gschrifftlichen sölliches zůverrichten. Das erst anbelangend kann ich nit bergen noch verhalten<note type="editorial"> vorenthalten</note>, das vor etwas wuchen (wie ich von den ordenlichen eegoumer<note type="editorial"> Vertreter der Sittenzucht, Id. II, 304.</note> und anderen ehrlichen lüthen verstendiget) ein arger widertöuffer<note type="editorial"> <persName ref="Störchli, Ulrich">Ulrich Störchli</persName></note> sines handtwerchs ein kuffer von <placeName ref="LOC_47.49927_8.796">Räterschen</placeName> in unser barchj<note type="editorial"> Pfarrei, Id. IV, 1535.</note> Berentschwyl uff <placeName ref="LOC_47.350994_8.877896">Dunckelwyß</placeName><note type="editorial"> Dunkelwis, Hof in der Gemeinde Bäretswil</note> zů <persName ref="Spöri, Peter">Petern Spörj</persName>, ouch einem trutzigen töuffer, gezogen und, wyl er in der graaffschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> kein blatz noch underschlouff gehept, verhofft, fürohin alda (gleich wie ouch die anderen) sycher zůverharren. Wellicher etlich miner angehörigen kirchgnoßen mit siner gschwindigkeit<note type="editorial"> List, Betrug, Id. IX, 1965f.</note> und listigem gschwätz understadt abtrünig zůmachen. Also das menigklich<note type="editorial"> jeder</note> besorget, wo er lang (neben anderen) by uns wurde geduldet, vill übels und unradts daruß wurde erwachsen. Und so dan nun vermelte töüffer je lenger je spröder<note type="editorial"> trotzig, Id. X, 856.</note> und keibiger<note type="editorial"> eigensinnig, boshaft, zänkisch, Id. III, 108.</note> (weil sie sehen und gespüren, das alle tröuwungen<note type="editorial"> Drohungen</note> und warnungen one alle erfolgende gebürende straaff abgond), were nochmalen unser underthenig begeren und bitten, ir lauth ewers tragenden ampts und vermög unser gn[ädigen] herren mandath hulffind das unkrut ußrüten und ungehorsamme abstellen. Dann was der überigen in miner pfarr whonhafften töufferen bescheid und antwort sige uff die letste an sie gethone warnung, werdend ir (wie ich erachten) deßen gnůgsammen bericht durch den weibel empfangen haben.</p>
+<p>Antreffend das ander, namlich die kirchenrächnung: Weil der wirt und kirchenpfläger bißhar mit einem bauw beunruͤwiget und gschäfftig geweßen, setzt er es fürohin ewerem willen heim, einen tag der künfftigen der daruff erfolgenden wuchen zů ernammsen und zůbestimmen nach ewerm willen, doch das es durch zeigern<note type="editorial"> Überbringer von Nachrichten, Id. XVII, 393.</note> diß oder sonst by<note type="critical">Lesung unsicher</note> zeit vor ewer ankunfft ime werde anzeigt, damit er desto besser sich wüsse zůverhalten. Sölliches ir von mir beßer und gůter meinung wöllind uffnemmen, dan ich lieber gewölt, der weibel oder eegoumer hettind sölliches gethon. So aber sie nützit ußrichten und jemerdar zů allen sachen schweigen, hab ich das meinig thůn und verrichten söllen und wöllen, damit ich vor gott und menigklich desto baß<note type="editorial"> besser, eher</note> entschuldiget, wie dan ich getruw, ir diß beßer verstan und nach gebür in so ernsthaffter sach fürderlich handlen werdind, als mir zůstadt, mittel und ordnung deßen fürzůschriben. E. w. sampt allen den ewerigen zůgehörigen in den schirm und gnad des allerhöchsten wol thůn befelhende. Den 29. octobr[is] anno 1602.</p>
+<p rend="margin-top">Joan. Jacob Wagner, der kirchen zů <placeName ref="LOC_47.3377_8.87216">Bärentschwyl</placeName></p>
+<p>einfaltiger diener, e. w. underth[an]</p>
+<pb n="2" facs="E_I_7_3__Nr__105__S__2_.tif"/>
+<p rend="margin-top">Dem frommen, ehrenvesten, fürsichtigen, ersamen und weißen herren Jacoben zur Eych, dieser zeit vogte der herrschafft <placeName ref="LOC_47.28333_8.75">Gruͤnigen</placeName>, sinem sonders hochehrenden, gönstigen herren zůhanden.</p>
+</div>
+    </body>
+  </text>
+</TEI>

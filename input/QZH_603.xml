@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_603</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355267">StAZH E I 7.3, Nr. 77</idno>
+          </msIdentifier>
+          <head>(Drittes) Verhör und Urteil gegen Thomas Gügi</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1597-04-23"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1597-04-23"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 489</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Anttwort 3, Thomas Gügis uß dem Thurgoüw<note type="critical">Aufschrift auf der Rückseite des Dokuments</note><placeName ref="Thurgau"/></head> 
+<pb n="1" facs="E_I_7_3__Nr__77__S__1_.tif"/>
+<p>Als dann die verordneten herren glehrten mit nammen herr Růdolff Wirt<note type="editorial"> Hans <persName ref="GND_121891453">Rudolf Wirth</persName></note>, h[err] Marx Böümler<note type="editorial"> <persName ref="GND_131525115">Markus Bäumler</persName></note> unnd h[err]<note type="critical"><q>h[err]</q> über der Zeile</note> <persName ref="GND_116371838">Raphael Eglj</persName> mit sampt<note type="critical">Folgt gestrichen: den geordneten</note> j[unker] Hanns Jacoben von <persName ref="Schönau, Hans Jakob von">Schönouw</persName>, m[eister] Hans <persName ref="Wolf, Hans Ulrich">Ulrich Wolffen</persName>, m[eister] Hanns Heinrichen<note type="critical">Folgt gestrichen: von</note> <persName ref="GND_143681346">Holtzhalben</persName> und m[eister] <persName ref="Grebel, Konrad">Cůnraten Grebeln</persName> zů Thoman Gügj, dem müllerknecht, jn den <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> keert<note type="editorial"> sich begeben, gehen, Id. III, 435.</note>, jmme anfenglichen die ursach syner gefangenschafft fürgehalten<note type="editorial"> vorwerfen, Id. II, 1235.</note>, namlich<note type="critical"><q>namlich</q> über der Zeile</note> dz er synem vorigen anerbieten, zů den herren glehrten zegan und sich von jnen eins<note type="critical"><q>zů den herren … eins</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: sich</note> beßeren underrichten zelaßen, nit statt gethan, sonder zu anderen jn die hüßer gangen, die an sich gehenkt unnd also nüt destweniger syne zůsammen khomnußen gehept. Unnd demnach von den<note type="critical">Folgt gestrichen: herre</note> ermelten herren glehrten jnn synen jrrigen meinungen und articlen verhört und volgentz von den selbigen mit guten gründen heilliger schrifft abgewißen und synen feller zůverstan geben, so alles<note type="critical">korrigiert, ursprünglich: allhie</note> der lenge nach zůbeschryben nit woll müglich, hatt er zů antwort geben:</p>
+<p>Er habe weder vor noch sidthar der warnung niemants an sich gehenkt. Dann die<note type="critical"><q>die</q> über der Zeile</note>, so syner meinung<note type="critical">Folgt gestrichen: sig</note>, habind, vor und ehe er die bkänt, disen glouben unnd zůsammenkomnußen gehept. Sovil synen glouben und lehr anlange, bete er ein eersamme oberkeith, man welle jnne dißmals darby verblyben laßen, dann er villicht hernach ouch widerumb<note type="critical">Folgt gestrichen: dar</note> zů<note type="critical">Folgt gestrichen: gan</note> den h[eiligen] sacramenten gan möchte. So aber jr, myn g[nedig] h[erre]n, daßelbig nit dulden mögint, welle er gern syn straaß züchen, unnd jst also nachmalen, unangesechen er den h[erren] gelehrten nützit widersprechen können, uff synem kyb<note type="editorial"> Zank, Streit, Id. III, 106.</note> beliben, das wann er jn allweg nach der regel und lehr gottes läbe und ein volkommen glouben habe, dörffe er der ußeren sacramenten nützit, möge ouch ohn die wol sellig werden.</p>
+<p rend="margin-top">Nota: synen gespanen<note type="editorial"> Genossen</note> zeigt er eben die an, so zůvor ouch beschikt worden.<note type="critical">Notiz am Rand</note></p>
+<pb n="2" facs="E_I_7_3__Nr__77__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__77__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__77__S__4_.tif"/>
+<p rend="margin-top">[Urteil]: Diewyl er mynen herrn nit zůversprächen stadt unnd uff syner hartnegkigkeit zůblyben understadt und myn herren jnn jrer statt und land synen nüt bedörfend, sol er mit dem eyd darus verwißen<note type="critical">Folgt gestrichen: werden</note>, damit fernerer unrath dester baß<note type="editorial"> besser, eher</note> abgeschaffen unnd verhüt möge werden. Hienebent sol er ouch den kosten, uff jnne gangen, abfertigen. Actum sambßtags den 23ten aprilis anno etc. 97 p[raesen]t[ibus] herr <persName ref="GND_143657062">burgermeister Käller</persName> unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

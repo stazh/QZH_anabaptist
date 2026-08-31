@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_355</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355055">StAZH B IV 39, fol. 4v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Hans Schwarz</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1579-08-10"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1579-08-10"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 241</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Burgermeister unnd rath der Statt Zürich unnseren grůß zuvor. Besonnders gethrüwer, lieber unndervogt, unns kommpt abermaalen glouplich für<note type="editorial"> fürkommen: zu Ohren kommen, kund werden, Id. III, 279.</note>, wie sich<note type="critical">korrigiert, ursprünglich: das</note> jnn unnsere vogtyg <placeName ref="LOC_47.38946_8.48533">Alltstetten</placeName><note type="critical">Folgt gestrichen: sich</note> ettliche redlifuͤrer und ufwiglere der ­toüf­feren jngelasßen unnd von ettlichen den unnseren ufennhallten unnd beherberget werdint. Dartzu etliche der unnseren mit den selben den strich<note type="editorial"> Weg, Id. XI, 2031-2034</note> hinwäg zenemmen vorhabens sygen. Unnd so dann sölliches unseren meermaalen usganngnen manndathenn zewider unnd sölliche ufrüͤrische redlifuͤrer jnn unnseren gricht unnd gepieten nindert zugedulden, so jst unnser ernstlicher bevelch, will unnd meynung, du wellist mit sonnderem flyß uff sölliche personnen ufsehenns unnd acht haben und, wo derselben einiche verhannden, sy mit sampt denen, so sy beherbergen<note type="critical">Folgt gestrichen: unns</note>, gfennklichen annemmen unnd unns verwart zufuͤren. Darnebent ouch wo du gehortist ald<note type="editorial"> oder</note> vernemist, das einiche der unnseren mit jnnen ald sonnst hinweg ziechen wellten, alsdann du denselben angentz<note type="editorial"> sofort, Id. II, 19.</note> all<note type="critical"><q>all</q> über der Zeile</note> jr hab unnd gut biß uff wytheren unnseren bscheid jnn hafft unnd verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> leggen unnd sölliches alles jnn thrüwen ußrichten unnd versehen, wie wir dir verthruwend an<note type="critical"><q>an</q> über der Zeile, in der Zeile gestrichen: vor</note> dir nützit<note type="critical">Folgt gestrichen: underlasßen</note> erwinden<note type="editorial"> fehlen, mangeln, Id. XVI, 580f.</note> werde. Datum den 10. d[ies]<note type="critical">Folgt gestrichen: ju</note> augustj anno etc. 79.</p>
+<p rend="margin-top">Unnserem besonders<note type="critical"><q>besonders</q> über der Zeile, in der Zeile gestrichen: lieben</note> gethrüwen, lieben unndervogt zů Allstetten Hanns Schwartzen</p>
+</div>
+    </body>
+  </text>
+</TEI>

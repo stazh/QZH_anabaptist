@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_330</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695103">StAZH E I 7.2, Nr. 119</idno>
+          </msIdentifier>
+          <head>Zweites Verhör und Urteil gegen Elsbeth Teiler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1576"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1576"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 216</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_2__Nr__119_1__S__4_.tif"/>
+<head type="Originalsprache">Elßbeth Theilleren von Horgen, so mit der ­toüf­ferischen sect behafft gwäsenn, antwortthung.<note type="editorial"> Aufschrift auf der Rückseite des Dokuments. Dort am Schluss die Notiz: <q>Ist ußgelassen</q>.</note></head> 
+<pb n="1" facs="E_I_7_2__Nr__119_1__S__1_.tif"/>
+<p>Allß myn herren, die verordneten, zů Elßbeth Theillerin von <placeName ref="LOC_47.24867_8.58482">Horgenn</placeName> jnn gfäncknuß ganngen, hatt sy uff fürhalten<note type="editorial"> vorwerfen, Id. II, 1234.</note> diseren bscheid gäben: Sy welle zů kilchen gon zů Horgen oder am Hirtzell<note type="editorial"> Hirzel gehörte kirchlich zur Gemeinde Horgen und bildete erst 1620 eine eigene Pfarrei.</note>, da die predicanten predigend, und nit meer an orth unnd end, da die döüffer predigend, gon nach<note type="editorial"> noch</note> louffen<note type="critical"><q>nach louffen</q> über der Zeile</note> und denselben nit meer loßen<note type="editorial"> zuhören</note> und anhanngen, sonnder sich der töüfferischen sect gar entschlachen<note type="editorial"> sich lossagen, meiden, Grimm 3, 602.</note>.</p>
+<p>Item <persName ref="Isenring, Rudolf">Růdolf Ysellring</persName>, genant Hertzog Kromer, syge dero einer, so predige. <persName ref="Landerz, Kaspar">Caspar Landertz</persName> beid sön loßend ouch den töüfferen zů. Inn der <placeName ref="LOC_47.23061_8.64191">Kalchtharen</placeName><note type="editorial"> Chalchtaren</note> sygend ein frouw und ein man, so ouch zůloßind. Werni Heß zů <placeName ref="LOC_47.22493_8.65207">Wädischwyl</placeName><note type="editorial"> Wädenswil</note>, der sänn, syge ouch der töüfferischen sect anhängig. Sygend wol mee, so zůloßind und döüffer sygind. Sy bkhänne aber dieselben nit und wüsse nit, wie dieselben heissend. Bit üch, myn g[nädig] h[erren], umb gnaad unnd erledigung der gfänncknuß.<note type="critical">Dieser Text befindet sich auf der Vorderseite des ersten Bogens..</note></p>
+<p rend="margin-top">[Urteil:]<note type="critical">Das Urteil befindet sich auf der Rückseite des zweiten Bogens mit dem ersten Verhör (Nr. 215).</note> 
+<pb n="4" facs="E_I_7_2__Nr__119_2__S__4_.tif"/>
+Disero Teylerinn hatt sich zu der predig zegonnd unnd aller gehorsamj anerpotenn. Ist sy der gefänngknus nach erlegung deß costenns erlasen.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Aufschrift auf der Rückseite des Dokuments. Dort am Schluss die Notiz: <q>Ist ußgelassen</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

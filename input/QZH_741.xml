@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_741</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355174">StAZH E I 7.3, Nr. 120</idno>
+          </msIdentifier>
+          <head>Hans Rudolf Ulmer an Raphael Egli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1604-11-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1604-11-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 627</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__120__S__1_.tif"/>
+<p>Salus in filio dei, sine quo nulla est vita. Erwirdiger, hoch und wolgelerter her. Uwer schriben von einem ersamen egricht ist mir zu komen und drin verstanden, dz ich solle, so vil mir zewüßen, bricht gäben von wagen das <persName ref="Erzinger, Hansmann">Hanßenman Erzigers</persName>, des teüfers uf <placeName ref="LOC_47.30524_8.66126">Guldenen</placeName>, und siner concubinen, ob sy ir ehe nach christenlichem bruch in unßerer kilchen heigint bestettet oder nit, oder so er ungehorsam zu beträtten<note type="editorial"> antreffen, aufgreiffen, Id. XIV, 1486.</note> sig in der pfar <placeName ref="LOC_47.29762_8.69432">Egg</placeName> oder nit. Da wüßent nur also, er hatt sych nit laßen infůren oder syn ehe in unserer kilchen laßen bestetten. Vil lüt zeigent an, eb er das thun werde, werde er ehe das vatterland miden oder den todt liden. Und ich byn auch schier bredt<note type="editorial"> überzeugt, Id. VI, 568.</note> und das uß denen ursachen: Er ist eben der widerteüffer, wie ich vor etlich jaaren zů im und sinen mithaften<note type="editorial"> Anhänger, <hl to="http://fwb-online.de/go/mithafte.s.0m_1646707771"><Hyperlink>http://fwb-online.de/go/mithafte.s.0m_1646707771</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> in ir hauß gangen und myn gesprech mit inen gehalten (wie man dan achtet lut unßerer gnedigen herren erkantnuß<note type="editorial"> Beschluss, Id. III, 373.</note> erbuwlich syn) der mir gseit, was ich mich wel iren bladen und annemen. Da han ich gredt, die wil mir die pfar als einem pfarrer und seelhirten vertruwt von gott und einer ersamen oberkeit, so sige ich schuldig von wägen mines tragenden ampts ein nachforschung zu halten miner vertruwten kilchgnoßen und pfars kinderen, so in der pfar wonint, wie es ein gestalt um sy heig im glauben und laben<note type="editorial"> Leben</note>. Da git er mir zu bscheid, er halte mich nit für syn pfarer und seelhirt, sol mir auch kein beschwert von sintwägen machen, den ich kein rächnung am jüngsten tag sinthalb werde muͤßen geben. Da vermein ich grad selbs, er werd syn ehe durch weder mich noch einen anderen diener unßerer christenlichen kilchen laßen insagnen oder bestetten.</p>
+<p>Was antrefen thůt syn wonung in der pfar <placeName ref="LOC_47.29762_8.69432">Egg</placeName>, so ist mir das zewüßen: So bald ir in für<note type="editorial"> vor</note> ein ersam egricht citiert hand, da ist er 8 tag ußträtten<note type="editorial"> das Land verlassen, Id. XIV, 1479.</note> zů siner sect brůderen, wirt ich brichtet und ich glaubs, und aber nach verschinung<note type="editorial"> Ablauf, Id. VIII, 829.</note> der selbigen 8 tagen fin hüpschlichen wider heim komen. Er wont uf Gůldenen uf einem hoff, der ligt in myner pfar. Sine brůderen wonent in der Tobel müllj<note type="editorial"> Tobelmüli, am Oberlauf des Küsnachter Dorfbaches</note>, dasselb ligt in der Küßnachter pfar, ist aber als unvertheilt und ein haußhaltung. Er, der teüfer, regiert<note type="editorial"> dem Haushalt vorstehen, Id. VI, 735.</note> und hett als ein haupt und haußvatter uf Gůldinen haus, sine bruder aber wonent in der  <placeName ref="LOC_47.321842_8.629159">Tobelmüllj</placeName>. Der her obervogt zů <placeName ref="LOC_47.28333_8.75">Gruningen</placeName>, der hatt in laßen die<note type="critical">Folgt gestrichen: sta</note> tag suchen und mit ernst stauben<note type="editorial"> aufspüren, Id. X, 1078.</note> und aber sy hand<note type="editorial"> haben</note> <pb n="2" facs="E_I_7_3__Nr__120__S__2_.tif"/> und aber sy hand in nit funden, und doch nit versteübt, den 3. tag nach der suchung und staubung hatt man in gesehen, syn vich hüten (deße er ein gantzen stal vol), ja regieren uf dem hof wie vor.</p>
+<p>Die kumlikeit<note type="editorial"> günstige Beschaffenheit, Gelegenheit, Id. III, 286.</note> hand sonster die teufer uf <placeName ref="LOC_47.30524_8.66126">Guldenen</placeName> irj stettige<note type="editorial"> Halsstarrigkeit, Id. XI, 1814.</note> zu erhalten. Es stoßent uf Guldenen 3 herlikeiten zusamen: das ampt Gruningen, <placeName ref="LOC_47.36583_8.6789">Grifensee</placeName> und vogtei <placeName ref="LOC_47.31971_8.61219">Küßnacht</placeName>. Sy hand irj schlüf<note type="editorial"> Schlupfwinkel, Id. IX, 631f.</note> und underhaltungen eintwäders byn liblichen iren brůderen oder irer sect brůderen. Sy hand lüth, die’s warnent. Wen man’s glichten<note type="editorial"> gleichwohl, Id. II, 596.</note> gsůcht und gestaubet hett die jaar her offt, hatt man’s doch nie funden nach versteubt oder zů einicher gehorsame mogen bringen, sonder uf der stedt<note type="editorial"> auf der Stelle, Grimm 17, 961.</note> sind sy wider verhanden gsin. Sy wichent aber nit wit und lebent für und fhür in der ungehorsame wie vor und sehent kein kilchen ordnung oder die oberkeit mit iren christenlichen sazungen gentzlichen nit an.</p>
+<p>Jetz zemal stadt es, wirt ich also brichtet, sy bede personen, der <persName ref="Erzinger, Hansmann">Hanßenman</persName> der teufer und sein concubinen, sigint uß trätten<note type="editorial"> usträtten: das Land verlassen, flüchten, Id. XIV, 1479.</note> und ist uf dys mal nüt zu schaffen. Aber wol bald ötwes ußzůrichten, wen man begart, den rächten ernst anzuwenden. Sy sind der ardt, sy hand irj nachburen, verschwegerten, wil gfar verhanden irj gespäch und verschlüfent sich wie die murmelthierlj und land sych doch einswägs wider fhüren. In einer wuchen 3, 4, wen sy meinent alles witter sich uberen, fint mans so gwüß, wen man wil den rächten ernst bruchen, als die sternen am himel stand. Ich hans in irer glaubens meinung ietz 24 jaar mußen han. Ich wett gern, dz dyße widerwertig sect sich nur nit merete. Diewil aber sy für und für sich des geists habent grumpt, ietz aber sich dyße fleisch sach darzu schlacht und letschlichen kinder by einanderen zügent, wie sol man sich halten? Last man das nach, gnedig ir min herren, so wirt man ie lenger ie fracher und die ergernuß in unßerer kilchen ie lenger ie großer. Ich bitt um gottes willen, ir wellint helfen, dyse sach zum besten und gott wolgefelligisten richten. Sind, fürnemmer her, göttlichem schirm befolhen und von mir fast<note type="editorial"> fest, sehr</note> grůtzt. Datum zů Egg, 27. novem[bris] anno 1604.</p>
+<p rend="margin-top">U[wer] e. d[iender des] w[orts] Hanß Růd[olf] Ulmer</p>
+<pb n="3" facs="E_I_7_3__Nr__120__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__120__S__4_.tif"/>
+<p rend="margin-top">Dem erwirdigen, hoch und wolgelerten herren, herren Raphael Eglj, predicanten zum grosen münster und eherichter dyser zit der stadt und landtschafft Zürich.</p>
+</div>
+    </body>
+  </text>
+</TEI>

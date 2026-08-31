@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_327</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355048">StAZH B IV 36, fol. 68r-69r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Sebastian Steiner</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1576-08-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1576-08-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 213</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern früntlichen, geneigten willen unnd alles guts zuvor. Frommer, vester, besonnders gethrüwer, lieber lanndtseß<note type="editorial"> hier der Inhaber eines Herrschaftssitzes, Id. VII, 1362.</note>, nachdem<note type="critical">Folgt gestrichen: unnser besonnderß gethrüwer, lieber burger Heinrich Tomann, dynn lieber schwächer unnd du unns</note> wir<note type="critical"><q>wir</q> am Rand</note> der tagen verstenndiget, wie das dir zwo mannßpersonenn (so nit nun jnn dynner unnd dynner mitgeschwüstergiten herrschafft <placeName ref="LOC_47.51036_8.68333">Wülflingen</placeName><note type="editorial"> Nach dem Tod des Vaters 1565 war <persName ref="Steiner, Wolfgang">Wolfgang Steiner</persName> Vormund des Sebastian und dessen Geschwister.</note>, sonnder ouch<note type="critical"><q>ouch</q> über der Zeile</note> ann etlichen orthenn unnd ennden jnn unnser graffschafft <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> ein hüpsche anzal unnserer unnd üwerer unnderthonen (mit ynbilldung<note type="editorial"> Vermittlung, vgl. <bibl><ref target="http://www.fwb-online.de/go/einbilden.s.3v_1709316726">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> faltscher toüferischer leer) dermaßenn ufgewiglet unnd betrüglicher wyß hinnderganngenn, daß der merer theil unnder jnenn ußert unnser beidertheilenn herrlichkeiten ann anndere orth unnd ennd, alda sy sich söllicher jrer verfürischen sect rüwig unnd sicher gebruchenn bedörffend<note type="critical">Folgt gestrichen: zech</note>, zezüchen vorhabenß syginnd) fenngklich zugefürt worden. Unnder wellichenn beidenn der ein von sannct <placeName ref="LOC_47.42214_9.37554">Gallenn</placeName>, <persName ref="Falk, David">David Falck</persName> genant<note type="critical"><q>David Falck genant</q> am Rand mit Verweiszeichen</note>, unnd dero einer syge, so wir by annderthalben jarenn ungefarlich vonn söllicheß syneß ufrürischenn predigenß wegenn als den rechten redlifürer ouch jnn unnseren bannden gehept, doch jnne uff synn zusagenn unnd verprechenn, das er by dem wörtlin ja (so er so hoch als ein eydtschwur acht) uß allenn unnd jeden unnseren oberkeiten, grichten unnd gepieten ziechenn unnd niemermer darjnn kommen welle, der gefangenschafft gelediget unnd jmme mit lutherenn wortenn unndersagenn laßen<note type="critical"><q>laßen</q> am Rand mit Verweiszeichen</note>, wover er hierüber jnn unnseren lanndenn betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, werde man zu jme als einem meineyden mann one alleß verschonen richten. Unnd so nun vorgenanter David<note type="critical"><q>vorgenanter David</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: […] unß erjnnern, daß eß jnmaßen dyn leiber schwecher unnd du unß eroffnet und wir sunst verstanden berichtet erganngenn unnd fürnemlichenn verstanndenn, das der ein gefanngner, so vonn sannct Gallenn</note> erst so nüwlich über synn gethone zusag sich jnn unnser graffschafft Kyburg unnd, als wol zuvermutten, jnn annderen unnß zugehörigen orthenn unnd ennden mer finnden laßenn, so seche unnß für gutt unnd thunlich an, sidtmalenn<note type="editorial"> da, weil, Id. IV, 147.</note> er synn versprechen<note type="critical">Folgt gestrichen: nit minder jnn unnseren dann jnn dyner unnd dyn geschwüstergiten herrlichkeiten</note> ubersechenn, das er unns zu unnseren hanndenn uberantwort unnd umb synn übertreten mengklichenn<note type="editorial"> jedem</note> der unnserenn zu einem abschüchenn gestrafft und gebüsst wurde. Unnd jst hieruf an dich unnser frünndtlichs begerenn, du wellist ordnung gebenn, damit gemelter<note type="editorial"> erwähnter</note> gefanngner vonn sannct Gallen uff bequemliche<note type="editorial"> gelegene</note> zyt unnd stunnd, so du unnd unser vogt zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> uch miteinannderenn wol zu<note type="critical"><q>zu</q> über der Zeile</note> verglychen wüßend<note type="critical"><q>wüßend</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: werden</note>, vonn den dynen uß dem schlosß Wülflingen biß zu den<note type="critical">Folgt gestrichen: ußern</note> grenzen Wülflingischer herrlichkeit wol verwart gefürt unnd alda unnserenn verordneten zugestelt unnd uberantwortet werde. Alles inn der heiterenn erlütherung, zusagen und versprechen, das wir solichs für kein gerechtickeit<note type="editorial"> Rechtshoheit, Befugnis, vgl. <bibl><ref target="http://www.fwb-online.de/go/gerechtigkeit.s.1f_1709289146">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> haben, sonder<note type="critical"><q>zusagen und versprechen … sonders</q> am Rand mit Verweiszeichen</note> daß sollicheß gefanngnenn ubergebung die dynen geschwüstergiten, auch üweren erben unnd nachkommenden jnnhabern der herrschafft <placeName ref="LOC_47.51036_8.68333">Wülfflingen</placeName><note type="critical"><q>auch üweren erben … Wülfflingen</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: von wegenn uwerer herrschafft Wülflinngenn</note> ann allen derselbigenn habenndenn oberkeit hoch und nider herrlikeit althargebrachte frygheit unnd rechtsamme<note type="editorial"> Rechtsverhältnisse, Id. VI, 318.</note>, so sj malefices<note type="editorial"> Hohe Gerichtsbarkeit, Id. IV, 167.</note> <note type="critical">Folgt gestrichen: halber</note> unnd sonnsten ander sachen halben<note type="critical"><q>ander sachen halben</q> über der Zeile, in der Zeile gestrichen: erlanng</note> gennzlich vernnd jnn allweg, unabbrüchlich, unnachteilig, unvergrifflich<note type="critical"><q>unvergrifflich</q> am Rand, in der Zeile gestrichen: un[…]</note> unnd unschedlich synn soll, wie wir unnß dann deß alleß um diserem unserm schryben protestierend unnd bekhennend hinnwiderumb dir unnd den dynenn jnn glychen ald<note type="editorial"> oder</note> annderen fälen günstigen willen zuerzeigen, sinnd wir urbietig<note type="editorial"> bereit, Id. IV. 1881.</note>. Datum mentags den 27ten augustj a[nn]o 76.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName></p>
+<p rend="margin-top">Dem frommen, vesten Sebastion Steinnerenn zu Wülflingen, unnserem besonnderß gethrüwen lieben landtseßen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

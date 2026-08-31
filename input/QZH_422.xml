@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_422</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354903">StAZH B II 208, S. 28-29 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Beschlagnahmung der Güter zweier Täufe in Bülach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1584-10-14"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1584-10-14"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 308</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Mathis, Pankraz">Pangratz Mathyßen</persName> (wirts zum Kopff zů <placeName ref="LOC_47.52804_8.54071">Bülach</placeName>) schwösteren (so jnn das <placeName ref="LOC_49.5_17">Mehrernland</placeName> getzogen) gůte soll jnn verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> gleggt werden, also das jnen jetzmaln darvon nützit nachfolgen, darnebent gemellter Mathyß (so diß gůt underhanden<note type="editorial"> im Besitz, Id. II, 1390.</note>) von den herren obervögten darumb rechnung geben.</p>
+<p>Was gůts der Frölich<note type="editorial"> <persName ref="Frölich, Junghans">Junghans Frölich</persName></note>, so ein ­toüf­fer und ufwigler jst, zů Bülach hatt, soll jnn ansehung syner ungehorsamme unnd widerspennigkeit zůhanden deß spitals alhhier genommen und daselbs biß uff wytern bscheid enthallten<note type="editorial"> verwahren, Id. II, 1229f.</note> werden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Mittwuchs, den 14ten octobris p[raese]nt[ibus] herr Kamblj unnd beid räth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

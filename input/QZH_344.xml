@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_344</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=4634256">StAZH A 27.18.10, Nr. 16</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Polei Winkler</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1578-09-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1578-09-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 230</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p><persName ref="Winkler, Polei">Polej Winckler</persName> von <placeName ref="LOC_47.52804_8.54071">Bülach</placeName> bürtig, den herr vogt Tschudj zů <placeName ref="LOC_7.56767_8.41902">Keyßerstůl</placeName> üch, minen g[nedigen] herren<note type="critical">Folgt gestrichen: ob dem gricht zu Wiach</note>, fencklichen überschickt<note type="critical">korrigiert, ursprünglich: überschicken</note>, gibt uff der verordneten herren fürhallten<note type="editorial"> Darlegung oder Vorwurf, Id. II, 1234.</note> den bericht und bscheid: Demnach er sich by vier jaren ungfhar mitt <persName ref="Vischer, Kathrina">Tryna Vischern</persName> von <placeName ref="LOC_47.55612_8.43971">Wiach</placeName><note type="editorial"> Weiach</note>, by deren er gediennet, vereelichet, syge er bald darnach mitt gemellter<note type="editorial"> erwähnter</note> syner eefrowen und fünff kinden, so sy by jrem vorigen eema er­tzüget, von großer thüre<note type="editorial"> Teuerung</note> ouch ungehorsame etlicher jrer kinden<note type="critical">Folgt gestrichen: halb</note> wegen und ouch zum teil von etlichen ­toüf­feren überredt, jnn das <placeName ref="LOC_49.5_17">Meerhernlandt</placeName> getzogen. Daselbs er sich ein zyt lang enthallten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note>, volgents aber widerumb gen Wiach kommen und als man jnne alda nit dulden wellen, sonders vogt Tschudj jm hinweg bieten lasßen, habe er sich by 2 jaren ungfhare jnn franckrychischen zug<note type="editorial"> Fünfter oder Sechster Hugenottenkrieg</note> begeben. Sonst enthalte sich gedachte syn eefrow, die Vischerin, sambt 2 kinden, so diennind, noch jm Merrhern land. Und wiewol dieselbig jme enbotten, das er wider hinab kommen und sich jnn die ­toüf­feryg begebe, syge er doch deßen gentzlichen nit gesinnet.</p>
+<p>Was dann <persName ref="Leemann, Veronika">Fronnegg Leemanin</persName> antrifft, syge er bekhandlich, dieselbig geschwengeret und jren die ee verheisßen haben, doch nit annderer gstallt (das ouch sy, die Leemanin, sagen werde) dann wann er von der Vischeren, so jm Merrhern land syge, der ee halb gelediget und gescheiden werden möge. Bittet üch, min g[nedig] herren, wo er gfelt umb gnad unnd erlasßung der gfangenschafft.</p>
+<p rend="margin-top">[Urteil]: Diewyl er sich drygfacht übersehenn, jnndem das er jnn <placeName ref="LOC_49.5_17">Merhern</placeName>, deßglychen jnn <placeName ref="LOC_46_2">Frannckrych</placeName> zogen und dann die ee brochen, soll er myner herren gricht und gepieth myden, syner frouwen nachzüchen und nit meer widerkommen. Actum den 27ten septembris anno etc. 78 p[raese]nt[ibus] herr Kamblj<note type="editorial"> <persName ref="GND_143680544">Hans Kambli</persName></note> unnd beid reth.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ursprüngliche Aufschrift auf der Rückseite des Dokuments: Poleyg Wincklers von Bülach antwort</p>
+      </div>
+    </back>
+  </text>
+</TEI>

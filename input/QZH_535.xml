@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_535</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355240">StAZH E I 7.3, Nr. 51; Abschrift des 17. Jh.: ZBZ, Ms A 72, S. 432</idno>
+          </msIdentifier>
+          <head>Begnadigung von Heinrich Wyss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1590-01-21"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1590-01-21"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 421</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[Urteil gegen den] Schůlmeister Wyß: Als er sich jm gleit selbs persönlichen vor mynen herren gestelt und dise bekandtnuß nochmalen gethaan, ouch sich anerbotten, zů kilchen zegaan und myner herren ordnungen und satzungen als ein gehorsamer burger gemesß zehalten, hand myn herren jnn wider begnadiget, das er wider alhie sicher wonnen möge, doch das er synem erbitten statt thuͤge und aber für sich selbs dheins<note type="editorial"> keines</note> wegs schůl halte, sonders sich deß enthalte, und so er zů <persName ref="Huber, N.">Hůbern</persName> oder <persName ref="Edlibach, Matern">Edlibachen</persName> etwas ansprach<note type="editorial"> Anspruch, Forderung Id. X, 722.</note>, mag er sy darumb vor mynen herren rähtlichen besůchen. Actum mitwuchs den 21ten jänner anno etc. 90 p[raese]nt[ibus] herr <persName ref="GND_143659413">Tommann</persName><note type="editorial"> Kaspar Thomann</note> und beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

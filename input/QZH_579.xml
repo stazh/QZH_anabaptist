@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_579</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=2500451">StAZH C III 12, Nr. 17</idno>
+          </msIdentifier>
+          <head>Verzeichnis von Gütern ausgewanderter Täufer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1593-10-29"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1593-10-29"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 465</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Verzeichnus der jenigen personen, so uss<note type="critical"><q>uss</q> über der Zeile, in der Zeile gestrichen: jnn</note> der herrschafft <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> jnn <placeName ref="LOC_49.5_17">Meerherren</placeName> gezogen, hab unnd gute, so sy nach jnn der herrschafft haben unnd wellicher gstallt dasselbig versicheret.</p>
+<p>Unnd Jacoben Wegmans zu <placeName ref="LOC_51_13.0667">Rossouw</placeName><note type="editorial"> Rossau</note> gemeiner statt verwurckt hab unnd guts und<note type="critical"><q>guts und</q> über der Zeile</note> versicherung desselben.<note type="critical">Aufschrift auf der Rückseite des Dokuments.</note></p>
+<p rend="margin-top">Actum montags den 29. t[ag] octobr[is] anno etc. 93 p[aese]nt[ibu]s herr vogt Meyger von Knonouw<note type="editorial"> Hans Heinrich Meyer von <persName ref="Meyer von Knonau, Hans Heinrich">Knonau</persName></note>, herr amptman Laffater<note type="editorial"> Hans Lavater (1549-1595)<persName ref="Lavater, Hans"/></note> unnd rechenschryber Keller<note type="editorial"> Hans Keller (1537-1601<persName ref="Keller, Hans"/></note>.</p>
+<p rend="margin-top"><persName ref="Wys, Barbara">Barbara Wysin</persName> von <placeName ref="LOC_47.25368_8.48941">Hefferschwyl</placeName><note type="editorial"> Vermutlich Herferswil</note>, so vor jaren jnn Meerherren gezogen, hatt an hab unnd gut hinder jro verlassen 81 g[ulden]. Die hatt <persName ref="Bär, Hans">Hanns Bär</persName> zu <placeName ref="LOC_47.2215_8.49812">Ürtzligken</placeName>, so jre schwöster zur ee hatt, mitt einem schuldbrief darjn benampsete unnder estand vermeldet, versicheret by dißer summ, stand 2 zinns uß<note type="critical">Marginalie: Nota, jst eben ein zinß vom 93. jar bekantlich</note> unnd gfallt jm jenner anno etc.<note type="critical">Folgt gestrichen: 93</note> 94 der dritte zinns, will biß wienacht zween zinns zalen.</p>
+<p><persName ref="Hurter, Jakob">Jacob</persName> unnd Hanns die <persName ref="Hurter, Hans">Hurter</persName> von Urtzligken<note type="editorial"> Uerzlikon</note> habend von <persName ref="Vollenweider, Klaus">Clous Vollenweiders</persName>, ouch zu Urtzligken, so mitt wyb unnd kinden jnn Merherren gezogen, syn frouw (heißt <persName ref="Bickel, Anna">Anna Bickel</persName>) soll noch mitt ettlichen kinden jm läben syn. Er, Clous, jst jm krieg umbkhommen, hab und gute nach allem abzug 108 pfund<note type="critical">In der Vorlage: lb</note>, mitt jnen je also abkhomen, das sy die jerlich uff marthyni<note type="editorial"> 11. November</note> gebpurlich verzinnsen und das houptgut anno etc. 96 erleggen sollen. Darumb setzen sy jn zweyg manwerch<note type="editorial"> Flächenmass, entsprach oft einer Juchart, Id. XVI, 1226.</note> wißen<note type="critical">Folgt gestrichen: geh</note>, genant Dhillten, stoßt hinden an <placeName ref="LOC_47.213812_8.521173">Schonenbůl</placeName><note type="editorial"> Vielleicht Schönenbüel, nördlich von Baar</note>, denne an <persName ref="Linger, Heini">Heinj Lingers</persName> <placeName ref="LOC_47.220264_8.508312">Wolffstuden</placeName><note type="editorial"> Wolfstud</note>, jtem an Ur[z]ligker gmeinwerch, jst ledig unnd eigen. Gemelter Clous hatt ein schwöster hatt jm <placeName ref="LOC_47.15886_8.53866">Zugerbiet</placeName> ein man, jst zimblich notig<note type="editorial"> Not leidend.</note>.</p>
+<p><persName ref="Huber, Konrad">Cunradt Huber</persName> zu <placeName ref="LOC_47.21993_8.57012">Wessenmatt</placeName> hatt 10 g[ulden] von <persName ref="Ebli, Heini">Heinj Eblj</persName> von <placeName ref="LOC_47.22639_8.54962">Ebertschwyl</placeName><note type="editorial"> Ebertswil, Ort der Gemeinde Hausen am Albis</note>, so jnn Meerherren gezogen, und allein ein schwöster hatt, so ouch jnn <placeName ref="LOC_49.5_17">Meehrerren</placeName> gezogen; die sind jnnen gelichen uf drü jor, gfallt uff marthinj 96, die soll er ouch underzwüschent verzinsen, dorumb setzt er jm syn hab unnd gut liggenn und varents darvon nützit usgenommen.</p>
+<p><persName ref="Bickel, Oswald">Oßwald Bickel</persName> von <placeName ref="LOC_47.28167_8.45023">Affholteren</placeName><note type="editorial"> Affoltern am Albis</note> hatt ein vogt tochter Tomen Bickels seligen tochter, jst jnn Merherren gezogen, vom man von<note type="critical">In der Vorlage: vom</note> dem<note type="critical"><q>dem</q> über der Zeile, in der Zeile gestrichen: des</note> sy desswegen gescheiden syn soll, will angentz rechnung geben, unnd was er by derselbigen blybt, versicherung thun.</p>
+<p><persName ref="Schürer, Jakob">Jacob Schürer</persName> von <placeName ref="LOC_47.28833_8.43124">Zwilligken</placeName><note type="editorial"> Zwillikon</note> als vogt <persName ref="Sandmann, Hans">Hannsen Santman</persName>, so mitt wyb und 7 kinden jnn Meerherren gezogen, jst by rechnung schuldig bliben 270 pfund, sydt der rechnung sind 10 pfund zinns ufglouffen, thut also dz gantz gut 280 pfund. Darvon <persName ref="Ebrächt, Konrad">hatt Cunradt</persName> und<note type="critical"><q>Cunradt und</q> am Rand mit Verzweisungzeichen</note> Hanns, die<note type="critical"><q>die</q> über der Zeile</note> <persName ref="Ebrächt, Hans">Ebrächten</persName>, gebruder zu Affholteren, 200 pfund, die<note type="critical">Folgt gestrichen: verischert sy dergstallt</note> versicherung wellen sy mir angentz zustellen. No[ta]<note type="critical">Nota unterhalb des Abschnittes mit Verweiszeichen</note>: soll uff syn hab unnd gut gestellt werden. Die übrigen 80 pfund will Jacob Scherer ouch versicheren und mir die verzeichnus desselben angentz zustellen.</p>
+<p><persName ref="Wyss, Joggli">Joglj Wyß</persName> von <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName> jst mitt syner frouwen <persName ref="Lüssi, Barbel">Barbel Lüsinen</persName> unnd drygen kinderen, <persName ref="Lüssi, Erhard">Erhart</persName>, <persName ref="Lüssi, Jaggli">Jaglj</persName> <persName ref="Lüssi, Thomann">unnd Thoman</persName>, jnn dz Meerherren land gezogen, hand noch an houptgut 55½ g., darvon soll <persName ref="Lüssi, David">Davit Lüsi</persName> von <placeName ref="LOC_47.24435_8.53664">Husen</placeName><note type="editorial"> Hausen am Albis</note>, gemelter Lüsinen bruder, 25 g., die will er uff ervordern leggen und underzwüschnt jerlich uff marthinj verzinsen, darumb setzt er jn syn huß und hofstatt krut- und boumgarten, einer ku, winterig sampt einem hanffland viertliger sat an ein anderen zu Husen gelegen, genant Musegg, stosst an des Müllers boumgarten, deme an der landtstras<note type="critical">Folgt gestrichen: jtem</note> und an Ůlj Neffen Müllimatten, darab gadt 1 müt k[ernen] jnn <persName ref="Hitz, Joggli">Jogly Hitzen</persName> hoff unnd 100 g. houptgut […]<note type="critical">Lesung unklar</note> <persName ref="Denzler, Christen">Christen Dentzler</persName> in Zürich.</p>
+<p>Der uberigen 61 pfund soll <persName ref="Wyss, Heini">Heiny Wyß</persName> von <placeName ref="LOC_47.30147_8.45094">Hedingen</placeName> glycher gstallt uff ervorderen zuleggen unnd underzwüschent uff marthinj verzinnsen, darumb will er jndert 14 tagen trostung<note type="editorial"> Bürgschaft, Id. XIV, 1421.</note> geben, underzwüschent soll dis underpfand jm zedel<note type="critical"><q>jm zedel</q> am Rand mit Verweiszeichen</note> mit F zeichnet hafft blyben.</p>
+<p><persName ref="Kleiner, Jakob">Jacob Kleiner</persName> genant Joß von <placeName ref="LOC_47.24779_8.46399">Mettmenstetten</placeName> als vogt Verene Buchmannen<note type="critical">Am Rand mit Verweiszeichen: <persName ref="Buchmann, Verena">Nota</persName></note>, <persName ref="Müller, David">David Müllers</persName> von Knonouw husfrouw, so beide jnn Meerh[erren]<placeName ref="Mähren"/> gezogen, jst by jrem gut zethun, so die frouw von jrem vatter<note type="critical">Folgt gestrichen: erb</note> ererbt 81 g., die will er jerlich<note type="critical">In der Vorlage: jelich</note> uff marthynj verzinnßen unnd jm 61. jr, so syn wirtt jm 1600. jar widerumb zuerleggen, dorumb setzt er jnn all syn hab unnd gut.</p>
+<p><persName ref="Hegi, Adam">Adam Hegi</persName> zu Heist<note type="editorial"> <placeName ref="LOC_47.25015_8.53023">Heisch</placeName></note> als vogt Daniel Stägers, ouch von Heist<note type="critical"><q>ouch von Heist</q> über der Zeile</note>, so mit syner frouwen und 5 kinden jnn Merherren gezogen, soll by dem kouff deß hußes unnd empfangnen huszinnses 120 g. drü jor verzinnsen, gfallt der erst zins uff marthinj 94. Jm vierten<note type="critical"><q>vierten</q> über der Zeile, in der Zeile gestrichen: dritten</note> jor 20 g. und dann alle jor 20 g. mitt sampt dem zinß, darumb setzt er jn syn matten genant Bützler, jst dryg […]<note type="critical">Lesung unklar</note> winterig stoßt oben an <persName ref="Bruder, Joggli">Joglj Bruders</persName> juchacher denne an <persName ref="Hegi, Heini">Heini Hegis</persName> Roossenmatt und an <persName ref="Leuthard, Grosshans">Großhans Lüthartts</persName> matten, darab gath 100 pfund houptguts jnns allmußen Zürich, sonst ledig.</p>
+<p><persName ref="Büchler, Hans">Hanns Büchler</persName> von Obermettmenschtetten hat sich von wegen siner schwöster tochter <persName ref="Stäger, Verena">Verena Stägeren</persName>, <persName ref="Rusacher, Heini">Heinj Rusachers</persName>, so zu <placeName ref="LOC_46.7847_8.64175">Urj</placeName> dienet, efrouwen (die auch vor jaren jnn Meerherren land gezogen) gute, so 69 g. wyst luth eines briefs verschriben.</p>
+<p><persName ref="Steigmeier, Baschi">Baschj Steigmeyger</persName>, der gerwer zu <placeName ref="LOC_47.23479_8.42916">Maschwanden</placeName>, soll <persName ref="Wegmann, Jakob">Jacoben Wegmann</persName>, da aber er syn gut wegen eines schandtlichen schrybens gmeiner statt verwürkt, 160 pfund darumbe vormals ein gültbrief ufgricht, welchen aber er, Wegmann, byhanden unnd deßwegen unmůth syn soll. Unnd verschrybt gemelter gerwer<note type="critical"><q>gemelter gerwer</q> am Rand</note> sich deßhalben uff ein nüws gegen mynen herren uff ein ewigs gült jerlich uff marthinj verzinsen.</p>
+<p>Darumb setzt er jn sein gerwj, hat hus unnd hoffstatt, jtem vor dem hus ein krutgarten und darhinder ein boumgertlj eines vierlings groß zu Marschwanden unden<note type="critical"><q>unden</q> am Rand</note> jm dorf gelegen, stost einersyt an bach denne an das gmein[we]rch, das Steinegg genant, unnd an <persName ref="Steiner, Barbel">Barbel Steineren</persName> krutgarten. Darab gath der gmeind 2 pfund gelts zinß, mee ein hanffland viertliger sath sampt einem vierling wißwachs und ein kue, das jnn auch zů Maschwanden unden jm dorf gelegen, stost allenthalben an das gemein[we]rch, alte statt genant, jst ledig. Von dißem houptgut soll es mit zins anno 93 vier zinß, die wil er uff wienacht halb und aber halb uff osteren erl[e]gen.</p>
+<p>Glychergstalt verschrybt sich <persName ref="Ruscher, Hans">Hannß Ruscher</persName> von <placeName ref="LOC_47.22402_8.55923">Hirzwangen</placeName> von gemelts Wegmans wegen by eigen unnd erb über das, so er zallt 76 pfund, die will er jerlich uff marthinj verzinnsen und auf marthinj 97 mitt dem zins zuerleggen, darumb jst pfand die güter, by denen er den kouffschilling daher dißers sum ouch kompt<note type="critical">Folgt gestrichen: uff jeg</note> zethun nebent ubrigem synem hab und gut.</p>
+<p>Die schuldigen zins will er<note type="critical">Folgt eine Wortstreichung</note> ohn verzug abrichten.</p>
+<p><persName ref="Huber, Jakob">Jacob Huber</persName>, undervogt von Tüffenbach, verschrybt sich glycher gstalt umb 200 pfund von gesagts Wegmans wegen uff sechs jar doch uff marthinj anno etc. 93, darumb setzt er jn synem hoff Tüffenbach mit allen synen stuken und gütteren, wie der jnn deß closters zu <placeName ref="LOC_47.22523_8.51104">Cappel</placeName> urbar der lenge nach beschriben jst. Darab gatd 9 pfund gelts gen Cappel, 50 pfund zinß<note type="critical"><q>zinß</q> über der Zeile</note> Hans <persName ref="Boller, Hans Jakob">Jacoben Bollers</persName> stüfkind, 40 pfund zinß h. Hanns <persName ref="Gensbech, Hans Wolf">Wolffen Gensbech</persName>, sind jnn 2 jaren losig.</p>
+<p>Michel Seli<note type="critical">Folgt eine <persName ref="Seli, Michel">Wortstreichung</persName></note> von <placeName ref="LOC_47.26217_8.41262">Luneren</placeName> sol 90 g. von wegen Jacob Schochen unnd syner frouwen <persName ref="Steli, Verena">Vrena Stelin</persName> von <placeName ref="LOC_47.28147_8.40942">Otenbach</placeName>, so mit jren kinnden jnn Meerherren gezogen<note type="critical"><q>so mit jren kinnden … gezogen</q> am Rand mit Verweiszeichen</note>, darumb gibt er pfandt syn matten und weid, jst 20 jucherten groß, Bärenrütj genannt, zů Luneren gelegen, stoßt an Oberlunerer gmeinwerch, denne an ein geßlj, so der Maschwander gmeindsheit, und an das niderluner gmeinwerch. Gemelte 90 g. soll er drü jahr verzinsen unnd jm vierten jar leggen als uff martinj.</p>
+<p><persName ref="Gut, Melchior">Melcher Gut</persName> von <placeName ref="LOC_47.26426_8.409">Niderluneren</placeName><note type="editorial"> Unterlunneren</note> sampt synem bruders sohnen habend von <persName ref="Gut, Hans">Hanns Guten</persName> von Luneren, so mitt wyb unnd kinden jnn <placeName ref="LOC_49.5_17">Meerherren</placeName> gezogen nach 25 g. Die wellen sy jehrlich uff martinj verzinnßen unnd uff ervorderen widerumb erleggen von unnd abe jrem hab unnd gute<note type="critical">Folgt gestrichen: zu</note> ligendem unnd varendem sampt unnd sonderem.</p>
+<p><persName ref="Steli, Hans Rudolf">Hanns Rudolff</persName> und Hans die Stelinen<note type="critical"><q>und Hans die Stelinen</q> am Rand mit <persName ref="Steli, Hans">Verweiszeichen</persName></note> von Ottenbach soll<note type="editorial"> ist schuldig</note> jnn <persName ref="Schoch, Jakob">Jacob Schochen</persName>, so wie vorgemelt jnn Meerherren gezogen mitt wyb unnd kind, gut 90 g. Die will er jerlich uff marthinij verzinnsen unnd uff ervorderen widerumb erleggen, darumb gibt er volgende underpfand: syne matten, jst drü mannwerch jnn der Lomatt, so herwert<note type="editorial"> diesseits, Id. XIV, 1630.</note> dem bach liggt, stosst an <persName ref="Sidler, Jakob, Erhard">Jacob Sydlers</persName> matten, denne an bach unnd an <persName ref="Sidler, Heini">Heinj Sydlers</persName> erben Lomatten weid, demnach 2 jucharten acher der Lomatten, als genannt endert dem bach, stoßt an dstraß gen <placeName ref="LOC_47.35346_8.32984">Bremgarten</placeName>, gath denn an <persName ref="Müller, Thoman">Thommen Müllers</persName> von <placeName ref="LOC_47.22983_8.83884">Jonen</placeName> acher unnd an bach, darab gath 100 g. jnn müntz dem schultheisen gen Bremgarten an houptgut.</p>
+<p><persName ref="Wegmann, Hans">Hanns Wegmann</persName>, schmid zů <placeName ref="LOC_47.24502_8.49899">Rifferschwil</placeName><note type="editorial"> Rifferswil</note>, hatt von <persName ref="Baumann, Hans">Hannßen Bumans</persName> synes schwagers, so mit wyb und kind jnn Meerherren gezogen, hab und gute 70 pfund, darvon hat jmme vogt Bräm<note type="editorial"> Andreas Bräm</note> 20 pfund verert und gschenkt und die ubrigen 50 pfund soll er versicheret und vogt Bräm<note type="critical"><q>Bräm</q> über der Zeile, in der Zeile gestrichen: brief</note> den brief by synen handen haben, er hatt uns den nit wellen zuschicken, sonder zeigt an, das er darumb bscheid geben welle. Sonsten were es gut, das die sachen all by einander weren.</p>
+<p><persName ref="Stierli, Hans">Hanns Stierlj</persName>, so denne aber Hanns und <persName ref="Stierli, Uli">Uli</persName> die Stierlinen, <persName ref="Stierli, Andres">Andres Stierlis</persName> seligen son, all zů <placeName ref="LOC_47.28147_8.40942">Ottenbach</placeName> verschrybend sich umb 100 pfund by eigen und erb<note type="critical"><q>by eigen und erb</q> am Rand mit Verweiszeichen</note>, so sy jrer schwöster unnd Ros<note type="critical">Lesung unsicher</note> <persName ref="Stierli, Ros Verena">Verena Stierlinen</persName> <persName ref="Sandmann, Hans">Hannsen Santmanns</persName> husfrouw, so mitt ein anderen mit 7 kinden jnn Meerherren gezogen, die allen sy uff ervorderen wider leggen und bis dahin verzinsen, darumb setzend sy jn namlich jr<note type="critical">Folgt gestrichen: hab und gut</note> hoff, den sy von jrem vatter und grosvatter seligen ererbt, zu Ottenbach gelegen, datum marthinj anno 93.</p>
+<p>Nota: h[er]r vogt Bräm hatt hiervon 15 pfund zins von 3 jaren har jngnon.</p>
+<p><persName ref="Huber, Simon">Simon Hubers</persName> an der <placeName ref="LOC_47.21566_8.57354">Silbrug</placeName> gut, so mit der frouwen unnd dem sohn jnn <placeName ref="LOC_49.5_17">Meerherren</placeName> gezogen, hatt vogt Bräm syn hand darüber geschlagen<note type="editorial"> hand schlagen: Eigentum angreifen</note>, also das wir darjnn nützit handlen konnen. No[ta]: <persName ref="Huber, Joggli">Joglj Huber</persName> uff dem <placeName>Schweickhoff</placeName> jst vogt.</p>
+</div>
+    </body>
+  </text>
+</TEI>

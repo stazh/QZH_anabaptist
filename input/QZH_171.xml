@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_171</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355027">StAZH B IV 19, fol. 38</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Itelhans Thumysen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Entwurf</filiation>
+              <filiation type="original"><origDate when="1552-05-11"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1552-05-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 57</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>[…]<note type="editorial"> Das Schreiben beginnt mit Anweisungen, was der Landvogt gegen den trunksüchtigen Pfarrer Ulrich Röust von Wila, gegen Uli Benninger wegen Zauberei und gegen Pfarrer Rudolf Baltenschwyler in Brütten, der als Feldprediger weggezogen und seine Gemeinde zurückgelassen hat, unternehmen soll.</note> <persName ref="Mundtprat, Bartholomäus">Poley Mundtprat</persName><note type="editorial"> Zu Poley bzw. Bartholomäus Mundprat, vgl. QGTS 2, Nr. 373.</note>, so ettwan<note type="critical"><q>ettwan</q> über der Zeile</note> ein pfründer<note type="editorial"> Inhaber einer Pfründe in einem Spital, Armenhaus oder Altersasyl, Id. V, 1291.</note> zu <placeName ref="LOC_47.49675_8.73417">Winterthur</placeName> gwesen, soll gar ein seltzamer mentsch, ufrürisch und der töuferischen sect anhengig syn und sich merentheils zu Winterthur enthalten. Darumb wellist uff jne din spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> und ufsechen machen und, so er betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> wirt<note type="critical">Folgt gestrichen: jne</note>, fengklichen annemen und zu gepürlicher gehorsame und straf<note type="critical"><q>und straf</q> am Rand mit Verweiszeichen</note> halten.<note type="critical">Folgt gestrichen: wellist</note></p>
+<p>[…]<note type="editorial"> Es folgen Anweisungen wegen verbotener Feierlichkeiten bei Taufen und Abdankungen.</note> Datum mitwuchs, den xjten maj a[nn]o lij.</p>
+<p rend="margin-top">B[urgermeister] u[nd] R[at] d[er] st[att] Z[ürich]<placeName ref="Zürich"/></p>
+<p rend="margin-top">Vogt zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

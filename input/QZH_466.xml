@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_466</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>ZB Zürich, Ms A 67, S. 122-126 (handschriftliche Zusammenfassung von Antistes Hans
+              Rudolf Stumpf, 1588)</idno>
+          </msIdentifier>
+          <head>Zusammenfassung von Balthasar Malers Bittschrift</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1588-07">ca.</origDate></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-07">ca.</origDate>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 352</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">| [S. 121] […]<note type="editorial"> Vorausgehend endet die Abschrift Stumpfs von der Bittschrift Samuel Heideggers.</note> Hernach volget Balthasar Malers deß widerteüffers supplication ann syne zunftmeister zum Kaͤmbel, m[eister] Heinrichen Holtzhalben<note type="editorial"> Heinrich Holzhalb (gest. 1595)</note> <persName ref="Holzhalb, Heinrich"/>und m[eister] Bernharten Widerkeeren<persName ref="Wiederkehr, Bernhard"/>, oder derselbigen supplicatz summarischer ußzug.</head> 
+<pb n="122" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534156"/>
+<p><note type="critical">Alle Seiten haben den Kolumnentitel <q>Balthasar Malers apology</q>. Die römischen Zahlen stehen am Rand.</note> I. Das die oberkeit über jnn erzürnt, alls ob er goͤttlichem wort und der ordenlichen oberkeit nitt gehorsam noch underthaͤnig.</p>
+<p>II. Das er von niemand, ouch von keinem gleerten nie syge anzogen<note type="editorial"> jm. etwas vorhalten, vorwerfen, Id. XVII, 992.</note> mitt einichem wort dann allein von synem vatter und synen schwaͤgern <persName ref="Reutlinger, Hans">Hansen Rütlingern</persName> und <persName ref="Schwyzer, Hans">Hansen Schwyzern</persName>, die jme syne sachen verboͤseret, doch one synes vatters wüssen und willen.</p>
+<p>III. Erbietet sich aller gůtwilligen underthenigkeit unnd gehorsame, doch mit dem vorbehalt, was er durch dz goͤttlich wort ergryffen koͤnne.</p>
+<p>IIII.<note type="critical">Unter der römischen Ziffer: 2.</note> Zum andern wendet er für<note type="editorial"> fürwenden: als Vorwand, Ausrede brauchen, Id. XVI, 429.</note> das gestreng gricht gottes und die verlezung syner gewüßne, so jm entgaͤgen stande, dorumb diser handel mitt ernst zeerwaͤgen.</p>
+<p>V. Demnach ermanet er die oberkeit jres ampts mitt vilen anzügen<note type="editorial"> Erwähnung, Bezugnahme, Id. XVII, 517.</note> der geschrift, dann sy mitt jm daß urtheil gottes zeerwarten.<note type="critical">Marginalie: Parali[pomenon]</note></p>
+<p>VI. Dieser handel goͤttlicher wyßheit zeunderwerffen syge, welche wyth von waͤltlicher wyßheit underscheiden – 1. Cor. 1 et 2: Keiner von den obersten diser waͤlt habe diese wyßheit gottes erkent. Jacob 3: Die wyßheit von oben herab lasse sich wol bereden. Prov. 1.</p>
+<p>VII. Jedoch schribe er soͤliches nitt alls den unwüssenden, sonder das es über soͤliche sachen zerichten wol eines klaren verstands bedoͤrffe, eines klaren gesichts und gotzverstendigen herzens, über gottes wort unnvergriffelichen zerichten.</p>
+<p>VIII. Er bezüget sich hoch uff gott, der allein alle herzen der menschen erkenne, das er begaͤre gott und synem wort zegehorsamen, ja so vil er durch syn gnad ergryffen moͤge, underthaͤnig und gehorsam zesynde.</p>
+<p>IX. Er begaͤre von dem sanftmuͤttigen künig Jesu Chr[ist]o von herzen geleert zewerden, doch aller gschriftgleerten glosen<note type="editorial"> Glossen, Deutungen</note> und meinungen hindan gesetzt.</p>
+<p>X. Er syge jm selber keines jrthumbs oder sect bewüßt, weder schuldig noch anhaͤngig; er gloube und halte allenklichen nach lut der articklen deß allgemeinen christelichen gloubens, ja er gloube, wie Christus die<note type="critical">Reklamant: apostel geleert</note> <pb n="123" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534157"/> apostel geleert und er jnn der schůl uß dem catechismo gelernet habe. Er begaͤre ouch mit keinem theil und gmein zehaben, der da halte, gloube oder leere, dz nit jm wort gottes gegründet syge.</p>
+<p>XI. Er embüth sich abermalen der gehorsame aller satzungen und gebotten, die nitt wider gott syend und nit von christelichen laͤben abfuͤrind, jtem zyns, zoll und tribut zegaͤben, wie einem frommen eerlichen burger<note type="critical">Folgt gestrichen: meister</note> gezymme, so vil er koͤnne one verletzung syner gwüßne.</p>
+<p>XII. Deß eids halber dunke jnn, er koͤnne den nit thůn one beschwerd syner gwüßne, zücht an die geschrift Math. 5, Jacobj 5. Dorumb jm das wol ein schwehrs, wiewol unsere schriftgleerten das jnn ein anderen verstand züchind, das er gar nitt koͤnne annemmen noch begryffen, blybe derhalb bym einfalten bůchstaben.</p>
+<p>XIII. Er koͤnne ouch nitt glouben, er finde ouch jnn keinem orth der geschrift deß neüwen testaments, das ein christ kriegen, noch an synem fyend sich rechen soͤlle oder moͤge, noch sich der gaͤgenweer ald<note type="editorial"> oder</note> nothweer gebruchen. Dann er finde anders jnn der leer und laͤben Christi und der apostlen: Man soͤlle mitt gedult under dem krütz Christo nachvolgen, nitt mitt weer und waffen stryten.</p>
+<p>XIIII. Das volk deß alten testaments habe wol krieget unnd gestritten, aber uß besonderem bevelch gottes. Soͤliches habe syn figürliche bedütung ghabt uff dz geistlich volk und rych Christi, wie ouch die opfer und die ceremonien, welches alles durch Christum syge ufgehaben, der unns ein neüw gebott geben, namlich gebott der liebe (Luc. 6, Math. 5 und 6, Rom. 12 und 2. Cor. 10). Da werde beschriben, wz da syge der stryt, weer und waffen der gleübigen. Darumb jm die sach nit ring. Er bittet aber die herren, woͤllind nüth zürnen, dann er sy alls wyß nitt leeren woͤlle, sonder allein syn hertz offnen, pittet sy umb gedult und barmherzigkeit.</p>
+<p>XV. Deß kilchgangs halb bekendt er, dz er ein zyt lang sich desse geüssert umb viler wichtiger ursachen willen, die ietz umb kürtze willen nit zemelden, nit zů verkleinerung der eehren gottes, sonder von waͤgen der ordnung Christi (Math. 18, Rom. 16 et 1. Cor. 5 und 2. Cor. 22 [sic], Thess. 3, 1. Tim. 1; 6), das etwas nitt gebrucht werde, auch vil und mengerley maͤngel an den leereren, davon vil zeschriben und zereden were.</p>
+<p>XVI. Doch uff synes vatters anhalten habe er die sach widerumb <pb n="124" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534158"/> jnn gotznamen an die hand genommen, welle sich vestenklich zů gott halten, das er jme gaͤbe oren zehoͤren und hertz zebegryffen, was syn wollgefelliger will syge, jme durch synen heiligen geist zeleiten und zefuͤren zů den eehren gottes und zů synem heil.</p>
+<p>XVII. Ermanet abermalen zebedenken, dz wir alleinen Christum anruͤffind und wiewyt sich iren, der oberkeit, ampt und gwalt erstreke und worzů sy beruͤft syge, namlich das sy die offembaren übelthaͤter straffind alls dieben, moͤrder (er zelt alle groͤbesten laster der waͤlt), das sy gůt gricht und recht haltend, die undertruckten schirmind.</p>
+<p>XVIII. Er begaͤre keinen menschen zeschedigen.Wenn er das aber thaͤte, so were er jnn jrem gwalt Rom 13. Die gwaltigen sygend nitt zefürchten denen, die gůtz thůnd. Paulus leere ouch daselbst heiter, worinnen man den gwaltigen soͤlle gehorsamen.</p>
+<p>XIX. Man gebe von jnen, den teufferen, uß, wenn man jnen nitt weehre, wurde ufrůr daruß und ein münsterischer handel und puwrenkrieg. Das syge aber feer<note type="editorial"> fern</note>. Dann rechte, ware christen wüssind wol, dz das rych Christi nitt von diser waͤlt syge und nitt mitt ysen und gschütz zegwünnen, wie Christus <persName ref="GND_118792172">vor Pilato</persName> underscheiden Joan. 18. Der syge ouch fridsam gsyn und ein fürst deß fridens, wie koͤntind dann syne diener stryten?</p>
+<p>XX. Es habe ouch nie kein oberkeit jemand getoͤdet uß vermůten, er moͤchte ein übelthaͤter werden, koͤnne ouch mit billikeit keinem nüth thůn, biß er die that begangen habe. XXI. Christi leer und exempel, ob es glych anderst ußglegt und bedütet werde, koͤnne er es doch jn synem einfalten verstand nitt ergryffen, das deß herren wort nitt vertunklet werde, begaͤre derhalben einfalt bym wort deß herren zebliben der hoffnung, nit zeverfehlen.</p>
+<p>XXII. Im syge anzeigt, unser gnedig [herren] habind erkent, welche der zunft nitt schwerind und den kilchgang mydind, soͤllend von land verwisen werden. Wenn dz war, so dunke jn dz unfrüntlich ghandlet syn, unverhoͤrter sach einen mit vil stattknechten sůchen alls ein schelmen, dorumb er bewegt, jrem zorn zewychen. Wenn man jnn früntlich beschikt, hette er sich nit gwideriget, rechenschaft zegaͤben synes gloubens.</p>
+<p>XXIII. Dunke jnn ein ungerymbter gwalt, die gwüßne deß gloubens für ein ungehorsame zerechnen.</p>
+<p>XXIIII. Bittet abermalen zum hoͤchsten, jnne inn gloubens sachen nit wider syn gwüßne zetriben, dann dz euangelium das nit vermoge<note type="editorial"> besagen, beinhalten, Id. IV, 111.</note>, diewyl Christus spreche: der mir<note type="critical">Reklamant: nachfolgen (ausradiert: den)</note> <pb n="125" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534159"/> nachvolgen will, und nit: der mir nachvolgen můß.</p>
+<p>Jtem Math. 10: Wo man üwer leer nitt will annemmen, da so schüttend den stoub von schůhen, seit nitt: zwingend sy darzů. Und 2. Thess 2: Der gloub syge nitt jedermans ding, ein gab gottes, moͤge nit mitt mentschlichem gwalt erzwungenn werden, sonder můß von oben herab erlangt werden<note type="critical"><q>sonder můß … werden</q> am Rand mit Verweiszeichen.</note>. Der hußvatter woͤlle nit dz unkrut ußgeiaͤdten werden (Math. 13), ob sy, die teüffer, glych unkrut werind, so syge doch diß ein dienst der englen unnd nitt der oberkeit. Sonst welle er der oberkeit nüth genommen han (Rom 13, Pet. 2).</p>
+<p>XXV. Er achte und gespürre wol, das die geleerten zů soͤlichem handel helffind und verursachind, dermassen uff allen kanzlen schryende, redind über from lüth, dz nit syge. Sy louffind uff der gassen und jnn die hüser mynen herren nach, sy anzehetzen. Warumb sy dz thuͤgind, welle er gott bevolhen han. Die geleerten und wisen diser waͤlt sygind allwaͤgen inn beiden testamenten dran gsyn, die oberkeit zů undertrukung der einfalten worheit anzefuͤren, verfolgung anzerichten.</p>
+<p>XXVI. Wiewol ettliche gůtherzige drunder, die mitt verstopftem mund umb waͤltlicher scham und forcht willen dorab ersüfzigind. Derhalben, so meyne er, die schuldigen under dem schyn sygind die künig Jsraeles und Juda ouch hindergangen, die waren gesanten propheten gottes zevervolgen (2. Chron. 24, Matth. 13, Jerem. 16).</p>
+<p>Christi und der apostlen groͤster widerstand syge gsyn von den gschrifftgeleerten, von dennen sy alls verfuͤrer und ufruͤrer sygind [beschimpft] worden, <persName ref="GND_1204031533">alls Steffanuß</persName> und <persName ref="GND_118641549">Paulus</persName> zů <placeName ref="LOC_41.01282_24.28672">Philippis</placeName> und <placeName ref="LOC_40.66667_23">Thessalonica</placeName> (Act. 16; 17).</p>
+<p>XXVII. Dorumb jnn der sach schlyppferig zehandlen, dann die urtheil gottes und der mentschen sygind unglich, Osee 9 den propheten haltends für ein narren. Sy heigind aber dz blůt der propheten thüwr gnůg muͤssen zalen (Thren. Jer. 4). Wie ze <placeName ref="LOC_31.75_35">Jerusalem</placeName> gehaldlet<note type="editorial"> Zur Form vgl. Grimm 10, Sp. 373.</note> worden, allso syge sich hie ouch keiner besserung zeversaͤhen, aber Zachar. 2 spreche der herre, wer sy letze<note type="editorial"> verletze</note>, der letze deß herren ougapfell.</p>
+<p>XXVIII. Bittet widerumb, jnne jn gedult und jm besten zeverston und hoͤren, wie Christus, dem aller hoͤchster gwalt jnn hymel und uff erden gaͤben, barmherzigkeit leere. Er begaͤren der oberkeit zegehorsamen von herzen, jnn allen dem, das wider gott nitt syge. Pittet, jnn nit wider syn hertz und gwüßne jnn gloubens sachen zetriben. Sy wellind by jnen selbß jnn jren herzen betrachten, so wann sy wider jre gwüßne und herz welte mit gwalt zů einem andern glouben triben und zwingen, und so sy nit gehorsametind <pb n="126" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534160"/>, man sy zum land ußjagen woͤlte, und ann jren erfulte, dz Jsai. 54 stath: Die worheit wirt gfangen glegt. Da gaͤbe er jrem herzen zebedenken, und dem aller hoͤchsten zerichten, deße gericht nit faͤhlen werde.</p>
+<p>XXIX. Dises syge syn einfalte bekantnuß wider den nothzwang mitt pitt und vil gschwëtz, dieselbig jnn gnaden und jm besten zeverston.</p>
+<p>XXX. Das aber uff jnne und synes glychen inn kriegsnoͤdten sich nüt syge zevertroͤsten, das vatterland wider fyentlichen gwalt zebeschirmen und darfür ze­stry­ten, da gloube er gaͤntzlich nit, dz weder krieg nach einiche straffen über uns kommen werdind umb derent willen, die gott von herzen foͤrchtind (verstath hiemitt syne teüffer), sonder allein über die vile der sünden, wie alle historien und die bibel bezügind. Dises syge ein jüdische fürsorg, wie zů Chri[sti] zyten die roͤmer werdind kommen, da wol zegedenken, wenn Christi leer vermoͤgen hette, das man dz land mitt waffen soͤlte schirmen, sy hettind der fürsorg nüt bedoͤrffen. Diewyl sy aber imme nit gloubt noch gehorsamet, dahar syge die forcht jnn sy kommen, und sy von romern überfallen worden, wie jnen der herr gewyssaget.</p>
+<p>XXXI. Man bedoͤrffe der fürsorg nüt, dann der saamen, beide bagken darzekeeren, syge so dünn gseyhet, dz es zeerbarmen. Deßhalben man kriegslüthen gnůg finde. Ja wenn die vile hellfen moͤchte – wo aber gott syn straaf schicke, da hellfe kein zal.</p>
+<p>XXXII. Sy soͤllend gedenken, wie vil unnützer lüten jnn stat und land mencklichem schaͤdlich und überlagen syend, die umb uneerlicher sachen willen uß der zunft gethon, die man doch dulde. So soͤlle man recht mitt jnen, den teüfferen, die niemands schadens zebegaͤrend, ouch ein mittlyden han, sy begaͤrend mencklichem zedienen. Er welle sich und die synen jm schweiß synes angsichts gern erneeren. Umb gottes<note type="critical">Folgt gestrichen: und</note>, Christi<note type="critical">Folgt gestrichen: willen</note> und synes worts willen, welle er gern schmach, verachtung und schand lyden. Protestiert hoch vor gottes angsicht, jmme syge nitt umb syn lob zethůn. Wenn es vor gott beston moͤchte, welte er lieber der waͤlt gunst behalten, weder allso verachtet und verschmaͤcht werden.</p>
+<p>XXXIII. Bittet zum beschluß, sy (die zwen zunftmeister) wellind so vil müglich die sach gagen u. g. herren verthaͤdigen mit empietung der tankparkeit, wo aber das nit beschaͤhen moͤge, sonder mitt rüche gaͤgen jme gehandlet, werde er nüt desto mynder, so vil jm gott gnad gebe, dz krütz mitt gedult uff sich nemmen und gott für jederman baͤtten, dz er inen nüt umb synetwillen zůrechne, XXXIIII. dann er von diser syner einfalten bekantnuß nitt koͤnne wychen one verletzung syner gwüßne, sonder wolle er mitt gottes hylf und mitt gedult stryten biß ans end. Hiemitt er sy und alle sachen gott bevelche. Der woͤlle sich über uns all erbarmen.</p>
+<p rend="margin-top">XXXV. Die underschrift lutet allso: Balthassar Maler, üwer veriagter und verwyster menschlicher hyllf halb williger diener aller christlichen und goͤttlichen sachen.<note type="critical"><q>XXXV. Die underschrift … sachen</q> am Rand.</note></p>
+</div>
+      <div>
+        <head type="Originalsprache">| [S. 121] […]<note type="editorial"> Vorausgehend endet die
+            Abschrift Stumpfs von der Bittschrift Samuel Heideggers.</note> Hernach volget Balthasar
+          Malers deß widerteüffers supplication ann syne zunftmeister zum Kaͤmbel, m[eister]
+          Heinrichen Holtzhalben<note type="editorial"> Heinrich Holzhalb (gest. 1595)</note>
+          <persName ref="Holzhalb, Heinrich"/>und m[eister] Bernharten Widerkeeren<persName ref="Wiederkehr, Bernhard"/>, oder derselbigen supplicatz summarischer ußzug.</head>
+        <pb n="122" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534156"/>
+        <p><note type="critical">Alle Seiten haben den Kolumnentitel <q>Balthasar Malers apology</q>. Die
+            römischen Zahlen stehen am Rand.</note> I. Das die oberkeit über jnn erzürnt, alls ob er
+          goͤttlichem wort und der ordenlichen oberkeit nitt gehorsam noch underthaͤnig.</p>
+        <p>II. Das er von niemand, ouch von keinem gleerten nie syge anzogen<note type="editorial">
+            jm. etwas vorhalten, vorwerfen, Id. XVII, 992.</note> mitt einichem wort dann allein von
+          synem vatter und synen schwaͤgern <persName ref="Reutlinger, Hans">Hansen
+            Rütlingern</persName> und <persName ref="Schwyzer, Hans">Hansen Schwyzern</persName>,
+          die jme syne sachen verboͤseret, doch one synes vatters wüssen und willen.</p>
+        <p>III. Erbietet sich aller gůtwilligen underthenigkeit unnd gehorsame, doch mit dem
+          vorbehalt, was er durch dz goͤttlich wort ergryffen koͤnne.</p>
+        <p>IIII.<note type="critical">Unter der römischen Ziffer: 2.</note> Zum andern wendet er
+            für<note type="editorial"> fürwenden: als Vorwand, Ausrede brauchen, Id. XVI,
+            429.</note> das gestreng gricht gottes und die verlezung syner gewüßne, so jm entgaͤgen
+          stande, dorumb diser handel mitt ernst zeerwaͤgen.</p>
+        <p>V. Demnach ermanet er die oberkeit jres ampts mitt vilen anzügen<note type="editorial">
+            Erwähnung, Bezugnahme, Id. XVII, 517.</note> der geschrift, dann sy mitt jm daß urtheil
+          gottes zeerwarten.<note type="critical">Marginalie: Parali[pomenon]</note></p>
+        <p>VI. Dieser handel goͤttlicher wyßheit zeunderwerffen syge, welche wyth von waͤltlicher
+          wyßheit underscheiden – 1. Cor. 1 et 2: Keiner von den obersten diser waͤlt habe diese
+          wyßheit gottes erkent. Jacob 3: Die wyßheit von oben herab lasse sich wol bereden. Prov.
+          1.</p>
+        <p>VII. Jedoch schribe er soͤliches nitt alls den unwüssenden, sonder das es über soͤliche
+          sachen zerichten wol eines klaren verstands bedoͤrffe, eines klaren gesichts und
+          gotzverstendigen herzens, über gottes wort unnvergriffelichen zerichten.</p>
+        <p>VIII. Er bezüget sich hoch uff gott, der allein alle herzen der menschen erkenne, das er
+          begaͤre gott und synem wort zegehorsamen, ja so vil er durch syn gnad ergryffen moͤge,
+          underthaͤnig und gehorsam zesynde.</p>
+        <p>IX. Er begaͤre von dem sanftmuͤttigen künig Jesu Chr[ist]o von herzen geleert zewerden,
+          doch aller gschriftgleerten glosen<note type="editorial"> Glossen, Deutungen</note> und
+          meinungen hindan gesetzt.</p>
+        <p>X. Er syge jm selber keines jrthumbs oder sect bewüßt, weder schuldig noch anhaͤngig; er
+          gloube und halte allenklichen nach lut der articklen deß allgemeinen christelichen
+          gloubens, ja er gloube, wie Christus die<note type="critical">Reklamant: apostel
+            geleert</note>
+          <pb n="123" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534157"/> apostel
+          geleert und er jnn der schůl uß dem catechismo gelernet habe. Er begaͤre ouch mit keinem
+          theil und gmein zehaben, der da halte, gloube oder leere, dz nit jm wort gottes gegründet
+          syge.</p>
+        <p>XI. Er embüth sich abermalen der gehorsame aller satzungen und gebotten, die nitt wider
+          gott syend und nit von christelichen laͤben abfuͤrind, jtem zyns, zoll und tribut
+          zegaͤben, wie einem frommen eerlichen burger<note type="critical">Folgt gestrichen:
+            meister</note> gezymme, so vil er koͤnne one verletzung syner gwüßne.</p>
+        <p>XII. Deß eids halber dunke jnn, er koͤnne den nit thůn one beschwerd syner gwüßne, zücht
+          an die geschrift Math. 5, Jacobj 5. Dorumb jm das wol ein schwehrs, wiewol unsere
+          schriftgleerten das jnn ein anderen verstand züchind, das er gar nitt koͤnne annemmen noch
+          begryffen, blybe derhalb bym einfalten bůchstaben.</p>
+        <p>XIII. Er koͤnne ouch nitt glouben, er finde ouch jnn keinem orth der geschrift deß neüwen
+          testaments, das ein christ kriegen, noch an synem fyend sich rechen soͤlle oder moͤge,
+          noch sich der gaͤgenweer ald<note type="editorial"> oder</note> nothweer gebruchen. Dann
+          er finde anders jnn der leer und laͤben Christi und der apostlen: Man soͤlle mitt gedult
+          under dem krütz Christo nachvolgen, nitt mitt weer und waffen stryten.</p>
+        <p>XIIII. Das volk deß alten testaments habe wol krieget unnd gestritten, aber uß besonderem
+          bevelch gottes. Soͤliches habe syn figürliche bedütung ghabt uff dz geistlich volk und
+          rych Christi, wie ouch die opfer und die ceremonien, welches alles durch Christum syge
+          ufgehaben, der unns ein neüw gebott geben, namlich gebott der liebe (Luc. 6, Math. 5 und
+          6, Rom. 12 und 2. Cor. 10). Da werde beschriben, wz da syge der stryt, weer und waffen der
+          gleübigen. Darumb jm die sach nit ring. Er bittet aber die herren, woͤllind nüth zürnen,
+          dann er sy alls wyß nitt leeren woͤlle, sonder allein syn hertz offnen, pittet sy umb
+          gedult und barmherzigkeit.</p>
+        <p>XV. Deß kilchgangs halb bekendt er, dz er ein zyt lang sich desse geüssert umb viler
+          wichtiger ursachen willen, die ietz umb kürtze willen nit zemelden, nit zů verkleinerung
+          der eehren gottes, sonder von waͤgen der ordnung Christi (Math. 18, Rom. 16 et 1. Cor. 5
+          und 2. Cor. 22 [sic], Thess. 3, 1. Tim. 1; 6), das etwas nitt gebrucht werde, auch vil und
+          mengerley maͤngel an den leereren, davon vil zeschriben und zereden were.</p>
+        <p>XVI. Doch uff synes vatters anhalten habe er die sach widerumb <pb n="124" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534158"/> jnn gotznamen an
+          die hand genommen, welle sich vestenklich zů gott halten, das er jme gaͤbe oren zehoͤren
+          und hertz zebegryffen, was syn wollgefelliger will syge, jme durch synen heiligen geist
+          zeleiten und zefuͤren zů den eehren gottes und zů synem heil.</p>
+        <p>XVII. Ermanet abermalen zebedenken, dz wir alleinen Christum anruͤffind und wiewyt sich
+          iren, der oberkeit, ampt und gwalt erstreke und worzů sy beruͤft syge, namlich das sy die
+          offembaren übelthaͤter straffind alls dieben, moͤrder (er zelt alle groͤbesten laster der
+          waͤlt), das sy gůt gricht und recht haltend, die undertruckten schirmind.</p>
+        <p>XVIII. Er begaͤre keinen menschen zeschedigen.Wenn er das aber thaͤte, so were er jnn
+          jrem gwalt Rom 13. Die gwaltigen sygend nitt zefürchten denen, die gůtz thůnd. Paulus
+          leere ouch daselbst heiter, worinnen man den gwaltigen soͤlle gehorsamen.</p>
+        <p>XIX. Man gebe von jnen, den teufferen, uß, wenn man jnen nitt weehre, wurde ufrůr daruß
+          und ein münsterischer handel und puwrenkrieg. Das syge aber feer<note type="editorial">
+            fern</note>. Dann rechte, ware christen wüssind wol, dz das rych Christi nitt von diser
+          waͤlt syge und nitt mitt ysen und gschütz zegwünnen, wie Christus <persName ref="GND_118792172">vor Pilato</persName> underscheiden Joan. 18. Der syge ouch fridsam
+          gsyn und ein fürst deß fridens, wie koͤntind dann syne diener stryten?</p>
+        <p>XX. Es habe ouch nie kein oberkeit jemand getoͤdet uß vermůten, er moͤchte ein
+          übelthaͤter werden, koͤnne ouch mit billikeit keinem nüth thůn, biß er die that begangen
+          habe. XXI. Christi leer und exempel, ob es glych anderst ußglegt und bedütet werde, koͤnne
+          er es doch jn synem einfalten verstand nitt ergryffen, das deß herren wort nitt vertunklet
+          werde, begaͤre derhalben einfalt bym wort deß herren zebliben der hoffnung, nit
+          zeverfehlen.</p>
+        <p>XXII. Im syge anzeigt, unser gnedig [herren] habind erkent, welche der zunft nitt
+          schwerind und den kilchgang mydind, soͤllend von land verwisen werden. Wenn dz war, so
+          dunke jn dz unfrüntlich ghandlet syn, unverhoͤrter sach einen mit vil stattknechten sůchen
+          alls ein schelmen, dorumb er bewegt, jrem zorn zewychen. Wenn man jnn früntlich beschikt,
+          hette er sich nit gwideriget, rechenschaft zegaͤben synes gloubens.</p>
+        <p>XXIII. Dunke jnn ein ungerymbter gwalt, die gwüßne deß gloubens für ein ungehorsame
+          zerechnen.</p>
+        <p>XXIIII. Bittet abermalen zum hoͤchsten, jnne inn gloubens sachen nit wider syn gwüßne
+          zetriben, dann dz euangelium das nit vermoge<note type="editorial"> besagen, beinhalten,
+            Id. IV, 111.</note>, diewyl Christus spreche: der mir<note type="critical">Reklamant:
+            nachfolgen (ausradiert: den)</note>
+          <pb n="125" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534159"/>
+          nachvolgen will, und nit: der mir nachvolgen můß.</p>
+        <p>Jtem Math. 10: Wo man üwer leer nitt will annemmen, da so schüttend den stoub von
+          schůhen, seit nitt: zwingend sy darzů. Und 2. Thess 2: Der gloub syge nitt jedermans ding,
+          ein gab gottes, moͤge nit mitt mentschlichem gwalt erzwungenn werden, sonder můß von oben
+          herab erlangt werden<note type="critical"><q>sonder můß … werden</q> am Rand mit
+            Verweiszeichen.</note>. Der hußvatter woͤlle nit dz unkrut ußgeiaͤdten werden (Math.
+          13), ob sy, die teüffer, glych unkrut werind, so syge doch diß ein dienst der englen unnd
+          nitt der oberkeit. Sonst welle er der oberkeit nüth genommen han (Rom 13, Pet. 2).</p>
+        <p>XXV. Er achte und gespürre wol, das die geleerten zů soͤlichem handel helffind und
+          verursachind, dermassen uff allen kanzlen schryende, redind über from lüth, dz nit syge.
+          Sy louffind uff der gassen und jnn die hüser mynen herren nach, sy anzehetzen. Warumb sy
+          dz thuͤgind, welle er gott bevolhen han. Die geleerten und wisen diser waͤlt sygind
+          allwaͤgen inn beiden testamenten dran gsyn, die oberkeit zů undertrukung der einfalten
+          worheit anzefuͤren, verfolgung anzerichten.</p>
+        <p>XXVI. Wiewol ettliche gůtherzige drunder, die mitt verstopftem mund umb waͤltlicher scham
+          und forcht willen dorab ersüfzigind. Derhalben, so meyne er, die schuldigen under dem
+          schyn sygind die künig Jsraeles und Juda ouch hindergangen, die waren gesanten propheten
+          gottes zevervolgen (2. Chron. 24, Matth. 13, Jerem. 16).</p>
+        <p>Christi und der apostlen groͤster widerstand syge gsyn von den gschrifftgeleerten, von
+          dennen sy alls verfuͤrer und ufruͤrer sygind [beschimpft] worden, <persName ref="GND_1204031533">alls Steffanuß</persName> und <persName ref="GND_118641549">Paulus</persName> zů <placeName ref="LOC_41.01282_24.28672">Philippis</placeName> und <placeName ref="LOC_40.66667_23">Thessalonica</placeName> (Act. 16; 17).</p>
+        <p>XXVII. Dorumb jnn der sach schlyppferig zehandlen, dann die urtheil gottes und der
+          mentschen sygind unglich, Osee 9 den propheten haltends für ein narren. Sy heigind aber dz
+          blůt der propheten thüwr gnůg muͤssen zalen (Thren. Jer. 4). Wie ze <placeName ref="LOC_31.75_35">Jerusalem</placeName> gehaldlet<note type="editorial"> Zur Form vgl.
+            Grimm 10, Sp. 373.</note> worden, allso syge sich hie ouch keiner besserung zeversaͤhen,
+          aber Zachar. 2 spreche der herre, wer sy letze<note type="editorial"> verletze</note>, der
+          letze deß herren ougapfell.</p>
+        <p>XXVIII. Bittet widerumb, jnne jn gedult und jm besten zeverston und hoͤren, wie Christus,
+          dem aller hoͤchster gwalt jnn hymel und uff erden gaͤben, barmherzigkeit leere. Er
+          begaͤren der oberkeit zegehorsamen von herzen, jnn allen dem, das wider gott nitt syge.
+          Pittet, jnn nit wider syn hertz und gwüßne jnn gloubens sachen zetriben. Sy wellind by
+          jnen selbß jnn jren herzen betrachten, so wann sy wider jre gwüßne und herz welte mit
+          gwalt zů einem andern glouben triben und zwingen, und so sy nit gehorsametind <pb n="126" facs="https://www.e-manuscripta.ch/i3f/v20/5534143/canvas/5534160"/>, man sy zum land
+          ußjagen woͤlte, und ann jren erfulte, dz Jsai. 54 stath: Die worheit wirt gfangen glegt.
+          Da gaͤbe er jrem herzen zebedenken, und dem aller hoͤchsten zerichten, deße gericht nit
+          faͤhlen werde.</p>
+        <p>XXIX. Dises syge syn einfalte bekantnuß wider den nothzwang mitt pitt und vil gschwëtz,
+          dieselbig jnn gnaden und jm besten zeverston.</p>
+        <p>XXX. Das aber uff jnne und synes glychen inn kriegsnoͤdten sich nüt syge zevertroͤsten,
+          das vatterland wider fyentlichen gwalt zebeschirmen und darfür ze­stry­ten, da gloube er
+          gaͤntzlich nit, dz weder krieg nach einiche straffen über uns kommen werdind umb derent
+          willen, die gott von herzen foͤrchtind (verstath hiemitt syne teüffer), sonder allein über
+          die vile der sünden, wie alle historien und die bibel bezügind. Dises syge ein jüdische
+          fürsorg, wie zů Chri[sti] zyten die roͤmer werdind kommen, da wol zegedenken, wenn Christi
+          leer vermoͤgen hette, das man dz land mitt waffen soͤlte schirmen, sy hettind der fürsorg
+          nüt bedoͤrffen. Diewyl sy aber imme nit gloubt noch gehorsamet, dahar syge die forcht jnn
+          sy kommen, und sy von romern überfallen worden, wie jnen der herr gewyssaget.</p>
+        <p>XXXI. Man bedoͤrffe der fürsorg nüt, dann der saamen, beide bagken darzekeeren, syge so
+          dünn gseyhet, dz es zeerbarmen. Deßhalben man kriegslüthen gnůg finde. Ja wenn die vile
+          hellfen moͤchte – wo aber gott syn straaf schicke, da hellfe kein zal.</p>
+        <p>XXXII. Sy soͤllend gedenken, wie vil unnützer lüten jnn stat und land mencklichem
+          schaͤdlich und überlagen syend, die umb uneerlicher sachen willen uß der zunft gethon, die
+          man doch dulde. So soͤlle man recht mitt jnen, den teüfferen, die niemands schadens
+          zebegaͤrend, ouch ein mittlyden han, sy begaͤrend mencklichem zedienen. Er welle sich und
+          die synen jm schweiß synes angsichts gern erneeren. Umb gottes<note type="critical">Folgt
+            gestrichen: und</note>, Christi<note type="critical">Folgt gestrichen: willen</note> und
+          synes worts willen, welle er gern schmach, verachtung und schand lyden. Protestiert hoch
+          vor gottes angsicht, jmme syge nitt umb syn lob zethůn. Wenn es vor gott beston moͤchte,
+          welte er lieber der waͤlt gunst behalten, weder allso verachtet und verschmaͤcht
+          werden.</p>
+        <p>XXXIII. Bittet zum beschluß, sy (die zwen zunftmeister) wellind so vil müglich die sach
+          gagen u. g. herren verthaͤdigen mit empietung der tankparkeit, wo aber das nit beschaͤhen
+          moͤge, sonder mitt rüche gaͤgen jme gehandlet, werde er nüt desto mynder, so vil jm gott
+          gnad gebe, dz krütz mitt gedult uff sich nemmen und gott für jederman baͤtten, dz er inen
+          nüt umb synetwillen zůrechne, XXXIIII. dann er von diser syner einfalten bekantnuß nitt
+          koͤnne wychen one verletzung syner gwüßne, sonder wolle er mitt gottes hylf und mitt
+          gedult stryten biß ans end. Hiemitt er sy und alle sachen gott bevelche. Der woͤlle sich
+          über uns all erbarmen.</p>
+        <p rend="margin-top">XXXV. Die underschrift lutet allso: Balthassar Maler, üwer veriagter
+          und verwyster menschlicher hyllf halb williger diener aller christlichen und goͤttlichen
+            sachen.<note type="critical"><q>XXXV. Die underschrift … sachen</q> am Rand.</note></p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p> Schreiber dieser undatierten Zusammenfassung ist Antistes Johann Rudolf Stumpf. Die
+          Petition selbst hat Balthasar Maler vor der Verhaftungsaktion am 31. Juli geschrieben und
+          eingereicht. Sie ist nicht überliefert.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

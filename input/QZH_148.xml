@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_148</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355019">StAZH B IV 15, fol. 36</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Bernhard von Cham</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1544-01-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1544-01-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 34</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">An den vogt zu Kyburg Bernharten von Chaam</head> <p>Unnßern gunst unnd alles guts zuvor. Frommer, vester, jnnsunders getrüwer, lieber burger und vogt, wir habend allerley mittel, sträfflich und sunst, mit der <persName ref="Müller, Frau">Mullerin</persName> von <placeName ref="LOC_47.56064_8.49635">Glattfelden</placeName> fürgenomen unnd sy ettliche maal jnn gefengcknus<note type="critical">korrigiert, ursprünglich: gefengckgnus</note> ghept, ob wir sy vonn der jrrigen sect der ­toüf­fery und dz sy mit kilchgang unnd annderen christlichen ordnungen thäte wie annder christenlüt. So hatt es alles nützit an jren verfangen, dann dz sy sich für unnd für ungehorsameth, der kilchen gottes üsßert. Und diewyl sy dann jm flecken wol gefründt<note type="editorial"> durch Verwandtschaft stark, Id. I, 1306.</note> unnd die vögt zů Eglisow bißhar eben nachläsßig gewesen<note type="critical"><q>unnd die vögt zů Eglisow … gewesen</q> am Rand mit Verweiszeichen</note>, so wellest komenlicher<note type="editorial"> passend, gelegen, Id. III, 285.</note> <note type="critical">korrigiert, ursprünglich: fomenlicher (Lesung unsicher)</note> wyß durch annder lüt nach jr stellen unnd unns die, so erst du magst, fengclich uberantwurten, mit jren zehandlen, dz sych christenlicher gehorsame und zu<note type="critical">Folgt gestrichen: einigkey</note> eynträchtigkeyt der kilchen gottes gebüren würt. Und thust hieran unnßer ernstlich meynung<note type="editorial"> Beschluss, Weisung, vgl. <bibl><ref target="http://fwb-online.de/go/meinung.h2.1f_1709288851">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note>, dann<note type="critical">Folgt gestrichen: jne</note> jro söllich ungehorsamkeyt jnn die harr<note type="editorial"> Dauer, Länge, Id. II, 1514.</note> <note type="critical"><q>die harr</q> am Rand</note> zůgestatten, kanst du wol gedencken, dz sollichs mer zu jrrung und ergernüß<note type="critical"><q>ergernüß</q> am Rand</note> dann zu růwen dienen wurde. Uß <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, 2. januarj<note type="critical"><q>januarj</q> über der Zeile, in der Zeile gestrichen: decembris</note> 1544.</p>
+<p rend="margin-top">Burgermeyster und rath der statt Zürich.</p>
+<p rend="margin-top">Dem frommen, vesten, unnßerm jnnßunders getrüwen, lieben burger und vogt zu <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName> Bernharten<note type="critical">korrigiert, ursprünglich: Berharten</note> von Chaam.<persName ref="Cham, Bernhard von"/></p>
+</div>
+    </body>
+  </text>
+</TEI>

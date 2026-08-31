@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_173</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695018">StAZH E I 7.2, Nr. 99</idno>
+          </msIdentifier>
+          <head>Heinrich Cramer an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1552-08-16"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1552-08-16"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 59</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__99__S__1_.tif"/>
+<p>Strenngenn, fromenn, vesten, fürsichtigenn, ersamenn und wysenn, gnädiger her burgermeyster, gnädig jr min heren. Min gehorsam, underthanig, willig dienst sige üch zevor bereyt. Uwer ersam wyslich schriben der thöüfferen halb ich verstannden, daruff ich dan einen, genampt <persName ref="Bürgi, Jakob">Jacob Bürgj</persName>, fencklichen anämen lasen, welichen ich etliche tag jn gefancknuß gehept. Daruff ich, gnädiger her burgermeyster, by üch gwäsen, wie oder waß ich wyter mit jm handlenn sölle. Das waß<note type="editorial"> war</note> üwer bevelch, das ich zwen oder dry predicanten zů<note type="critical">Wort (zů) in der Vorlage wiederholt</note> jm beschicken söll, die mit jm reden laßen. Dasselbig jst ouch beschächen. Aber nachdem so sy uss der gschrifft oder sunst mit jm redennt, wie oder waß, so kann<note type="critical">In der Vorlage: kam</note> ich nüt anders befinden, das er jn sinem verstockten fürnämen<note type="editorial"> Vorhaben, Standpunkt</note> belipt des kinder thouffs und kilchganngs halben. Daruff, gnädig jr min herenn, lanngt an üch min ernstlichs begären, wellend so wol thůn unnd mich wüsenn laßen, wie ich mich nuhin wyter mit jm handlen söle, ob ich jn zů üch hin jn schicken oder jn wyter jn gefencknuß behalten oder wie ich jm thůn söll. Hieran wil ich alzit willig befunden werden. Actum den 16. tag herbstmonat jm 1552. jar.</p>
+<p rend="margin-top">Üwer underthäniger alzith,</p>
+<p><persName ref="Cramer, Heinrich (gest. 1559)">Heinrich Kramer</persName><bm id="54"/>, vogt zů <placeName ref="LOC_47.28333_8.75">Grünigen</placeName></p>
+<pb n="2" facs="E_I_7_2__Nr__99__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__99__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__99__S__4_.tif"/>
+<p rend="margin-top">Denn strenngenn, fromen, vesten, fürsichtigenn, ersamenn unnd wysenn heren, herr burgermeyster <persName ref="GND_119695790">Johannsenn Haben</persName> und rath der statt Zürich, unseren gnädigen heren.</p>
+<p rend="margin-top">[Spätere Notiz:] Ein ­toüf­fer von Grüningen har geschickt.</p>
+</div>
+    </body>
+  </text>
+</TEI>

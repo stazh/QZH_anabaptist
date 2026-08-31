@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_440</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355146">StAZH B VIII 7, fol. 218-221</idno>
+          </msIdentifier>
+          <head>Instruktion der Zürcher Gesandten</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Entwurf</filiation>
+              <filiation type="original"><origDate when="1585-09-01"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-09-01"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 326</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>| [fol. 218r] Instruction unnd bevelch uff die frommen, vesten und wyßen hern <persName ref="GND_140632557">Heinrichen Tomman</persName> und jůngkherr <persName ref="Escher, Hans">Hannsen Escher</persName>, beid deß raths<note type="critical">Folgt gestrichen: der staat Zürich</note>, was sy jnnamen myner gnedigen herren, burgermeister und raths der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, uff dem tag zů <placeName ref="LOC_47.38878_8.04826">Arouw</placeName> sontags den 5ten septembris a[nn]o etc. 85<note type="critical"><q>sontags den … 85</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: handlen sollen</note> by der überigen drygen evangelischen stetten gsandten botten<note type="critical"><q>gsandten botten</q> am Rand mit Verweiszeichen</note> handlen und ußrichten sollen.</p>
+<p>[…]<note type="editorial"> Der Instruktion zum Täufermandat gehen verschiedene andere Instruktionen entsprechend den Traktanden der geplanten Tagsatzung voraus, vgl. EA IV/2, S. 886f.</note> | [fol. 221v] […] Über den arowischen abscheid der ­toüf­ferischen sect halb gehaltne<note type="critical">korrigiert, ursprünglich: gehaltner</note> tagsatzung<note type="critical">Folgt gestrichen: und verabscheidete meinung</note> habent unser herren ein mandath jnn gschrifft gestelt, was gestalt sy jnn jren grichten und gebieten selbigen schedlichen<note type="critical"><q>schedlichen</q> am Rand mit Verweiszeichen</note> jrrsal und ubel zůweeren understaan, das mögend jr vor<note type="critical"><q>vor</q> über der Zeile</note> den gsandten von <placeName ref="LOC_46.94809_7.44744">Bern</placeName>, <placeName ref="LOC_47.55839_7.57327">Basell</placeName> und <placeName ref="LOC_47.71034_8.63388">Schaffhusen</placeName><note type="critical">Folgt gestrichen: vor al[…] hören</note> verläsen lassen, wover by<note type="critical"><q>by</q> über der Zeile</note> jren herren und oberen hierumb noch dhein satzung offentlich ußgangen syge<note type="critical"><q>syge</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: laßen were</note>. Diß allein von üch darum anzogen, ob jnen uff ebenmeßige<note type="critical"><q>ebenmeßige</q> am Rand mit Verweiszeichen</note> form das zethůn gelieben, das man also jnn ufgesetzten straffen durchuß glych were, doch hiemit dheinem ordt nüdt fürgschryben syn, sonder zu jedeßen gfalen jnsehens und ordnung zehalten oder zemachen staan.<note type="editorial"> Die Zürcher Gesandten legten dieser Instruktion entsprechend das Zürcher Täufermandat vor und übergaben den anderen Städten eine Abschrift davon, vgl. EA IV/2, S. 887 d.</note> Actum mitwuchs den ersten septembris anno etc. 85 p[raese]nt[ibus] herr <persName ref="GND_143680544">burgermeister Kamblj</persName> und beid reth.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Die Tagsatzung der evangelischen Orte fand am 6. September 1585 in Aarau statt, vgl. die Regesten in EA IV/2, S. 886f.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

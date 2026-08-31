@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_238</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354866">StAZH B II 133, S. 2 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Täufer in Lufingen und Embrach</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1565-06-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1565-06-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 124</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Diewyl <persName ref="Meisterhans, Heinrich">Heinrich Meisterhans</persName> von <placeName ref="LOC_47.44037_8.63043">Basserstorff</placeName> von hern vogt zů <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName><note type="editorial"> <persName ref="GND_140632557">Heinrich Thomann</persName></note> und dem predicanten von Basserstorff<note type="editorial"> Dietrich <persName ref="Jud, Dietrich Leo">Leo Jud</persName></note> ein gar gůt lob soll denen von <placeName ref="LOC_47.48338_8.5934">Luffingen</placeName>, alda syn frouw geerpt, zůgeschriben werden, das sy jnn umb den gebürenden jnzug<note type="editorial"> Abgabe beim Zuzug an einen Ort, Id. XVII, 526.</note> jnn jr gmeind anzůnemmen schuldig syn söllind und der predicant zů Luffingen und <placeName ref="LOC_47.50849_8.59755">Embrach</placeName><note type="editorial"> Hans <persName ref="Haar, Hans Heinrich">Heinrich Haar</persName></note> die frouwen jrer seckt halb abreden und das sy zůr predig gaan und dheine<note type="editorial"> keine</note> ­toüf­fer jnzüchen. Glyche meinung dem vogt zů Kyburg ouch zůschriben und ob etwas mangels verhanden syn wurde, das jeder zyt erkhuͦndigen und myn herren berichten.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Sambstags, 30ten junij p[raese]nt[ibus] herr von Chaam und beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

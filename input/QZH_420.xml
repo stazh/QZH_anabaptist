@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_420</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696715">StAZH E I 7.2, Nr. 177</idno>
+          </msIdentifier>
+          <head>Amtleute des Truchsess von Waldburg an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1584-10-13"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1584-10-13"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 306</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__177__S__1_.tif"/>
+<p>Edell, fromme, ehrnvest, fürsichtig, ersam und weyse, sonderß liebe heren unnd freundt, euch seyn unser freundlich willig dienst zuvor. Euch wurdet one zweifel unentfallen seyn, welcher massen der wolgeborne herr, herr <persName ref="GND_1122311869">Christof</persName> deß hayl. rom. reichs erbtruchsäß, freiherr zue Waltpurg, herr zur Scheer und Trauchburg etc., röm. etc. kay. ma[jesta]tt etc., auch f[ü]rs[tlicher] d[urchlauc]ht ertzhertzog Ferdinanden zue Össterreich etc. rath etc., unser gnediger herr, vor diesem etliche eure underthanen und hindersässen<note type="editorial"> Zugezogener, Niedergelassener, Id. VII, 1353.</note> (alß sye durch derselben hohen vorst-<note type="editorial"> fürstlich</note> und glaitlichen<note type="editorial"> das Geleitrecht besitzend (Adjektiv zu Geleit), Grimm 5, 3000.</note> obrigkheit nach landts <placeName ref="LOC_49.5_17">Mehrern</placeName> jm willenß, daselbsten die hochverbotne, verdambte unnd abscheuliche sect der wiederteuffer an sich zuenehmen, ziehen wollen) aufgefangen, wiederumb zurukh geschickht und drunder vier zue geyseln vermög jrer aller uber sich gegebner besigleter obligation<note type="editorial"> Verpflichtung</note>, deren abschrifft jr bey handen, aufgehalten. Dessen aber unangesehen seindt sy, die vir gaisseln, zum dritten mahl angeregter obligation erinnert worden, dz sy nit entweichen sollen, wie auch zum uberfluß alß die drey abgeordnete von Zurch jungstlich alhie gewesen, sie erst angeregter obligation gleichsfalß erinnert, darauf sy allwegen geantwort, dz sy von dannen nit weichen wöllen, biß wiederumb auf wolermelts<note type="editorial"> erwähntes</note> unsers gnedigen herren an euch gethanes schreyben antwort khumme, alß dan verhoffentlich sy der verstrickhung entlassen werden. Nichts desto weniger dessen ungeacht, seyn sy, die vier gaissel, über alle gethane glubdt und aydt auch deren offt angeregter über sich gegebner obligation jnhalt unnd verspruch sträflichen, <pb n="2" facs="E_I_7_2__Nr__177__S__2_.tif"/> glubdpruchiger und vergessentlicher weyß (wieder alleß unser verhoffen und jrer selbsten anerbieten in erwegung, sy einen wechter bey jhnen gehabt) nachtlicher weiln jn abwesenheit wolernants unsers g[nädigen] herrn heimblicher weyß außgerissen. Dieweil wir aber über vilfaltig unser ausschickhung und nachfragung sie nit erfahren<note type="editorial"> ausfindig machen, finden, vgl. <bibl><ref target="http://fwb-online.de/go/erfaren.s.3vu_1709317462">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note> khönnen und unser vermuttung nach wiederumb in euer gebiet, alß ist an euch unser freundlich gesinnen<note type="editorial"> Ansinnen, Verlangen, Id. VII, 1060.</note>, jr wollen sy nach vermög und jnhalt deren über sich gegebner obligation (welcher sy gleich zue wieder gehandelt) wiederumb alhero in verstrickhung, darauß sy heimblicher weiß außgerissen, stellen, damit man nit verursacht werde, jnen sammentlich, so in der obligation vergriffen, dz malefitz<note type="editorial"> peinliche Gerichtsbarkeit, Id. IV, 167.</note> recht ergehn und vor demselbigen für meineidig (salvo honore) und schelmen offentlich ausruffen lasse, auch gegen jnen die gebuerendt straff vorbehalten. Dz wir euch (denen wir sonsten mit freundschafft wol bey gethan) hiemit abwesenlicheit offt wolbesagts unsers g[nädigen] herren zueschreyben sollen, und seind daneben euer wieder antwort bey zaigern<note type="editorial"> Bote, Überbringer und Vorzeiger eines Briefs, Id. XVII, 393.</note> diß gewertig. Datum Scheer, den 13. octobriß a[nn]o etc. 84.</p>
+<p rend="margin-top">Erbtruchsässische oberambt leute daselbsten.</p>
+<pb n="3" facs="E_I_7_2__Nr__177__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__177__S__4_.tif"/>
+<p rend="margin-top">Deme edlenn, frommen, ehrnvest, fürsichtig unndt wysenn n.n. herrn burgermeistern und rath der stadt Zurch, unsern sonderß liebenn herrenn und freundenn sambt unndt sonders.</p>
+</div>
+    </body>
+  </text>
+</TEI>

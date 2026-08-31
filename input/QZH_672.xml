@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_672</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355104">StAZH B IV 59, fol. 230r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich und Hans Heinrich von Wellenberg</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1601-09-14"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-09-14"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 558</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen unnd alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger unnd vogt, unns jst hienach geschribner personen halber namblich</p>
+<p><persName ref="Leutenegger, Jörg">Geörg Lüteneggers</persName> deß müllers uff <placeName ref="LOC_47.28996_8.88374">Orn</placeName> jnn der pfarr Hinwyl,</p>
+<p><persName ref="Bertschinger, Heini">Heinj Bertschickers</persName> jm <placeName ref="LOC_47.33663_8.94127">Vischental</placeName>,</p>
+<p><persName ref="Egli, Ulrich">Ůlrich Egliß</persName> zů <placeName ref="LOC_47.274525_8.916839">Buͤl</placeName> jnn der pfarr Wald,</p>
+<p><persName ref="Oberholzer, Heinrich">Heinrich Oberholtzers</persName> jnn der <placeName ref="LOC_47.35069_8.69001">Aa</placeName> jnn der pfarr Wald,</p>
+<p><persName ref="Spöri, Jakob">Jacob Spöriß</persName> </p>
+<p><persName ref="Spöri, Hermann">Herman Spöriß</persName> ^#.} hinder <placeName ref="LOC_47.346284_8.864490">Gryffenberg</placeName></p>
+<p>und <persName ref="Spöri, Peter">Peter Spöriß</persName> uff <placeName ref="LOC_47.350994_8.877896">Dunckelwiß</placeName>, all dry gebruͤdere, welliche personen all nit nun einfaltig mit der schedlichen sect der wider­toüf­fery behafftet sind, sonnders sich auch jnn andere weg uß anlaß diser sect mit annderen ungebürlichen sträflichen sachen verganngen habent, die zyt her so vil klegt<note type="editorial"> Klagen</note> fürkhommen<note type="editorial"> zu Ohren kommen, kund werden, Id. III, 279.</note>, das wir von oberkeit wegen nit underlaßen khönnend, dann das wir einen erntst gegen jnen erzeigen muͤßend. Deßhalb so bevelchend wir dir, das du uff die gemelten personen dyn spech unnd khundtschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> machist unnd, wo sy jnn dyner verwaltung zůbetretten<note type="editorial"> antreffen, Id. XIV, 1486.</note> sind, sy gfengklich annemmen laßen unnd unns bewart zůfhuͤren laßen söllist, gegen jnen wyter, was sich gebüren wirt, fürzůnemmen. Deß wellend wir unns zů dir versehen<note type="editorial"> erwarten, Id. VII, 566f.</note>. Datum den 14. d. septembris anno 1601.</p>
+<p rend="margin-top">Burgermeister und rath<note type="critical">Folgt gestrichen: der statt</note> der statt Zürich</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>, Jacoben zur Eich.</p>
+<p rend="margin-top">Glychergstalt an vogt zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName>, Hans Heinrich Wellenberg und darjnnen volgende personen nambßen:</p>
+<p><persName ref="Frey, Gorius/Georg">Gorius Fryen</persName> jnn der <placeName ref="LOC_47.21639_8.47594">Baregg</placeName>,</p>
+<p><persName ref="Gut, Melchior">Melchior Gůten</persName> zů <placeName ref="LOC_47.28833_8.43124">Zwillicken</placeName> jnn der pfarr Afholteren,</p>
+<p>Clein <persName ref="Kreier, Kleinjaggli">Jaglj Kräyer</persName> zů <placeName ref="LOC_47.26197_8.41588">Oberluneren</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

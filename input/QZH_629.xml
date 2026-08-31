@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_629</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355275">StAZH E I 7.3, Nr. 84</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1598-10-30"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1598-10-30"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 515</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__84__S__4_.tif"/>
+<p>Wyßunng etlicher widertöüfferischer personen jnn der herrschaft <placeName ref="LOC_47.22446_8.46262">Knonauw</placeName></p>
+<p rend="margin-top">Es soll dem vogt zu Knonow zugeschriben werden, d[as] er durch sonderpare […]<note type="editorial"> Lesung unklar</note> personen syn gspech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> <note type="critical"><q>gspech</q> über der Zeile, in der Zeile gestrichen: machen</note> uff dise ­toüf­fer machen und wo er die bethretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> […]<note type="editorial"> Lesung unklar</note> fengklichen zuschicken, und gegen die, so sy beherbergent und underschloff gebint, mit der straff, wie er verschines jars […]<note type="critical">Lesung unklar</note>, lut der mandathen fürfaren. Actum mentags den 30ten octobris a[nn]o 98 pr[aesen]t[ibus] herr <persName ref="GND_143658468">burgermeister Großman</persName> und beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

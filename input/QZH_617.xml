@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_617</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>ZBZ, Ms A 72, S. 447f.</idno>
+          </msIdentifier>
+          <head>Verlautbarung der Landvogtei Grüningen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1598-04-15"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1598-04-15"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 503</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head type="Originalsprache">Von vertrybung der frömbden wyderteüffern anno 98 h[err] v[ogt]
+            Clauser<note type="editorial"> Hans Heinrich Clauser <persName
+              ref="Clauser, Hans Heinrich"/></note>
+          <note type="critical">Die Aufschrift befindet auf der Rückseite des Dokuments (S.
+            448).</note></head>
+        <p>Nachdem herrn vogt Clausern zů Grüeningen fürkommen<note type="editorial"> zu Ohren
+            kommen, kund werden, Id. III, 279.</note>, wie das abermaln frömbde ufwigler
+          ­toüf­ferischer sect jmm lannd syn söllen, damit nun nit ettwan (wie zůvor mehr beschehen)
+          den eltern jre kind unwüssent unnd hinnderrugkhs entfürt ald<note type="editorial">
+            oder</note> sonnst das einfaltig volckh durch sy beredt unnd hinweg bracht werde, so
+          laßt er ieder menngklichen gůter wolmeinung ernstlich vermannen unnd warnen, ouch by
+          hundert pfunden verbietten<note type="critical"><q>ouch by hundert pfunden verbietten</q> am
+            Rand mit Verweiszeichen</note>, das nach luth unnserer gnedigen herrn hievor ußganngnen
+          mandathen dieselbigen niemants beherberigen noch unnderschlouff geben, sonnder wo sy
+            bethretten<note type="editorial"> antreffen, Id. XIV, 1486.</note> gfenngklichen
+          angenommen unnd gon Grüeningen gefüert werden söllen, dann wöllicher über das hier wider
+          hanndlen, der wurde nach vermög unnserer gnedigen herrn satzung unnd wie abstat<note
+            type="critical"><q>unnd wie abstat</q> am Rand mit Verweiszeichen</note> darumb gebüeßt unnd
+          gstraafft werden. Darnach wüsse sich menngklicher zehalten unnd jmme selbst vor schaden
+            zesyn<note type="editorial"> vor sein: verhüten, Id. I, 929.</note>. Datum den 15. d.
+          aprilis a[nn]o 98.</p>
+        <p rend="margin-top">Lanndtschryber zů Grüeningen</p>
+      </div>
+    </body>
+  </text>
+</TEI>

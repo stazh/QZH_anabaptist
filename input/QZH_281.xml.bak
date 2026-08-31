@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_281</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355038">StAZH B IV 29, fol. 69r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Heinrich Binder</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1569-11-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1569-11-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 167</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>An vogt zů <placeName ref="LOC_47.47812_8.42878">Regensperg</placeName> sovil, witer<note type="editorial"> Der erste Teil des Schreibens (fol. 68v) richtet sich an alle Landvögte und enthält die Aufforderung, das Tanzen auf Hochzeitsfesten und bei anderen Anlässen zu verhindern.</note>:</p>
+<p>Sodenne lieber vogt, zwyflet uns nit, dir syge unvergäßen<note type="critical">Folgt gestrichen: was</note>, das wir dir <persName ref="Ruman, Peter">Peter Rumman</persName>, <persName ref="Kuhn, Hans">Hans Kůnen</persName> und Fridlj Bremen<note type="critical">Folgt gestrichen: <persName ref="Bräm, Fridli">dr</persName></note>, so all dryg ­toüf­ferischer sect anhengig und jnn diner amptsverwaltung sesßhafft<note type="critical">Folgt gestrichen: gschriben</note>, hievor gschriben und bevolhen, sy uns gfengklichen zůzeschicken. Unnd wiewol uns bewüßt, das du din best gethaan, diewyl und aber die sach jrethalb siderhar ersesßen<note type="editorial"> liegen lassen, zurückstellen, vgl. <hl to="http://fwb-online.de/go/ersitzen.s.3vu_1709411409"><Hyperlink>http://fwb-online.de/go/ersitzen.s.3vu_1709411409</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> <note type="critical">Folgt gestrichen: kompt</note> und jemmandts unserm bevelch gegen jnen nitt witer<note type="critical"><q>witer</q> über der Zeile</note> fürgfaren, kompt uns für<note type="editorial"> fürkommen: zu Ohren kommen, kund werden, Id. III, 279.</note>, das sy jnn jrer sect beharind und nüdesterweniger jnn diner amptsverwaltung<note type="critical">Folgt gestrichen: sess</note> wonhafft blybint. Und besonders habe einer under jnen syn wyb noch nie unserm christenlichen bruch nach zů kilchen und strassen<note type="critical">In der Vorlage: straffen</note> gefürt<note type="critical"><q>zů kilchen und strassen gefürt</q> am Rand</note>, sonders allein jnn der ­toüf­feren versamlung sich zůsammen geben und die ee bestetigen lasßen. So nun durch diß volck (sover sy nit abstand) nüdt gůts ußgericht, sonders ungehorsame deß gmeinen volcks daruß volgen möchte<note type="critical"><q>möchte</q> über der Zeile</note>, jst nochmalen unsers gantz erntstlichs begeren an dich, das du uff ernempste personnen din heimliche kundschafft und spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> machist, und wo sy sambt ald sonders<note type="critical">Folgt gestrichen: a</note>, einer ald meer zůbetretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, gfengklichen annemmen<note type="critical">Folgt gestrichen: und</note> lasßist und uns zůschickist. Damitt sy ouch dester mynder blatzes habind, wellend wir, das du die, so jnen<note type="critical">Folgt gestrichen: under v</note> wüßentlichen underschlouff gebent, gfengklichen jnleggen laßist und jnen<note type="critical"><q>jnen</q> über der Zeile</note> dann<note type="critical">Folgt gestrichen: sy an</note> dartzů nach gstaltsame der sachen ein bůß abnemmist. Der achtung, sy hiemit zur gehorsamme oder ußem land zů vetriben syn werdint.<note type="critical">Folgt gestrichen: deß</note> Das wellist mit vlysß volstrecken. Datum ut supra<note type="editorial"> Fol. 68v: <q>Datum mitwuchs den 9ten novembris anno etc. 69.</q></note>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

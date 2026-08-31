@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_766</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355132">StAZH B IV 64, 302r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1606-10-18"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1606-10-18"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 652</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonders gethrüwer, lieber burger und vogt, uff dyn begeren<note type="critical">korrigiert, ursprünglich vielleicht: begerten</note> bscheidts, weßen du dich der Ertzingern (der ­toüf­feren) halber wyter zů verhalten<note type="critical">korrigiert (zů verhalten), ursprünglich: halten; es folgt gestrichen: söllist</note>, gebend wir dir den bevelch, das du sovil den uff <placeName ref="LOC_47.292427_8.679350">Schoubingen</placeName><note type="editorial"> Schaubigen</note> antrifft, wyl derselbig mit synem hab und gůt uß dem land züchen will, jnne darmit verfaren laßen söllist, jedoch das du zevor jme von syner unghorsamme wegen nach billigkeit von und uß synem hab und gůt ein bůß abnemmist und dann das überig synen kinderen (als die jres vaters ungehorsame nüt zůentgelten)<note type="critical"><q>(als die … zůentgelten)</q> am Rand mit Verweiszeichen</note>, die gehorsamm syn und jnn land blyben wellend, vervolgen<note type="editorial"> rechtlich zukommen, zuteilwerden, Id. I, 812.</note> und werden laßen. Im fal aber er, Ertzinger, nit hinweg zuge, sonder über dz nach<note type="editorial"> noch</note> jnn dyner verwaltung<note type="critical">Folgt gestrichen: byb</note> syn welte, da<note type="critical"><q>da</q> über der Zeile, in der Zeile gestrichen: so</note> laßend wir es by unseren vorigen, dir gegebnen bevelchen nachmaln blyben, also dz du zů jme und synem wyb gryffen und sy unns gfengklichen zůfüren laßen söllist, damit wir die gebür gegen jnen fürnemmen khönnind.</p>
+<p>Was dann den uff <placeName ref="LOC_47.30524_8.66126">Guldinen</placeName><note type="editorial"> Guldenen</note> <note type="critical">Folgt gestrichen: anb (Lesung unsicher)</note> belanget, da jst nochmaln unnser meinung<note type="editorial"> Erwartung, Weisung, vgl. <hl to="http://fwb-online.de/go/meinung.h2.1f_1709288851"><Hyperlink>http://fwb-online.de/go/meinung.h2.1f_1709288851</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note>, das du wyter dyn spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> uff jnne<note type="critical">Folgt gestrichen: machen</note> und syn by sich habend wyb machen und, wo sy<note type="critical">Folgt gestrichen: zů betretten</note> jnn dyner verwaltung zůbeträtten<note type="editorial"> antreffen, Id. XIV, 1486.</note>, zů jnen gryffen laßen und uns gfengklich überschicken söllist. Wie<note type="critical">Folgt gestrichen: du dann</note> wir unns dann zů dir versehend<note type="editorial"> erwarten, Id. VII, 567.</note>, du das unserm bevelch nach verichten werdist. Datum den 18. d. octobris anno 1606.</p>
+<p rend="margin-top">Burgermeister und rhat der statt Zürich</p>
+<p rend="margin-top">An vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> Jacoben Zur Eich.</p>
+</div>
+    </body>
+  </text>
+</TEI>

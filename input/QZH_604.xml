@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_604</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355307">StAZH E II
+              1a, S. 909; StAZH E I 2.2, Nr. 24</idno>
+          </msIdentifier>
+          <head>Bericht des Dekans am Zürichsee betreffend mangelhafte Sonntagsheiligung sowie
+            Meldung einer Täuferin im Regensberger Kapitel</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1597-05-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1597-05-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 490</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>Considerationes:</p>
+        <p>Herr decan am Zürich see<note type="editorial"> Heinrich Bullinger (1534-1583)<persName
+              ref="Bullinger, Heinrich (1534-1583)"/></note> zeigt an, dz der sabbat äben
+          schlächtlich gehalten werde. In ettlichen gmeinden fuͤrt man strow, man fischet, die
+          müller fuͤrend das mäl hin und wider, man wëst<note type="editorial"> wäscht aus</note>
+          die woͤschen uß, die kremer legend uß iren kram, man mostet. Und ob man glych wol die
+          satzungen verlißt, hilfft es doch nüt. Darab sich dan die teuffer und andere nit wenig
+          verergerend.</p>
+        <p>N[ota]: Sol an unser gnedig herren langen.</p>
+        <p><placeName ref="LOC_47.47812_8.42878">Rägenspurger</placeName> capitel erklagt sich ab
+            <persName ref="Melliker, Elsbetha">Elsbeta Melicker</persName>, ist ein teufferin, mag
+          zů keiner gehorsamme gebracht werden.</p>
+        <p>N[ota]: Ist für unser g[nedig] herren gewisen.</p>
+        <p rend="margin-top">[Bericht an den Rat]<note>Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=3736177">StAZH E I 2.2, Nr. 24</ref></bibl>.</note></p>
+        <p>9. Letstlichen hat sich der predicant zu <placeName ref="LOC_47.55612_8.43971"
+            >Wyach</placeName><note type="editorial"> Hans <persName ref="GND_1089501889">Felix
+              Schörli</persName>
+          </note> ob synen pfaarsgnoßen <persName ref="Graf, Uli">Ulj Grafen</persName> unnd
+            <persName ref="Melliker, Elsbetha">Elsbetha Mällickineren</persName> syner frouwen zu
+          Wyach, so gar hardneckige unnd widerspennige töuffer syent, jr ungehorsame und jrrthumbs
+          halben höchlichen erclagt und ratts begert, wyl sy groß ergernus geben, wie er sich gegen
+          denselben verhalten sölle. Welliches dan ouch u[wer] m[yner] g[nedigen] h[err]en heym
+          gstelt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

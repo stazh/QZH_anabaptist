@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_494</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355077">StAZH B IV 47, 153r-154v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Anthoni Öri</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1588-11-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-11-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 380</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern günstigen geneigten willen und alles gůts zůvor. Frommer, wyßer, besonnders getrüwer, lieber burger und vogt, als du unns nehermalen etliche personnen uß diner amptsverwaltung, umb das sy der jrrigen ­toüf­ferischen sect anhengig, gfengklichen zůgeschickt und darby deß einen und andern halb, weß du dich ferner halten söllist berichts begert, bist du nun mehr (wie wir von unsern mittrethen, so jüngst by dir deß holtzes jnn der Ouw gweßen, angehört) verstendiget, das du söllicher gfangnen ­toüf­fern hab und gůt alles jnn verbott<note type="editorial"> Sequester, Beschlag</note> leggen, jnventieren und bschryben lasßen söllist, ouch die hüser zů meerem schrekhen (wo es gsyn mag) beschliesßen, alles biß uff unnsern witern bscheid. By demselben wir es nochmalen blyben laßend.</p>
+<p>Sovil dann <persName ref="Bruppach, Jos">Joß Brugbachen</persName> husfrouw belanget, hatt dieselbig sich deßen begeben, so bald sy jres lybs halb (wie sy dann gar kranck jnn dem <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> gweßen) sovil wider starck werde, das sy wol gaan und wandlen könne, welle sy die kilchen und predigen<note type="critical"><q>und predigen</q> am Rand mit Verweiszeichen</note> ordenlichen besůchen. Uff söllich jr versprächen wir sy der gfangenschafft erlasßen, doch das sy dem statt thuͤge und jren costen abfertige.</p>
+<p>Was dann <persName ref="Bruppach, Konrad">Cůnrat Brupbachen</persName> son betrifft, sind wir von gesagten unsern rathsfründen ouch bericht, das du denselben uff trostung<note type="editorial"> Bürgschaft, Kaution, Id. XIV, 1423.</note>, er sich widerumb uff erforderen stellen sölle und welle, der verstrickung erlaßen. Da so jst unnser meinung<note type="editorial"> Erwartung, Weisung, vgl. <bibl><ref target="http://fwb-online.de/go/meinung.h2.1f_1709288851">Frühneuhochdeutsches Wörterbuch</ref></bibl>.</note>, das du den tröstern anzeigist, sy jnn dir widerumb jnn gfangenschafft antworten söllind unnd gebent dir daruf gwalt, das du jme ein bůß schöpfist und uffleggist, jnmasßen du solches gegen uns zů verantworten wüßist, ouch mengklicher erkhennen könne, die jhenigen, so etwas uß dinem bevelch jnn dergylchen und andern sachen ußzerichten haben, nitt daran verhindern werden söllind, noch<note type="critical"><q>werden söllind, noch</q> am Rand mit Verweiszeichen, in und über der Zeile gestrichen: haben ald</note> gwalt thettliche hand jemandt wider sy<note type="critical"><q>jemand wider sy</q> am Rand</note> an anzůleggen nit befuͤgt syge.</p>
+<p>Unnd diewyl syn (deß Brupachen) schwöstern die, so uß dinem geheiß den vatter gfengklichen annemmen söllen, mit ußgeschüttnem unrath eben grob verunsüberet, wellend wir, das du von denselben töchtern, so daran schuld tragend, ouch ein buͤßlj nemmist unnd ob denen personnen, so das widerfaren, etwas costens deßhalb ufgangen were, sy jnen darumbe ouch einen willen machind. Wie du jnn dem und allem (wie obstadt) gebürender masßen zehandlen wol können wirst, stadt unns zůerkhennen und mit gunst zůbedencken. Datum den 4ten novembris anno etc. 88.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem fromen, wyßen, unnserm besonders getrüwen, lieben burger und vogt zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName>, Anthonj Örin.<note type="critical">Anschrift auf der Rückseite, Papier mit Brieffaltung</note></p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_454</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354907">StAZH B II 217, S. 15-16 (Manual des Unterschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend Auswanderung aufgrund Armut (und nicht wegen Täufertums)</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1586-08-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1586-08-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 340</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Sidtmalen<note type="editorial"> da, weil, Id. IV, 147.</note> die personen, so uß dem <placeName ref="LOC_47.502561593977106_8.499244491889575">Nüwenampt</placeName>, <placeName ref="LOC_47.44713_8.52938">Rümlang</placeName> unnd ab annderen orten uß myner herren gebiet hinweg jnn <placeName ref="LOC_49.5_17">Merrhern</placeName>, <placeName ref="LOC_47.33333_13.33333">Österrych</placeName> und der enden zezüchen vorhabens, dasselbig nit von der ­toüf­feryg wegen, sonnders uß armůt unnd mangel thůnd, so wellent myn herren jnnansehung gstaltsamme<note type="editorial"> Beschaffenheit, Id. XI, 368.</note> jetziger leidigen zyth jnen nit darwider syn, sonnders ein jeden, der sich anderschwo baß<note type="editorial"> besser</note> zůerhaltenn vermeindt und weißt, faren lasßenn, doch das sy nit widerkommen unnd ouch niemmanden ufwiglen söllint. Sonst es by dem ußgangnen mandath der ­toüf­feren halb<note type="editorial"> Nr. 329.</note> gentzlichen belyben. Unnd wann der <persName ref="Müller, N. (aus dem Neuamt)">Müller</persName> uß dem Nüwenambt an eydtsstatt anlobt, das er synem fürgeben<note type="editorial"> Äusserung, Id. II, 90.</note> nach nit von der toüferyg wegen hinweg züche, söllen jme die 70 g[ulden], so er hatt, gevolgen und gelaßen werden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Sambstags den 20ten augustj p[raese]nt[ibus] herr Kamblj unnd beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

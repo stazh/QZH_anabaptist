@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_159</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355020">StAZH B IV
+              17, fol. 103v</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an die Eidgenossen von Luzern</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1550-05-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1550-05-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 45</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head type="Originalsprache">An unsere eydtgnoßen von Lucern</head>
+        <p>Unsere getruwe lieb eidtgnoßen. Von unserm gesandten, so wir uff nechst gehaltnem
+            tag<note type="editorial"> Tagsatzung, Versammlung der eidgenössischen Gesandten</note>
+          zu <placeName ref="LOC_47.17242_8.51745">Zug</placeName><note type="critical"><q>Zug</q> über der Zeile, in der
+            Zeile gestrichen: Lucern</note> gehebt, sind wir bericht, was <persName ref="GND_107435379X">her amann</persName> von <placeName ref="LOC_47.0405_8.74101">Schwytz</placeName><note type="editorial"> Dietrich In der Halden</note> von wegen der
+          widertoufern jnn der graffschafft <placeName ref="LOC_47.30858_9.15295">Toggenburg</placeName>
+          angebracht und das man dem landtvogt<note type="editorial">
+            <persName ref="GND_1053340796">Christoph Schorno</persName></note> schryben solte, sollichs mit erntst
+          zustrafen. So aber<note type="critical">Folgt gestrichen: wir des ends w[…] zu befelchen
+            nach zzu handlen hand und</note> wol zu gedenken, das sollich ungehorsam luth nit allein
+          durch einen landtvogt, sonders mit recht an einem landgericht jnhalt<note type="critical">Folgt gestrichen: jrer</note> der landtlüten frigheit und altem harkommen wie dann an
+          anderen orthen meer der enden gebrucht wirt, gestrafft söllind werden, gefiele uns das man
+          jetz jnn disen geferlichen und widerwertigen<note type="critical"><q>jetz jnn disen
+            geferlichen und widerwertigen</q> am Rand mit Verweiszeichen</note> loufen des ends dhein
+          nuwerung furnemme, sonders mengklich by sinem rechten und frygheiten bliben liese. Der
+          achtung, die richter werdint je zuziten jnhalt ußgangner mandaten wol wußen zů richten und
+          zu strafen. Ob aber dem vermeltem landtvogt ald<note type="critical">Es folgt eine
+            Wortstreichung.</note> andern deshalb etwas witers angelegen were, mogen die selben
+          sollichs uff kunfftiger jarrechnung ze <placeName ref="LOC_47.46513_8.28964">Baden</placeName> anzuchen,
+          so wellen wir unserm botten, mit andern orten ferer<note type="critical"><q>mit andern orten
+            ferer</q> am Rand</note> darjnn zuhandlen befelch und gwalt geben. Dis unser meinung<note type="critical"><q>unser meinung</q> am Rand mit Verweiszeichen</note> wolten wir uch<note type="critical">Folgt gestrichen: […] uß thref</note> vermog obgedachts<note type="critical">Folgt gestrichen: angezeigts</note> abscheids dismaln fur antwort
+          unangezeigt nit laßen. Fritgas den 2. may an[n]o 50.</p>
+        <p rend="margin-top">B[urgermeister] u[nd] r[at] d[er] st[att] Z[ürich].</p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p> Zum Anlass des Schreibens vgl. QGTS 2, Nr. 386.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

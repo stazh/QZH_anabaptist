@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_737</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>E I 2.3, Nr. 7</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1604-06-23"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1604-06-23"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 623</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Diewyl diser articul die ­toüf­fer anthreffend glych an dem mitwoch nach dem synodo vor geseßnem rath uß etwas anlaß von mund angezogen und fürbracht unnd daruf bald allen ußeren vögten geschriben worden, dem ­toüf­fer mandat mit allem erntst nachzůsetzen, jnnsonderheit uff die lehrer und ufwigler achtung zehaben, damit dieselben gfengklich angenommen und vertriben werdint, so laßt mans nochmaln darby belyben. Unnd söllent die jnneren vögt jnn jren verwaltungen glychs auch thůn, darzů dan jnen, damit sy es dest flyßiger ußrichtind, bkantnußen<note type="editorial"> Beschluss, Erklärung, Bestätigung, vgl. http://fwb-online.de/go/bekentnis.s.1fn_1741091291 (Früh­neu­hochdeutsches Wörterbuch).</note> zůgstelt werden söllin. Actum den 23ten junij 1604 p[raese]nt[ibus] herr <persName ref="GND_1053582994">burgermeister Bräm</persName><bm id="289"/> und beid reth.</p>
+<p rend="margin-top">Uff die toüfer und schwenckfelder, so jnn und znechst umb die statt syn möchten, soll mengklich<note type="editorial"> jeder</note> flyßig achtung geben und dieselben anzeigen, damit gegen jnen ein erntst angewendt werde.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss nach dem Bericht der Frühjahrssynode an den Rat, vgl. Nr. 618.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

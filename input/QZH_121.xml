@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_121</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355347">StAZH F II a 271, S. 444 (Abschrift, um 1534)</idno>
+          </msIdentifier>
+          <head>Urteil/Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1533-02-27"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1533-02-27"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 7</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Myne herrenn hand sich <persName ref="Bächi, Klaus">Claus Beͣchis</persName> und <persName ref="Altorfer, Ruedi">Ruedi Alltorffers</persName> halb, so für <persName ref="Bächi, Hans">Hansen Beͣchi</persName> der töufferyg halb umb zweyhundert guldin vertröst<note type="editorial"> bürgen, durch Hinterlegen einer Geldsumme sicherstellen, Id. XIV, 1407.</note> hand, erkhennt, das es gaͤntzlich by der trostung, wie der brief die wyset<note type="editorial"> ausweisen, besagen</note>, belybenn unnd die gemeͣllten<note type="editorial"> genannten</note> tröster<note type="editorial"> Bürgen</note> deren gnůg und statthůn, besonder die zweyhundert on alle fürwort leggen und destminder nit wo er, <persName ref="Bächi, Hans">Hansen Beͣchin</persName>, betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, zů jm gryffen unnd jnn daussen vor der graffschafft landtgricht umb sin überfarne urfechd bereͣchtigen sölle. Actum dornstegs<note type="critical">In der Vorlage: dornstes</note> nach esto mihi anno etc. xv<sup>c</sup> xxxiij.</p>
+<p rend="margin-top">Stattschryber Zürich.</p>
+</div>
+    </body>
+  </text>
+</TEI>

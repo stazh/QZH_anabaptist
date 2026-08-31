@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_143</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355015">StAZH B IV 13, fol. 279r</idno>
+          </msIdentifier>
+          <head>[Der Rat von Zürich] an Jakob An der Rüti, Bernhard Segesser von Brunegg und Johann Ludwig von Sulz</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Entwurf</filiation>
+              <filiation type="original"><origDate when="1543-08-18"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1543-08-18"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 29</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unsern frundtlichen willen und alles gutz zůvor. Fromer, wyser, jnsonders gůter frundt und getruwer, lieber landtvogt, von unserm lieben burgermeister her Hans Haben<note type="editorial"> Johannes Haab</note> sind wir verstendiget, wz du uff jungsten tag<note type="editorial"> Tagsatzung, Versammlung der eidgenössischen Gesandten</note> zu <placeName ref="LOC_47.46513_8.28964">Baden</placeName> der widertoufern<note type="critical">Korrigiert, ursprünglich: toufern</note> halb mit jm<note type="critical"><q>mit jm</q> über der Zeile</note> gerett hast. Und diewil uff das sůchen, wie necher maln von dir und den unsern beschehen, groser costen ufgadt unnd sy nit allweg zebetretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> sind, so lasend wir uns wie du zum teyl mit bemeltem<note type="editorial"> genanntem</note> unserm burgermeister<note type="critical">Folgt gestrichen: gerett hast</note> verabscheidet hast, gfallenn, was der selben<note type="critical"><q>selben</q> über der Zeile</note> teuferen uß unser landtschafft jnn die grafschafft Baden wandlent, das du dieselben, es sige uf strasen oder sonst megist gefenklich annemen und mit straf gegen jnen handlen, als sich wirt geburen. Dargegen wellen wir uff die uß der grafschafft, wo die<note type="critical">Folgt gestrichen: uff</note> jnn unser gericht und gebiet<note type="critical">Folgt gestrichen: hat</note> komen, ouch stellen und sy anemen, dero namen aber<note type="critical">Folgt gestrichen: us</note> uns unbekant. Deßhalb unser beger ist, das du uns dieselben jnn geschrifft zůschiken wellist, umb dz wir die sach dest furer<note type="editorial"> eher, Id. I, 968.</note> zuversehen wussind. Wir habent och hieneben dem vogt von <placeName ref="LOC_7.56767_8.41902">Keyserstůl</placeName>, deßglich unserem getruwen lieben burger her Hans Ludwigen, grafen zue Sultz<note type="editorial"> Johann Ludwig I. von <persName ref="Johann Ludwig I. von Sulz">Sulz</persName></note>, geschryben, an den pessen und durchzugen ouch uffsehen zehaben und die ungezogen und verlumbten teufer zestrafen. Datum sambstag den 18. augustj anno d[omini] 43.</p>
+<p rend="margin-top">An landvogt ze <persName ref="An der Rüti, Jakob">Baden</persName>.</p>
+<p rend="margin-top">Gliche meynung vogt von <persName ref="Segesser von Brunegg, Bernhard">Keyserstul</persName>, den durchzug der toufern ze versechen<note type="editorial"> besorgen, sorgen für, Id. VII. 571.</note>.</p>
+<p>Item dem grafen ein gmeyne misiff der sach halb, ufsehen zuhaben.</p>
+</div>
+    </body>
+  </text>
+</TEI>

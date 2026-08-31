@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_358</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696604">StAZH E I 7.2, Nr. 141</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Heinrich Lips</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1579-08-26"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1579-08-26"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 244</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Heinrich Lipsen von Niderurdorff<placeName ref="Urdorf"/> deß widerthaüffers antwort<note type="editorial"> Die Überschrift befindet sich auf der Rückseite vor dem Urteil.</note></head> 
+<pb n="4" facs="E_I_7_2__Nr__141__S__4_.tif"/>
+<p>Heinrich Lips von Niderurdorff<note type="editorial"> Urdorf, bestehend aus Nieder- und Oberurdorf.</note>, der widerthaüffer, hatt uff der herren vögten zů Birmenstorff unnd Urdorff fürhallten<note type="editorial"> Vorwurf, Grimm 26, 1139.</note>, uß was ursachen er sich uß dem Merhern landt widerumb jnn üweer (myner g[nedigen] herren) gebieth glaßen und volck mitt jme hinweg gefuͤrt, den bscheidt geben: Als er by fünff jaren ungfharr uß den franckrichischen kriegen<note type="editorial"> Vierter oder Fünfter Hugenottenkrieg</note> jnn das Merhern <placeName ref="LOC_49.5_17">landt</placeName> getzogen, habe jme das umb so vil geliebet<note type="editorial"> lieb sein, gefallen, Id. III, 989.</note>, das er sich bißher darjnne enthallten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note>, und jetzt dann by drygen wuchen ungfharr allein der meinung widerumb ufhin jnn diß landt kommen syge, syn väterlich erb zůbetzüchen und zesehen, wie es ein gstallt darumb habe.</p>
+<p>Hienebent khönne er nit absyn<note type="editorial"> in Abrede stellen, leugnen, Id. I, 30.</note>, dann das er 8 personnen mitt jme hinab jnn diß Merhern land fuͤren wellen, als namlich <persName ref="Starmann (oder Hauptmann), Hans">Hannsen Starman</persName> oder Houbtmann von Niderurdorff sambt syner eefrowen. Er habe aber von synen brůderen verstanden, das <persName ref="GND_107582656X">buwherr Ziegler</persName><note type="editorial"> Hans Ziegler (1533-1609)</note>, Grichtsherr zů Niderurdorff demselben erlaubt haben sölle, das er möge zühen, wohin er welle. Demnach <persName ref="Vogler, Hans">Hannsen Vogler</persName> sambt syner eefrowen und 2 kinden, alle von Voglen jnn der grafschafft Baden, da er, Lips, auch von jnen verstanden, das ein landtvogt zů Baden jnen erlaubt und verwilliget habe, zetzüchen wohin sy wellind. Unnd dann zwej junge dientstmegtlj, da das ein syn, Lipsen, baß<note type="editorial"> weibliche Verwandte, Id. IV, 1648.</note> und von synem brůderen zum teyl uß dem bättel ufertzogen worden syge. Das ander aber zů <placeName ref="LOC_47.39499_8.44884">Schlieren</placeName>, wie sy schon uff der straß gsyn, zů jnen kommen syge unnd sy gebetten, das sy es auch<note type="critical">Folgt gestrichen: ni</note> mitt jnen züchen laßen, deß er jme nit vorsyn khönnen. Sonst habe er gar niemmanden ufgewiglet, sonder sygen ob ernempte personnen all jme nachgeloffen, da er jnen uff jr erforderen angetzeigt, wie es ein gstallt jnn gedachtem <pb n="5" facs="E_I_7_2__Nr__141__S__5_.tif"/> <pb n="3" facs="E_I_7_2__Nr__141__S__3_.tif"/> Merhern landt habe. Daruf sy mitt jme zetzüchen begert.</p>
+<p>Und diewyl das schweeren by himel und erden verbotten<note type="editorial"> Vgl. Mt 5,33-37</note>, khönne er deßhalb keinen eydt uß üwer (miner g[nedigen] herren) biet schweeren. Er bätte aber sontst, man welle jnne der gfangenschafft erlaßen, damitt er widerumb hinab jnn<note type="critical">Folgt gestrichen: Meh</note> Merhern zů syner christenlichen gmeind züchen khönne. So welle er sontst nütdesterminder üwer (miner g[nedigen] herren) gebieth myden und nit mehr jnn das Schwytzerlandt komen.</p>
+<pb n="1" facs="E_I_7_2__Nr__141__S__1_.tif"/>
+<p rend="margin-top"><persName ref="Lips, Heinrich">Heinrich Lips</persName> von Niderurdorff hatt uff der verordneten herren fürhallten, ob er einen eydt schweeren welle<note type="critical"><q>welle</q> über der Zeile</note>, üwer (miner g[nedigen] herren) gebieth zemyden,<note type="critical">Folgt gestrichen: oder dasselbig zehalten anloben welle</note> den bscheid geben: Diewyl das schweeren von gott by himel und erden verbotten syge, so khönne er<note type="critical">Folgt gestrichen: deßhalb</note> syn hertz und gwüßne wider gots verbott nit beschweren unnd deßhalb keinen eydt schweren noch sonst anloben, üwer (myner herren) gricht und gebiet zemyden. Er welle aber sontst daußen blyben und begere, nit mehr widerzekommen. Ihm fal er aber widerkemme und ergriffen wurde, so syge er jnn üwerm gwallt und mögind jr mit jm handelen, wie üch gefellig und von gott jngegeben werde.</p>
+<pb n="5" facs="E_I_7_2__Nr__141__S__5_.tif"/>
+<pb n="6" facs="E_I_7_2__Nr__141__S__6_.tif"/>
+<p rend="margin-top">[Urteil:] Diewyl diser Lipß mynen herren nüdt zu versprechen stadt unnd herren buwmeister an die hand glopt, usß myner herren gericht unnd gepiet, unnd nit meer daryn zekommen, zezüchenn, habenn myn herren jnne recht der gfencknus nach erleggung deß costens ledig gelasßen doch mit dem anhang, das er dem glüpt nachkommen unnd statt thůn oder gepürennder straaff darob erwarten und verdienten lon empfachen solle. Actum mitwuchs den 26. dies augustj anno etc. 79 p[raese]nt[ibus] herr <persName ref="GND_143680544">burgermeister Kamblj</persName> unnd beid reth.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Die Überschrift befindet sich auf der Rückseite vor dem Urteil.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

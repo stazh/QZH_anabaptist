@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_156</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355314">StAZH E II 1, S. 350f. (Handschrift von Heinrich Bullinger)</idno>
+          </msIdentifier>
+          <head>Anzeige von Täufern in Pfungen, Wülflingen und Buch sowie in der Landvogtei Grüningen</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1549-05-07"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1549-05-07"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 42</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Von toͤuffern.</p>
+<p>H[err] <persName ref="Hirzgarter, Mathias">Matthis Hirßgarter</persName>, pfarrer zů Wintherdur, zeigt an, wie die toͤuffer haͤfftig umb <placeName ref="LOC_47.49675_8.73417">Winthertur</placeName>, besonders ze <placeName ref="LOC_47.51118_8.64247">Pfungen</placeName>, <placeName ref="LOC_47.51036_8.68333">Wülfflingen</placeName> und <placeName ref="LOC_47.548_8.62744">Bůch</placeName> zůnaͤmend. Das sy uff zwen artikel fürnemlich trungend, die oberkeit und das predig ampt ab ze thůnd und nider ze legen. By Pfungen sye ein wald, darinn kummind sy zammen etc. Und einer sye hie in der statt imm <placeName ref="LOC_47.368945662841035_8.540299444207246">Kratz</placeName>, <persName ref="Hedinger, Hans">Hanns Hedingern</persName>, ein wannenmacher.</p>
+<p>Der dechan<note type="editorial"> <persName ref="Schnyder, Niklaus">Niklaus Schnyder</persName></note> von Brotschwyl<note type="editorial"> Bäretswil</note> zeigt an <persName ref="Streler, Ůli">Ůli Streler</persName> uff <placeName ref="LOC_47.28405_8.91997">Halberg</placeName><note type="editorial"> Haltberg</note>, in der pfarr <placeName ref="LOC_47.28706_8.92092">Wald</placeName>. So habe Hanns von <persName ref="Hans von Hefern">Hewern</persName> ein sennen und der schaffner von <placeName ref="LOC_47.26648_8.80812">Bůbikon</placeName> ein sennen.</p>
+<p>Der chamerer von Schlatt<note type="editorial"> <persName ref="Seiler, Johannes">Johannes Seiler</persName></note> sagt, es kaͤme vil gen <placeName ref="LOC_47.49138_8.86454">Elgoͤw</placeName><note type="editorial"> Elgg</note> ein doͤüffer, <persName ref="Räss, Hans">Hanns Raͤß</persName> von <placeName ref="LOC_47.5164_8.87552">Hagenbůch</placeName><note type="editorial"> Geimeint ist wahrscheinlich Hagenbuch bei Schönholzerswilen, im Gebiet der Fürstabtei St. Gallen.</note> uß <placeName ref="LOC_47.30858_9.15295">Doggenburg</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

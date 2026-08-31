@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_473</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355212">StAZH E I 7.3, Nr. 26</idno>
+          </msIdentifier>
+          <head>Hans Peter Röist an Hans Lavater</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1588-08-14"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-08-14"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 359</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__26__S__1_.tif"/>
+<p>Mein gruß und willige dienst zuvor. Günstiger lieber herr, üch jst one zwyffel wol jn wüsen, wie unser gnedig herrenn jre vogt ferschiner<note type="editorial"> vergangener</note> tagen beschickt und jnen nebeth andernn sachen fürgehalthen<note type="editorial"> mündlich vortragen, Id. II, 1235.</note>, wie sy ein flißigs uffsechen uff die unruwigen und ferfurischen thüöeffer, wo man dieselbigen betrethen<note type="editorial"> antreffen, Id. XIV, 1486.</note> möge, unseren gnedigen herrenn gfencklich zůschicken. Diewil dan dise zwen, weliche rächte<note type="critical">In der Vorlage: räthe (Lesung unsicher)</note> uffwigller sind, jch zů <placeName ref="LOC_47.59284_8.67544">Andelfingen</placeName> uß kunschafft<note type="editorial"> Kenntnis, (eingezogene) Nachricht, Id. III, 353.</note> hab, die nith alein mit jrer person, sonder uß dem Fischenthal jn die 25 personen, darunder 9 kleine kinden, uff einem karren gsin, ouch ufflupfig und unrůwig genoth und ouch zu Andelfingen ankomen<note type="critical">Folgt eine Wortstreichung</note>, weliche jch alle jungs und altzs wider zůruck geschickt, darunder der ein uß dem <placeName ref="LOC_47.33663_8.94127">Fischenthal</placeName> gereth, sy wellend jn namenn gottes wider heimzüchen, habind sy jnen die zwen gefangnenn letz für gen, so musind sy<note type="critical">Folgt gestrichen: jnne rächen</note> gott rächenschafft drum gen. Und sind dyß der althen personen, so hinweg mith sampt wib und kinden wellen: <persName ref="Brändli, Konrad">Kurath Brändly</persName>, <persName ref="Kägi, Uli">Uly Kägy</persName>, <persName ref="Huser, Brosi">Prose Huser</persName> und <persName ref="Furer, Uli">Ůly Furer</persName>. Der hatts gefůrth, sind alsamenn uß dem <placeName ref="LOC_47.33663_8.94127">Fischental</placeName>, wie üch dise zwen gefangnen wol werden könen anzeigen. Und diewil dan dise die rächten<note type="critical">In der Vorlage: räthen (Lesung unsicher)</note> uffwigler sind, han jch zu jnen gryffen lasen und sy üch, meinen gnedigen herrenn, zůschicken. Waß jr, mein gnedig herrenn, jetz sunder mit jne handlend, statt zů üwer gnaden. Söliches wellend jr, min gnedig herrenn, berichten, hiemit unß jn schirm göthlicher gnaden bevelende, amenn. Datum 14. augsten an[no] 88.</p>
+<p rend="margin-top">U[wer] w[illiger] Hanß Petter Röist, vogt der herschafft Andelfingen.</p>
+<pb n="2" facs="E_I_7_3__Nr__26__S__2_.tif"/>
+<p rend="margin-top">Dem frommen und wysen meyster Hanß Laffeterenn, meinem günstigen herren zebehendigen etc.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Vermutlich Hans Lavater (1549-1595)<persName ref="Lavater, Hans"/></p>
+      </div>
+    </back>
+  </text>
+</TEI>

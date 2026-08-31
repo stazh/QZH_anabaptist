@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_229</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695071">StAZH E I 7.2, Nr. 110</idno>
+          </msIdentifier>
+          <head>Hans Rahn an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1564-08-07"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1564-08-07"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 115</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__110__S__1_.tif"/>
+<p>From, vest, fürsichtig, ersam, wyß, jnnsonders günstig, gnedig jr min heren, üch sigennd min unnderthenig, gehorsam, willig diennst zuvor. Demnach ich üwer wyßheitt verschinen<note type="editorial"> vergangener</note> zitt geschrifftlich berichtt anntreffend den <persName ref="Gut, Andres">Anndres Gůtten</persName>, des töffers vonn <placeName ref="LOC_47.26217_8.41262">Luneren</placeName>, jnn miner ampts ferwaltung wonhafft, wie das er siner zůsag, alß er durch üch uß üwer (miner gnedigen herenn) gefencknus<note type="critical">In der Vorlage: gefecknus</note> komen, nütt statt thüge<note type="editorial"> tun würde</note>, sonnders sich siner töfferischenn seckt und weßens halber beharre, ouch erenlüt, die jme domallen geltt fürgesetz unnd uff jn gangenn by den wyrtten, nütt zalle. Derhalbenn ich üwers witters befelchs, wie ich mich gegen gemelten<note type="editorial"> erwähnten</note> Anndreßen halten solle, begertt, habend jr mir domallen zůgeschribenn, diewil er siner zůsag nütt statt thuge und sich unngehorsam erzoge<note type="critical">Folgt gestrichen: erzöge</note>, das ich spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> uff jnn mache unnd üch gefancklichen zůschicke, damit jr sinem ferdienen nach wüßend zestraffen unnd wyters zuhandlen. Uff das füge ich uwer wyßheitt zůfernemen, das jch solliches mit ernst gethan hab unnd heimlich spech gehept, komend doch, denen ichs enpfolchen, jme nütt anheimsch<note type="editorial"> anwesend, Id. II, 1286.</note> noch sunst betretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, sonnders hatt er sin wonung an den anstößen<note type="editorial"> Grenzen</note>, hatt sich allso hinweg gemachtt ußern uwer (miner gnedigen heren) gerichten und gepietten, so dan ich fil costenns sollte laßenn uff jn gan, ist zůbesorgen, fergeben sin würde. Und diewil mir aber biderb lüt sinethalben nach loffend, um zallung und rechts begerend, were min begerenn, wie jch mich doch gegen sinem gůtt haltenn solle, damit bederb lüt zaltt werdend, oder ob ich witter siner zůkünfft<note type="editorial"> Ankunft, Grimm 32, 477.</note> erwartten solle oder nüt, dan zubesorgenn, er werde ein wil nutt heimkomenn, sonnders sich alß ein ungehorsamen erzogen. Was dan ich von üch (minen gnedig heren) wyter geheißenn wirtt, gegenn jme zůhandlen, will ich alß ein gehorsamer dienner mit allem ernst ußrichten, derhalben also üwers befelchs und bescheids erwarten wil, üch hiemit jn den schirm des almechtigen gotes wil befolchen habenn. Datum den 7. septembris 1564.</p>
+<p rend="margin-top">Üwer allezitt underteniger, gehorsamer dienner</p>
+<p>Hanns Rann, derzitt vogt zů <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName>.</p>
+<pb n="2" facs="E_I_7_2__Nr__110__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__110__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__110__S__4_.tif"/>
+<p rend="margin-top">Den gestrenngen, fromen, vestenn, fürsichtigenn und wyßen herenn, bürgermeister und rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minenn jnsonnders gnedigen und gepyettenden liebenn heren.</p>
+</div>
+    </body>
+  </text>
+</TEI>

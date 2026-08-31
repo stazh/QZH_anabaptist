@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_701</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355155">StAZH E I 7.3, Nr. 103</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1602-09-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1602-09-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 587</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__103__S__1_.tif"/>
+<p>Edlen, eernvesten, frommen, fürsichtigen, eersammen unnd wyßen e. v. unnd e[rsam] w[ysheit] seyen myn underthenig unnd geflissen dienst jnn aller schuldigen pflicht unnd ghorsamme iederzyth zůvor. Herr burgermeister, jnsonnders gnedig, günstig unnd gebiettendt herrn, als verruckter<note type="editorial"> vergangener</note> tagen nach luth eüwer (myner gnedigen herrn) schryben unnd bevelch <persName ref="Bertschinger, Heini">Heinj Bertschingers</persName> deß schmids unnd ­toüf­fers jmm <placeName ref="LOC_47.33663_8.94127">Vischenthalt</placeName> (so, wegen dz ich jnne ettliche mal byfangen lassen wöllen, ußgethrätten<note type="editorial"> das Land verlassen, flüchten, Id. XIV, 1479.</note>) hab unnd gůt, schuld unnd widerschulden jnn mynem byweßen verzeichnet unnd beschriben worden, da jst mir dißer byligender brief unnd scharpff bitter schryben<note type="editorial"> Nr. 586.</note> (so mich nit wenig beschwerdt) von jmme, Heinj Bertschinger, zůkommen unnd von synem <persName ref="Bertschinger, Marti">brůder Marthj</persName> überantwurtt mit dem bescheid, der brůder seye willens gweßen, sich selbs zestellen, so habe man es aber jmme widerrathen. Daruf ich gfragt, wer die selben seyen, so hat mir aber keiner mögen gnammset werden. Darby ich dann vermerckh, das er sich nit jnn Merhern (wie ich vermeintt) gelassen, sonnder an der nehe syn unnderschlouff haben wirtt etc.</p>
+<p>Als man nun mit beschrybung der schulden forttgeschritten unnd syne brůdern dieselben von mund unnd ouch jnn gschrifft angeben, da haben sich die jnn einer summa ohne den uferganngnen costen über die 1400 pfund<note type="critical">Vorlage: lb</note> betroffen. Da aber ettlichs darunder (mynes bedunckhens) zwyfelhafftig. Doch wil ich söllichs zů syner zyth wol jmm grund erkundigen. Wie ich nun uff sömlichs dem weibel jmm <placeName ref="LOC_47.33663_8.94127">Vischenthal</placeName> jnn bevelch geben, syn (<persName ref="Schmid, Heini">Heinj schmids</persName>) jnngehept güetlj<note type="editorial"> Grundstück, Id. II, 546f.</note> sampt der varenden hab (so alles bishar jnn verbott<note type="editorial"> Arrest, Id. IV, 1900.</note> gelegen) feil zerüeffen<note type="editorial"> zum Verkauf ausrufen</note> unnd uff offner gannth<note type="editorial"> Gant, öffentliche Versteigerung</note> zůverkouffen, da haben syne drey brůdern abermals (glych wie zůvor) vermeintt, sittmaln<note type="editorial"> da, weil, Id. IV, 147.</note> <pb n="2" facs="E_I_7_3__Nr__103__S__2_.tif"/> der brůder darvon vetriben, so diene jnen dz güetlj zů<note type="editorial"> zudienen: zukommen, zufallen, Id. XIII, 190f.</note> luth unnd vermög jres vatters selligen ufgerichten gmechtzbriefs<note type="editorial"> Urkunde über ein Vermächtnis, Id. V, 466.</note>. Doch wyl (jres erachtens) nit vil vor<note type="editorial"> vorig, übrig</note> syn werde, wöllind sy nit vil daruf setzen. Wie aber sonnsten sy das recht anschreyen wurden, wenn nit so vil schulden vorhanden, ouch sovil gredt, als ob man brief unnd sigel an jnen zůbrächen unnderstannde etc., daruf ich nit underlassen wöllen, eüch, mynen gnedigen herrn, ein copia von söllichem brief hiemit zůüberschicken.<note type="editorial"> Diese Urkunde scheint nicht überliefert zu sein.</note> Hieruf der weibel mynem bevelch nach mit verkouffung deß güetlis fürgefaren unnd uß demselben wie ouch der varenden hab 2200 pfund erlößt.</p>
+<p>Da es nun ietzt an dem gelegen, wie ich mich fürer<note type="editorial"> weiter</note> hierinn verhalten, derhalb an eüch, myn gnedig herrn, myn underthenig bitt, mir hierinn wytter anordnung zegäben. So denne hab ich dem ­toüf­fer von <placeName ref="LOC_47.2875_8.85719">Hadlicon</placeName><note type="editorial"> Rudolf Gubelmann von Hadlikon (Hinwil).</note> (so über syn gethan gelübt uss dem spital entwichen) ietzt zum nündten mal widerumb nachsetzen lassen, so jst er aber nit zůbethretten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note>, sonnder allweg schon fortt gsyn, das ich nit wüssen mag, wie es zůgat unnd loufft mit hin immer zů ouch mehr costen uf, wölchs ich eüch, mynen gnedigen herrn, hiemit ouch zewüssen thůn wöllen. Was mir nun die jnn diserm allem ferners jnn bevelch geben werden, soll dem mit allem flyss unnd ernst durch mich erstattung beschehen. Eüch, mynen gnedigen herrn, hiemit mich, unns alle aber gottes allmacht zů gnaden bevelhende. Datum den 9ten septembris a[nn]o 1602.</p>
+<p rend="margin-top">E. v. unnd e. w. undertheniger ghorsammer burger unnd dienner</p>
+<p>Jacob Zur Eich, vogt der herrschafft <placeName ref="LOC_47.28333_8.75">Grüeningen</placeName></p>
+<pb n="3" facs="E_I_7_3__Nr__103__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__103__S__4_.tif"/>
+<p rend="margin-top">Den edlen, eernvesten, frommen, fürsichtigen, eersammen unnd wyßen herrn burgermeister unnd rath der statt Zürich, mynen gnedigen, günstigen unnd gebiettenden lieben herrn</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Aufschriften auf der Rückseite des Dokuments, über und unter der Adresse: <q>vogt zů Gruͤningen</q> und <q>Bethreffendt Heinj Bertschinger genant Schmid den ­toüf­fer jm Vischental</q></p>
+      </div>
+    </back>
+  </text>
+</TEI>

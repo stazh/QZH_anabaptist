@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_208</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355030">StAZH B IV 21, fol. 36v-37r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Johannes Röuchli</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1558-11-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1558-11-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 94</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern früntlichen willen unnd alles gůts zůvor. Ersamer, wyser, besonnders gethrüwer, lieber burger unnd vogt, unns lannget an<note type="editorial"> anlangen: zugetragen werden, als Kunde zukommen, Id. III, 1330.</note>, wiewol die unnsern <persName ref="Bürgi, Rudolf">Růdolff Bürgj</persName>, <persName ref="Clotter, Jos">ouch Jost</persName> unnd <persName ref="Clotter, Marti">Martj Clotter</persName> von <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName> kurtz verganngner zyt von wegen der thöufferj jnn gefanngenschafft gelegen, ouch sich darjnne, das sy hinfüro zur predig gon unnd jre kind thouffen lasßen wellind, begeben<note type="editorial"> sich fügen, Id. II, 91f.</note> unnd darüber uff ein geschworen<note type="critical">Folgt gestrichen: uf</note> urfechd ledig gelasßen, so werde doch sölliche urfechd von jnen nit gehalten, sonnder übersechen unnd sölle dartzů <persName ref="Bürgi, Jakob">Jacob Bürgj</persName> gedachts Rͦdolffen bruder obvermelter<note type="editorial"> oben erwähnter</note> verfürischer säct ein rechter lerer sin. Diewyl nun söllichs uss vil bewegennden ursachen nit zů gedulden, so jst an dich unser ernnstlich bevelch unnd meinung, du wellest obvermelte vier personnen fengklichen annemmen unnd sy dann durch den predicannten<note type="critical"><q>durch den predicannten</q> am Rand mit Verweiszeichen</note> jnn dinem bysin unnd mitlouffender hilff nochmaln ansechen unnd vermannen lasßen, jres jrthumbs abzeston<note type="critical">Es folgt eine Wortstreichung.</note> unnd sich mit dem kilchganng unnd anndern sachen wie annder biderb luth der gehorsame zů beflysßen. Unnd so sy sich söllichs zethunͦnd erpietten, sy dann wiederumb ledigen. Wo sy aber nit darvon abston oder dir darjnne sonnst ettwas<note type="critical">Folgt gestrichen: gfarlichs</note> bschwärlichs begegnete, des sölt<note type="critical">Es folgt eine Wortstreichung.</note> du unns berichten unnd unnsers herren bescheyds darüber erwarten. Des wellen wir unns zů dir versechen<note type="editorial"> erwarten, Id. VII, 566f.</note>. Datum mitwuchs den viiij. novembris anno d[omini] lviij.</p>
+<p rend="margin-top">Burgermeyster unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>.</p>
+<p rend="margin-top">Dem ersammen, wysen, unnserm besonnders gethrüwen, lieben burger unnd vogt zů <placeName ref="LOC_47.22493_8.65207">Wedischwyl</placeName> Hannßen Roüchlj.</p>
+</div>
+    </body>
+  </text>
+</TEI>

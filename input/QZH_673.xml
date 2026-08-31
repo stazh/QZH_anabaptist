@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_673</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355285">StAZH E I 7.3, Nr. 92; Abschrift: ZBZ, Ms A 72, S. 507-509</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1601-10-02"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-10-02"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 559</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__92__S__1_.tif"/>
+<p>Edlen, eernvesten, frommen, fürsichtigen, eersammen unnd wyßen, e. v. unnd e[rsam?] w[yßheit] seyen myn unnderthennig unnd geflißen diennst jnn aller schuldigen pflicht unnd ghorsamme jederzyth zůvor. Herr burgermeister, jnnsonnders gnedig, günstig unnd gebiettenndt herrn, es hatt mir verruckter<note type="editorial"> vergangener</note> tagen herr vogt von <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName><note type="editorial"> Hans <persName ref="Wolf, Hans Ulrich">Ulrich Wolf</persName></note> zůgeschriben, wie daß zů Altorff<note type="editorial"> <placeName ref="LOC_47.31279_8.72325">Mönchaltorf</placeName></note> jnn syner amptsverwalttung ein vile<note type="editorial"> Menge, Id. I, 778.</note> personen ­toüf­ferischer sect zůsammen kommen, darunnder dann jre fürnembste lehrer gsyn, hernach benempte myne amptangehörige: nammlich <persName ref="Gubelmann, Růdli">Růdlj Gubelman</persName> von <placeName ref="LOC_47.2875_8.85719">Hadtlicon</placeName><note type="editorial"> Hadlikon</note> (so deßwegen ouch jnn euwer myner gnedigen herrn statt deßwegen jnn bannden gelegen), jtem <persName ref="Leutenegger, Jörg">Geörg Lüttenegger</persName> uff <placeName ref="LOC_47.28996_8.88374">Ohren</placeName><note type="editorial"> Orn</note> unnd <persName ref="Bertschinger, Hans">Hannß Berttschinger</persName> uff der Ouwrüttj<note type="editorial"> <placeName ref="LOC_47.319994_8.931344">Aurüti</placeName></note> jmm Vischenthal. Unnd diewyl dann zůvor eüwer, myner gnedigen herrn, bevelch unnd meinung gweßen, daß jnnen mit allem ernst gewerth unnd gebürliche straff gegen jnnen fürgenommen werde, jch ouch hienebent berichtet, daß leider sölliche sect nit allein jnn myner amptsverwaltung, sonnder ouch anndern orten mechtig überhannd nemmen wil unnd biderben lüthen jre wyb, kinnd unnd gsinnd (wie mir klagt) abtrünig unnd unghorsam gemacht, hab ich nit unnderlaßen söllen, sonnder anordnung geben, daß gedachte drey verschinnen<note type="editorial"> vergangenen</note> sontags znacht jnn einer stundt gfenngklichen <pb n="2" facs="E_I_7_3__Nr__92__S__2_.tif"/> jnzogen werden. Als nun die ußgeschickten jrem bevelch statt gethan, haben sy den Gubelman nachts an synem schlaffbeth ergriffen, jtem der Lüttenegger hatt sich jnn ein bschloßnen casten verschloßen. Aber den Bertschinger jmm Vischenthal haben sy nit antreffen, nach<note type="editorial"> noch</note> jmm huß finnden können, sonnder jst die sag gsyn, er seye an der frömbde uff einem merckt etc.</p>
+<p>Nach dem mir nun die zwen jnnammen eüwer myner gnedigen herrn gfenngklichen zůgfüerth, jst vil unnd mancherlej mit jnnen gredt unnd fürghalten worden. Ich hab ouch ettlich herrn predicanten alhie jmm ampt angestelt, sy jres jrthumbs zů überwyßen unnd von jrer sect vermannen abzestan. So haben sy jnen kein rechten bscheid von deß gloubens unnd der relligion wegen geben wöllen, sonnder haben allwegen den wanndel unnd daß leben, jr der predicanten unnd ouch eines jeden rechten christen, herfürgezogen. Darby ouch vermelt<note type="editorial"> vermeldet</note>, daß sy unnßern glouben keins wegs nit schälttind, dann er mit jrem übereinstimme, unnd so die predicanten jrer lehr gmeß läbtindt und nit allso ein ergerlich läben fůrtindt, wältindt sy gern zů jnnen jnn die kilchen gan unnd sich nit abgesönnderet haben. Hienebent ouch jemmerzů starckh uff den bann getrungen unnd vermeint, derselb seye ein recht kennzeichen der christenlichen kilchen, unnd vil annders mehr derglychen. Als <pb n="3" facs="E_I_7_3__Nr__92__S__3_.tif"/> nun sy, die töuffer, sich jnn kein disputation vom glouben jnlaßen unnd allein uff jrer meinung vom wanndel unnd läben, wie gemelt (byneben daß sy vilmaln jnn jren eignen worten gfanngen worden), hartneckiger wyß verharret, jst nüdt fruchtbarlichs mit jnnen ußzerichten gsyn, sonnder man allso ungeschaffet<note type="editorial"> ohne etwas erreicht zu haben, Id. VIII, 325.</note> von einanndern müeßen.</p>
+<p>Derhalben ich nit unnderlaßen wöllen, eüch, mynen gnedigen herrn, dieselben (wie dann zůvor söllichs ouch dero bevelch gweßen) verwarth zů überschicken. Sodenne jst mir ouch fürkommen, wie daß jüngst zů <color bgc="yellow"><placeName ref="LOC_47.26648_8.80812">Bůbicon</placeName></color> jnn einem huß ouch ein vile ­toüf­ferischer sect zůsammen kommen syn sölten. Da nun ich die sach recht jmm grund erkunndigen unnd als dann gegen denselben mit allem ernst unnd gebürender straff luth eüwer (myner gnedigen herrn) mandath hanndlen will. Diß alles hab ich von ampts schuldiger pflicht wegen allso verrichten unnd eüch, myn gnedig herrn, deßen verstenndigen söllen, denselbigen hiemit mich unns alle aber dem güettigen gott jnn synen schirmm bevelhende. Dattum frytags den 2. octob[ris] a[nn]o 1601.</p>
+<p rend="margin-top">E. v. und e. w[yßheit] unndertheniger gehorsammer burger unnd dienner</p>
+<p>Jacob Zur Eych, vogt der herrschafft <placeName ref="LOC_47.28333_8.75">Grüeningen</placeName></p>
+<pb n="4" facs="E_I_7_3__Nr__92__S__4_.tif"/>
+<p rend="margin-top">Den edlen, eernvesten, frommen, fürsichtigen, eersammen unnd wyßen herrn burgermeister unnd rath der statt Zürich, mynen gnedigen, günstigen unnd gebiettenden herrn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

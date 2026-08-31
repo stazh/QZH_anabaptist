@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_683</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355290">StAZH E I 7.3, Nr. 97; Abschrift: ZBZ, Ms A 72, S. 539</idno>
+          </msIdentifier>
+          <head>Jakob Zur Eich an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1601-12-23"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1601-12-23"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 569</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__97__S__1_.tif"/>
+<p>Edlen, eerenvesten, frommen, fürsichtigen, eersammen unnd wyßen, e. v. unnd e[rsam] w[yßheit] seyen myn unnderthenig unnd geflissen dienst jnn aller schuldigen pflicht unnd ghorsamme iederzyth zůvor. Herr burgermeister, jnnsonnders gnedig, günstig unnd gebiettendt herrn, ich wird gloublich berichtet, wie das <persName ref="Schmid, Heini">Heini Schmid</persName>, der ­toüf­fer jmm <placeName ref="LOC_47.33663_8.94127">Vischenthal</placeName> (den jr, myn gnedig herren, mir bevolchen, gfenngklichen jnzeziehen etc.), syn hab unnd gůt feil bietten unnd verkouffen sölle unnd willens sey, mit demselben hinweg uß eüwer (myner gnedigen herrn) gricht unnd gebiett zeziehen. Derhalben ich jmm söllichs von oberkeitts wegen jnnammen eüwer myner gnedigen herrn rechtlichen verbietten lassen. Diewyl ich aber nit wüssen mag, was ich uff söllichen fahl ferners gegen jmm fürnemmen sölle, so gelanngt an e. v. unnd e. w. myn underthenigs bitten, die wöllen mich verstenndigen, wie ich mich deß ortts wytter gegen jmme synes gůtz halber, ouch wegen deß uncostens, so als man jnn fahen<note type="editorial"> gefangen nehmen</note> wöllen, ufgangen<note type="editorial"> aufgewendet, Id. II, 14.</note>, verhalten sölle etc. Da dann dem von mir mit allem flyss ghorsammlich nachkommen werden sol, eüch mynen gnedigen herrn hiemit mich, unns alle aber dem gnedigen gott zů gnaden bevelhende. Datum den 23. decembris a[nn]o 1601.</p>
+<p rend="margin-top">E.v. unnd e.w. unntertheniger ghorsammer burger unnd dienner</p>
+<p>Jacob Zur Eich, vogt der herrschafft <placeName ref="LOC_47.28333_8.75">Grüeningen</placeName></p>
+<pb n="2" facs="E_I_7_3__Nr__97__S__2_.tif"/>
+<pb n="3" facs="E_I_7_3__Nr__97__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__97__S__4_.tif"/>
+<p rend="margin-top">Den edlen, eernvesten, frommen, fürsichtigen, eersammen unnd wyßen herrn burgermeister unnd rath der statt Zürich, mynen gnedigen, günstigen unnd gebiettenden herrn.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p>Vgl. <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS, Bd. 5</ref>, <ref target="https://qzh.sources-online.org/quellenstuecke/QZH_684">Nr. 570</ref></bibl>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

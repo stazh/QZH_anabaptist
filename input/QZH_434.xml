@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_434</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355260">StAZH E I 7.3, Nr. 7</idno>
+          </msIdentifier>
+          <head>Instruktion der Zürcher Gesandten für die Tagsatzung in Aarau</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1585-07-03"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1585-07-03"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 320</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__7__S__1_.tif"/>
+<p>Nachdem unser lieb eydtgnosßen von <placeName ref="LOC_46.94809_7.44744">Bern</placeName> myn gnedig herren wie ouch die andern beid stett, unser lieb eydtgnosßen von <placeName ref="LOC_47.55839_7.57327">Basell</placeName> und <placeName ref="LOC_47.71034_8.63388">Schaffhusen</placeName>, schrifftlichen errsůchen lasßen, jre rathtsbottschafften sambt etlichen<note type="critical">Folgt gestrichen: jr</note> der fürnempsten jrer theologen und vorstendern göttlichs worts uff sontag den vierdten<note type="critical">In der Vorlage: viedten</note> tag julij gen <placeName ref="LOC_47.38878_8.04826">Arouw</placeName> abzůfertigen, daselbs mit jren geordneten sprach und conferentz zepflegen<note type="critical"><q>zepflegen</q> am Rand, in der Zeile gestrichen: zehalten</note> und ein verglychung<note type="editorial"> Verständigung, Einigung</note> zethůnd, wie sich doch der<note type="critical">Folgt gestrichen: schedlichen</note> personen halb, so sich der ­toüf­ferischen, jrigen und schedlichen sect anhengig machendt, fürnemlich gegen den ufwigleren und leereren, sy sygen frömbd ald<note type="editorial"> oder</note> heimbsch, ouch denen, so jnen hilf und fürschub<note type="editorial"> Beihilfe, Id. VIII, 84.</note> gebent, mit der straff zů allenteylen zehalten, alles mit wytlouffigem begriff<note type="critical"><q>wyt louffigem begriff</q> am Rand, in der Zeile gestrichen: meerem jnhalts jre</note> eehaffter<note type="editorial"> rechtsgültig, Id. I, 7.</note> dartzů bewegnuß vermög<note type="critical">Folgt gestrichen: der</note> jrer missif etc., habent obwolgenannt myn gnedig herren jnn<note type="critical"><q>jnn</q> über der Zeile, in der Zeile gestrichen: jnen</note> disere zůsammenkunfft<note type="critical">Folgt gestrichen: gantz</note> als ein hoch thůnlich werch jren willen geben<note type="critical"><q>jren willen geben</q> am Rand mit Verweiszeichen, in der Zeile gestrichen: wol gfallen laßen.</note> unnd<note type="critical">Folgt gestrichen: de</note> hieruf den frommen vesten<note type="critical">Folgt gestrichen: jren</note> j[unker] <persName ref="GND_143657062">Hanß Keller</persName><note type="editorial"> Hans Keller (1537-1601)</note>, jren lieben mitrath, und den eerwürdigen wolgelerten hern <persName ref="GND_100182747">Ludwigen Lafatern</persName><note type="editorial"> Ludwig Lavater (1527-1586)</note>, predicant der kilchen zum großenmünster, jren lieben burger, erwelt und verordnet, obangeregte <pb n="2" facs="E_I_7_3__Nr__7__S__2_.tif"/><note type="critical">Folgt gestrichen: tagba</note> tagsatzung jnn jrem nammen zůbesůchen. Unnd so nun hienebent uß jr (myner gnedigen herren) bevelch die herren predicanten und profesßores der heilgen gschrifft alhie<note type="critical">Folgt gestrichen: jr bedencken</note> ein bedencken über disere sach jnn schrifft verfasßt<note type="editorial"> Nr. 319.</note> und dasselbig vor jnen, mynen herren, verhört worden, laßend sy jnen dasselbig (als das den alten abscheiden<note type="editorial"> Ergebnis der eidgenössischen Beratung</note>, verkomnußen<note type="editorial"> Übereinkunft, Vertrag</note> <note type="critical">In der Vorlage: verkomußen</note> und<note type="critical"><q>abscheiden, verkomnußen und</q> am Rand mit Verweiszeichen</note> satzungen zum teyl zů- und mitstimpt) wol gfallen.<note type="critical">Folgt gestrichen: das</note> Welliches jre beid obgesagte gsandten (uff zevordrist anmeldung jr, myner herren<note type="critical"><q>jr myner herren</q> am Rand mit Verweiszeichen, in der Zeile gestrichen; jres gr</note>, fründtlichen grůßes und anerbietung aller vertruwten willigen dientsten und eydtgnösßischer liebe) den abgesandten der<note type="critical">Folgt gestrichen: anderen</note> drygen stetten, wenn man jnn handlung kompt, erscheinnen ald fürleggen mögend und dann loßen und ­an­mer­cken, was jeder derselben drygen stetten gůt achten, bedacht und meinung hierumbe ouch syge, volgents gwalt haben, sich mit jnen, uff ein glychförmige handlung, es syge jnn eim ald dem andern der ­toüf­fern weßens und gattung halb<note type="critical"><q>halb</q> über der Zeile</note> mit abschaffung deßen oder fürkomnung<note type="editorial"> Vorbeugung, Verhütung, Grimm 26, 1242.</note> fernern unradts jnn der straff und sonst beradtschlagen unnd <pb n="3" facs="E_I_7_3__Nr__7__S__3_.tif"/> weß sy<note type="critical"><q>sy</q> über der Zeile, in der Zeile gestrichen: man</note> sich gmeinlich verglychend<note type="critical"><q>verglychend</q> über der Zeile</note> oder sonster uff ein ald den andern weg mit ein andern underredent. Das alles sy, myner herren<note type="critical"><q>sy myner herren</q> am Rand, in der Zeile gestrichen: jedes ordts</note> gsandte, uff<note type="critical">Folgt gestrichen: hinder</note> gfallen jr myner gnedigen<note type="critical"><q>jr myner gnedigen</q> über der Zeile, in der Zeile: jrer</note> herren<note type="critical">Folgt gestrichen: und oberen</note> jnn abscheid nemmen und heimbringen<note type="editorial"> das Ergebnis der Beratung zurückbringen</note>, die dann sich jres entschlusses darüber nach jrem gfallen gegen den andern ordten zehalten wol wüßen.<note type="critical"><q>die dann sich jres entschlusses … wol wüßen</q> am unteren Rand mit Verweiszeichen, in der Zeile folgt gestrichen: da der entschlüsße (darüber halb) zů samen tragung (halb) jedes ordts wol witere ordnung (…) zegeben wüßen wirt.</note></p>
+<p>Actum sambstags den 3ten julij anno etc. 85 pr[aesen]t[ibus] herr <persName ref="GND_143680544">burgermeister Kamblj</persName> und beid reth.</p>
+<pb n="4" facs="E_I_7_3__Nr__7__S__4_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

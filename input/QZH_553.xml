@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_553</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355253">StAZH E I
+              7.3, Nr. 63</idno>
+          </msIdentifier>
+          <head>Georg Ludwig von Freyberg der Jüngere an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1590-08-31"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1590-08-31"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 439</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" facs="E_I_7_3__Nr__63__S__1_.tif"/>
+        <p>Edle, gestrenge, ehrnveste, fürsichtige, ersame unnd weyse, sonders liebe herrn und
+          freundt. Mein freundtlich gutwillige dienst seyen euch bevor, unnd darbej freundtlicher
+          guter mainung zuvernemmen, daß mir ewer mitburger <persName ref="GND_136100821">Abraham
+            Gäßner</persName>, goldtschmidt, durch ettliche mittelpersonen dermaßen recommendirt
+          unnd dabey auch durch jhne selbst anvermeldt worden, was ursachen (sein gewissen
+          betreffendt) er sich auß ewerer statt Zürich, seinem vatterlandt, an andere ort begeben
+          müßen, aber bißhero khein bleibliche statt, alda er sich gerüewigclich und zu seines weibs
+          und kinder wolfahrt niderlaßen mögen, befinden noch bey euch seidthero nicht wider
+          einkhommen khünden. Derwegen verursacht, seine gelegenheit weitters zusuchen, die er dann
+          alhie in meiner herrschafft dergestalt ersehen, daß er mich gantz underthenig und fleißig
+          umb haußhäblichen underschlauff<note type="critical">In der Vorlage: underschlaff</note>
+          angerueffen. Daruff jch jhme wegen angeregter recommendation auch in ansehung seiner kunst
+          und arbeit mitleidenlich sovil vergunnt, daß er alberait einen kauff umb ein hauß und
+          seine zugehörden under mir nach seiner gelegenheit getroffen und uf gewise zihl zubezahlen
+          versprochen, oder do jhme solcher kauff hienacher nicht gefellig, hab jch jhme ein
+          sonderbare hofstatt, nach belieben von newem darauff zubawen, bewilliget, do allein jetzt
+          von <pb n="2" facs="E_I_7_3__Nr__63__S__2_.tif"/> euch, seinen gnedigen herrn, jhme sein
+            armüetlin<note type="editorial"> kleiner, beweglicher Besitz, Id. I, 457.</note> unnd
+          vermögen gefolgt und harauß geben würdet. Sintemahl<note type="editorial"> da, weil, Id.
+            IV, 147.</note> jr jhme aber solches nicht wellen underhanden<note type="editorial"> in
+            Besitz, Grimm 24, 1612.</note> geben, er habe dann ein gewise wohnung, alda selbiges
+          seinen kindern (wie er dann anderst nicht gemaint seye, sich erclert) auch möge zu nutz
+          khommen und bleiben, allß hat mich er umb g[naden] ­uhr­khundt und fürschrifft<note type="editorial"> Empfehlungsschreiben, Id. IX, 1585.</note> deßwegen an euch
+          höchstfleissigist ersucht und gebetten. Welchs jch jhme alls einem (sovil ich berichtet
+          und selbs darfür halte) auffrichtigen, frommen und gottsförchtigen mann nicht zuverwaigern
+          gewüst, gelangt demnach hiemit mein sonder freundtlich bitt an euch, jr wöllen euch gegen
+          ernanten ewerm mitburger Abraham Gäßner und den seinigen so gnädig, mitleidenlich,
+          christlich und billig erzeigen, daß jr jhme sein haab und guth, so noch bey euch ligt, ohn
+          ferner hinderhalten herauß folgen laßet, damit er den under meiner ober­kheit alberait
+          getroffnen kauff halten oder vorhabenden baw verbringen<note type="editorial">
+            vollbringen, ausführen, Grimm 25, 174.</note> khünde und nicht stetigs im elend (jhme
+          und den seinen zum zeitlichen verdärben, auch euch selbsten zu schlechtem rhuom) umbziehen
+          müeße, gleichwol er zum liebsten jn seinem vatterland under euch, seinen gnedigen herrn,
+          gehorsamblich <pb n="3" facs="E_I_7_3__Nr__63__S__3_.tif"/> verbleiben wolte. Dieweill
+          aber solches obangedeutter ursachen halber nicht sein will, so begert er sich, under
+          meiner ordenlichen ober­kheit redlich und frumblich zunehren und seinen kindern wol
+          zuhausen, darzu jch jhn selbsten ober­kheit halben anzuhalten nicht underlaßen will.
+          Getröste mich also zu euch freundtlichen, jr werden jhne diser meiner fürschrifft
+          würckhlichen und also genießen laßen, damit jch spüre, solche nicht ohne frucht abgangen,
+          sundern von euch freundtlichen und willfährig in acht genommen seye.</p>
+        <p>Daran beschicht, was für sich selbst billich, recht und loblich, und wirt es ermelter
+          ewer mitburger sampt den seinigen umb euch in andere weg gehorsamlich zuverdienen sich
+          befleissen. Zu deme jch mich erpiethe, es in dergleichen und mehrern zutragenden fällen
+          ohnfergessen freundtlich zu beschulden. Unns damit samentlich göttlichem gnadenschirmb
+          befohlen. Datum uf Justingen den letzten augustj anno 1590.</p>
+        <p rend="margin-top"><persName ref="GND_1361581948">Georg Ludwig v. Freyberg</persName>, Herr zu <placeName ref="LOC_48.38724_9.66389">Justingen</placeName> u. <placeName ref="LOC_48.28639_9.80315">Öpffingen</placeName></p>
+        <pb n="4" facs="E_I_7_3__Nr__63__S__4_.tif"/>
+        <p rend="margin-top">Den edlen, gestrengen, ehrnvesten, fürsichtigen, ersamen und weysen
+          herrn burgermeister und rath der loblichen statt Zürich, meinen sonders lieben herrn und
+          freunden.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

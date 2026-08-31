@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_789</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355182">StAZH E I 7.3, Nr. 129</idno>
+          </msIdentifier>
+          <head>Bericht von Landis Gefängnisausbruch am 31. Dezember 1608</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1609-01"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1609-01">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 675</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__129__S__4_.tif"/>
+<p>Als dißer töüffer den letsten tag decembris anno 1608 sich selbs der banden jm spittal gelediget, jst er am morgen zů des spitals kareren<note type="editorial"> Fuhrknecht, Id. III, 426.</note> jnn stal kommen und gefraget, wo er zum thor ußmuͤße. Darby abzenemmen, das er jm nit übel entseßen<note type="editorial"> entsetzen, erschrecken</note>, ward h[err] spitalmeistern<note type="critical">Folgt gestrichen: anzeigt, das das</note> durch <persName ref="Ott, Marx">Marx Oten</persName> antzeigt, des wannenmachers sohn jm <placeName ref="LOC_47.368945662841035_8.540299444207246">Cratz</placeName>, so am abent darvor dem spitalmeister 1 zedel umb etliche arbeit bracht, habe<note type="critical"><q>habe</q> über der Zeile mit Verweiszeichen</note> diserm töüffer 1 näpper<note type="editorial"> Bohrer, Id. IV, 771.</note> geben, darmit er die ketinen am angel lößen mögen. Und ist etlich zinin gschirs hinder dißerm töüffer funden worden, darjnn etliche burger jmme zeäßen und ztrincken gschickt. Under welichen <persName ref="Müller, Jakob">Jacob Müller</persName> der glaser am halßyßen mentags den 9ten januarij a[nn]o 1609 1 zinine fleschen, darjnn er genantem töüffer 1 trunckh bracht, gefordert; es ist jm aber vom spitalmeister abgschlagen worden.</p>
+</div>
+    </body>
+  </text>
+</TEI>

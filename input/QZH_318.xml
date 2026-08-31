@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_318</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695128">StAZH E I 7.2, Nr. 129</idno>
+          </msIdentifier>
+          <head>Matthias Schmid an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1575-11-13"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1575-11-13"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 204</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__129__S__1_.tif"/>
+<p>Edel, stränng, from, vest, fürsichtig, ersam, wyß, jnnsonnders gnedig, günstig jr, min herrenn, min unnderthenig, gehorsam, ganntz geneigt unnd guttwyliger diennst sig eüch, minen gnedigen herren, mit aller unndertheigkeit alzit bereidt. Innsonnders gnedig, günstig jr, min herren, fuͤgenn eüwer eersam wyßheyt myt aller unnderthenigkeidt hiemit zuvernämen: Nachdem jr (min gnedig herrenn) mir zůschrybenn laßen uff denn nünten tag meyen jnn dißem 75. jar<note type="editorial"> Dieses Schreiben ist nicht überliefert.</note>, wie das <persName ref="Ruman, Peter">Petter Ramen</persName> vonn <placeName ref="LOC_47.50369_8.41911">Schöfflystorff</placeName><note type="editorial"> Schöfflisdorf</note> sich der thöüfferischen sägkt unnderwundenn unnd dersälbenn thäglichenn nachgangen denn lüthenn jnn die hüßer unnd sonnst jnn annder ort unnd änndt unnd daß folgk vonn dem gemeynen kylchganng füre, das sy etwann zů <placeName ref="LOC_47.50885_8.40591">Weningen</placeName><note type="editorial"> Oberweningen</note> uß der bredig uß der kylchenn zu denn döüffernn ganngenndt, uff dennsälbenn jch min heymlich späch<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> machen, dennsälbenn eüch (minen gnedigenn herrenn) verwart zu schigkenn. Welichem eüwerm (miner gnedigen herrenn) schrybenn jch<note type="critical"><q>jch</q> über der Zeile</note> nachganngenn unnd min späch<note type="editorial"> Fahndung</note> uff ernämptenn Ramen gmacht, dersälbig abermallenn synner döüfferischenn sägkt nachzogenn, dessälbig mir anngezeigt unnd mine bottenn jm nachgschigkt unnd jnn gefanngklichenn annämen laßenn. Dersälbig gar eynn<note type="critical">Folgt: eynn (Wortwiederholung)</note> schädlichenn man unnd das folgk vonn der chrystenlichenn leer unnd vonn dem gotts wort gar abwändig macht. Dersälbig sich gägenn eüch (minen gnedigenn herren) der maßen halt unnd eüch verkleynnert, das jr (min gnedig herrenn) laßendt jm thrugk thestenmendt<note type="editorial"> Bibeldrucke</note> ußgann, diesälbenn sigendt falsch unnd nit gmacht nach dem wort deß herrenn. Zudem sälbenn jst mir annzeygt, das Petter Ramen wie obstatt hin unnd wider louffe synner segkt nach unnd die lüth abwändig mach unnd kurtz verschiner<note type="editorial"> vergangener</note> zit jnn Zurtzicher wald<note type="editorial"> Wald bei Zurzach</note> ganngenn unnd abermallen eynn bredig anngsähenn<note type="editorial"> festlegen, festsetzen, Id. VII, 555f.</note>. Domallen unnder jnnen eynner, der jrenn fürstennder unnd lerer gsynn, jst jm wald mit todt abganngenn, dennsälbenn sy hin unnd wider <pb n="2" facs="E_I_7_2__Nr__129__S__2_.tif"/> threydt jnn der Bader graffschafft<note type="editorial"> Landgrafschaft Baden</note> unnd annderstwo und jnn nienen wellenn begraben laßenn. Letstlichenn mit jme gann <placeName ref="LOC_47.5029_8.37505">Niderweningenn</placeName> komen unnd dennsälben daßälpst begrabenn, unnd Petter Ramen das grab gmacht und aber jnn die kylchenn nit wellen. Daß gschir zu dem grab, darmit man es macht, gantz nyt reychen<note type="editorial"> holen, Id. VI, 140.</note> wellen, sonnder des sigersten<note type="editorial"> Sigrist, Küster</note> frouw jnnen daßalbig uß der kylchenn thragenn unnd zůstellenn müßenn, das jrenn dheynner<note type="editorial"> keiner</note> jnn die kylchenn wellen, also eüch (min gnedig herren) verkleineret unnd umb eüwer, miner gnedigen herren gepot gar nüt gäbenn wellendt. Söliches schrybenn jch eüch (minen gnedigenn herren), [denen] zůstatt, nach eüwerm gefalenn mit jnnen zů hanndlenn. Datum denn 13. tag november anno 75. Jar.</p>
+<p rend="margin-top">U[wer] w[illiger] dienner</p>
+<p>Mathias Schmidt, burger der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, obervogt uff <placeName ref="LOC_47.47812_8.42878">Rägensperg</placeName></p>
+<pb n="3" facs="E_I_7_2__Nr__129__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__129__S__4_.tif"/>
+<p rend="margin-top">Dem edlenn, stränngen, frommen, vesten, fürsichtigen, ersamen unnd wyßenn herrenn burgermeyster unnd ratht der statt Zürich, minen gnedigenn, gunstigenn, lieben herrenn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

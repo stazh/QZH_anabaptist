@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_760</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355177">StAZH E I
+              7.3, Nr. 123</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (2 Doppelblätter)</filiation>
+              <filiation type="original"><origDate when="1606-06-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1606-06-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 646</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head type="Originalsprache">Anthreffend einer ­toüf­ferinn jm Räbstal<note type="editorial"> Reppischtal</note><placeName ref="Reppischtal"/> gůt</head>
+        <pb n="8" facs="E_I_7_3__Nr__123__S__8_.tif"/>
+        <p>Herr <persName ref="Schneeberger, Hans Heinrich">landtvogt Schneeberger</persName> und
+          m[eister] <persName ref="Schwerzenbach, Hans Thoman">Schwertzenbach</persName> söllend
+          dißerm gůt nachfragen und jnn arrest leggen, da es dann an dem syn wirt, ob es den 8 alten
+          orten oder der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, dahin die manschafft<note type="editorial"> Lehnrecht, Id. IV, 292.</note> ußm Räbstal ghört, zůdienen und gehören
+          sölle ald<note type="editorial"> oder</note> nit. Deßen soll der landtvogt zů <placeName ref="LOC_47.46513_8.28964">Baden</placeName> berichtet werden. Actum mittwuchs den 4ten junij 1606
+          coram senatu.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

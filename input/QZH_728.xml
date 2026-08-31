@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_728</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355120">StAZH B IV 61, fol. 249r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Jakob Zur Eich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1603-09-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1603-09-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 614</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsren günstigen geneigten willen und alles gůts zůvor. Frommer, wyser, besonders gethrüwer, lieber burger und vogt, wir habend uß dynem schryben verstanden, wie das du die jehningen personen, so <persName ref="Spöri, Hermann">Herman Spörj</persName>, als derselbig dir uß dynem bevelch gfengklichen zůgfürt werden söllen, widerumb ledig gemacht und jnne beherberget habend, nach der gebür gebüßt und gstrafft habist, welliches wir unns ouch gefallen laßen. So vil aber<note type="critical">Folgt gestrichen: deß</note> den genannten Herman Spörj (uff den du nachmaln jnne byzefangen dyn spech<note type="editorial"> Nachforschung, Fahndung, Id. X, 76.</note> haben solt) und syn, auch syner frouwen (die auch mit der töüfferig behafftet) hab und gut, deßgylchen jre kinder belanget, sind wir glycher gstalt jn demselben dynem schryben berichtet worden, wellicher maßen die sachen<note type="critical">korrigiert, ursprünglich: sache</note> gestaltet. Diewyl dann<note type="critical">Folgt gestrichen: jr</note> die kinder jrer elteren widerspenige und<note type="critical"><q>und</q> über der Zeile</note> unghorsamme nit<note type="critical">Folgt gestrichen: umb b</note> allenklich entgelten<note type="editorial"> entschädigen, für einen Schaden aufkommen, vgl. <hl to="http://fwb-online.de/go/entgelten.s.3vu_1709315775"><Hyperlink>http://fwb-online.de/go/entgelten.s.3vu_1709315775</Hyperlink></hl> (Frühneuhochdeutsches Wörterbuch).</note> könnend, so wöllend wir dir jnn demselbigen gwalt geben haben, die sachen nach<note type="critical">Folgt gestrichen: andütung dynes schrybens</note> der gebür<note type="critical"><q>der gebür</q> am Rand</note> zebüßen und zestrafen<note type="critical">Folgt gestrichen: und nach gnaden darinnen zehandlen</note>, doch dz von syn (Herman Spöriß) frouwen gůt auch ein sondere straaf nach vermög<note type="editorial"> Inhalt, Aussage, Id. IV, 107.</note> unnsers ußgangnen mandaths<note type="critical"><q>nach vermög … mandaths</q> am Rand mit Verweiszeichen</note> genommen werde, da du dann dz überig hab und gůt<note type="critical">Folgt gestrichen: die</note> den kinden uß gnaden zů jrer underhaltung gevolgen laßen magst. Deßen weltend wir dich uff din begeren nit unberichtet laßen. Datum den 17. d. septembris a[nn]o 1603.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen, wysen unserem besonders gethrüwen, lieben burger und vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> Jacoben Zur Eych.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Vgl. auch die Notiz auf dem eingegangenen Schreiben von Jakob Zur Eich (Nr. 613): <q>Bethrifft Herman Sporj von Berentschwyl<placeName ref="Bäretswil"/> und Peter Spörj syn brůder, so jnne (Herman) abe den banden, da er gfangen gweßen, erlediget hatt. Dem vogt jst widerumb geschriben worden 17. septembris [160]3.</q></p>
+      </div>
+    </back>
+  </text>
+</TEI>

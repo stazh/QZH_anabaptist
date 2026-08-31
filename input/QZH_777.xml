@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_777</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355179">StAZH E I 7.3, Nr. 126</idno>
+          </msIdentifier>
+          <head>Verzeichnis der Täufer in Hirzel</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1608-09-29"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1608-09-29"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 663</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__126__S__1_.tif"/>
+<p>Volgende parssonen<note type="editorial"> Personen</note> habind sich dismals von der christlichen kilchen und gemeinnd zů Horgen abgesündert und in die sächt der widerthöüfferey ergäben. Namlich:</p>
+<p><persName ref="GND_130035173">Hans Landis</persName> unnd syn gantz hußgesind. Sy habend ouch eethliche jar den win jn sinem huß, ist ouch jr brediger.</p>
+<p>Item Hans Landis und syn brůder, ouch yr wiber und gantz husfolch wonhafft im Mosacher<note type="editorial"> Moosacher, Hof der Ortschaft Hirzel.<placeName ref="Hirzel, Mosacher"/></note>.</p>
+<p><persName ref="Isler, Jakob">Jacob Isßler</persName> uff dem Boden<note type="editorial"> Boden, Hof der Ortschaft <placeName ref="LOC_47.210708_8.600892">Hirzel</placeName>.</note> hoff, der sol jr sekelmeister sin, doch mag ichs nit grundtlich wüßen etc.</p>
+<p><persName ref="Staub, Rudolf">Růdölfflj Stoub</persName> an dem Mülj Buͤll<note type="editorial"> Mülibüel, Hof der Ortschaft <placeName ref="LOC_47.210708_8.600892">Hirzel</placeName>.</note>, da hand sy jr kornn schuͤtj<note type="editorial"> Speicher, Id. VIII, 292.</note>.</p>
+<pb n="2" facs="E_I_7_3__Nr__126__S__2_.tif"/>
+<p>Item Melcher Näglj<note type="critical"><persName ref="Nägeli, Melchior">Lesung unsicher</persName></note> am Hirtzell, ouch syn hußgesindt.</p>
+<p>Demnach des <persName ref="Sigfrid, Junghans">Junghans Sifferiden</persName> hußfrouw, wie ouch des <persName ref="Bruppacher, Michel">Michels Prupachers</persName> hußfrouw.</p>
+<p rend="margin-top">Demnach jst ouch das gesindes nach fil meer, die heimlich und offenthlich zů inen gond, die ich nit all kännen etc. Datum uff sant Michell a[nno] 1608. jars etc.</p>
+<p rend="margin-top">Ü[wer] w[illiger] underthenig</p>
+<p>Hans <persName ref="Biber, Hans Jakob">Jacob Byber</persName> zů <placeName ref="LOC_47.24867_8.58482">Horgen</placeName></p>
+</div>
+    </body>
+  </text>
+</TEI>

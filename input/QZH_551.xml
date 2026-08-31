@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_551</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355247">StAZH E I 7.3, Nr. 58</idno>
+          </msIdentifier>
+          <head>Befragung von Heinrich Rüzensdorfer und Ratsbeschluss</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1590-05-11"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1590-05-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 437</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Heinrich Ruͤtzenstorfers (so der ­toüf­fery halb hinweg zezüchen willens) bscheid unnd antwort<note type="critical">Aufschrift auf der Rückseite des Dokuments</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__58__S__1_.tif"/>
+<p>Als herr statthalter Widerkheer<note type="editorial"> <persName ref="Wiederkehr, Bernhard">Bernhard Wiederkehr</persName></note> unnd herr landvogt Schmid<note type="editorial"> <persName ref="Schmid, Matthias">Matthias Schmid</persName></note> nach üwer myner g[nedigen] herren bevelch Heinrich Rützenstorfer für sich uff das rathuß beschickt unnd von jme zewüssen begert, was syn vorhaben, wo er syn wyb und kind habe unnd sich zesetzen willens syge, wievil er synes gůts hinweg gezogen und noch alhie liggen habe, volgents ouch herr Leeman<note type="editorial"> <persName ref="GND_102534357">Burkhard Leemann</persName></note> unser<note type="critical"><q>unser</q> über der Zeile, in der Zeile gestrichen: der</note> religion halb, was mangels er daran wüsse, befraget und mitt jm deswegen red gehallten, letstlich sy, myn herren die verordneten, jnne fründtlich<note type="critical"><q>fründtlich</q> über der Zeile, in der Zeile gestrichen: alhie zeblyben</note> vermannet, syn wyb und kinder widerumb alher zebringen und sich also gehorsamcklich mit denselben alhie zůenthallten<note type="editorial"> sich aufhalten, wohnen, Id. II, 1230.</note>, hatt er darüber volgenden bscheid geben:</p>
+<p>Das syn wyb und kinder zů <placeName ref="LOC_47.54625_8.40794">Hägelen</placeName><note type="editorial"> Weiler der Gemeinde Fisibach.</note> uff einem hof jnn der grafschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> nechst by <placeName ref="LOC_7.56767_8.41902">Keyserstůl</placeName> sygind. Daselbsten habe er ein bhußung sampt einem garten, zů einer khů und holtzes gnůg umb 2 gulden<note type="critical">In der Vorlage: gl.</note> empfangen. So er nun der enden nit blatz, wüsse er noch ein ander gůt ort, doch er nit gsinnet, jnn <placeName ref="LOC_49.5_17">Merherrnland</placeName> zezüchen. Sollichs thuͤge er, damit er sich und<note type="critical">Folgt gestrichen: syn</note> die synen desterbaß<note type="editorial"> desto besser</note> ußbringen<note type="editorial"> auskommen, Id. V, 720.</note> möge, dann syn handtwerch gar übersetzt<note type="editorial"> übermässig besetzt, Id. VII, 1639.</note> und schlecht<note type="editorial"> unbedeutend, Id. IX, 53.</note> sye. Sonsten begere er, syn vatterlandt nit zehassen noch zeschällten. Synes gůts habe er von synen eltern seligen jnn die 1000 gulden<note type="critical">In der Vorlage: gl.</note> ererbt, darvon er nützit verthan, aber von synem vatter seligen naher ungfahr 50 gulden darby schuldig gsyn. Wol syge syn zevor<note type="critical"><q>zevor</q> über der Zeile</note> empfangen hyratgůt jnn der<note type="critical"><q>der</q> über der Zeile, in der Zeile gestrichen: diser</note> großen thüre<note type="editorial"> Teuerung</note>, da er wenig arbeit gehept, mit jme und synen kinden ufgangen<note type="editorial"> aufgebraucht werden, Id. II, 14.</note>. Von obgemeltem synem ererbten gůt er ungfahr 300 gulden hinweg bracht. Das überig, namlich ein kernengült<note type="editorial"> Rente, bestehend in der jährlicher Lieferung eines Getreidezinses, Id. II, 288.</note>, <pb n="2" facs="E_I_7_3__Nr__58__S__2_.tif"/> jtem ein stuck räben zů <placeName ref="LOC_47.27232_8.64617">Meylen</placeName>, daruf 100 gulden standint, die er dorab lößen, unnd einen hundert gulden wertigen gültbrief, so alles über die 600 gulden sich anlouffe<note type="critical"><q>so alles … anlouffe</q> am Rand mit Verweiszeichen</note>, welle er hinder üch, myn g[nedig] herren, leggen<note type="editorial"> hinterlegen, in Verwahrung geben, Id. III, 1190.</note>. Syne schulden möge er bar abfertigen und bezalen biß an 89 pfund<note type="critical">In der Vorlage: lb</note> und 8 schilling<note type="critical">In der Vorlage: ß</note>, da er ouch sehen, wie er die befridigen<note type="editorial"> bezahlen, Grimm 1, 1273</note>. Der religion halb bekhenne er die, wie er sy von den predicanten alhie erlernet, allein unnd fürnemmlichen khönne er den eyd nit thůn noch gůt heißen, doch er nit gschickt gnůg, hierumbe zedisputieren und sich nit jnlassen wellen, dann er deß gloubens halb dhein<note type="editorial"> kein</note> gleit begert, sonnder allein mit mengklichem abzerechnen und syn hußrath und werckzüg zůerlangen. Das<note type="critical">In der Vorlage: Da</note> syge nochmaln syn gantz trungenlich<note type="editorial"> eindringlich</note> bitten, jme dasselbig zevergünstigen unnd volgen zelassen.</p>
+<pb n="3" facs="E_I_7_3__Nr__58__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__58__S__4_.tif"/>
+<p rend="margin-top">Diewyl er nit gehorsamm syn will und man nit wüssen mag, wie syne sachen sich erlouffen, soll es by angelegtem verbott<note type="editorial"> Sequester, Beschlag, Grimm 25, 152.</note> synes noch alhie liggenden gůts blyben, und herr <persName ref="Wiederkehr, Bernhard">statthalter Widerkeer</persName>, so sich die zythar synen umb etwas z’gůtem beladen, recht das best thůn, dasselbig alles jnventieren unnd beschryben  lassen unnd mitt einem vogt versehen. Actum mentags den 11ten maij anno etc. 90 pr[aesen]t[ibus] herr <persName ref="GND_143659413">burgermeister Tomman</persName> und beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

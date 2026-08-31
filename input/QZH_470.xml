@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_470</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355210">StAZH E I 7.3, Nr. 24</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Hans Sommerauer</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1588-08-10"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-08-10"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 356</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Hannsen Summerouwers deß pfisters antwurtt<note type="critical">Aufschrift auf der Rückseite des Dokuments vor dem Urteil.</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__24__S__1_.tif"/>
+<p>Als herr landtvogt Schmid<note type="editorial"> <persName ref="Schmid, Matthias">Matthias Schmid</persName> </note>, m[eister] <persName ref="Wiederkehr, Hans">Bernhart Widerkherr</persName> unnd m[eister] <persName ref="Kippenhan, Hans">Hanns Kippenhan</persName> zů Hannsen Summerouwer, dem pfister<note type="editorial"> Bäcker</note>, jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> kert unnd jme fürgehalten<note type="editorial"> mündlich vortragen, vorwerfen, Id. II, 1235.</note> unnd befragt<note type="critical"><q>unnd befragt</q> am Rand</note>, warumbe er sich von der kilchen unnd den predigen göttliches worts, deßglychen von der zunfft (als da er jnn kein bott<note type="editorial"> Versammlung der Zunft, Id. IV, 1895.</note> derselbigen nit mehr gan wellen) abgesönderet unnd sich hiemitt ungehorsam, widerspenig erzeigt unnd der wider­toüf­ferischen, verfhuͤrischen sect underworffen unnd theilhafftig gemacht, deßglychen, was er von dem widertouff, der oberkeit und dem eydschwur halte, hatt er darüber volgenden bescheid unnd antwort gegeben.</p>
+<p>Unnd erstlich den kilchgang belangende: Syge noch nitt lang angstanden<note type="editorial"> beginnen, anfangen, Id. XI, 606.</note>, das er denselbigen nit so flyßig, als vornacher von jme beschechen, besůcht<note type="critical">Folgt gestrichen: dann</note>, wüsse ouch wol unnd bekenne sich, ein armmer sünder syn. Diewyl aber noch dem wort deß heiligen apostels Paulj ein jeder bischoff unnd pfarer ein unstrefflichen wandel unnd leben fuͤren sölle<note type="editorial"> Vgl. 1Tim 3,1-13 und Tit 1,6-9.</note>, da er aber jm gegentheil das widerspill<note type="editorial"> Gegenteil</note> by unnseren pfarreren unnd predigcanten finde, da namlich mengklichem<note type="editorial"> jedem</note> zewüßen, das dieselbigen jnn allen sünden unnd lasteren mitt dem gmeinen man unden unnd oben ligind, ouch das, so sy uff den cantzlen<note type="critical">Folgt gestrichen: selb</note> lerind unnd straffind<note type="critical">korrigiert, ursprünglich: leren unnd straffend</note>, selbs nit haltind. Das allein die ursach, das er die predigen nit flyßiger besůcht, deren er sich doch nie gar entzogen mit dem anerbieten, das er sich fürterhin zur kilchen unnd predig wie ouch zů der gehorsame der zunfft, es syge jnn botten ald<note type="editorial"> oder</note> sontst, flyssig erzeigen unnd sich dahin fürderen welle.</p>
+<p>Den widertouff beruͤrende, könne er, diewyl er erst by zweyen jaren von jm selbst glert leßen, darwider nitt disputieren, sonder lasse es gentzlichen by üwer (myner gnedigen herren) ordnung unnd christenlichem gebruch belyben.</p>
+<pb n="2" facs="E_I_7_3__Nr__24__S__2_.tif"/>
+<p>Das ein oberer ein christ unnd hinwiderumb ein christ ein oberer syn möge, halte er darfür, das ein jeder, so<note type="critical"><q>so</q> über der Zeile</note> ein christenlich leben fuͤre, es syge glych ein oberer ald nit, ein christ möge genent werden. Wo ouch üch, myn gnedig herren, kriegs ald andere nött anstiesse, welle er sich, so lang jm gott das leben verlyche, sich zum strytt für das vatterland bruchen lassen.</p>
+<p>Mitt underthenigem bitten, jme söllichen fehler zůverzychen, der gfangenschafft zůentledigen, welle er synem hierob angezeigten anerbieten gehorsamblichen nachkommen unnd volnfuͤren.</p>
+<pb n="3" facs="E_I_7_3__Nr__24__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__24__S__4_.tif"/>
+<p rend="margin-top">[Urteil:] Er soll uff ein gwonlich urfechd der gfangenschafft erlassen<note type="critical">Folgt gestrichen: werden</note> unnd jme darby angezeigt werden, das wo er sich synem anerbieten nach nit gmeß hielte, sonder das urfechd übersechen, werde man zů jme nit als einem ­toüf­fer, sonder als einem meineiden man richten. Actum sambstags den 10ten augustj anno etc. 88 pr[aesen]t[ibus] herr <persName ref="GND_143680544">Kamblj</persName> unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

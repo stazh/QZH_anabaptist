@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_398</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355064">StAZH B IV 43, fol. 112v-113r</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Konrad Grossmann</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1583-05-15"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1583-05-15"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 284</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnseren günstigen geneigten willenn unnd alleß guts zuvor. Fromer, wyser, besonnderß gethrüwer, lieber burger unnd vogt, wir sinnd gloublich bericht, wie daß <persName ref="Willi, Jagli">Jaglj Willj</persName>, dynn ampßangehöriger, so der jrrigenn unnd verfürischenn sect der ­toüf­feryg gar ergeben unnd die unnseren allenthalben, wo er die betreten<note type="editorial"> antreffen, ergreifen, Id. XIV, 1486.</note> unnd ankommen mag, von unnserem waaren christenntlichen glaubenn abzufürenn unnd unns die oberkeit gegen jnen zuverleiden, zuverkleineren unnd jnn verachtung zebrinngen, gschwind, tuckisch unnd arglistig jst, sich widerumb jnn dynn amptßverwaltung<note type="critical">korrigiert, ursprünglich: ampßverwaltung</note> laße unnd onne alleß schüchenn bj synem sonn offentlichenn unnderschlauff zu unnd vonn<note type="critical">statt <q>sin</q>?</note> wanndel vonn mengklichem<note type="editorial"> jedem</note> ungeschücht<note type="editorial"> unverfroren, Id. VIII, 136.</note> habe, grosse versamlungen mit syneß gelychen halte<note type="critical">Der Text ist hier vermutlich nicht vollständig und daher unverständlich: zu unnd vonn wanndel vonn mengklichen ungeschickt habe große versamlungen mit […] gelychenn halte</note>, nüdt<note type="critical">Folgt eine Wortstreichung</note> gutß ußrichte, also daß zu besorgen, wo nit insechenß<note type="editorial"> insechen tun: Vorsorge treffen, Id. VII, 562.</note> gethonn, er den merernn theil der unnseren zu allenn unruwen<note type="critical">Folgt eine Wortstreichung</note> unnd widerspennigkeit anreizenn unnd ufwiglenn werde. Darann wir, so dem also were, schlechtß gefallen, sinnd auch sollichem übel zufürkommen und daß abzuwennden schuldig. Derhalben<note type="critical">In der Vorlage: Derhaben</note>, so jst unnser bevelch ann dich, du wellist uff ernemptenn Jaggli Willj dynn ernnstliche spech unnd khunndtschafft<note type="editorial"> spech und kundschaft: Nachforschung und Erkundigung, Id. X, 76.</note> machenn unnd, so er zu betretenn, fenngklichen annemmen unnd mit<note type="critical"><q>mit</q> über der Zeile</note> jme dermasßenn hanndlen unnd dasjenig fürnemmen laßen, was er alß einn unrüwiger, ufrürischer mann verdient unnd verschuldet hatt.</p>
+<p>Hienebenndt jst jnn jüngst gehalltnem sinodo vonn den herren gelerten jnn gemein vonn allen capitlenn annzogenn […]<note type="critical">Folgt derselbe Text wie in der vorausgehenden Nummer</note>. Datum mitwuchß den 15ten maij anno etc. 83.</p>
+<p rend="margin-top">Burgermeister unnd rath der statt Zürich</p>
+<p rend="margin-top">Dem fromen, wysenn, unnserem besonnderß gethrüwen, lieben burger unnd vogt zu <placeName ref="LOC_47.22493_8.65207">Wedeschwyl</placeName> Cunrathen Großmann.</p>
+<p rend="margin-top">Glychß ann <placeName ref="LOC_47.28333_8.75">Grüningen</placeName>, annders daß der ­toüf­fer heißt <persName ref="Ballus, Jos">Joßt Balluß</persName>, diener jm <placeName ref="LOC_47.33663_8.94127">Fischenthal</placeName>, hatt aber wyb unnd kinnd jnn <placeName ref="LOC_49.5_17">Merherenn</placeName>.</p>
+<p>Den annderen artickel alein gan <placeName ref="LOC_47.45249_8.7485">Kyburg</placeName>, <placeName ref="LOC_47.57335_8.52607">Eglisouw</placeName>, <placeName ref="LOC_47.59284_8.67544">Anndelfingen</placeName>, <placeName ref="LOC_47.36583_8.6789">Gryffensee</placeName>, <placeName ref="LOC_47.47812_8.42878">Regennsperg</placeName>, <placeName ref="LOC_47.22446_8.46262">Knonouw</placeName> unnd <placeName ref="LOC_47.41017_7.49014">Lauffenn</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

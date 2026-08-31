@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_400</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=696661">StAZH E I 7.2, Nr. 168</idno>
+          </msIdentifier>
+          <head>Heinrich Holzhalb an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1583-09-14"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1583-09-14"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 286</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__168__S__1_.tif"/>
+<p>Edlen, fromen, erenvesten, fürsichtigen, ersamen und wysen, gnedigen min herren, ewer wyßheit sigen min underthänig willig dienst altzyt jn schuldiger pflicht zůvor bereit. Gnedigen min herren, Hans Schnyder, der schůmacher von <placeName ref="LOC_47.53414_8.56841">Rorbiß</placeName>,  Hans Sträller uffem <placeName ref="LOC_47.28405_8.91997">Haltpärg</placeName> und Růdolf Gubelman zů <placeName ref="LOC_47.2875_8.85719">Hadlicken</placeName><note type="editorial"> Hadlikon</note>, die wider­toüf­fer, sind unangesächen, das ich <persName ref="Kriesi, Jörg">Jerg Kriesin</persName>, ewerm leüffer<note type="editorial"> Bote, Id. III, 1145.</note> alhie, und sinen mithaften<note type="editorial"> Mithaftender, Mithelfer, Id. II, 1057.</note> zůgäbnen mit allem ernst bevelchen, sy uffs best und dermässen wol verwartist, das sy sich deheinswägs<note type="editorial"> keineswegs</note> zeledigen, gebunden und gefangen üch zů überantwurten, durch benants Kriesis und der anderen zwey füreren verwarlosen und das Kriesi den Schnyder (wie ich vermeinen) vor jm anhin gen jnen entlouffen. Und diewyl dann ich darnäbent ouch verstanden, das sich jn e[uwer] w[ysheit] herrschafft zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName> die wider­toüf­fer träffenlich<note type="editorial"> stark, Id. XIV, 393.</note> merent unnd sich der versammlung, darjn ich die angetzeigten überschickten personen fächen<note type="editorial"> gefangen nehmen</note>, wider byenanderen gewäsen sin, hab ich e. w. desßen jm besten unberichtet nit lassen söllen. Und wie sich gegen allen und jrem gůt zů halten, wil ich hierüber e. w. bescheids erwarten, den selben mit trüwen ußrichten und hiemit jn schirmm göttlicher gnaden bevälchen. Datum sambßtags den 14. septämbris anno etc. 83.</p>
+<p rend="margin-top">Ewer wyßheit underthäniger diener</p>
+<p>Heinrich Holtzhalb, vogt zů <placeName ref="LOC_47.28333_8.75">Grüningen</placeName></p>
+<pb n="2" facs="E_I_7_2__Nr__168__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__168__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__168__S__4_.tif"/>
+<p rend="margin-top">Den edlen, fromen, erenvesten, fürsichtigen, ersamen und wysen herren burgermeister und raath der statt Zürich, minen gnedigen herren ze überantwurtenn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_550</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5354933">StAZH B II 230, S. 37 (Manual des Stadtschreibers)</idno>
+          </msIdentifier>
+          <head>Ratsbeschluss betreffend eines in Vormundschaft verwalteteten Guts</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1590-05-09"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1590-05-09"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 436</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Zwüschent <persName ref="Edlibach, Matern">Mathern Edlibachen</persName> sambt synem schwäher <persName ref="Huber, Ludwig">Lůdwigen Hůber</persName> eins, sodänne <persName ref="Wirz, Marx">Marxen Wirtzen</persName> dem goldschmid andersteils jst  erkhenntd, diewyl Wirtz zum andern mal, was er jnn synes schwagers (deß Edlibachen) gůts bevogtung gehandlet, vor den geordneten schirmvögten<note type="critical">Folgt gestrichen: zum andern mal</note> ordenliche rechnung und bscheid geben, darüber ouch jme ein abscheid<note type="editorial"> schriftliche Ausfertigung des Entscheids, Id. VIII, 267.</note> worden und es darby nun meer jar und tag verbliben, so sölle Wirtz synes schwagers und schwähers jngefuͤrten klegten<note type="editorial"> Klagen</note> und ansprachen<note type="editorial"> rechtlicher Anspruch, Id. X, 722.</note> ledig syn und es by synen gegebnen rechnungen blyben. Was aber den hußzinß und das, so Wirtz uß Edlibachen gůt jm huß verbuwen antrifft, söllend sy mit derselben sach für<note type="editorial"> vor</note> die schirmvögt keeren, die bevelch und gwalt haben, sy darjne zůentscheiden.</p>
+</div>
+    </body>
+    <back>
+      <div>
+        <p> Ratsbeschluss unter dem Datum <q>Sambstags, den 9ten may p[raese]nt[ibus] herr Tomman und beid reth</q>.</p>
+      </div>
+    </back>
+  </text>
+</TEI>

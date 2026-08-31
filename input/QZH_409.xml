@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_409</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355287">StAZH E I
+              7.3, Nr. 94</idno>
+          </msIdentifier>
+          <head>Verhör von Ůli Egli, Rudolf Gubelmann, Hans Peter und Peter Margin</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1584-06-25"/>ca.</filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><origDate when="1584-06-25">ca.</origDate></origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 295</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="4" facs="E_I_7_3__Nr__94__S__4_.tif"/>
+<head type="Originalsprache">Ůlj Eglis ußem Vischental<placeName ref="Fischenthal"/>, Růdolff Gubelmans von Hadlicken<placeName ref="Hadlikon"/>, Hannsen Peters ab der Oberschwendj<placeName ref="Oberschwändi"/>, all dryg uß der herrschafft Gruͤningen, und Peter Margyns von Losannen<note type="editorial"> Lausanne</note><placeName ref="Lausanne"/> der widerthoüfferen antworten.<note type="critical">Aufschrift auf der Rückseite des Dokuments.</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__94__S__1_.tif"/>
+<p>Als mine herren, die verordneten nachgenger, mitt sambt herr Růdolffen Walther unnd m[eister] Burckharten Leeman Ůlj Eglj ußem Vischental, Růdlj Gubelman von Hadlicken<note type="editorial"> Hadlikon</note>, Hannsen Peter ab der Ober Schwendj, all dryg uß der herrschafft <placeName ref="LOC_47.28333_8.75">Gruͤningen</placeName>, und Petern Margyn, den keßler von Losannen, welliche herr vogt zů Gruͤningen von der widerthoüfferyg wegen alher geschickt, für sich uff dz rathuß fuͤren laßen, sich mitt jnen uff dryg stund lang ersprachet unnd sy durch gebürliche ermanungen unnd jngefuͤrte gründ uß heiliger götlicher gschrifft von jrem jrrthumb abzefuͤren unnd uff den rechten weg zebringen understannden<note type="editorial"> versuchen, unternehmen, Id. VI, 619.</note>, haben sy doch gegen jnen<note type="critical">Folgt gestrichen: allein allen vieren</note> nit mehr ußrichten unnd schaffen mögen, dann dz sy all vier gmeinlich uff jren gefaßten meinungen verharret unnd mitt nammen den bscheid geben habent: Erstlichen, das sy alle, diewyl man den bann, der jrem antzeigen nach von unnserem herrn Christo und synen apostlen ufgesetzt<note type="editorial"> einsetzen, Id. VII, 1647.</note> syge<note type="editorial"> vgl. Mt 18,15-18.</note>, nit anrichte, jnn unnsere kilchen nit gaan khönnind nach<note type="editorial"> noch</note> wellind, sonnderlichen ouch jnn betrachtung deßen, das grad die predicanten unnd lehrer selbs das jhenig, so sy predigind unnd lehrind, nit halltind unnd jm werch erzeigind. Wie jnen ouch anndere artickel, welliche die ­toüf­fer widerfechtend<note type="editorial"> bestreiten, Id. Id. I. 667.</note> als den kinderthouff, jtem vom stand<note type="critical"><q>stand</q> am Rand</note> der oberkeit unnd dem eydtschweeren, fürgehallten worden<note type="critical">Folgt gestrichen: habent sy darüber gmeinlich den bscheid geben, wie zum</note>, halltend sy darvon gmeinlich wie zum theil alle anndere widerthoüffer unnd understand jre sachen mitt heiliger gschrifft (die sy aber jnn letzem<note type="editorial"> falsche</note> verstand anzüchend) zůbewären<note type="editorial"> beweisen, Id. XVI, 815.</note> unnd uff jren meinungen hartneckigklich<note type="critical"><q>hartneckiglich</q> am Rand mit Verweiszeichen</note> zů verharren unangesehen, was die herren geleerten jnen dargegen uß dem wort gottes fürgebracht, wie myn herren, die verordneten, aller handlung üch, myn gnedig herren, wol wyter zůverstendigen wüßend.</p>
+<pb n="2" facs="E_I_7_3__Nr__94__S__2_.tif"/>
+<p rend="margin-top">Wiewol myne herren, die nachgänger, sampt herrn <persName ref="GND_11854392X">Růdolffen Walther</persName> unnd meister <persName ref="GND_102534357">Burckharten Leeman</persName> Růdolffen Gubelman von Hadlicken, deßglychen Ůlj Eglj ußem Fischenthal unnd Hannsen Petter ab der Oberen Schwändj abermalen für sich uff das rathuß bschickt unnd fuͤren laßen unnd uß heiliger göttlicher gschrifft (wie ouch vormals) jre unbegründte unnd faltschen meinungen überwysen<note type="editorial"> eines besseren belehren, Id. XVI, 1938.</note> unnd von denselbigen abzestaan ernstlichen vermanet, beharrend doch sy all ungeacht deß alleßen hartnäckiger wyß uff jrer vorgegäbnen anttworten.</p>
+<pb n="3" facs="E_I_7_3__Nr__94__S__3_.tif"/>
+</div>
+    </body>
+  </text>
+</TEI>

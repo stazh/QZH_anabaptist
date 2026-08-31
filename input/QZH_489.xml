@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_489</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355076">StAZH B IV 47, fol. 143</idno>
+          </msIdentifier>
+          <head>Bürgermeister und Rat von Zürich an Vertreter der Strassburger Obrigkeit</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1588-10-18"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-10-18"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 375</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnser fründtlich dienst und alles gůts zůvor. Edle<note type="critical">Folgt gestrichen: fromme</note>, veste, fromme<note type="critical"><q>fromme</q> über der Zeile</note> und wyße, jnnsonders liebe und gůte fründt. Unnsere<note type="critical">Folgt gestrichen: lieben mitträth und</note>, by üch<note type="critical">Folgt gestrichen: jüngst geweßne gsandten</note> uff dem pundtschwur geweßne gsandten und lieben mitträth habent uns<note type="critical">Folgt gestrichen: üw (Lesung unsicher)</note> das fürbittlich schryben, so jr zů gunst unsers burgers <persName ref="GND_136100821">Abrahammen Geßners</persName><bm id="165"/>, deß goldschmidts, und ouch noch dryger anderen syner mittgspannen an sy gethaan, fürgelegt und ableßen lasßen mitt flysßigem bitten, üch dißfals<note type="critical">Folgt gestrichen: er</note> der jntercesßion was mügklichen […]<note type="critical">Folgt gestrichen: zůwilfaren</note>. Nun werend wir üch darjnne zůeeren etc. als für<note type="critical"><q>für</q> über der Zeile</note> die erste bitt der ermelten<note type="editorial"> erwähnten</note> personnen halb<note type="critical">Folgt gestrichen: jnn einem oder</note> uff den einen oder den andern weg zůwilfaren geneigt. Wyl aber diser ußträttnen personnen sachen (daran<note type="critical">korrigiert, ursprünglich: so</note> wir zwaren selbst bedurens tragend)<note type="critical"><q>(daran wir zwaren selbst bedurens tragend)</q> am Rand mit Verweiszeichen</note> dermasßen beschaffen, das so wir jnen darjnne etwas vergünstigung erzeigen sölten, es under den unsern jnn pflychtiger gehorsamme nitt geringe besorgliche wytloüffigkeit bringen wurde, so könnend<note type="critical"><q>so könnend</q> am Rand, in der Zeile gestrichen: derwegen</note> wir von unsern hierumbe habenden mandathen <nswk/> und ordnungen einiches<note type="editorial"> irgendein, Id. II, 280.</note> wegs deß ends<note type="critical"><q>deß ends</q> am Rand mit Verweiszeichen</note> nitt<note type="critical"><q>nitt</q> über der Zeile</note> wychen<note type="critical">Folgt gestrichen: könnend</note>. Wann<note type="critical"><q>wann</q> am Rand, in der Zeile gestrichen: so</note> aber je einer oder der ander under vermelten personnen<note type="critical">Folgt gestrichen: sy</note> sich nochmalen<note type="critical"><q>nochmalen</q> am Rand mit Verweiszeichen</note> dahin begeben (ja ouch dasselbig<note type="critical">Folgt gestrichen: mit</note> ufrecht halten will), als namlich die ordenlichen predigen jnn unser statt kirchen mit und nebent andern<note type="critical">Folgt gestrichen: eer</note> kilchgnosßen zůbesůchen, darzů uns als jr gesetzten oberkeit zů gwonlichen zyten gebürliche huldigung<note type="critical">Folgt gestrichen: thuͤge und leiste</note> zeleisten, soll jnen by jren wyb und kindern jnn unser statt sichere ufenthaltung, jre handtwerch zů bestem nutz zebruchen, fryg zůgelasßen syn. Anderst wir jnen under uns sichern zů- und vongang<note type="editorial"> Vgl. Id II, 345f.</note> nitt gestattnen köndten, wie jr (als hochverstendige) selbs wol ermäsßen könnend, einer oberkeit gegen jren underthonnen dem was zů wider nitt zedulden noch zůzemůten. Deßen haben wir üch fründtlicher meinung zum teyl widerantworts wyße nach üwerm, an die unsern geschechnem fürschryben hiemit verstendigen wellen, warjnne wir üch sonsten angenemme willfarung jederzyt<note type="critical">Folgt gestrichen: erzeigen und</note> zů<note type="critical"><q>zů</q> über der Zeile</note> bewyßen glegenheit bekommen, söllend jr uns vertruwen, dasselbig mit bereitem und gůtem<note type="critical"><q>gůtem</q> über der Zeile, in der Zeile gestrichen: geneigten</note> willen nit ermanglen, darby üch und uns alle göttlichem schirm bevelchend. Datum den 18ten octobris anno etc. 88.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich.</p>
+<p rend="margin-top">Den edlen<note type="critical">Folgt gestrichen: frommen</note>, vesten, frommen<note type="critical"><q>frommen</q> über der Zeile</note> und wyßen Hanns Philipßen von <persName ref="Kettenheim, Johann Philipp von">Kettenheim</persName> (stett-), <persName ref="Fuchs, Niclaus">Niclauß Fuchßen</persName> (ammeistern) und <persName ref="Prechter, Friedrich">Friderich Prechten</persName> deß raths der statt Straßburg, unsern jnsonders lieben und gůten fründen sambt und sonders zůeröffnen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

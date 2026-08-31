@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_266</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355337">StAZH E II 1, S. 595; StAZH, E I 2.2, Nr. 2</idno>
+          </msIdentifier>
+          <head>Berichte betreffend Täufer und Anweisung zur Anzeige beim Unterschreiber</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Eintrag</filiation>
+              <filiation type="original"><origDate when="1568-05-04"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1568-05-04"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 152</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Considerationes</p>
+<p>[…] Es syend vil toͤuffer hin und har. Da ward angesaͤhen, daß die da wüßten, wo und wie, die soͤlltend zum underschriber gan und imms angaͤben.<note type="editorial"> Vgl. den Bericht an den Rat</note></p>
+<p>Und dann soͤlltind alle dise haͤndel für<note type="editorial"> vor</note> unsere herren tragen werden.</p>
+        <p rend="margin-top">[Bericht an den Rat von Zürich]<note>Ab hier folgt <bibl><ref target="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=608960">StAZH E I 2.2, Nr. 2</ref></bibl>.</note></p>
+<p>Volgende ­toüf­fer, so sich jnn üwer (myner herren) grichten und gebieten enthaltend, sind angeben:</p>
+<p><persName ref="Kuhn, Hans">Hans Kůn</persName> jm <placeName ref="LOC_47.486389_8.428611">Pflasterbach</placeName><bm id="97"/>. Diser Kůn hat ein wyb zůr ee genommen, aber noch nie nach ordenlichem christenlichem bruch offentlich zů kilchen und strassen gfuͤrt, sonders sich jnn der töuffern versamlung zůsammen geben lasßen. Und wo syn frouw nitt zur sach gethaan, hette er syne kinder nitt touffen lassen.<note type="editorial"> Vgl. die Censura (<q>Hans Kůn jm Pflasterbach hat jnn Glatfelder foren eine zur ee …</q>)</note></p>
+<p>Item <persName ref="Bräm, Fridli">Fridlj Brem</persName> zů <placeName ref="LOC_47.49041_8.43694">Sünnicken</placeName><note type="editorial"> Sünikon</note> und <persName ref="Ruman, Peter">Peter Ruma</persName><note type="critical">In der Vorlage gestrichen: Ruma(le)</note> von <placeName ref="LOC_47.50369_8.41911">Schöffelstorff</placeName><note type="editorial"> Schöfflisdorf</note>. Diß dryg habent jr versamlung mit andern ­toüf­fern von Schaffhusen und über rhin nacher jnn dem holtz <placeName ref="LOC_47.56064_8.49635">Glattfelder</placeName> foren<note type="editorial"> Vielleicht ein Wald am Rhein (vgl. den Wald Stadtforen nördlich von Eglisau)</note> oder jnn Birchen<note type="editorial"> Vielleicht Birchen, ein Waldstück nördlich von <placeName ref="LOC_47.5919_8.49845">Hüntwangen</placeName></note> genannt, so jm nüwen ampt gelegen. Sy all dryg üsserend sich der predigen gar und wo sy können, fuͤrend sy das volck ab und uff jr sect.</p>
+<p>Hans und Jacob die <persName ref="Hochstrasser, Hans">Hochstrasser</persName><persName ref="Hochstrasser, Jakob"/> zů <placeName ref="LOC_47.33727_8.46993">Wetzwyl</placeName><note type="editorial"> Wettswil am Albis</note> und einer <persName ref="Michel (Täufer)">genannt Michel</persName> , schaffners zů <placeName ref="LOC_47.26648_8.80812">Bůbicken</placeName> werchmeister, sind ouch ­toüf­fer, söllent jm <placeName ref="LOC_47.30149_8.85275">Hinwyler</placeName> wald oder jnn der Senn <placeName ref="LOC_47.28576_8.8392">Weid</placeName><note type="editorial"> Sennweid in der Bachtelregion</note> mit den ­toüf­fern jr zůsammen kommung haben. <persName ref="Schnider, Baschli">Baschlj Schnider</persName> oder satler Zwindle jnn der kilchhörj<note type="editorial"> Kirchgemeinde, Pfarrei</note> <placeName ref="LOC_47.53797_8.47014">Stadel</placeName> jst ouch den ­toüf­fern nach gfaren, und wiewol er nitt mer jr gmeindschafft brucht, gadt er doch nüdester mynder nitt jnn die kilchen, die predigen zehören.</p>
+<p><persName ref="Schnewli, Cleinhans">Cleinhans Schnewlj</persName> von <placeName ref="LOC_47.28167_8.45023">Affholteren</placeName> und <persName ref="Gut, Andres">Andreß Gůt</persName><bm id="102"/> von <placeName ref="LOC_47.26217_8.41262">Luneren</placeName><note type="critical">Folgt gestrichen: beid</note> wellend jrer ­toüf­ferischen sect nitt abstaan und enthaltend<note type="editorial"> sich aufhalten</note> sich aber für und für jnn der herrschafft Knonouw und besonders gibt Schnwelis vater jm underschlouff.</p>
+<p>Es ist euch von üwerm bůrger, so <persName ref="Kremer, Hergot">Hergot Kremmer</persName> genempt wirt, angezeigt, das er syn wandel zů den ­toüf­fern habe und syge under jnen nitt der wenigist.</p>
+<p rend="margin-top">Censura:</p>
+<p><persName ref="Kuhn, Hans">Hans Kůn</persName> jm Pflasterbach […]<note type="editorial"> Es folgt im Vergleich zum Bericht an den Rat nichts Neues.</note></p>
+<p>Hergotts Kremer fart uffs land, schlacht sich ouch zů den ­toüf­fern und wirt für ein redlifürer geachtet<note type="critical"><q>Hergotts Kremer … geachtet</q> am Rand.</note>.</p>
+<p>By <placeName ref="LOC_47.66033_9.17582">Costantz</placeName> uff dem Geißperg<note type="editorial"> <placeName ref="LOC_47.63975_9.17267">Gaissberg</placeName>, Gemeinde Egelshofen (heute Kreuzlingen)</note> hat der besitzer ein wyb, so schwenckfeldischer sect jst, zücht allerleyg volcks nach. Darzů sind etliche ­toüf­fer, die sich ouch jm <placeName ref="LOC_47.5562_9.07686">Turgöw</placeName><note type="editorial"> Thurgau</note> enthaltend, nachts jr zůsammen komung, fuͤrend etlich ab, jnsonders ein frouw, so nit mer jn die kilchen gaan will.</p>
+<p><persName ref="Bräm, Fridli">Fridlj Brem</persName> zů <placeName ref="LOC_47.49041_8.43694">Sunnicken</placeName>.</p>
+<p>Hans und Jacob die <persName ref="Hochstrasser, Hans">Hochstrasßer</persName><persName ref="Hochstrasser, Jakob"/> zů <placeName ref="LOC_47.33727_8.46993">Wetzwyl</placeName>.</p>
+<p><persName ref="Ruman, Peter">Peter Rumale</persName> von <placeName ref="LOC_47.50369_8.41911">Schöffelstorff</placeName></p>
+<p><persName ref="Schnewli, Kleinhans">Cleinhans Schneewlj</persName> zů <placeName ref="LOC_47.28167_8.45023">Affholteren</placeName></p>
+<p>Zwindle jnn der kilchhörj Stadel, <persName ref="Schnider, Baschli">Baschlj Schnider</persName> der satler, gadt weder jn die kilchen noch zů den ­toüf­fern, wie er vor einer gsyn.</p>
+<p>Michel deß schaffner zů <placeName ref="LOC_47.26648_8.80812">Bůbicken</placeName> werchmeister, jm Hinwyler wald und jn der Senn <placeName ref="LOC_47.28576_8.8392">Weid</placeName>.</p>
+</div>
+    </body>
+  </text>
+</TEI>

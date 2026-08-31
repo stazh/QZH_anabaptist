@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_145</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355016">StAZH B IV 14, fol. 164r</idno>
+          </msIdentifier>
+          <head>Bügermeister und Rat von Zürich an Jakob An der Rüti</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Abschrift</filiation>
+              <filiation type="original"><origDate when="1543-08-20"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1543-08-20"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 31</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><p>Unnsern fründtlichen, sonnders geneygten willen zůvor. Frommer unnd wyßer, jnnsonnders getrüwer, lieber lanndtvogt. Als du<note type="critical">Folgt gestrichen: verrugkter tagen</note> mitsammpt<note type="critical">In der Vorlage: misammpt</note> vogt Sägissern<note type="editorial"> Bernhard Segesser von <persName ref="Segesser von Brunegg, Bernhard">Brunegg</persName></note> von Keyßerstul unnd unnserm vogt uff Regensperg<note type="editorial"> <persName ref="Steinbrüchel, Erhard">Erhard Steinbrüchel</persName></note> verrugkter<note type="editorial"> vergangen, Id. VI, 856.</note> tagen uff<note type="critical"><q>uff</q> über der Zeile</note> die widertöüffer, so sich abermaln inn ünnsere herrschafften nidergelassen und eroügt<note type="editorial"> sich zeigen, sich sehen lassen, Id. I, 140.</note>,<note type="critical">Folgt gestrichen: hand ouch volgens</note> gehalten<note type="editorial"> halten auf: auflauern, Id. II, 1225.</note> unnd ettlich, als wir bericht, ergriffen hast, ist unns von gedachtem unnserm vogt ab Regensperg ouch eyn wybsbild, die er<note type="critical"><q>er</q> über der Zeile, in der Zeile gestrichen: jm</note> jnn sollichem nachjagenn by zweyen mannspersonen welliche aber entrunnen<note type="critical"><q>welliche aber entrunnen</q> am Rand mit Verweiszeichen</note> funden<note type="critical">korrigiert, ursprünglich: gf (gestrichen) gefunden</note>, gefanklich zuͤgschickt worden<note type="critical">Folgt gestrichen: die wir noch von stein […]ch durch zwen unnserer raths fründen flyßig erkent bl[…]gen halb gantz flyßig erkennen […] lassen unnd […] demnach brichten lasßen</note>. Die hat nach ernstlichem<note type="critical">Folgt gestrichen: erjnnerung</note> unnderricht unnd erjnneung sich gejrt haben bekenth unnd widerruͤfft<note type="critical">Folgt gestrichen: unnd</note>, unns ouch darneben bericht, das genante zwen, so jm lermen entlouffen under dyner ammptwaltung, unnd namlich der eyn, <persName ref="Cunrad">so Cůnrath</persName> heysße<note type="critical">Folgt gestrichen: unnd</note>, zů <placeName ref="LOC_47.55367_8.36666">Wißligken</placeName><note type="editorial"> Wislikofen</note>, der annder aber <persName ref="Bastian">Bastian</persName> unnd jnn <placeName ref="LOC_47.56925_8.27187">Sennenloch</placeName><note type="editorial"> Sänneloch bei Klingnau</note> by <placeName ref="LOC_47.58863_8.25065">Clingnow</placeName> jnn der graffschafft <placeName ref="LOC_47.46513_8.28964">Baden</placeName> sesshafft syge. Söllichen jren bericht haben wir dir dannocht zewissen thun wellen, damit du fürer<note type="editorial"> ferner, Id. I, 968.</note> mit gedachten dynen amptsangehörigen<note type="critical"><q>mit gedachten dynen amptsangehörigen</q> am Rand mit Verweiszeichen</note> der gpür nach<note type="critical">Folgt gestrichen: mit</note> handlen<note type="critical">Folgt gestrichen: ke</note> könnist, verstand von unns jm besten. Uß <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, mentags nach Marie himelfart 1543.</p>
+<p rend="margin-top">Burgermeister und rath der statt Zürich</p>
+<p rend="margin-top">Dem frommen unnd wyßen, unnserm besonnders<note type="critical">Folgt gestrichen: lieben unnd</note> gethrüwen, lieben landvogt zů Baden N. an der <persName ref="An der Rüti, Jakob">Rüti</persName>, deß raths zu Schwytz.</p>
+</div>
+    </body>
+  </text>
+</TEI>

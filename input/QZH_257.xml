@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_257</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695099">StAZH E I 7.2, Nr. 117</idno>
+          </msIdentifier>
+          <head>Hans Rahn an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1567-04-28"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1567-04-28"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 143</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__117__S__1_.tif"/>
+<p>Gestrengen, edlen, fromen, vesten, fürsichtigen, ersamen unnd wysen, jnnsonders gnedig min herren, üch sigend min underthennig, gehorsam, willig dienst jeder zitt zuvor anbereytt. Nachdem üch wol wüsend antreffend <persName ref="Gut, Andres">Andres Gůtten</persName><note type="editorial"> Vgl. über ihn u. a. Nr. 111.</note><bm id="96"/> vonn <placeName ref="LOC_47.26217_8.41262">Luneren</placeName>, wie er letstlich jn uwer (miner gnedigen herren) gefencknuß glegenn ouch vormallen mer von wegen sinner tofferischenn secktt unnd ungehorsamen ergerlichen lebens halber, und jr jnne uff sin erpiettenn der gfangenschafft ledig glaßen und ein urfech geschworen, das er jnn 14 tagen den nechsten jn die gemein kilchen, dahin er gehortt, gan und wie andere underthanen den cristenlichen predigen zůhoren. Wo aber er das jnn bestimpter zitt nütt zůthun wüst oder thette, welle er sich uß uwer (miner gnedigen herren) gerichten und gepietten machen und üch ungesumpt darinen laßen, uff vier nächten so verschinen sin huß und heim verkouffen. Wo er aber nütt verkouffen koͤnnte, sige er nüttesterminder urbütig<note type="editorial"> bereit, Id. IV. 1881.</note>, daselb nüt zůbesytzen, sonders zů verlichen und mit wib und kinden uß uwer (miner gnedigen herren) landtschafft zů züchen. Uff sömlichs uwer (miner g[nedig] h[erren]) befelch domallen was, das jch uff gemelten<note type="editorial"> erwähnten</note> Andresen Gůtten min kuntschafft<note type="editorial"> Kenntnis, (eingezogene) Nachricht, Id. III, 353.</note> ouch flißig uffsechens halltte, und so er dem, allß vorstatt, nütt statt thüge, üch deße zůberichtten und uwers fereren<note type="editorial"> weiteren, Id. I, 912.</note> bescheids erwartten. Uff somlichs wüßend, das mir her <persName ref="Bluntschli, Johannes">Hanns Bluntschlj</persName><note type="editorial"> Johannes Bluntschli (1530-1604)</note> anzögtt ouch die eegomer<note type="editorial"> Vertreter der lokalen Sittenzucht, Id. II, 304.</note>, das er, sid er uß der gefencknuß khomen, nie zů kilchenn gangen, und was er versprochenn, keins gehalten noch erstattet, ouch sich nütt sonders üßere, sonders je zů zittenn anheimsch<note type="editorial"> im Land anwesend, Id. II, 1286.</note> sige, ouch was costens uff jn gangen, niemand nütt geben wyl, wie mengsmal jch den sinen sollichs anzögt han und jme er das fech uß dem stal wyrtt laßen furen, wie formals ouch beschechen etc. Derhalben um sin ungehorsamy und harttneckykeith ich uwer (mine gnedigen herren) bescheids begere, wie ich mich witter gegen jme hallten solle, damit er zůgehorsame brachtt werde und biderb lütth von jme zaltt werdind etc.</p>
+<p>Demnach antreffend <persName ref="Schnewli, Heini">Heiny Schnewlis</persName><note type="editorial"> Vgl. Nr. 135 und Nr. 138.</note> sunn von <placeName ref="LOC_47.28167_8.45023">Affholteren</placeName>, der dann ouch siner dofferischen seckt nüt abstan wyl und mir durch den predicanten<note type="editorial"> Hans Jakob Werndli</note> daselb ouch anzogt<note type="editorial"> angezeigt</note> worden, das er um kein warnen nüt gebe, ouch der vatter jnne beherberge, und zů keiner predig khome, ouch der vatter jn nütt darzů halltte und zůbesorgen, so man nütt mit ernst gegen dem vatter handle, das das gantz hußgesind dafon beflecktt möchtte werden. Derhalben jch sinethalben ouch üwers wytteren befelchs erwartten wyl, wie ich mich gegen den vatter oder jme halten solle. Üch hiemit jm schirm gottes wil befolchen habenn. Dattum den 28. aprilis 1567.</p>
+<p rend="margin-top">Uwer allezitt gehorsamer williger dienner</p>
+<p>Hanns Rhan, derzitt vogt zů <placeName ref="LOC_47.22446_8.46262">Knonow</placeName>.</p>
+<pb n="2" facs="E_I_7_2__Nr__117__S__2_.tif"/>
+<pb n="3" facs="E_I_7_2__Nr__117__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__117__S__4_.tif"/>
+<p rend="margin-top">Den gestrengen, edlen, fromen, vestenn, fürsichtigen, ersamen und wysen herren, bürgermeister und ratht der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen jnsonders gepiettenden, lieben herrenn.</p>
+</div>
+    </body>
+  </text>
+</TEI>

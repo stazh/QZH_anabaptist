@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_331</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=695168">StAZH E I 7.2, Nr. 137</idno>
+          </msIdentifier>
+          <head>Hans Jakob von Laupen an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1577-04-13"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1577-04-13"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 217</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_2__Nr__137__S__1_.tif"/>
+<p>Edlenn, ehrenvesten, fromen, fürsichtigen, ersamen und wysen, jnnsonders günstig, gnädig jr min herren, e[wer] e[rsam] w[ysheit] sygen min gantz unnderthenige willige diennst sampt, was ich ehren, liebs unnd gutts vermag, sygen üch jederzitt zuvoran beraitt. Demnach ist e. e. w., ob gott will, noch woll jnn frischer gedächtnuß, was gestallt ich ungevar by ainem jar jnn e. e. w. statt gfencklichen jnzogen worden bin, umb das ich uß e. e. w. landten hin unnd wegzogen bin unnd domall min und mins vatteren hab unnd gutt, wellchs wir verkoufft und die selbigen schulden jnziehen wellen, jnzogen worden bin, welchs aber mir domallen von e. e. w. vergonen<note type="editorial"> bewilligt, Id. II, 334.</note> unnd zugelassen worden ist, das ich das minig von den jenigen, so mir zethun schuldig gwessen sindt, sölle und möge jnzüchen unnd mir ouch zur selbigen zitt verhaissen worden, wover ich uff andere zitt witter dess überig, so man mir schuldig syge, welle inziehen, und ich e. e. w. darumb grüetze<note type="editorial"> um Bewilligung einer Sache ersuchen, Id. II, 813.</note> unnd anlange, welle sy mir ain fry sicher glaitt zůschicken, damitt und ich dißter sicherer vor e. e. w. underthonen unnd landt lütt handlen, wandlen unnd das minig jnziechen möge etc. Unnd diewill dan der allmechtig gott min lieber vatter sälig, Carle von <persName ref="Laupen, Karl von">Loupen</persName>, zu sinen göttlichen gnaden gnomen, derhalben ich sampt mine zwe eheliche libliche <persName ref="Lauben, Margreth von">schwösteren Margretha</persName> und <persName ref="Laupen, Elsbeth von">Elßbetha</persName>, von dennen ich mitt volkomnen gewallt lutt mines byhanden unnd besigletten gwaltsbrieff<note type="editorial"> schriftliche Vollmacht, Id. V, 494.</note> abgefertiget bin unnd verursachett worden, alles das unnß dreyen von unnserm lieben vatter säligen von rechts wegen gehören sol jnziehen möge, so ist <pb n="2" facs="E_I_7_2__Nr__137__S__2_.tif"/> an e. e. w. min gantz unnderthenig fründtlichs flyssigs pitten und begären, sy welle mir by zaiger<note type="editorial"> Briefbote, Id. XVII, 393.</note> diß [briefs] ein fry sicher glaitt nach e. e. w. verhaissen zuschicken, damitt ich das minig unnd das miner schwösteren von unnserm lieben vatteren säligen von rechts unnd all gebillikaitt wegen gehörtt fry, sicher unnd rüwigklichen jnziechen möge, pitt hiemit e. e. w. by zaiger diß brieffs umb ain schriftliche<note type="critical">In der Vorlage: schrittliche</note> anttwort, damitt und ich mich witter zehaltten und vor wytter costen sin möge und zu wyb und kinden komen möge, hiemitt syge e. e. w. jn den schirm göttlicher gnaden säligklichen zů erhalten befollen. Datum den 13. Apperillis anno 77.</p>
+<p rend="margin-top">E[wer] e[rsam] w[ysheit] underthenig von <placeName ref="LOC_47.52804_8.54071">Bülach</placeName> und derzitt zu <placeName ref="LOC_49.03632_16.62781">Sellenwitz</placeName><note type="editorial"> Židlochovice (deutsch Seelowitz).</note> jm margraffthum <placeName ref="LOC_49.5_17">Merhem</placeName></p>
+<p>Hanns Jacob von Loupen</p>
+<pb n="3" facs="E_I_7_2__Nr__137__S__3_.tif"/>
+<pb n="4" facs="E_I_7_2__Nr__137__S__4_.tif"/>
+<p rend="margin-top">Den edlenn, fromen, vestenn, fürsichtigen, ersamen unnd wysen heren burgermaister unnd rath der statt <placeName ref="LOC_47.36667_8.55">Zürich</placeName>, minen jnnsonders günstigen lieben herren zu handen.</p>
+</div>
+    </body>
+  </text>
+</TEI>

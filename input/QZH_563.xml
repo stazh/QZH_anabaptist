@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_563</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355256">StAZH E I 7.3, Nr. 66</idno>
+          </msIdentifier>
+          <head>Verhör und Urteil gegen Heini Schmid</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Doppelblatt)</filiation>
+              <filiation type="original"><origDate when="1591-11-17"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1591-11-17"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 449</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><head type="Originalsprache">Heinj Schmiden von Schüpfen<note type="critical"><q>Schüpfen</q> über der Zeile, in der Zeile gestrichen: Stadel</note><placeName ref="Schüpfen"/> antwort<note type="critical">Aufschrift auf der Rückseite des Dokuments</note></head> 
+<pb n="1" facs="E_I_7_3__Nr__66__S__1_.tif"/>
+<p>Als herr lanndtvogt Schwertzenbach<note type="editorial"> <persName ref="Schwerzenbach, Matthias">Matthias Schwerzenbach</persName></note>, j[unker] Hanns Heinrich von <persName ref="Schönau, Hans Heinrich von">Schönouw</persName> unnd herr schultheiß Rollenbutz<note type="editorial"> <persName ref="Rollenbutz, Marx">Marx Rollenbutz</persName></note> zů Heinj Schmiden von <placeName ref="LOC_47.53797_8.47014">Stadel</placeName> usß bevelch üwer myner gnedigen [herren] jnn <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> keert<note type="editorial"> sich begeben, gehen, Id. III, 435.</note>, jmme synen begangnen feler fürgehalten unnd ob er nachmalen die herren predicanten für sömliche lüth, wie er sy dann gmeinlich gschulten unnd das sy namlich nit<note type="critical"><q>nit</q> über der Zeile</note> die warheit<note type="critical">Folgt gestrichen: nit</note> wie aber billich predigind, [und was er] von jnen, deßglychen ouch von üch, mynen gnedigen herren, als syner natürlichen oberkeit, dero mandata unnd satzungen unnd sonnderlich ouch dem<note type="critical">Folgt gestrichen: kilchgang</note> gemeinen kilchgang halte, ob er der töüfferyg anhengig syge ald<note type="editorial"> oder</note> nit<note type="critical"><q>ald ob … nit</q> am Rand mit Verweiszeichen</note> unnd von jmme ernstlichen ob jmme sölliche ußgoßne reden jnn wüssen sygen ald nit und wie er söliche gemeint, die warheit zewüßen begert, gibt er daruf dißern bscheid, namlich:</p>
+<p>Das jmme von denselben synen reden dheins<note type="editorial"> keines</note> wegs nützit zewüßen unnd so die vergangen (wie dann er<note type="critical">Folgt gestrichen: ouch</note> nit lougnen nach<note type="editorial"> noch</note> wider die khundtschafft<note type="editorial"> Zeugenaussage, Id. III, 353.</note> syn wölle nach könne) jmme leider uß trunckner wyß, dan der wyn jmme als ein alten man<note type="critical"><q>jme</q> über der Zeile, <q>als ein alten man</q> eingerückt</note> gar bald angwünne<note type="editorial"> beherrschen, an sich binden, Id. XVI, 263.</note>, entfaren und jmme von hertzen leid sygen<note type="critical"><q>und jme … leid sygen</q> am Rand, in der Zeile gestrichen: syn müßten</note>. Dann er die herren predicanten je und allwegen für fromb, eerlich und redlich lüth<note type="critical">Folgt gestrichen: achte und halte</note>, so die luther warheit<note type="critical">Folgt gestrichen: und</note> deß heiligen euangeliums heiter und klaar verkündend und predigind, geachtet und nach halte<note type="critical"><q>geachtet und nach halte</q> am Rand mit Verweiszeichen</note> <note type="critical">nach halte: noch immer dafür halte</note>, unnd von jnen nützit anders dann alles eeren, liebs und gůts wüsse unnd für die leer, so sy<note type="critical">Folgt gestrichen: fürtragend unnd leerind</note> von dem waarhafften wort gottes fürtragend und leerind<note type="critical"><q>fürtragend und leerind</q> am Rand mit Verweiszeichen</note>, jnn den fünf orthen<note type="editorial"> Die fünf katholischen Kantone der Innerschweiz</note> selbs mit großer gfar lybs unnd lebens gestanden, ouch kurtzverschinner<note type="editorial"> kürzlich/jüngst vergangener</note> zyt zů Eng[…]<note type="critical">Endungszeichen nicht eindeutig aufzulösen.</note> gegen dem wirt daselbs wider das bapstumb, sovil jmme gstanden, beschirmpt habe.</p>
+<p>Sovil dann antreffe die oberkeiten, wüße er wol, das dieselbigen von gott dem allmechtigen yngsetzt und geordnet sygind, dann wo das nit, möchte doch dhein einigkeit und grechtigkeit by den mentschen<note type="critical"><q>by den mentschen</q> am Rand mit Verweiszeichen</note> nit erhalten werden. Er begere ouch, wie man dann anderst nie erfaren, <pb n="2" facs="E_I_7_3__Nr__66__S__2_.tif"/> üwer (myner g[nedigen] herren) gůten christenlichen satzungen und ordnungen gehorsamlich und flyßig nachzekommen, wie er sich dann allezyt beflißen. Dann<note type="critical"><q>dann</q> über der Zeile</note> ob<note type="critical">Folgt gestrichen: aber</note> glych wol er vor etwas langen jaren ein mal ald zweig<note type="editorial"> zwei</note> den töüfferischen predigen zůgehört, habe er doch denselbigen nit nachgevolgt unnd mit den töüfferen nützit zeschaffen ghept, sonder allweg den kilchgang unnd<note type="critical"><q>den kilchgang unnd</q> über der Zeile, in der Zeile gestrichen: wie einanderen</note> die predigen bsůcht<note type="critical">Folgt gestrichen: unnd den kilchganng</note> unnd so er dem was er alda ghört nachkommen, were er jnn sölliche sünnd, wie sich aber erscheint, nit gfallen. Bitte deßhalben gott den allmechtigen<note type="critical"><q>gott den allmechtigen</q> am Rand mit Verweiszeichen</note>, üch, myn g[nedig] herren, unnd die herren predicanten<note type="critical"><q>predicanten</q> über der Zeile, in der Zeile gestrichen: gleerten</note> gemeinlich gantz hochlich umb gnad und<note type="critical"><q>gantz hochlich umb gnad und</q> am Rand mit Verweiszeichen</note> jmme dißeren synen begangnen feler unnd sünnd gnedigklichen zůverzychen unnd der gfangenschafft zůerledigen, so welle er sich halten und erzeigen, das man gsechen muͤße, er sich beßeret habe.</p>
+<pb n="3" facs="E_I_7_3__Nr__66__S__3_.tif"/>
+<pb n="4" facs="E_I_7_3__Nr__66__S__4_.tif"/>
+<p rend="margin-top">[Urteil]: Er jst biß uff gnad ehr- und wehrloß erkhendt, soll 200 gulden<note type="critical">In der Vorlage: fl.</note> ze bůß geben allen costen, uff dsach ergangen, abtragen unnd uff nechsten sambßtag für rath gestelt werden, wie dann syn urteil jm rathsbůch baptistalis anno etc. 91 wytloüffig verzeichnet stadt<note type="editorial"> Vgl. Nr. 450.</note>. Actum mitwuchs den 17. d. novembris anno etc. 91 p[raese]nt[ibu]s herr <persName ref="GND_143658468">Großman</persName><bm id="189"/> unnd beid reth.</p>
+</div>
+    </body>
+  </text>
+</TEI>

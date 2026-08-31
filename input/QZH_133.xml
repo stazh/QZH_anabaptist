@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_133</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=694999">StAZH E I
+              7.2, Nr. 90</idno>
+          </msIdentifier>
+          <head>Hans Bleuler an Bürgermeister und Rat von Zürich</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="original"><origDate when="1536-11-11"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1536-11-11"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref
+                    target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html"
+                    >QGTS</ref>, Bd. 5, Nr. 19</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+        <keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+          <term ref="key005438">Täufertum</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" facs="E_I_7_2__Nr__90__S__1_.tif"/>
+        <p>Min gantz undertenig guͤtwillig tienst zuͤfor. Gnedig min heren, uwer schriben betreffend
+          den <persName ref="Schmid, N.">Schmid</persName> ussem <placeName
+            ref="LOC_47.33663_8.94127">Vischental</placeName><note type="editorial">
+            Fischenthal</note> sines ungschikten singens und rimes, och das er den arbatzelgen<note
+            type="editorial"> arbeitselig, elend, verkommen, Id. I, 424.</note> töffern anhengig sin
+          sölly, hab ich als inhaltz verstanden untaruf in das Vischental geriten. Unta altem bruch
+          nach ein herbst gricht gehalten und des Schmitz handel allem minem vermogen nach<note
+            type="critical">In der Vorlage: vormogenach</note> erkenet<note type="editorial">
+            prüfen, urteilen, Id. III, 313.</note>, aber gar nutzid derglichen funden, sidig der
+          nechsten straff alhir min heren inturn jn bekent<note type="editorial"> verurteilt</note>
+          hand und nutrus<note type="editorial"> nicht daraus</note>, biser 10 batzen zebuͤs
+          betzaly. Das hat er alles erstatet. Die puren sintzin och übel zefriden, dass sy gegen
+          uch, minen heren, iemantz verdacht mached, das sy kein töffer under inen wandlen habind.
+          Hieruf, gnedig min heren, hab ich in<note type="critical"><q>in</q> über der Zeile</note>
+          noch nut könen furecht<note type="editorial"> vor Recht</note> stellen. Als aber uwer
+          (miner heren) schriben vermag<note type="editorial"> besagen, beinhalten, Id. IV,
+            111.</note> bis uff uwern witren bescheid, der underfogt und min sun, so ir, min heren,
+          och antzeigend, entschulgentzich och vast<note type="editorial"> sehr, Id. I,
+          1112.</note>, das sy dem Schmid dein gret habind, e sy och alles beschehen, ob gemelter
+          Schmid von uch, minen heren, gestraft sye worden. Und als ir, min heren, mir in uwrem
+          schriben befolen, ze erkenen, ob juncker Erhart Plarer<note type="editorial"> Erhard
+            Blarer von <persName ref="GND_133668576">Wartensee</persName></note> ein sun ze
+            <placeName ref="LOC_46.99019_9.50201">Pfefers</placeName><note type="editorial">
+            Pfäfers, wo das dortige Benediktinerkloster die Grundherrschaft hatte.</note> im kloster
+          haby der meinung, ein munch uss imm zemachen, kan ich nut anders erkenen, den das der knab
+          jm kloster sye. Ob er aber ein munch siny ze werden oder sust da lernen schriben und
+          lesen, da kan ich nutz von erkenen noch vinden. Hiemit bewar uch der almechtig got in
+          sinem heilsamen friden. Datum uff martiny jm xxxvj.</p>
+        <p rend="margin-top"><persName ref="GND_1067271864">Hans Bluwler</persName> uwer altzit
+          guͤtwilliger underteniger diener zuͤ <placeName ref="LOC_47.28333_8.75"
+            >Gruͤningen</placeName></p>
+        <pb n="2" facs="E_I_7_2__Nr__90__S__2_.tif"/>
+        <p rend="margin-top">Den fromen, vesten, ersamen und wisen burgermeister und rat der stat
+            <placeName ref="LOC_47.36667_8.55">Zurich</placeName>, minen gnedigen lieben heren.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

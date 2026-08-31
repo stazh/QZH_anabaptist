@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='../../Ressourcen/Stylesheet.xsl'?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="transcript"/>
+        </respStmt>
+        <respStmt>
+          <persName>Christian Scheidegger. Unter Mitarbeit von Daniela Dettwiler</persName>
+          <resp key="tagging"/>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Staatsarchiv des Kantons Zürich</publisher>
+        <date type="electronic" when="2021-05-01"/>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Quellen zur Geschichte der Täufer in der Schweiz</title>
+        <respStmt>
+          <persName>Tobias Jammerthal</persName>
+          <resp>Herausgeberschaft</resp>
+        </respStmt>
+        <idno>QZH_482</idno>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno source="https://suche.staatsarchiv.djiktzh.ch/detail.aspx?ID=5355215">StAZH E I 7.3, Nr. 29</idno>
+          </msIdentifier>
+          <head>Hans Kleger und Joseph Peter verweigern den Eid und das Gelöbnis</head>
+          <msContents>
+            <msItem>
+              <textLang>Deutsch</textLang>
+              <filiation type="current">Aufzeichnung (Einzelblatt)</filiation>
+              <filiation type="original"><origDate when="1588-09-18"/></filiation>
+            </msItem>
+          </msContents>
+          <history>
+            <origin>
+              <origDate when="1588-09-18"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <head>Edition</head>
+              <bibl>
+                <bibl><ref target="https://qzh.sources-online.org/exist/apps/qzh/literaturverzeichnis.html">QGTS</ref>, Bd. 5, Nr. 368</bibl>
+              </bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p/>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass default="false">
+				<keywords scheme="http://www.ssrq-sds-fds.ch/taxonomie">
+					<term ref="key005438">Täufertum</term>
+				</keywords>
+			</textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div><pb n="1" facs="E_I_7_3__Nr__29__S__1_.tif"/>
+<p>Her burgermeister, gnedig jr min herren, als die zwen gfangnj thoüffer sich begeben hand, anzuloben an eidtsstatt, hab jch sy bschickt und jnen fürghalten<note type="editorial"> mündlich vortragen, vor Augen stellen, Id., II 1234.</note>, was daruf zu erwarten were, so sy diserm loben nit statt thůnd, kan ich sy nüt wyters bringen, dan das sy loben wend, sölichs zu halten, aber nit an eids statt mit vermeldung, sy versechend sich wol, so fehr<note type="editorial"> weit, Id. I, 912.</note> sy es nit hieltind, man mit allem ernst gegen jnen fahren deche<note type="editorial"> tue</note>. Was hierüber üch, mynen gnedigen herren, gfellig<note type="critical">Folgt gestrichen: was</note>, gegen jnen wyters fürzůnemen, wil ich underthenigst verichten.</p>
+<p rend="margin-top">Uwer wyßheit undertheniger diener</p>
+<p><persName ref="Lavater, Hans">Hans Lavater</persName>, oberstknecht.</p>
+<pb n="2" facs="E_I_7_3__Nr__29__S__2_.tif"/>
+<p rend="margin-top">Wenn sy lobend by<note type="critical">Folgt gestrichen: dem</note> gott, der jnn synem wortt gredt, üwere reden söllend ja ja, nein nein syn, söllent sy ledig gelaßen werden, doch jnen heiter anzeigt werden, wover<note type="editorial"> wenn, Id. I, 914.</note> sy söllich loben übertretten, das man zů jnen als gottverloügneten lüthen richten werde etc.</p>
+<p rend="margin-top">Sy hand söllich loben ouch nit thůn wellen, derhalben söllent sy wyter jm <placeName ref="LOC_47.368744_8.542639">Wellenberg</placeName> blyben liggen. Actum 18. sept[embris] a[nn]o etc. 88</p>
+</div>
+    </body>
+  </text>
+</TEI>
