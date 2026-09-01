@@ -5,6 +5,9 @@
 Segmentiert eine lange XML mit <div type="document"> in viele TEI-Dateien.
 
 Verbesserungen in dieser Version (v6 mit Diakritika-Fix):
+- FIX: Das aus <div type="source" date="..."> ermittelte <origDate> wird nun
+  sowohl unter <msContents>/<msItem>/<filiation type="original"> als auch
+  unter <history>/<origin> in den TEI-Header eingefügt.
 - FIX: Sonderzeichen und kombinierende Diakritika (z.B. uͦ, eͣ in "Ruͦdolff", "Beͣchi") 
   zerschneiden die Wörter nicht mehr, sondern werden korrekt in den Namen integriert.
 - FIX: Wenn <persName/> direkt nach einer <note> steht, schaut das Skript nun ZUERST 
@@ -129,6 +132,13 @@ def build_header(head_text: Optional[str],
     msIdentifier = tei_sub(msDesc, "msIdentifier")
     tei_sub(msIdentifier, "idno", ms_idno or "")
     tei_sub(msDesc, "head", head_text or "")
+
+    if iso_date:
+        msContents = tei_sub(msDesc, "msContents")
+        msItem = tei_sub(msContents, "msItem")
+        tei_sub(msItem, "textLang", "Deutsch")
+        filiation = tei_sub(msItem, "filiation", None, **{"type": "original"})
+        tei_sub(filiation, "origDate", None, **{"when": iso_date})
 
     history = tei_sub(msDesc, "history")
     if iso_date:
