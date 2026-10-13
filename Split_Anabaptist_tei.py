@@ -382,7 +382,7 @@ def process(input_xml: Path, outdir: Path, prefix: str = "QZH"):
     tree = etree.parse(str(input_xml), parser)
     divs = tree.xpath('//*[local-name()="div" and @type="document"]')
 
-    for idx, d in enumerate(divs, start=821):
+    for idx, d in enumerate(divs, start=823):
         head_el = d.xpath('.//*[local-name()="head"]')
         if head_el:
             head_copy = deepcopy(head_el[0])
